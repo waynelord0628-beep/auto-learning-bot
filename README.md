@@ -97,8 +97,7 @@ autoLearning/
 ├── dedup.py            ← 題庫去重工具
 ├── run.bat             ← Windows 一鍵啟動
 ├── requirements.txt    ← 套件清單
-├── drivers/
-│   └── chromedriver.exe
+├── drivers/            ← 首次執行時自動建立，無需手動放置
 ├── icons/              ← UI 圖示
 ├── scrapers/           ← 題庫爬蟲（三大來源）
 ├── tools/
