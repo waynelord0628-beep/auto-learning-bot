@@ -58,7 +58,7 @@ def download_best_chromedriver(folder_name="drivers"):
     logger.info(f"偵測到本機 Chrome 版本: {local_version}")
 
     def extract_driver(zip_url):
-        r = requests.get(zip_url, verify=True, timeout=30)
+        r = requests.get(zip_url, verify=False, timeout=30)
         with zipfile.ZipFile(io.BytesIO(r.content)) as z:
             z.extractall(target_folder)
         driver = next(Path(target_folder).rglob("chromedriver.exe"), None)
@@ -75,7 +75,7 @@ def download_best_chromedriver(folder_name="drivers"):
     try:
         known_url = "https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json"
         logger.info(f"正在尋找與 {local_version} 完全匹配的驅動...")
-        resp = requests.get(known_url, verify=True, timeout=15)
+        resp = requests.get(known_url, verify=False, timeout=15)
         versions = resp.json().get("versions", [])
 
         exact = next((v for v in versions if v["version"] == local_version), None)
@@ -108,7 +108,7 @@ def download_best_chromedriver(folder_name="drivers"):
     try:
         json_url = "https://raw.githubusercontent.com/GoogleChromeLabs/chrome-for-testing/refs/heads/gh-pages/latest-patch-versions-per-build-with-downloads.json"
         logger.info(f"正在從 GitHub 獲取匹配 {prefix3} 的驅動資訊...")
-        resp = requests.get(json_url, verify=True, timeout=10)
+        resp = requests.get(json_url, verify=False, timeout=10)
         data = resp.json()
         entry = data["builds"][prefix3]
         url = next(
