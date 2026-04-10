@@ -18,6 +18,8 @@ import logging
 import json
 import sqlite3
 import unicodedata
+import ctypes
+import threading
 from difflib import get_close_matches
 import requests
 import urllib3
@@ -234,6 +236,10 @@ class AdminEfficiencyPilot:
             set()
         )  # course_id → 本次已成功處理（考試通過+問卷完成）
 
+        # 防螢幕關閉
+        self._keep_awake_stop = threading.Event()
+        self._keep_awake_thread = None
+
         if self.log_callback:
             if not any(isinstance(h, UILogHandler) for h in logger.handlers):
                 ui_handler = UILogHandler(self.log_callback)
@@ -298,8 +304,55 @@ class AdminEfficiencyPilot:
         # ⭐ 直接回傳完整配置
         return config_data
 
+    def _start_keep_awake(self):
+        """啟用防螢幕關閉：SetThreadExecutionState + 定時滑鼠微動備援"""
+        # 1. Windows API：告訴系統目前有任務，不要關螢幕
+        try:
+            ES_CONTINUOUS = 0x80000000
+            ES_DISPLAY_REQUIRED = 0x00000002
+            ES_SYSTEM_REQUIRED = 0x00000001
+            ctypes.windll.kernel32.SetThreadExecutionState(
+                ES_CONTINUOUS | ES_DISPLAY_REQUIRED | ES_SYSTEM_REQUIRED
+            )
+            logger.info("🖥️ 防螢幕關閉已啟用（SetThreadExecutionState）")
+        except Exception as e:
+            logger.warning(f"防螢幕 API 呼叫失敗（將改用滑鼠微動備援）: {e}")
+
+        # 2. 備援：每 60 秒微動滑鼠 1 pixel 再移回
+        self._keep_awake_stop.clear()
+
+        def _mouse_nudge():
+            try:
+                import ctypes as _ct
+
+                pt = _ct.wintypes.POINT()
+                while not self._keep_awake_stop.wait(60):
+                    _ct.windll.user32.GetCursorPos(_ct.byref(pt))
+                    _ct.windll.user32.SetCursorPos(pt.x + 1, pt.y)
+                    time.sleep(0.1)
+                    _ct.windll.user32.SetCursorPos(pt.x, pt.y)
+            except Exception:
+                pass
+
+        self._keep_awake_thread = threading.Thread(
+            target=_mouse_nudge, daemon=True, name="KeepAwake"
+        )
+        self._keep_awake_thread.start()
+
+    def _stop_keep_awake(self):
+        """停用防螢幕關閉，還原系統設定"""
+        try:
+            ctypes.windll.kernel32.SetThreadExecutionState(
+                0x80000000
+            )  # ES_CONTINUOUS only
+            logger.info("🖥️ 防螢幕關閉已停用，系統還原正常省電設定")
+        except Exception:
+            pass
+        self._keep_awake_stop.set()
+
     def _cleanup(self):
         """統一清理入口，重複呼叫安全（atexit/signal/finally 都指向這裡）。"""
+        self._stop_keep_awake()
         if self.driver:
             try:
                 self.driver.quit()
@@ -1857,14 +1910,16 @@ class AdminEfficiencyPilot:
 
     def run(self):
         """⭐ 正確位置：在類內"""
+        self._start_keep_awake()
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )
         try:
             if not self.init_engine():
-                input(
-                    f"\n{Fore.RED}❌ 引擎啟動失敗，請檢查驅動程式後按 Enter 退出...{Style.RESET_ALL}"
-                )
+                if sys.stdin:
+                    input(
+                        f"\n{Fore.RED}❌ 引擎啟動失敗，請檢查驅動程式後按 Enter 退出...{Style.RESET_ALL}"
+                    )
                 return
 
             if not self.login():
@@ -1873,7 +1928,8 @@ class AdminEfficiencyPilot:
                     msg = "❌ 登入失敗！請確認『我的E政府』帳密正確，或是否出現驗證碼。"
                 else:
                     msg = "❌ 登入失敗！請確認 eCPA 帳密正確且無驗證碼要求。"
-                input(f"\n{Fore.RED}{msg} 按 Enter 退出...{Style.RESET_ALL}")
+                if sys.stdin:
+                    input(f"\n{Fore.RED}{msg} 按 Enter 退出...{Style.RESET_ALL}")
                 return
 
             while self.running:
@@ -2049,7 +2105,8 @@ class AdminEfficiencyPilot:
                         self.safe_sleep(10)
 
             logger.info(f"🏆 {Fore.GREEN}所有任務圓滿達成！{Style.RESET_ALL}")
-            input(f"\n{Fore.GREEN}✓ 程式執行完畢，按 Enter 關閉。{Style.RESET_ALL}")
+            if sys.stdin:
+                input(f"\n{Fore.GREEN}✓ 程式執行完畢，按 Enter 關閉。{Style.RESET_ALL}")
 
         except KeyboardInterrupt:
             print(
@@ -2058,9 +2115,10 @@ class AdminEfficiencyPilot:
 
         except Exception as e:
             logger.critical(f"🔥 程式發生致命錯誤: {e}")
-            input(
-                f"\n{Fore.RED}❌ 發生嚴重錯誤，請查看 debug.log 並按 Enter 退出...{Style.RESET_ALL}"
-            )
+            if sys.stdin:
+                input(
+                    f"\n{Fore.RED}❌ 發生嚴重錯誤，請查看 debug.log 並按 Enter 退出...{Style.RESET_ALL}"
+                )
         finally:
             self._cleanup()
 
