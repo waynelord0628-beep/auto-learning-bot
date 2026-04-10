@@ -1714,7 +1714,7 @@ class AdminEfficiencyPilot:
                 f"year={current_year}&keyword=&course_type=single&page=1&orderby=&sort="
             )
             resp = self.http_session.post(
-                self.api_url, data=payload, verify=True, timeout=10
+                self.api_url, data=payload, verify=False, timeout=10
             )
             data = resp.json().get("data", [])
             for c in data:
@@ -1986,7 +1986,7 @@ class AdminEfficiencyPilot:
                     payload = f"year={cur_y}&keyword=&course_type=single&page=1&orderby=&sort="
                     try:
                         r = self.http_session.post(
-                            self.api_url, data=payload, verify=True, timeout=10
+                            self.api_url, data=payload, verify=False, timeout=10
                         )
                         courses = r.json().get("data", [])
                     except Exception as e:
