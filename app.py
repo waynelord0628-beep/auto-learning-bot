@@ -737,7 +737,19 @@ class AdminEfficiencyPilot:
 
             self.driver.switch_to.window(exam_window)
             logger.info("   📝 已切換至考試視窗")
-            time.sleep(1)
+
+            # 等待考試頁面載入完成（最多 15 秒）
+            try:
+                WebDriverWait(self.driver, 15).until(
+                    lambda d: d.execute_script(
+                        'var inputs = document.querySelectorAll(\'input[type="button"], input[type="submit"]\');'
+                        "for(var i=0;i<inputs.length;i++){var v=inputs[i].value||''; if(v.indexOf('\u958b\u59cb')!==-1||v.indexOf('\u4f5c\u7b54')!==-1) return true;}"
+                        "return inputs.length > 0;"
+                    )
+                )
+            except Exception:
+                # timeout 了，繼續往下嘗試（舊版 fallback）
+                pass
 
             # 記錄 exam_start URL（含 course_id+attempt+token）供步驟10推算 view_result URL
             exam_start_url = self.driver.current_url
