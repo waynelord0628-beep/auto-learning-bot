@@ -1,5 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
-### 數位研習輔助方案
+
+**版本 V2.0.0** ｜ 數位研習輔助方案
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -8,9 +9,9 @@
 
 ---
 
-## 📋 目錄
+## 目錄
 
-- [這個工具是做什麼的？](#這個工具是做什麼的)
+- [功能說明](#功能說明)
 - [執行前的準備](#執行前的準備)
 - [安裝步驟（第一次使用）](#安裝步驟第一次使用)
 - [每次執行的方式](#每次執行的方式)
@@ -21,15 +22,18 @@
 
 ---
 
-## 這個工具是做什麼的？
+## 功能說明
 
 本工具會自動開啟 Chrome 瀏覽器，登入「公務人員 e 等學習網」，並逐一完成各課程的研習時數，全程無需人工介入。
 
-**主要功能：**
-- 自動登入 eCPA 人事服務網帳號
-- 自動瀏覽所有未達標課程，直到時數足夠
-- 即時顯示每門課的研習進度
-- 程式結束後自動清理瀏覽器，不影響您原本開著的 Chrome
+| 功能 | 說明 |
+|------|------|
+| 自動登入 | 支援 eCPA 人事服務網帳號 |
+| 自動作答 | 內建 **87,707 題**題庫（三大來源），命中率 90%+ |
+| 自動研習 | 瀏覽所有未達標課程直到時數足夠 |
+| 即時進度 | 顯示每門課的研習百分比與剩餘時間 |
+| 安全清理 | 結束後自動清理瀏覽器，不影響原本開著的 Chrome |
+| 自動恢復 | Chrome 意外關閉時，自動重建連線繼續執行 |
 
 ---
 
@@ -45,10 +49,10 @@
 python --version
 ```
 
-如果出現 `Python 3.x.x`，代表已安裝。  
+如果出現 `Python 3.x.x`，代表已安裝。
 如果出現錯誤，請前往 [python.org](https://www.python.org/downloads/) 下載安裝（版本需為 3.11 以上）。
 
-> ⚠️ 安裝 Python 時，記得勾選「**Add Python to PATH**」選項！
+> 安裝 Python 時，記得勾選「**Add Python to PATH**」選項！
 
 ### 2. 確認有沒有安裝 Google Chrome
 
@@ -87,12 +91,22 @@ D:\autoLearning\
 ```
 autoLearning/
 ├── app.py              ← 主程式
+├── ui.py               ← 圖形介面
+├── config.json         ← 帳號與設定
+├── questions.db        ← 題庫（87,707 題）
+├── dedup.py            ← 題庫去重工具
 ├── run.bat             ← Windows 一鍵啟動
-├── requirements.txt    ← 套件清單（pip 安裝用）
+├── requirements.txt    ← 套件清單
+├── drivers/
+│   └── chromedriver.exe
+├── icons/              ← UI 圖示
+├── scrapers/           ← 題庫爬蟲（三大來源）
+├── tools/
+│   └── run_full_test.py
 ├── utils/
 │   ├── helpers.py
 │   └── webdriver_mgr.py
-└── README.md           ← 本說明文件
+└── README.md
 ```
 
 ### 步驟二：開啟命令提示字元並切換到資料夾
@@ -109,22 +123,13 @@ cd D:\autoLearning
 uv run app.py
 ```
 
-**第一次執行**時，程式會詢問您的帳號密碼：
-
-```
-[首次設定] 偵測到尚未建立設定檔，請依照提示輸入資訊：
-▶ 請輸入人事服務網 eCPA 帳號: （輸入您的身分證字號）
-▶ 請輸入人事服務網 eCPA 密碼: （輸入您的密碼）
-▶ 是否使用無介面模式執行? (Y/n): （直接按 Enter 選預設的 Y）
-```
-
-輸入完成後，程式會自動建立 `config.json` 設定檔，**之後執行不需要再輸入**。
+程式啟動後會開啟圖形介面，依提示輸入 eCPA 帳號密碼即可。
 
 ---
 
 ## 每次執行的方式
 
-有兩種執行方式，**擇一使用即可**：
+有三種執行方式，**擇一使用即可**：
 
 ### 方式一：雙擊執行（最簡單）
 
@@ -155,19 +160,19 @@ python app.py
 
 ```
 ============================================================
-【行政效能領航員 - 數位研習輔助方案 Vx.x.x】
+【行政效能領航員 - 數位研習輔助方案 V2.0.0】
 ============================================================
-[INFO] ✅ 無殘留 driver 行程。
+[INFO] 無殘留 driver 行程。
 [INFO] 偵測到本機 Chrome 版本: 1xx.0.x.x
 [INFO] 正在下載驅動程式...          ← 自動下載對應版本的 ChromeDriver
-[INFO] 🚀 正在啟動輔助引擎...
-[INFO] ✅ 引擎就緒
-[INFO] 🔑 正在對接 eCPA 登入系統...
-[INFO] ✅ 系統身分驗證成功！
-[INFO] 📖 [1/5] 正在協助研習：課程名稱
-[INFO]    📊 研習進度：00:15:00 / 00:30:00 ████████░░░░  ← 即時進度
-[INFO]    ✨ 時數已達標！
-[INFO] 🏆 任務圓滿達成！
+[INFO] 正在啟動輔助引擎...
+[INFO] 引擎就緒
+[INFO] 正在對接 eCPA 登入系統...
+[INFO] 系統身分驗證成功！
+[INFO] [1/5] 正在協助研習：課程名稱
+[INFO]    研習進度：00:15:00 / 00:30:00 ████████░░░░  ← 即時進度
+[INFO]    時數已達標！
+[INFO] 任務圓滿達成！
 ```
 
 ### 中途停止
@@ -178,18 +183,37 @@ python app.py
 
 ## 設定檔說明
 
-第一次執行後，資料夾內會出現 `config.json`，可以用記事本開啟修改：
+開啟 `config.json`，可以用記事本修改：
 
 ```json
 {
-    "account": "A123456789",         // eCPA 帳號（身分證字號）
-    "password": "your_password",     // eCPA 密碼
-    "headless": true,                // true = 背景執行不開視窗；false = 看得到瀏覽器視窗
-    "target_percentage": 0.5,        // 每門課要完成的比例（0.5 = 50%，即法定時數門檻）
-    "residence_time": 75,            // 每個單元停留的秒數（建議不要低於 60）
-    "blacklist": ["環境", "勘誤", "前言", "新手", "簡介"]  // 自動跳過包含這些關鍵字的單元
+    "accounts": [
+        {
+            "name": "王小明",
+            "login_type": "eCPA",
+            "account": "A123456789",
+            "password": "your_password"
+        }
+    ],
+    "settings": {
+        "headless": false,
+        "residence_time": 75,
+        "target_percentage": 1.05
+    }
 }
 ```
+
+**欄位說明：**
+
+| 欄位 | 說明 |
+|------|------|
+| `name` | 顯示名稱（自訂） |
+| `login_type` | 登入類型，固定填 `eCPA` |
+| `account` | eCPA 帳號（身分證字號） |
+| `password` | eCPA 密碼 |
+| `headless` | `false` = 看得到瀏覽器視窗；`true` = 背景執行不開視窗 |
+| `residence_time` | 每個單元停留的秒數（建議不要低於 60） |
+| `target_percentage` | 每門課要完成的比例（`1.0` = 100%，`1.05` = 超過門檻一點點確保通過） |
 
 **常用調整：**
 
@@ -199,6 +223,7 @@ python app.py
 | 想完成 100% 時數 | `"target_percentage": 1.0` |
 | 單元停留太短被系統偵測 | 調高 `"residence_time"` 到 90 或 120 |
 | 密碼變更後 | 直接修改 `"password"` 欄位 |
+| 多帳號同時執行 | 在 `accounts` 陣列新增多筆帳號 |
 
 ---
 
@@ -222,46 +247,57 @@ uv run pyinstaller --onefile --name "行政效能領航員" --collect-all seleni
 
 ### 步驟三：發佈給同仁
 
-只需將 `dist/` 資料夾內的 **`行政效能領航員.exe`** 單一檔案傳給同仁即可。
+將 `dist/` 資料夾內的 **`行政效能領航員.exe`** 以及 **`questions.db`** 一起傳給同仁。
 
 同仁第一次執行時，程式會詢問帳號密碼，並在 `.exe` 同一個資料夾建立 `config.json` 和 `drivers/` 資料夾。
 
-> ⚠️ **注意**：同仁的電腦仍需安裝 Google Chrome，程式才能正常運作。
+> 同仁的電腦仍需安裝 Google Chrome，程式才能正常運作。
 
 ---
 
 ## 常見問題 FAQ
 
-### ❓ 出現「引擎初始化失敗」怎麼辦？
+### 出現「引擎初始化失敗」怎麼辦？
 
 請先確認：
 1. 電腦有安裝 Google Chrome
 2. 刪除專案資料夾內的 `drivers/` 資料夾，重新執行
 
-### ❓ 登入失敗怎麼辦？
+### 登入失敗怎麼辦？
 
 1. 用瀏覽器手動登入 eCPA 確認帳號密碼正確
 2. 開啟 `config.json`，檢查帳號密碼是否正確
-3. 若密碼有特殊符號，確認 JSON 格式正確（特殊符號前加 `\`，例如 `"pa\$\$word"`）
+3. 若密碼有特殊符號，確認 JSON 格式正確
 
-### ❓ 程式跑完但時數沒有更新？
+### 程式跑完但時數沒有更新？
 
 e 等學習網的時數有時需要數分鐘才會同步，稍候重新整理頁面確認。
 
-### ❓ 想在背景執行不顯示視窗？
+### 想在背景執行不顯示視窗？
 
-確認 `config.json` 中 `"headless": true`（預設即為 true）。
+確認 `config.json` 中 `"headless": true`。
 
-### ❓ 執行中 Chrome 視窗一直在前面怎麼辦？
-
-將 `config.json` 中的 `"headless"` 改為 `true`，重新執行即可完全背景作業。
-
-### ❓ 出現「No module named ...」錯誤？
+### 出現「No module named ...」錯誤？
 
 執行以下指令重新安裝套件：
 
 ```cmd
 uv sync
+```
+
+### Chrome 被關掉後程式卡住怎麼辦？
+
+V2.0.0 已內建自動偵測與重連機制，程式會自動重建 Chrome 連線並繼續執行，無需手動重啟。
+
+### 題庫沒有這題的答案怎麼辦？
+
+程式會略過不確定的題目，不會亂作答。題庫持續由三大來源（pixnet、peigogo、rodiyer）自動更新，如需手動更新題庫，執行：
+
+```cmd
+python scrapers/pixnet_to_sqlite.py
+python scrapers/peigogo_to_sqlite.py
+python scrapers/rodiyer_full_scraper.py
+python dedup.py
 ```
 
 ---
@@ -270,7 +306,8 @@ uv sync
 
 | 版本 | 更新內容 |
 |------|----------|
-| V1.4.5 | 修正 selenium 的 options.add_argument("--headless=old") 才能正常(=new不行) |
+| **V2.0.0** | 新增圖形介面（UI）；內建 87,707 題三大來源題庫；新增自動作答功能（命中率 90%+）；Chrome 意外關閉後自動重連；支援多帳號設定 |
+| V1.4.5 | 修正 selenium headless 模式參數問題 |
 | V1.4.4 | 新增程式結束時自動清理 Chrome 行程；修正打包後路徑問題 |
 | V1.4.3 | 新增精確 ChromeDriver 版本匹配；修正 exe 路徑問題 |
 | V1.4.2 | 重構為模組化架構，提升穩定性 |
@@ -278,6 +315,6 @@ uv sync
 
 ---
 
-## ⚠️ 使用須知
+## 使用須知
 
 本工具僅作為公務同仁研習管理之輔助方案。使用者應於合適之時間與環境下運用，並遵守目標平台之使用規範。
