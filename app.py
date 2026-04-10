@@ -40,6 +40,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import UnexpectedAlertPresentException
 from colorama import Fore, Style, init
 
 from utils.helpers import get_logger, to_sec, sec_to_str, draw_bar
@@ -1893,9 +1894,44 @@ class AdminEfficiencyPilot:
             self.sync_session()
             return "SUCCESS"
 
+        except UnexpectedAlertPresentException as e:
+            # 偵測「閒置過久被登出」Alert
+            alert_text = ""
+            try:
+                alert = self.driver.switch_to.alert
+                alert_text = alert.text
+                alert.accept()
+                logger.warning(f"⚠️ 偵測到 Alert：{alert_text}")
+            except Exception:
+                alert_text = str(e)
+            if "閒置" in alert_text or "重新登入" in alert_text or "登出" in alert_text:
+                logger.warning("🔄 帳號閒置被登出，嘗試重新登入後繼續當前課程...")
+                try:
+                    self.driver.get(self.stat_url)
+                except Exception:
+                    pass
+                time.sleep(3)
+                if self.login():
+                    logger.info("✅ 重新登入成功，將重試當前課程。")
+                    return "RELOGIN"
+                else:
+                    logger.error("❌ 重新登入失敗，跳過當前課程。")
+                    return "ERROR"
+            else:
+                logger.error(f"   ❌ 研習異常（Alert）: {alert_text}", exc_info=True)
+                try:
+                    self.driver.get(self.stat_url)
+                except Exception:
+                    pass
+                time.sleep(5)
+                return "ERROR"
+
         except Exception as e:
             logger.error(f"   ❌ 研習異常: {e}", exc_info=True)
-            self.driver.get(self.stat_url)
+            try:
+                self.driver.get(self.stat_url)
+            except Exception:
+                pass
             time.sleep(5)
             return "ERROR"
 
@@ -2066,6 +2102,12 @@ class AdminEfficiencyPilot:
                         if res == "STOP":
                             logger.info("🛑 使用者已停止程式")
                             break
+
+                        if res == "RELOGIN":
+                            # 閒置登出後已重新登入，重試當前課程（退回 index）
+                            logger.info("🔄 閒置登出重新登入成功，重試當前課程...")
+                            self.current_idx -= 1
+                            continue
 
                         if res == "STALLED":
                             logger.warning("🚀 偵測到停滯，正在重新啟動輔助引擎...")
