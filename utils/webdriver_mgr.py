@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import sys
+import subprocess
 import requests, zipfile, io, os, platform, shutil
 from pathlib import Path
 import urllib3
@@ -13,36 +14,68 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def get_local_chrome_version():
-    """透過 Windows 登錄檔獲取 Chrome 版本（僅 Windows）"""
-    if sys.platform != "win32":
-        return "120.0.0.0"
-    reg_path = r"SOFTWARE\Google\Chrome\BLBeacon"
-    try:
-        # 先嘗試 HKEY_CURRENT_USER
-        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, reg_path) as key:
-            return winreg.QueryValueEx(key, "version")[0]
-    except OSError:
+    """獲取本機 Chrome 版本（跨平台）"""
+    if sys.platform == "win32":
+        reg_path = r"SOFTWARE\Google\Chrome\BLBeacon"
         try:
-            # 再嘗試 HKEY_LOCAL_MACHINE
-            with winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, reg_path) as key:
+            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, reg_path) as key:
                 return winreg.QueryValueEx(key, "version")[0]
         except OSError:
-            return "120.0.0.0"
+            try:
+                with winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, reg_path) as key:
+                    return winreg.QueryValueEx(key, "version")[0]
+            except OSError:
+                return "120.0.0.0"
+
+    elif sys.platform == "darwin":
+        plist = "/Applications/Google Chrome.app/Contents/Info.plist"
+        if os.path.exists(plist):
+            try:
+                result = subprocess.run(
+                    ["defaults", "read", plist, "CFBundleShortVersionString"],
+                    capture_output=True,
+                    text=True,
+                )
+                if result.returncode == 0:
+                    return result.stdout.strip()
+            except Exception:
+                pass
+        return "120.0.0.0"
+
+    else:
+        return "120.0.0.0"
+
+
+def _get_platform_string():
+    """取得 ChromeDriver 下載平台字串"""
+    if sys.platform == "win32":
+        return "win64"
+    elif sys.platform == "darwin":
+        if platform.machine() == "arm64":
+            return "mac-arm64"
+        return "mac-x64"
+    else:
+        return "linux64"
+
+
+def _get_driver_filename():
+    """取得 ChromeDriver 執行檔名稱"""
+    return "chromedriver.exe" if sys.platform == "win32" else "chromedriver"
 
 
 def download_best_chromedriver(folder_name="drivers"):
-    """自動下載並匹配 Windows 版 ChromeDriver，優先找完全相同版本"""
-    # 打包成 exe 時用 exe 所在目錄；一般執行時用腳本所在目錄的上層
-    import sys
-
+    """自動下載並匹配當前平台 ChromeDriver，優先找完全相同版本"""
     if getattr(sys, "frozen", False):
-        base_path = os.path.dirname(sys.executable)  # exe 所在目錄
+        base_path = os.path.dirname(sys.executable)
     else:
         base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     target_folder = os.path.join(base_path, folder_name)
 
+    driver_filename = _get_driver_filename()
+    platform_string = _get_platform_string()
+
     try:
-        driver_file = os.path.join(target_folder, "chromedriver.exe")
+        driver_file = os.path.join(target_folder, driver_filename)
 
         if os.path.exists(driver_file):
             logger.info(f"已存在 driver，直接使用: {driver_file}")
@@ -55,18 +88,22 @@ def download_best_chromedriver(folder_name="drivers"):
     local_version = get_local_chrome_version()
     parts = local_version.split(".")
     prefix3 = ".".join(parts[:3])
-    logger.info(f"偵測到本機 Chrome 版本: {local_version}")
+    logger.info(f"偵測到本機 Chrome 版本: {local_version}，平台: {platform_string}")
 
     def extract_driver(zip_url):
         r = requests.get(zip_url, verify=False, timeout=30)
         with zipfile.ZipFile(io.BytesIO(r.content)) as z:
             z.extractall(target_folder)
-        driver = next(Path(target_folder).rglob("chromedriver.exe"), None)
+        driver = next(Path(target_folder).rglob(driver_filename), None)
         if not driver:
-            raise RuntimeError("解壓縮後找不到 chromedriver.exe")
+            raise RuntimeError(f"解壓縮後找不到 {driver_filename}")
 
-        final_path = os.path.join(target_folder, "chromedriver.exe")
+        final_path = os.path.join(target_folder, driver_filename)
         shutil.move(str(driver), final_path)
+
+        # macOS / Linux 需要設定執行權限
+        if sys.platform != "win32":
+            os.chmod(final_path, 0o755)
 
         logger.info(f"驅動配置完成: {final_path}")
         return final_path
@@ -94,7 +131,7 @@ def download_best_chromedriver(folder_name="drivers"):
                 (
                     d["url"]
                     for d in exact["downloads"].get("chromedriver", [])
-                    if d["platform"] == "win64"
+                    if d["platform"] == platform_string
                 ),
                 None,
             )
@@ -114,13 +151,13 @@ def download_best_chromedriver(folder_name="drivers"):
         url = next(
             d["url"]
             for d in entry["downloads"]["chromedriver"]
-            if d["platform"] == "win64"
+            if d["platform"] == platform_string
         )
         logger.info(f"正在下載驅動程式: {url}")
         return extract_driver(url)
     except Exception as e:
         logger.error(f"Driver 下載或配置故障: {e}")
-        fallback = os.path.join(target_folder, "chromedriver.exe")
+        fallback = os.path.join(target_folder, driver_filename)
         if os.path.exists(fallback):
             return fallback
         raise e
