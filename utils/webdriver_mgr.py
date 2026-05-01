@@ -41,6 +41,9 @@ def download_best_chromedriver(folder_name="drivers"):
         base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     target_folder = os.path.join(base_path, folder_name)
 
+    local_version = get_local_chrome_version()
+    parts = local_version.split(".")
+
     try:
         driver_file = os.path.join(target_folder, "chromedriver.exe")
         version_file = os.path.join(target_folder, "driver_version.txt")
@@ -67,8 +70,6 @@ def download_best_chromedriver(folder_name="drivers"):
     except Exception as e:
         logger.warning(f"清理驅動目錄時發生警告: {e}")
 
-    local_version = get_local_chrome_version()
-    parts = local_version.split(".")
     prefix3 = ".".join(parts[:3])
     logger.info(f"偵測到本機 Chrome 版本: {local_version}")
 

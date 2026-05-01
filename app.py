@@ -2332,6 +2332,7 @@ class AdminEfficiencyPilot:
 
                     # ── 第一步：先對時數已達標但考試/問卷未完成的課程執行 ──
                     # （初始使用者全部 pending 時，completed_hours 為空，此段直接跳過）
+                    all_exam_done = True
                     if completed_hours:
                         all_exam_done = True
                         for c in completed_hours:

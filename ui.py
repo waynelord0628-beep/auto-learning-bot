@@ -656,7 +656,10 @@ class EntryPage(QWidget):
             return data
 
         with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            content = f.read().strip()
+            if not content:
+                return {"accounts": [], "settings": {}}
+            return json.loads(content)
 
     def _save_config(self) -> bool:
         """統一的設定儲存方法，含錯誤處理"""
@@ -2037,14 +2040,12 @@ class MainWindow(QWidget):
             btn.setToolTip(f"有新版本 {latest}！點此查看")
             btn.setStyleSheet("""
                 QPushButton {
-                    background: rgba(255,80,80,0.85);
-                    color: #fff;
+                    background: transparent;
                     border: none;
-                    font-size: 15px;
-                    border-radius: 14px;
+                    border-radius: 26px;
                 }
                 QPushButton:hover {
-                    background: rgba(255,50,50,0.95);
+                    background: rgba(0,0,0,0.12);
                 }
             """)
 
@@ -2091,7 +2092,7 @@ class MainWindow(QWidget):
         cur_ver = getattr(cur, "version", "") if cur else _AEP.VERSION
         if cur_ver:
             cur_label = QLabel(f"目前版本：{cur_ver}")
-            cur_label.setStyleSheet("font-size: 12px; color: #7f8c8d; margin-top: -6px;")
+            cur_label.setStyleSheet("font-size: 12px; color: #7f8c8d; margin-top: 2px;")
             content.addWidget(cur_label)
 
         # 分隔線
