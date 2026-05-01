@@ -1231,6 +1231,18 @@ class SettingsPanel(QFrame):
 
 
 # =========================
+# 版本更新通知 Signal
+# =========================
+from PySide6.QtCore import QObject
+
+class UpdateSignal(QObject):
+    notify = Signal(str, str, str)  # (latest_version, changelog, download_url)
+
+    def emit(self, version, changelog, url):
+        self.notify.emit(version, changelog, url)
+
+
+# =========================
 # 主執行頁面
 # =========================
 class ImmersivePage(QWidget):
@@ -1548,6 +1560,9 @@ class MainWindow(QWidget):
             config_override=full_config, log_callback=self.immersive.append_text
         )
 
+        # 版本更新通知
+        self.pilot.update_signal = UpdateSignal()
+        self.pilot.update_signal.notify.connect(self._on_update_available)
         self.pilot.running = True
 
         self.thread = threading.Thread(target=self.pilot.run, daemon=True)
@@ -1559,6 +1574,89 @@ class MainWindow(QWidget):
         self.immersive.start(account_data["name"])
         self.setFixedSize(self.size())
         self.immersive._init_position()
+
+    def _on_update_available(self, latest: str, changelog: str, url: str):
+        """在主執行緒顯示更新提示視窗"""
+        from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
+        from PySide6.QtGui import QDesktopServices
+        from PySide6.QtCore import QUrl
+
+        dialog = QDialog(self)
+        dialog.setWindowTitle("發現新版本！")
+        dialog.setFixedWidth(400)
+        dialog.setStyleSheet("""
+            QDialog { background: #1a1a2e; color: #e0e0e0; }
+            QLabel { color: #e0e0e0; }
+        """)
+
+        layout = QVBoxLayout(dialog)
+        layout.setSpacing(12)
+        layout.setContentsMargins(24, 24, 24, 20)
+
+        # 標題
+        title = QLabel(f"🆕  新版本 {latest} 已發布")
+        title.setStyleSheet("font-size: 16px; font-weight: bold; color: #4fc3f7;")
+        layout.addWidget(title)
+
+        # 當前版本
+        from app import AdminEfficiencyPilot
+        cur = getattr(self.pilot, "version", "")
+        if cur:
+            cur_label = QLabel(f"目前版本：{cur}")
+            cur_label.setStyleSheet("font-size: 12px; color: #888;")
+            layout.addWidget(cur_label)
+
+        # 分隔線
+        sep = QFrame()
+        sep.setFrameShape(QFrame.HLine)
+        sep.setStyleSheet("color: #333;")
+        layout.addWidget(sep)
+
+        # Changelog
+        if changelog:
+            change_title = QLabel("本次更新內容：")
+            change_title.setStyleSheet("font-size: 13px; font-weight: bold; margin-top: 4px;")
+            layout.addWidget(change_title)
+
+            change_body = QLabel(changelog)
+            change_body.setStyleSheet("font-size: 12px; color: #ccc; line-height: 1.6;")
+            change_body.setWordWrap(True)
+            layout.addWidget(change_body)
+
+        # 提示文字
+        hint = QLabel("請前往 Google Drive 下載最新版本並替換舊的 .exe 檔案。")
+        hint.setStyleSheet("font-size: 11px; color: #aaa; margin-top: 6px;")
+        hint.setWordWrap(True)
+        layout.addWidget(hint)
+
+        # 按鈕列
+        btn_row = QHBoxLayout()
+        btn_download = QPushButton("前往下載")
+        btn_download.setStyleSheet("""
+            QPushButton {
+                background: #4fc3f7; color: #000; font-weight: bold;
+                border-radius: 6px; padding: 8px 20px; font-size: 13px;
+            }
+            QPushButton:hover { background: #81d4fa; }
+        """)
+        btn_download.clicked.connect(lambda: QDesktopServices.openUrl(QUrl(url)))
+        btn_download.clicked.connect(dialog.accept)
+
+        btn_later = QPushButton("稍後再說")
+        btn_later.setStyleSheet("""
+            QPushButton {
+                background: #333; color: #aaa;
+                border-radius: 6px; padding: 8px 20px; font-size: 13px;
+            }
+            QPushButton:hover { background: #444; }
+        """)
+        btn_later.clicked.connect(dialog.reject)
+
+        btn_row.addWidget(btn_later)
+        btn_row.addWidget(btn_download)
+        layout.addLayout(btn_row)
+
+        dialog.exec()
 
     def go_entry(self):
         """⭐ 修改版：立即返回入口，後臺清理"""
