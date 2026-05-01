@@ -75,14 +75,12 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.0.3"
+    VERSION = "V2.0.4"
     CHANGELOG = (
-        "• 存設定時立即驗證 AI API Key 是否有效\n"
-        "• 啟動時顯示 AI 補答啟用狀態\n"
-        "• 修正版本檢查抓到 404 誤觸更新提示\n"
-        "• 啟動時立即偵測新版本，不等進入課程\n"
-        "• 左下角顯示版本號\n"
-        "• 設定面板加入 AI API Key 欄位"
+        "• 新增多種 AI 模型支援（OpenAI、Gemini、Claude、Groq 及自訂）\n"
+        "• 修復無法新增帳號的問題\n"
+        "• 設定頁面 UI 全面優化，操作更直覺\n"
+        "• AI 金鑰現在依服務分開儲存，切換更方便"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -482,16 +480,16 @@ class AdminEfficiencyPilot:
 
     def _ai_find_answer(self, question_text: str, option_texts: list):
         """題庫找不到答案時，呼叫 AI API 協助選答。
-        支援任何 OpenAI-compatible API（OpenAI、DeepSeek、本地 Ollama 等）。
-        config.json 需設定：ai_api_key、ai_base_url（選填）、ai_model（選填）。
-        回傳符合選項文字的字串，或 None（API 未設定 / 呼叫失敗）。
+        支援 OpenAI / Gemini / Groq（Bearer）及 Claude（x-api-key）。
         """
-        api_key = self.config.get("ai_api_key", "")
+        provider = self.config.get("ai_provider", "OpenAI")
+        # 優先從 ai_keys dict 讀取對應服務的 key，相容舊格式 ai_api_key
+        ai_keys = self.config.get("ai_keys", {})
+        api_key = ai_keys.get(provider) or self.config.get("ai_api_key", "")
         if not api_key or not option_texts:
             return None
-
         base_url = self.config.get("ai_base_url", "https://api.openai.com/v1").rstrip("/")
-        model = self.config.get("ai_model", "gpt-4o-mini")
+        model    = self.config.get("ai_model", "gpt-4o-mini")
 
         options_str = "\n".join(
             [f"{i + 1}. {opt}" for i, opt in enumerate(option_texts) if opt]
@@ -505,23 +503,45 @@ class AdminEfficiencyPilot:
         )
 
         try:
-            resp = requests.post(
-                f"{base_url}/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model,
-                    "messages": [{"role": "user", "content": prompt}],
-                    "max_tokens": 150,
-                    "temperature": 0,
-                },
-                timeout=20,
-                verify=False,
-            )
-            resp.raise_for_status()
-            answer = resp.json()["choices"][0]["message"]["content"].strip()
+            if provider == "Claude":
+                # Claude 使用 /messages endpoint 和 x-api-key header
+                resp = requests.post(
+                    f"{base_url}/messages",
+                    headers={
+                        "x-api-key":        api_key,
+                        "anthropic-version": "2023-06-01",
+                        "Content-Type":      "application/json",
+                    },
+                    json={
+                        "model":      model,
+                        "max_tokens": 150,
+                        "messages":   [{"role": "user", "content": prompt}],
+                    },
+                    timeout=20,
+                    verify=False,
+                )
+                resp.raise_for_status()
+                answer = resp.json()["content"][0]["text"].strip()
+            else:
+                # OpenAI-compatible（OpenAI / Gemini / Groq / 自訂）
+                resp = requests.post(
+                    f"{base_url}/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {api_key}",
+                        "Content-Type":  "application/json",
+                    },
+                    json={
+                        "model":       model,
+                        "messages":    [{"role": "user", "content": prompt}],
+                        "max_tokens":  150,
+                        "temperature": 0,
+                    },
+                    timeout=20,
+                    verify=False,
+                )
+                resp.raise_for_status()
+                answer = resp.json()["choices"][0]["message"]["content"].strip()
+
             logger.info(f"   🤖 AI 補充答案：{answer!r}")
             return answer
         except Exception as e:
@@ -2163,7 +2183,9 @@ class AdminEfficiencyPilot:
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )
         # AI API 狀態提示
-        ai_key = self.config.get("ai_api_key", "")
+        provider = self.config.get("ai_provider", "OpenAI")
+        ai_keys = self.config.get("ai_keys", {})
+        ai_key = ai_keys.get(provider) or self.config.get("ai_api_key", "")
         if ai_key:
             base_url = self.config.get("ai_base_url", "https://api.openai.com/v1")
             model = self.config.get("ai_model", "gpt-4o-mini")
