@@ -1613,21 +1613,39 @@ class MainWindow(QWidget):
         current_version = AdminEfficiencyPilot.VERSION
         current_changelog = AdminEfficiencyPilot.CHANGELOG
 
-        _update_signal = UpdateSignal()
-        _update_signal.notify.connect(self._on_update_available)
+        self._update_signal = UpdateSignal()
+        self._update_signal.notify.connect(self._on_update_available)
+        _update_signal = self._update_signal
+
+        import sys as _sys, os as _os
+        _log_path = _os.path.join(_os.path.dirname(_sys.executable if getattr(_sys, "frozen", False) else _os.path.abspath(__file__)), "update_debug.log")
+
+        def _dbg(msg):
+            try:
+                with open(_log_path, "a", encoding="utf-8") as f:
+                    f.write(msg + "\n")
+            except Exception:
+                pass
 
         def _check():
+            _dbg("thread started")
             try:
                 resp = _req.get(VERSION_URL, timeout=5)
+                _dbg(f"status={resp.status_code} body={resp.text.strip()!r}")
                 if resp.status_code != 200:
                     return
                 latest = resp.text.strip()
                 if not latest or not latest.startswith("V"):
+                    _dbg(f"格式不符：{latest!r}")
                     return
+                _dbg(f"latest={latest!r} current={current_version!r}")
                 if latest != current_version:
+                    _dbg("emitting signal")
                     _update_signal.emit(latest, current_changelog, DOWNLOAD_URL)
-            except Exception:
-                pass
+                else:
+                    _dbg("already latest")
+            except Exception as e:
+                _dbg(f"例外：{e}")
 
         threading.Thread(target=_check, daemon=True).start()
 
