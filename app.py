@@ -103,12 +103,12 @@ class AdminEfficiencyPilot:
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
         logger.info(f"📋 settings={self.config.get('settings', {})}")
 
-        self.version = "V2.0.1"
+        self.version = "V2.0.2"
         self.changelog = (
-            "• 修正背景模式出現「您非本門課的學生」錯誤\n"
-            "• 修正重啟後 API 回 0 筆誤判全部完成\n"
-            "• 修正 blacklist 過濾誤殺正常單元\n"
-            "• 修正課程分頁查詢只讀第一頁的問題"
+            "• 整合 AI 補答功能（選用，需設定 ai_api_key）\n"
+            "• AI 答題通過後自動將答案存入本地 questions.db\n"
+            "• 考完後正確答案自動同步至 questions.db\n"
+            "• 重構 db 寫入邏輯，統一由 _save_answers_to_db 處理"
         )
         self._update_checked = False
         # 打包成 exe 時用 exe 所在目錄；一般執行時用腳本所在目錄
