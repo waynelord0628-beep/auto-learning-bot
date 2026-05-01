@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 設定檔（含敏感資訊）
+config.json
+dist/config.json
+
+# 資料庫
+*.db
+*.sqlite
+*.sqlite3
+
+# Log 檔
+*.log
+debug.log
+update_debug.log
+dist/update_debug.log
+
+# PyInstaller 建置產物
+build/
+dist/
+*.spec.bak
+
+# 環境
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# 系統
+.DS_Store
+Thumbs.db
