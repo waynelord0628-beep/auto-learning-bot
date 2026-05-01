@@ -75,12 +75,12 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.0.4"
+    VERSION = "V2.0.5"
     CHANGELOG = (
+        "• 修復 Chrome 升版後 driver 衝突導致無法啟動的問題\n"
         "• 新增多種 AI 模型支援（OpenAI、Gemini、Claude、Groq 及自訂）\n"
         "• 修復無法新增帳號的問題\n"
-        "• 設定頁面 UI 全面優化，操作更直覺\n"
-        "• AI 金鑰現在依服務分開儲存，切換更方便"
+        "• 設定頁面 UI 全面優化"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -588,11 +588,12 @@ class AdminEfficiencyPilot:
                         (q_text, ans_str),
                     )
                     added += 1
-                # 同步記憶體
+                # 同步記憶體（不論新增或更新都要覆蓋，避免記憶體留有舊錯誤答案）
                 nk = _normalize_q(q_text)
-                if nk and nk not in self._answer_map:
+                if nk:
+                    if nk not in self._answer_map:
+                        self._answer_keys.append(nk)
                     self._answer_map[nk] = {"answer": ans_str, "options": [], "question": q_text}
-                    self._answer_keys.append(nk)
             conn.commit()
             conn.close()
             tag = f"（{source}）" if source else ""
@@ -802,6 +803,8 @@ class AdminEfficiencyPilot:
         logger.info("   📝 開始自動作答流程...")
         # 收集本場 AI 補答的題目，考試通過後寫入 db
         _ai_answered = {}
+        # 不及格過至少一次 → 強制 AI 補答（不信任 DB 可能存有錯誤答案）
+        force_ai = fail_count >= 1
         # 以「目前所在視窗」為課程教室主視窗（不論從哪條路徑進入）
         main_window = self.driver.current_window_handle
 
@@ -1085,8 +1088,8 @@ class AdminEfficiencyPilot:
                     except Exception:
                         option_texts = []
 
-                    # 題庫找不到時，嘗試 AI 補答
-                    if ans is None:
+                    # 題庫找不到時，或不及格重試強制用 AI 補答
+                    if ans is None or force_ai:
                         radios_count = len(row.find_elements(By.CSS_SELECTOR, "input[type='radio']"))
                         ai_options = option_texts if any(option_texts) else (
                             ["正確（是）", "錯誤（否）"] if radios_count == 2 else []
@@ -1663,10 +1666,14 @@ class AdminEfficiencyPilot:
             except Exception:
                 pass
 
+    def _get_driver_path(self):
+        """取得 ChromeDriver 路徑，子類可覆寫此方法實作不同策略。"""
+        return os.path.abspath(download_best_chromedriver())
+
     def init_engine(self):
         self.kill_orphan_drivers()
         try:
-            driver_path = os.path.abspath(download_best_chromedriver())
+            driver_path = self._get_driver_path()
             if not os.path.exists(driver_path):
                 logger.error(f"找不到驅動程式檔案: {driver_path}")
                 return False
@@ -2302,8 +2309,13 @@ class AdminEfficiencyPilot:
                         if not hours_done:
                             return False
                         # 有考試且未通過（exam_score 為 null/None 且 exam_exists=="1"）
-                        needs_exam = (
-                            c.get("exam_exists") == "1" and c.get("exam_score") is None
+                        # 或曾不及格但未達上限（exam_score 可能已非 None，仍需重試）
+                        needs_exam = c.get("exam_exists") == "1" and (
+                            c.get("exam_score") is None
+                            or (
+                                self._exam_fail_counts.get(c_id, 0) > 0
+                                and self._exam_fail_counts.get(c_id, 0) < 3
+                            )
                         )
                         # 有問卷且未填（fill=="0" 且 write_questionnaire 非空）
                         needs_questionnaire = c.get("fill") == "0" and bool(
@@ -2371,6 +2383,8 @@ class AdminEfficiencyPilot:
                                 c_id = str(c.get("course_id", ""))
                                 if self._exam_fail_counts.get(c_id, 0) < 3:
                                     all_exam_done = False
+                                    # 還有重試機會，立刻跳回迴圈頂部繼續重考，不去上課
+                                    break
                                 else:
                                     # 已達上限，本次不再重試，加入已處理集合
                                     self._completed_in_session.add(c_id)
@@ -2383,7 +2397,8 @@ class AdminEfficiencyPilot:
                             break
 
                     # ── 第二步：處理時數未達標的課程（上課）──
-                    if pending:
+                    # 若有考試還在重試中（all_exam_done=False），優先重考，不去上課
+                    if pending and all_exam_done:
                         self.total_courses = len(pending) + (self.current_idx)
                         self.current_idx += 1
                         res = self.study_process(pending[0])
