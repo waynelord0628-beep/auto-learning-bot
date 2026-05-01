@@ -475,8 +475,7 @@ class EntryPage(QWidget):
 
         # 版本號（左下角）
         from app import AdminEfficiencyPilot as _AEP
-        _ver = getattr(_AEP, "_static_version", "V2.0.2")
-        self._version_label = QLabel("V2.0.3", self)
+        self._version_label = QLabel(_AEP.VERSION, self)
         self._version_label.setStyleSheet(
             "color: rgba(255,255,255,0.45); font-size: 11px; background: transparent;"
         )
@@ -1611,18 +1610,8 @@ class MainWindow(QWidget):
 
         VERSION_URL = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/version.txt"
         DOWNLOAD_URL = "https://drive.google.com/drive/u/0/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g"
-        current = AdminEfficiencyPilot.__dict__.get("version", None)
-        # 從 class 層拿不到，改用暫時 instance 取得版本和 changelog
-        _tmp = AdminEfficiencyPilot.__new__(AdminEfficiencyPilot)
-        _tmp.version = "V2.0.3"
-        _tmp.changelog = (
-            "• 存設定時立即驗證 AI API Key 是否有效\n"
-            "• 啟動時顯示 AI 補答啟用狀態\n"
-            "• 修正版本檢查抓到 404 誤觸更新提示\n"
-            "• 啟動時立即偵測新版本，不等進入課程\n"
-            "• 左下角顯示版本號\n"
-            "• 設定面板加入 AI API Key 欄位"
-        )
+        current_version = AdminEfficiencyPilot.VERSION
+        current_changelog = AdminEfficiencyPilot.CHANGELOG
 
         _update_signal = UpdateSignal()
         _update_signal.notify.connect(self._on_update_available)
@@ -1635,8 +1624,8 @@ class MainWindow(QWidget):
                 latest = resp.text.strip()
                 if not latest or not latest.startswith("V"):
                     return
-                if latest != _tmp.version:
-                    _update_signal.emit(latest, _tmp.changelog, DOWNLOAD_URL)
+                if latest != current_version:
+                    _update_signal.emit(latest, current_changelog, DOWNLOAD_URL)
             except Exception:
                 pass
 

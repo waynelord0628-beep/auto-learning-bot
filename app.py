@@ -75,6 +75,16 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
+    VERSION = "V2.0.3"
+    CHANGELOG = (
+        "• 存設定時立即驗證 AI API Key 是否有效\n"
+        "• 啟動時顯示 AI 補答啟用狀態\n"
+        "• 修正版本檢查抓到 404 誤觸更新提示\n"
+        "• 啟動時立即偵測新版本，不等進入課程\n"
+        "• 左下角顯示版本號\n"
+        "• 設定面板加入 AI API Key 欄位"
+    )
+
     def __init__(self, config_path=None, log_callback=None, config_override=None):
         self.config = self.load_config(config_path)
 
@@ -103,15 +113,8 @@ class AdminEfficiencyPilot:
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
         logger.info(f"📋 settings={self.config.get('settings', {})}")
 
-        self.version = "V2.0.3"
-        self.changelog = (
-            "• 存設定時立即驗證 AI API Key 是否有效\n"
-            "• 啟動時顯示 AI 補答啟用狀態\n"
-            "• 修正版本檢查抓到 404 誤觸更新提示\n"
-            "• 啟動時立即偵測新版本，不等進入課程\n"
-            "• 左下角顯示版本號\n"
-            "• 設定面板加入 AI API Key 欄位"
-        )
+        self.version = self.VERSION
+        self.changelog = self.CHANGELOG
         self._update_checked = False
         # 打包成 exe 時用 exe 所在目錄；一般執行時用腳本所在目錄
         import sys
