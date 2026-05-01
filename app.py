@@ -107,9 +107,10 @@ class AdminEfficiencyPilot:
             if "login_type" not in self.config and "login_type" in acc:
                 self.config["login_type"] = acc["login_type"]
 
-        # ⭐ 調試：打印最終配置
+        # ⭐ 調試：打印最終配置（遮蔽敏感欄位）
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
-        logger.info(f"📋 settings={self.config.get('settings', {})}")
+        _safe_settings = {k: ("***" if "key" in k.lower() or "password" in k.lower() else v) for k, v in self.config.get('settings', {}).items()}
+        logger.info(f"📋 settings={_safe_settings}")
 
         self.version = self.VERSION
         self.changelog = self.CHANGELOG

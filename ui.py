@@ -1914,8 +1914,9 @@ class MainWindow(QWidget):
         full_config = account_data.copy()
         full_config.update(config_from_entry.get("settings", {}))
 
-        # ⭐ 調試
-        logger.info(f"DEBUG: 最終配置 = {full_config}")
+        # ⭐ 調試（遮蔽敏感欄位）
+        _safe = {k: ("***" if "key" in k.lower() or "password" in k.lower() else v) for k, v in full_config.items()}
+        logger.info(f"DEBUG: 最終配置 = {_safe}")
 
         self.pilot = AdminEfficiencyPilot(
             config_override=full_config, log_callback=self.immersive.append_text
