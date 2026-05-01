@@ -2157,6 +2157,14 @@ class AdminEfficiencyPilot:
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )
+        # AI API 狀態提示
+        ai_key = self.config.get("ai_api_key", "")
+        if ai_key:
+            base_url = self.config.get("ai_base_url", "https://api.openai.com/v1")
+            model = self.config.get("ai_model", "gpt-4o-mini")
+            logger.info(f"🤖 AI 補答已啟用（model: {model}，endpoint: {base_url}）")
+        else:
+            logger.info("📖 AI 補答未啟用，僅使用本地題庫作答")
         try:
             if not self.init_engine():
                 if sys.stdin:
