@@ -475,6 +475,106 @@ class AdminEfficiencyPilot:
 
         return None
 
+    def _ai_find_answer(self, question_text: str, option_texts: list):
+        """題庫找不到答案時，呼叫 AI API 協助選答。
+        支援任何 OpenAI-compatible API（OpenAI、DeepSeek、本地 Ollama 等）。
+        config.json 需設定：ai_api_key、ai_base_url（選填）、ai_model（選填）。
+        回傳符合選項文字的字串，或 None（API 未設定 / 呼叫失敗）。
+        """
+        api_key = self.config.get("ai_api_key", "")
+        if not api_key or not option_texts:
+            return None
+
+        base_url = self.config.get("ai_base_url", "https://api.openai.com/v1").rstrip("/")
+        model = self.config.get("ai_model", "gpt-4o-mini")
+
+        options_str = "\n".join(
+            [f"{i + 1}. {opt}" for i, opt in enumerate(option_texts) if opt]
+        )
+        prompt = (
+            "你是考試作答助手。請從以下選項中選出正確答案，"
+            "只回答正確選項的完整文字，不要編號、不要解釋、不要標點。\n\n"
+            f"題目：{question_text}\n\n"
+            f"選項：\n{options_str}\n\n"
+            "正確答案："
+        )
+
+        try:
+            resp = requests.post(
+                f"{base_url}/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {api_key}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": model,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "max_tokens": 150,
+                    "temperature": 0,
+                },
+                timeout=20,
+                verify=False,
+            )
+            resp.raise_for_status()
+            answer = resp.json()["choices"][0]["message"]["content"].strip()
+            logger.info(f"   🤖 AI 補充答案：{answer!r}")
+            return answer
+        except Exception as e:
+            logger.warning(f"   ⚠️ AI API 呼叫失敗: {e}")
+            return None
+
+    def _save_answers_to_db(self, answers: dict, source: str = ""):
+        """將 {題目: 答案} dict upsert 進 questions.db 並同步記憶體。
+        answers: {q_text: ans_str}
+        source:  用於 log 標注來源（如 'AI' / 'harvest'）
+        """
+        if not answers:
+            return
+        import sys as _sys
+        _base = (
+            os.path.dirname(_sys.executable)
+            if getattr(_sys, "frozen", False)
+            else os.path.dirname(os.path.abspath(__file__))
+        )
+        db_path = os.path.join(_base, "questions.db")
+        try:
+            conn = sqlite3.connect(db_path)
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS questions (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    question TEXT UNIQUE NOT NULL,
+                    option_a TEXT, option_b TEXT, option_c TEXT, option_d TEXT,
+                    answer TEXT
+                )
+            """)
+            added = 0
+            for q_text, ans_str in answers.items():
+                cur = conn.execute(
+                    "SELECT id FROM questions WHERE question = ?", (q_text,)
+                ).fetchone()
+                if cur:
+                    conn.execute(
+                        "UPDATE questions SET answer = ? WHERE question = ?",
+                        (ans_str, q_text),
+                    )
+                else:
+                    conn.execute(
+                        "INSERT INTO questions (question, answer) VALUES (?, ?)",
+                        (q_text, ans_str),
+                    )
+                    added += 1
+                # 同步記憶體
+                nk = _normalize_q(q_text)
+                if nk and nk not in self._answer_map:
+                    self._answer_map[nk] = {"answer": ans_str, "options": [], "question": q_text}
+                    self._answer_keys.append(nk)
+            conn.commit()
+            conn.close()
+            tag = f"（{source}）" if source else ""
+            logger.info(f"   💾 已同步 {len(answers)} 題到 questions.db{tag}（新增 {added} 題）")
+        except Exception as e:
+            logger.warning(f"   ⚠️ 寫入 questions.db 失敗: {e}")
+
     def _accept_alert(self):
         """若有 alert/confirm 對話框則點確定，無則跳過"""
         try:
@@ -647,55 +747,11 @@ class AdminEfficiencyPilot:
                 # 更新記憶體中的 answers（list of (題目, 答案)）
                 for key, ans_str in result.items():
                     self.answers.append((key, ans_str))
-                    # 同步更新 _answer_map（讓本次後續題目也能命中）
-                    nk = _normalize_q(key)
-                    if nk and nk not in self._answer_map:
-                        self._answer_map[nk] = {"answer": ans_str, "options": [], "question": key}
-                        self._answer_keys.append(nk)
             except Exception as e:
                 logger.warning(f"   ⚠️ 寫入 answers.json 失敗: {e}")
 
-            # 同步寫入 questions.db（INSERT OR REPLACE）
-            try:
-                import sys as _sys
-                _base = (
-                    os.path.dirname(_sys.executable)
-                    if getattr(_sys, "frozen", False)
-                    else os.path.dirname(os.path.abspath(__file__))
-                )
-                db_path = os.path.join(_base, "questions.db")
-                conn = sqlite3.connect(db_path)
-                conn.execute("""
-                    CREATE TABLE IF NOT EXISTS questions (
-                        id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        question TEXT UNIQUE NOT NULL,
-                        option_a TEXT, option_b TEXT, option_c TEXT, option_d TEXT,
-                        answer TEXT
-                    )
-                """)
-                db_added = 0
-                for key, ans_str in result.items():
-                    cur = conn.execute(
-                        "SELECT id FROM questions WHERE question = ?", (key,)
-                    ).fetchone()
-                    if cur:
-                        conn.execute(
-                            "UPDATE questions SET answer = ? WHERE question = ?",
-                            (ans_str, key),
-                        )
-                    else:
-                        conn.execute(
-                            "INSERT INTO questions (question, answer) VALUES (?, ?)",
-                            (key, ans_str),
-                        )
-                        db_added += 1
-                conn.commit()
-                conn.close()
-                logger.info(
-                    f"   💾 已同步 {len(result)} 題到 questions.db（新增 {db_added} 題）"
-                )
-            except Exception as e:
-                logger.warning(f"   ⚠️ 寫入 questions.db 失敗: {e}")
+            # 同步寫入 questions.db（複用 _save_answers_to_db）
+            self._save_answers_to_db(result, source="harvest")
 
         except Exception as e:
             logger.debug(f"   harvest_correct_answers 失敗: {e}")
@@ -719,6 +775,8 @@ class AdminEfficiencyPilot:
             return False
 
         logger.info("   📝 開始自動作答流程...")
+        # 收集本場 AI 補答的題目，考試通過後寫入 db
+        _ai_answered = {}
         # 以「目前所在視窗」為課程教室主視窗（不論從哪條路徑進入）
         main_window = self.driver.current_window_handle
 
@@ -1001,6 +1059,18 @@ class AdminEfficiencyPilot:
                         )
                     except Exception:
                         option_texts = []
+
+                    # 題庫找不到時，嘗試 AI 補答
+                    if ans is None:
+                        radios_count = len(row.find_elements(By.CSS_SELECTOR, "input[type='radio']"))
+                        ai_options = option_texts if any(option_texts) else (
+                            ["正確（是）", "錯誤（否）"] if radios_count == 2 else []
+                        )
+                        if ai_options:
+                            ai_ans = self._ai_find_answer(q_text, ai_options)
+                            if ai_ans:
+                                ans = ai_ans
+                                _ai_answered[q_text] = ai_ans
 
                     logger.info(f"   題目: {q_text[:50]!r}")
                     logger.info(f"   選項: {[t[:20] for t in option_texts]!r}")
@@ -1348,6 +1418,9 @@ class AdminEfficiencyPilot:
                     passed = True
                     # 通過後清除不及格計數
                     self._exam_fail_counts.pop(course_id, None)
+                    # 通過後把 AI 補答的題目寫進 db（AI 答對了才有意義存）
+                    if _ai_answered:
+                        self._save_answers_to_db(_ai_answered, source="AI")
                 else:
                     logger.info("   📝 無法判斷成績，請自行確認")
             except Exception:
