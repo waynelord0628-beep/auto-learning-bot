@@ -2126,8 +2126,14 @@ class AdminEfficiencyPilot:
         DOWNLOAD_URL = "https://drive.google.com/drive/u/0/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g"
         try:
             resp = requests.get(VERSION_URL, timeout=5)
+            if resp.status_code != 200:
+                logger.debug(f"版本檢查失敗（HTTP {resp.status_code}）")
+                return
             latest = resp.text.strip()
-            if latest and latest != self.version:
+            if not latest or not latest.startswith("V"):
+                logger.debug(f"版本檢查失敗（回應格式不符：{latest!r}）")
+                return
+            if latest != self.version:
                 logger.info(f"🆕 發現新版本 {latest}（目前 {self.version}），請前往下載最新版。")
                 if hasattr(self, "update_signal"):
                     self.update_signal.emit(latest, self.changelog, DOWNLOAD_URL)
@@ -2148,7 +2154,6 @@ class AdminEfficiencyPilot:
     def run(self):
         """⭐ 正確位置：在類內"""
         self._start_keep_awake()
-        self.check_update()
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )

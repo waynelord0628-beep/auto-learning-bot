@@ -470,6 +470,16 @@ class EntryPage(QWidget):
 
         self.overlay.mousePressEvent = on_overlay_clicked
 
+        # 版本號（左下角）
+        from app import AdminEfficiencyPilot as _AEP
+        _ver = getattr(_AEP, "_static_version", "V2.0.2")
+        self._version_label = QLabel("V2.0.2", self)
+        self._version_label.setStyleSheet(
+            "color: rgba(255,255,255,0.45); font-size: 11px; background: transparent;"
+        )
+        self._version_label.adjustSize()
+        self._version_label.raise_()
+
     def _on_combo_activated(self):
         # ⭐ 選擇後立即隱藏下拉選單
         self.combo.hidePopup()
@@ -488,6 +498,10 @@ class EntryPage(QWidget):
     def resizeEvent(self, event):
         super().resizeEvent(event)
         self.bg_label.setGeometry(0, 0, self.width(), self.height())
+        if hasattr(self, "_version_label"):
+            lw = self._version_label.width()
+            lh = self._version_label.height()
+            self._version_label.move(8, self.height() - lh - 6)
 
     def delete_account(self):
         if not self.accounts:
@@ -1097,7 +1111,7 @@ class SettingsPanel(QFrame):
         super().__init__(parent)
 
         # ===== 基本尺寸 =====
-        self.setFixedSize(300, 280)
+        self.setFixedSize(300, 340)
 
         # ===== 外觀（卡片）=====
         self.setStyleSheet("""
@@ -1175,9 +1189,14 @@ class SettingsPanel(QFrame):
         self.target = QLineEdit()
         self.target.setPlaceholderText("百分比")
 
+        self.ai_key = QLineEdit()
+        self.ai_key.setPlaceholderText("選填，留空則不使用 AI")
+        self.ai_key.setEchoMode(QLineEdit.Password)
+
         form.addRow("背景執行", self.headless)
         form.addRow("停留秒數", self.residence)
         form.addRow("完成率", self.target)
+        form.addRow("AI API Key", self.ai_key)
 
         layout.addLayout(form)
 
@@ -1220,13 +1239,15 @@ class SettingsPanel(QFrame):
 
             self.residence.setText(str(settings.get("residence_time", 75)))
             self.target.setText(str(settings.get("target_percentage", 1.05)))
+            self.ai_key.setText(settings.get("ai_api_key", ""))
 
     def get_data(self):
         """⭐ 關鍵改動：正確讀取 headless 的 True/False 值"""
         return {
-            "headless": self.headless.currentData(),  # ⭐ 使用 currentData() 而不是比較字符串
+            "headless": self.headless.currentData(),
             "residence_time": int(self.residence.text() or 75),
             "target_percentage": float(self.target.text() or 1.05),
+            "ai_api_key": self.ai_key.text().strip(),
         }
 
 
@@ -1524,6 +1545,45 @@ class MainWindow(QWidget):
         self.pilot = None
         self.particle_effect = None
         self.cleanup_thread = None
+
+        # 啟動時立即在背景檢查更新
+        self._run_startup_update_check()
+
+    def _run_startup_update_check(self):
+        """程式啟動時，背景 thread 檢查版本，有新版則跳提示"""
+        from app import AdminEfficiencyPilot
+        import threading, requests as _req
+
+        VERSION_URL = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/version.txt"
+        DOWNLOAD_URL = "https://drive.google.com/drive/u/0/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g"
+        current = AdminEfficiencyPilot.__dict__.get("version", None)
+        # 從 class 層拿不到，改用暫時 instance 取得版本和 changelog
+        _tmp = AdminEfficiencyPilot.__new__(AdminEfficiencyPilot)
+        _tmp.version = "V2.0.2"
+        _tmp.changelog = (
+            "• 整合 AI 補答功能（選用，需設定 ai_api_key）\n"
+            "• AI 答題通過後自動將答案存入本地 questions.db\n"
+            "• 考完後正確答案自動同步至 questions.db\n"
+            "• 重構 db 寫入邏輯，統一由 _save_answers_to_db 處理"
+        )
+
+        _update_signal = UpdateSignal()
+        _update_signal.notify.connect(self._on_update_available)
+
+        def _check():
+            try:
+                resp = _req.get(VERSION_URL, timeout=5)
+                if resp.status_code != 200:
+                    return
+                latest = resp.text.strip()
+                if not latest or not latest.startswith("V"):
+                    return
+                if latest != _tmp.version:
+                    _update_signal.emit(latest, _tmp.changelog, DOWNLOAD_URL)
+            except Exception:
+                pass
+
+        threading.Thread(target=_check, daemon=True).start()
 
     def go_immersive(self, account_data):
         """轉到沈浸頁面，帶粒子效果"""
