@@ -482,6 +482,40 @@ class EntryPage(QWidget):
         self._version_label.adjustSize()
         self._version_label.raise_()
 
+        # 更新圖示（右下角）
+        self._update_btn = QPushButton(self)
+        self._update_btn.setFixedSize(52, 52)
+        self._update_btn.setToolTip("檢查更新")
+        self._update_btn.setCursor(Qt.PointingHandCursor)
+        import os as _os, sys as _sys
+        _base = _os.path.dirname(_sys.executable if getattr(_sys, "frozen", False) else _os.path.abspath(__file__))
+        _icon_path = _os.path.join(_base, "icons", "settings.png")
+        if _os.path.exists(_icon_path):
+            self._update_btn.setIcon(QIcon(_icon_path))
+            self._update_btn.setIconSize(QSize(34, 34))
+        self._update_btn.setStyleSheet("""
+            QPushButton {
+                background: transparent;
+                border: none;
+                border-radius: 26px;
+            }
+            QPushButton:hover {
+                background: rgba(0,0,0,0.12);
+            }
+        """)
+        self._update_btn.clicked.connect(lambda: self._on_update_btn_clicked())
+        self._update_btn.raise_()
+        self._has_update = False
+        self._latest_update_info = None  # (latest, changelog, url)
+        # 初始定位
+        QTimer.singleShot(0, lambda: self._update_btn.move(self.width() - self._update_btn.width() - 20, 6))
+
+    def _on_update_btn_clicked(self):
+        """手動點更新圖示：有新版直接跳視窗，沒有則重新觸發 MainWindow 檢查"""
+        mw = self.window()
+        if hasattr(mw, "_handle_update_btn"):
+            mw._handle_update_btn()
+
     def _on_combo_activated(self):
         # ⭐ 選擇後立即隱藏下拉選單
         self.combo.hidePopup()
@@ -504,6 +538,9 @@ class EntryPage(QWidget):
             lw = self._version_label.width()
             lh = self._version_label.height()
             self._version_label.move(8, self.height() - lh - 6)
+        if hasattr(self, "_update_btn"):
+            bw = self._update_btn.width()
+            self._update_btn.move(self.width() - bw - 20, 6)
 
     def delete_account(self):
         if not self.accounts:
@@ -1503,6 +1540,7 @@ from PySide6.QtCore import QObject
 
 class UpdateSignal(QObject):
     notify = Signal(str, str, str)  # (latest_version, changelog, download_url)
+    up_to_date = Signal()           # 已是最新版
 
     def emit(self, version, changelog, url):
         self.notify.emit(version, changelog, url)
@@ -1806,6 +1844,7 @@ class MainWindow(QWidget):
 
         self._update_signal = UpdateSignal()
         self._update_signal.notify.connect(self._on_update_available)
+        self._update_signal.up_to_date.connect(self._on_up_to_date)
         _update_signal = self._update_signal
 
         import sys as _sys, os as _os
@@ -1835,6 +1874,7 @@ class MainWindow(QWidget):
                     _update_signal.emit(latest, current_changelog, DOWNLOAD_URL)
                 else:
                     _dbg("already latest")
+                    _update_signal.up_to_date.emit()
             except Exception as e:
                 _dbg(f"例外：{e}")
 
@@ -1890,8 +1930,121 @@ class MainWindow(QWidget):
         self.setFixedSize(self.size())
         self.immersive._init_position()
 
+    def _handle_update_btn(self):
+        """手動點更新圖示：一定跳視窗顯示版本資訊"""
+        entry = self.entry
+        if entry._has_update and entry._latest_update_info:
+            # 有新版 → 跳更新視窗
+            latest, changelog, url = entry._latest_update_info
+            self._on_update_available(latest, changelog, url)
+        else:
+            # 沒有新版或尚未檢查 → 跳「目前版本」視窗
+            self._show_version_dialog()
+
+    def _show_version_dialog(self):
+        """顯示目前版本視窗（尚未有新版資訊）"""
+        from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QFrame
+        from app import AdminEfficiencyPilot as _AEP
+        cur_ver = _AEP.VERSION
+
+        dialog = QDialog(self)
+        dialog.setWindowTitle("版本資訊")
+        dialog.setFixedWidth(360)
+        dialog.setStyleSheet("QDialog { background: #f5f7fa; } QLabel { color: #2c3e50; background: transparent; }")
+
+        layout = QVBoxLayout(dialog)
+        layout.setContentsMargins(0, 0, 0, 0)
+        layout.setSpacing(0)
+
+        header = QLabel()
+        header.setFixedHeight(6)
+        header.setStyleSheet("background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #4fc3f7,stop:1 #0288d1);")
+        layout.addWidget(header)
+
+        body = QVBoxLayout()
+        body.setContentsMargins(28, 22, 28, 24)
+        body.setSpacing(12)
+
+        title = QLabel("版本資訊")
+        title.setStyleSheet("font-size: 17px; font-weight: bold; color: #0277bd;")
+        body.addWidget(title)
+
+        cur_label = QLabel(f"目前版本：{cur_ver}")
+        cur_label.setStyleSheet("font-size: 13px;")
+        body.addWidget(cur_label)
+
+        entry = self.entry
+        if entry._has_update and entry._latest_update_info:
+            latest_label = QLabel(f"最新版本：{entry._latest_update_info[0]}")
+        else:
+            latest_label = QLabel("最新版本：目前已是最新版")
+        latest_label.setStyleSheet("font-size: 13px; color: #27ae60;")
+        body.addWidget(latest_label)
+
+        sep = QFrame()
+        sep.setFrameShape(QFrame.HLine)
+        sep.setStyleSheet("color: #dce1e7;")
+        body.addWidget(sep)
+
+        close_btn = QPushButton("關閉")
+        close_btn.setMinimumHeight(40)
+        close_btn.setStyleSheet("""
+            QPushButton {
+                background: #e0e0e0; color: #2c3e50;
+                border: none; border-radius: 6px; font-size: 13px;
+                padding: 8px 0;
+                text-align: center;
+            }
+            QPushButton:hover { background: #bdbdbd; }
+        """)
+        close_btn.clicked.connect(dialog.accept)
+        body.addWidget(close_btn)
+
+        layout.addLayout(body)
+
+        # 置中於螢幕
+        from PySide6.QtWidgets import QApplication
+        def _center():
+            screen = QApplication.primaryScreen().availableGeometry()
+            x = screen.x() + (screen.width() - dialog.width()) // 2
+            y = screen.y() + (screen.height() - dialog.height()) // 2
+            dialog.move(x, y)
+        QTimer.singleShot(0, _center)
+
+        dialog.exec()
+
+    def _on_up_to_date(self):
+        """已是最新版，更新按鈕 tooltip"""
+        self.entry._has_update = False
+        btn = getattr(self.entry, "_update_btn", None)
+        if btn:
+            btn.setToolTip("目前已是最新版")
+            btn.setStyleSheet("""
+                QPushButton { background: transparent; border: none; }
+                QPushButton:hover { background: transparent; }
+            """)
+
     def _on_update_available(self, latest: str, changelog: str, url: str):
         """在主執行緒顯示更新提示視窗"""
+        # 儲存更新資訊，讓按鈕可以重複觸發
+        self.entry._has_update = True
+        self.entry._latest_update_info = (latest, changelog, url)
+        btn = getattr(self.entry, "_update_btn", None)
+        if btn:
+            btn.setToolTip(f"有新版本 {latest}！點此查看")
+            btn.setStyleSheet("""
+                QPushButton {
+                    background: rgba(255,80,80,0.85);
+                    color: #fff;
+                    border: none;
+                    font-size: 15px;
+                    border-radius: 14px;
+                }
+                QPushButton:hover {
+                    background: rgba(255,50,50,0.95);
+                }
+            """)
+
         from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
         from PySide6.QtGui import QDesktopServices
         from PySide6.QtCore import QUrl
@@ -1930,9 +2083,11 @@ class MainWindow(QWidget):
         content.addWidget(title)
 
         # 當前版本
-        cur = getattr(self.pilot, "version", "")
-        if cur:
-            cur_label = QLabel(f"目前版本：{cur}")
+        from app import AdminEfficiencyPilot as _AEP
+        cur = getattr(self, "pilot", None)
+        cur_ver = getattr(cur, "version", "") if cur else _AEP.VERSION
+        if cur_ver:
+            cur_label = QLabel(f"目前版本：{cur_ver}")
             cur_label.setStyleSheet("font-size: 12px; color: #7f8c8d; margin-top: -6px;")
             content.addWidget(cur_label)
 

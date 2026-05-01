@@ -43,10 +43,25 @@ def download_best_chromedriver(folder_name="drivers"):
 
     try:
         driver_file = os.path.join(target_folder, "chromedriver.exe")
+        version_file = os.path.join(target_folder, "driver_version.txt")
 
         if os.path.exists(driver_file):
-            logger.info(f"已存在 driver，直接使用: {driver_file}")
-            return driver_file
+            # 比對 Chrome major 版本，不符就刪除重下
+            chrome_major = parts[0]
+            cached_major = None
+            if os.path.exists(version_file):
+                try:
+                    cached_major = open(version_file, encoding="utf-8").read().strip().split(".")[0]
+                except Exception:
+                    pass
+            if cached_major == chrome_major:
+                logger.info(f"✅ 無驚留 driver 行程（版本相符 {chrome_major}.x）: {driver_file}")
+                return driver_file
+            else:
+                logger.info(f"Chrome 版本已更新（{cached_major} → {chrome_major}），重新下載 driver...")
+                os.remove(driver_file)
+                if os.path.exists(version_file):
+                    os.remove(version_file)
 
         os.makedirs(target_folder, exist_ok=True)
     except Exception as e:
@@ -67,6 +82,14 @@ def download_best_chromedriver(folder_name="drivers"):
 
         final_path = os.path.join(target_folder, "chromedriver.exe")
         shutil.move(str(driver), final_path)
+
+        # 寫入版本記錄供下次比對
+        try:
+            version_file = os.path.join(target_folder, "driver_version.txt")
+            with open(version_file, "w", encoding="utf-8") as f:
+                f.write(local_version)
+        except Exception:
+            pass
 
         logger.info(f"驅動配置完成: {final_path}")
         return final_path
@@ -126,8 +149,147 @@ def download_best_chromedriver(folder_name="drivers"):
         raise e
 
 
+def download_best_chromedriver_with_fallback(folder_name="drivers"):
+    """
+    手動版專用：
+    1. 先試自動下載（同標準版）
+    2. 下載失敗 → 找 drivers/ 資料夾內的 chromedriver.exe
+    3. 再失敗 → 找系統 PATH 內的 chromedriver
+    4. 都沒有 → 報錯說明
+    """
+    # ── 策略一：自動下載 ──
+    try:
+        return download_best_chromedriver(folder_name)
+    except Exception as e:
+        logger.warning(f"自動下載 driver 失敗（{e}），改用本機 driver...")
+
+    # ── 策略二：drivers/ 資料夾內 ──
+    if getattr(sys, "frozen", False):
+        base_path = os.path.dirname(sys.executable)
+    else:
+        base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    local_path = os.path.join(base_path, folder_name, "chromedriver.exe")
+    if os.path.exists(local_path):
+        logger.info(f"✅ 使用本機 driver: {local_path}")
+        return local_path
+
+    # ── 策略三：系統 PATH ──
+    path_driver = shutil.which("chromedriver") or shutil.which("chromedriver.exe")
+    if path_driver:
+        logger.info(f"✅ 使用系統 PATH driver: {path_driver}")
+        return path_driver
+
+    # ── 全部失敗 ──
+    logger.error(
+        "❌ 無法取得 ChromeDriver。\n"
+        "請至 https://googlechromelabs.github.io/chrome-for-testing/ "
+        "下載與您 Chrome 版本相符的 chromedriver，\n"
+        "解壓縮後將 chromedriver.exe 放入程式同層的 drivers\\ 資料夾再重新執行。"
+    )
+    raise RuntimeError("找不到可用的 ChromeDriver")
+
+
+def download_best_chromedriver_milestone(folder_name="drivers"):
+    """
+    手動版專用，比標準版多一條 milestone API 策略：
+    1. known-good-versions（同標準版策略一）
+    2. latest-patch-versions-per-build（同標準版策略二）
+    3. latest-versions-per-milestone（新增，專門處理最新 Chrome 還沒收錄的情況）
+    4. 以上都失敗 → 找 drivers/ 或系統 PATH 的本機 driver
+    """
+    if getattr(sys, "frozen", False):
+        base_path = os.path.dirname(sys.executable)
+    else:
+        base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    target_folder = os.path.join(base_path, folder_name)
+
+    local_version = get_local_chrome_version()
+    parts = local_version.split(".")
+    major = parts[0]          # e.g. "147"
+    prefix3 = ".".join(parts[:3])
+    logger.info(f"偵測到本機 Chrome 版本: {local_version}")
+
+    def extract_driver(zip_url):
+        r = requests.get(zip_url, verify=False, timeout=30)
+        with zipfile.ZipFile(io.BytesIO(r.content)) as z:
+            z.extractall(target_folder)
+        driver = next(Path(target_folder).rglob("chromedriver.exe"), None)
+        if not driver:
+            raise RuntimeError("解壓縮後找不到 chromedriver.exe")
+        final_path = os.path.join(target_folder, "chromedriver.exe")
+        shutil.move(str(driver), final_path)
+        try:
+            with open(os.path.join(target_folder, "driver_version.txt"), "w", encoding="utf-8") as f:
+                f.write(local_version)
+        except Exception:
+            pass
+        logger.info(f"驅動配置完成: {final_path}")
+        return final_path
+
+    os.makedirs(target_folder, exist_ok=True)
+
+    # ── 策略一：known-good-versions ──
+    try:
+        known_url = "https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json"
+        logger.info(f"[milestone版] 策略一：尋找與 {local_version} 完全匹配的驅動...")
+        resp = requests.get(known_url, verify=False, timeout=15)
+        versions = resp.json().get("versions", [])
+        exact = next((v for v in versions if v["version"] == local_version), None)
+        if exact:
+            url = next((d["url"] for d in exact["downloads"].get("chromedriver", []) if d["platform"] == "win64"), None)
+            if url:
+                logger.info(f"策略一成功，下載: {url}")
+                return extract_driver(url)
+    except Exception as e:
+        logger.warning(f"策略一失敗: {e}")
+
+    # ── 策略二：latest-patch-versions-per-build ──
+    try:
+        patch_url = "https://raw.githubusercontent.com/GoogleChromeLabs/chrome-for-testing/refs/heads/gh-pages/latest-patch-versions-per-build-with-downloads.json"
+        logger.info(f"[milestone版] 策略二：查詢 {prefix3} patch 版本...")
+        resp = requests.get(patch_url, verify=False, timeout=10)
+        entry = resp.json()["builds"][prefix3]
+        url = next(d["url"] for d in entry["downloads"]["chromedriver"] if d["platform"] == "win64")
+        logger.info(f"策略二成功，下載: {url}")
+        return extract_driver(url)
+    except Exception as e:
+        logger.warning(f"策略二失敗: {e}")
+
+    # ── 策略三：latest-versions-per-milestone（新增）──
+    try:
+        milestone_url = "https://googlechromelabs.github.io/chrome-for-testing/latest-versions-per-milestone-with-downloads.json"
+        logger.info(f"[milestone版] 策略三：查詢 milestone {major} 的 driver...")
+        resp = requests.get(milestone_url, verify=False, timeout=15)
+        data = resp.json()
+        entry = data["milestones"][major]
+        url = next((d["url"] for d in entry["downloads"].get("chromedriver", []) if d["platform"] == "win64"), None)
+        if url:
+            logger.info(f"策略三成功（milestone {major}），下載: {url}")
+            return extract_driver(url)
+    except Exception as e:
+        logger.warning(f"策略三失敗: {e}")
+
+    # ── 策略四：本機 driver fallback ──
+    local_path = os.path.join(target_folder, "chromedriver.exe")
+    if os.path.exists(local_path):
+        logger.info(f"✅ 使用本機 driver: {local_path}")
+        return local_path
+
+    path_driver = shutil.which("chromedriver") or shutil.which("chromedriver.exe")
+    if path_driver:
+        logger.info(f"✅ 使用系統 PATH driver: {path_driver}")
+        return path_driver
+
+    logger.error(
+        "❌ 無法取得 ChromeDriver。\n"
+        "請至 https://googlechromelabs.github.io/chrome-for-testing/ "
+        "下載與您 Chrome 版本相符的 chromedriver，\n"
+        "解壓縮後將 chromedriver.exe 放入程式同層的 drivers\\ 資料夾再重新執行。"
+    )
+    raise RuntimeError("找不到可用的 ChromeDriver")
+
+
 if __name__ == "__main__":
-    # 測試執行
     logging.basicConfig(level=logging.INFO)
     path = download_best_chromedriver()
     print(f"Result: {path}")
