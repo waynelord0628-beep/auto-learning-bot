@@ -647,8 +647,55 @@ class AdminEfficiencyPilot:
                 # 更新記憶體中的 answers（list of (題目, 答案)）
                 for key, ans_str in result.items():
                     self.answers.append((key, ans_str))
+                    # 同步更新 _answer_map（讓本次後續題目也能命中）
+                    nk = _normalize_q(key)
+                    if nk and nk not in self._answer_map:
+                        self._answer_map[nk] = {"answer": ans_str, "options": [], "question": key}
+                        self._answer_keys.append(nk)
             except Exception as e:
                 logger.warning(f"   ⚠️ 寫入 answers.json 失敗: {e}")
+
+            # 同步寫入 questions.db（INSERT OR REPLACE）
+            try:
+                import sys as _sys
+                _base = (
+                    os.path.dirname(_sys.executable)
+                    if getattr(_sys, "frozen", False)
+                    else os.path.dirname(os.path.abspath(__file__))
+                )
+                db_path = os.path.join(_base, "questions.db")
+                conn = sqlite3.connect(db_path)
+                conn.execute("""
+                    CREATE TABLE IF NOT EXISTS questions (
+                        id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        question TEXT UNIQUE NOT NULL,
+                        option_a TEXT, option_b TEXT, option_c TEXT, option_d TEXT,
+                        answer TEXT
+                    )
+                """)
+                db_added = 0
+                for key, ans_str in result.items():
+                    cur = conn.execute(
+                        "SELECT id FROM questions WHERE question = ?", (key,)
+                    ).fetchone()
+                    if cur:
+                        conn.execute(
+                            "UPDATE questions SET answer = ? WHERE question = ?",
+                            (ans_str, key),
+                        )
+                    else:
+                        conn.execute(
+                            "INSERT INTO questions (question, answer) VALUES (?, ?)",
+                            (key, ans_str),
+                        )
+                        db_added += 1
+                conn.commit()
+                conn.close()
+                logger.info(
+                    f"   💾 已同步 {len(result)} 題到 questions.db（新增 {db_added} 題）"
+                )
+            except Exception as e:
+                logger.warning(f"   ⚠️ 寫入 questions.db 失敗: {e}")
 
         except Exception as e:
             logger.debug(f"   harvest_correct_answers 失敗: {e}")
