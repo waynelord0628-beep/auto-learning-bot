@@ -488,7 +488,10 @@ class EntryPage(QWidget):
         self._update_btn.setToolTip("檢查更新")
         self._update_btn.setCursor(Qt.PointingHandCursor)
         import os as _os, sys as _sys
-        _base = _os.path.dirname(_sys.executable if getattr(_sys, "frozen", False) else _os.path.abspath(__file__))
+        if getattr(_sys, "frozen", False):
+            _base = _sys._MEIPASS
+        else:
+            _base = _os.path.dirname(_os.path.abspath(__file__))
         _icon_path = _os.path.join(_base, "icons", "settings.png")
         if _os.path.exists(_icon_path):
             self._update_btn.setIcon(QIcon(_icon_path))

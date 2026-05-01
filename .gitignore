@@ -23,6 +23,7 @@ dist/update_debug.log
 # PyInstaller 建置產物
 build/
 dist/
+*.spec
 *.spec.bak
 
 # 環境
