@@ -299,8 +299,11 @@ def add_hover_effect(btn):
 # 入口頁
 # =========================
 class EntryPage(QWidget):
+    _ai_verify_signal = Signal(bool, str)
+
     def __init__(self, on_start):
         super().__init__()
+        self._ai_verify_signal.connect(self._on_ai_verify_done)
 
         self.is_updating = False
 
@@ -473,7 +476,7 @@ class EntryPage(QWidget):
         # 版本號（左下角）
         from app import AdminEfficiencyPilot as _AEP
         _ver = getattr(_AEP, "_static_version", "V2.0.2")
-        self._version_label = QLabel("V2.0.2", self)
+        self._version_label = QLabel("V2.0.3", self)
         self._version_label.setStyleSheet(
             "color: rgba(255,255,255,0.45); font-size: 11px; background: transparent;"
         )
@@ -701,17 +704,48 @@ class EntryPage(QWidget):
 
     def save_settings(self):
         settings_data = self.panel.get_data()
-
         self.config["settings"] = settings_data
-
         self._save_config()
 
-        self.panel.hide()
-        self.overlay.hide()
+        ai_key = settings_data.get("ai_api_key", "").strip()
+        if ai_key:
+            # 有填 key → 背景驗證，驗完再關 panel
+            self.panel.show_ai_verifying()
+            import threading, requests as _req
+            def _verify():
+                base_url = settings_data.get("ai_base_url", "https://api.openai.com/v1").rstrip("/")
+                ok, msg = False, ""
+                try:
+                    resp = _req.get(
+                        f"{base_url}/models",
+                        headers={"Authorization": f"Bearer {ai_key}"},
+                        timeout=8,
+                        verify=False,
+                    )
+                    if resp.status_code == 200:
+                        ok, msg = True, "✅ API Key 驗證成功"
+                    elif resp.status_code == 401:
+                        ok, msg = False, "❌ API Key 無效（401 Unauthorized）"
+                    else:
+                        ok, msg = False, f"❌ 驗證失敗（HTTP {resp.status_code}）"
+                except Exception as e:
+                    ok, msg = False, f"❌ 無法連線：{e}"
+                self._ai_verify_signal.emit(ok, msg)
+            threading.Thread(target=_verify, daemon=True).start()
+        else:
+            self.panel.hide()
+            self.overlay.hide()
 
     def close_panel(self):
         self.panel.hide()
         self.overlay.hide()
+
+    def _on_ai_verify_done(self, ok: bool, msg: str):
+        """AI key 驗證結果回到主執行緒"""
+        if hasattr(self, "panel"):
+            self.panel.show_ai_result(ok, msg)
+            if ok:
+                QTimer.singleShot(1500, lambda: (self.panel.hide(), self.overlay.hide()))
 
 
 class AddAccountPanel(QFrame):
@@ -908,11 +942,24 @@ class AddAccountPanel(QFrame):
 
     def get_data(self):
         return {
-            "name": self.name.text(),
-            "login_type": self.login_type.currentData(),
-            "account": self.account.text(),
-            "password": self.password.text(),
+            "headless": self.headless.currentData(),
+            "residence_time": int(self.residence.text() or 75),
+            "target_percentage": float(self.target.text() or 1.05),
+            "ai_api_key": self.ai_key.text().strip(),
         }
+
+    def show_ai_verifying(self):
+        self.btn_ok.setEnabled(False)
+        self.ai_status.setStyleSheet("font-size: 12px; color: #888; background: transparent;")
+        self.ai_status.setText("⏳ 驗證 API Key 中...")
+        self.ai_status.show()
+
+    def show_ai_result(self, ok: bool, msg: str):
+        self.btn_ok.setEnabled(True)
+        color = "#16a34a" if ok else "#dc2626"
+        self.ai_status.setStyleSheet(f"font-size: 12px; color: {color}; background: transparent;")
+        self.ai_status.setText(msg)
+        self.ai_status.show()
 
     def load_data(self, data):
         self.name.setText(data.get("name", ""))
@@ -1199,6 +1246,14 @@ class SettingsPanel(QFrame):
         form.addRow("AI API Key", self.ai_key)
 
         layout.addLayout(form)
+
+        # AI 驗證狀態 label（預設隱藏）
+        self.ai_status = QLabel("")
+        self.ai_status.setAlignment(Qt.AlignCenter)
+        self.ai_status.setWordWrap(True)
+        self.ai_status.setStyleSheet("font-size: 12px; color: #555; background: transparent;")
+        self.ai_status.hide()
+        layout.addWidget(self.ai_status)
 
         # ===== 按鈕區 =====
         btn_row = QHBoxLayout()
@@ -1559,12 +1614,14 @@ class MainWindow(QWidget):
         current = AdminEfficiencyPilot.__dict__.get("version", None)
         # 從 class 層拿不到，改用暫時 instance 取得版本和 changelog
         _tmp = AdminEfficiencyPilot.__new__(AdminEfficiencyPilot)
-        _tmp.version = "V2.0.2"
+        _tmp.version = "V2.0.3"
         _tmp.changelog = (
-            "• 整合 AI 補答功能（選用，需設定 ai_api_key）\n"
-            "• AI 答題通過後自動將答案存入本地 questions.db\n"
-            "• 考完後正確答案自動同步至 questions.db\n"
-            "• 重構 db 寫入邏輯，統一由 _save_answers_to_db 處理"
+            "• 存設定時立即驗證 AI API Key 是否有效\n"
+            "• 啟動時顯示 AI 補答啟用狀態\n"
+            "• 修正版本檢查抓到 404 誤觸更新提示\n"
+            "• 啟動時立即偵測新版本，不等進入課程\n"
+            "• 左下角顯示版本號\n"
+            "• 設定面板加入 AI API Key 欄位"
         )
 
         _update_signal = UpdateSignal()

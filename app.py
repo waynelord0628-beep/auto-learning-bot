@@ -103,12 +103,14 @@ class AdminEfficiencyPilot:
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
         logger.info(f"📋 settings={self.config.get('settings', {})}")
 
-        self.version = "V2.0.2"
+        self.version = "V2.0.3"
         self.changelog = (
-            "• 整合 AI 補答功能（選用，需設定 ai_api_key）\n"
-            "• AI 答題通過後自動將答案存入本地 questions.db\n"
-            "• 考完後正確答案自動同步至 questions.db\n"
-            "• 重構 db 寫入邏輯，統一由 _save_answers_to_db 處理"
+            "• 存設定時立即驗證 AI API Key 是否有效\n"
+            "• 啟動時顯示 AI 補答啟用狀態\n"
+            "• 修正版本檢查抓到 404 誤觸更新提示\n"
+            "• 啟動時立即偵測新版本，不等進入課程\n"
+            "• 左下角顯示版本號\n"
+            "• 設定面板加入 AI API Key 欄位"
         )
         self._update_checked = False
         # 打包成 exe 時用 exe 所在目錄；一般執行時用腳本所在目錄
