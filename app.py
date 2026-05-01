@@ -103,7 +103,7 @@ class AdminEfficiencyPilot:
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
         logger.info(f"📋 settings={self.config.get('settings', {})}")
 
-        self.version = "V2.0.0"
+        self.version = "V2.0.1"
         # 打包成 exe 時用 exe 所在目錄；一般執行時用腳本所在目錄
         import sys
 
