@@ -1546,6 +1546,7 @@ class AdminEfficiencyPilot:
                 logger.info("⚙️ 使用 Headless 模式（背景執行）")
                 options.add_argument("--headless=old")
                 options.add_argument("--window-size=1920,1080")
+                options.add_argument("--disable-blink-features=AutomationControlled")
             else:
                 # ⭐ 顯示窗口
                 logger.info("🖥️ 使用顯示模式（有窗口）")
@@ -1710,29 +1711,31 @@ class AdminEfficiencyPilot:
                 return result
         try:
             current_year = time.strftime("%Y")
-            payload = (
-                f"year={current_year}&keyword=&course_type=single&page=1&orderby=&sort="
-            )
-            resp = self.http_session.post(
-                self.api_url, data=payload, verify=False, timeout=10
-            )
-            data = resp.json().get("data", [])
-            for c in data:
-                if str(c.get("course_id")) == str(course_id):
-                    cur_s = to_sec(c.get("rss", "00:00:00"))
-                    target_s = to_sec(
-                        c.get("criteria_content_hour", "00:30:00")
-                    ) * self.config.get("target_percentage", 1.0)
-                    result = {
-                        "cur_str": sec_to_str(cur_s),
-                        "target_str": sec_to_str(target_s),
-                        "cur_sec": cur_s,
-                        "target_sec": target_s,
-                    }
-                    if not hasattr(self, "_progress_cache"):
-                        self._progress_cache = {}
-                    self._progress_cache[cache_key] = (result, now)
-                    return result
+            # 多頁查詢，避免課程在 page>1 時查不到進度
+            for _page in range(1, 21):
+                payload = f"year={current_year}&keyword=&course_type=single&page={_page}&orderby=&sort="
+                resp = self.http_session.post(
+                    self.api_url, data=payload, verify=False, timeout=10
+                )
+                data = resp.json().get("data", [])
+                for c in data:
+                    if str(c.get("course_id")) == str(course_id):
+                        cur_s = to_sec(c.get("rss", "00:00:00"))
+                        target_s = to_sec(
+                            c.get("criteria_content_hour", "00:30:00")
+                        ) * self.config.get("target_percentage", 1.0)
+                        result = {
+                            "cur_str": sec_to_str(cur_s),
+                            "target_str": sec_to_str(target_s),
+                            "cur_sec": cur_s,
+                            "target_sec": target_s,
+                        }
+                        if not hasattr(self, "_progress_cache"):
+                            self._progress_cache = {}
+                        self._progress_cache[cache_key] = (result, now)
+                        return result
+                if len(data) < 50:
+                    break  # 最後一頁，不再繼續
         except Exception as e:
             logger.debug(f"進度查詢失敗: {e}")
         return None
@@ -1759,6 +1762,21 @@ class AdminEfficiencyPilot:
             self.driver.execute_script(f"gotoCourse({course['course_id']})")
             if not self.safe_sleep(5):
                 return "STOP"
+
+            # ⭐ 進入課程後先攔截 alert（如「您非本門課的學生」）
+            try:
+                WebDriverWait(self.driver, 3).until(EC.alert_is_present())
+                alert = self.driver.switch_to.alert
+                alert_text = alert.text
+                alert.accept()
+                logger.warning(f"⚠️ gotoCourse 後偵測到 Alert：{alert_text}")
+                if any(kw in alert_text for kw in ["非本門課", "無法上課", "無權限", "不開放", "未選課"]):
+                    logger.warning(f"⚠️ 此課程無法進入（{alert_text}），永久跳過。")
+                    return "SKIP"
+                elif any(kw in alert_text for kw in ["閒置", "重新登入", "登出"]):
+                    return "RELOGIN"
+            except Exception:
+                pass  # 無 alert，正常繼續
 
             # ⭐ 檢查點 2
             if not self.running:
@@ -1874,8 +1892,16 @@ class AdminEfficiencyPilot:
                                 return "STOP"
                             time.sleep(1)
                 except Exception as e:
-                    logger.debug(f"frame 切換失敗: {e}")
+                    logger.warning(f"   ⚠️ frame 切換失敗: {e}")
                     frame_fail_count += 1
+                    # 診斷：記錄當前 URL 與視窗數量，幫助判斷頁面狀態
+                    try:
+                        logger.warning(f"   🔍 當前 URL: {self.driver.current_url}, 視窗數: {len(self.driver.window_handles)}")
+                        frames = self.driver.find_elements(By.TAG_NAME, "iframe")
+                        frame_ids = [f.get_attribute("name") or f.get_attribute("id") or "(no id)" for f in frames]
+                        logger.warning(f"   🔍 頁面 iframe 清單: {frame_ids}")
+                    except Exception as diag_e:
+                        logger.warning(f"   🔍 診斷失敗: {diag_e}")
                     if frame_fail_count >= 5:
                         logger.error(
                             f"   ❌ 連續 5 次找不到課程選單，視窗可能已毀損，嘗試重啟。"
@@ -1929,6 +1955,14 @@ class AdminEfficiencyPilot:
                 else:
                     logger.error("❌ 重新登入失敗，跳過當前課程。")
                     return "ERROR"
+            elif any(kw in alert_text for kw in ["非本門課", "無法上課", "無權限", "不開放", "未選課"]):
+                logger.warning(f"⚠️ 此課程無法上課（{alert_text}），永久跳過。")
+                try:
+                    self.driver.get(self.stat_url)
+                except Exception:
+                    pass
+                time.sleep(3)
+                return "SKIP"
             else:
                 logger.error(f"   ❌ 研習異常（Alert）: {alert_text}", exc_info=True)
                 try:
@@ -1983,12 +2017,18 @@ class AdminEfficiencyPilot:
             while self.running:
                 try:
                     cur_y = time.strftime("%Y")
-                    payload = f"year={cur_y}&keyword=&course_type=single&page=1&orderby=&sort="
                     try:
-                        r = self.http_session.post(
-                            self.api_url, data=payload, verify=False, timeout=10
-                        )
-                        courses = r.json().get("data", [])
+                        # 撈所有分頁，避免只查 page=1 而遺漏後面頁的課程
+                        courses = []
+                        for _page in range(1, 20):
+                            _payload = f"year={cur_y}&keyword=&course_type=single&page={_page}&orderby=&sort="
+                            _r = self.http_session.post(
+                                self.api_url, data=_payload, verify=False, timeout=10
+                            )
+                            _data = _r.json().get("data", [])
+                            courses.extend(_data)
+                            if len(_data) < 50:
+                                break  # 不足 50 筆代表已是最後一頁
                     except Exception as e:
                         logger.error(f"無法讀取列表，重試中... ({e})")
                         for _ in range(10):
@@ -2005,13 +2045,54 @@ class AdminEfficiencyPilot:
                         logger.info("🛑 已收到停止指令（取得課程後）")
                         break
 
+                    logger.info(f"📋 API 回傳課程總數：{len(courses)} 筆")
+
+                    # ⭐ 防呆：API 回 0 筆可能是 session 失效，重新 sync 再試一次
+                    if len(courses) == 0:
+                        logger.warning("⚠️ API 回傳 0 筆，嘗試重新同步 session 後重查...")
+                        self.sync_session()
+                        time.sleep(3)
+                        try:
+                            courses = []
+                            for _page in range(1, 20):
+                                _payload = f"year={cur_y}&keyword=&course_type=single&page={_page}&orderby=&sort="
+                                _r = self.http_session.post(
+                                    self.api_url, data=_payload, verify=False, timeout=10
+                                )
+                                _data = _r.json().get("data", [])
+                                courses.extend(_data)
+                                if len(_data) < 50:
+                                    break
+                        except Exception as e:
+                            logger.error(f"重查失敗: {e}")
+                        logger.info(f"📋 重查後課程總數：{len(courses)} 筆")
+                        if len(courses) == 0:
+                            logger.warning("⚠️ 重查仍為 0 筆，等待 30 秒後繼續（可能是暫時性問題）...")
+                            for _ in range(30):
+                                if not self.running:
+                                    break
+                                time.sleep(1)
+                            continue  # 回到 while 迴圈頂端重新整個流程
+
                     pending = [
                         c
                         for c in courses
                         if to_sec(c.get("rss", "00:00:00"))
                         < to_sec(c.get("criteria_content_hour", "00:00:00"))
                         * self.config.get("target_percentage", 1.0)
+                        # 考試已通過且問卷已填 → 視為真正完成，不再上課補時數
+                        and not (
+                            c.get("exam_score") is not None and c.get("fill") == "1"
+                        )
+                        # 本次 session 已永久跳過（如「非本門課」）的課程
+                        and str(c.get("course_id", "")) not in self._completed_in_session
                     ]
+                    if pending:
+                        logger.info(
+                            f"⏳ 待上課程 {len(pending)} 筆："
+                            + "、".join(c.get("caption", "?")[:15] for c in pending[:5])
+                            + ("..." if len(pending) > 5 else "")
+                        )
 
                     # 時數已達標 且 考試未通過 或 問卷未填 的課程
                     def _needs_exam_or_questionnaire(c):
@@ -2130,6 +2211,12 @@ class AdminEfficiencyPilot:
                                 logger.error("❌ 引擎重啟或登入失敗，無法繼續。")
                                 break
                             self.current_idx -= 1
+                        elif res == "SKIP":
+                            # 永久性無法上課（如「您非本門課的學生」），排除此課程
+                            c_id = str(pending[0].get("course_id", ""))
+                            if c_id:
+                                self._completed_in_session.add(c_id)
+                            logger.info(f"⏭️ 已永久跳過課程，繼續下一門...")
                         elif res == "ERROR":
                             logger.info("⏳ 發生研習異常，稍後嘗試下一門課程...")
                             time.sleep(5)
