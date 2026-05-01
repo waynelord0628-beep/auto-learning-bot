@@ -284,7 +284,7 @@ class AdminEfficiencyPilot:
                     "target_percentage": 1.05,
                     "residence_time": 75,
                 },
-                "blacklist": ["環境", "勘誤", "前言", "新手", "簡介"],
+                "blacklist": ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"],
             }
 
             with open(path, "w", encoding="utf-8") as f:
@@ -300,7 +300,7 @@ class AdminEfficiencyPilot:
 
         # ⭐ 確保 blacklist 存在
         if "blacklist" not in config_data:
-            config_data["blacklist"] = ["環境", "勘誤", "前言", "新手", "簡介"]
+            config_data["blacklist"] = ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"]
 
         # ⭐ 直接回傳完整配置
         return config_data
@@ -1849,16 +1849,28 @@ class AdminEfficiencyPilot:
                     self.driver.switch_to.frame("pathtree")
                     frame_fail_count = 0
 
-                    links = [
+                    all_links = [
                         l
                         for l in self.driver.find_elements(By.TAG_NAME, "a")
                         if l.text.strip()
-                        and not any(k in l.text for k in self.config["blacklist"])
                     ]
+                    links = [
+                        l for l in all_links
+                        if l.text.strip() not in self.config["blacklist"]
+                    ]
+                    # 診斷：若無可用 link，記錄原始清單
+                    if not links:
+                        all_texts = [l.text.strip() for l in all_links]
+                        logger.warning(f"   ⚠️ pathtree 無可選單元，原始清單({len(all_texts)}筆): {all_texts[:20]}")
                     target = next(
                         (l for l in links if l.text not in attempted),
                         random.choice(links) if links else None,
                     )
+                    # 所有單元都已嘗試過 → 重置讓下一輪重新輪
+                    if target is None and links:
+                        logger.info("   🔄 所有單元已輪完，重置重新輪...")
+                        attempted.clear()
+                        target = random.choice(links)
 
                     if target:
                         # ⭐ 檢查點 7（進入單元前）
