@@ -1582,29 +1582,27 @@ class UpdateDialog(QDialog):
             QLabel { color: #2c3e50; background: transparent; }
         """)
 
+        # 外層 layout 只裝一個 _container widget
+        self._outer = QVBoxLayout(self)
+        self._outer.setSpacing(0)
+        self._outer.setContentsMargins(0, 0, 0, 0)
+        self._container = None
+
         self._build_stage_one()
 
     # ---------- 共用元件 ----------
-    def _clear_layout(self):
-        """清除目前所有元件，準備切換階段"""
-        old_layout = self.layout()
-        if old_layout is not None:
-            while old_layout.count():
-                item = old_layout.takeAt(0)
-                w = item.widget()
-                if w is not None:
-                    w.deleteLater()
-                else:
-                    sub = item.layout()
-                    if sub is not None:
-                        # 遞迴刪除子 layout
-                        while sub.count():
-                            sub_item = sub.takeAt(0)
-                            sw = sub_item.widget()
-                            if sw is not None:
-                                sw.deleteLater()
-            # 移除舊 layout 本身
-            QWidget().setLayout(old_layout)
+    def _reset_container(self):
+        """移除舊容器並建立新的 container widget"""
+        if self._container is not None:
+            self._outer.removeWidget(self._container)
+            self._container.deleteLater()
+            self._container = None
+        self._container = QWidget(self)
+        self._container.setStyleSheet("background: #f5f7fa;")
+        self._outer.addWidget(self._container)
+        # 強制重新計算尺寸
+        self.adjustSize()
+        return QVBoxLayout(self._container)
 
     def _make_header(self, layout):
         header = QLabel()
@@ -1622,8 +1620,7 @@ class UpdateDialog(QDialog):
 
     # ---------- 階段一：版本資訊 ----------
     def _build_stage_one(self):
-        self._clear_layout()
-        layout = QVBoxLayout(self)
+        layout = self._reset_container()
         layout.setSpacing(0)
         layout.setContentsMargins(0, 0, 0, 0)
         self._make_header(layout)
@@ -1667,17 +1664,18 @@ class UpdateDialog(QDialog):
 
         # 版本資訊框
         info_box = QFrame()
+        info_box.setObjectName("infoBox")
         info_box.setStyleSheet("""
-            QFrame {
+            QFrame#infoBox {
                 background: #ffffff;
                 border: 1px solid #e1e7ed;
                 border-radius: 6px;
             }
-            QLabel { color: #555f6e; font-size: 12px; padding: 2px 0; }
+            QFrame#infoBox QLabel { color: #555f6e; font-size: 12px; padding: 4px 2px; border: none; background: transparent; min-height: 18px; }
         """)
         info_layout = QVBoxLayout(info_box)
-        info_layout.setContentsMargins(14, 10, 14, 10)
-        info_layout.setSpacing(2)
+        info_layout.setContentsMargins(14, 12, 14, 12)
+        info_layout.setSpacing(6)
         info_layout.addWidget(QLabel(f"目前版本：{self.current_version}"))
         info_layout.addWidget(QLabel("平台：windows-amd64"))
         content.addWidget(info_box)
@@ -1741,8 +1739,7 @@ class UpdateDialog(QDialog):
 
     # ---------- 階段二：下載中 / 完成 ----------
     def _build_stage_two(self, done: bool = False):
-        self._clear_layout()
-        layout = QVBoxLayout(self)
+        layout = self._reset_container()
         layout.setSpacing(0)
         layout.setContentsMargins(0, 0, 0, 0)
         self._make_header(layout)
@@ -1819,13 +1816,14 @@ class UpdateDialog(QDialog):
 
         # 版本資訊框
         info_box = QFrame()
+        info_box.setObjectName("infoBox")
         info_box.setStyleSheet("""
-            QFrame { background: #ffffff; border: 1px solid #e1e7ed; border-radius: 6px; }
-            QLabel { color: #555f6e; font-size: 12px; padding: 2px 0; }
+            QFrame#infoBox { background: #ffffff; border: 1px solid #e1e7ed; border-radius: 6px; }
+            QFrame#infoBox QLabel { color: #555f6e; font-size: 12px; padding: 4px 2px; border: none; background: transparent; min-height: 18px; }
         """)
         info_layout = QVBoxLayout(info_box)
-        info_layout.setContentsMargins(14, 10, 14, 10)
-        info_layout.setSpacing(2)
+        info_layout.setContentsMargins(14, 12, 14, 12)
+        info_layout.setSpacing(6)
         info_layout.addWidget(QLabel(f"目前版本：{self.current_version}"))
         info_layout.addWidget(QLabel("平台：windows-amd64"))
         content.addWidget(info_box)
@@ -1936,66 +1934,236 @@ class UpdateDialog(QDialog):
         self._build_stage_two(done=True)
 
     def _on_failed(self, msg: str):
-        QMessageBox.critical(
-            self, "下載失敗",
-            f"自動下載失敗：{msg}\n\n請至 GitHub Releases 手動下載最新版本。"
+        from PySide6.QtGui import QDesktopServices
+        from PySide6.QtCore import QUrl
+
+        FALLBACK_URL = "https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest"
+
+        fail_dlg = QDialog(self)
+        fail_dlg.setWindowTitle("自動下載失敗")
+        fail_dlg.setFixedWidth(440)
+        fail_dlg.setStyleSheet("""
+            QDialog { background: #f5f7fa; }
+            QLabel { color: #2c3e50; background: transparent; }
+        """)
+        f_outer = QVBoxLayout(fail_dlg)
+        f_outer.setSpacing(0)
+        f_outer.setContentsMargins(0, 0, 0, 0)
+
+        # 紅色頂部色帶
+        f_header = QLabel()
+        f_header.setFixedHeight(6)
+        f_header.setStyleSheet("background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #ef5350,stop:1 #c62828);")
+        f_outer.addWidget(f_header)
+
+        body = QVBoxLayout()
+        body.setSpacing(12)
+        body.setContentsMargins(28, 22, 28, 18)
+
+        # 標題列
+        title_row = QHBoxLayout()
+        title_row.setSpacing(12)
+        ico = QLabel("⚠")
+        ico.setFixedSize(40, 40)
+        ico.setStyleSheet("""
+            background: #ffebee; border-radius: 8px;
+            color: #c62828; font-size: 22px; font-weight: bold;
+            qproperty-alignment: AlignCenter;
+        """)
+        title_row.addWidget(ico)
+
+        tbox = QVBoxLayout()
+        tbox.setSpacing(2)
+        ttl = QLabel("自動下載失敗")
+        ttl.setStyleSheet("font-size: 16px; font-weight: bold; color: #c62828;")
+        sub = QLabel(f"錯誤：{msg}")
+        sub.setStyleSheet("font-size: 11px; color: #7f8c8d;")
+        sub.setWordWrap(True)
+        tbox.addWidget(ttl)
+        tbox.addWidget(sub)
+        title_row.addLayout(tbox, 1)
+        body.addLayout(title_row)
+
+        # 指引文字
+        guide = QLabel(
+            "請點擊下方按鈕前往下載頁面，找到最新版的 <b>.exe</b> 檔下載後，"
+            "替換掉目前資料夾中的舊版本即可完成更新。"
         )
+        guide.setStyleSheet("""
+            font-size: 12px; color: #555f6e;
+            padding: 10px 12px; background: #ffffff;
+            border: 1px solid #e1e7ed; border-radius: 6px;
+        """)
+        guide.setWordWrap(True)
+        guide.setTextFormat(Qt.RichText)
+        body.addWidget(guide)
+
+        # 按鈕列
+        b_row = QHBoxLayout()
+        b_row.setSpacing(10)
+
+        btn_close = QPushButton("關閉")
+        btn_close.setFixedHeight(36)
+        btn_close.setStyleSheet("""
+            QPushButton {
+                background: #ecf0f1; color: #7f8c8d;
+                border-radius: 6px; padding: 0 22px; font-size: 13px;
+                border: 1px solid #dce1e7;
+            }
+            QPushButton:hover { background: #dde3e8; }
+        """)
+        btn_close.clicked.connect(fail_dlg.reject)
+
+        btn_open = QPushButton("開啟下載頁面")
+        btn_open.setFixedHeight(36)
+        btn_open.setStyleSheet("""
+            QPushButton {
+                background: #0288d1; color: #fff; font-weight: bold;
+                border-radius: 6px; padding: 0 22px; font-size: 13px;
+                border: none;
+            }
+            QPushButton:hover { background: #0277bd; }
+        """)
+        btn_open.clicked.connect(lambda: QDesktopServices.openUrl(QUrl(self.url or FALLBACK_URL)))
+        btn_open.clicked.connect(fail_dlg.accept)
+
+        b_row.addStretch()
+        b_row.addWidget(btn_close)
+        b_row.addWidget(btn_open)
+        body.addLayout(b_row)
+
+        f_outer.addLayout(body)
+        fail_dlg.exec()
         self.reject()
 
     # ---------- 安裝（替換 exe 並重啟）----------
     def _install_and_restart(self):
         import os, tempfile
         if not self.downloaded_path or not os.path.exists(self.downloaded_path):
-            QMessageBox.critical(self, "錯誤", "找不到已下載的更新檔。")
+            self._on_failed("找不到已下載的更新檔（可能被防毒軟體刪除）")
             return
 
         current_exe = sys.executable  # 目前運行中的 exe 完整路徑
         new_exe = self.downloaded_path
+        exe_dir = os.path.dirname(current_exe)
+        # 統一目標檔名（去掉版本號），未來升級永遠用同一個檔名，
+        # 捷徑/工作列釘選/開機自啟動才不會因檔名改變而失效
+        target_exe = os.path.join(exe_dir, "行政效能領航員.exe")
 
-        # 寫一個 updater bat：等舊程式退出 → 覆蓋 exe → 啟動新版 → 刪自己
-        bat_path = os.path.join(tempfile.gettempdir(), "auto_update.bat")
-        bat_content = f"""@echo off
-chcp 65001 > nul
-echo 正在更新「行政效能領航員」...
-timeout /t 2 /nobreak > nul
-:retry
-del "{current_exe}" 2> nul
-if exist "{current_exe}" (
-    timeout /t 1 /nobreak > nul
-    goto retry
-)
-move /Y "{new_exe}" "{current_exe}" > nul
-if errorlevel 1 (
-    echo 更新失敗，請手動將 "{new_exe}" 移動到 "{current_exe}"
-    pause
-    exit /b 1
-)
-start "" "{current_exe}"
-del "%~f0"
+        # 用 PowerShell 寫 updater 腳本（PowerShell 原生支援 UTF-16，中文路徑無編碼問題；
+        # 過去用 bat 會因 cp950/UTF-8 編碼衝突導致中文路徑全變亂碼，所有命令失敗）
+        ps1_path = os.path.join(tempfile.gettempdir(), "auto_update.ps1")
+        # 路徑單引號跳脫：PowerShell 單引號字串中，單引號需寫成兩個單引號
+        cur_q = current_exe.replace("'", "''")
+        new_q = new_exe.replace("'", "''")
+        dir_q = exe_dir.replace("'", "''")
+        tgt_q = target_exe.replace("'", "''")
+        ps1_content = f"""$ErrorActionPreference = 'Continue'
+$logPath = '{dir_q}\\update_debug.log'
+function Log($msg) {{ Add-Content -LiteralPath $logPath -Value ("[ps1 " + (Get-Date -Format 'HH:mm:ss') + "] " + $msg) -Encoding UTF8 }}
+Log "ps1 started, pid=$PID"
+Start-Sleep -Milliseconds 800
+$exe = '{cur_q}'
+$new = '{new_q}'
+$dir = '{dir_q}'
+$tgt = '{tgt_q}'
+Log "exe=$exe"
+Log "new=$new"
+Log "tgt=$tgt"
+# 1. 主動 kill 殘留的舊程序
+Get-Process | Where-Object {{ $_.Path -eq $exe }} | ForEach-Object {{ Log "killing pid=$($_.Id)"; Stop-Process -Id $_.Id -Force -ErrorAction SilentlyContinue }}
+Start-Sleep -Milliseconds 300
+# 2. 重試刪除舊 exe（最多 10 次）
+for ($i = 0; $i -lt 10; $i++) {{
+    try {{ Remove-Item -LiteralPath $exe -Force -ErrorAction Stop; Log "deleted old exe at try $i"; break }}
+    catch {{ Log "delete try $i failed: $_"; Start-Sleep -Seconds 1 }}
+}}
+# 2b. 若目標檔名與舊 exe 不同（升級時改名情境），也嘗試刪除目標位置的舊檔
+if ($tgt -ne $exe) {{
+    try {{ if (Test-Path -LiteralPath $tgt) {{ Remove-Item -LiteralPath $tgt -Force -ErrorAction Stop; Log "deleted existing target" }} }}
+    catch {{ Log "delete target failed: $_" }}
+}}
+# 3. 移動新 exe 到目標位置（永遠用「行政效能領航員.exe」這個檔名）
+try {{
+    Move-Item -LiteralPath $new -Destination $tgt -Force -ErrorAction Stop
+    Log "moved new exe -> $tgt"
+}} catch {{
+    Log "move failed: $_"
+    exit 1
+}}
+# 4. 啟動新版（指定工作目錄避免 cwd 問題）
+# 4a. 短暫等待讓主程式完全脫離、檔案鎖徹底釋放
+Start-Sleep -Milliseconds 300
+try {{
+    # 用 explorer.exe 啟動，等同使用者雙擊 — 避免 PowerShell token/環境繼承導致 PyInstaller 解壓失敗
+    Start-Process -FilePath 'explorer.exe' -ArgumentList $tgt
+    Log "started new exe"
+}} catch {{
+    Log "start failed: $_"
+}}
+# 5. 刪自己
+Remove-Item -LiteralPath $MyInvocation.MyCommand.Path -Force -ErrorAction SilentlyContinue
+Log "ps1 done"
 """
         try:
-            with open(bat_path, "w", encoding="utf-8") as f:
-                f.write(bat_content)
+            # PowerShell 必須用 UTF-8 with BOM 寫，否則 PowerShell 5.1 預設用
+            # 系統 ANSI (cp950) 解碼，中文路徑會變亂碼導致 Move/Start 全失敗
+            with open(ps1_path, "w", encoding="utf-8-sig") as f:
+                f.write(ps1_content)
         except Exception as e:
-            QMessageBox.critical(self, "錯誤", f"無法建立更新腳本：{e}")
+            self._on_failed(f"無法建立更新腳本：{e}")
             return
 
-        # 用 shell 啟動 bat（不等待），然後關閉自己
-        import subprocess
+        # 用 DETACHED_PROCESS 啟動 powershell，再立刻退出本程式
+        import subprocess, base64
         try:
-            subprocess.Popen(
-                ["cmd", "/c", bat_path],
-                creationflags=0x00000008,  # DETACHED_PROCESS
+            # 寫安裝 log 供事後排查
+            try:
+                log_dir = os.path.dirname(sys.executable) if getattr(sys, "frozen", False) else "."
+                with open(os.path.join(log_dir, "update_debug.log"), "a", encoding="utf-8") as lf:
+                    lf.write(f"install: ps1={ps1_path}\n")
+                    lf.write(f"install: current_exe={current_exe}\n")
+                    lf.write(f"install: new_exe={new_exe}\n")
+                    lf.write(f"install: new_exe exists={os.path.exists(new_exe)}\n")
+            except Exception:
+                pass
+
+            # 用 -EncodedCommand (base64 UTF-16LE) 直接把 ps1 內容塞給 PowerShell，
+            # 完全繞過「讀檔編碼」問題。PowerShell 收到 -EncodedCommand 後會用
+            # UTF-16LE 解碼，中文 100% 保留。
+            encoded = base64.b64encode(ps1_content.encode("utf-16-le")).decode("ascii")
+
+            # 不用 DETACHED_PROCESS（會干擾 PowerShell 啟動），
+            # 改用 STARTUPINFO 隱藏視窗 + CREATE_NEW_PROCESS_GROUP 讓子程序獨立
+            si = subprocess.STARTUPINFO()
+            si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+            si.wShowWindow = 0  # SW_HIDE
+
+            proc = subprocess.Popen(
+                ["powershell", "-NoProfile", "-ExecutionPolicy", "Bypass",
+                 "-WindowStyle", "Hidden", "-EncodedCommand", encoded],
+                creationflags=0x00000200,  # CREATE_NEW_PROCESS_GROUP
+                startupinfo=si,
                 close_fds=True,
             )
+            try:
+                with open(os.path.join(log_dir, "update_debug.log"), "a", encoding="utf-8") as lf:
+                    lf.write(f"install: ps proc pid={proc.pid} (encoded cmd, len={len(encoded)})\n")
+            except Exception:
+                pass
         except Exception as e:
-            QMessageBox.critical(self, "錯誤", f"無法啟動更新程序：{e}")
+            self._on_failed(f"無法啟動更新程序：{e}")
             return
 
-        # 關閉對話框並退出主程式
+        # 關閉對話框並退出主程式 — 給 PyInstaller 機會清理自己的 _MEI 目錄，
+        # 避免新 exe 啟動時與舊 _MEI 殘留衝突導致「Failed to load Python DLL」
+        import time
         self.accept()
+        QApplication.processEvents()
+        time.sleep(0.2)
         QApplication.quit()
-        os._exit(0)
+        # 用 sys.exit 而非 os._exit，讓 PyInstaller atexit handler 有機會清 _MEI
+        sys.exit(0)
 
 
 # =========================
@@ -2560,6 +2728,17 @@ class MainWindow(QWidget):
 # Run
 # =========================
 if __name__ == "__main__":
+    # 強制把工作目錄切到 exe / 腳本所在資料夾，
+    # 避免從捷徑或 updater.bat 啟動時 cwd 跑到 System32 導致 config.json 寫入權限錯誤
+    try:
+        if getattr(sys, "frozen", False):
+            _base_dir = os.path.dirname(sys.executable)
+        else:
+            _base_dir = os.path.dirname(os.path.abspath(__file__))
+        os.chdir(_base_dir)
+    except Exception:
+        pass
+
     app = QApplication(sys.argv)
     app.setStyleSheet(GLOBAL_QSS)
     w = MainWindow()
