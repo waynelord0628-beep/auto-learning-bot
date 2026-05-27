@@ -40,7 +40,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import UnexpectedAlertPresentException
+from selenium.common.exceptions import UnexpectedAlertPresentException, NoAlertPresentException
 from colorama import Fore, Style, init
 
 from utils.helpers import get_logger, to_sec, sec_to_str, draw_bar
@@ -75,7 +75,7 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.0.5"
+    VERSION = "V2.0.6"
     CHANGELOG = (
         "• 修復 Chrome 升版後 driver 衝突導致無法啟動的問題\n"
         "• 新增多種 AI 模型支援（OpenAI、Gemini、Claude、Groq 及自訂）\n"
@@ -2064,6 +2064,17 @@ class AdminEfficiencyPilot:
                                 return "STOP"
                             time.sleep(1)
                 except Exception as e:
+                    # 優先攔截殘留 alert（如閒置登出），避免後續操作全部失敗
+                    try:
+                        alert = self.driver.switch_to.alert
+                        alert_text = alert.text
+                        alert.accept()
+                        logger.warning(f"   ⚠️ frame 切換時偵測到 Alert：{alert_text}")
+                        if any(kw in alert_text for kw in ["閒置", "重新登入", "登出"]):
+                            logger.warning("🔄 帳號閒置被登出，拋回外層觸發重新登入...")
+                            raise UnexpectedAlertPresentException(alert_text)
+                    except NoAlertPresentException:
+                        pass
                     logger.warning(f"   ⚠️ frame 切換失敗: {e}")
                     frame_fail_count += 1
                     # 診斷：記錄當前 URL 與視窗數量，幫助判斷頁面狀態
@@ -2412,6 +2423,7 @@ class AdminEfficiencyPilot:
                         if res == "RELOGIN":
                             # 閒置登出後已重新登入，重試當前課程（退回 index）
                             logger.info("🔄 閒置登出重新登入成功，重試當前課程...")
+                            self.sync_session()  # 確保 http_session 用最新 cookie
                             self.current_idx -= 1
                             continue
 
