@@ -19,6 +19,7 @@ from PySide6.QtWidgets import (
     QLabel,
     QLineEdit,
     QMessageBox,
+    QProgressBar,
     QPushButton,
     QScrollArea,
     QSizePolicy,
@@ -1545,11 +1546,456 @@ class SettingsPanel(QFrame):
 from PySide6.QtCore import QObject
 
 class UpdateSignal(QObject):
-    notify = Signal(str, str, str)  # (latest_version, changelog, download_url)
+    # (latest_version, changelog, download_url, file_size_bytes)
+    notify = Signal(str, str, str, int)
     up_to_date = Signal()           # 已是最新版
 
-    def emit(self, version, changelog, url):
-        self.notify.emit(version, changelog, url)
+    def emit(self, version, changelog, url, size=0):
+        self.notify.emit(version, changelog, url, size)
+
+
+class _DownloadProgressSignal(QObject):
+    """下載進度訊號 (downloaded_bytes, total_bytes)"""
+    progress = Signal(int, int)
+    finished = Signal(str)   # 下載完成，帶完成檔案路徑
+    failed = Signal(str)     # 失敗，帶錯誤訊息
+
+
+class UpdateDialog(QDialog):
+    """兩階段更新對話框：階段一顯示版本資訊，階段二顯示下載進度與重啟"""
+
+    def __init__(self, parent, latest: str, changelog: str, url: str, size: int):
+        super().__init__(parent)
+        self.latest = latest
+        self.changelog = changelog
+        self.url = url
+        self.size = size
+        self.downloaded_path = None  # 下載完成後的暫存檔案路徑
+
+        from app import AdminEfficiencyPilot as _AEP
+        self.current_version = _AEP.VERSION
+
+        self.setWindowTitle("應用程式更新")
+        self.setFixedWidth(460)
+        self.setStyleSheet("""
+            QDialog { background: #f5f7fa; }
+            QLabel { color: #2c3e50; background: transparent; }
+        """)
+
+        self._build_stage_one()
+
+    # ---------- 共用元件 ----------
+    def _clear_layout(self):
+        """清除目前所有元件，準備切換階段"""
+        old_layout = self.layout()
+        if old_layout is not None:
+            while old_layout.count():
+                item = old_layout.takeAt(0)
+                w = item.widget()
+                if w is not None:
+                    w.deleteLater()
+                else:
+                    sub = item.layout()
+                    if sub is not None:
+                        # 遞迴刪除子 layout
+                        while sub.count():
+                            sub_item = sub.takeAt(0)
+                            sw = sub_item.widget()
+                            if sw is not None:
+                                sw.deleteLater()
+            # 移除舊 layout 本身
+            QWidget().setLayout(old_layout)
+
+    def _make_header(self, layout):
+        header = QLabel()
+        header.setFixedHeight(6)
+        header.setStyleSheet("background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #4fc3f7,stop:1 #0288d1);")
+        layout.addWidget(header)
+
+    def _fmt_size(self, n: int) -> str:
+        if n <= 0:
+            return "未知大小"
+        mb = n / 1024 / 1024
+        if mb >= 1:
+            return f"{mb:.1f} MB"
+        return f"{n / 1024:.0f} KB"
+
+    # ---------- 階段一：版本資訊 ----------
+    def _build_stage_one(self):
+        self._clear_layout()
+        layout = QVBoxLayout(self)
+        layout.setSpacing(0)
+        layout.setContentsMargins(0, 0, 0, 0)
+        self._make_header(layout)
+
+        content = QVBoxLayout()
+        content.setSpacing(12)
+        content.setContentsMargins(28, 24, 28, 20)
+
+        # 標題列（圖示 + 標題）
+        title_row = QHBoxLayout()
+        title_row.setSpacing(12)
+
+        icon_lbl = QLabel()
+        icon_lbl.setFixedSize(40, 40)
+        icon_lbl.setStyleSheet("""
+            background: #e3f2fd;
+            border-radius: 8px;
+            color: #0288d1;
+            font-size: 22px;
+            font-weight: bold;
+            qproperty-alignment: AlignCenter;
+        """)
+        icon_lbl.setText("⬇")
+        title_row.addWidget(icon_lbl)
+
+        title_box = QVBoxLayout()
+        title_box.setSpacing(2)
+        title = QLabel(f"新版本 {self.latest} 可用")
+        title.setStyleSheet("font-size: 16px; font-weight: bold; color: #0277bd;")
+        title_box.addWidget(title)
+
+        size_txt = self._fmt_size(self.size) if self.size else ""
+        sub = QLabel(f"將下載 {size_txt} 的更新檔，並在安裝前驗證檔案。" if size_txt
+                     else "將下載新版本更新檔，並在安裝前驗證檔案。")
+        sub.setStyleSheet("font-size: 11px; color: #7f8c8d;")
+        sub.setWordWrap(True)
+        title_box.addWidget(sub)
+        title_row.addLayout(title_box, 1)
+
+        content.addLayout(title_row)
+
+        # 版本資訊框
+        info_box = QFrame()
+        info_box.setStyleSheet("""
+            QFrame {
+                background: #ffffff;
+                border: 1px solid #e1e7ed;
+                border-radius: 6px;
+            }
+            QLabel { color: #555f6e; font-size: 12px; padding: 2px 0; }
+        """)
+        info_layout = QVBoxLayout(info_box)
+        info_layout.setContentsMargins(14, 10, 14, 10)
+        info_layout.setSpacing(2)
+        info_layout.addWidget(QLabel(f"目前版本：{self.current_version}"))
+        info_layout.addWidget(QLabel("平台：windows-amd64"))
+        content.addWidget(info_box)
+
+        # Changelog（可選）
+        if self.changelog:
+            change_title = QLabel("更新內容")
+            change_title.setStyleSheet("font-size: 12px; font-weight: bold; color: #34495e; margin-top: 4px;")
+            content.addWidget(change_title)
+            change_body = QLabel(self.changelog)
+            change_body.setStyleSheet("""
+                font-size: 11px; color: #555f6e;
+                padding: 8px 12px; background: #eaf4fb;
+                border-left: 3px solid #4fc3f7; border-radius: 4px;
+            """)
+            change_body.setWordWrap(True)
+            content.addWidget(change_body)
+
+        # 警告框
+        warn = QLabel("自動更新功能仍屬於「實驗性」功能，若自動更新失敗，請至 GitHub Releases 手動下載。")
+        warn.setStyleSheet("""
+            font-size: 11px; color: #8a6d3b;
+            background: #fcf3cf; border: 1px solid #f5e6a8;
+            border-radius: 4px; padding: 8px 10px;
+        """)
+        warn.setWordWrap(True)
+        content.addWidget(warn)
+
+        # 按鈕列
+        btn_row = QHBoxLayout()
+        btn_row.setSpacing(10)
+        btn_later = QPushButton("稍後")
+        btn_later.setFixedHeight(36)
+        btn_later.setStyleSheet("""
+            QPushButton {
+                background: #ecf0f1; color: #7f8c8d;
+                border-radius: 6px; padding: 0 22px; font-size: 13px;
+                border: 1px solid #dce1e7;
+            }
+            QPushButton:hover { background: #dde3e8; }
+        """)
+        btn_later.clicked.connect(self.reject)
+
+        btn_download = QPushButton("下載更新")
+        btn_download.setFixedHeight(36)
+        btn_download.setStyleSheet("""
+            QPushButton {
+                background: #0288d1; color: #fff; font-weight: bold;
+                border-radius: 6px; padding: 0 22px; font-size: 13px;
+                border: none;
+            }
+            QPushButton:hover { background: #0277bd; }
+        """)
+        btn_download.clicked.connect(self._start_download)
+
+        btn_row.addStretch()
+        btn_row.addWidget(btn_later)
+        btn_row.addWidget(btn_download)
+        content.addLayout(btn_row)
+        layout.addLayout(content)
+
+    # ---------- 階段二：下載中 / 完成 ----------
+    def _build_stage_two(self, done: bool = False):
+        self._clear_layout()
+        layout = QVBoxLayout(self)
+        layout.setSpacing(0)
+        layout.setContentsMargins(0, 0, 0, 0)
+        self._make_header(layout)
+
+        content = QVBoxLayout()
+        content.setSpacing(12)
+        content.setContentsMargins(28, 24, 28, 20)
+
+        # 標題列
+        title_row = QHBoxLayout()
+        title_row.setSpacing(12)
+        icon_lbl = QLabel()
+        icon_lbl.setFixedSize(40, 40)
+        if done:
+            icon_lbl.setText("✓")
+            icon_lbl.setStyleSheet("""
+                background: #e8f5e9; border-radius: 8px;
+                color: #2e7d32; font-size: 22px; font-weight: bold;
+                qproperty-alignment: AlignCenter;
+            """)
+        else:
+            icon_lbl.setText("⬇")
+            icon_lbl.setStyleSheet("""
+                background: #e3f2fd; border-radius: 8px;
+                color: #0288d1; font-size: 22px; font-weight: bold;
+                qproperty-alignment: AlignCenter;
+            """)
+        title_row.addWidget(icon_lbl)
+
+        title_box = QVBoxLayout()
+        title_box.setSpacing(2)
+        if done:
+            title = QLabel("更新已準備完成")
+            title.setStyleSheet("font-size: 16px; font-weight: bold; color: #2e7d32;")
+            sub = QLabel(f"重新啟動後會替換目前版本並開啟新版 {self.latest}。")
+        else:
+            title = QLabel(f"正在下載 {self.latest}")
+            title.setStyleSheet("font-size: 16px; font-weight: bold; color: #0277bd;")
+            sub = QLabel("下載完成前請勿關閉視窗。")
+        sub.setStyleSheet("font-size: 11px; color: #7f8c8d;")
+        sub.setWordWrap(True)
+        title_box.addWidget(title)
+        title_box.addWidget(sub)
+        title_row.addLayout(title_box, 1)
+        content.addLayout(title_row)
+
+        # 進度條
+        self.progress_bar = QProgressBar()
+        self.progress_bar.setFixedHeight(10)
+        self.progress_bar.setTextVisible(False)
+        if done:
+            self.progress_bar.setRange(0, 100)
+            self.progress_bar.setValue(100)
+        else:
+            self.progress_bar.setRange(0, max(self.size, 1))
+            self.progress_bar.setValue(0)
+        self.progress_bar.setStyleSheet("""
+            QProgressBar {
+                background: #e1e7ed; border: none; border-radius: 5px;
+            }
+            QProgressBar::chunk {
+                background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #4fc3f7,stop:1 #0288d1);
+                border-radius: 5px;
+            }
+        """)
+        content.addWidget(self.progress_bar)
+
+        # 進度文字
+        self.progress_label = QLabel("0 MB / " + self._fmt_size(self.size) + "    0%")
+        if done:
+            self.progress_label.setText(f"{self._fmt_size(self.size)}    100%")
+        self.progress_label.setStyleSheet("font-size: 11px; color: #7f8c8d;")
+        content.addWidget(self.progress_label)
+
+        # 版本資訊框
+        info_box = QFrame()
+        info_box.setStyleSheet("""
+            QFrame { background: #ffffff; border: 1px solid #e1e7ed; border-radius: 6px; }
+            QLabel { color: #555f6e; font-size: 12px; padding: 2px 0; }
+        """)
+        info_layout = QVBoxLayout(info_box)
+        info_layout.setContentsMargins(14, 10, 14, 10)
+        info_layout.setSpacing(2)
+        info_layout.addWidget(QLabel(f"目前版本：{self.current_version}"))
+        info_layout.addWidget(QLabel("平台：windows-amd64"))
+        content.addWidget(info_box)
+
+        # 警告框
+        warn = QLabel("自動更新功能仍屬於「實驗性」功能，若自動更新失敗，請至 GitHub Releases 手動下載。")
+        warn.setStyleSheet("""
+            font-size: 11px; color: #8a6d3b;
+            background: #fcf3cf; border: 1px solid #f5e6a8;
+            border-radius: 4px; padding: 8px 10px;
+        """)
+        warn.setWordWrap(True)
+        content.addWidget(warn)
+
+        # 按鈕列
+        btn_row = QHBoxLayout()
+        btn_row.setSpacing(10)
+        btn_later = QPushButton("稍後")
+        btn_later.setFixedHeight(36)
+        btn_later.setStyleSheet("""
+            QPushButton {
+                background: #ecf0f1; color: #7f8c8d;
+                border-radius: 6px; padding: 0 22px; font-size: 13px;
+                border: 1px solid #dce1e7;
+            }
+            QPushButton:hover { background: #dde3e8; }
+        """)
+        btn_later.clicked.connect(self.reject)
+        btn_row.addStretch()
+        btn_row.addWidget(btn_later)
+
+        if done:
+            btn_install = QPushButton("重新啟動安裝")
+            btn_install.setFixedHeight(36)
+            btn_install.setStyleSheet("""
+                QPushButton {
+                    background: #2e7d32; color: #fff; font-weight: bold;
+                    border-radius: 6px; padding: 0 22px; font-size: 13px;
+                    border: none;
+                }
+                QPushButton:hover { background: #1b5e20; }
+            """)
+            btn_install.clicked.connect(self._install_and_restart)
+            btn_row.addWidget(btn_install)
+        content.addLayout(btn_row)
+        layout.addLayout(content)
+
+    # ---------- 下載邏輯 ----------
+    def _start_download(self):
+        import tempfile, os
+        # 確認執行環境為打包版（frozen）
+        if not getattr(sys, "frozen", False):
+            QMessageBox.warning(
+                self, "無法自動更新",
+                "目前是從原始碼執行（非打包版 exe），自動更新僅支援打包後的 .exe 版本。\n"
+                "請至 GitHub Releases 取得最新原始碼。"
+            )
+            return
+
+        self._build_stage_two(done=False)
+
+        # 暫存檔案路徑
+        tmp_dir = tempfile.gettempdir()
+        self.downloaded_path = os.path.join(tmp_dir, f"行政效能領航員_{self.latest}_new.exe")
+
+        # 訊號
+        self._dl_signal = _DownloadProgressSignal()
+        self._dl_signal.progress.connect(self._on_progress)
+        self._dl_signal.finished.connect(self._on_finished)
+        self._dl_signal.failed.connect(self._on_failed)
+
+        # 背景下載
+        threading.Thread(target=self._download_worker, daemon=True).start()
+
+    def _download_worker(self):
+        import requests as _req
+        try:
+            with _req.get(self.url, stream=True, timeout=30, allow_redirects=True) as r:
+                if r.status_code != 200:
+                    self._dl_signal.failed.emit(f"HTTP {r.status_code}")
+                    return
+                total = int(r.headers.get("Content-Length", self.size or 0))
+                downloaded = 0
+                with open(self.downloaded_path, "wb") as f:
+                    for chunk in r.iter_content(chunk_size=64 * 1024):
+                        if not chunk:
+                            continue
+                        f.write(chunk)
+                        downloaded += len(chunk)
+                        self._dl_signal.progress.emit(downloaded, total)
+            self._dl_signal.finished.emit(self.downloaded_path)
+        except Exception as e:
+            self._dl_signal.failed.emit(str(e))
+
+    def _on_progress(self, downloaded: int, total: int):
+        if total > 0:
+            self.progress_bar.setRange(0, total)
+            self.progress_bar.setValue(downloaded)
+            pct = int(downloaded / total * 100)
+        else:
+            pct = 0
+        self.progress_label.setText(
+            f"{self._fmt_size(downloaded)} / {self._fmt_size(total)}    {pct}%"
+        )
+
+    def _on_finished(self, path: str):
+        self.downloaded_path = path
+        self._build_stage_two(done=True)
+
+    def _on_failed(self, msg: str):
+        QMessageBox.critical(
+            self, "下載失敗",
+            f"自動下載失敗：{msg}\n\n請至 GitHub Releases 手動下載最新版本。"
+        )
+        self.reject()
+
+    # ---------- 安裝（替換 exe 並重啟）----------
+    def _install_and_restart(self):
+        import os, tempfile
+        if not self.downloaded_path or not os.path.exists(self.downloaded_path):
+            QMessageBox.critical(self, "錯誤", "找不到已下載的更新檔。")
+            return
+
+        current_exe = sys.executable  # 目前運行中的 exe 完整路徑
+        new_exe = self.downloaded_path
+
+        # 寫一個 updater bat：等舊程式退出 → 覆蓋 exe → 啟動新版 → 刪自己
+        bat_path = os.path.join(tempfile.gettempdir(), "auto_update.bat")
+        bat_content = f"""@echo off
+chcp 65001 > nul
+echo 正在更新「行政效能領航員」...
+timeout /t 2 /nobreak > nul
+:retry
+del "{current_exe}" 2> nul
+if exist "{current_exe}" (
+    timeout /t 1 /nobreak > nul
+    goto retry
+)
+move /Y "{new_exe}" "{current_exe}" > nul
+if errorlevel 1 (
+    echo 更新失敗，請手動將 "{new_exe}" 移動到 "{current_exe}"
+    pause
+    exit /b 1
+)
+start "" "{current_exe}"
+del "%~f0"
+"""
+        try:
+            with open(bat_path, "w", encoding="utf-8") as f:
+                f.write(bat_content)
+        except Exception as e:
+            QMessageBox.critical(self, "錯誤", f"無法建立更新腳本：{e}")
+            return
+
+        # 用 shell 啟動 bat（不等待），然後關閉自己
+        import subprocess
+        try:
+            subprocess.Popen(
+                ["cmd", "/c", bat_path],
+                creationflags=0x00000008,  # DETACHED_PROCESS
+                close_fds=True,
+            )
+        except Exception as e:
+            QMessageBox.critical(self, "錯誤", f"無法啟動更新程序：{e}")
+            return
+
+        # 關閉對話框並退出主程式
+        self.accept()
+        QApplication.quit()
+        os._exit(0)
 
 
 # =========================
@@ -1839,14 +2285,13 @@ class MainWindow(QWidget):
         self._run_startup_update_check()
 
     def _run_startup_update_check(self):
-        """程式啟動時，背景 thread 檢查版本，有新版則跳提示"""
+        """程式啟動時，背景 thread 檢查 GitHub Releases，有新版則跳提示"""
         from app import AdminEfficiencyPilot
         import threading, requests as _req
 
-        VERSION_URL = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/version.txt"
-        DOWNLOAD_URL = "https://drive.google.com/drive/u/0/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g"
+        RELEASE_API = "https://api.github.com/repos/waynelord0628-beep/auto-learning-bot/releases/latest"
+        FALLBACK_URL = "https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest"
         current_version = AdminEfficiencyPilot.VERSION
-        current_changelog = AdminEfficiencyPilot.CHANGELOG
 
         self._update_signal = UpdateSignal()
         self._update_signal.notify.connect(self._on_update_available)
@@ -1864,20 +2309,36 @@ class MainWindow(QWidget):
                 pass
 
         def _check():
-            _dbg("thread started")
+            _dbg("update check thread started")
             try:
-                resp = _req.get(VERSION_URL, timeout=5)
-                _dbg(f"status={resp.status_code} body={resp.text.strip()!r}")
+                resp = _req.get(RELEASE_API, timeout=8, headers={"Accept": "application/vnd.github+json"})
+                _dbg(f"status={resp.status_code}")
                 if resp.status_code != 200:
+                    _dbg(f"非 200 回應：{resp.text[:200]}")
                     return
-                latest = resp.text.strip()
-                if not latest or not latest.startswith("V"):
-                    _dbg(f"格式不符：{latest!r}")
+                data = resp.json()
+                latest = (data.get("tag_name") or "").strip()
+                changelog = (data.get("body") or "").strip()
+                assets = data.get("assets", []) or []
+                # 找 .exe 資產
+                exe_asset = next(
+                    (a for a in assets if (a.get("name") or "").lower().endswith(".exe")),
+                    None,
+                )
+                if exe_asset:
+                    download_url = exe_asset.get("browser_download_url", FALLBACK_URL)
+                    file_size = int(exe_asset.get("size", 0))
+                else:
+                    download_url = FALLBACK_URL
+                    file_size = 0
+
+                if not latest or not latest.upper().startswith("V"):
+                    _dbg(f"tag_name 格式不符：{latest!r}")
                     return
-                _dbg(f"latest={latest!r} current={current_version!r}")
+                _dbg(f"latest={latest!r} current={current_version!r} size={file_size}")
                 if latest != current_version:
-                    _dbg("emitting signal")
-                    _update_signal.emit(latest, current_changelog, DOWNLOAD_URL)
+                    _dbg("emitting update signal")
+                    _update_signal.emit(latest, changelog, download_url, file_size)
                 else:
                     _dbg("already latest")
                     _update_signal.up_to_date.emit()
@@ -1942,8 +2403,14 @@ class MainWindow(QWidget):
         entry = self.entry
         if entry._has_update and entry._latest_update_info:
             # 有新版 → 跳更新視窗
-            latest, changelog, url = entry._latest_update_info
-            self._on_update_available(latest, changelog, url)
+            info = entry._latest_update_info
+            # 相容舊格式 (3 元素) 與新格式 (4 元素)
+            if len(info) == 4:
+                latest, changelog, url, size = info
+            else:
+                latest, changelog, url = info
+                size = 0
+            self._on_update_available(latest, changelog, url, size)
         else:
             # 沒有新版或尚未檢查 → 跳「目前版本」視窗
             self._show_version_dialog()
@@ -2031,11 +2498,11 @@ class MainWindow(QWidget):
                 QPushButton:hover { background: transparent; }
             """)
 
-    def _on_update_available(self, latest: str, changelog: str, url: str):
-        """在主執行緒顯示更新提示視窗"""
+    def _on_update_available(self, latest: str, changelog: str, url: str, size: int = 0):
+        """在主執行緒顯示更新提示視窗（兩階段：提示 → 下載 → 重啟）"""
         # 儲存更新資訊，讓按鈕可以重複觸發
         self.entry._has_update = True
-        self.entry._latest_update_info = (latest, changelog, url)
+        self.entry._latest_update_info = (latest, changelog, url, size)
         btn = getattr(self.entry, "_update_btn", None)
         if btn:
             btn.setToolTip(f"有新版本 {latest}！點此查看")
@@ -2050,119 +2517,7 @@ class MainWindow(QWidget):
                 }
             """)
 
-        from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton, QHBoxLayout
-        from PySide6.QtGui import QDesktopServices
-        from PySide6.QtCore import QUrl
-
-        dialog = QDialog(self)
-        dialog.setWindowTitle("發現新版本！")
-        dialog.setFixedWidth(440)
-        dialog.setStyleSheet("""
-            QDialog {
-                background: #f5f7fa;
-            }
-            QLabel {
-                color: #2c3e50;
-                background: transparent;
-            }
-        """)
-
-        layout = QVBoxLayout(dialog)
-        layout.setSpacing(0)
-        layout.setContentsMargins(0, 0, 0, 0)
-
-        # 頂部色帶
-        header = QLabel()
-        header.setFixedHeight(6)
-        header.setStyleSheet("background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #4fc3f7,stop:1 #0288d1);")
-        layout.addWidget(header)
-
-        # 主內容區
-        content = QVBoxLayout()
-        content.setSpacing(14)
-        content.setContentsMargins(28, 24, 28, 20)
-
-        # 標題
-        title = QLabel(f"新版本 {latest} 已發布")
-        title.setStyleSheet("font-size: 18px; font-weight: bold; color: #0277bd; letter-spacing: 0.5px;")
-        content.addWidget(title)
-
-        # 當前版本
-        from app import AdminEfficiencyPilot as _AEP
-        cur = getattr(self, "pilot", None)
-        cur_ver = getattr(cur, "version", "") if cur else _AEP.VERSION
-        if cur_ver:
-            cur_label = QLabel(f"目前版本：{cur_ver}")
-            cur_label.setStyleSheet("font-size: 12px; color: #7f8c8d; margin-top: 2px;")
-            content.addWidget(cur_label)
-
-        # 分隔線
-        sep = QFrame()
-        sep.setFrameShape(QFrame.HLine)
-        sep.setStyleSheet("color: #dce1e7; margin-top: 4px; margin-bottom: 4px;")
-        content.addWidget(sep)
-
-        # Changelog
-        if changelog:
-            change_title = QLabel("本次更新內容")
-            change_title.setStyleSheet("font-size: 13px; font-weight: bold; color: #34495e;")
-            content.addWidget(change_title)
-
-            change_body = QLabel(changelog)
-            change_body.setStyleSheet("""
-                font-size: 12px;
-                color: #555f6e;
-                line-height: 2;
-                padding: 8px 12px;
-                background: #eaf4fb;
-                border-left: 3px solid #4fc3f7;
-                border-radius: 4px;
-            """)
-            change_body.setWordWrap(True)
-            content.addWidget(change_body)
-
-        # 提示文字
-        hint = QLabel("請前往 Google Drive 下載最新版本並替換舊的 .exe 檔案。")
-        hint.setStyleSheet("font-size: 11px; color: #95a5a6;")
-        hint.setWordWrap(True)
-        content.addWidget(hint)
-
-        # 按鈕列
-        btn_row = QHBoxLayout()
-        btn_row.setSpacing(10)
-
-        btn_later = QPushButton("稍後再說")
-        btn_later.setFixedHeight(36)
-        btn_later.setStyleSheet("""
-            QPushButton {
-                background: #ecf0f1; color: #7f8c8d;
-                border-radius: 6px; padding: 0 20px; font-size: 13px;
-                border: 1px solid #dce1e7;
-            }
-            QPushButton:hover { background: #dde3e8; }
-        """)
-        btn_later.clicked.connect(dialog.reject)
-
-        btn_download = QPushButton("前往下載")
-        btn_download.setFixedHeight(36)
-        btn_download.setStyleSheet("""
-            QPushButton {
-                background: #0288d1; color: #fff; font-weight: bold;
-                border-radius: 6px; padding: 0 20px; font-size: 13px;
-                border: none;
-            }
-            QPushButton:hover { background: #0277bd; }
-        """)
-        btn_download.clicked.connect(lambda: QDesktopServices.openUrl(QUrl(url)))
-        btn_download.clicked.connect(dialog.accept)
-
-        btn_row.addStretch()
-        btn_row.addWidget(btn_later)
-        btn_row.addWidget(btn_download)
-        content.addLayout(btn_row)
-
-        layout.addLayout(content)
-
+        dialog = UpdateDialog(self, latest, changelog, url, size)
         dialog.exec()
 
     def go_entry(self):
