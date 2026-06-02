@@ -824,6 +824,9 @@ class AdminEfficiencyPilot:
                 logger.info("   📝 已點擊「測驗/考試」")
             except Exception as e:
                 logger.warning(f"   ⚠️ 找不到測驗連結（mooc_sysbar）: {e}")
+                # 找不到測驗連結代表課程結構不符或測驗不存在，
+                # 直接加入已處理集合避免無限重試
+                self._completed_in_session.add(course_id)
                 return False
 
             time.sleep(2)
@@ -834,6 +837,7 @@ class AdminEfficiencyPilot:
                 self.driver.switch_to.frame("s_main")
             except Exception:
                 logger.warning("   ⚠️ 無法切換到 s_main frame")
+                self._completed_in_session.add(course_id)
                 return False
 
             time.sleep(1)
