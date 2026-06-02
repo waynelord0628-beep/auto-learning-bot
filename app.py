@@ -296,8 +296,6 @@ class AdminEfficiencyPilot:
                     "residence_time": 75,
                 },
                 "blacklist": ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"],
-                "tg_token": "",
-                "tg_chat_id": "",
             }
 
             with open(path, "w", encoding="utf-8") as f:
@@ -314,12 +312,6 @@ class AdminEfficiencyPilot:
         # ⭐ 確保 blacklist 存在
         if "blacklist" not in config_data:
             config_data["blacklist"] = ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"]
-
-        # ⭐ 確保 Telegram 缺題通知設定存在
-        if "tg_token" not in config_data:
-            config_data["tg_token"] = ""
-        if "tg_chat_id" not in config_data:
-            config_data["tg_chat_id"] = ""
 
         # ⭐ 直接回傳完整配置
         return config_data
@@ -1319,27 +1311,24 @@ class AdminEfficiencyPilot:
 
             logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題題庫無答案隨機選擇")
 
-            # ── 6b. 傳送缺題通知到 Telegram ──
+            # ── 6b. 傳送缺題通知到 GAS Relay → Telegram ──
+            _GAS_URL = "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
             if _missing:
                 try:
-                    tg_token = self.config.get("tg_token", "")
-                    tg_chat_id = self.config.get("tg_chat_id", "")
-                    if tg_token and tg_chat_id:
-                        course_name = course.get("caption", "未知課程")
-                        lines = [f"📚 *缺題回報*\n課程：{course_name}\n共 {len(_missing)} 題缺答案\n"]
-                        for i, m in enumerate(_missing, 1):
-                            opts = "\n".join(f"  {o}" for o in m["options"]) if m["options"] else "  （無選項資訊）"
-                            lines.append(f"*Q{i}*（{m['type']}）\n{m['question']}\n{opts}")
-                        msg = "\n\n".join(lines)
-                        import requests as _req
-                        _req.post(
-                            f"https://api.telegram.org/bot{tg_token}/sendMessage",
-                            json={"chat_id": tg_chat_id, "text": msg, "parse_mode": "Markdown"},
-                            timeout=10,
-                        )
-                        logger.info(f"   📨 已傳送 {len(_missing)} 題缺題通知至 Telegram")
+                    course_name = course.get("caption", "未知課程")
+                    username = ""
+                    accounts = self.config.get("accounts", [])
+                    if accounts:
+                        username = accounts[0].get("username", "") or accounts[0].get("account", "")
+                    import requests as _req
+                    _req.post(
+                        _GAS_URL,
+                        json={"course": course_name, "username": username, "missing": _missing},
+                        timeout=15,
+                    )
+                    logger.info(f"   📨 已回報 {len(_missing)} 題缺題")
                 except Exception as _tg_e:
-                    logger.debug(f"   Telegram 通知失敗: {_tg_e}")
+                    logger.debug(f"   缺題回報失敗: {_tg_e}")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
