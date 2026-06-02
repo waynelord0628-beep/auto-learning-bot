@@ -75,7 +75,7 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.0.6"
+    VERSION = "V2.0.7"
     CHANGELOG = (
         "• 修復 Chrome 升版後 driver 衝突導致無法啟動的問題\n"
         "• 新增多種 AI 模型支援（OpenAI、Gemini、Claude、Groq 及自訂）\n"
