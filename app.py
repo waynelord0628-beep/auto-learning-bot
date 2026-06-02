@@ -1239,7 +1239,7 @@ class AdminEfficiencyPilot:
                                     elif any(w in ans_lower for w in FALSE_WORDS):
                                         idx = 1
                                     else:
-                                idx = 0  # 預設選第一個
+                                        idx = 0  # 預設選第一個
                                 logger.debug(f"   ✖ 是非題庫無答案，預設選○：{q_text[:30]!r}")
                                 _missing.append({"type": "是非", "question": q_text, "options": option_texts})
                                 if idx is None:
@@ -1267,23 +1267,23 @@ class AdminEfficiencyPilot:
                                                     best_idx = i
                                         idx = best_idx
                                 # 最終 fallback: index mapping
-                                 if idx is None:
-                                     opt_map = {
-                                         "A": 0,
-                                         "B": 1,
-                                         "C": 2,
-                                         "D": 3,
-                                         "1": 0,
-                                         "2": 1,
-                                         "3": 2,
-                                         "4": 3,
-                                     }
-                                     idx = opt_map.get(ans_upper, None)
-                                 # 最終 fallback: 所有比對都失敗時隨機選，避免空白送出
-                                 if idx is None:
-                                idx = random.randrange(len(radios))
-                                logger.debug(f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}")
-                                _missing.append({"type": "單選", "question": q_text, "options": option_texts})
+                                if idx is None:
+                                    opt_map = {
+                                        "A": 0,
+                                        "B": 1,
+                                        "C": 2,
+                                        "D": 3,
+                                        "1": 0,
+                                        "2": 1,
+                                        "3": 2,
+                                        "4": 3,
+                                    }
+                                    idx = opt_map.get(ans_upper, None)
+                                # 最終 fallback: 所有比對都失敗時隨機選，避免空白送出
+                                if idx is None:
+                                    idx = random.randrange(len(radios))
+                                    logger.debug(f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}")
+                                    _missing.append({"type": "單選", "question": q_text, "options": option_texts})
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
                             # 單選題隨機選

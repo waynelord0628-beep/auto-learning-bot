@@ -5,6 +5,12 @@ import re
 import threading
 import random
 import math
+
+# 確保 PyInstaller frozen 模式下 _MEIPASS 在 sys.path 最前面
+if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
+    if sys._MEIPASS not in sys.path:
+        sys.path.insert(0, sys._MEIPASS)
+
 from app import AdminEfficiencyPilot
 from PySide6.QtWidgets import (
     QApplication,
