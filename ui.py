@@ -2095,8 +2095,9 @@ try {{
 # 4a. 短暫等待讓主程式完全脫離、檔案鎖徹底釋放
 Start-Sleep -Milliseconds 300
 try {{
-    # 用 explorer.exe 啟動，等同使用者雙擊 — 避免 PowerShell token/環境繼承導致 PyInstaller 解壓失敗
-    Start-Process -FilePath 'explorer.exe' -ArgumentList $tgt
+    # 用 cmd /c start 啟動，等同雙擊 — 完全獨立的新程序，不繼承 PowerShell 環境
+    $tgtQ = $tgt -replace '"', '""'
+    Start-Process -FilePath 'cmd.exe' -ArgumentList "/c", "start", '""', "`"$tgtQ`"" -WindowStyle Hidden
     Log "started new exe"
 }} catch {{
     Log "start failed: $_"
