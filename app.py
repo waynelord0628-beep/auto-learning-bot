@@ -296,6 +296,8 @@ class AdminEfficiencyPilot:
                     "residence_time": 75,
                 },
                 "blacklist": ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"],
+                "tg_token": "8392234033:AAHYpuf1uUzSN340QUKQzpEMEbHavXgb-R4",
+                "tg_chat_id": "988955954",
             }
 
             with open(path, "w", encoding="utf-8") as f:
@@ -312,6 +314,12 @@ class AdminEfficiencyPilot:
         # ⭐ 確保 blacklist 存在
         if "blacklist" not in config_data:
             config_data["blacklist"] = ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"]
+
+        # ⭐ 確保 Telegram 缺題通知設定存在
+        if "tg_token" not in config_data:
+            config_data["tg_token"] = "8392234033:AAHYpuf1uUzSN340QUKQzpEMEbHavXgb-R4"
+        if "tg_chat_id" not in config_data:
+            config_data["tg_chat_id"] = "988955954"
 
         # ⭐ 直接回傳完整配置
         return config_data
@@ -934,6 +942,7 @@ class AdminEfficiencyPilot:
             # ── 6. 逐題作答 ──
             answered = 0
             skipped = 0
+            _missing = []  # 題庫無答案的題目，考試結束後寫入 missing_questions.json
 
             rows = self.driver.find_elements(
                 By.CSS_SELECTOR, "tr.bg03.font01, tr.bg04.font01"
@@ -1200,6 +1209,7 @@ class AdminEfficiencyPilot:
                             logger.debug(
                                  f"   ✖ 多選題庫無答案，隨機作答({pick_count}/{n})：{q_text[:20]}..."
                             )
+                            _missing.append({"type": "多選", "question": q_text, "options": option_texts})
                         answered += 1
 
                     elif radios:
@@ -1237,29 +1247,9 @@ class AdminEfficiencyPilot:
                                     elif any(w in ans_lower for w in FALSE_WORDS):
                                         idx = 1
                                     else:
-                                        idx = 0  # 預設選第一個
-                            else:
-                                # 單選題：先比對 radio value（向後相容 1/2/3/4/A/B/C/D）
-                                ans_upper = ans_norm.upper()
-                                letter_to_val = {"A": "1", "B": "2", "C": "3", "D": "4"}
-                                target_val = letter_to_val.get(ans_upper, ans_upper)
-                                for i, r in enumerate(radios):
-                                    rv = (r.get_attribute("value") or "").upper()
-                                    if rv == target_val or rv == ans_upper:
-                                        idx = i
-                                        break
-                                # fallback: 用答案文字比對選項文字
-                                ALL_ABOVE_PATTERNS = [
-                                    "以上皆是",
-                                    "以上皆可",
-                                    "以上皆正確",
-                                    "以上皆對",
-                                    "all of the above",
-                                    "ll of the above",
-                                ]
-                                is_all_above = any(
-                                    p in ans_norm for p in ALL_ABOVE_PATTERNS
-                                )
+                                idx = 0  # 預設選第一個
+                                logger.debug(f"   ✖ 是非題庫無答案，預設選○：{q_text[:30]!r}")
+                                _missing.append({"type": "是非", "question": q_text, "options": option_texts})
                                 if idx is None:
                                     if is_all_above:
                                         idx = len(radios) - 1  # 通常「以上皆是」在最後
@@ -1299,10 +1289,9 @@ class AdminEfficiencyPilot:
                                      idx = opt_map.get(ans_upper, None)
                                  # 最終 fallback: 所有比對都失敗時隨機選，避免空白送出
                                  if idx is None:
-                                     idx = random.randrange(len(radios))
-                                     logger.info(
-                                         f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}"
-                                     )
+                                idx = random.randrange(len(radios))
+                                logger.debug(f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}")
+                                _missing.append({"type": "單選", "question": q_text, "options": option_texts})
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
                             # 單選題隨機選
@@ -1313,9 +1302,8 @@ class AdminEfficiencyPilot:
                                 )
                             else:
                                 idx = random.randrange(len(radios))
-                                logger.info(
-                                     f"   ✖ 單選題庫無答案，隨機作答：{q_text[:30]!r}"
-                                )
+                                logger.debug(f"   ✖ 單選題庫無答案，隨機作答：{q_text[:30]!r}")
+                                _missing.append({"type": "單選", "question": q_text, "options": option_texts})
 
                         if idx is not None and idx < len(radios):
                             self.driver.execute_script(
@@ -1330,6 +1318,28 @@ class AdminEfficiencyPilot:
                     skipped += 1
 
             logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題題庫無答案隨機選擇")
+
+            # ── 6b. 傳送缺題通知到 Telegram ──
+            if _missing:
+                try:
+                    tg_token = self.config.get("tg_token", "")
+                    tg_chat_id = self.config.get("tg_chat_id", "")
+                    if tg_token and tg_chat_id:
+                        course_name = course.get("caption", "未知課程")
+                        lines = [f"📚 *缺題回報*\n課程：{course_name}\n共 {len(_missing)} 題缺答案\n"]
+                        for i, m in enumerate(_missing, 1):
+                            opts = "\n".join(f"  {o}" for o in m["options"]) if m["options"] else "  （無選項資訊）"
+                            lines.append(f"*Q{i}*（{m['type']}）\n{m['question']}\n{opts}")
+                        msg = "\n\n".join(lines)
+                        import requests as _req
+                        _req.post(
+                            f"https://api.telegram.org/bot{tg_token}/sendMessage",
+                            json={"chat_id": tg_chat_id, "text": msg, "parse_mode": "Markdown"},
+                            timeout=10,
+                        )
+                        logger.info(f"   📨 已傳送 {len(_missing)} 題缺題通知至 Telegram")
+                except Exception as _tg_e:
+                    logger.debug(f"   Telegram 通知失敗: {_tg_e}")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
