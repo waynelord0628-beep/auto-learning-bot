@@ -296,8 +296,8 @@ class AdminEfficiencyPilot:
                     "residence_time": 75,
                 },
                 "blacklist": ["課程環境", "勘誤說明", "前言", "新手導覽", "課程簡介", "環境檢測"],
-                "tg_token": "8392234033:AAHYpuf1uUzSN340QUKQzpEMEbHavXgb-R4",
-                "tg_chat_id": "988955954",
+                "tg_token": "",
+                "tg_chat_id": "",
             }
 
             with open(path, "w", encoding="utf-8") as f:
@@ -317,9 +317,9 @@ class AdminEfficiencyPilot:
 
         # ⭐ 確保 Telegram 缺題通知設定存在
         if "tg_token" not in config_data:
-            config_data["tg_token"] = "8392234033:AAHYpuf1uUzSN340QUKQzpEMEbHavXgb-R4"
+            config_data["tg_token"] = ""
         if "tg_chat_id" not in config_data:
-            config_data["tg_chat_id"] = "988955954"
+            config_data["tg_chat_id"] = ""
 
         # ⭐ 直接回傳完整配置
         return config_data
