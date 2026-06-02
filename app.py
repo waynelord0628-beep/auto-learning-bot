@@ -1105,9 +1105,9 @@ class AdminEfficiencyPilot:
                                 ans = ai_ans
                                 _ai_answered[q_text] = ai_ans
 
-                    logger.info(f"   題目: {q_text[:50]!r}")
-                    logger.info(f"   選項: {[t[:20] for t in option_texts]!r}")
-                    logger.info(f"   答案: {ans!r}")
+                    logger.debug(f"   題目: {q_text[:50]!r}")
+                    logger.debug(f"   選項: {[t[:20] for t in option_texts]!r}")
+                    logger.debug(f"   答案: {ans!r}")
                     if checkboxes:
                         if ans is not None:
                             ans_text = (
@@ -1198,7 +1198,7 @@ class AdminEfficiencyPilot:
                                     "arguments[0].click();", pick
                                 )
                             logger.debug(
-                                f"   🎲 多選隨機作答({pick_count}/{n})：{q_text[:20]}..."
+                                 f"   ✖ 多選題庫無答案，隨機作答({pick_count}/{n})：{q_text[:20]}..."
                             )
                         answered += 1
 
@@ -1301,7 +1301,7 @@ class AdminEfficiencyPilot:
                                  if idx is None:
                                      idx = random.randrange(len(radios))
                                      logger.info(
-                                         f"   🎲 單選最終隨機作答（比對全失敗）：{q_text[:30]!r} ans={ans_norm!r}"
+                                         f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}"
                                      )
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
@@ -1309,12 +1309,12 @@ class AdminEfficiencyPilot:
                             if len(radios) == 2:
                                 idx = 0  # 是非題預設 ○（True）
                                 logger.info(
-                                    f"   🔵 是非題預設選○（題庫無此題）：{q_text[:30]!r}"
+                                     f"   ✖ 是非題庫無答案，預設選○：{q_text[:30]!r}"
                                 )
                             else:
                                 idx = random.randrange(len(radios))
                                 logger.info(
-                                    f"   🎲 單選隨機作答（題庫無此題）：{q_text[:30]!r}"
+                                     f"   ✖ 單選題庫無答案，隨機作答：{q_text[:30]!r}"
                                 )
 
                         if idx is not None and idx < len(radios):
@@ -1329,7 +1329,7 @@ class AdminEfficiencyPilot:
                     logger.debug(f"   ⚠️ 作答某題時發生錯誤: {e}")
                     skipped += 1
 
-            logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題略過")
+            logger.info(f"   📝 作答完成：{answered} 題 ○ 已答，{skipped} 題 ✖ 題庫無答案跳過")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
