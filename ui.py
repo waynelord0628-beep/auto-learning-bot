@@ -2746,6 +2746,39 @@ if __name__ == "__main__":
     except Exception:
         pass
 
+    # 若 exe 檔名不是「行政效能領航員.exe」（例如瀏覽器下載時存成 default.exe），
+    # 用 ps1 在背景改名並重啟，確保捷徑/工作列永遠指向正確檔名
+    if getattr(sys, "frozen", False):
+        _correct_name = "行政效能領航員.exe"
+        _cur_exe = sys.executable
+        if os.path.basename(_cur_exe) != _correct_name:
+            import tempfile, base64, subprocess
+            _target = os.path.join(os.path.dirname(_cur_exe), _correct_name)
+            _t = _target.replace("'", "''")
+            _s = _cur_exe.replace("'", "''")
+            _ps1 = f"""
+Start-Sleep -Milliseconds 800
+$src = '{_s}'
+$tgt = '{_t}'
+if (Test-Path -LiteralPath $tgt) {{ Remove-Item -LiteralPath $tgt -Force -ErrorAction SilentlyContinue }}
+Copy-Item -LiteralPath $src -Destination $tgt -Force
+Start-Process -FilePath 'cmd.exe' -ArgumentList '/c', 'start', '""', "`"$tgt`"" -WindowStyle Hidden
+Remove-Item -LiteralPath $MyInvocation.MyCommand.Path -Force -ErrorAction SilentlyContinue
+"""
+            _enc = base64.b64encode(_ps1.encode("utf-16-le")).decode("ascii")
+            _ps1_path = os.path.join(tempfile.gettempdir(), "rename_self.ps1")
+            with open(_ps1_path, "w", encoding="utf-8-sig") as _f:
+                _f.write(_ps1)
+            _si = subprocess.STARTUPINFO()
+            _si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+            _si.wShowWindow = 0
+            subprocess.Popen(
+                ["powershell", "-NonInteractive", "-EncodedCommand", _enc],
+                startupinfo=_si,
+                creationflags=subprocess.CREATE_NEW_PROCESS_GROUP,
+            )
+            sys.exit(0)
+
     app = QApplication(sys.argv)
     app.setStyleSheet(GLOBAL_QSS)
     w = MainWindow()
