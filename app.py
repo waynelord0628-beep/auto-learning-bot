@@ -1329,7 +1329,7 @@ class AdminEfficiencyPilot:
                     logger.debug(f"   ⚠️ 作答某題時發生錯誤: {e}")
                     skipped += 1
 
-            logger.info(f"   📝 作答完成：{answered} 題 ○ 已答，{skipped} 題 ✖ 題庫無答案跳過")
+            logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題題庫無答案隨機選擇")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
