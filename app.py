@@ -2204,9 +2204,57 @@ class AdminEfficiencyPilot:
             time.sleep(1)
         return True
 
+    def _silent_db_update(self):
+        """靜默檢查並更新題庫（背景執行，不阻擋主流程）"""
+        try:
+            import sys as _sys, json as _json
+            _base = (
+                os.path.dirname(_sys.executable)
+                if getattr(_sys, "frozen", False)
+                else os.path.dirname(os.path.abspath(__file__))
+            )
+            local_ver_path = os.path.join(_base, "db_version.txt")
+            local_ver = 0
+            if os.path.exists(local_ver_path):
+                with open(local_ver_path, "r", encoding="utf-8") as f:
+                    local_ver = int(f.read().strip() or "0")
+
+            # 從 GitHub 取最新版本號
+            import urllib.request as _ur
+            remote_ver_url = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/patches/db_version.txt"
+            with _ur.urlopen(remote_ver_url, timeout=8) as r:
+                remote_ver = int(r.read().decode().strip())
+
+            if remote_ver <= local_ver:
+                logger.debug(f"📚 題庫已是最新（V{local_ver}）")
+                return
+
+            # 下載 patch
+            patch_url = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/patches/questions_patch.json"
+            with _ur.urlopen(patch_url, timeout=15) as r:
+                patches = _json.loads(r.read().decode())
+
+            if not patches:
+                return
+
+            # 寫入 questions.db
+            answers = {p["question"]: p["answer"] for p in patches if p.get("question") and p.get("answer")}
+            self._save_answers_to_db(answers, source="patch")
+
+            # 更新本地版本號
+            with open(local_ver_path, "w", encoding="utf-8") as f:
+                f.write(str(remote_ver))
+
+            logger.info(f"📚 題庫已更新 V{local_ver} → V{remote_ver}（新增 {len(answers)} 題）")
+
+        except Exception as e:
+            logger.debug(f"📚 題庫靜默更新失敗（略過）: {e}")
+
     def run(self):
         """⭐ 正確位置：在類內"""
         self._start_keep_awake()
+        # 背景靜默更新題庫（不阻擋主流程）
+        threading.Thread(target=self._silent_db_update, daemon=True).start()
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )
