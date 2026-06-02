@@ -1285,18 +1285,24 @@ class AdminEfficiencyPilot:
                                                     best_idx = i
                                         idx = best_idx
                                 # 最終 fallback: index mapping
-                                if idx is None:
-                                    opt_map = {
-                                        "A": 0,
-                                        "B": 1,
-                                        "C": 2,
-                                        "D": 3,
-                                        "1": 0,
-                                        "2": 1,
-                                        "3": 2,
-                                        "4": 3,
-                                    }
-                                    idx = opt_map.get(ans_upper, None)
+                                 if idx is None:
+                                     opt_map = {
+                                         "A": 0,
+                                         "B": 1,
+                                         "C": 2,
+                                         "D": 3,
+                                         "1": 0,
+                                         "2": 1,
+                                         "3": 2,
+                                         "4": 3,
+                                     }
+                                     idx = opt_map.get(ans_upper, None)
+                                 # 最終 fallback: 所有比對都失敗時隨機選，避免空白送出
+                                 if idx is None:
+                                     idx = random.randrange(len(radios))
+                                     logger.info(
+                                         f"   🎲 單選最終隨機作答（比對全失敗）：{q_text[:30]!r} ans={ans_norm!r}"
+                                     )
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
                             # 單選題隨機選
