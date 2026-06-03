@@ -4701,5 +4701,17 @@
       "flying a kite / watching a stunt kite show / a picnic"
     ],
     "course": "快樂漁夫首次航海：欣賞台灣海峽煙火【看紀錄片學英語 尋寶福爾摩沙】"
+  },
+  {
+    "question": "&nbsp;請問以下的程式執行後值是多少?\nimport numpy as np\na = np.array([[2,3],[4,5]])\nb = np.array([[6,7],[8,9]])\nd=np.dot(a,b)\nprint(d)",
+    "answer": "1. [[12 21]  [32 45]]",
+    "type": "單選",
+    "options": [
+      "[[12 21]  [32 45]]",
+      "[[36 41]  [64 73]]",
+      "[[33 43]  [59 77]]",
+      "[[73 64]  [36 41]]"
+    ],
+    "course": "零基礎學Python：從入門到活用(下)"
   }
 ]
