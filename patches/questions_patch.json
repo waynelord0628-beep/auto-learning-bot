@@ -1229,5 +1229,65 @@
       "對專業知識需求高"
     ],
     "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列哪一項不是 MinIO AIStor 的特點？",
+    "answer": "與 Kubernetes 不相容",
+    "type": "單選",
+    "options": [
+      "快速部署",
+      "與 Kubernetes 不相容",
+      "開箱即用的 AI 整合",
+      "雲原生設計"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列哪一項不是 AI 平台應該具備的能力？",
+    "answer": "資料遺失模擬器",
+    "type": "單選",
+    "options": [
+      "模型推理運行時",
+      "資料遺失模擬器",
+      "模型效能監控",
+      "模型偏誤偵測"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "Red Hat 提出的 MVP 是指？",
+    "answer": "最小可行產品",
+    "type": "單選",
+    "options": [
+      "最大視覺處理量",
+      "模型驗證過程",
+      "最小可行產品",
+      "資料視覺化平台"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列何者是「生成式 AI」的主要特徵？",
+    "answer": "能生成全新內容",
+    "type": "單選",
+    "options": [
+      "僅能識別輸入資料",
+      "能生成全新內容",
+      "無需訓練即可使用",
+      "適合處理結構化數據"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "Red Hat 平台如何進行模型監控與解釋？",
+    "answer": "TrustyAI 工具組",
+    "type": "單選",
+    "options": [
+      "使用 Google Analytics",
+      "TrustyAI 工具組",
+      "內建防火牆 API",
+      "SSH 指令列控制台"
+    ],
+    "course": "AI基礎建設與平台選型"
   }
 ]
