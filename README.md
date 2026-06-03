@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.0.6** ｜ 數位研習輔助方案
+**版本 V2.1.0** ｜ 數位研習輔助方案
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -29,14 +29,15 @@
 |------|------|
 | 圖形介面 | PySide6 GUI，多帳號管理、設定一鍵完成 |
 | 自動登入 | 支援 **eCPA 人事服務網** 與 **我的 E 政府** 兩種登入方式 |
-| 自動作答 | 本地題庫 + 可選 AI 補答（OpenAI / 其他相容 API） |
+| 自動作答 | 本地題庫 + AI 補答（OpenAI / Gemini / 其他相容 API） |
 | 自動研習 | 瀏覽所有未達標課程直到時數足夠 |
 | 自動測驗/問卷 | 自動完成課程測驗與滿意度問卷 |
 | 即時進度 | 顯示每門課的研習百分比與剩餘時間 |
 | 閒置登出恢復 | 偵測閒置登出 alert，自動重新登入並繼續當前課程 |
 | Session 自動恢復 | Chrome 意外關閉時，自動重建連線繼續執行 |
 | 防呆休眠 | 執行期間防止電腦進入睡眠 |
-| 版本檢查 | 啟動時自動檢查 GitHub 上是否有新版本 |
+| 漏題自動補正 | 遇到題庫沒有的題目，自動回報並由 AI 補答，所有使用者共享更新 |
+| 版本檢查 | 啟動時自動檢查是否有新版本，並導向雲端下載頁面 |
 
 ---
 
@@ -46,7 +47,11 @@
 
 ### 步驟一：下載執行檔
 
-從雲端取得 **`行政效能領航員_V2.0.6.exe`**，放到任意資料夾，例如 `D:\autoLearning\`。
+前往雲端資料夾下載最新版 `行政效能領航員.exe`：
+
+👉 [點此前往雲端下載](https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing)
+
+下載後放到任意資料夾，例如 `D:\autoLearning\`。
 
 ### 步驟二：確認已安裝 Google Chrome
 
@@ -54,11 +59,16 @@
 
 ### 步驟三：執行
 
-雙擊 `行政效能領航員_V2.0.6.exe`，依介面提示新增帳號、設定後即可開始。
+雙擊 `行政效能領航員.exe`，依介面提示新增帳號、設定後即可開始。
 
 第一次執行時程式會自動：
 - 偵測 Chrome 版本並下載對應的 ChromeDriver 到同目錄 `drivers/`
 - 在同目錄建立 `config.json` 儲存帳號與設定
+- 從雲端同步最新題庫到本地 `questions.db`
+
+### 有新版本時
+
+程式啟動後若偵測到新版本，會自動跳出提示視窗，點擊「前往雲端下載新版本」即可前往下載頁面，下載後替換舊版 exe 即可完成更新。
 
 ### 中途停止
 
@@ -101,18 +111,18 @@ python ui.py
 auto-learning-bot/
 ├── app.py              ← 核心引擎（研習、作答、登入）
 ├── ui.py               ← PySide6 圖形介面
-├── version.txt         ← 版本號（供線上版本檢查）
+├── patches/
+│   ├── questions_patch.json  ← 雲端題庫補丁（共享）
+│   └── db_version.txt        ← 題庫版本號
 ├── requirements.txt    ← 套件清單
 ├── run.bat             ← Windows 一鍵啟動
 ├── icons/              ← UI 圖示
-├── scrapers/           ← 題庫爬蟲（三大來源）
-├── tools/              ← 開發測試工具
 └── utils/
     ├── helpers.py
     └── webdriver_mgr.py  ← Chrome / ChromeDriver 管理
 ```
 
-> `config.json`、`questions.db`、`drivers/`、`build/`、`dist/`、`*.spec` 等敏感檔/建置產物不在 repo 中，需自行建立或打包時產生。
+> `config.json`、`questions.db`、`drivers/`、`build/`、`dist/`、`*.spec` 等敏感檔/建置產物不在 repo 中。
 
 ---
 
@@ -134,14 +144,13 @@ auto-learning-bot/
         "headless": false,
         "residence_time": 75,
         "target_percentage": 1.05,
-        "blacklist": []
-    },
-    "ai_provider": "OpenAI",
-    "ai_keys": {
-        "OpenAI": "sk-..."
-    },
-    "ai_base_url": "https://api.openai.com/v1",
-    "ai_model": "gpt-4o-mini"
+        "ai_provider": "OpenAI",
+        "ai_keys": {
+            "OpenAI": "sk-..."
+        },
+        "ai_base_url": "https://api.openai.com/v1",
+        "ai_model": "gpt-4o-mini"
+    }
 }
 ```
 
@@ -156,8 +165,9 @@ auto-learning-bot/
 | `headless` | `false` = 看得到瀏覽器；`true` = 背景執行 |
 | `residence_time` | 每個單元停留秒數（建議 ≥ 60） |
 | `target_percentage` | 完成比例（`1.0` = 100%，`1.05` = 略超門檻確保通過） |
-| `blacklist` | 不要進入的單元名稱清單 |
-| `ai_provider` / `ai_keys` / `ai_base_url` / `ai_model` | AI 補答設定（可選，未設定則僅用本地題庫） |
+| `ai_provider` | AI 補答引擎（`OpenAI` / `Gemini`） |
+| `ai_keys` | 各 AI 的 API key |
+| `ai_base_url` / `ai_model` | AI 端點與模型設定 |
 
 ---
 
@@ -168,7 +178,7 @@ uv run pip install pyinstaller
 uv run pyinstaller 行政效能領航員_V2.0.6.spec
 ```
 
-完成後 `dist/行政效能領航員_V2.0.6.exe` 即為單檔執行版。
+完成後 `dist/行政效能領航員.exe` 即為單檔執行版。
 
 ---
 
@@ -189,11 +199,11 @@ uv run pyinstaller 行政效能領航員_V2.0.6.spec
 
 ### 跑到一半出現「閒置過久已被登出」？
 
-**V2.0.6 已修復**，程式會自動偵測 alert、重新登入並繼續上課。若仍持續發生請回報 log。
+程式會自動偵測 alert、重新登入並繼續上課，若仍持續發生請回報 log。
 
-### API 回傳 0 筆課程？
+### 題庫沒有答案怎麼辦？
 
-通常是 session 失效。**V2.0.6 已加強 RELOGIN 後的 session 同步**，若仍遇到，重啟程式即可。
+程式會自動將缺題回報到雲端，由 AI（OpenAI gpt-4o-mini）批次補答後更新題庫。其他使用者下次啟動時會自動同步最新題庫，無需手動操作。
 
 ### 程式跑完但時數沒有更新？
 
@@ -203,31 +213,10 @@ e 等學習網時數有時需數分鐘才會同步，稍候重新整理頁面確
 
 GUI 設定中勾選 headless 模式。
 
-### 題庫沒這題的答案怎麼辦？
-
-未命中時：
-- 若有設定 AI API：會用 AI 補答
-- 若無：略過該題不亂作答
-
-如需手動更新本地題庫：
-
-```cmd
-python scrapers/pixnet_to_sqlite.py
-python scrapers/peigogo_to_sqlite.py
-python scrapers/rodiyer_full_scraper.py
-python dedup.py
-```
-
 ### 出現「No module named ...」錯誤？
 
 ```cmd
 uv sync
-```
-
-或
-
-```cmd
-pip install -r requirements.txt
 ```
 
 ---
@@ -236,14 +225,13 @@ pip install -r requirements.txt
 
 | 版本 | 更新內容 |
 |------|----------|
-| **V2.0.6** | 修復閒置登出 alert 未被攔截導致無限重試的問題；RELOGIN 後補呼叫 `sync_session()` 確保 cookie 同步 |
-| V2.0.5 | 修復 `all_exam_done` 未初始化導致核心迴圈 crash；修復 `webdriver_mgr` 的 `parts` 變數未初始化；UI 微調；log 中遮蔽 API key 與密碼 |
+| **V2.1.0** | Gemini 模型更新（優先 gemini-3.1-flash-lite）；更新提示永遠導向 Google Drive |
+| **V2.0.9** | 缺題回報改為背景執行；缺題通知顯示使用者姓名；GAS 補答升級為 OpenAI 批次處理；更新提示改為雲端手動下載 |
+| **V2.0.8** | 自動更新流程修復；首次啟動自動改名；啟動清舊版 exe；題庫靜默背景更新 |
+| V2.0.6 | 修復閒置登出 alert 未被攔截導致無限重試的問題；RELOGIN 後補呼叫 `sync_session()` 確保 cookie 同步 |
+| V2.0.5 | 修復核心迴圈 crash；UI 微調；log 中遮蔽 API key 與密碼 |
 | V2.0.0 | 新增圖形介面（PySide6）；內建大量題庫；新增自動作答；Chrome 意外關閉自動重連；支援多帳號 |
-| V1.4.5 | 修正 selenium headless 模式參數問題 |
-| V1.4.4 | 新增程式結束時自動清理 Chrome 行程；修正打包後路徑問題 |
-| V1.4.3 | 新增精確 ChromeDriver 版本匹配；修正 exe 路徑問題 |
-| V1.4.2 | 重構為模組化架構 |
-| V1.4.0 | 全面重構為效能精進架構 |
+| V1.4.x | 修正 headless 參數、ChromeDriver 版本匹配、模組化重構 |
 
 ---
 
