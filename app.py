@@ -1,4 +1,4 @@
-﻿# /// script
+# /// script
 # dependencies = [
 #   "selenium",
 #   "requests",
@@ -75,12 +75,12 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.1"
+    VERSION = "V2.1.2"
     CHANGELOG = (
-        "• 回退至 V2.0.6 穩定核心（考試作答正常）\n"
-        "• 新增 GAS 題庫雲端同步（啟動時背景自動更新）\n"
-        "• 缺題自動回報 GAS，由 OpenAI 補答後同步至雲端\n"
-        "• 修正主畫面標題文字"
+        "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
+        "• 缺題回報改為背景執行，不再影響考試流程\n"
+        "• 缺題通知顯示使用者姓名，方便辨識\n"
+        "• 更新提示改為雲端手動下載"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -106,6 +106,8 @@ class AdminEfficiencyPilot:
                 self.config["password"] = acc["password"]
             if "login_type" not in self.config and "login_type" in acc:
                 self.config["login_type"] = acc["login_type"]
+            if "name" not in self.config and "name" in acc:
+                self.config["name"] = acc["name"]
 
         # ⭐ 調試：打印最終配置（遮蔽敏感欄位）
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
@@ -135,11 +137,11 @@ class AdminEfficiencyPilot:
         self._answer_map = {}
         self._answer_keys = []
         self.answers = []  # 向後相容
-        loaded = False
+        loaded = self.config.get("login_type") == "taipei_eda"
 
         # 優先：questions.db（SQLite，含選項結構）
         db_path = os.path.join(base_dir, "questions.db")
-        if os.path.exists(db_path):
+        if not loaded and os.path.exists(db_path):
             try:
                 conn = sqlite3.connect(db_path)
                 conn.row_factory = sqlite3.Row
@@ -368,7 +370,14 @@ class AdminEfficiencyPilot:
 
     def _cleanup(self):
         """統一清理入口，重複呼叫安全（atexit/signal/finally 都指向這裡）。"""
+        self.running = False
         self._stop_keep_awake()
+        if self.config.get("login_type") == "taipei_eda":
+            try:
+                from taipei_eda_course import force_close_active_driver
+                force_close_active_driver()
+            except Exception:
+                pass
         if self.driver:
             try:
                 self.driver.quit()
@@ -486,15 +495,31 @@ class AdminEfficiencyPilot:
     def _ai_find_answer(self, question_text: str, option_texts: list):
         """題庫找不到答案時，呼叫 AI API 協助選答。
         支援 OpenAI / Gemini / Groq（Bearer）及 Claude（x-api-key）。
+        自動 fallback：先用便宜模型，失敗再升級。
         """
+        # 各服務的 fallback 鏈（便宜 → 貴）
+        _FALLBACK = {
+            "OpenAI": ["gpt-4o-mini", "gpt-4o"],
+            "Gemini": ["gemini-3.1-flash-lite", "gemini-3.5-flash", "gemini-2.5-flash"],
+            "Claude": ["claude-haiku-4-5", "claude-sonnet-4-6"],
+            "Groq":   ["llama-3.1-8b-instant", "llama-3.3-70b-versatile"],
+        }
+
         provider = self.config.get("ai_provider", "OpenAI")
-        # 優先從 ai_keys dict 讀取對應服務的 key，相容舊格式 ai_api_key
-        ai_keys = self.config.get("ai_keys", {})
-        api_key = ai_keys.get(provider) or self.config.get("ai_api_key", "")
+        ai_keys  = self.config.get("ai_keys", {})
+        api_key  = ai_keys.get(provider) or self.config.get("ai_api_key", "")
         if not api_key or not option_texts:
             return None
         base_url = self.config.get("ai_base_url", "https://api.openai.com/v1").rstrip("/")
-        model    = self.config.get("ai_model", "gpt-4o-mini")
+
+        # 使用者設定的模型優先；若不在 fallback 鏈裡則以此為起點
+        configured_model = self.config.get("ai_model", "gpt-4o-mini")
+        chain = _FALLBACK.get(provider, [configured_model])
+        # 從使用者設定的模型開始，忽略前面更便宜的（尊重使用者選擇）
+        if configured_model in chain:
+            chain = chain[chain.index(configured_model):]
+        else:
+            chain = [configured_model] + chain
 
         options_str = "\n".join(
             [f"{i + 1}. {opt}" for i, opt in enumerate(option_texts) if opt]
@@ -507,51 +532,61 @@ class AdminEfficiencyPilot:
             "正確答案："
         )
 
-        try:
-            if provider == "Claude":
-                # Claude 使用 /messages endpoint 和 x-api-key header
-                resp = requests.post(
-                    f"{base_url}/messages",
-                    headers={
-                        "x-api-key":        api_key,
-                        "anthropic-version": "2023-06-01",
-                        "Content-Type":      "application/json",
-                    },
-                    json={
-                        "model":      model,
-                        "max_tokens": 150,
-                        "messages":   [{"role": "user", "content": prompt}],
-                    },
-                    timeout=20,
-                    verify=False,
-                )
-                resp.raise_for_status()
-                answer = resp.json()["content"][0]["text"].strip()
-            else:
-                # OpenAI-compatible（OpenAI / Gemini / Groq / 自訂）
-                resp = requests.post(
-                    f"{base_url}/chat/completions",
-                    headers={
-                        "Authorization": f"Bearer {api_key}",
-                        "Content-Type":  "application/json",
-                    },
-                    json={
-                        "model":       model,
-                        "messages":    [{"role": "user", "content": prompt}],
-                        "max_tokens":  150,
-                        "temperature": 0,
-                    },
-                    timeout=20,
-                    verify=False,
-                )
-                resp.raise_for_status()
-                answer = resp.json()["choices"][0]["message"]["content"].strip()
+        for model in chain:
+            try:
+                if provider == "Claude":
+                    resp = requests.post(
+                        f"{base_url}/messages",
+                        headers={
+                            "x-api-key":         api_key,
+                            "anthropic-version": "2023-06-01",
+                            "Content-Type":      "application/json",
+                        },
+                        json={
+                            "model":    model,
+                            "max_tokens": 150,
+                            "messages": [{"role": "user", "content": prompt}],
+                        },
+                        timeout=20,
+                        verify=False,
+                    )
+                else:
+                    resp = requests.post(
+                        f"{base_url}/chat/completions",
+                        headers={
+                            "Authorization": f"Bearer {api_key}",
+                            "Content-Type":  "application/json",
+                        },
+                        json={
+                            "model":       model,
+                            "messages":    [{"role": "user", "content": prompt}],
+                            "max_tokens":  150,
+                            "temperature": 0,
+                        },
+                        timeout=20,
+                        verify=False,
+                    )
 
-            logger.info(f"   🤖 AI 補充答案：{answer!r}")
-            return answer
-        except Exception as e:
-            logger.warning(f"   ⚠️ AI API 呼叫失敗: {e}")
-            return None
+                # 429 / 503 → 嘗試下一個模型；其他錯誤直接拋出
+                if resp.status_code in (429, 503):
+                    logger.warning(f"   ⚠️ AI [{model}] 回傳 {resp.status_code}，嘗試下一個模型")
+                    continue
+                resp.raise_for_status()
+
+                if provider == "Claude":
+                    answer = resp.json()["content"][0]["text"].strip()
+                else:
+                    answer = resp.json()["choices"][0]["message"]["content"].strip()
+
+                logger.info(f"   🤖 AI 補充答案（{model}）：{answer!r}")
+                return answer
+
+            except Exception as e:
+                logger.warning(f"   ⚠️ AI [{model}] 呼叫失敗: {e}")
+                continue
+
+        logger.warning("   ⚠️ 所有 AI 模型均失敗，放棄補答")
+        return None
 
     def _save_answers_to_db(self, answers: dict, source: str = ""):
         """將 {題目: 答案} dict upsert 進 questions.db 並同步記憶體。
@@ -1300,90 +1335,29 @@ class AdminEfficiencyPilot:
                             ans_norm = ans_str.strip()
 
                             if len(radios) == 2:
-                                # 是非題
-                                # 先嘗試 value 比對（T/F/O/X）
+                                # 是非題：題庫有答案時只做映射，不再回報缺題。
                                 ans_upper = ans_norm.upper()
-                                if ans_upper in ("O", "T", "TRUE"):
+                                if ans_upper in ("O", "T", "TRUE", "A", "1"):
                                     idx = 0
-                                elif ans_upper in ("X", "F", "FALSE"):
+                                elif ans_upper in ("X", "F", "FALSE", "B", "2"):
                                     idx = 1
                                 else:
-                                    # 文字答案：○/是/對/正確 → 0；╳/否/錯/錯誤 → 1
                                     TRUE_WORDS = ["○", "是", "對", "正確", "true"]
-                                    FALSE_WORDS = [
-                                        "╳",
-                                        "否",
-                                        "錯",
-                                        "錯誤",
-                                        "false",
-                                        "非",
-                                    ]
+                                    FALSE_WORDS = ["╳", "否", "錯", "錯誤", "false", "非"]
                                     ans_lower = ans_norm.lower()
                                     if any(w in ans_lower for w in TRUE_WORDS):
                                         idx = 0
                                     elif any(w in ans_lower for w in FALSE_WORDS):
                                         idx = 1
-                                    else:
-                                        idx = 0  # 預設選第一個
-                            else:
-                                # 單選題：先比對 radio value（向後相容 1/2/3/4/A/B/C/D）
-                                ans_upper = ans_norm.upper()
-                                letter_to_val = {"A": "1", "B": "2", "C": "3", "D": "4"}
-                                target_val = letter_to_val.get(ans_upper, ans_upper)
-                                for i, r in enumerate(radios):
-                                    rv = (r.get_attribute("value") or "").upper()
-                                    if rv == target_val or rv == ans_upper:
-                                        idx = i
-                                        break
-                                # fallback: 用答案文字比對選項文字
-                                ALL_ABOVE_PATTERNS = [
-                                    "以上皆是",
-                                    "以上皆可",
-                                    "以上皆正確",
-                                    "以上皆對",
-                                    "all of the above",
-                                    "ll of the above",
-                                ]
-                                is_all_above = any(
-                                    p in ans_norm for p in ALL_ABOVE_PATTERNS
-                                )
-                                if idx is None:
-                                    if is_all_above:
-                                        idx = len(radios) - 1  # 通常「以上皆是」在最後
                                     elif option_texts:
-                                        # 選最長匹配（避免短答案誤命中多個選項）
-                                        best_idx = None
-                                        best_len = 0
                                         for i, opt_text in enumerate(option_texts):
                                             opt_clean = opt_text.strip()
-                                            if (
-                                                ans_norm
-                                                and opt_clean
-                                                and (
-                                                    ans_norm in opt_clean
-                                                    or opt_clean in ans_norm
-                                                )
-                                            ):
-                                                match_len = min(
-                                                    len(ans_norm), len(opt_clean)
-                                                )
-                                                if match_len > best_len:
-                                                    best_len = match_len
-                                                    best_idx = i
-                                        idx = best_idx
-                                # 最終 fallback: index mapping
+                                            if ans_norm and opt_clean and (ans_norm in opt_clean or opt_clean in ans_norm):
+                                                idx = i
+                                                break
                                 if idx is None:
-                                    opt_map = {
-                                        "A": 0,
-                                        "B": 1,
-                                        "C": 2,
-                                        "D": 3,
-                                        "1": 0,
-                                        "2": 1,
-                                        "3": 2,
-                                        "4": 3,
-                                    }
-                                    idx = opt_map.get(ans_upper, None)
+                                    idx = 0
+                                    logger.debug(f"   ⚠️ 是非題答案無法比對，預設選第一個：{q_text[:30]!r} ans={ans_norm!r}")
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
                             # 單選題隨機選
@@ -1414,30 +1388,46 @@ class AdminEfficiencyPilot:
 
             logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題略過")
 
-            # ── 6b. 回報缺題到 GAS（背景，不阻塞後續流程）──
+            # ── 6b. 傳送缺題通知到 GAS Relay → Telegram（背景執行，不阻擋主流程）──
             if _missing:
-                def _report_missing_to_gas(missing_list, course_name, uname):
+                # 去重（同一次考試同一題可能出現多次）
+                _seen = set()
+                _missing_dedup = []
+                for _m in _missing:
+                    _key = _m.get("question", "")
+                    if _key not in _seen:
+                        _seen.add(_key)
+                        _missing_dedup.append(_m)
+
+                _GAS_URL = self.config.get(
+                    "gas_url",
+                    "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
+                )
+                _course_name = course.get("caption", "未知課程")
+                _username = (
+                    self.config.get("name")
+                    or self.config.get("account")
+                    or "匿名"
+                )
+                _payload = {
+                    "course": _course_name,
+                    "username": _username,
+                    "missing": _missing_dedup,
+                }
+
+                import threading as _threading, requests as _req
+
+                def _post_gas(url, payload):
                     try:
-                        accounts = self.config.get("accounts", [])
-                        _requests = requests
-                        _requests.post(
-                            self._GAS_DB_URL,
-                            json={"course": course_name, "username": uname, "missing": missing_list},
-                            timeout=15,
-                            verify=False,
-                        )
-                        logger.info(f"   📤 已回報 {len(missing_list)} 題缺題到 GAS")
-                    except Exception as _ge:
-                        logger.warning(f"   ⚠️ 缺題回報 GAS 失敗: {_ge}")
-                _uname = ""
-                _accs = self.config.get("accounts", [])
-                if _accs:
-                    _uname = _accs[0].get("username", "") or _accs[0].get("account", "")
-                threading.Thread(
-                    target=_report_missing_to_gas,
-                    args=(_missing, course.get("caption", "未知課程"), _uname),
-                    daemon=True,
+                        _req.post(url, json=payload, timeout=20)
+                        logger.info(f"   📨 已回報 {len(payload['missing'])} 題缺題（{payload['username']}）")
+                    except Exception as _e:
+                        logger.debug(f"   缺題回報失敗: {_e}")
+
+                _threading.Thread(
+                    target=_post_gas, args=(_GAS_URL, _payload), daemon=True
                 ).start()
+                logger.info(f"   📨 缺題回報已背景送出（{len(_missing_dedup)} 題）")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
@@ -2315,6 +2305,30 @@ class AdminEfficiencyPilot:
 
     def run(self):
         """⭐ 正確位置：在類內"""
+        if self.config.get("login_type") == "taipei_eda":
+            self._start_keep_awake()
+            try:
+                logger.info("🏫 啟動臺北E大平台流程...")
+                from taipei_eda_course import run_taipei_eda
+
+                ok = run_taipei_eda(
+                    config_override=self.config,
+                    should_continue=lambda: self.running,
+                    log_callback=self.log_callback,
+                )
+                if ok:
+                    logger.info("🏆 臺北E大所有任務完成！")
+                else:
+                    logger.warning("⚠️ 臺北E大流程未完整完成，請查看 taipei_eda_course.log")
+            except ImportError as e:
+                logger.error(f"❌ 臺北E大模組載入失敗，請確認依賴已安裝: {e}")
+            except Exception as e:
+                logger.error(f"⚠️ 臺北E大流程發生錯誤: {e}")
+                logger.debug(traceback.format_exc())
+            finally:
+                self._cleanup()
+            return
+
         self._start_keep_awake()
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"

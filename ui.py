@@ -5,6 +5,13 @@ import re
 import threading
 import random
 import math
+from datetime import datetime
+
+# 確保 PyInstaller frozen 模式下 _MEIPASS 在 sys.path 最前面
+if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
+    if sys._MEIPASS not in sys.path:
+        sys.path.insert(0, sys._MEIPASS)
+
 from app import AdminEfficiencyPilot
 from PySide6.QtWidgets import (
     QApplication,
@@ -553,7 +560,7 @@ class EntryPage(QWidget):
         panel = DeleteAccountPanel(self)
         panel.selector.clear()
         for acc in self.accounts:
-            login_display = "我的E政府" if acc["login_type"] == "egov" else "eCPA"
+            login_display = {"egov": "我的E政府", "taipei_eda": "臺北E大"}.get(acc.get("login_type"), "eCPA")
             panel.selector.addItem(f"{acc['name']}（{login_display}）")
 
         panel.btn_ok.clicked.connect(self.show_delete_confirm)
@@ -637,7 +644,7 @@ class EntryPage(QWidget):
 
         for acc in self.accounts:
             # ⭐ 轉換登入方式的顯示文字
-            login_display = "我的E政府" if acc["login_type"] == "egov" else "eCPA"
+            login_display = {"egov": "我的E政府", "taipei_eda": "臺北E大"}.get(acc.get("login_type"), "eCPA")
             self.combo.addItem(f"{acc['name']}（{login_display}）")
 
         self.combo.setCurrentIndex(0)
@@ -934,6 +941,7 @@ class AddAccountPanel(QFrame):
         self.login_type = QComboBox()
         self.login_type.addItem("eCPA", "eCPA")
         self.login_type.addItem("我的E政府", "egov")
+        self.login_type.addItem("臺北E大", "taipei_eda")
         self.account = QLineEdit()
         # ===== 密碼 + 眼睛 =====
         pw_container = QWidget()
@@ -1012,10 +1020,11 @@ class AddAccountPanel(QFrame):
                 self.selector.clear()
 
                 for acc in parent.accounts:
-                    # ⭐ 轉換登入方式顯示
-                    login_display = (
-                        "我的E政府" if acc["login_type"] == "egov" else "eCPA"
-                    )
+                    # 顯示格式：姓名（登入方式）
+                    login_display = {
+                        "egov": "我的E政府",
+                        "taipei_eda": "臺北E大",
+                    }.get(acc.get("login_type"), "eCPA")
                     self.selector.addItem(f"{acc['name']}（{login_display}）", acc)
 
             # ⭐ 預設選第一個
@@ -1256,10 +1265,10 @@ class DeleteAccountPanel(QFrame):
 class SettingsPanel(QFrame):
     # 各服務預設值：(base_url, default_model, 申請連結)
     AI_PRESETS = {
-        "OpenAI": ("https://api.openai.com/v1",                               "gpt-4o-mini",          "https://platform.openai.com/api-keys"),
-        "Gemini": ("https://generativelanguage.googleapis.com/v1beta/openai", "gemini-3.1-flash-lite",     "https://aistudio.google.com/app/apikey"),
-        "Claude": ("https://api.anthropic.com/v1",                            "claude-3-haiku-20240307", "https://console.anthropic.com/settings/keys"),
-        "Groq":   ("https://api.groq.com/openai/v1",                          "llama3-8b-8192",       "https://console.groq.com/keys"),
+        "OpenAI": ("https://api.openai.com/v1",                               "gpt-4o-mini",             "https://platform.openai.com/api-keys"),
+        "Gemini": ("https://generativelanguage.googleapis.com/v1beta/openai", "gemini-2.0-flash-lite",   "https://aistudio.google.com/app/apikey"),
+        "Claude": ("https://api.anthropic.com/v1",                            "claude-haiku-4-5",        "https://console.anthropic.com/settings/keys"),
+        "Groq":   ("https://api.groq.com/openai/v1",                          "llama-3.1-8b-instant",    "https://console.groq.com/keys"),
         "自訂":   ("", "", ""),
     }
 
@@ -1937,7 +1946,7 @@ class UpdateDialog(QDialog):
         from PySide6.QtGui import QDesktopServices
         from PySide6.QtCore import QUrl
 
-        FALLBACK_URL = "https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest"
+        FALLBACK_URL = "https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing"
 
         fail_dlg = QDialog(self)
         fail_dlg.setWindowTitle("自動下載失敗")
@@ -2038,10 +2047,21 @@ class UpdateDialog(QDialog):
 
     # ---------- 安裝（替換 exe 並重啟）----------
     def _install_and_restart(self):
-        import os, tempfile
+        import os, tempfile, subprocess
         if not self.downloaded_path or not os.path.exists(self.downloaded_path):
             self._on_failed("找不到已下載的更新檔（可能被防毒軟體刪除）")
             return
+
+        # 移除 Zone.Identifier（網路下載標記），避免 Defender 攔截 DLL 載入
+        # 在 ps1 執行前就處理，確保無論 ps1 版本新舊都有效
+        try:
+            subprocess.run(
+                ["powershell", "-NoProfile", "-Command",
+                 f"Unblock-File -LiteralPath '{self.downloaded_path}'"],
+                timeout=5, capture_output=True
+            )
+        except Exception:
+            pass
 
         current_exe = sys.executable  # 目前運行中的 exe 完整路徑
         new_exe = self.downloaded_path
@@ -2091,15 +2111,26 @@ try {{
     Log "move failed: $_"
     exit 1
 }}
-# 4. 啟動新版（指定工作目錄避免 cwd 問題）
-# 4a. 短暫等待讓主程式完全脫離、檔案鎖徹底釋放
-Start-Sleep -Milliseconds 300
+# 3b. 移除 Zone.Identifier（網路下載標記），避免 Defender 攔截 DLL 載入
+Unblock-File -LiteralPath $tgt -ErrorAction SilentlyContinue
+Log "unblocked exe"
+# 4. 用排程工作啟動新版（系統信任的使用者互動，Defender 不會攔截 DLL）
+Start-Sleep -Seconds 2
 try {{
-    # 用 explorer.exe 啟動，等同使用者雙擊 — 避免 PowerShell token/環境繼承導致 PyInstaller 解壓失敗
-    Start-Process -FilePath 'explorer.exe' -ArgumentList $tgt
-    Log "started new exe"
+    $exeDir = Split-Path -Parent $tgt
+    $action  = New-ScheduledTaskAction -Execute $tgt -WorkingDirectory $exeDir
+    $trigger = New-ScheduledTaskTrigger -Once -At ((Get-Date).AddSeconds(3))
+    $settings = New-ScheduledTaskSettingsSet -DeleteExpiredTaskAfter (New-TimeSpan -Seconds 60)
+    Register-ScheduledTask -TaskName "AEP_AutoLaunch" -Action $action -Trigger $trigger -Settings $settings -Force -RunLevel Limited -ErrorAction Stop | Out-Null
+    Log "scheduled task registered, launching in 3s"
 }} catch {{
-    Log "start failed: $_"
+    Log "task failed: $_, fallback ShellExecute"
+    try {{
+        $shell = New-Object -ComObject Shell.Application
+        $shell.ShellExecute($tgt, '', (Split-Path -Parent $tgt), 'open', 1)
+    }} catch {{
+        Log "ShellExecute also failed: $_"
+    }}
 }}
 # 5. 刪自己
 Remove-Item -LiteralPath $MyInvocation.MyCommand.Path -Force -ErrorAction SilentlyContinue
@@ -2385,6 +2416,164 @@ class ImmersivePage(QWidget):
         # account（帳號）
         self.info.move(248, 162)
 
+    def _format_taipei_log_line(self, text):
+        """把臺北E大的 console 輸出整理成與 eCPA 流程相同的 UI log 風格。"""
+        raw = (text or "").strip()
+        if not raw:
+            return None
+
+        if re.fullmatch(r"[-=─\s]{8,}", raw):
+            return None
+
+        if raw.startswith("SCORM URL:") or raw.startswith("Player URL:"):
+            return None
+
+        replacements = [
+            (r"^===\s*登入\s*===$", "INFO", "🔑 正在登入臺北E大..."),
+            (r"^===\s*掃描課程清單\s*===$", "INFO", "📋 正在掃描課程清單..."),
+            (r"^===\s*最終課程狀態\s*===$", "INFO", "📋 最終課程狀態"),
+            (r"^Login OK\b.*", "INFO", "✅ 臺北E大登入成功"),
+            (r"^登入失敗$", "ERROR", "❌ 臺北E大登入失敗"),
+            (r"^沒有未完成課程！$", "INFO", "✅ 沒有未完成課程"),
+            (r"^完成！$", "INFO", "🏆 臺北E大所有任務完成！"),
+            (r"^無測驗$", "INFO", "📝 無測驗"),
+            (r"^無問卷$", "INFO", "📋 無問卷"),
+            (r"^重新掃描 feedback URL\.\.\.$", "INFO", "🔎 重新掃描問卷連結..."),
+            (r"^找不到 SCORM 連結，跳過$", "WARNING", "⚠️ 找不到 SCORM 連結，跳過"),
+            (r"^使用者已停止臺北E大流程$", "WARNING", "🛑 使用者已停止臺北E大流程"),
+        ]
+        for pattern, level, msg in replacements:
+            if re.match(pattern, raw):
+                return level, msg
+
+        m = re.match(r"^captcha \[\d+\]: ['\"]?([^'\"]*)['\"]?$", raw)
+        if m:
+            code = m.group(1) or "未辨識"
+            return "INFO", f"🔐 驗證碼辨識：{code}"
+
+        m = re.match(r"^\[config\]\s*已載入:", raw)
+        if m:
+            return "INFO", "⚙️ 已載入臺北E大設定"
+
+        m = re.match(r"^\[掃描\]\s*(.+)$", raw)
+        if m:
+            return "WARNING", f"🔎 {m.group(1)}"
+
+        m = re.match(r"^\[模組\]\s*course_id=([^\s]+).*quiz=([^\s]+).*fb=([^\s]+)", raw)
+        if m:
+            quiz = "有測驗" if m.group(2) not in ("None", "") else "無測驗"
+            fb = "有問卷" if m.group(3) not in ("None", "") else "無問卷"
+            return "INFO", f"🔎 已偵測課程模組：course_id={m.group(1)}，{quiz}，{fb}"
+
+        m = re.match(r"^共\s*(\d+)\s*門未完成課程，開始依序處理", raw)
+        if m:
+            return "INFO", f"⏳ 待處理課程 {m.group(1)} 門，開始依序處理..."
+
+        m = re.match(r"^課程總數:\s*(\d+)\s*筆，未完成:\s*(\d+)\s*筆$", raw)
+        if m:
+            return "INFO", f"📋 課程總數 {m.group(1)} 筆，未完成 {m.group(2)} 筆"
+
+        m = re.match(r"^尚未完成:\s*(.+)$", raw)
+        if m:
+            return "WARNING", f"⏳ 尚未完成：{m.group(1)}"
+
+        m = re.match(r"^▶️\s*點擊課程按鈕:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"▶️ 點擊課程按鈕：{m.group(1)}"
+
+        m = re.match(r"^點擊課程按鈕:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"▶️ 點擊課程按鈕：{m.group(1)}"
+
+        m = re.match(r"^處理:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"▶️ 處理課程：{m.group(1)}"
+
+        m = re.match(r"^課程:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"📘 課程：{m.group(1)}"
+
+        m = re.match(r"^目標:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"⏱️ {m.group(1)}"
+
+        m = re.match(r"^研習進度：(.+)$", raw)
+        if m:
+            return "INFO", f"📊 研習進度：{m.group(1)}"
+
+        m = re.match(r"^進入單元：(.+)$", raw)
+        if m:
+            return "INFO", f"📍 進入單元：{m.group(1)}"
+
+        m = re.match(r"^章節總數:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"📚 章節總數：{m.group(1)}"
+
+        m = re.match(r"^第\s*(\d+)\s*輪（補認證時數）\|\s*已補:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"🔄 第 {m.group(1)} 輪補認證時數｜已補 {m.group(2)}"
+
+        m = re.match(r"^第\s*(\d+)\s*輪(.+)$", raw)
+        if m:
+            return "INFO", f"🔄 第 {m.group(1)} 輪{m.group(2)}"
+
+        m = re.match(r"^\[([✓○])\]\s*(.+)$", raw)
+        if m:
+            icon = "✅" if m.group(1) == "✓" else "○"
+            return "INFO", f"   {icon} {m.group(2)}"
+
+        m = re.match(r"^\[(已完成|未完成)\]\s*(.+?)\s*\|\s*修課:(.*?)\s*\|\s*測驗:(.*)$", raw)
+        if m:
+            icon = "✅" if m.group(1) == "已完成" else "⏳"
+            return "INFO", f"{icon} {m.group(2)}｜修課 {m.group(3).strip()}｜測驗 {m.group(4).strip()}"
+
+        m = re.match(r"^(已完成|未完成)\s+(.+?)\s{2,}(.+)$", raw)
+        if m:
+            icon = "✅" if m.group(1) == "已完成" else "⏳"
+            return "INFO", f"{icon} {m.group(2)}"
+
+        m = re.match(r"^→\s*測驗\s*(.*)$", raw)
+        if m:
+            return "INFO", f"📝 開始測驗 {m.group(1).strip()}".rstrip()
+
+        m = re.match(r"^測驗結果:\s*(.+)$", raw)
+        if m:
+            return "INFO", f"📝 測驗結果：{m.group(1)}"
+
+        m = re.match(r"^→\s*問卷$", raw)
+        if m:
+            return "INFO", "📋 開始填寫問卷"
+
+        m = re.match(r"^\[題庫\]\s*GAS 目前沒有此課程題庫（course_id=(.+?)），將用 AI/猜題建立題庫$", raw)
+        if m:
+            return "WARNING", f"📚 GAS 尚無此課程題庫（course_id={m.group(1)}），將建立題庫"
+
+        m = re.match(r"^\[題庫\]\s*從 GAS 載入 (\d+) 題（course_id=(.+?)）$", raw)
+        if m:
+            return "INFO", f"📚 從 GAS 載入 {m.group(1)} 題（course_id={m.group(2)}）"
+
+        m = re.match(r"^\[題庫\]\s*正在從 GAS 載入 course_id=(.+)$", raw)
+        if m:
+            return "INFO", f"📚 正在載入 GAS 題庫（course_id={m.group(1)}）"
+
+        m = re.match(r"^\[測驗\]\s*讀到 (\d+) 題$", raw)
+        if m:
+            return "INFO", f"📝 測驗讀到 {m.group(1)} 題"
+
+        m = re.match(r"^\[測驗\]\s*⚠️\s*沒讀到題目", raw)
+        if m:
+            return "WARNING", "📝 沒讀到測驗題目，已記錄頁面預覽"
+
+        if raw in ("○ 未完成", "[○] 未完成") or raw.endswith("] 未完成"):
+            return None
+
+        if "⚠️" in raw:
+            return "WARNING", raw
+        if raw.startswith("✅"):
+            return "INFO", raw
+
+        return "INFO", raw
+
     def _append_text_safe(self, text):
         """添加日志文本（HTML 上色，直接 append 到 QTextEdit）"""
         text = re.sub(r"\x1b\[[0-9;]*m", "", text)
@@ -2396,24 +2585,28 @@ class ImmersivePage(QWidget):
 
         if m:
             time_part, level_part, msg_part = m.groups()
-
-            level_colors = {
-                "INFO": "#3B82F6",
-                "WARNING": "#F59E0B",
-                "WARN": "#F59E0B",
-                "ERROR": "#EF4444",
-                "CRITICAL": "#F97316",
-                "DEBUG": "#9CA3AF",
-            }
-            level_color = level_colors.get(level_part, "#9CA3AF")
-
-            html = (
-                f'<span style="color:#9CA3AF;">{esc(time_part)}</span> '
-                f'<span style="color:{level_color};">[{esc(level_part)}]</span> '
-                f'<span style="color:#E5E7EB;">{esc(msg_part)}</span>'
-            )
         else:
-            html = f'<span style="color:#E5E7EB;">{esc(text)}</span>'
+            formatted = self._format_taipei_log_line(text)
+            if not formatted:
+                return
+            level_part, msg_part = formatted
+            time_part = datetime.now().strftime("%H:%M:%S")
+
+        level_colors = {
+            "INFO": "#3B82F6",
+            "WARNING": "#F59E0B",
+            "WARN": "#F59E0B",
+            "ERROR": "#EF4444",
+            "CRITICAL": "#F97316",
+            "DEBUG": "#9CA3AF",
+        }
+        level_color = level_colors.get(level_part, "#9CA3AF")
+
+        html = (
+            f'<span style="color:#9CA3AF;">{esc(time_part)}</span> '
+            f'<span style="color:{level_color};">[{esc(level_part)}]</span> '
+            f'<span style="color:#E5E7EB;">{esc(msg_part)}</span>'
+        )
 
         self.log_view.append(html)
         bar = self.log_view.verticalScrollBar()
@@ -2440,6 +2633,7 @@ class MainWindow(QWidget):
             # 如果無法取得，使用預設值
             self.resize(900, 600)
 
+        # Keep the entry window fixed like the immersive/main screen.
         self.setFixedSize(self.size())
 
         self.stack.addWidget(self.entry)
@@ -2458,7 +2652,7 @@ class MainWindow(QWidget):
         import threading, requests as _req
 
         RELEASE_API = "https://api.github.com/repos/waynelord0628-beep/auto-learning-bot/releases/latest"
-        FALLBACK_URL = "https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest"
+        FALLBACK_URL = "https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing"
         current_version = AdminEfficiencyPilot.VERSION
 
         self._update_signal = UpdateSignal()
@@ -2488,17 +2682,13 @@ class MainWindow(QWidget):
                 latest = (data.get("tag_name") or "").strip()
                 changelog = (data.get("body") or "").strip()
                 assets = data.get("assets", []) or []
-                # 找 .exe 資產
+                # 永遠導向 Drive，不用 GitHub asset 直連
                 exe_asset = next(
                     (a for a in assets if (a.get("name") or "").lower().endswith(".exe")),
                     None,
                 )
-                if exe_asset:
-                    download_url = exe_asset.get("browser_download_url", FALLBACK_URL)
-                    file_size = int(exe_asset.get("size", 0))
-                else:
-                    download_url = FALLBACK_URL
-                    file_size = 0
+                file_size = int(exe_asset.get("size", 0)) if exe_asset else 0
+                download_url = FALLBACK_URL  # 永遠跳 Google Drive
 
                 if not latest or not latest.upper().startswith("V"):
                     _dbg(f"tag_name 格式不符：{latest!r}")
@@ -2531,10 +2721,17 @@ class MainWindow(QWidget):
             self.particle_effect.deleteLater()
             self.particle_effect = None
 
-    def _start_pilot_background(self, account_data):
-        """在後臺啟動 pilot 程式"""
+    def _request_stop_current_pilot(self):
         if hasattr(self, "pilot") and self.pilot:
             self.pilot.running = False
+            try:
+                self.pilot._cleanup()
+            except Exception:
+                pass
+
+    def _start_pilot_background(self, account_data):
+        """在後臺啟動 pilot 程式"""
+        self._request_stop_current_pilot()
 
         # ⭐ 從 entry 的配置中讀取完整配置
         config_from_entry = self.entry.load_config()
@@ -2667,7 +2864,13 @@ class MainWindow(QWidget):
             """)
 
     def _on_update_available(self, latest: str, changelog: str, url: str, size: int = 0):
-        """在主執行緒顯示更新提示視窗（兩階段：提示 → 下載 → 重啟）"""
+        """在主執行緒顯示更新提示視窗（雲端下載版：直接引導使用者前往雲端手動下載）"""
+        from PySide6.QtGui import QDesktopServices
+        from PySide6.QtCore import QUrl
+
+        FALLBACK_URL = "https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing"
+        download_url = url or FALLBACK_URL
+
         # 儲存更新資訊，讓按鈕可以重複觸發
         self.entry._has_update = True
         self.entry._latest_update_info = (latest, changelog, url, size)
@@ -2685,14 +2888,101 @@ class MainWindow(QWidget):
                 }
             """)
 
-        dialog = UpdateDialog(self, latest, changelog, url, size)
-        dialog.exec()
+        # ── 輕量提示框：引導使用者前往雲端手動下載 ──
+        dlg = QDialog(self)
+        dlg.setWindowTitle("有新版本可用")
+        dlg.setFixedWidth(460)
+        dlg.setStyleSheet("QDialog { background: #f5f7fa; } QLabel { color: #2c3e50; background: transparent; }")
+
+        outer = QVBoxLayout(dlg)
+        outer.setSpacing(0)
+        outer.setContentsMargins(0, 0, 0, 0)
+
+        # 藍色頂部色帶
+        hdr = QLabel()
+        hdr.setFixedHeight(6)
+        hdr.setStyleSheet("background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #1976d2,stop:1 #42a5f5);")
+        outer.addWidget(hdr)
+
+        body = QVBoxLayout()
+        body.setSpacing(12)
+        body.setContentsMargins(28, 22, 28, 20)
+
+        # 標題列
+        title_row = QHBoxLayout()
+        title_row.setSpacing(12)
+        ico = QLabel("🔔")
+        ico.setFixedSize(42, 42)
+        ico.setStyleSheet("background: #e3f2fd; border-radius: 8px; font-size: 22px; qproperty-alignment: AlignCenter;")
+        title_row.addWidget(ico)
+
+        tbox = QVBoxLayout()
+        tbox.setSpacing(2)
+        ttl = QLabel(f"發現新版本 <b>{latest}</b>")
+        ttl.setTextFormat(Qt.RichText)
+        ttl.setStyleSheet("font-size: 16px; font-weight: bold; color: #1565c0;")
+        tbox.addWidget(ttl)
+        title_row.addLayout(tbox, 1)
+        body.addLayout(title_row)
+
+        # 說明文字
+        guide = QLabel(
+            "請點擊下方按鈕前往雲端下載最新版的 <b>.exe</b> 檔，"
+            "下載後直接替換掉目前的舊版本即可完成更新。"
+        )
+        guide.setTextFormat(Qt.RichText)
+        guide.setWordWrap(True)
+        guide.setStyleSheet(
+            "font-size: 12px; color: #555f6e; padding: 10px 12px;"
+            "background: #ffffff; border: 1px solid #e1e7ed; border-radius: 6px;"
+        )
+        body.addWidget(guide)
+
+        # 更新日誌（有的話顯示）
+        if changelog:
+            log_lbl = QLabel(changelog[:300] + ("…" if len(changelog) > 300 else ""))
+            log_lbl.setWordWrap(True)
+            log_lbl.setStyleSheet(
+                "font-size: 11px; color: #7f8c8d; padding: 8px 10px;"
+                "background: #f0f4f8; border: 1px solid #dce1e7; border-radius: 5px;"
+            )
+            body.addWidget(log_lbl)
+
+        # 按鈕列
+        b_row = QHBoxLayout()
+        b_row.setSpacing(10)
+
+        btn_close = QPushButton("稍後再說")
+        btn_close.setFixedHeight(36)
+        btn_close.setStyleSheet("""
+            QPushButton { background: #ecf0f1; color: #7f8c8d; border-radius: 6px;
+                          padding: 0 22px; font-size: 13px; border: 1px solid #dce1e7; }
+            QPushButton:hover { background: #dde3e8; }
+        """)
+        btn_close.clicked.connect(dlg.reject)
+
+        btn_open = QPushButton("前往雲端下載新版本")
+        btn_open.setFixedHeight(36)
+        btn_open.setStyleSheet("""
+            QPushButton { background: #1976d2; color: #fff; font-weight: bold;
+                          border-radius: 6px; padding: 0 22px; font-size: 13px; border: none; }
+            QPushButton:hover { background: #1565c0; }
+        """)
+        btn_open.clicked.connect(lambda: QDesktopServices.openUrl(QUrl(download_url)))
+        btn_open.clicked.connect(dlg.accept)
+
+        b_row.addStretch()
+        b_row.addWidget(btn_close)
+        b_row.addWidget(btn_open)
+        body.addLayout(b_row)
+
+        outer.addLayout(body)
+        dlg.exec()
 
     def go_entry(self):
         """⭐ 修改版：立即返回入口，後臺清理"""
         # Step 1️⃣：立即設置停止旗標
-        if hasattr(self, "pilot") and self.pilot:
-            self.pilot.running = False
+        self._request_stop_current_pilot()
 
         # Step 2️⃣：立即切換 UI 回到入���頁面（重點：不等待）
         self.stack.setCurrentWidget(self.entry)
@@ -2724,6 +3014,17 @@ class MainWindow(QWidget):
             pass
 
 
+    def closeEvent(self, event):
+        self._request_stop_current_pilot()
+        if self.cleanup_thread is None or not self.cleanup_thread.is_alive():
+            self.cleanup_thread = threading.Thread(
+                target=self._cleanup_pilot_async, daemon=True
+            )
+            self.cleanup_thread.start()
+            self.cleanup_thread.join(timeout=3)
+        event.accept()
+
+
 # =========================
 # Run
 # =========================
@@ -2741,6 +3042,23 @@ if __name__ == "__main__":
 
     app = QApplication(sys.argv)
     app.setStyleSheet(GLOBAL_QSS)
+
+    # 清理同目錄下的舊版 exe（default.exe、含版本號的 _VX.X.X.exe）
+    if getattr(sys, "frozen", False):
+        import glob as _glob
+        _exe_dir = os.path.dirname(sys.executable)
+        _correct = os.path.basename(sys.executable)
+        _patterns = [
+            os.path.join(_exe_dir, "default.exe"),
+            *_glob.glob(os.path.join(_exe_dir, "*_V[0-9]*.[0-9]*.[0-9]*.exe")),
+            *_glob.glob(os.path.join(_exe_dir, "*FAKE*.exe")),
+        ]
+        for _old in _patterns:
+            try:
+                if os.path.exists(_old) and os.path.basename(_old) != _correct:
+                    os.remove(_old)
+            except Exception:
+                pass
     w = MainWindow()
     w.show()
     sys.exit(app.exec())
