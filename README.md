@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.0** ｜ 數位研習輔助方案
+**版本 V2.1.1** ｜ 數位研習輔助方案
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -225,6 +225,7 @@ uv sync
 
 | 版本 | 更新內容 |
 |------|----------|
+| **V2.1.1** | 回退 V2.0.6 穩定核心（修復考試作答 0 題問題）；題庫雲端同步改為直接從 GitHub Raw 拉取（修復 GAS 404/timeout）；Gemini 預設模型更新為 `gemini-3.1-flash-lite`（官方停用 2.0 系列）；視窗固定大小 |
 | **V2.1.0** | Gemini 模型更新（優先 gemini-3.1-flash-lite）；更新提示永遠導向 Google Drive |
 | **V2.0.9** | 缺題回報改為背景執行；缺題通知顯示使用者姓名；GAS 補答升級為 OpenAI 批次處理；更新提示改為雲端手動下載 |
 | **V2.0.8** | 自動更新流程修復；首次啟動自動改名；啟動清舊版 exe；題庫靜默背景更新 |

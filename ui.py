@@ -5,12 +5,6 @@ import re
 import threading
 import random
 import math
-
-# 確保 PyInstaller frozen 模式下 _MEIPASS 在 sys.path 最前面
-if getattr(sys, "frozen", False) and hasattr(sys, "_MEIPASS"):
-    if sys._MEIPASS not in sys.path:
-        sys.path.insert(0, sys._MEIPASS)
-
 from app import AdminEfficiencyPilot
 from PySide6.QtWidgets import (
     QApplication,
@@ -346,7 +340,7 @@ class EntryPage(QWidget):
         self.inner_layout.setAlignment(Qt.AlignTop)
 
         # 加標題（像 App）
-        title = QLabel("行政程序領航員")
+        title = QLabel("行政效能領航員")
         title.setStyleSheet("""
             font-family: "Noto Sans TC Rounded";
             color: rgba(0,0,0,0.6);
@@ -1263,7 +1257,7 @@ class SettingsPanel(QFrame):
     # 各服務預設值：(base_url, default_model, 申請連結)
     AI_PRESETS = {
         "OpenAI": ("https://api.openai.com/v1",                               "gpt-4o-mini",          "https://platform.openai.com/api-keys"),
-        "Gemini": ("https://generativelanguage.googleapis.com/v1beta/openai", "gemini-1.5-flash",     "https://aistudio.google.com/app/apikey"),
+        "Gemini": ("https://generativelanguage.googleapis.com/v1beta/openai", "gemini-3.1-flash-lite",     "https://aistudio.google.com/app/apikey"),
         "Claude": ("https://api.anthropic.com/v1",                            "claude-3-haiku-20240307", "https://console.anthropic.com/settings/keys"),
         "Groq":   ("https://api.groq.com/openai/v1",                          "llama3-8b-8192",       "https://console.groq.com/keys"),
         "自訂":   ("", "", ""),
@@ -2101,9 +2095,8 @@ try {{
 # 4a. 短暫等待讓主程式完全脫離、檔案鎖徹底釋放
 Start-Sleep -Milliseconds 300
 try {{
-    # 用 cmd /c start 啟動，等同雙擊 — 完全獨立的新程序，不繼承 PowerShell 環境
-    $tgtQ = $tgt -replace '"', '""'
-    Start-Process -FilePath 'cmd.exe' -ArgumentList "/c", "start", '""', "`"$tgtQ`"" -WindowStyle Hidden
+    # 用 explorer.exe 啟動，等同使用者雙擊 — 避免 PowerShell token/環境繼承導致 PyInstaller 解壓失敗
+    Start-Process -FilePath 'explorer.exe' -ArgumentList $tgt
     Log "started new exe"
 }} catch {{
     Log "start failed: $_"
@@ -2447,7 +2440,7 @@ class MainWindow(QWidget):
             # 如果無法取得，使用預設值
             self.resize(900, 600)
 
-        self.setMinimumSize(500, 400)
+        self.setFixedSize(self.size())
 
         self.stack.addWidget(self.entry)
         self.stack.addWidget(self.immersive)
@@ -2745,39 +2738,6 @@ if __name__ == "__main__":
         os.chdir(_base_dir)
     except Exception:
         pass
-
-    # 若 exe 檔名不是「行政效能領航員.exe」（例如瀏覽器下載時存成 default.exe），
-    # 用 ps1 在背景改名並重啟，確保捷徑/工作列永遠指向正確檔名
-    if getattr(sys, "frozen", False):
-        _correct_name = "行政效能領航員.exe"
-        _cur_exe = sys.executable
-        if os.path.basename(_cur_exe) != _correct_name:
-            import tempfile, base64, subprocess
-            _target = os.path.join(os.path.dirname(_cur_exe), _correct_name)
-            _t = _target.replace("'", "''")
-            _s = _cur_exe.replace("'", "''")
-            _ps1 = f"""
-Start-Sleep -Milliseconds 800
-$src = '{_s}'
-$tgt = '{_t}'
-if (Test-Path -LiteralPath $tgt) {{ Remove-Item -LiteralPath $tgt -Force -ErrorAction SilentlyContinue }}
-Copy-Item -LiteralPath $src -Destination $tgt -Force
-Start-Process -FilePath 'cmd.exe' -ArgumentList '/c', 'start', '""', "`"$tgt`"" -WindowStyle Hidden
-Remove-Item -LiteralPath $MyInvocation.MyCommand.Path -Force -ErrorAction SilentlyContinue
-"""
-            _enc = base64.b64encode(_ps1.encode("utf-16-le")).decode("ascii")
-            _ps1_path = os.path.join(tempfile.gettempdir(), "rename_self.ps1")
-            with open(_ps1_path, "w", encoding="utf-8-sig") as _f:
-                _f.write(_ps1)
-            _si = subprocess.STARTUPINFO()
-            _si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
-            _si.wShowWindow = 0
-            subprocess.Popen(
-                ["powershell", "-NonInteractive", "-EncodedCommand", _enc],
-                startupinfo=_si,
-                creationflags=subprocess.CREATE_NEW_PROCESS_GROUP,
-            )
-            sys.exit(0)
 
     app = QApplication(sys.argv)
     app.setStyleSheet(GLOBAL_QSS)

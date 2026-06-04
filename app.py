@@ -75,12 +75,12 @@ class UILogHandler(logging.Handler):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.0.7"
+    VERSION = "V2.1.1"
     CHANGELOG = (
-        "• 修復 Chrome 升版後 driver 衝突導致無法啟動的問題\n"
-        "• 新增多種 AI 模型支援（OpenAI、Gemini、Claude、Groq 及自訂）\n"
-        "• 修復無法新增帳號的問題\n"
-        "• 設定頁面 UI 全面優化"
+        "• 回退至 V2.0.6 穩定核心（考試作答正常）\n"
+        "• 新增 GAS 題庫雲端同步（啟動時背景自動更新）\n"
+        "• 缺題自動回報 GAS，由 OpenAI 補答後同步至雲端\n"
+        "• 修正主畫面標題文字"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -281,6 +281,10 @@ class AdminEfficiencyPilot:
             )  # Windows Ctrl+Break
         except (AttributeError, OSError):
             pass
+
+        # GAS 題庫靜默背景同步（啟動時）
+        _t = threading.Thread(target=self._update_db_from_gas, daemon=True, name="GAS-DB-Sync")
+        _t.start()
 
     def load_config(self, path):
         if path is None:
@@ -602,6 +606,92 @@ class AdminEfficiencyPilot:
         except Exception as e:
             logger.warning(f"   ⚠️ 寫入 questions.db 失敗: {e}")
 
+    # ── GAS 題庫同步 URL（送出缺題 + 下載更新共用同一個 endpoint）──
+    _GAS_DB_URL = "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
+    _GAS_PATCH_URL = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/patches/questions_patch.json"
+
+    def _update_db_from_gas(self):
+        """啟動時靜默背景同步：從 GitHub Raw 直接下載 questions_patch.json 並 upsert 進本地 questions.db。
+
+        格式：[{"question":"...","answer":"...","options":["A","B","C","D"],...}, ...]
+        """
+        try:
+            logger.info("📥 正在從雲端同步最新題庫（背景）...")
+            resp = requests.get(
+                self._GAS_PATCH_URL,
+                timeout=30,
+                verify=False,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            if not isinstance(data, list) or len(data) == 0:
+                logger.info("📥 GAS 回傳題庫為空或格式不符，略過")
+                return
+
+            import sys as _sys
+            _base = (
+                os.path.dirname(_sys.executable)
+                if getattr(_sys, "frozen", False)
+                else os.path.dirname(os.path.abspath(__file__))
+            )
+            db_path = os.path.join(_base, "questions.db")
+            conn = sqlite3.connect(db_path)
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS questions (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    question TEXT UNIQUE NOT NULL,
+                    option_a TEXT, option_b TEXT, option_c TEXT, option_d TEXT,
+                    answer TEXT
+                )
+            """)
+            added = 0
+            updated = 0
+            for item in data:
+                q = (item.get("question") or "").strip()
+                a = (item.get("answer") or "").strip()
+                if not q or not a:
+                    continue
+                # 支援 options:[] 格式（questions_patch.json）與 option_a/b/c/d 格式（GAS doGet）
+                opts = item.get("options") or []
+                oa = (opts[0] if len(opts) > 0 else item.get("option_a") or "").strip()
+                ob = (opts[1] if len(opts) > 1 else item.get("option_b") or "").strip()
+                oc = (opts[2] if len(opts) > 2 else item.get("option_c") or "").strip()
+                od = (opts[3] if len(opts) > 3 else item.get("option_d") or "").strip()
+                existing = conn.execute(
+                    "SELECT id, answer FROM questions WHERE question = ?", (q,)
+                ).fetchone()
+                if existing:
+                    if existing[1] != a:
+                        conn.execute(
+                            "UPDATE questions SET answer=?, option_a=?, option_b=?, option_c=?, option_d=? WHERE question=?",
+                            (a, oa, ob, oc, od, q),
+                        )
+                        updated += 1
+                else:
+                    conn.execute(
+                        "INSERT INTO questions (question, option_a, option_b, option_c, option_d, answer) VALUES (?,?,?,?,?,?)",
+                        (q, oa, ob, oc, od, a),
+                    )
+                    added += 1
+                # 同步記憶體 _answer_map
+                nk = _normalize_q(q)
+                if nk:
+                    if nk not in self._answer_map:
+                        self._answer_keys.append(nk)
+                    self._answer_map[nk] = {
+                        "answer": a,
+                        "options": [o for o in [oa, ob, oc, od] if o],
+                        "question": q,
+                    }
+            conn.commit()
+            conn.close()
+            logger.info(
+                f"📥 GAS 題庫同步完成：新增 {added} 題，更新 {updated} 題"
+                f"，記憶體共 {len(self._answer_map)} 題"
+            )
+        except Exception as e:
+            logger.warning(f"📥 GAS 題庫同步失敗（不影響本機題庫）: {e}")
+
     def _accept_alert(self):
         """若有 alert/confirm 對話框則點確定，無則跳過"""
         try:
@@ -824,9 +914,6 @@ class AdminEfficiencyPilot:
                 logger.info("   📝 已點擊「測驗/考試」")
             except Exception as e:
                 logger.warning(f"   ⚠️ 找不到測驗連結（mooc_sysbar）: {e}")
-                # 找不到測驗連結代表課程結構不符或測驗不存在，
-                # 直接加入已處理集合避免無限重試
-                self._completed_in_session.add(course_id)
                 return False
 
             time.sleep(2)
@@ -837,7 +924,6 @@ class AdminEfficiencyPilot:
                 self.driver.switch_to.frame("s_main")
             except Exception:
                 logger.warning("   ⚠️ 無法切換到 s_main frame")
-                self._completed_in_session.add(course_id)
                 return False
 
             time.sleep(1)
@@ -934,7 +1020,7 @@ class AdminEfficiencyPilot:
             # ── 6. 逐題作答 ──
             answered = 0
             skipped = 0
-            _missing = []  # 題庫無答案的題目，考試結束後寫入 missing_questions.json
+            _missing = []  # 題庫無答案的題目，考試後回報 GAS
 
             rows = self.driver.find_elements(
                 By.CSS_SELECTOR, "tr.bg03.font01, tr.bg04.font01"
@@ -1106,9 +1192,9 @@ class AdminEfficiencyPilot:
                                 ans = ai_ans
                                 _ai_answered[q_text] = ai_ans
 
-                    logger.debug(f"   題目: {q_text[:50]!r}")
-                    logger.debug(f"   選項: {[t[:20] for t in option_texts]!r}")
-                    logger.debug(f"   答案: {ans!r}")
+                    logger.info(f"   題目: {q_text[:50]!r}")
+                    logger.info(f"   選項: {[t[:20] for t in option_texts]!r}")
+                    logger.info(f"   答案: {ans!r}")
                     if checkboxes:
                         if ans is not None:
                             ans_text = (
@@ -1199,9 +1285,8 @@ class AdminEfficiencyPilot:
                                     "arguments[0].click();", pick
                                 )
                             logger.debug(
-                                 f"   ✖ 多選題庫無答案，隨機作答({pick_count}/{n})：{q_text[:20]}..."
+                                f"   🎲 多選隨機作答({pick_count}/{n})：{q_text[:20]}..."
                             )
-                            _missing.append({"type": "多選", "question": q_text, "options": option_texts})
                         answered += 1
 
                     elif radios:
@@ -1240,8 +1325,28 @@ class AdminEfficiencyPilot:
                                         idx = 1
                                     else:
                                         idx = 0  # 預設選第一個
-                                logger.debug(f"   ✖ 是非題庫無答案，預設選○：{q_text[:30]!r}")
-                                _missing.append({"type": "是非", "question": q_text, "options": option_texts})
+                            else:
+                                # 單選題：先比對 radio value（向後相容 1/2/3/4/A/B/C/D）
+                                ans_upper = ans_norm.upper()
+                                letter_to_val = {"A": "1", "B": "2", "C": "3", "D": "4"}
+                                target_val = letter_to_val.get(ans_upper, ans_upper)
+                                for i, r in enumerate(radios):
+                                    rv = (r.get_attribute("value") or "").upper()
+                                    if rv == target_val or rv == ans_upper:
+                                        idx = i
+                                        break
+                                # fallback: 用答案文字比對選項文字
+                                ALL_ABOVE_PATTERNS = [
+                                    "以上皆是",
+                                    "以上皆可",
+                                    "以上皆正確",
+                                    "以上皆對",
+                                    "all of the above",
+                                    "ll of the above",
+                                ]
+                                is_all_above = any(
+                                    p in ans_norm for p in ALL_ABOVE_PATTERNS
+                                )
                                 if idx is None:
                                     if is_all_above:
                                         idx = len(radios) - 1  # 通常「以上皆是」在最後
@@ -1279,22 +1384,20 @@ class AdminEfficiencyPilot:
                                         "4": 3,
                                     }
                                     idx = opt_map.get(ans_upper, None)
-                                # 最終 fallback: 所有比對都失敗時隨機選，避免空白送出
-                                if idx is None:
-                                    idx = random.randrange(len(radios))
-                                    logger.debug(f"   ✖ 單選比對失敗，隨機作答：{q_text[:30]!r} ans={ans_norm!r}")
-                                    _missing.append({"type": "單選", "question": q_text, "options": option_texts})
                         else:
                             # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
                             # 單選題隨機選
                             if len(radios) == 2:
                                 idx = 0  # 是非題預設 ○（True）
                                 logger.info(
-                                     f"   ✖ 是非題庫無答案，預設選○：{q_text[:30]!r}"
+                                    f"   🔵 是非題預設選○（題庫無此題）：{q_text[:30]!r}"
                                 )
+                                _missing.append({"type": "是非", "question": q_text, "options": option_texts})
                             else:
                                 idx = random.randrange(len(radios))
-                                logger.debug(f"   ✖ 單選題庫無答案，隨機作答：{q_text[:30]!r}")
+                                logger.info(
+                                    f"   🎲 單選隨機作答（題庫無此題）：{q_text[:30]!r}"
+                                )
                                 _missing.append({"type": "單選", "question": q_text, "options": option_texts})
 
                         if idx is not None and idx < len(radios):
@@ -1309,26 +1412,32 @@ class AdminEfficiencyPilot:
                     logger.debug(f"   ⚠️ 作答某題時發生錯誤: {e}")
                     skipped += 1
 
-            logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題題庫無答案隨機選擇")
+            logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題略過")
 
-            # ── 6b. 傳送缺題通知到 GAS Relay → Telegram ──
-            _GAS_URL = "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
+            # ── 6b. 回報缺題到 GAS（背景，不阻塞後續流程）──
             if _missing:
-                try:
-                    course_name = course.get("caption", "未知課程")
-                    username = ""
-                    accounts = self.config.get("accounts", [])
-                    if accounts:
-                        username = accounts[0].get("username", "") or accounts[0].get("account", "")
-                    import requests as _req
-                    _req.post(
-                        _GAS_URL,
-                        json={"course": course_name, "username": username, "missing": _missing},
-                        timeout=15,
-                    )
-                    logger.info(f"   📨 已回報 {len(_missing)} 題缺題")
-                except Exception as _tg_e:
-                    logger.debug(f"   缺題回報失敗: {_tg_e}")
+                def _report_missing_to_gas(missing_list, course_name, uname):
+                    try:
+                        accounts = self.config.get("accounts", [])
+                        _requests = requests
+                        _requests.post(
+                            self._GAS_DB_URL,
+                            json={"course": course_name, "username": uname, "missing": missing_list},
+                            timeout=15,
+                            verify=False,
+                        )
+                        logger.info(f"   📤 已回報 {len(missing_list)} 題缺題到 GAS")
+                    except Exception as _ge:
+                        logger.warning(f"   ⚠️ 缺題回報 GAS 失敗: {_ge}")
+                _uname = ""
+                _accs = self.config.get("accounts", [])
+                if _accs:
+                    _uname = _accs[0].get("username", "") or _accs[0].get("account", "")
+                threading.Thread(
+                    target=_report_missing_to_gas,
+                    args=(_missing, course.get("caption", "未知課程"), _uname),
+                    daemon=True,
+                ).start()
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
@@ -2204,57 +2313,9 @@ class AdminEfficiencyPilot:
             time.sleep(1)
         return True
 
-    def _silent_db_update(self):
-        """靜默檢查並更新題庫（背景執行，不阻擋主流程）"""
-        try:
-            import sys as _sys, json as _json
-            _base = (
-                os.path.dirname(_sys.executable)
-                if getattr(_sys, "frozen", False)
-                else os.path.dirname(os.path.abspath(__file__))
-            )
-            local_ver_path = os.path.join(_base, "db_version.txt")
-            local_ver = 0
-            if os.path.exists(local_ver_path):
-                with open(local_ver_path, "r", encoding="utf-8") as f:
-                    local_ver = int(f.read().strip() or "0")
-
-            # 從 GitHub 取最新版本號
-            import urllib.request as _ur
-            remote_ver_url = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/patches/db_version.txt"
-            with _ur.urlopen(remote_ver_url, timeout=8) as r:
-                remote_ver = int(r.read().decode().strip())
-
-            if remote_ver <= local_ver:
-                logger.debug(f"📚 題庫已是最新（V{local_ver}）")
-                return
-
-            # 下載 patch
-            patch_url = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/patches/questions_patch.json"
-            with _ur.urlopen(patch_url, timeout=15) as r:
-                patches = _json.loads(r.read().decode())
-
-            if not patches:
-                return
-
-            # 寫入 questions.db
-            answers = {p["question"]: p["answer"] for p in patches if p.get("question") and p.get("answer")}
-            self._save_answers_to_db(answers, source="patch")
-
-            # 更新本地版本號
-            with open(local_ver_path, "w", encoding="utf-8") as f:
-                f.write(str(remote_ver))
-
-            logger.info(f"📚 題庫已更新 V{local_ver} → V{remote_ver}（新增 {len(answers)} 題）")
-
-        except Exception as e:
-            logger.debug(f"📚 題庫靜默更新失敗（略過）: {e}")
-
     def run(self):
         """⭐ 正確位置：在類內"""
         self._start_keep_awake()
-        # 背景靜默更新題庫（不阻擋主流程）
-        threading.Thread(target=self._silent_db_update, daemon=True).start()
         print(
             f"\n{Fore.CYAN}{'=' * 60}\n【行政效能領航員 - 數位研習輔助方案 {self.version}】\n{'=' * 60}{Style.RESET_ALL}"
         )
