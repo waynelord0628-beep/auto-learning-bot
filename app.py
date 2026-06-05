@@ -1377,12 +1377,26 @@ class AdminEfficiencyPilot:
                                         idx = 1
 
                             if idx is None and option_texts:
+                                def _choice_key(value):
+                                    value = unicodedata.normalize("NFKC", str(value or "")).lower()
+                                    # 去除選項前綴與所有標點空白，只保留可比對的中英數。
+                                    value = re.sub(r"^[\s\(\[]*[a-zA-Z0-9一二三四五六七八九十]+[\s\)\]\.、:：-]+", "", value)
+                                    return "".join(ch for ch in value if ch.isalnum() or "\u4e00" <= ch <= "\u9fff")
+
+                                ans_key = _choice_key(ans_norm)
                                 ans_compact = re.sub(r"\s+", "", ans_norm)
                                 for i, opt_text in enumerate(option_texts[: len(radios)]):
                                     opt_clean = str(opt_text).strip()
+                                    opt_key = _choice_key(opt_clean)
                                     opt_compact = re.sub(r"\s+", "", opt_clean)
-                                    if ans_compact and opt_compact and (
-                                        ans_compact in opt_compact or opt_compact in ans_compact
+                                    if (
+                                        ans_compact
+                                        and opt_compact
+                                        and (ans_compact in opt_compact or opt_compact in ans_compact)
+                                    ) or (
+                                        ans_key
+                                        and opt_key
+                                        and (ans_key in opt_key or opt_key in ans_key)
                                     ):
                                         idx = i
                                         break
