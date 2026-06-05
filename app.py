@@ -74,6 +74,15 @@ class UILogHandler(logging.Handler):
             self.callback(msg)
 
 
+def _version_tuple(version):
+    nums = re.findall(r"\d+", str(version or ""))
+    return tuple(int(n) for n in nums[:3]) if nums else (0,)
+
+
+def _is_newer_version(latest, current):
+    return _version_tuple(latest) > _version_tuple(current)
+
+
 class AdminEfficiencyPilot:
     VERSION = "V2.1.2"
     CHANGELOG = (
@@ -2285,7 +2294,7 @@ class AdminEfficiencyPilot:
             if not latest or not latest.startswith("V"):
                 logger.debug(f"版本檢查失敗（回應格式不符：{latest!r}）")
                 return
-            if latest != self.version:
+            if _is_newer_version(latest, self.version):
                 logger.info(f"🆕 發現新版本 {latest}（目前 {self.version}），請前往下載最新版。")
                 if hasattr(self, "update_signal"):
                     self.update_signal.emit(latest, self.changelog, DOWNLOAD_URL)

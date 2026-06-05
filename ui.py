@@ -72,6 +72,15 @@ def resource_path(relative_path):
     return os.path.join(os.path.abspath("."), relative_path)
 
 
+def version_tuple(version):
+    nums = re.findall(r"\d+", str(version or ""))
+    return tuple(int(n) for n in nums[:3]) if nums else (0,)
+
+
+def is_newer_version(latest, current):
+    return version_tuple(latest) > version_tuple(current)
+
+
 # =========================
 # 粒子轉場效果
 # =========================
@@ -2651,6 +2660,7 @@ class MainWindow(QWidget):
         from app import AdminEfficiencyPilot
         import threading, requests as _req
 
+        VERSION_URL = "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/version.txt"
         RELEASE_API = "https://api.github.com/repos/waynelord0628-beep/auto-learning-bot/releases/latest"
         FALLBACK_URL = "https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing"
         current_version = AdminEfficiencyPilot.VERSION
@@ -2673,15 +2683,20 @@ class MainWindow(QWidget):
         def _check():
             _dbg("update check thread started")
             try:
-                resp = _req.get(RELEASE_API, timeout=8, headers={"Accept": "application/vnd.github+json"})
-                _dbg(f"status={resp.status_code}")
-                if resp.status_code != 200:
-                    _dbg(f"非 200 回應：{resp.text[:200]}")
+                version_resp = _req.get(VERSION_URL, timeout=8)
+                _dbg(f"version_status={version_resp.status_code}")
+                if version_resp.status_code != 200:
+                    _dbg(f"version.txt HTTP {version_resp.status_code}: {version_resp.text[:200]}")
                     return
-                data = resp.json()
-                latest = (data.get("tag_name") or "").strip()
-                changelog = (data.get("body") or "").strip()
-                assets = data.get("assets", []) or []
+                latest = version_resp.text.strip()
+                changelog = ""
+                assets = []
+                resp = _req.get(RELEASE_API, timeout=8, headers={"Accept": "application/vnd.github+json"})
+                _dbg(f"release_status={resp.status_code}")
+                if resp.status_code == 200:
+                    data = resp.json()
+                    changelog = (data.get("body") or "").strip()
+                    assets = data.get("assets", []) or []
                 # 永遠導向 Drive，不用 GitHub asset 直連
                 exe_asset = next(
                     (a for a in assets if (a.get("name") or "").lower().endswith(".exe")),
@@ -2691,10 +2706,10 @@ class MainWindow(QWidget):
                 download_url = FALLBACK_URL  # 永遠跳 Google Drive
 
                 if not latest or not latest.upper().startswith("V"):
-                    _dbg(f"tag_name 格式不符：{latest!r}")
+                    _dbg(f"version.txt 格式不符：{latest!r}")
                     return
                 _dbg(f"latest={latest!r} current={current_version!r} size={file_size}")
-                if latest != current_version:
+                if is_newer_version(latest, current_version):
                     _dbg("emitting update signal")
                     _update_signal.emit(latest, changelog, download_url, file_size)
                 else:
