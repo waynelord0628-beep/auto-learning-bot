@@ -530,15 +530,20 @@ class AdminEfficiencyPilot:
         else:
             chain = [configured_model] + chain
 
+        cleaned_options = [
+            str(opt).strip() if str(opt).strip() else f"選項{i + 1}"
+            for i, opt in enumerate(option_texts)
+        ]
         options_str = "\n".join(
-            [f"{i + 1}. {opt}" for i, opt in enumerate(option_texts) if opt]
+            [f"{i + 1}. {opt}" for i, opt in enumerate(cleaned_options)]
         )
         prompt = (
-            "你是考試作答助手。請從以下選項中選出正確答案，"
-            "只回答正確選項的完整文字，不要編號、不要解釋、不要標點。\n\n"
+            "你是考試作答助手。請從以下選項中選出正確答案。\n"
+            "務必只回覆一個選項編號，例如 1、2、3、4。\n"
+            "不要回覆選項文字，不要解釋，不要加前後綴。\n\n"
             f"題目：{question_text}\n\n"
             f"選項：\n{options_str}\n\n"
-            "正確答案："
+            "正確答案選項編號："
         )
 
         for model in chain:
@@ -1342,44 +1347,62 @@ class AdminEfficiencyPilot:
                                 else (ans[0] if isinstance(ans, list) else str(ans))
                             )
                             ans_norm = ans_str.strip()
+                            ans_lower = ans_norm.lower()
 
-                            if len(radios) == 2:
-                                # 是非題：題庫有答案時只做映射，不再回報缺題。
+                            # AI 新格式會只回 1/2/3/4；題庫也可能存 A/B/C/D 或「2. 答案」。
+                            m = re.search(r"(?<!\d)(\d+)(?!\d)", ans_norm)
+                            if m:
+                                n = int(m.group(1))
+                                if 1 <= n <= len(radios):
+                                    idx = n - 1
+
+                            if idx is None:
+                                letter_map = {chr(ord("a") + i): i for i in range(len(radios))}
+                                token = re.sub(r"[^a-zA-Z]", "", ans_norm).lower()
+                                if token in letter_map:
+                                    idx = letter_map[token]
+
+                            if idx is None and len(radios) == 2:
                                 ans_upper = ans_norm.upper()
-                                if ans_upper in ("O", "T", "TRUE", "A", "1"):
+                                if ans_upper in ("O", "T", "TRUE", "A"):
                                     idx = 0
-                                elif ans_upper in ("X", "F", "FALSE", "B", "2"):
+                                elif ans_upper in ("X", "F", "FALSE", "B"):
                                     idx = 1
                                 else:
-                                    TRUE_WORDS = ["○", "是", "對", "正確", "true"]
-                                    FALSE_WORDS = ["╳", "否", "錯", "錯誤", "false", "非"]
-                                    ans_lower = ans_norm.lower()
-                                    if any(w in ans_lower for w in TRUE_WORDS):
+                                    true_words = ["對", "是", "正確", "true"]
+                                    false_words = ["錯", "否", "不正確", "錯誤", "false", "非"]
+                                    if any(w in ans_lower for w in true_words):
                                         idx = 0
-                                    elif any(w in ans_lower for w in FALSE_WORDS):
+                                    elif any(w in ans_lower for w in false_words):
                                         idx = 1
-                                    elif option_texts:
-                                        for i, opt_text in enumerate(option_texts):
-                                            opt_clean = opt_text.strip()
-                                            if ans_norm and opt_clean and (ans_norm in opt_clean or opt_clean in ans_norm):
-                                                idx = i
-                                                break
-                                if idx is None:
-                                    idx = 0
-                                    logger.debug(f"   ⚠️ 是非題答案無法比對，預設選第一個：{q_text[:30]!r} ans={ans_norm!r}")
+
+                            if idx is None and option_texts:
+                                ans_compact = re.sub(r"\s+", "", ans_norm)
+                                for i, opt_text in enumerate(option_texts[: len(radios)]):
+                                    opt_clean = str(opt_text).strip()
+                                    opt_compact = re.sub(r"\s+", "", opt_clean)
+                                    if ans_compact and opt_compact and (
+                                        ans_compact in opt_compact or opt_compact in ans_compact
+                                    ):
+                                        idx = i
+                                        break
+
+                            if idx is None and len(radios) == 2:
+                                idx = 0
+                                logger.debug(
+                                    f"   ⚠️ 是非題答案無法比對，預設選第一個：{q_text[:30]!r} ans={ans_norm!r}"
+                                )
                         else:
-                            # 無答案：是非題預設選○（第一個選項，佔題庫63.7%）
-                            # 單選題隨機選
                             if len(radios) == 2:
-                                idx = 0  # 是非題預設 ○（True）
+                                idx = 0
                                 logger.info(
-                                    f"   🔵 是非題預設選○（題庫無此題）：{q_text[:30]!r}"
+                                    f"   🎲 是非題無答案，預設猜正確：{q_text[:30]!r}"
                                 )
                                 _missing.append({"type": "是非", "question": q_text, "options": option_texts})
                             else:
                                 idx = random.randrange(len(radios))
                                 logger.info(
-                                    f"   🎲 單選隨機作答（題庫無此題）：{q_text[:30]!r}"
+                                    f"   🎲 單選題隨機作答（無資料，稍後回報）：{q_text[:30]!r}"
                                 )
                                 _missing.append({"type": "單選", "question": q_text, "options": option_texts})
 
@@ -1389,6 +1412,9 @@ class AdminEfficiencyPilot:
                             )
                             answered += 1
                         else:
+                            logger.debug(
+                                f"   ⚠️ 單選答案無法比對，略過：{q_text[:30]!r} ans={ans!r} options={option_texts!r}"
+                            )
                             skipped += 1
 
                 except Exception as e:
