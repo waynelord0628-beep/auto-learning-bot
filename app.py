@@ -1383,6 +1383,26 @@ class AdminEfficiencyPilot:
                                 )
                                 _missing.append({"type": "單選", "question": q_text, "options": option_texts})
 
+                        if idx is None and ans is not None and len(radios) > 2:
+                            ans_compact = _normalize_q(ans_norm)
+                            for i, opt_text in enumerate(option_texts):
+                                opt_clean = (opt_text or "").strip()
+                                opt_compact = _normalize_q(opt_clean)
+                                if ans_norm and opt_clean and (
+                                    ans_norm in opt_clean
+                                    or opt_clean in ans_norm
+                                    or (
+                                        ans_compact
+                                        and opt_compact
+                                        and (
+                                            ans_compact in opt_compact
+                                            or opt_compact in ans_compact
+                                        )
+                                    )
+                                ):
+                                    idx = i
+                                    break
+
                         if idx is not None and idx < len(radios):
                             self.driver.execute_script(
                                 "arguments[0].click();", radios[idx]
