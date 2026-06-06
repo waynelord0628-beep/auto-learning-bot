@@ -1916,6 +1916,56 @@ class AdminEfficiencyPilot:
             logger.error(f"sync_session 失敗: {e}")
             return False
 
+    @staticmethod
+    def _is_logout_text(text) -> bool:
+        text = str(text or "")
+        return any(kw in text for kw in ("閒置", "重新登入", "登出", "登入後再學習"))
+
+    def _accept_alert_if_present(self) -> str:
+        try:
+            alert = self.driver.switch_to.alert
+            alert_text = alert.text
+            alert.accept()
+            return alert_text or ""
+        except NoAlertPresentException:
+            return ""
+        except Exception as e:
+            return str(e)
+
+    def fetch_course_list(self, year=None):
+        year = year or time.strftime("%Y")
+        courses = []
+        for page in range(1, 20):
+            payload = f"year={year}&keyword=&course_type=single&page={page}&orderby=&sort="
+            resp = self.http_session.post(
+                self.api_url, data=payload, verify=False, timeout=10
+            )
+            data = resp.json().get("data", [])
+            courses.extend(data)
+            if len(data) < 50:
+                break
+        return courses
+
+    def recover_login_session(self, reason="session 失效") -> bool:
+        logger.warning(f"🔄 {reason}，嘗試重新登入並同步 API session...")
+        try:
+            self._accept_alert_if_present()
+        except Exception:
+            pass
+        try:
+            self.driver.get(self.stat_url)
+            self.safe_sleep(2)
+        except Exception:
+            pass
+        if not self.login():
+            logger.error("❌ 重新登入失敗，無法恢復 API session。")
+            return False
+        if not self.sync_session():
+            logger.error("❌ 重新登入後 session 同步失敗。")
+            return False
+        logger.info("✅ 重新登入並同步 session 完成。")
+        return True
+
     def _wait_for_redirect_and_sync(
         self, success_msg: str, check_no_login: bool = False
     ) -> bool:
@@ -2222,16 +2272,13 @@ class AdminEfficiencyPilot:
                             time.sleep(1)
                 except Exception as e:
                     # 優先攔截殘留 alert（如閒置登出），避免後續操作全部失敗
-                    try:
-                        alert = self.driver.switch_to.alert
-                        alert_text = alert.text
-                        alert.accept()
+                    alert_text = self._accept_alert_if_present()
+                    err_text = f"{alert_text} {e}"
+                    if alert_text:
                         logger.warning(f"   ⚠️ frame 切換時偵測到 Alert：{alert_text}")
-                        if any(kw in alert_text for kw in ["閒置", "重新登入", "登出"]):
-                            logger.warning("🔄 帳號閒置被登出，拋回外層觸發重新登入...")
-                            raise UnexpectedAlertPresentException(alert_text)
-                    except NoAlertPresentException:
-                        pass
+                    if self._is_logout_text(err_text):
+                        logger.warning("🔄 帳號閒置被登出，停止當前教室並觸發重新登入。")
+                        return "RELOGIN"
                     logger.warning(f"   ⚠️ frame 切換失敗: {e}")
                     frame_fail_count += 1
                     # 診斷：記錄當前 URL 與視窗數量，幫助判斷頁面狀態
@@ -2410,23 +2457,20 @@ class AdminEfficiencyPilot:
                     input(f"\n{Fore.RED}{msg} 按 Enter 退出...{Style.RESET_ALL}")
                 return
 
+            empty_api_count = 0
+
             while self.running:
                 try:
                     cur_y = time.strftime("%Y")
                     try:
-                        # 撈所有分頁，避免只查 page=1 而遺漏後面頁的課程
-                        courses = []
-                        for _page in range(1, 20):
-                            _payload = f"year={cur_y}&keyword=&course_type=single&page={_page}&orderby=&sort="
-                            _r = self.http_session.post(
-                                self.api_url, data=_payload, verify=False, timeout=10
-                            )
-                            _data = _r.json().get("data", [])
-                            courses.extend(_data)
-                            if len(_data) < 50:
-                                break  # 不足 50 筆代表已是最後一頁
+                        courses = self.fetch_course_list(cur_y)
                     except Exception as e:
                         logger.error(f"無法讀取列表，重試中... ({e})")
+                        alert_text = self._accept_alert_if_present()
+                        if self._is_logout_text(f"{alert_text} {e}"):
+                            if self.recover_login_session("API 查詢時偵測到登出"):
+                                continue
+                            break
                         for _ in range(10):
                             if not self.running:  # ⭐ 重試時也檢查
                                 logger.info("🛑 使用者手動停止")
@@ -2443,32 +2487,47 @@ class AdminEfficiencyPilot:
 
                     logger.info(f"📋 API 回傳課程總數：{len(courses)} 筆")
 
-                    # ⭐ 防呆：API 回 0 筆可能是 session 失效，重新 sync 再試一次
+                    # API 回 0 筆通常是被登出或 cookie 失效，不可無限等待。
                     if len(courses) == 0:
-                        logger.warning("⚠️ API 回傳 0 筆，嘗試重新同步 session 後重查...")
+                        empty_api_count += 1
+                        logger.warning("⚠️ API 回傳 0 筆，先重新同步 session 後重查...")
                         self.sync_session()
                         time.sleep(3)
                         try:
-                            courses = []
-                            for _page in range(1, 20):
-                                _payload = f"year={cur_y}&keyword=&course_type=single&page={_page}&orderby=&sort="
-                                _r = self.http_session.post(
-                                    self.api_url, data=_payload, verify=False, timeout=10
-                                )
-                                _data = _r.json().get("data", [])
-                                courses.extend(_data)
-                                if len(_data) < 50:
-                                    break
+                            courses = self.fetch_course_list(cur_y)
                         except Exception as e:
                             logger.error(f"重查失敗: {e}")
+                            courses = []
                         logger.info(f"📋 重查後課程總數：{len(courses)} 筆")
+
                         if len(courses) == 0:
-                            logger.warning("⚠️ 重查仍為 0 筆，等待 30 秒後繼續（可能是暫時性問題）...")
-                            for _ in range(30):
-                                if not self.running:
+                            if not self.recover_login_session("API 連續回傳 0 筆，判定 session 可能已失效"):
+                                break
+                            try:
+                                courses = self.fetch_course_list(cur_y)
+                            except Exception as e:
+                                logger.error(f"重新登入後重查失敗: {e}")
+                                courses = []
+                            logger.info(f"📋 重新登入後課程總數：{len(courses)} 筆")
+
+                        if len(courses) == 0:
+                            if empty_api_count >= 3:
+                                logger.warning("🚀 API 連續 0 筆無法恢復，重啟輔助引擎後再試。")
+                                self._cleanup()
+                                if not self.safe_sleep(5):
                                     break
-                                time.sleep(1)
-                            continue  # 回到 while 迴圈頂端重新整個流程
+                                if not self.init_engine() or not self.login():
+                                    logger.error("❌ 引擎重啟或登入失敗，無法繼續。")
+                                    break
+                                empty_api_count = 0
+                            else:
+                                for _ in range(10):
+                                    if not self.running:
+                                        break
+                                    time.sleep(1)
+                            continue
+
+                    empty_api_count = 0
 
                     pending = [
                         c
