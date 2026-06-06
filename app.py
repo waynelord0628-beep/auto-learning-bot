@@ -84,7 +84,7 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.3"
+    VERSION = "V2.1.4"
     CHANGELOG = (
         "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
         "• 缺題回報改為背景執行，不再影響考試流程\n"

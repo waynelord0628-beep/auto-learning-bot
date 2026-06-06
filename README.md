@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.3** | 數位研習輔助工具
+**版本 V2.1.4** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -191,6 +191,7 @@ GitHub Release 可用於 changelog / 發布紀錄，但新版程式不再以 Rel
 
 | 版本 | 內容 |
 |---|---|
+| V2.1.4 | 修正 eCPA / 我的E政府課程中途閒置登出後，API 回傳 0 筆造成時數判斷錯誤與流程卡死；改為自動重新登入、同步 session，必要時重啟輔助引擎 |
 | V2.1.3 | 修正 4 選 1 單選題答案映射，AI / 題庫答案可正確比對 radio 選項並點選；加強去標點與 normalized 比對 |
 | V2.1.2 | 新增臺北E大平台流程，支援時數判斷、測驗、問卷、缺題回報與 AI 補答；更新檢查改以 GitHub `version.txt` 為主 |
 | V2.1.1 | 修正題庫同步與缺題流程，優化 Gemini 模型設定與回報穩定性 |
