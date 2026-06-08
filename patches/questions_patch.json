@@ -15948,5 +15948,41 @@
       "行政命令。"
     ],
     "course": "行政程序法（基礎訓練）"
+  },
+  {
+    "question": "資訊安全管理制度係依循CNS/ISO 27001標準，以風險評估管理為架構，涵蓋所有與資安相關議題，是一套完整的資安應用與：",
+    "answer": "作業要點",
+    "type": "單選",
+    "options": [
+      "作業要點",
+      "稽核標準",
+      "服務準則",
+      "參考指引"
+    ],
+    "course": "資訊安全概論"
+  },
+  {
+    "question": "確保經過授權的人員在需要時可以存取「資訊」及相關資產是指：",
+    "answer": "可用性",
+    "type": "單選",
+    "options": [
+      "機密性",
+      "完整性",
+      "可用性",
+      "不可否認性"
+    ],
+    "course": "資訊安全概論"
+  },
+  {
+    "question": "CNS/ISO 27001使用PDCA管理循環是指：",
+    "answer": "Plan、Do、Check、Act",
+    "type": "單選",
+    "options": [
+      "Plan、Do、Check、Audit",
+      "Program、Do、Check、Act",
+      "Plan、Do、Confirm、Act",
+      "Plan、Do、Check、Act"
+    ],
+    "course": "資訊安全概論"
   }
 ]
