@@ -20,6 +20,16 @@ def _normalize(text):
     """去除空白標點，只留中英數，用於模糊比對 key"""
     return re.sub(r'[^\w\u4e00-\u9fff]', '', text or '').strip()
 
+def _clean_question_text(text):
+    """清掉 Moodle 題塊雜訊，只保留真正題幹。"""
+    text = re.sub(r'\s+', ' ', text or '').strip()
+    text = re.sub(r'^試題文字\s*', '', text)
+    text = re.sub(r'\s*試題\s*\d+\s*$', '', text)
+    text = re.sub(r'\s*試題\s*\d+\s*回答\s*.*$', '', text)
+    text = re.sub(r'\s*回答\s*1[\.、]?\s*.*$', '', text)
+    text = re.sub(r'\s*清除我的選擇\s*$', '', text)
+    return text.strip()
+
 def _dismiss_alerts(driver):
     for _ in range(5):
         try:
@@ -284,13 +294,20 @@ def _read_questions(driver):
     result = driver.execute_script("""
         function clean(s) { return (s || '').replace(/\\s+/g, ' ').trim(); }
         var out = [];
-        var blocks = document.querySelectorAll('.que, div[id^="question-"], .formulation');
+        var blocks = document.querySelectorAll('.que, div[id^="question-"]');
         blocks.forEach(function(q, qi) {
-            var qtext = q.querySelector('.qtext, .questiontext, .content');
+            var qtext = q.querySelector('.qtext');
+            if (!qtext) {
+                qtext = q.querySelector('.formulation .qtext, .formulation .questiontext');
+            }
             var qtxt = qtext ? clean(qtext.textContent) : '';
             if (!qtxt) {
-                var body = clean(q.textContent);
-                qtxt = body.split('\\n')[0] || body.slice(0, 160);
+                var formulation = q.querySelector('.formulation');
+                if (formulation) {
+                    var clone = formulation.cloneNode(true);
+                    clone.querySelectorAll('.answer, input, label, .ablock').forEach(function(el){ el.remove(); });
+                    qtxt = clean(clone.textContent);
+                }
             }
             var opts = {};
             q.querySelectorAll('input[type=radio]').forEach(function(r) {
@@ -321,6 +338,7 @@ def _read_questions(driver):
     deduped = []
     for q in result:
         q['options'].pop('_name', None)
+        q['qtext'] = _clean_question_text(q.get('qtext', ''))
         key = (q.get('name'), _normalize(q.get('qtext', '')))
         if key in seen:
             continue
