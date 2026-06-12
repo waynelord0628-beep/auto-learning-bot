@@ -55,6 +55,7 @@ from PySide6.QtGui import (
     QPixmap,
 )
 from utils.helpers import get_logger
+from usage_tracker import UsageHeartbeat
 
 
 BASE_DIR = os.path.dirname(__file__)
@@ -492,9 +493,11 @@ class EntryPage(QWidget):
 
         # 版本號（左下角）
         from app import AdminEfficiencyPilot as _AEP
-        self._version_label = QLabel(_AEP.VERSION, self)
+        self._version_text = _AEP.VERSION
+        self._online_count = None
+        self._version_label = QLabel(self._version_text, self)
         self._version_label.setStyleSheet(
-            "color: rgba(255,255,255,0.45); font-size: 11px; background: transparent;"
+            "color: rgba(255,255,255,0.48); font-size: 11px; background: transparent;"
         )
         self._version_label.adjustSize()
         self._version_label.raise_()
@@ -529,6 +532,17 @@ class EntryPage(QWidget):
         self._latest_update_info = None  # (latest, changelog, url)
         # 初始定位
         QTimer.singleShot(0, lambda: self._update_btn.move(self.width() - self._update_btn.width() - 20, 6))
+
+    def set_online_count(self, count):
+        try:
+            count = int(count)
+            self._online_count = max(0, count)
+            self._version_label.setText(f"{self._version_text} · 在線 {self._online_count} 人")
+        except Exception:
+            self._online_count = None
+            self._version_label.setText(self._version_text)
+        self._version_label.adjustSize()
+        self.resizeEvent(None)
 
     def _on_update_btn_clicked(self):
         """手動點更新圖示：有新版直接跳視窗，沒有則重新觸發 MainWindow 檢查"""
@@ -1570,6 +1584,10 @@ class UpdateSignal(QObject):
 
     def emit(self, version, changelog, url, size=0):
         self.notify.emit(version, changelog, url, size)
+
+
+class UsageSignal(QObject):
+    online = Signal(int)
 
 
 class _DownloadProgressSignal(QObject):
@@ -2651,9 +2669,22 @@ class MainWindow(QWidget):
         self.pilot = None
         self.particle_effect = None
         self.cleanup_thread = None
+        self.usage_signal = UsageSignal()
+        self.usage_signal.online.connect(self.entry.set_online_count)
+        self.usage = UsageHeartbeat(AdminEfficiencyPilot.VERSION, self._on_usage_stats)
+        self.usage.start()
 
         # 啟動時立即在背景檢查更新
         self._run_startup_update_check()
+
+    def _on_usage_stats(self, stats):
+        online = stats.get("online") or stats.get("online_count")
+        if online is None:
+            return
+        try:
+            self.usage_signal.online.emit(int(online))
+        except Exception:
+            pass
 
     def _run_startup_update_check(self):
         """程式啟動時，背景 thread 檢查 GitHub Releases，有新版則跳提示"""
@@ -2697,13 +2728,13 @@ class MainWindow(QWidget):
                     data = resp.json()
                     changelog = (data.get("body") or "").strip()
                     assets = data.get("assets", []) or []
-                # 永遠導向 Drive，不用 GitHub asset 直連
+                # V2.1.6 起優先導向 GitHub Release exe，沒有 asset 才 fallback 雲端。
                 exe_asset = next(
                     (a for a in assets if (a.get("name") or "").lower().endswith(".exe")),
                     None,
                 )
                 file_size = int(exe_asset.get("size", 0)) if exe_asset else 0
-                download_url = FALLBACK_URL  # 永遠跳 Google Drive
+                download_url = (exe_asset.get("browser_download_url") if exe_asset else "") or FALLBACK_URL
 
                 if not latest or not latest.upper().startswith("V"):
                     _dbg(f"version.txt 格式不符：{latest!r}")
@@ -2754,6 +2785,8 @@ class MainWindow(QWidget):
         # ⭐ 找到對應的賬戶，並添加 settings
         full_config = account_data.copy()
         full_config.update(config_from_entry.get("settings", {}))
+        if hasattr(self, "usage"):
+            self.usage.update_context("learning", full_config.get("login_type", ""))
 
         # ⭐ 調試（遮蔽敏感欄位）
         _safe = {k: ("***" if "key" in k.lower() or "password" in k.lower() else v) for k, v in full_config.items()}

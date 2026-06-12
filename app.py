@@ -84,12 +84,13 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.5"
+    VERSION = "V2.1.6"
     CHANGELOG = (
         "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
         "• 缺題回報改為背景執行，不再影響考試流程\n"
         "• 缺題通知顯示使用者姓名，方便辨識\n"
-        "• 更新提示改為雲端手動下載"
+        "• 更新提示恢復優先從 GitHub Release 下載\n"
+        "• 新增匿名使用統計與在線人數顯示"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):

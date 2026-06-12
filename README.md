@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.5** | 數位研習輔助工具
+**版本 V2.1.6** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -183,7 +183,7 @@ V2.1.2 起，版本判斷以 GitHub `main/version.txt` 為主。
 - `V2.1.2 > V2.1.1`：提示更新
 - `V2.1.0 < V2.1.2`：不提示更新
 
-GitHub Release 可用於 changelog / 發布紀錄，但新版程式不再以 Release tag 作為主要版本來源。
+V2.1.6 起，版本判斷仍以 GitHub main/version.txt 為主，下載連結優先使用 GitHub Release 的 exe asset；若 release asset 不存在才回到雲端備援。
 
 ---
 
@@ -191,6 +191,7 @@ GitHub Release 可用於 changelog / 發布紀錄，但新版程式不再以 Rel
 
 | 版本 | 內容 |
 |---|---|
+| V2.1.6 | 新增匿名使用統計與在線人數顯示；更新下載恢復優先使用 GitHub Release；包含臺北E大題幹污染清理 |
 | V2.1.5 | 修正重登後誤把 PDF / 教材分頁當成教室主視窗，導致連續找不到 `s_catalog` 並重啟的問題；改為自動掃描含 `s_catalog/pathtree` 的正確教室視窗 |
 | V2.1.4 | 修正 eCPA / 我的E政府課程中途閒置登出後，API 回傳 0 筆造成時數判斷錯誤與流程卡死；改為自動重新登入、同步 session，必要時重啟輔助引擎 |
 | V2.1.3 | 修正 4 選 1 單選題答案映射，AI / 題庫答案可正確比對 radio 選項並點選；加強去標點與 normalized 比對 |
