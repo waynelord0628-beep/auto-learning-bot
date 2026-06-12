@@ -84,7 +84,7 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.4"
+    VERSION = "V2.1.5"
     CHANGELOG = (
         "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
         "• 缺題回報改為背景執行，不再影響考試流程\n"
@@ -1986,6 +1986,31 @@ class AdminEfficiencyPilot:
         logger.info("✅ 重新登入並同步 session 完成。")
         return True
 
+    def find_classroom_window(self):
+        """Return the browser window that owns the course frame tree."""
+        if not self.driver:
+            return None
+        try:
+            handles = list(self.driver.window_handles)
+        except Exception:
+            return None
+
+        for handle in reversed(handles):
+            try:
+                self.driver.switch_to.window(handle)
+                self.driver.switch_to.default_content()
+                self.driver.switch_to.frame("s_catalog")
+                self.driver.switch_to.frame("pathtree")
+                self.driver.switch_to.default_content()
+                return handle
+            except Exception:
+                try:
+                    self.driver.switch_to.default_content()
+                except Exception:
+                    pass
+                continue
+        return None
+
     def _wait_for_redirect_and_sync(
         self, success_msg: str, check_no_login: bool = False
     ) -> bool:
@@ -2188,7 +2213,10 @@ class AdminEfficiencyPilot:
                     return "STOP"
                 time.sleep(1)
 
-            classroom_h = self.driver.window_handles[-1]
+            classroom_h = self.find_classroom_window()
+            if not classroom_h:
+                logger.warning("   ⚠️ 找不到課程教室主視窗（s_catalog/pathtree），嘗試重新登入後重試。")
+                return "RELOGIN"
             self.driver.switch_to.window(classroom_h)
 
             attempted = set()
@@ -2228,8 +2256,15 @@ class AdminEfficiencyPilot:
                     logger.info("🛑 使用者手動停止（frame 操作前）")
                     return "STOP"
 
-                self.driver.switch_to.window(classroom_h)
-                self.driver.switch_to.default_content()
+                try:
+                    self.driver.switch_to.window(classroom_h)
+                    self.driver.switch_to.default_content()
+                except Exception:
+                    new_classroom_h = self.find_classroom_window()
+                    if new_classroom_h:
+                        classroom_h = new_classroom_h
+                        self.driver.switch_to.window(classroom_h)
+                        self.driver.switch_to.default_content()
 
                 try:
                     self.driver.switch_to.frame("s_catalog")
@@ -2299,6 +2334,12 @@ class AdminEfficiencyPilot:
                     if self._is_logout_text(err_text):
                         logger.warning("🔄 帳號閒置被登出，停止當前教室並觸發重新登入。")
                         return "RELOGIN"
+                    new_classroom_h = self.find_classroom_window()
+                    if new_classroom_h and new_classroom_h != classroom_h:
+                        logger.warning("   🔄 目前視窗不是教室主視窗，已切回含課程選單的教室視窗。")
+                        classroom_h = new_classroom_h
+                        frame_fail_count = 0
+                        continue
                     logger.warning(f"   ⚠️ frame 切換失敗: {e}")
                     frame_fail_count += 1
                     # 診斷：記錄當前 URL 與視窗數量，幫助判斷頁面狀態
