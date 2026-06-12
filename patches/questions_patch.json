@@ -23473,5 +23473,105 @@
       ""
     ],
     "course": "溝通對話禮儀"
+  },
+  {
+    "question": "在製備重組病毒載體的過程中，發生基因重組而產生具自我複製能力的病毒 (Replication Competent Virus, RCV)，是實驗室中一項潛在的生物安全風險。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "為了降低意外注射感染的風險，實驗室在操作潛在感染性物質時，應盡量避免使用針頭和其他尖銳物品。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "Enhanced BSL-2 (BSL-2+) 並非官方定義的獨立生物安全等級，而是一種「在 BSL-2 的硬體設施中，執行 BSL-3 的操作規範」的折衷方案。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "以 Lentivirus 建立的穩定細胞株，因為細胞株本身非屬病原體，所以不作危險群等級之區分。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "大腸桿菌 K12 型和腺相關病毒 (AAV) 對人體健康無影響，因此被歸類為第一級危險群 (RG1)。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "伊波拉病毒和天花病毒因為嚴重影響人體健康且通常無預防及治療方法，被歸類為第三級危險群 (RG3)。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "為了安全考量，重組病毒載體 (Recombinant Viral Vector) 的基因組結構中，通常會移除野生型病毒原有的致病基因 (Pathogenicity Genes)。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "慢病毒 (Lentivirus) 表現質體 (Transfer vector)，必須比照 RG2 (第二級危險群) 病原體之管理規定辦理。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "生物性危害標誌中的四個圓圈代表著感染鏈，包含病原體 (Agent)、感染源 (Source)、宿主 (Host) 以及傳染途徑 (Transmission)。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
+  },
+  {
+    "question": "將慢病毒載體的基因組拆分成 3 到 4 個不同的 DNA 質體 (plasmids) 進行共同轉染，此策略有助於降低重組病毒 (RCV) 產生的機率。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Lentiviral Vector安全操作建議"
   }
 ]
