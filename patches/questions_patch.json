@@ -26243,5 +26243,17 @@
       "Perplexity"
     ],
     "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "為什麼建議在將 Excel 檔案內容丟給 ChatGPT 前，先在記事本中輸入整理好？",
+    "answer": "3. 直接上傳 Excel 檔案時，內容可能會出現亂碼",
+    "type": "單選",
+    "options": [
+      "因為 ChatGPT 無法直接上傳 Excel 檔案",
+      "只是個人習慣問題",
+      "直接上傳 Excel 檔案時，內容可能會出現亂碼",
+      "節省免費帳號的 token 使用量"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
   }
 ]
