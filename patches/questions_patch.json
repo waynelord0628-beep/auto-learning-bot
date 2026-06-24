@@ -25199,5 +25199,125 @@
       ""
     ],
     "course": "土壤與地下水污染整治"
+  },
+  {
+    "question": "設計思考（Design Thinking）的核心理念是？",
+    "answer": "以人為本，換位思考",
+    "type": "單選",
+    "options": [
+      "以人為本，換位思考",
+      "以數據為導向",
+      "以效率為優先",
+      "以技術創新為中心"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "哪個並非設計思考（Design Thinking）的五大步驟之一？",
+    "answer": "數據分析",
+    "type": "單選",
+    "options": [
+      "同理心",
+      "定義問題",
+      "創意發想",
+      "數據分析"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "撰寫 Prompt 時，說明「你希望 AI 扮演什麼角色」屬於哪個元素？",
+    "answer": "角色設定（Role/Persona）",
+    "type": "單選",
+    "options": [
+      "指令（Instruction）",
+      "角色設定（Role/Persona）",
+      "輸出格式（Format）",
+      "範例（Example）"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "在公務創新POC實戰演練中，若要將文件論述重點與架構繪製成SVG圖表的程式碼，課程中示範使用的AI工具是？",
+    "answer": "Gamma",
+    "type": "單選",
+    "options": [
+      "Claude",
+      "Perplexity",
+      "NotebookLM",
+      "Gamma"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "歐盟為實施《人工智慧法案》（AI Act）而設立的專責組織，其英文名稱是？",
+    "answer": "European AI Office",
+    "type": "單選",
+    "options": [
+      "EU Digital Agency",
+      "European AI Office",
+      "GenAI4EU",
+      "Horizon Europe"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "整合設計思考與系統思考後，用來展開AI計畫整體架構的三個核心產出架構不包含下列哪一項？",
+    "answer": "SWOT分析",
+    "type": "單選",
+    "options": [
+      "心智圖（Mindmap）",
+      "因果循環圖（CLD）",
+      "SWOT分析",
+      "平衡計分卡（BSC）"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "設計思考的「雙鑽石4D模型」中，四個階段依序為何？",
+    "answer": "Discover, Define, Develop, Deliver",
+    "type": "單選",
+    "options": [
+      "Define, Develop, Discover, Deliver",
+      "Discover, Define, Develop, Deliver",
+      "Develop, Deliver, Discover, Define",
+      "Ideate, Prototype, Test, Define"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "在 LLM 大型語言模型領域的介紹中， 與ChatGPT 和Claude並列的 Google 主要模型是哪一個？",
+    "answer": "Gemini",
+    "type": "單選",
+    "options": [
+      "Sora",
+      "Hadra AI",
+      "Phi-4",
+      "Gemini"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "設計思考的五大步驟流程中，「原型設計」階段對應的英文名稱是？",
+    "answer": "Prototype",
+    "type": "單選",
+    "options": [
+      "Prototype",
+      "Ideate",
+      "Empathise",
+      "Define"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "在AI公務創新中，將同理心地圖結合設計思考的目標是什麼？",
+    "answer": "苦民所苦、換位思考、科學辦案",
+    "type": "單選",
+    "options": [
+      "提升公文製作效率",
+      "降低營運成本",
+      "優化資通訊安全",
+      "苦民所苦、換位思考、科學辦案"
+    ],
+    "course": "AI公務應用設計思考"
   }
 ]
