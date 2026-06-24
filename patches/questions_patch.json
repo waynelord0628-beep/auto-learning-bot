@@ -25319,5 +25319,65 @@
       "苦民所苦、換位思考、科學辦案"
     ],
     "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "根據美國政府AI案例統計，哪個應用領域的案例數量在2024年佔比最高？",
+    "answer": "醫療健康",
+    "type": "單選",
+    "options": [
+      "國際發展",
+      "醫療健康",
+      "執法安全",
+      "環境資源"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "哪個工具能針對來源文件提供來源導覽、摘要與語音摘要等功能？",
+    "answer": "Google NotebookLM",
+    "type": "單選",
+    "options": [
+      "Perplexity",
+      "Google NotebookLM",
+      "Gemini",
+      "Claude"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "在設計思考的流程中，當團隊已經完成了前期的使用者調研與訪談（同理心階段），接下來需要進入「定義」（Define）階段。請問下列哪一項敘述最準確地描述了此階段的主要任務？",
+    "answer": "分析蒐集到的觀察結果，並歸納出一個以人為核心的「問題陳述」",
+    "type": "單選",
+    "options": [
+      "盡可能地發散思維，想出至少 100 個解決問題的創意點子。",
+      "招募合適的受訪者，並準備訪談提綱以了解他們的日常生活痛點。",
+      "分析蒐集到的觀察結果，並歸納出一個以人為核心的「問題陳述」",
+      "製作一個低沈浸感的草圖模型，並邀請使用者來實際操作。"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "多模態大型語言模型（MM-LLM）的核心能力組成中，除了視覺、聽覺、語音外，還包含下列哪一項？",
+    "answer": "思維邏輯（Reasoning）",
+    "type": "單選",
+    "options": [
+      "思維邏輯（Reasoning）",
+      "記憶（Memory）",
+      "情感（Emotion）",
+      "觸覺（Touch"
+    ],
+    "course": "AI公務應用設計思考"
+  },
+  {
+    "question": "系統動力學（System Dynamics）的創始人是哪一位來自MIT的教授？",
+    "answer": "Jay W. Forrester",
+    "type": "單選",
+    "options": [
+      "Donella H. Meadows",
+      "Peter M. Senge",
+      "John D. Sterman",
+      "Jay W. Forrester"
+    ],
+    "course": "AI公務應用設計思考"
   }
 ]
