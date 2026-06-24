@@ -26195,5 +26195,53 @@
       "AI 智能客服機器人"
     ],
     "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "大型語言模型 (LLM) 中常見的「幻覺（Hallucinations）」現象指的是下列哪一種情況？",
+    "answer": "模型說出聽起來有道理但實際上不是真的陳述",
+    "type": "單選",
+    "options": [
+      "模型產生無法理解的亂碼",
+      "模型拒絕回應敏感問",
+      "模型說出聽起來有道理但實際上不是真的陳述",
+      "模型執行複雜計算時產生錯誤"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "KM 知識層級架構，透過「學習 (Learning)」和「格式化 (Formatting)」後，將隱性知識 (Tacit Knowledge) 轉化為哪一類知識？",
+    "answer": "顯性知識 (Explicit Knowledge)",
+    "type": "單選",
+    "options": [
+      "資料 (Data)",
+      "資訊 (Information)",
+      "知識 (Knowledge)",
+      "顯性知識 (Explicit Knowledge)"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "下列哪一項是 Notion 可以做到的？",
+    "answer": "建立專案管理系統",
+    "type": "單選",
+    "options": [
+      "只能做文字筆記",
+      "無法多人協作",
+      "不能插入圖片",
+      "建立專案管理系統"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "以下哪一項是 Google 公司提供的知名 GAI 聊天機器人？",
+    "answer": "Gemini",
+    "type": "單選",
+    "options": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
   }
 ]
