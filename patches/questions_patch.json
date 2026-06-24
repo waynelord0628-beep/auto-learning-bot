@@ -26075,5 +26075,125 @@
       "具備多元文化能力的生活方式"
     ],
     "course": "多元族群與文化發展"
+  },
+  {
+    "question": "數據清理（Data Cleaning）中的經典格言「Garbage In, Garbage Out」主要強調了什麼？",
+    "answer": "如果輸入的數據品質不佳，輸出的分析結果也將無法可信",
+    "type": "單選",
+    "options": [
+      "如果輸入的數據品質不佳，輸出的分析結果也將無法可信",
+      "模型無法處理大量的輸入數據",
+      "數據輸入的速度必須優於輸出的速度",
+      "AI 幻覺是不可避免的結果"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "RAG 檢索增強生成技術 (Retrieval-Augmented Generation) 在 AI 知識管理系統中的主要目的是什麼？",
+    "answer": "從特定知識庫中檢索資訊，增強 LLM 回應的準確性和即時性",
+    "type": "單選",
+    "options": [
+      "負責模型的基礎訓練",
+      "從特定知識庫中檢索資訊，增強 LLM 回應的準確性和即時性",
+      "進行大規模的數據視覺化",
+      "自動執行公務流程 (RPA)"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "NotebookLM 的核心特色，是將外部資料作為什麼基礎？",
+    "answer": "來源（Sources）",
+    "type": "單選",
+    "options": [
+      "網路搜尋結果",
+      "AI Studio 預設知識庫",
+      "程式碼執行器",
+      "來源（Sources）"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "知識管理（Knowledge Management, KM）層級中，位於最底層、作為所有知識基礎的原材料是？",
+    "answer": "資料 (Data)",
+    "type": "單選",
+    "options": [
+      "資料 (Data)",
+      "資訊 (Information)",
+      "知識 (Knowledge)",
+      "智慧 (Wisdom)"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "公務機關 AI 智能系統帶來的時間效益是，原本 3-5 個工作天的工作現在可以在多長時間內完成？",
+    "answer": "30 分鐘",
+    "type": "單選",
+    "options": [
+      "30 分鐘",
+      "3-5 小時",
+      "1 小時",
+      "1 個工作天"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "ChatGPT for Excel 增益集提供的多個功能中，哪一個是專門用來生成或處理表格數據的功能名稱？",
+    "answer": "AI.FILL",
+    "type": "單選",
+    "options": [
+      "AI.TABLE",
+      "AI.ASK",
+      "AI.TRANSLATE",
+      "AI.FILL"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "直方圖 (Histogram) 與 長條圖 (Bar Chart) 在視覺呈現上的主要區別是？",
+    "answer": "直方圖的長條間不能有間隔，長條圖的長條間應有間隔",
+    "type": "單選",
+    "options": [
+      "直方圖用於類別資料",
+      "長條圖用於連續資料",
+      "直方圖的長條間不能有間隔，長條圖的長條間應有間隔",
+      "直方圖主要用來檢視離群值"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "名目尺度（Nominal Scale）與順序尺度（Ordinal Scale）通常合稱為哪一類資料？",
+    "answer": "類別型資料 (Categorical Data)",
+    "type": "單選",
+    "options": [
+      "數值型資料 (Quantitative Data)",
+      "連續型資料 (Continuous Data)",
+      "計量尺度資料 (Metric Data)",
+      "類別型資料 (Categorical Data)"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "在 AI 公務應用模式矩陣中，「公文/談參稿產生器」被歸類於哪一種層級與類別？",
+    "answer": "高層/前端",
+    "type": "單選",
+    "options": [
+      "高層/前端",
+      "基層/後端",
+      "高層/後端",
+      "前端/基層"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "Gamma 工具的主要功能是什麼？",
+    "answer": "使用 AI 根據單行提詞快速建立簡報或文件",
+    "type": "單選",
+    "options": [
+      "使用 AI 根據單行提詞快速建立簡報或文件",
+      "AI 數據分析與建模",
+      "AI 語音摘要與轉錄",
+      "AI 智能客服機器人"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
   }
 ]
