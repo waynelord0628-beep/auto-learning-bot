@@ -28656,5 +28656,65 @@
       "一種語音辨識技術"
     ],
     "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "根據簡報內容，AI 世代的儲存需求特徵是？",
+    "answer": "3. TBs 至 EB 級數據量，400-800GbE",
+    "type": "單選",
+    "options": [
+      "低容量、單點傳輸",
+      "SATA HDD 與 10 GigE",
+      "TBs 至 EB 級數據量，400-800GbE",
+      "完全離線資料操作"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "在資料查詢效能上，Trino 相較於 MSSQL 的改善幅度為？",
+    "answer": "3. 約 90% 提升以上",
+    "type": "單選",
+    "options": [
+      "大致相同",
+      "效能下降",
+      "約 90% 提升以上",
+      "僅適用於小型資料集"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "Red Hat 提出的 MVP 是指？",
+    "answer": "3. 最小可行產品",
+    "type": "單選",
+    "options": [
+      "最大視覺處理量",
+      "模型驗證過程",
+      "最小可行產品",
+      "資料視覺化平台"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列何者是「生成式 AI」的主要特徵？",
+    "answer": "2. 能生成全新內容",
+    "type": "單選",
+    "options": [
+      "僅能識別輸入資料",
+      "能生成全新內容",
+      "無需訓練即可使用",
+      "適合處理結構化數據"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "MinIO AIStor 特別為哪種硬體設備優化？",
+    "answer": "2. GPU 和 NVMe SSD",
+    "type": "單選",
+    "options": [
+      "磁帶機",
+      "GPU 和 NVMe SSD",
+      "CPU 與 DRAM",
+      "MicroSD 儲存卡"
+    ],
+    "course": "AI基礎建設與平台選型"
   }
 ]
