@@ -28752,5 +28752,85 @@
       "使用者太熟悉系統"
     ],
     "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "在Gemini提示框內輸入以下哪一個符號，可以連結Google其他服務？",
+    "answer": "@",
+    "type": "單選",
+    "options": [
+      "#",
+      "@",
+      "*",
+      "+"
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "Gemini 的 Canvas 具備即時編輯功能，可讓使用者直接調整文案，例如進行換行或修改語氣。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "Gemini 的語音摘要功能，目前只支援處理英文語音？",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "小偉使用AI工具撰寫報告，AI快速提供了一份看起來條理清晰、引用豐富的內容。小偉應該怎麼做才最恰當？",
+    "answer": "核對AI內容的正確性與來源，再決定是否採用",
+    "type": "單選",
+    "options": [
+      "直接複製貼上AI產出的內容，因為AI通常不會出錯",
+      "完全相信AI的結果，不必再查證資料來源",
+      "請AI再產出幾份版本後，任意挑選一份交出",
+      "核對AI內容的正確性與來源，再決定是否採用"
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "從 Napkin AI 生成圖表匯出PPT後，發現圖表字型與簡報整體風格不符，請問可以利用簡報軟體的哪一項功能，一次性調整所有圖表的字型？",
+    "answer": "取代字型",
+    "type": "單選",
+    "options": [
+      "尋找取代",
+      "取代字型",
+      "F5",
+      "Ctrl+H"
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "在影片中所展示的「心智圖」功能，是透過AI將文案內容整理成以下哪一種格式？",
+    "answer": "Markmap",
+    "type": "單選",
+    "options": [
+      "VBA",
+      "Html",
+      "Json",
+      "Markmap"
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
+  },
+  {
+    "question": "想透過 Gemini 的 AI 功能，利用簡單的文字指令創作一個互動式小遊戲，請問你需要將介面切換到哪一個工作模式？",
+    "answer": "Canvas",
+    "type": "單選",
+    "options": [
+      "Deep Reasarch",
+      "圖像",
+      "引導式學習",
+      "Canvas"
+    ],
+    "course": "好用必收AI實用技巧 2 (Gemini大進擊)"
   }
 ]
