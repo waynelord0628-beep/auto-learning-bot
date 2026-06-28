@@ -18778,5 +18778,17 @@
       "志工不需要在活動時擔任導覽人員和參與實習導覽。"
     ],
     "course": "青年參與推動社區營造工作案例"
+  },
+  {
+    "question": "RandomForest",
+    "answer": "建立 RandomForest 為隨機森林的模型",
+    "type": "單選",
+    "options": [
+      "建立 RandomForest 為隨機森林的模型",
+      "rf 沒有作用",
+      "宣告 rf 為 隨機森林的物件",
+      "<GiniGain, RandomDimensionSelect> 可以忽略"
+    ],
+    "course": "C與C++進階實戰：從介面設計到人工智慧應用(下)"
   }
 ]
