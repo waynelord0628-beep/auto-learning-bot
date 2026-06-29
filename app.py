@@ -84,8 +84,10 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.6"
+    VERSION = "V2.1.8"
     CHANGELOG = (
+        "‧ 僅處理開放式課程，自動略過微學習/SPOC/專班等非開放式課程\n"
+        "‧ 課程清單低筆數保護：同步 session 後重抓，降低漏課機率\n"
         "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
         "• 缺題回報改為背景執行，不再影響考試流程\n"
         "• 缺題通知顯示使用者姓名，方便辨識\n"
@@ -259,6 +261,7 @@ class AdminEfficiencyPilot:
         self._completed_in_session = (
             set()
         )  # course_id → 本次已成功處理（考試通過+問卷完成）
+        self._last_course_count = 0
 
         # 防螢幕關閉
         self._keep_awake_stop = threading.Event()
@@ -1967,6 +1970,50 @@ class AdminEfficiencyPilot:
                 break
         return courses
 
+    def fetch_course_list_checked(self, year=None):
+        courses = self.fetch_course_list(year)
+        count = len(courses)
+        should_retry = 0 < count < 5
+        if self._last_course_count and 0 < count < self._last_course_count:
+            should_retry = True
+
+        if should_retry:
+            logger.warning(
+                f"⚠️ 課程 API 只回 {count} 筆"
+                + (
+                    f"（前次 {self._last_course_count} 筆）"
+                    if self._last_course_count
+                    else ""
+                )
+                + "，先同步 session 後重抓。"
+            )
+            try:
+                self.sync_session()
+            except Exception:
+                pass
+            time.sleep(2)
+            try:
+                retry_courses = self.fetch_course_list(year)
+            except Exception:
+                retry_courses = courses
+            if len(retry_courses) > count:
+                logger.info(f"✅ 課程 API 重抓成功：{count} → {len(retry_courses)} 筆")
+                courses = retry_courses
+                count = len(courses)
+
+        if count > self._last_course_count:
+            self._last_course_count = count
+        return courses
+
+    def _is_open_course(self, course):
+        course_type = str(course.get("course_type", "") or "").strip()
+        if course_type:
+            return course_type == "開放式"
+        course_type_cd = str(course.get("course_type_cd", "") or "").strip().lower()
+        if course_type_cd:
+            return course_type_cd in {"single", "open"}
+        return True
+
     def recover_login_session(self, reason="session 失效") -> bool:
         logger.warning(f"🔄 {reason}，嘗試重新登入並同步 API session...")
         try:
@@ -2154,6 +2201,12 @@ class AdminEfficiencyPilot:
         return None
 
     def study_process(self, course):
+        if not self._is_open_course(course):
+            logger.info(
+                f"⏭️ 略過非開放式課程：{course.get('caption', course.get('course_id', '未知課程'))}"
+            )
+            return "SKIP"
+
         logger.info(
             f"📖 [{self.current_idx}/{self.total_courses}] 正在協助研習：{Fore.YELLOW}{course['caption']}{Style.RESET_ALL}"
         )
@@ -2525,7 +2578,7 @@ class AdminEfficiencyPilot:
                 try:
                     cur_y = time.strftime("%Y")
                     try:
-                        courses = self.fetch_course_list(cur_y)
+                        courses = self.fetch_course_list_checked(cur_y)
                     except Exception as e:
                         logger.error(f"無法讀取列表，重試中... ({e})")
                         alert_text = self._accept_alert_if_present()
@@ -2594,7 +2647,8 @@ class AdminEfficiencyPilot:
                     pending = [
                         c
                         for c in courses
-                        if to_sec(c.get("rss", "00:00:00"))
+                        if self._is_open_course(c)
+                        and to_sec(c.get("rss", "00:00:00"))
                         < to_sec(c.get("criteria_content_hour", "00:00:00"))
                         * self.config.get("target_percentage", 1.0)
                         # 考試已通過且問卷已填 → 視為真正完成，不再上課補時數
@@ -2614,6 +2668,8 @@ class AdminEfficiencyPilot:
                     # 時數已達標 且 考試未通過 或 問卷未填 的課程
                     def _needs_exam_or_questionnaire(c):
                         c_id = str(c.get("course_id", ""))
+                        if not self._is_open_course(c):
+                            return False
                         # 本次已成功處理過，跳過
                         if c_id in self._completed_in_session:
                             return False

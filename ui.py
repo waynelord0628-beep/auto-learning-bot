@@ -351,11 +351,54 @@ class EntryPage(QWidget):
         """)
 
         # ⭐ 手機內 layout（這是關鍵）
-        self.inner_layout = QVBoxLayout(self.account_container)
-        self.inner_layout.setContentsMargins(20, 8, 20, 20)
-        self.inner_layout.setSpacing(24)
-        self.inner_layout.setAlignment(Qt.AlignTop)
+        account_outer_layout = QVBoxLayout(self.account_container)
+        account_outer_layout.setContentsMargins(0, 0, 0, 0)
+        account_outer_layout.setSpacing(0)
 
+        self.account_scroll = QScrollArea(self.account_container)
+        self.account_scroll.setWidgetResizable(True)
+        self.account_scroll.setFrameShape(QFrame.NoFrame)
+        self.account_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.account_scroll.setVerticalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        self.account_scroll.setStyleSheet("""
+            QScrollArea {
+                background: transparent;
+                border: none;
+            }
+            QScrollArea > QWidget > QWidget {
+                background: transparent;
+            }
+            QScrollBar:vertical {
+                background: transparent;
+                width: 4px;
+                margin: 70px 0px 34px 0px;
+            }
+            QScrollBar::handle:vertical {
+                background: rgba(255,255,255,0.22);
+                border-radius: 2px;
+                min-height: 36px;
+            }
+            QScrollBar::handle:vertical:hover {
+                background: rgba(255,255,255,0.38);
+            }
+            QScrollBar::add-line:vertical,
+            QScrollBar::sub-line:vertical {
+                height: 0px;
+            }
+            QScrollBar::add-page:vertical,
+            QScrollBar::sub-page:vertical {
+                background: transparent;
+            }
+        """)
+
+        self.account_scroll_content = QWidget()
+        self.account_scroll_content.setStyleSheet("background: transparent;")
+        self.inner_layout = QVBoxLayout(self.account_scroll_content)
+        self.inner_layout.setContentsMargins(20, 8, 18, 20)
+        self.inner_layout.setSpacing(30)
+        self.inner_layout.setAlignment(Qt.AlignTop)
+        self.account_scroll.setWidget(self.account_scroll_content)
+        account_outer_layout.addWidget(self.account_scroll)
         # 加標題（像 App）
         title = QLabel("行政效能領航員")
         title.setStyleSheet("""
@@ -372,23 +415,21 @@ class EntryPage(QWidget):
 
         # 做「卡片式按鈕」（核心）
         self.combo = QComboBox()
-        self.combo.addItem("請選擇人員")  # ⭐ Step1：預設提示
+        self.combo.addItem("         請選擇人員")  # ⭐ Step1：預設提示
         font = QFont()
         if font.pointSize() <= 0:
             font.setPointSize(10)  # 🔥 固定字體大小
         self.combo.setFont(font)
         self.combo.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
-        self.combo.setMinimumHeight(50)
+        self.combo.setMinimumHeight(46)
 
         self.combo.setStyleSheet("""
         QComboBox {
             background-color: rgba(255,255,255,0.18);
             border-radius: 16px;
             border: 1px solid rgba(255,255,255,0.25);
-
-            padding: 14px 16px;
-
-            font-size: 15px;
+            padding: 11px 14px;
+            font-size: 14px;
             color: #111827;
         }
 
@@ -398,16 +439,14 @@ class EntryPage(QWidget):
 
         QComboBox::drop-down {
             border: none;
-            background: transparent;   /* 🔥 關鍵 */
-            width: 32px;
+            background: transparent;
+            width: 36px;
         }
 
-        /* 箭頭（關鍵） */
         QComboBox::down-arrow {
-            image: url(icons/down.png);   /* 你可以先不放 */
-            background: transparent;
-            width: 16px;
-            height: 16px;
+            image: url(icons/down-arrow.png);
+            width: 20px;
+            height: 20px;
         }
 
         /* 下拉選單 */
@@ -433,7 +472,7 @@ class EntryPage(QWidget):
         self.inner_layout.addWidget(self.combo)
 
         for btn in [self.btn_add, self.btn_edit, self.btn_delete, self.btn_setting]:
-            btn.setMinimumHeight(56)
+            btn.setMinimumHeight(52)
             btn.setFont(font)
             btn.setIconSize(QSize(24, 24))
             btn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
@@ -443,8 +482,8 @@ class EntryPage(QWidget):
                 background-color: rgba(255,255,255,0.25);
                 border-radius: 16px;
                 border: 1px solid rgba(255,255,255,0.25);
-                padding: 14px 16px;
-                font-size: 15px;
+                padding: 10px 12px;
+                font-size: 14px;
                 text-align: left;
             """)
             self.inner_layout.addWidget(btn)
@@ -663,7 +702,7 @@ class EntryPage(QWidget):
     def refresh_combo(self):
         self.combo.clear()
 
-        self.combo.addItem("請選擇人員")  # ⭐ 一定要加
+        self.combo.addItem("         請選擇人員")  # ⭐ 一定要加
 
         for acc in self.accounts:
             # ⭐ 轉換登入方式的顯示文字
