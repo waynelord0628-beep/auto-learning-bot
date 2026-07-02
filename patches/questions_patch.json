@@ -29101,5 +29101,17 @@
       "Floats"
     ],
     "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "撰寫 Prompt 時，說明「你希望 AI 扮演什麼角色」屬於哪個元素？",
+    "answer": "角色設定（Role/Persona)",
+    "type": "單選",
+    "options": [
+      "指令（Instruction）",
+      "角色設定（Role/Persona）",
+      "輸出格式（Format）",
+      "範例（Example）"
+    ],
+    "course": "AI公務應用設計思考"
   }
 ]
