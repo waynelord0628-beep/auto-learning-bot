@@ -13329,5 +13329,41 @@
       "更新程式與系統"
     ],
     "course": "日常網路使用者應注意的資訊安全(113)"
+  },
+  {
+    "question": "使用AI網路服務的時候，就資安觀點，下列何者敘述正確？",
+    "answer": "1",
+    "type": "單選",
+    "options": [
+      "韓國三星公司，使用AI服務的時候，誤將內部機密敏感資料，傳給ChatGPT網路服務，造成資料外洩",
+      "美國OpenAI公司，疑似遭受駭客DDoS攻擊，導致機敏資料外洩",
+      "台灣AI廠商，使用中國大陸AI訓練資料， 導致大量敏感個資外洩予中國大陸",
+      "使用AI服務，可能會造成大量失業，目前不宜貿然學習與使用"
+    ],
+    "course": "日常網路使用者應注意的資訊安全(113)"
+  },
+  {
+    "question": "在颱風期間或是連續假期，接獲手機簡訊或電郵通知，要補繳交自來水費用或交通裁罰費用，對於網路社交工程攻擊，這可能是下列哪種攻擊？",
+    "answer": "2",
+    "type": "單選",
+    "options": [
+      "垃圾式攻擊（Baiting Spam Mail Attack）",
+      "釣魚式攻擊（Web/Email Phishing Attack）",
+      "水坑式攻擊（Watering Hole Attack）",
+      "海龜式攻擊(Sea ?Turtle Attack)"
+    ],
+    "course": "日常網路使用者應注意的資訊安全(113)"
+  },
+  {
+    "question": "下列何者「不是」常見網路社交工程（Social Engineering）的攻擊手法？",
+    "answer": "4",
+    "type": "單選",
+    "options": [
+      "垃圾式攻擊（Baiting Spam Mail Attack）",
+      "魚叉式攻擊（Spear Phishing Attack）",
+      "水坑式攻擊（Watering Hole Attack）",
+      "海龜式攻擊(Sea ?Turtle Attack)"
+    ],
+    "course": "日常網路使用者應注意的資訊安全(113)"
   }
 ]
