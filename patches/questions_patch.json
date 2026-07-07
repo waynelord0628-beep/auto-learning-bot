@@ -14154,5 +14154,119 @@
       "阻斷服務類"
     ],
     "course": "政府機關辦理資訊服務委外採購之資安思維"
+  },
+  {
+    "question": "在 Antigravity 2.0 中，原本 1.x 版本的下載診斷（Download Diagnostics）功能已被移除。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "Antigravity 是哪個公司開發的？",
+    "answer": "微軟",
+    "type": "單選",
+    "options": [
+      "小米",
+      "微軟",
+      "Google",
+      "亞馬遜"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "Antigravity 有哪些特色？",
+    "answer": "以上皆是",
+    "type": "單選",
+    "options": [
+      "可搭配 MCP、Skills使用",
+      "內建命令列(Terminal)工具",
+      "有眾多 plug-in 可以安裝",
+      "以上皆是"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "Antigravity 2.0 支援「多代理人同步執行」，可以讓不同的 Agent 同時負責前端 UI、後端 API 和撰寫測試。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "根據官方文件定位，未來的哪一個工具將「不支援」Agent Harness 框架，僅作為一般編輯器使用？",
+    "answer": "Antigravity IDE",
+    "type": "單選",
+    "options": [
+      "Antigravity 2.0 (Core)",
+      "Antigravity CLI",
+      "Antigravity SDK",
+      "Antigravity IDE"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "關於 Antigravity 2.0 的產品定位，下列何者描述最準確？",
+    "answer": "定義為「多代理人開發平台」",
+    "type": "單選",
+    "options": [
+      "定義為「多代理人開發平台」",
+      "定義為「AI 輔助程式編輯器」",
+      "定義為「雲端線上開發環境」",
+      "定義為「純語音指令編碼工具」"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "Antigravity 2.0 所使用的底層 AI 模型 Gemini 3.5 Flash，其處理速度與舊版（1.x）相比快了 2 倍。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "在 Antigravity 2.0 的架構中，哪一個元件主要負責「排程管理」功能？",
+    "answer": "Antigravity 2.0 (Core)",
+    "type": "單選",
+    "options": [
+      "Antigravity CLI",
+      "Antigravity SDK",
+      "Antigravity 2.0 (Core)",
+      "Antigravity IDE"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "在課堂範例中提到的\"課後評量小程式\"，所進行的 Google Apps Script (GAS) 部署為網頁應用程式時，為了讓前端能順利抓取資料，「誰可以存取」的設定應選擇哪一項？",
+    "answer": "任何擁有 Google 帳號的人",
+    "type": "單選",
+    "options": [
+      "只有我自己",
+      "所有人",
+      "任何擁有 Google 帳號的人",
+      "僅限機構內員工"
+    ],
+    "course": "Antigravity 使用技巧及應用"
+  },
+  {
+    "question": "在 Antigravity 的 AI Agent 設定中，若想讓 AI 始終以「繁體中文」回應，應該在哪個設定選項中添加規則？",
+    "answer": "Customization 裡的 Rules",
+    "type": "單選",
+    "options": [
+      "MCP Servers",
+      "Download Diagnostics",
+      "Customization 裡的 Rules",
+      "Antigravity IDE 的一般編輯器設定"
+    ],
+    "course": "Antigravity 使用技巧及應用"
   }
 ]
