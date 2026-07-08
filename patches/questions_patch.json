@@ -15910,5 +15910,17 @@
       "僅靠 Excel 函式"
     ],
     "course": "AI公務應用知識管理與數據分析"
+  },
+  {
+    "question": "在 AI 數據分析的 Prompt 範例中，思維鍊 (Chain of Thought, CoT) 步驟的第一項任務是什麼？",
+    "answer": "資料清理 (Data Cleaning: 處理缺失值及移除重複值)",
+    "type": "單選",
+    "options": [
+      "資料轉換 (Data Transformation)",
+      "資料清理 (Data Cleaning: 處理缺失值及移除重複值)",
+      "探索性資料分析 (EDA)",
+      "變數相關性計算"
+    ],
+    "course": "AI公務應用知識管理與數據分析"
   }
 ]
