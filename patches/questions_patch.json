@@ -20625,5 +20625,79 @@
       ""
     ],
     "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "哪一個函數可以用來計算一列數字的平均值？",
+    "answer": "AVERAGE",
+    "type": "單選",
+    "options": [
+      "SUM",
+      "AVERAGE",
+      "MAX",
+      "MIN"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "Calc列印，若需手動分頁，請執行？",
+    "answer": "「工作表」功能表→插入分頁符",
+    "type": "單選",
+    "options": [
+      "「檔案」功能表→列印",
+      "「工作表」功能表→插入分頁符",
+      "「檔案」功能表→列印預覽"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "數值格式不能由側邊欄【屬性/數字格式】快速進行設定。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "公式=COUNTIF(B2:B200,”台南”)，會傳回儲存格內容為”台南”的筆數。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "儲存格E3公式是=D3*$A$1，複製到儲存格E4，公式會變成？",
+    "answer": "D4*$A$1",
+    "type": "單選",
+    "options": [
+      "D3*$A$2",
+      "D4*$A$1",
+      "D4*$A$2"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "VLOOKUP函數的第四個參數如果設置為FALSE，表示查找完全吻合的值。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "如果VLOOKUP函數的查尋值，找不到，則函數會傳回返回錯誤。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
