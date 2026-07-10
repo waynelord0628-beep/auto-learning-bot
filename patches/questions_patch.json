@@ -20763,5 +20763,38 @@
       "MIN"
     ],
     "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "在Calc中設定單元格顯示的日期格式為“西元年-月-日”，應該選擇什麼格式？",
+    "answer": "1. yyyy-mm-dd",
+    "type": "單選",
+    "options": [
+      "yyyy-mm-dd",
+      "dd-mm-yyyy",
+      "mm/dd/yyyy",
+      "dd/mm/yyyy"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "工具列不見了，可以到【編輯】功能表→工具列，勾選要顯示的工具列。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "排序時想依特定的順序排列，要配合哪個指令？",
+    "answer": "2. 「排序清單」搭配自訂排序設定",
+    "type": "單選",
+    "options": [
+      "「資料/排序」遞減即可",
+      "「排序清單」搭配自訂排序設定",
+      "「資料/排序」遞增即可"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
