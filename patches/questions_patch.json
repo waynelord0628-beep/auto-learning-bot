@@ -20699,5 +20699,69 @@
       ""
     ],
     "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "(以下哪個公式判斷A1儲存格的數值是否大於100並返回“超過”或“未超過”？",
+    "answer": "=IF(A1>100, \"超過\", \"未超過\")",
+    "type": "單選",
+    "options": [
+      "=IF(A1<100, \"超過\", \"未超過\")",
+      "=IF(A1>100, \"超過\", \"未超過\")",
+      "=IF(A1=100, \"超過\", \"未超過\")"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "樞紐分析表PivotTable，快速計算和彙總大量數據，但不能用來進行數據排序。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "Calc的工作環境設定，可由【工具】功能表→選項，進入設定。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "下列哪種情境，較適合折線圖？",
+    "answer": "想了解商品各月份的銷售量趨勢",
+    "type": "單選",
+    "options": [
+      "想比較各月份商品的銷售量",
+      "想了解各部門的請假時數",
+      "想了解商品各月份的銷售量趨勢"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "要呈現各產品銷量佔比，用「圓形圖」會比較適合。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "以下哪個函數可以計算一列數字中最大的數值？",
+    "answer": "MAX",
+    "type": "單選",
+    "options": [
+      "SUM",
+      "AVERAGE",
+      "MAX",
+      "MIN"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
