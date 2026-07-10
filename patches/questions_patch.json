@@ -20872,5 +20872,16 @@
       ""
     ],
     "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "假設A1儲存格內容70，公式=IF(A1>80,”甲”,IF(A1>60,”乙”,”丙”))，答案為何？",
+    "answer": "乙",
+    "type": "單選",
+    "options": [
+      "甲",
+      "乙",
+      "丙"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
