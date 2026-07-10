@@ -20796,5 +20796,49 @@
       "「資料/排序」遞增即可"
     ],
     "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "儲存格的值，大於50000要標示為紅色，可用儲存格條件格式設定來達成。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "以下哪個公式會從字串“CalcFunctions”中提取出“Fun”？",
+    "answer": "=MID(\"Calc Functions\", 6, 3)",
+    "type": "單選",
+    "options": [
+      "=MID(\"Calc Functions\", 6, 3)",
+      "=LEFT(\"Calc Functions\", 8)",
+      "=RIGHT(\"Calc Functions\", 3)"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "有部門、加班時數兩個欄位，哪個函數能把業務部的加班時數算出來？",
+    "answer": "Sumif",
+    "type": "單選",
+    "options": [
+      "countifs",
+      "sum",
+      "Sumif",
+      "Sumifs"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "在Calc可用哪個功能，可以直接過濾出合符要求的記錄？",
+    "answer": "「資料/自動篩選」",
+    "type": "單選",
+    "options": [
+      "「資料/資料剖析」",
+      "「插入/樞紐分析表」",
+      "「資料/自動篩選」"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
