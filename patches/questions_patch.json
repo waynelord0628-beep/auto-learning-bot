@@ -20515,5 +20515,115 @@
       "諮商心理師"
     ],
     "course": "學生輔導及家庭教育"
+  },
+  {
+    "question": "在Calc中，處理小數，只想取至指定小數，其餘無條捨去，可以用哪個函數？",
+    "answer": "Rounddown",
+    "type": "單選",
+    "options": [
+      "Round",
+      "Roundup",
+      "Rounddown"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "有部門、婚姻兩個欄位，哪個函數可以計算出業務部已婚的人數？",
+    "answer": "Countifs",
+    "type": "單選",
+    "options": [
+      "Sumif",
+      "Sumifs",
+      "Countif",
+      "Countifs"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "使用哪個功能，能讓公式更容易瞭解及維護？",
+    "answer": "範圍定義名稱",
+    "type": "單選",
+    "options": [
+      "範圍定義名稱",
+      "設定列印範圍",
+      "更改工作表名稱"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "SUMIF函數用來計算符合“特定條件”的數字範圍的總和。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "如果A1單元格中的內容是“DataAnalysis”，=LEFT(A1,4)的結果是什麼？",
+    "answer": "Data",
+    "type": "單選",
+    "options": [
+      "An",
+      "Analysis",
+      "Data Analysis",
+      "Data"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "希望將數字123.456進行四捨五入到小數點後兩位，哪個指令正確？",
+    "answer": "ROUND(123.456,2)",
+    "type": "單選",
+    "options": [
+      "ROUND(123.456,2)",
+      "ROUNDDOWN(123.456,2)",
+      "ROUNDUP(123.456,2)"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "在Calc中，排序”中文資料”，是依筆劃Big5碼，對數據進行升序或降序排列。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "建立下拉式選單時，應該選擇什麼功能？",
+    "answer": "資料驗證",
+    "type": "單選",
+    "options": [
+      "條件格式",
+      "資料驗證",
+      "圖表工具",
+      "插入函數"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "資料記錄不是Calc正確分欄位格式，可以用什麼功能來決解？",
+    "answer": "資料剖析",
+    "type": "單選",
+    "options": [
+      "樞紐分析",
+      "格式設定",
+      "資料剖析"
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
+  },
+  {
+    "question": "IFERROR函數，主要用於協助錯誤發生時的處理。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "MODA ODF Application Tools(Calc)試算表班"
   }
 ]
