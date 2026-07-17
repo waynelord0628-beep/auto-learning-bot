@@ -8940,5 +8940,65 @@
       "將文本翻譯成不同語言"
     ],
     "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
+  },
+  {
+    "question": "以下哪個選項是 Google 開發的生成式 AI 模型？",
+    "answer": "Gemini",
+    "type": "單選",
+    "options": [
+      "GPT-4",
+      "Llama 2",
+      "Gemini",
+      "Stable Diffusion"
+    ],
+    "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
+  },
+  {
+    "question": "以下哪個選項是開源的生成式 AI 模型？",
+    "answer": "Llama 2",
+    "type": "單選",
+    "options": [
+      "GPT-4",
+      "DALL·E",
+      "Llama 2",
+      "Whisper"
+    ],
+    "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
+  },
+  {
+    "question": "以下哪個選項並非生成式 AI 的主要應用領域？",
+    "answer": "預測未來趨勢",
+    "type": "單選",
+    "options": [
+      "預測未來趨勢",
+      "生成創意內容",
+      "自動化重複任務",
+      "增強人機交互"
+    ],
+    "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
+  },
+  {
+    "question": "以下哪個技術可以幫助生成式 AI 模型更好地處理長文本或複雜任務？",
+    "answer": "以上所有選項",
+    "type": "單選",
+    "options": [
+      "\"Prompt Engineering\" (提示工程)",
+      "\"Reinforcement Learning\" (強化學習)",
+      "\"Retrieval-Augmented Generation\"(檢索增強生成)",
+      "以上所有選項"
+    ],
+    "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
+  },
+  {
+    "question": "以下哪個選項並非生成式 AI 的主要應用場景？",
+    "answer": "預測股票價格",
+    "type": "單選",
+    "options": [
+      "生成行銷文案",
+      "撰寫法律文件",
+      "預測股票價格",
+      "輔助程式設計"
+    ],
+    "course": "【AI素養課程系列(二)】快速掌握Gen AI 實用解決指南"
   }
 ]
