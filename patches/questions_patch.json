@@ -5935,5 +5935,125 @@
       "scatter"
     ],
     "course": "技術大解密：鋼刀具鍛造、河馬滾筒製作以及真菌板家具生產"
+  },
+  {
+    "question": "課程中提到的基本選擇器與結構，包含了以下哪一項？",
+    "answer": "屬性選擇器",
+    "type": "單選",
+    "options": [
+      "屬性選擇器",
+      "偽元素",
+      ":hover",
+      "相鄰兄弟選擇器"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "以下哪個標籤在課程的「語意化標籤」清單中被提及？",
+    "answer": "<nav>",
+    "type": "單選",
+    "options": [
+      "<div>",
+      "<span>",
+      "<nav>",
+      "<button>"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "HTML 的主要功能是什麼？",
+    "answer": "管理結構",
+    "type": "單選",
+    "options": [
+      "管理外觀",
+      "管理結構",
+      "處理伺服器邏輯",
+      "實現排版概念"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "在 AI 實作體驗中，建議用來預覽複製程式碼的平台是哪兩個？",
+    "answer": "CodePen 或 VS Code",
+    "type": "單選",
+    "options": [
+      "ChatGPT 或 Replit",
+      "CodePen 或 VS Code",
+      "Wix ADI 或 Framer AI",
+      "React 或 Vue"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "使用 alt 和 label 語意化結構有助於提升網站的哪兩個概念？",
+    "answer": "無障礙與維護性",
+    "type": "單選",
+    "options": [
+      "載入速度與視覺效果",
+      "無障礙與維護性",
+      "伺服器效能與安全性",
+      "響應式與動畫效果"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "AI 示範中，除了幫忙加上「漂亮按鈕」外，還執行了哪項排版調整？",
+    "answer": "垂直置中元素",
+    "type": "單選",
+    "options": [
+      "讓三欄變單欄",
+      "製作動畫效果",
+      "垂直置中元素",
+      "修正瀏覽器兼容性錯誤"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "響應式（Responsive）排版的核心概念是什麼？",
+    "answer": "Media Query",
+    "type": "單選",
+    "options": [
+      "Viewport 單位",
+      "Grid Layout",
+      "Media Query",
+      "Floats"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "課程中提到的排版概念主要是哪一種彈性版面？",
+    "answer": "Flexbox",
+    "type": "單選",
+    "options": [
+      "Grid Layout",
+      "Position Absolute",
+      "Flexbox",
+      "Floats"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "以下哪個平台被列為 Low-Code / No-Code 平台，可用語音或文字生成網站？",
+    "answer": "Webflow AI",
+    "type": "單選",
+    "options": [
+      "VS Code",
+      "Webflow AI",
+      "CodePen",
+      "ChatGPT"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
+  },
+  {
+    "question": "未來會逐步內建 AI 助理與代碼生成的前端框架是哪兩種？",
+    "answer": "React 與 Vue",
+    "type": "單選",
+    "options": [
+      "Angular 與 Svelte",
+      "React 與 Vue",
+      "jQuery 與 Bootstrap",
+      "Next.js 與 Nuxt.js"
+    ],
+    "course": "HTML5 網站設計與 CSS3 網頁設計入門攻略"
   }
 ]
