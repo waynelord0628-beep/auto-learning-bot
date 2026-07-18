@@ -13047,5 +13047,115 @@
       "以上皆是"
     ],
     "course": "淨零碳建築趨勢與展望"
+  },
+  {
+    "question": "NotebookLM的對話回覆跟ChatGPT一樣，會自動記錄下來。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "NotebookLM 的主要定位是？",
+    "answer": "個人知識助理",
+    "type": "單選",
+    "options": [
+      "個人知識助理",
+      "電子郵件服務",
+      "社交平台",
+      "雲端硬碟替代品"
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "NotebookLM可以完全取代 Google 文件的編輯與寫作功能。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "NotebookLM可以直接上傳影片檔作為筆記分析的來源。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "在 NotebookLM 的回答中，為了幫助使用者確認正確性，系統通常會？",
+    "answer": "標註來源文件與段落",
+    "type": "單選",
+    "options": [
+      "提供隨機參考資料",
+      "標註來源文件與段落",
+      "移除所有引文避免干擾",
+      "自動加上圖片說明"
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "以下哪一個不是NotebookLM工作室的功能？",
+    "answer": "視訊會議",
+    "type": "單選",
+    "options": [
+      "語音摘要",
+      "影片摘要",
+      "心智圖",
+      "視訊會議"
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "NotebookLM的回答都會自動附上來源引註，方便確認資訊出處。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "當 NotebookLM 回答問題時，資料來源不足或與問題無關，它的回答特點是？",
+    "answer": "誠實告知來源不足或與問題無關",
+    "type": "單選",
+    "options": [
+      "自動推送其他使用者的答案",
+      "系統會拒絕回答並停止運作",
+      "誠實告知來源不足或與問題無關",
+      "提醒使用者購買進階版"
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "NotebookLM可以直接上傳csv檔作為筆記分析的來源。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
+  },
+  {
+    "question": "下列哪一個情境最不適合使用NotebookLM？",
+    "answer": "進行即時多人視訊會議",
+    "type": "單選",
+    "options": [
+      "整理研究報告並回答相關問題",
+      "製作資訊圖表",
+      "製作Podcast",
+      "進行即時多人視訊會議"
+    ],
+    "course": "NotebookLM智慧文件與AI筆記"
   }
 ]
