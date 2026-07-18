@@ -10788,5 +10788,125 @@
       ""
     ],
     "course": "族群關係與族群政策"
+  },
+  {
+    "question": "在影片中提到的「Deep Research」屬於哪一類型的 Agent？",
+    "answer": "研究型",
+    "type": "單選",
+    "options": [
+      "學習助理型",
+      "工程師型",
+      "研究型",
+      "萬事助理型"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "AI Agent 的「短期記憶」通常是指什麼？",
+    "answer": "Context Window (上下文視窗)",
+    "type": "單選",
+    "options": [
+      "外部資料庫",
+      "Context Window (上下文視窗)",
+      "硬碟空間",
+      "向量資料庫"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "針對 AI 風險，建議採取的應對原則為何？",
+    "answer": "負責任的 AI 開發與透明度",
+    "type": "單選",
+    "options": [
+      "全面禁止使用 AI",
+      "負責任的 AI 開發與透明度",
+      "讓 AI 完全自主運作",
+      "只在離線環境使用 AI"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "何者「不屬於」AI Agent 運作架構中的四大核心組成？",
+    "answer": "實體硬體 (Hardware)",
+    "type": "單選",
+    "options": [
+      "控制中心 (Brain)",
+      "感知能力 (Perception)",
+      "實體硬體 (Hardware)",
+      "工具集 (Tools)"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "下列哪一個工具是專門用於提升大型模型回答準確度，並減少「幻覺」的技術？",
+    "answer": "RAG (檢索增強生成)",
+    "type": "單選",
+    "options": [
+      "CPU",
+      "RAM",
+      "RAG (檢索增強生成)",
+      "ROM"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "大語言模型（LLM）運作的核心機制主要是基於什麼？",
+    "answer": "文字出現機率的預測",
+    "type": "單選",
+    "options": [
+      "邏輯推理規律",
+      "文字出現機率的預測",
+      "預設的對話劇本",
+      "資料庫的精準檢索"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "「多代理協作 (Multi-Agent)」的主要優點是什麼？",
+    "answer": "透過分工處理複雜工作流",
+    "type": "單選",
+    "options": [
+      "節省電力",
+      "讓單一模型處理所有事",
+      "透過分工處理複雜工作流",
+      "減少對 LLM 的依賴"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "「RAG 技術」中的「G」代表什麼意思？",
+    "answer": "Generation (生成)",
+    "type": "單選",
+    "options": [
+      "Global (全球)",
+      "Generation (生成)",
+      "Graphic (圖形)",
+      "Ground (地面)"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "在「規劃 (Planning)」階段，哪種技術可以讓 Agent 進行自我批評並改進？",
+    "answer": "反思與改進 (Reflection and Refinement)",
+    "type": "單選",
+    "options": [
+      "單步執行",
+      "反思與改進 (Reflection and Refinement)",
+      "隨機生成",
+      "暴力破解"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
+  },
+  {
+    "question": "根據影片，AI Agent 就像是企業中的哪一種角色？",
+    "answer": "數位員工",
+    "type": "單選",
+    "options": [
+      "硬體設備",
+      "數位員工",
+      "伺服器",
+      "程式碼庫"
+    ],
+    "course": "AI Agent時代來了：預見未來的智慧革命"
   }
 ]
