@@ -1846,5 +1846,115 @@
     "opt2": "3. 人資部門人員。",
     "opt3": "4. 高階主管。",
     "updated_at": "2026-07-20T19:24:43.364Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "大型語言模型（LLM）與AgenticAI的關係為何？（單選",
+    "q_text": "大型語言模型（LLM）與 Agentic AI 的關係為何？（單選）",
+    "val": "1",
+    "opt0": "1. 無法整合使用。",
+    "opt1": "2. LLM 提供生成能力，Agent 執行行動。",
+    "opt2": "3. LLM 僅提供資料儲存。",
+    "opt3": "4. Agent 完全取代 LLM 功能。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "哪一項技術有助於多代理協作溝通？（單選）",
+    "q_text": "哪一項技術有助於多代理協作溝通？（單選）",
+    "val": "2",
+    "opt0": "1. AutoML.",
+    "opt1": "2. A2A 協議。",
+    "opt2": "3. CNN 網路。",
+    "opt3": "4. GAN 模型。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "根據NVIDIA的AI發展架構，AgenticAI出現在何一",
+    "q_text": "根據 NVIDIA 的 AI 發展架構，Agentic AI 出現在何一階段？（單選）",
+    "val": "4",
+    "opt0": "1. 感知 AI。",
+    "opt1": "2. 深度學習。",
+    "opt2": "3. 生成式 AI。",
+    "opt3": "4. 生成式 AI 之後的代理 AI 階段。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "AgenticAI不同於傳統AI的關鍵能力為何？（單選）",
+    "q_text": "Agentic AI 不同於傳統 AI 的關鍵能力為何？（單選）",
+    "val": "3",
+    "opt0": "1. 支援雲端運算。",
+    "opt1": "2. 擁有自動回應功能。",
+    "opt2": "3. 能感知、推理並採取行動。",
+    "opt3": "4. 以人為中心設計介面。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "以下哪一項屬於GenerativeAI的典型應用？（單選）",
+    "q_text": "以下哪一項屬於 Generative AI 的典型應用？（單選）",
+    "val": "2",
+    "opt0": "1. 知識庫查詢。",
+    "opt1": "2. 問卷分類。",
+    "opt2": "3. 圖像生成。",
+    "opt3": "4. API 整合。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "「Perceive→Plan→Act」是下列哪一種AI的工作",
+    "q_text": "「Perceive → Plan → Act」是下列哪一種 AI 的工作流程？（單選）",
+    "val": "4",
+    "opt0": "1. Generative AI.",
+    "opt1": "2. Traditional AI.",
+    "opt2": "3. Physical AI.",
+    "opt3": "4. AI Agent.",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "RAG架構中，「Retriever」的功能為何？（單選）",
+    "q_text": "RAG 架構中，「Retriever」的功能為何？（單選）",
+    "val": "3",
+    "opt0": "1. 建立回應句子。",
+    "opt1": "2. 統計使用者行為。",
+    "opt2": "3. 取得知識資料來源。",
+    "opt3": "4. 控制系統存取權限。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "AIAgent最核心的特徵是什麼？（單選）",
+    "q_text": "AI Agent 最核心的特徵是什麼？（單選）",
+    "val": "3",
+    "opt0": "1. 回應式處理輸入。",
+    "opt1": "2. 規則導向的行為。",
+    "opt2": "3. 自主決策與行動。",
+    "opt3": "4. 圖像辨識能力。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "LangChain中用於維持對話歷史的是？（單選）",
+    "q_text": "LangChain 中用於維持對話歷史的是？（單選）",
+    "val": "3",
+    "opt0": "1. RetrievalQA Chain.",
+    "opt1": "2. OutputParser.",
+    "opt2": "3. ConversationMemory.",
+    "opt3": "4. VectorDB.",
+    "updated_at": "2026-07-21T06:52:47.023Z"
+  },
+  {
+    "course_id": "5398",
+    "q_key": "MCP（ModelContextProtocol）的主要作用",
+    "q_text": "MCP（Model Context Protocol）的主要作用是？（單選）",
+    "val": "2",
+    "opt0": "1. 記錄使用者偏好。",
+    "opt1": "2. 提供 LLM 與外部工具之間的整合。",
+    "opt2": "3. 儲存模型權重。",
+    "opt3": "4. 控制 UI 畫面設計。",
+    "updated_at": "2026-07-21T06:52:47.023Z"
   }
 ]
