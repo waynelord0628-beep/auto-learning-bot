@@ -26790,5 +26790,111 @@
       "交通部"
     ],
     "course": "促進民間參與公共建設法令與實務"
+  },
+  {
+    "question": "AI的運作模式為類神經網路，藉由模仿人類大腦建造而成。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "ChatGPT的工作邏輯是根據使用者輸入的內容並由學習過的資料庫中，透過機率計算合理的答案。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "目前人類在使用AI時不需準備先備知識與對生成的結果做確認修改。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "AI工具中的「Claude」擅長處理文本整理，可以上傳Excel、PDF、TXT、圖片檔案。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "在ChatGPT中將對話中的結尾輸入下列何者可解決大多數中文繁簡問題？",
+    "answer": "zh_TW",
+    "type": "單選",
+    "options": [
+      "en_US",
+      "ja_JP",
+      "zh_TW",
+      "ko_KR"
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "ChatGPT全名為「Generative pre-trained transformers] ，是一種基於轉換器的生成式預訓練模型。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "講者認為目前使用AI時需要有「先備知識」，「先備知識」是指以下何者？",
+    "answer": "將所需的資料教給AI，AI即可在該內容中學會知識，並給出正確的答案",
+    "type": "單選",
+    "options": [
+      "將所需的資料教給AI，AI即可在該內容中學會知識，並給出正確的答案",
+      "將用不到的資料給AI",
+      "用一句話問AI",
+      "不給任何提式"
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "「Recraft 」是一個可由文字生成向量圖的AI繪圖工具，且生成圖片的版權屬於使用者。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "可做為取得先備知識的網路工具有下列哪些？",
+    "answer": "以上皆是",
+    "type": "單選",
+    "options": [
+      "Glarity",
+      "Whisper",
+      "Alldocs",
+      "以上皆是"
+    ],
+    "course": "AI增能工作坊"
+  },
+  {
+    "question": "於影片中提及，如使用ChatGPT做查詢時需要預先假設計算出來的答案為錯誤，是因為ChatGPT不像Google瀏覽器具查詢功能，ChatGPT是訓練資料給它生成的。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "AI增能工作坊"
   }
 ]
