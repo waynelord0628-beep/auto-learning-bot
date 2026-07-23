@@ -5362,5 +5362,125 @@
       ""
     ],
     "course": "強化資訊傳遞效率-資訊設計思考力"
+  },
+  {
+    "question": "Red Hat 提供哪一項服務協助企業建立 AI 平台？",
+    "answer": "AI 加速服務（AI Accelerator)",
+    "type": "單選",
+    "options": [
+      "SaaS 技術監控",
+      "AI 加速服務（AI Accelerator）",
+      "免費 GPU 租賃計畫",
+      "區塊鏈部署工具"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "以下哪一項是 AI 導入風險的具體表現？",
+    "answer": "隱私洩露與模型偏誤",
+    "type": "單選",
+    "options": [
+      "資料整理成本過低",
+      "模型回應太快",
+      "隱私洩露與模型偏誤",
+      "使用者太熟悉系統"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "根據 Red Hat 的簡報，企業導入 AI 需考慮哪三大關鍵支柱？",
+    "answer": "導入成熟度、平台準備度、風險管理",
+    "type": "單選",
+    "options": [
+      "成本控制、工具選型、資料治理",
+      "演算法、資料來源、GPU 效能",
+      "導入成熟度、平台準備度、風險管理",
+      "預算、人力、供應鏈協同"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "什麼是 Prompt Object？",
+    "answer": "可直接與儲存資料對話的 API",
+    "type": "單選",
+    "options": [
+      "對資料庫進行視覺化操作",
+      "一種資料備份方式",
+      "可直接與儲存資料對話的 API",
+      "與雲端硬體無關的部署架構"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "Red Hat 建議在導入 AI 時應如何避免供應商鎖定？",
+    "answer": "建立雲端無關的開放平台",
+    "type": "單選",
+    "options": [
+      "完全使用 SaaS 模型",
+      "選擇閉源架構",
+      "建立雲端無關的開放平台",
+      "關閉資料日誌記錄"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列哪一項不是 AI 平台應該具備的能力？",
+    "answer": "資料遺失模擬器",
+    "type": "單選",
+    "options": [
+      "模型推理運行時",
+      "資料遺失模擬器",
+      "模型效能監控",
+      "模型偏誤偵測"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "根據 Red Hat 分類，將外部模型整合進內部流程的方式稱為？",
+    "answer": "Maker",
+    "type": "單選",
+    "options": [
+      "Taker",
+      "Shaper",
+      "Maker",
+      "Coder"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "為何建議使用自有 AI 模型處理敏感資料？",
+    "answer": "可離線執行，避免資料外洩",
+    "type": "單選",
+    "options": [
+      "比較酷",
+      "較容易實作",
+      "可離線執行，避免資料外洩",
+      "雲端會更快"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "MinIO AIStor 特別為哪種硬體設備優化？",
+    "answer": "GPU 和 NVMe SSD",
+    "type": "單選",
+    "options": [
+      "磁帶機",
+      "GPU 和 NVMe SSD",
+      "CPU 與 DRAM",
+      "MicroSD 儲存卡"
+    ],
+    "course": "AI基礎建設與平台選型"
+  },
+  {
+    "question": "下列哪一項不是 MinIO AIStor 的特點？",
+    "answer": "與 Kubernetes 不相容",
+    "type": "單選",
+    "options": [
+      "快速部署",
+      "與 Kubernetes 不相容",
+      "開箱即用的 AI 整合",
+      "雲原生設計"
+    ],
+    "course": "AI基礎建設與平台選型"
   }
 ]
