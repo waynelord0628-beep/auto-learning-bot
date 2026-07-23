@@ -31431,5 +31431,53 @@
       "這是為了模擬人類在公務體系中層層簽核的流程"
     ],
     "course": "公務AI加速器提示工程與辦公實務"
+  },
+  {
+    "question": "Please read the following dialogue. Which harbor are Amy and Tom talking about?",
+    "answer": "1. Su'ao Harbor",
+    "type": "單選",
+    "options": [
+      "Su'ao Harbor",
+      "Shimen Fishing Harbor",
+      "Yehliu Fishing Harbor",
+      "Keelung Harbor"
+    ],
+    "course": "海上看北海岸 - 探秘磺港漁港蹦火仔"
+  },
+  {
+    "question": "After watching the video, Amy comes up with a sentence using words related to mining and minerals. However, she spilled coffee on the exam paper. Can you help her fill in the blanks?",
+    "answer": "2. Ore deposit / mineral yield",
+    "type": "單選",
+    "options": [
+      "Smelting / natural gas",
+      "Ore deposit / mineral yield",
+      "Mineral yield / ore deposit",
+      "Natural gas / smelting"
+    ],
+    "course": "海上看北海岸 - 探秘磺港漁港蹦火仔"
+  },
+  {
+    "question": "Please complete the dialogue below with the appropriate words in the blanks (with the correct order).",
+    "answer": "3. adventure / scenic / breathtaking / vitality",
+    "type": "單選",
+    "options": [
+      "adventure / scenic / vitality / breathtaking",
+      "scenic/ vitality / breathtaking / adventure",
+      "adventure / scenic / breathtaking / vitality",
+      "scenic / breathtaking/ vitality / adventure"
+    ],
+    "course": "海上看北海岸 - 探秘磺港漁港蹦火仔"
+  },
+  {
+    "question": "Which port aligns well with the following description?",
+    "answer": "3. Keelung Harbor",
+    "type": "單選",
+    "options": [
+      "Shimen Fishing Harbor",
+      "Yehliu Fishing Harbor",
+      "Keelung Harbor",
+      "Su'ao Harbor"
+    ],
+    "course": "海上看北海岸 - 探秘磺港漁港蹦火仔"
   }
 ]
