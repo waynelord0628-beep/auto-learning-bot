@@ -10904,5 +10904,125 @@
       ""
     ],
     "course": "社會福利概述"
+  },
+  {
+    "question": "根據簡報，AI 微調與推論工作支援哪些主流框架？",
+    "answer": "TensorFlow 與 PyTorch",
+    "type": "單選",
+    "options": [
+      "TensorFlow 與 PyTorch",
+      "Unity 與 Unreal",
+      "MySQL 與 Oracle",
+      "Hadoop 與 Spark"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI Cloud 叢集測試中不包括哪一項？",
+    "answer": "HTML 驗證",
+    "type": "單選",
+    "options": [
+      "硬體壓力測試",
+      "CUDA 測試",
+      "網路延遲測試",
+      "HTML 驗證"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "以下哪一項不是 iKala Nexus 的成功關鍵？",
+    "answer": "AI 模型開源化",
+    "type": "單選",
+    "options": [
+      "理解企業本體論",
+      "培養 AI 素養",
+      "AI 模型開源化",
+      "衡量 AI 的業務價值"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "iKala Nexus 提供哪三大模組？",
+    "answer": "Assistant、Trend、Analyst",
+    "type": "單選",
+    "options": [
+      "Assistant、Trend、Analyst",
+      "CRM、ERP、HRM",
+      "Google、AWS、Azure",
+      "Frontend、Backend、Storage"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "AI Analyst 模組的功能是？",
+    "answer": "協助查詢與分析企業數據",
+    "type": "單選",
+    "options": [
+      "提供新聞即時推播",
+      "協助查詢與分析企業數據",
+      "進行人臉辨識",
+      "開發前端網頁"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "什麼是 SaaS 2.0 的主要侷限？",
+    "answer": "缺乏個人化與靈活度",
+    "type": "單選",
+    "options": [
+      "太便宜",
+      "太過自由",
+      "缺乏個人化與靈活度",
+      "完全開源"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "哪一項是 GPU 雲端叢集在 AI 訓練中的關鍵挑戰？",
+    "answer": "穩定性與故障率",
+    "type": "單選",
+    "options": [
+      "CPU 相容性問題",
+      "網頁設計困難",
+      "穩定性與故障率",
+      "無法支援 SSD"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "iKala 認為 AI 最終會如何應用於企業？",
+    "answer": "成為企業營運大腦",
+    "type": "單選",
+    "options": [
+      "作為裝飾性工具",
+      "僅限開發部門使用",
+      "成為企業營運大腦",
+      "只用於行銷用途"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI 的網路虛擬化架構中，InfiniBand 的作用為何？",
+    "answer": "強化網路效能與隔離",
+    "type": "單選",
+    "options": [
+      "用來備份 GPU",
+      "強化網路效能與隔離",
+      "提供低功耗運算",
+      "限制資料傳輸"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI Cloud 的 Cluster Engine 中，儲存系統是基於？",
+    "answer": "NVMe 與 RDMA",
+    "type": "單選",
+    "options": [
+      "SSD RAID5",
+      "NVMe 與 RDMA",
+      "USB-C 與 SATA",
+      "DVD 儲存"
+    ],
+    "course": "AI 營運與商務應用"
   }
 ]
