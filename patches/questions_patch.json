@@ -11024,5 +11024,77 @@
       "DVD 儲存"
     ],
     "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "根據簡報，AI 工廠（AI Factory）主要目的是？",
+    "answer": "讓 AI 成為流程核心，支援決策與營運",
+    "type": "單選",
+    "options": [
+      "封裝 AI 模型",
+      "讓 AI 成為流程核心，支援決策與營運",
+      "提供影片剪輯",
+      "做為資料備份中心"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI Cloud 的 Cluster Engine 支援哪種部署方式？",
+    "answer": "雲端與地端皆可",
+    "type": "單選",
+    "options": [
+      "僅限 AWS",
+      "只能本地端",
+      "雲端與地端皆可",
+      "僅限容器架構"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "企業導入 AI 時，iKala 建議的第一步是？",
+    "answer": "理解業務本體論",
+    "type": "單選",
+    "options": [
+      "購買更多 GPU",
+      "理解業務本體論",
+      "建立 Telegram 社群",
+      "關閉傳統 ERP"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI Cloud 的願景是什麼？",
+    "answer": "打造全球領先的 AI Cloud",
+    "type": "單選",
+    "options": [
+      "成為最大硬體供應商",
+      "打造全球領先的 AI Cloud",
+      "建立本地 GPU 實驗室",
+      "支援 ERP 軟體開發"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "iKala 的 AI Assistant 應用場域不包括？",
+    "answer": "製造部門",
+    "type": "單選",
+    "options": [
+      "人資部門",
+      "業務部門",
+      "製造部門",
+      "客服部門"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "AI Trend 模組可以用來做什麼？",
+    "answer": "追蹤社群輿情與產業趨勢",
+    "type": "單選",
+    "options": [
+      "增加儲存空間",
+      "計算 GPU 溫度",
+      "追蹤社群輿情與產業趨勢",
+      "管理伺服器IP"
+    ],
+    "course": "AI 營運與商務應用"
   }
 ]
