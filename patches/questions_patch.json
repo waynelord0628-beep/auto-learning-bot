@@ -11096,5 +11096,29 @@
       "管理伺服器IP"
     ],
     "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "GMI Cloud 的架構中，哪一層提供分散式訓練負載？",
+    "answer": "容器層",
+    "type": "單選",
+    "options": [
+      "儲存層",
+      "網路層",
+      "應用平台層",
+      "容器層"
+    ],
+    "course": "AI 營運與商務應用"
+  },
+  {
+    "question": "iKala 認為 AI 是一種什麼？",
+    "answer": "增幅器（Amplifier）",
+    "type": "單選",
+    "options": [
+      "電腦硬體",
+      "標準商品",
+      "增幅器（Amplifier）",
+      "一種情緒"
+    ],
+    "course": "AI 營運與商務應用"
   }
 ]
