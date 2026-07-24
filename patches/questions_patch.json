@@ -10050,5 +10050,77 @@
       "一種部署 AI 模型的方法，用於將模型應用於實際場景"
     ],
     "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "請問下列哪一種神經網路架構最適合用於需要有記憶的運算？",
+    "answer": "RNN 遞歸層：循環神經網路Recurrent Neural Network",
+    "type": "單選",
+    "options": [
+      "DNN 全連結：深度神經網路Deep Neural Networks",
+      "CNN 卷積層：卷積神經網路Convolutional Neural Network",
+      "RNN 遞歸層：循環神經網路Recurrent Neural Network",
+      "以上皆是"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "在AI模型的訓練過程中，為什麼要避免過度擬合（overfitting）？",
+    "answer": "避免機器人無法根據資料給予正確預測",
+    "type": "單選",
+    "options": [
+      "避免資料運算過度，提供毫無相關的回答",
+      "要讓機器人可以背答案，為相同題目給予正確解答",
+      "避免機器人無法根據資料給予正確預測",
+      "以上皆是"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "何者不是運用AI模型的可能性?",
+    "answer": "將ChatGPT模型下載到電腦以完整重新訓練",
+    "type": "單選",
+    "options": [
+      "運用已訓練好的AI模型",
+      "將ChatGPT模型下載到電腦以完整重新訓練",
+      "打造自已的AI模型",
+      "Fine-tuning AI 模型"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "在深度學習中，為什麼使用ReLU作為激活函數？",
+    "answer": "它可以避免梯度消失問題",
+    "type": "單選",
+    "options": [
+      "它可以避免梯度消失問題",
+      "它的輸出範圍是0到1",
+      "它能夠對所有輸入值進行平滑處理",
+      "它適用於小型數據集"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "請問 GPT-3 模型的參數量級約為多少？",
+    "answer": "億",
+    "type": "單選",
+    "options": [
+      "百萬",
+      "千萬",
+      "億",
+      "兆"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
+  },
+  {
+    "question": "請問下列哪一項技術可以用於將圖片分類？",
+    "answer": "CNN",
+    "type": "單選",
+    "options": [
+      "RNN",
+      "CNN",
+      "LSTM",
+      "Transformer"
+    ],
+    "course": "【AI素養課程系列(一)】 AI基礎：掌握核心概念"
   }
 ]
