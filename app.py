@@ -458,9 +458,20 @@ class AdminEfficiencyPilot:
 
         # 去除 '1.', '2. ', '3、' 等數字前綴（保留純數字答案如 '0.74'）
         ans = _re.sub(r"^\d+[.\uff0e\u3001]\s*(?=[^\d])", "", ans).strip()
-        # 去除 '||' 後綴（標注符號）
-        ans = _re.sub(r"\s*\|\|.*$", "", ans).strip()
         return ans
+
+    @staticmethod
+    def _split_answer_parts(ans: str) -> list:
+        """Split multi-select answers while preserving normal option text."""
+        import re as _re
+
+        if ans is None:
+            return []
+        text = str(ans).strip()
+        if not text:
+            return []
+        parts = _re.split(r"\s*(?:\|\||[、,，;；/／\n]+)\s*", text)
+        return [p.strip() for p in parts if p and p.strip()]
 
     def _find_answer(self, question_text):
         """在題庫中查詢答案。
@@ -505,7 +516,9 @@ class AdminEfficiencyPilot:
 
         return None
 
-    def _ai_find_answer(self, question_text: str, option_texts: list):
+    def _ai_find_answer(
+        self, question_text: str, option_texts: list, question_type: str = "single"
+    ):
         """題庫找不到答案時，呼叫 AI API 協助選答。
         支援 OpenAI / Gemini / Groq（Bearer）及 Claude（x-api-key）。
         自動 fallback：先用便宜模型，失敗再升級。
@@ -548,6 +561,24 @@ class AdminEfficiencyPilot:
             f"題目：{question_text}\n\n"
             f"選項：\n{options_str}\n\n"
             "正確答案選項編號："
+        )
+
+        question_type = (question_type or "single").lower()
+        is_multiple = question_type in ("multiple", "multi", "checkbox", "多選", "複選")
+        if is_multiple:
+            answer_rule = (
+                "This is a multiple-select question. There may be more than one correct option. "
+                "Return only the correct option numbers, separated by 、, for example: 1、3"
+            )
+        else:
+            answer_rule = "This is a single-choice question. Return only one option number, for example: 2"
+        prompt = (
+            "Answer the exam question using only the listed options.\n"
+            f"{answer_rule}\n"
+            "Do not explain. Do not include option text.\n\n"
+            f"Question:\n{question_text}\n\n"
+            f"Options:\n{options_str}\n\n"
+            "Answer:"
         )
 
         for model in chain:
@@ -1240,7 +1271,10 @@ class AdminEfficiencyPilot:
                             ["正確（是）", "錯誤（否）"] if radios_count == 2 else []
                         )
                         if ai_options:
-                            ai_ans = self._ai_find_answer(q_text, ai_options)
+                            question_type = "multiple" if checkboxes else "single"
+                            ai_ans = self._ai_find_answer(
+                                q_text, ai_options, question_type=question_type
+                            )
                             if ai_ans:
                                 ans = ai_ans
                                 _ai_answered[q_text] = ai_ans
@@ -1257,9 +1291,7 @@ class AdminEfficiencyPilot:
                             )
                             ans_norm = ans_text.strip()
                             # 多選答案以「、」分隔，拆成清單分別比對
-                            ans_parts = [
-                                p.strip() for p in ans_norm.split("、") if p.strip()
-                            ]
+                            ans_parts = self._split_answer_parts(ans_norm)
                             if not ans_parts:
                                 ans_parts = [ans_norm]
                             # 「以上皆是/以上皆可/以上皆正確/以上皆對/all of the above」→ 全選
