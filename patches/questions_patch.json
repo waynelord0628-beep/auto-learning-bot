@@ -16232,5 +16232,85 @@
       ""
     ],
     "course": "性別與空間"
+  },
+  {
+    "question": "在訓練模型時，可藉由人類示範理想的結果讓機器學習；或是藉由人類評價機器回應的好壞讓機器增強能力",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "在生成式AI的典範轉移下，企業需要「降低模型算力」以追求更好的模型運算效能",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "語言模型最重要的一個功能就是猜下一個字，猜得越準的語言模型就越厲害",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "目前ChatGPT的模型已經相當成熟，並擁有自學的能力，因此無須人類持續協助判斷與訓練",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "若企業單位有機密資料分析需求，可使用AI的地端模型，可不需要連上雲端模型進行運算",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "目前語言模型較弱的能力包含謊言偵測與推理能力",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "使用ChatGPT時，應以「Chain Of Thoght (COT)」為原則，意思是應該給予ChatGPT充分指令引導模型思考，才有機會得到更佳的回應",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
+  },
+  {
+    "question": "目前AI模型的優劣是由「人類」評斷。(1) 正確、(2) 錯誤。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "360度認識ChatGPT"
   }
 ]
