@@ -18554,5 +18554,17 @@
       ""
     ],
     "course": "Google AI-Gemini應用"
+  },
+  {
+    "question": "在課程中提到，如果想要請 Gemini 判讀一張「手寫會議筆記圖片」，並在辨識完成後同時將判讀出的文字內容整理、直接儲存至 Google 生態圈的哪一個記事服務中？",
+    "answer": "Google Keep",
+    "type": "單選",
+    "options": [
+      "Google 日曆",
+      "Google Keep",
+      "Google Tasks",
+      "Google 試算表"
+    ],
+    "course": "Google AI-Gemini應用"
   }
 ]
