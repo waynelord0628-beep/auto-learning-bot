@@ -3918,5 +3918,103 @@
       "The Taoyuan City Government is actively planning to expand the Aerotropolis project, focusing on extending development from Taoyuan Airport and attracting related industries to drive growth."
     ],
     "course": "從桃園機場起飛：農村到亞洲航空樞紐的蛻變"
+  },
+  {
+    "question": "在Google Play Store或Apple App Store上架的App都經過嚴格的審核機制，所以只要從這些管道下載的App都是安全無虞的",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "下載App時，哪個行為最有利於保障資通安全？",
+    "answer": "3. 僅由官方或內建的軟體商城下載App",
+    "type": "單選",
+    "options": [
+      "下載和安裝來自第三方網站的App",
+      "點擊簡訊中的網址來安裝App",
+      "僅由官方或內建的軟體商城下載App",
+      "使用垃圾郵件的附件來安裝App"
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "若發現手機效能越來越慢、續航力下降，且時常無緣無故跳出奇怪的訊息，有可能是安裝的惡意程式所致。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "執行公務應避免於行動裝置安裝大陸廠牌App，以避免資料遭不當竊取，導致機敏資訊外洩或造成國家資通安全危害風險。",
+    "answer": "正確",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "許多App的營利模式為投放廣告，由於廣告內容可能並非由軟體開發商本身控制，所以只有大型企業，如YouTube、Facebook的廣告內容才能完全信任。",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "市面上許多App採用第三方的開放授權（OAuth），可以讓使用者如Facebook、Google等帳號登入App，由於不輸要輸入密碼即可登入，所以不會遭到駭客竊取帳號",
+    "answer": "錯誤",
+    "type": "是非",
+    "options": [
+      "",
+      ""
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "為了避免App潛藏的軟體漏洞帶來的資安風險，我們可以怎麼做？",
+    "answer": "2. 謹慎確認App所要求的權限是否過大",
+    "type": "單選",
+    "options": [
+      "搭配防毒軟體來使用應用程式",
+      "謹慎確認App所要求的權限是否過大",
+      "避免使用公共場所提供的Wi-Fi網路",
+      "定期更新應用程式或設定自動更新"
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "當某個App要求存取您的通訊錄、相片和位置資訊時，您應該：",
+    "answer": "3. 僅同意授予提供該應用程式需要的最低權限。",
+    "type": "單選",
+    "options": [
+      "一律同意提供所有權限，以確保應用程式正常運作。",
+      "同意提供所有權限，然後稍後在設定中取消不必要的權限。",
+      "僅同意授予提供該應用程式需要的最低權限。",
+      "完全拒絕提供任何權限。"
+    ],
+    "course": "使用APP安全(112)"
+  },
+  {
+    "question": "如果您收到一個未經驗證的App廣告，其中提供了一個難以置信的交易或中獎機會，您應該怎麼做？",
+    "answer": "4. 小心求證，若有疑慮則忽略該訊息，以避免潛在的欺詐",
+    "type": "單選",
+    "options": [
+      "立刻下載並使用App以兌現交易或獎項",
+      "與App的開發商確認其真實性",
+      "分享資訊給更多人參與",
+      "小心求證，若有疑慮則忽略該訊息，以避免潛在的欺詐"
+    ],
+    "course": "使用APP安全(112)"
   }
 ]
