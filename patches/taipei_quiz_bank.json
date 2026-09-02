@@ -7885,5 +7885,60 @@
     "opt2": "",
     "opt3": "",
     "updated_at": "2026-09-02T06:18:24.190Z"
+  },
+  {
+    "course_id": 5636,
+    "q_key": "Itemsshouldbestoredseparatelyo",
+    "q_text": "Items should be stored separately on pallets, shelves, or by other effective measures, and kept clean. They must not be placed directly on the floor or stacked near storage doors in a way that affects product movement.",
+    "val": "1",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-09-02T07:23:29.794Z"
+  },
+  {
+    "course_id": 5636,
+    "q_key": "Eggsaladpreparedbyfoodserviceo",
+    "q_text": "Egg salad prepared by food service operators at 1 p.m. and stored in a refrigerated display cabinet for up to 6 hours may be kept and sold again the next day if unsold.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-09-02T07:23:29.794Z"
+  },
+  {
+    "course_id": 5636,
+    "q_key": "Foodpackagingwrappedinplasticb",
+    "q_text": "Food packaging wrapped in plastic bags may be placed directly on the floor without pallets or shelves.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-09-02T07:23:29.794Z"
+  },
+  {
+    "course_id": 5636,
+    "q_key": "Handsshouldbewashedbeforefoodp",
+    "q_text": "Hands should be washed before food preparation, and alcohol hand sanitizer may completely replace handwashing.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-09-02T07:23:29.794Z"
+  },
+  {
+    "course_id": 5636,
+    "q_key": "Workareasshouldalwaysbeorganiz",
+    "q_text": "Work areas should always be organized, tidy, clean, and well lit, and should be disinfected regularly.",
+    "val": "1",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-09-02T07:23:29.794Z"
   }
 ]
