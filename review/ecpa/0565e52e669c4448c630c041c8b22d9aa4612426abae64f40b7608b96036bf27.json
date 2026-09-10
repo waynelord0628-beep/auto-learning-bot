@@ -166,5 +166,71 @@
     "candidate_answer": "碳標籤",
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.267Z"
+  },
+  {
+    "id": "190f686500d1dfd032aa2c079a71fbf619d00c4e593f64f5ef0ff4ec698fe759",
+    "question": "農業中，當氮肥再分解時所產生的氧化亞氮，不是溫室氣體之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:38:42.365Z"
+  },
+  {
+    "id": "0855ff33340265bd2f99ff16ddf4327e8a36546d82271e2d8ca29fb3cb33861e",
+    "question": "下列哪一種非素食？",
+    "options": [
+      "全素",
+      "五辛素",
+      "鍋邊素",
+      "海鮮素"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "全素",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-10T11:38:42.366Z"
+  },
+  {
+    "id": "57f52a8708b76bf9be8799b86c0aaae04b0811ed9b7373cd46b10fc12c1571db",
+    "question": "肉類與蔬菜相比屬於高碳排食物，其中又以進口豬肉的碳排放量最高。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:38:42.366Z"
+  },
+  {
+    "id": "253598c8c78e37201032188faec0e72b2047b025a0581b2f56c67fefc6bcc71c",
+    "question": "在過去，菱角剝殼售出後，剝除的菱殼被視為垃圾，燃燒過程會增加碳排放。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:38:42.367Z"
   }
 ]
