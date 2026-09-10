@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ad868875efe428f5a7de626248074d5b0d090c971b19ebc5f0d536a8ae58c058",
+    "question": "請問下列哪一項是駭客常用的攻擊手法？",
+    "options": [
+      "使用第三國之VPN/VPS作為進攻跳板",
+      "利用漏洞攻擊網通設備",
+      "竊取資訊，植入勒索病毒",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4. 以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.595Z"
+  },
+  {
+    "id": "053f23934f506237e4a5174baeedb042b84feb348255887627d463bb7270f9cd",
+    "question": "針對資安犯罪，下列敘述何者正確？",
+    "options": [
+      "單位遇到駭客攻擊，重點以系統恢復為要，無需找出根因，進行事件調查",
+      "遭受駭客攻擊，其中以DDos攻擊損失最嚴重",
+      "內政部警政署刑事警察局於2024年4月成立專業資安應變團隊(CIB-DFIR小組)，提供緊急應變諮詢，協助事件偵查",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3. 內政部警政署刑事警察局於2024年4月成立專業資安應變團隊(CIB-DFIR小組)，提供緊急應變諮詢，協助事件偵查",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.596Z"
+  },
+  {
+    "id": "ce2361a161a8c939d7c64ebcc0aab81bed811708d1b4a51527a3be2781d4f1e1",
+    "question": "近年出現新型態的深偽影片犯罪案件，請問來自哪一項科技快的速發展與應用？",
+    "options": [
+      "人工智慧",
+      "區塊鏈",
+      "雲端運算",
+      "大數據"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1. 人工智慧",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.597Z"
+  },
+  {
+    "id": "96eb43daefb39f857c49ab4953fc9996796a2ed0fc977be681b09ed86e60c2f5",
+    "question": "警政署資訊系統目前已導入AI並進行應用",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.598Z"
+  },
+  {
+    "id": "96bc0117345f2b7987a1522cf4410d318790a837b8b9e35320fd9be8b3e0071c",
+    "question": "透過課程了解駭客攻擊手法及資安調查困境與挑戰，請問下列哪一項考量或措施可過濾資安漏洞，提高資安防護門檻？",
+    "options": [
+      "阻擋高風險的網路，含VPN、洋蔥網路等",
+      "檢視是否使用不安全的元件或設備",
+      "許多Iot設備未考慮資安，須逐一檢視，避免成為資安漏洞",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4. 以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.599Z"
+  },
+  {
+    "id": "f6bfe6b155d02ac6664bb08c1863692dd22746e459775fbb10cb7f50140db16f",
+    "question": "根據影片，以下敘述何者正確？",
+    "options": [
+      "政府單位資安防護嚴實，資料不會外洩",
+      "近年來駭客攻擊來源為境外敵對勢力，只攻擊政府單位",
+      "只要是機敏資料，資料交換時便須「去識別化」，進行加密，否則就有可能被駭客竊取外洩",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3. 只要是機敏資料，資料交換時便須「去識別化」，進行加密，否則就有可能被駭客竊取外洩",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.600Z"
+  },
+  {
+    "id": "a8f12eca7f20cd0e6c9f7a3d7358d45e18f4fd1883ecc3a9b357b0bb7a07f6c5",
+    "question": "資訊科技日益進步，帶來生活的便利，同時也助長了科技犯罪盛行。透過影片了解犯罪理論後，請問下列哪一項是合宜的因應方式？",
+    "options": [
+      "反對科技發展",
+      "逮捕有犯罪動機者，防範未然",
+      "控制與營造環境，令駭客不易攻擊",
+      "不接觸科技新知與產品"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3. 控制與營造環境，令駭客不易攻擊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.601Z"
+  },
+  {
+    "id": "c2423cdd5c093e840775e586e162fe61919d1096a628a45e1f3664de7f3d2751",
+    "question": "請問下列哪一項「不屬於」區塊鏈的技術特點？",
+    "options": [
+      "不可篡改性",
+      "匿名性",
+      "集中性",
+      "去中心化"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3. 集中性",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.602Z"
+  },
+  {
+    "id": "8e83ffb873eca9095163368b40fff1f55848359f26b20f965bb28b13119bc775",
+    "question": "根據影片說明，有關「創意私房」案件，請問下列哪一項敘述正確？",
+    "options": [
+      "為網路兒童色情犯罪",
+      "涉案人員高達400多人",
+      "涉案人員涵蓋高知識份子及執法人員",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4. 以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.603Z"
+  },
+  {
+    "id": "02ea79d30a14014ce1dc1f34571cb0afe50d76eb714258732a561b0aa8de4806",
+    "question": "虛擬貨幣自2009年興起，匿名性高，偵查不易，已成為現在最嚴重的洗錢與詐欺工具",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "當前科技犯罪面貌與因應之道",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T13:10:48.603Z"
+  }
+]
