@@ -232,5 +232,57 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:42.367Z"
+  },
+  {
+    "id": "51006ecfcdac2802b633efb292f1895e0dd66fcc3eb492a1df870655e1a6b5c3",
+    "question": "下列關於格外品的敘述，何者錯誤？",
+    "options": [
+      "營養價值比較少",
+      "規格不符、賣相不佳",
+      "在販賣醜蔬果的通路購買",
+      "格外品不是瑕疵品"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "營養價值比較少",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:39:11.687Z"
+  },
+  {
+    "id": "fba646a4c43897d8690dd9540bf57e16c5688c684450469e53eed40647114022",
+    "question": "盡量以食材的原始風味為主，少食用高油、高鹽、高糖的加工食品。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:39:11.690Z"
+  },
+  {
+    "id": "03e3ea63d55b7fddb32bb6384803194350ce9e5d42d8ec3bc77f2322ae6029a0",
+    "question": "下列關於蔬果特色的敘述，何者正確？",
+    "options": [
+      "苦瓜：怕冷而躲在土裡避寒的蔬果",
+      "冬瓜：爬藤類蔬果",
+      "玉米：充滿澱粉的水果",
+      "春天開滿花朵的蔬果：金針花"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食活力GO",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "玉米：充滿澱粉的水果",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T11:39:11.690Z"
   }
 ]
