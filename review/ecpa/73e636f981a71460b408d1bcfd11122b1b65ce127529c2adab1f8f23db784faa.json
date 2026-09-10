@@ -286,5 +286,59 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T20:59:43.181Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f1d37d91603ecf30f66fc102b05626b99cbddf6c58b9ed1c9048d983b44fd8a",
+    "question": "馬祖海域能發藍光的生物僅有夜光蟲?",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T21:00:12.613Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e0546c31b8bde2d21b2b0e2b0c6434b0c7bf52e319ce1cbfd1fdcb792736a18d",
+    "question": "藍眼淚產生有性生殖是因為?",
+    "options": [
+      "溫度過低",
+      "有攝食者",
+      "感覺餌料不足",
+      "海水變淡"
+    ],
+    "type": "單選",
+    "course": "海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "感覺餌料不足",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T21:00:12.615Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e9d4fe040ec47dc02b91e66879543274ea5b4149fa27c2381834078d7b44e2f3",
+    "question": "馬祖藍眼淚產生與閩江帶入何種營養鹽有關?",
+    "options": [
+      "氮",
+      "矽",
+      "磷"
+    ],
+    "type": "單選",
+    "course": "海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "氮",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T21:00:12.616Z",
+    "review_state": "candidate_ready"
   }
 ]
