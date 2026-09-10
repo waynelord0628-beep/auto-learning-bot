@@ -246,5 +246,23 @@
     "candidate_answer": "否，目前還無法完全治癒",
     "source": "ai_unverified",
     "created_at": "2026-09-10T14:24:43.951Z"
+  },
+  {
+    "id": "c4fc77f2954f97e40695503359211994fdb486697f748e79de77c33d05135387",
+    "question": "中高齡者的BMI(身體質量指數)過低或過高，對失智風險有何影響？",
+    "options": [
+      "都會增加風險",
+      "都會降低風險",
+      "沒有影響",
+      "只有過高會增加風險"
+    ],
+    "type": "單選",
+    "course": "認知促進：提升腦活力預防失智上門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "都會增加風險",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T14:25:13.547Z"
   }
 ]
