@@ -244,5 +244,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:50.725Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "735b08dabd67e338803bd4bffaf10a257757b45ee2128d89d5c7d2298a78cf08",
+    "question": "各機關首長或主管人員於下列那段時間，應禁止政黨、公職候選人或其支持者之造訪活動？",
+    "options": [
+      "選舉委員會發布選舉公告日起至當選人名單公告之日止",
+      "選舉委員會發布選舉公告日起至投票日止",
+      "選舉委員會發布候選人名單日起至當選人宣誓就職之日止",
+      "選舉委員會發布候選人名單日起至當選人名單公告之日止"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立法與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T17:19:20.534Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "cfd2beb381dafad3b046a452f5e7940f529ad2354147816c82b16bd37d21fd19",
+    "question": "公務人員行政中立法所稱政治團體，係指依下列何者規定經許可設立之政治團體？",
+    "options": [
+      "公職人員選舉罷免法",
+      "政黨法",
+      "政治獻金法",
+      "人民團體法"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立法與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T17:19:20.536Z",
+    "review_state": "awaiting_candidate"
   }
 ]
