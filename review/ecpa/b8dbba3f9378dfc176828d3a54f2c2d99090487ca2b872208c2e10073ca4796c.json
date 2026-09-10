@@ -174,5 +174,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.444Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9c9caf9cb3af9347dadcccadb8df54a44697d522c74d84b26b278fefe28a74d9",
+    "question": "不論是男生或女生，都有可能成為性騷擾的受害者。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T15:47:11.260Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "405c49689dbef4c92698424ed3d0f83b79ddbd0fa3b4da308672ae005c0967bd",
+    "question": "下列哪一項屬於與性別有關之騷擾行為?",
+    "options": [
+      "你的胸型很漂亮",
+      "你的腰好粗",
+      "你的胸膛好厚實",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T15:47:11.261Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4bbc3368376eb837b44e7618dfc7aea20c1cc7c406eac979e778f8b228bdf09e",
+    "question": "只要沒有特別針對特定人，就不算是性騷擾。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T15:47:11.261Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "88f66604c968ac8ecb2ebb35265078c6569b704f23abee670c38274f03538400",
+    "question": "離職之後，就不能再提出性騷擾申訴了。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T15:47:11.262Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "88b79fb7569b19291851f478c58025780804a24323aa2c1c37cb095b0cd98b17",
+    "question": "當你遇到性騷擾時，下列哪一項做法不恰當?",
+    "options": [
+      "保持冷靜，蒐集證據",
+      "不向他人求助，獨自承受",
+      "告訴親友，尋求協助",
+      "和加害者理論，希望停止"
+    ],
+    "type": "單選",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不向他人求助，獨自承受",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T15:47:11.262Z",
+    "review_state": "candidate_ready"
   }
 ]
