@@ -214,5 +214,41 @@
     "candidate_answer": "合理調整",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:53:51.870Z"
+  },
+  {
+    "id": "9c976d39c20b01a54236c9e8ea1ea48e2d32f0cef3548a41694f9ec651b6618b",
+    "question": "「障礙是一種生理缺陷，需透過醫療行為將障礙者治癒，恢復正常狀態並回歸社會」，請問這屬於哪一個模式？",
+    "options": [
+      "慈善模式",
+      "個人／醫療模式",
+      "社會模式",
+      "人權模式"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權益與保障",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "個人／醫療模式",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:54:22.557Z"
+  },
+  {
+    "id": "37e5c9483fe59dd4d93394ca976309d96e058920ab6c3e4baddc2ffc9dcce523",
+    "question": "「身心障礙者的母親在求職時，雇主基於該名母親養育身心障礙子女將難以專注工作而拒絕錄取」請問這屬於哪一種歧視？",
+    "options": [
+      "關聯性歧視",
+      "結構性歧視",
+      "直接歧視",
+      "沒有歧視"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權益與保障",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "關聯性歧視",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:54:22.559Z"
   }
 ]
