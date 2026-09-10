@@ -245,5 +245,40 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:14.613Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ed9e649dc868455b8022378967ea51d3e408d2d42a7905c71cbd02f97efd386d",
+    "question": "為了抵抗強大敵對的威脅，我們應該採取什麼對策?",
+    "options": [
+      "創新不對稱策略",
+      "以牙還牙策略",
+      "窮兵黷武策略"
+    ],
+    "type": "單選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "創新不對稱策略",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:43.998Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b4c5c25fcdcf6ec9e81667195102d05330b9f758db5fde908ec510fd833d3086",
+    "question": "「國防科技」與「民生科技」毫無關係。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:44.015Z",
+    "review_state": "candidate_ready"
   }
 ]
