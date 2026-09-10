@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.595Z"
+    "created_at": "2026-09-10T13:10:48.595Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "053f23934f506237e4a5174baeedb042b84feb348255887627d463bb7270f9cd",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 內政部警政署刑事警察局於2024年4月成立專業資安應變團隊(CIB-DFIR小組)，提供緊急應變諮詢，協助事件偵查",
+    "candidate_answer": "內政部警政署刑事警察局於2024年4月成立專業資安應變團隊(CIB-DFIR小組)，提供緊急應變諮詢，協助事件偵查",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.596Z"
+    "created_at": "2026-09-10T13:10:48.596Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "ce2361a161a8c939d7c64ebcc0aab81bed811708d1b4a51527a3be2781d4f1e1",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 人工智慧",
+    "candidate_answer": "人工智慧",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.597Z"
+    "created_at": "2026-09-10T13:10:48.597Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "96eb43daefb39f857c49ab4953fc9996796a2ed0fc977be681b09ed86e60c2f5",
@@ -67,7 +70,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.598Z"
+    "created_at": "2026-09-10T13:10:48.598Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "96bc0117345f2b7987a1522cf4410d318790a837b8b9e35320fd9be8b3e0071c",
@@ -83,9 +87,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.599Z"
+    "created_at": "2026-09-10T13:10:48.599Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f6bfe6b155d02ac6664bb08c1863692dd22746e459775fbb10cb7f50140db16f",
@@ -101,9 +106,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 只要是機敏資料，資料交換時便須「去識別化」，進行加密，否則就有可能被駭客竊取外洩",
+    "candidate_answer": "只要是機敏資料，資料交換時便須「去識別化」，進行加密，否則就有可能被駭客竊取外洩",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.600Z"
+    "created_at": "2026-09-10T13:10:48.600Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a8f12eca7f20cd0e6c9f7a3d7358d45e18f4fd1883ecc3a9b357b0bb7a07f6c5",
@@ -119,9 +125,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 控制與營造環境，令駭客不易攻擊",
+    "candidate_answer": "控制與營造環境，令駭客不易攻擊",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.601Z"
+    "created_at": "2026-09-10T13:10:48.601Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "c2423cdd5c093e840775e586e162fe61919d1096a628a45e1f3664de7f3d2751",
@@ -137,9 +144,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 集中性",
+    "candidate_answer": "集中性",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.602Z"
+    "created_at": "2026-09-10T13:10:48.602Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "8e83ffb873eca9095163368b40fff1f55848359f26b20f965bb28b13119bc775",
@@ -155,9 +163,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.603Z"
+    "created_at": "2026-09-10T13:10:48.603Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "02ea79d30a14014ce1dc1f34571cb0afe50d76eb714258732a561b0aa8de4806",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:10:48.603Z"
+    "created_at": "2026-09-10T13:10:48.603Z",
+    "review_state": "candidate_ready"
   }
 ]

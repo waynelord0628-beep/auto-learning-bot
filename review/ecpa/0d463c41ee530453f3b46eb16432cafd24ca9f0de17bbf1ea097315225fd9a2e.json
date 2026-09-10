@@ -3,8 +3,8 @@
     "id": "120d3fbc25439422183e4df91a6397b9922d0c4ed88fe8f233e6dd0431e60efb",
     "question": "溫室氣體碳盤查是針對二氧化碳(CO2)的盤查",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
@@ -13,7 +13,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.764Z"
+    "created_at": "2026-09-10T10:54:53.764Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "435d1f0a167036475c0a58132e0b93a205e000a2af11fdb30e83184813aa42fa",
@@ -29,9 +30,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.765Z"
+    "created_at": "2026-09-10T10:54:53.765Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "56b2446a40261f31b74bd298c81d8bc25dcf0230d4899e3e18222a770f10242d",
@@ -47,16 +49,17 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 氫氟碳化物(HFCS)",
+    "candidate_answer": "氫氟碳化物(HFCS)",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.765Z"
+    "created_at": "2026-09-10T10:54:53.765Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0f0b6626572b480109613fde23f562222b8070dfc54dabde2deec496080cc724",
     "question": "根據「氣候變遷因應法」(前身為)，我國目前管制的溫室氣體項目有二氧化碳（CO2）、甲烷（CH4）、氧化亞氮（N2O）、氫氟碳化物（HFCs）、全氟碳化物（PFCs）、六氟化硫（SF6）、三氟化氮（NF3）及其他經中央主管機關公告者",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
@@ -65,7 +68,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.766Z"
+    "created_at": "2026-09-10T10:54:53.766Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "6490cb136bfb0826d1a046fca0452b3968a6b20e3567464197fadff410d9201f",
@@ -81,16 +85,17 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.766Z"
+    "created_at": "2026-09-10T10:54:53.766Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f42ad7f12aa4856e92c666ed3f1296952c1e0cc75b440506ceea65aabafa11a7",
     "question": "「碳足跡」是指產品或服務在整個生命週期過程所產生的溫室氣體排放量總和，以CO2當量(CO2e)表示",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
@@ -99,7 +104,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.767Z"
+    "created_at": "2026-09-10T10:54:53.767Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0553dc69066025a32f661224799ff8c3b64e3d161c07a077321bebb984d1292b",
@@ -114,16 +120,17 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.767Z"
+    "created_at": "2026-09-10T10:54:53.767Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "087483ac2df669d01bfb0b2855483e2fcab357bd5da9b58f1367fba82abf9473",
     "question": "綠色採購是指利用政府和企業的龐大採購力量，作為綠色消費的支持者與催化劑角色，透過政策工具優先購買對環境衝擊較少的產品，鼓勵綠色產品的生產及使用，帶動綠色消費、達到環境保護。",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
@@ -132,14 +139,15 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.768Z"
+    "created_at": "2026-09-10T10:54:53.768Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "4a9805755ec8976959a12fca3485edd9cde5d88f836bb2995f71a8af6cb06238",
     "question": "溫室氣體碳盤查種類共有七種，分別是二氧化碳(CO2)、甲烷(CH4)、氧化亞氮(N2O)、氫氟碳化物(HFCs)、全氟碳化物(PFCs)、六氟化硫(SF6)、三氟化氮(NF3)",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
@@ -148,7 +156,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.768Z"
+    "created_at": "2026-09-10T10:54:53.768Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "81a418102e20c3a3ffff9af886eee54e8065fa17dd355f30dcee97f24bba0041",
@@ -164,8 +173,9 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:53.769Z"
+    "created_at": "2026-09-10T10:54:53.769Z",
+    "review_state": "candidate_ready"
   }
 ]

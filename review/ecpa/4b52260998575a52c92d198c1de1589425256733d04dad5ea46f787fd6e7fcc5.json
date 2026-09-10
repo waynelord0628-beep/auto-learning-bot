@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 1至50萬元",
+    "candidate_answer": "1至50萬元",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:13.214Z"
+    "created_at": "2026-09-10T11:23:13.214Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dbd0b04298c8d09c1a75c85c8efa09c681d6a7ed32138d969bbb425cd3b6e150",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 50人",
+    "candidate_answer": "50人",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:13.216Z"
+    "created_at": "2026-09-10T11:23:13.216Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1e5d0b074957dba7ad93a578d9de2c39f171a670c711a42cde14c5d326a83094",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 30人",
+    "candidate_answer": "30人",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:13.216Z"
+    "created_at": "2026-09-10T11:23:13.216Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "d657ca1fc78d0a422471d811bf7c8294baafd8f5d20dbc8c2c4ab7c7496ebae1",
@@ -67,9 +70,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "[1, 2, 3, 4]",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:13.217Z"
+    "created_at": "2026-09-10T11:23:13.217Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "[1, 2, 3, 4]"
   },
   {
     "id": "5e349f2f51a4284dd90588ba55ab7c263b21c0b667925c05a372aaf825c986b7",
@@ -85,9 +90,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "[1, 2, 3]",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:13.217Z"
+    "created_at": "2026-09-10T11:23:13.217Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "[1, 2, 3]"
   },
   {
     "id": "5eb3786b550fdad84f3eaadf42e0984b858cdc7d07535fc52446a8156cfd7a25",
@@ -103,7 +110,8 @@
     "previous_answer": "錯誤",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:18.363Z"
+    "created_at": "2026-09-10T11:23:18.363Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "f330ba666a22d3ed2ed9d93f5f39403a451385cff1781f4156aeecf74942652a",
@@ -119,7 +127,8 @@
     "previous_answer": "錯誤",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:18.365Z"
+    "created_at": "2026-09-10T11:23:18.365Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "e5aa0e01d9335d876292544ae89d762abaa73c004d3b8c2632a17b0126cae0bf",
@@ -135,7 +144,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:18.372Z"
+    "created_at": "2026-09-10T11:23:18.372Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "7385a44bb782b7ea0ec877c1ae156de29a58898580a039fa1292e1d72ab64c26",
@@ -151,7 +161,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:18.374Z"
+    "created_at": "2026-09-10T11:23:18.374Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "60632a547759db40e6cd8e38aaa9e5fa495239251cd380921ccb90fc9fc4df0c",
@@ -167,7 +178,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:18.375Z"
+    "created_at": "2026-09-10T11:23:18.375Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "0c4b6221507a4f7e5737c7a7bac4206c127655c81f3524caa6ec4dea3c2b58af",
@@ -183,9 +195,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:49.008Z"
+    "created_at": "2026-09-10T11:23:49.008Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "b5904d02849ed6f5fb679c7fa394eef47f4bd0b6b2012b827d3a1fc05ea345e3",
@@ -201,9 +214,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 採行避免申訴人受性騷擾情形再度發生之措施, 2. 對申訴人提供或轉介諮詢、醫療或心理諮商、社會福利資源及其他必要之服務, 3. 對性騷擾事件進行調查, 4. 對行為人為適當之懲戒或處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T11:23:49.010Z"
+    "created_at": "2026-09-10T11:23:49.010Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 採行避免申訴人受性騷擾情形再度發生之措施, 2. 對申訴人提供或轉介諮詢、醫療或心理諮商、社會福利資源及其他必要之服務, 3. 對性騷擾事件進行調查, 4. 對行為人為適當之懲戒或處理"
   },
   {
     "id": "725e5f304f9572fdad82435422ec543d2103c700d922f0c40c73c8c4f40f3a45",
@@ -219,7 +234,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:54.056Z"
+    "created_at": "2026-09-10T11:23:54.056Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "0e64b37afffca58f14ead1fec0ddf0a9aa5e410a1f1f2c8d8140965a61cfb6d8",
@@ -235,6 +251,7 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T11:23:54.057Z"
+    "created_at": "2026-09-10T11:23:54.057Z",
+    "review_state": "awaiting_evidence"
   }
 ]

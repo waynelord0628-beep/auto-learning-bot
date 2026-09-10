@@ -13,7 +13,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.777Z"
+    "created_at": "2026-09-10T10:47:09.777Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "d015b6b3cb847ecdd9c963b9db9edc9d095bb18586352dbedd8c9cdbc3cd030e",
@@ -29,9 +30,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.779Z"
+    "created_at": "2026-09-10T10:47:09.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "de32c30d0b32f6e00ceb7771757d230fb09504a7ef6e73aea1349f3ac2cafeca",
@@ -47,9 +49,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 族群融合",
+    "candidate_answer": "族群融合",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.779Z"
+    "created_at": "2026-09-10T10:47:09.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "b249b80a580796b55f22fd322c2de54d847dd4b34952beb41f34ce8d7460e206",
@@ -65,7 +68,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.779Z"
+    "created_at": "2026-09-10T10:47:09.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "88b07a25992c3ecbddbfffc20f2d2684d0c1b8700fac3bebb40767d60d029147",
@@ -81,9 +85,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 原住民族日",
+    "candidate_answer": "原住民族日",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.780Z"
+    "created_at": "2026-09-10T10:47:09.780Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f74899b4c72b9888ed3174b809b0c0f510abc47743a7db59ecefd87448fbe0fb",
@@ -102,7 +107,8 @@
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:47:09.780Z"
+    "created_at": "2026-09-10T10:47:09.780Z",
+    "review_state": "awaiting_multiselect_support"
   },
   {
     "id": "17e45f574f9598d888f09599e3b78e4caef5bf9fad9ba006c39a162216d09b75",
@@ -118,7 +124,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.781Z"
+    "created_at": "2026-09-10T10:47:09.781Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dc222834b855d87fc4fcba8c8a292652581193348d4755a433b01aac8d51962f",
@@ -134,7 +141,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.781Z"
+    "created_at": "2026-09-10T10:47:09.781Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "19dee9a1d53bca4d1e404140a5145dc68756dee4a899fcbd1a4fc6b439e920df",
@@ -153,7 +161,8 @@
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:47:09.782Z"
+    "created_at": "2026-09-10T10:47:09.782Z",
+    "review_state": "awaiting_multiselect_support"
   },
   {
     "id": "9ad66cc570c10bc47f72704c7a276a32416d89c27e04cb295a56ce22db18b3b6",
@@ -169,7 +178,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:09.782Z"
+    "created_at": "2026-09-10T10:47:09.782Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "69809f496e9e6703835f14c9a24e92a1d7a80bfec14fd05c9c160b8600fb17ed",
@@ -185,7 +195,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:44.817Z"
+    "created_at": "2026-09-10T10:47:44.817Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "bd4ad20d44751f335eaff83feb7fd1ba7b9c000365c494eb3bb25cae2e05cf37",
@@ -201,7 +212,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:47:44.819Z"
+    "created_at": "2026-09-10T10:47:44.819Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "6fdd0de269902d5687e6fea797817ee01589b036ad2a0580dcc5f01eac605c8b",
@@ -217,7 +229,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:48:13.967Z"
+    "created_at": "2026-09-10T10:48:13.967Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "77b62ddbcdb83897db4dccbc7f2ffe8963aaaeacf400af53d449ebf52674ac74",
@@ -234,9 +247,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 族群統計, 2. 族群分析, 3. 族群影響評估, 4. 族群意識培力, 5. 族群預算",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:48:13.969Z"
+    "created_at": "2026-09-10T10:48:13.969Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 族群統計, 2. 族群分析, 3. 族群影響評估, 4. 族群意識培力, 5. 族群預算"
   },
   {
     "id": "d95bb86c0ece17bd4a5f14ebb5beda1e2101f0236a470fffab274f222aec40bc",
@@ -252,6 +267,7 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:48:13.970Z"
+    "created_at": "2026-09-10T10:48:13.970Z",
+    "review_state": "candidate_ready"
   }
 ]

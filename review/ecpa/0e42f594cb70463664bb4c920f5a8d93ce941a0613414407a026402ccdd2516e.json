@@ -15,7 +15,8 @@
     "previous_answer": null,
     "candidate_answer": "concluded",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.772Z"
+    "created_at": "2026-09-10T09:07:48.772Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "92d9196450a92f211ffc238695b1d65802c9999e1fe9f0b662a0beb5dddcd93a",
@@ -33,14 +34,15 @@
     "previous_answer": null,
     "candidate_answer": "current",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.775Z"
+    "created_at": "2026-09-10T09:07:48.775Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "05e6ba85f713db3afab1760c6fe43febb9b31e4b85ecafbe138ccb79b34b828c",
     "question": "這本童書裡的一切內容都是假的，全是作者編造的。可英譯為：Nothing in this children's story is real. It was all made over by the author.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "如何看出新聞是「真」還是「假」",
@@ -49,7 +51,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.776Z"
+    "created_at": "2026-09-10T09:07:48.776Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "39109885c12b672352207b7e75166555ea4efa2aac52ac0979a56cd9179e1df6",
@@ -67,7 +70,8 @@
     "previous_answer": null,
     "candidate_answer": "political",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.777Z"
+    "created_at": "2026-09-10T09:07:48.777Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dd2db1bf5c562570f9f26267ddf0db36a814af4c84f9a94a3c4859355e9dd7a1",
@@ -85,7 +89,8 @@
     "previous_answer": null,
     "candidate_answer": "fake",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.777Z"
+    "created_at": "2026-09-10T09:07:48.777Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "5c2a3f17ebffffb2b99d1c006b55f3c1e65a63ccaa635b9b509edbc91547e034",
@@ -103,7 +108,8 @@
     "previous_answer": null,
     "candidate_answer": "defined",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.778Z"
+    "created_at": "2026-09-10T09:07:48.778Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "baf4d8644b97b1b81376c8b8e20c70e44c309a5f9084b466472e8765e042cb41",
@@ -121,14 +127,15 @@
     "previous_answer": null,
     "candidate_answer": "considered",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.778Z"
+    "created_at": "2026-09-10T09:07:48.778Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "112c45fde4b5a0bc7f6571328ea6354efa106df550154f89ab58a3bf06ea97a4",
     "question": "我的提議只是開玩笑而已，但高登好像認真看待它了。可英譯為：I only suggested that idea as a joke, but it seems like Gordon is taking it seriously.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "如何看出新聞是「真」還是「假」",
@@ -137,7 +144,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.779Z"
+    "created_at": "2026-09-10T09:07:48.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0bd5332dfec3084b9a0475e542dd0aae02139459e25f556ba3ed10a22a4462bd",
@@ -155,7 +163,8 @@
     "previous_answer": null,
     "candidate_answer": "headlines",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.779Z"
+    "created_at": "2026-09-10T09:07:48.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "43cce045dbc72e022927713de30bf00b2ef7d2a5baf0765eb5666225986486b9",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "protection",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:07:48.780Z"
+    "created_at": "2026-09-10T09:07:48.780Z",
+    "review_state": "candidate_ready"
   }
 ]

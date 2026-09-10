@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 經濟",
+    "candidate_answer": "經濟",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.562Z"
+    "created_at": "2026-09-10T10:53:20.562Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a548c873ffe06b4180518cf984bd5e017982c662cd0d5ac5fdbfa74859c37218",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 人權模式",
+    "candidate_answer": "人權模式",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.565Z"
+    "created_at": "2026-09-10T10:53:20.565Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0e5bcfa48338cf5ab9742317cb80abae72dd469002b565f9028d753854b7da49",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 機構照顧",
+    "candidate_answer": "機構照顧",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.565Z"
+    "created_at": "2026-09-10T10:53:20.565Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "b43ec05972b896159ecd7b270c3e376c4b66e71ca250fae8caf899c0e7890809",
@@ -67,9 +70,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 《身心障礙者權益保障法》要求所有服務都免費",
+    "candidate_answer": "《身心障礙者權益保障法》要求所有服務都免費",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.566Z"
+    "created_at": "2026-09-10T10:53:20.566Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "46c11fc1d1616cffd06041161f744040850e74b1418f5acaaf955ebe5d8eec35",
@@ -85,9 +89,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 所有關於身心障礙者的事情都只能聽身心障礙者的，別人不應該發表意見",
+    "candidate_answer": "所有關於身心障礙者的事情都只能聽身心障礙者的，別人不應該發表意見",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.567Z"
+    "created_at": "2026-09-10T10:53:20.567Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "79c9375a7f6e3860c2b0a7869aefc5cd93843982c5a2dcda4c704f8e11beaf52",
@@ -103,9 +108,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 合理調整不需因個案需要而進行調整",
+    "candidate_answer": "合理調整不需因個案需要而進行調整",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.568Z"
+    "created_at": "2026-09-10T10:53:20.568Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "899c365e050ec06b2d8cadf49fe5da071509012f1cea2a837b0a30497f6cb019",
@@ -121,9 +127,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 社會模式",
+    "candidate_answer": "社會模式",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.569Z"
+    "created_at": "2026-09-10T10:53:20.569Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "698b9f5001a772f0c09516ecab2b2e352906d55a196e5d0549793a0155297d6b",
@@ -139,9 +146,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 合理調整措施將對雇主造成過度負擔",
+    "candidate_answer": "合理調整措施將對雇主造成過度負擔",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.570Z"
+    "created_at": "2026-09-10T10:53:20.570Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "ca99ae2e929cfbd5442871aede2f6f3ea01622ff00ce36894a407f2d7e5bef8c",
@@ -157,9 +165,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 《身心障礙者權利公約》",
+    "candidate_answer": "《身心障礙者權利公約》",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.571Z"
+    "created_at": "2026-09-10T10:53:20.571Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e486f371aa6c61103296460c16ba5e0ba0dd57133363fb430cc5735b914f9fff",
@@ -175,9 +184,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 障礙者作為權利主體，國家應保障其人性尊嚴",
+    "candidate_answer": "障礙者作為權利主體，國家應保障其人性尊嚴",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:20.572Z"
+    "created_at": "2026-09-10T10:53:20.572Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1bca1dcfab9aded26b8352aacdc5f17ec897e16ef1035477a1dcff56772e9891",
@@ -195,7 +205,8 @@
     "previous_answer": null,
     "candidate_answer": "將手語視為一種語言，並納入國家語言中",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:51.868Z"
+    "created_at": "2026-09-10T10:53:51.868Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "b4684432194336b5a8af38a5b57846da270ad4bbfd3ac09a441f382c25b96497",
@@ -213,7 +224,8 @@
     "previous_answer": null,
     "candidate_answer": "合理調整",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:53:51.870Z"
+    "created_at": "2026-09-10T10:53:51.870Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "9c976d39c20b01a54236c9e8ea1ea48e2d32f0cef3548a41694f9ec651b6618b",
@@ -231,7 +243,8 @@
     "previous_answer": null,
     "candidate_answer": "個人／醫療模式",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:22.557Z"
+    "created_at": "2026-09-10T10:54:22.557Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "37e5c9483fe59dd4d93394ca976309d96e058920ab6c3e4baddc2ffc9dcce523",
@@ -249,6 +262,7 @@
     "previous_answer": null,
     "candidate_answer": "關聯性歧視",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:54:22.559Z"
+    "created_at": "2026-09-10T10:54:22.559Z",
+    "review_state": "candidate_ready"
   }
 ]

@@ -15,14 +15,15 @@
     "previous_answer": null,
     "candidate_answer": "equipment",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.264Z"
+    "created_at": "2026-09-10T07:38:09.264Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "8dde04e9648cd25a9573133320308cb5270cc5c2edaaa687a8c12b34b3816450",
     "question": "這名女飛行員獨自飛越大西洋，創造了歷史。可英譯為：The female pilot acted history when she flew over the Atlantic Ocean by herself.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "萊卡的單程太空旅行",
@@ -31,7 +32,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.266Z"
+    "created_at": "2026-09-10T07:38:09.266Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dba6be649b60687a162c1fdeed6316ff875276e9fc9da56b6aca5fe8fcb31c9a",
@@ -49,7 +51,8 @@
     "previous_answer": null,
     "candidate_answer": "state",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.267Z"
+    "created_at": "2026-09-10T07:38:09.267Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "6c8ce71a08e9d73610d13cd76f2a25c8120f1b704b47ad5fabd0bdcc092bb23b",
@@ -67,7 +70,8 @@
     "previous_answer": null,
     "candidate_answer": "entry",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.267Z"
+    "created_at": "2026-09-10T07:38:09.267Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "be7fa3af8aa3b7a7450d8823dde945b852feb6bce2bf144a2ce4785bcf807cf6",
@@ -85,7 +89,8 @@
     "previous_answer": null,
     "candidate_answer": "effect",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.268Z"
+    "created_at": "2026-09-10T07:38:09.268Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "263bc82200610f2da916e946131858c5b58b99aae5aabcff68f9a29e7db99524",
@@ -103,7 +108,8 @@
     "previous_answer": null,
     "candidate_answer": "extreme",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.269Z"
+    "created_at": "2026-09-10T07:38:09.269Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "c5a30d375a4dd6b20c6109d945aafef1d193130df0844ba94dbec9c0df019eaf",
@@ -121,14 +127,15 @@
     "previous_answer": null,
     "candidate_answer": "suffering",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.269Z"
+    "created_at": "2026-09-10T07:38:09.269Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e0e9430556d15d95f2e766d6c6d67f7bcf59d4f6d599c6a15bc12608536259db",
     "question": "這部電影在主角死後不久便結束。可英譯為：The movie came to an end shortly after the death of the main character.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "萊卡的單程太空旅行",
@@ -137,7 +144,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.270Z"
+    "created_at": "2026-09-10T07:38:09.270Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e8623f464f58b7680832f434046207cc3367d74d4be28798a19fd04fb95536f1",
@@ -155,7 +163,8 @@
     "previous_answer": null,
     "candidate_answer": "painful",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.270Z"
+    "created_at": "2026-09-10T07:38:09.270Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e2acb13ff730490ccc17333f2423bcadc93a5ab3803bdffe799c4d1d6f2a6ecb",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "rate",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:38:09.271Z"
+    "created_at": "2026-09-10T07:38:09.271Z",
+    "review_state": "candidate_ready"
   }
 ]

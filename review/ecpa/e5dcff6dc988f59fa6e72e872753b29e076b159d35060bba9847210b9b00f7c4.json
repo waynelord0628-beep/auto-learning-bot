@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.177Z"
+    "created_at": "2026-09-10T10:56:26.177Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "c1fd221146a46d0ffc378c254a3ae943a035fc38579e4551f006f0e0a85a1232",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 機關綠色採購績效 評核方法",
+    "candidate_answer": "機關綠色採購績效 評核方法",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.180Z"
+    "created_at": "2026-09-10T10:56:26.180Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0788b9afd1d88b4000b888adbf9d4a95511c4d8a8f1dc1bc8477f43f979d552c",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 分別為機關、民間企業及團體",
+    "candidate_answer": "分別為機關、民間企業及團體",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.181Z"
+    "created_at": "2026-09-10T10:56:26.181Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "51379b270d7d1ce9fa815fd155f5a2d3574f4ad483de18df901132b252ac2a0d",
@@ -67,16 +70,17 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 指定採購項目應優先選擇環保標章產品",
+    "candidate_answer": "指定採購項目應優先選擇環保標章產品",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.182Z"
+    "created_at": "2026-09-10T10:56:26.182Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "29cba2f6c572f620eace43a8e789483f50e8088fa79841cd53a9e62df23ddbc1",
     "question": "為促進民間企業及團體參與綠色採購,環境部透過訂定「推動民間企業及團體實施綠 色採購計畫」與地方政府共同推動。",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "國家綠色採購政策現況與未來規劃",
@@ -85,7 +89,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.185Z"
+    "created_at": "2026-09-10T10:56:26.185Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0654028248be6240cfe6005632d2fd6851a8257afd866daa3751dfd7e2965ff6",
@@ -101,9 +106,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.186Z"
+    "created_at": "2026-09-10T10:56:26.186Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "6d86426f7578f27af80468695f54d0622c48d2d3e529e84d48ddd3ef266e63fd",
@@ -119,9 +125,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 加強國防預算",
+    "candidate_answer": "加強國防預算",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.186Z"
+    "created_at": "2026-09-10T10:56:26.186Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "99c1be23e4ca2e4e2a93c20046cdcf61cb96ed6240c113dc70c34f9124871202",
@@ -137,9 +144,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.187Z"
+    "created_at": "2026-09-10T10:56:26.187Z",
+    "review_state": "awaiting_options"
   },
   {
     "id": "d921ce185a5d2d9d4693d5b2b4cc78a484f05ba706c23c0ae26c3dcf33331a78",
@@ -155,9 +163,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.188Z"
+    "created_at": "2026-09-10T10:56:26.188Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "31e748da6b787d5db14f56162f8bbd7afe4700cf60a706401b8f56ca29fc215f",
@@ -173,8 +182,9 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:56:26.188Z"
+    "created_at": "2026-09-10T10:56:26.188Z",
+    "review_state": "candidate_ready"
   }
 ]

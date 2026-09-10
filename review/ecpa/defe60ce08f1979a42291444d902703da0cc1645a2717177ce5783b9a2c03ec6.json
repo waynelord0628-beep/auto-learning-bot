@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 1至50萬元",
+    "candidate_answer": "1至50萬元",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.591Z"
+    "created_at": "2026-09-10T10:40:29.591Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "aded6d8f7bc08e0335154b62cf12dd5638cbd9ee1e6fb793e291ea9ce78ce749",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.594Z"
+    "created_at": "2026-09-10T10:40:29.594Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "5e349f2f51a4284dd90588ba55ab7c263b21c0b667925c05a372aaf825c986b7",
@@ -49,9 +51,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 應秉持客觀、公正、專業原則, 2. 可重複詢問當事人, 3. 給予當事人充分陳述意見及答辯機會",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.595Z"
+    "created_at": "2026-09-10T10:40:29.595Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 應秉持客觀、公正、專業原則, 2. 可重複詢問當事人, 3. 給予當事人充分陳述意見及答辯機會"
   },
   {
     "id": "d657ca1fc78d0a422471d811bf7c8294baafd8f5d20dbc8c2c4ab7c7496ebae1",
@@ -67,9 +71,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 受僱者, 2. 擔任主管職務者, 3. 參與性騷擾申訴事件之處理、調查及決議人員, 4. 董事、監察人、經理人",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.596Z"
+    "created_at": "2026-09-10T10:40:29.596Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 受僱者, 2. 擔任主管職務者, 3. 參與性騷擾申訴事件之處理、調查及決議人員, 4. 董事、監察人、經理人"
   },
   {
     "id": "b5904d02849ed6f5fb679c7fa394eef47f4bd0b6b2012b827d3a1fc05ea345e3",
@@ -85,9 +91,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 採行避免申訴人受性騷擾情形再度發生之措施, 2. 對申訴人提供或轉介諮詢、醫療或心理諮商、社會福利資源及其他必要之服務, 3. 對性騷擾事件進行調查, 4. 對行為人為適當之懲戒或處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.597Z"
+    "created_at": "2026-09-10T10:40:29.597Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 採行避免申訴人受性騷擾情形再度發生之措施, 2. 對申訴人提供或轉介諮詢、醫療或心理諮商、社會福利資源及其他必要之服務, 3. 對性騷擾事件進行調查, 4. 對行為人為適當之懲戒或處理"
   },
   {
     "id": "1e5d0b074957dba7ad93a578d9de2c39f171a670c711a42cde14c5d326a83094",
@@ -103,9 +111,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 30人",
+    "candidate_answer": "30人",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:29.598Z"
+    "created_at": "2026-09-10T10:40:29.598Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "7385a44bb782b7ea0ec877c1ae156de29a58898580a039fa1292e1d72ab64c26",
@@ -121,7 +130,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:40:35.668Z"
+    "created_at": "2026-09-10T10:40:35.668Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "f330ba666a22d3ed2ed9d93f5f39403a451385cff1781f4156aeecf74942652a",
@@ -137,7 +147,8 @@
     "previous_answer": "錯誤",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:40:35.670Z"
+    "created_at": "2026-09-10T10:40:35.670Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "0e64b37afffca58f14ead1fec0ddf0a9aa5e410a1f1f2c8d8140965a61cfb6d8",
@@ -153,7 +164,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:40:35.671Z"
+    "created_at": "2026-09-10T10:40:35.671Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "60632a547759db40e6cd8e38aaa9e5fa495239251cd380921ccb90fc9fc4df0c",
@@ -169,7 +181,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:40:35.672Z"
+    "created_at": "2026-09-10T10:40:35.672Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "0c4b6221507a4f7e5737c7a7bac4206c127655c81f3524caa6ec4dea3c2b58af",
@@ -185,9 +198,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:59.107Z"
+    "created_at": "2026-09-10T10:40:59.107Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dbd0b04298c8d09c1a75c85c8efa09c681d6a7ed32138d969bbb425cd3b6e150",
@@ -203,9 +217,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 50人",
+    "candidate_answer": "50人",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:40:59.108Z"
+    "created_at": "2026-09-10T10:40:59.108Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e5aa0e01d9335d876292544ae89d762abaa73c004d3b8c2632a17b0126cae0bf",
@@ -221,7 +236,8 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:41:04.525Z"
+    "created_at": "2026-09-10T10:41:04.525Z",
+    "review_state": "awaiting_evidence"
   },
   {
     "id": "725e5f304f9572fdad82435422ec543d2103c700d922f0c40c73c8c4f40f3a45",
@@ -237,6 +253,7 @@
     "previous_answer": "正確",
     "candidate_answer": null,
     "source": "reported_question",
-    "created_at": "2026-09-10T10:41:04.527Z"
+    "created_at": "2026-09-10T10:41:04.527Z",
+    "review_state": "awaiting_evidence"
   }
 ]

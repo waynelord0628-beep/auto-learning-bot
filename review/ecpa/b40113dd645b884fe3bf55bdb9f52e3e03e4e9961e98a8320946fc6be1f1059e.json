@@ -15,7 +15,8 @@
     "previous_answer": null,
     "candidate_answer": "sensitive",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.988Z"
+    "created_at": "2026-09-10T05:30:32.988Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "2be5b8f53bfcf6e9ab1094373e2f5a391ed202639f7fe578c29f230a35664086",
@@ -33,14 +34,15 @@
     "previous_answer": null,
     "candidate_answer": "alerted",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.990Z"
+    "created_at": "2026-09-10T05:30:32.990Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1c70d5e509b84de5fff61cc092587c4288c18aafcbe005318928bb60c5b21ccc",
     "question": "我們得把舊的椅子拿去丟才能為新買的沙發騰出空間。可英譯為：We had to get rid of an old chair to make room for our new couch.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "有笑也有淚　大象的記憶深處",
@@ -49,7 +51,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.991Z"
+    "created_at": "2026-09-10T05:30:32.991Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "8bdc7d7a1606c7608c03fc134fd6b1a33c23f62144b302aaa556ac43fd43310c",
@@ -67,14 +70,15 @@
     "previous_answer": null,
     "candidate_answer": "violence",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.992Z"
+    "created_at": "2026-09-10T05:30:32.992Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0aea59b91a160bffbb322594aae13795eb7f45036258e8618a91e8d0346fc04f",
     "question": "當我走過公園時，偶遇一位老同學。可英譯為：While walking through the park, I crossed paths with an old classmate.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "有笑也有淚　大象的記憶深處",
@@ -83,7 +87,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.993Z"
+    "created_at": "2026-09-10T05:30:32.993Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "6e50080449be9751d73afc34b7aa9535d4813353d6dc11c2ce666c4125f2a6fc",
@@ -101,7 +106,8 @@
     "previous_answer": null,
     "candidate_answer": "friendship",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.994Z"
+    "created_at": "2026-09-10T05:30:32.994Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "5ad7acb5ea2ea5671da76a9a5a1428ffd3a6eabcd00d94ade64c677519c5eabc",
@@ -119,7 +125,8 @@
     "previous_answer": null,
     "candidate_answer": "intelligence",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.995Z"
+    "created_at": "2026-09-10T05:30:32.995Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e617bce8cdbf4813114b0d405c076478d6d196786e9178cd40e996327f1c9c5e",
@@ -137,7 +144,8 @@
     "previous_answer": null,
     "candidate_answer": "personality",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.996Z"
+    "created_at": "2026-09-10T05:30:32.996Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e88d7946616e3add76f118c05ca47a623405fc4b648cbed5cd705a4d90dae629",
@@ -155,7 +163,8 @@
     "previous_answer": null,
     "candidate_answer": "situation",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.997Z"
+    "created_at": "2026-09-10T05:30:32.997Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a0a1e169282101a90255177606d721ed23df23faee39c8bfb2cefc2de0e9097f",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "circus",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T05:30:32.998Z"
+    "created_at": "2026-09-10T05:30:32.998Z",
+    "review_state": "candidate_ready"
   }
 ]

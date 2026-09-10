@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 以上皆是",
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:54.996Z"
+    "created_at": "2026-09-10T13:42:54.996Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e0b64e877ffa184f8d7642a7b333416540acbfa22f1feb6ad718872bbc7b2642",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 加強使用者權限管理與內容審核",
+    "candidate_answer": "加強使用者權限管理與內容審核",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.004Z"
+    "created_at": "2026-09-10T13:42:55.004Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1f5461906a5f1a2ae64dd410f2548b554e941559700ad264da8afb36a3ed65aa",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 要求使用者提供敏感資訊或點擊惡意連結",
+    "candidate_answer": "要求使用者提供敏感資訊或點擊惡意連結",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.007Z"
+    "created_at": "2026-09-10T13:42:55.007Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "de6b6ecd800b81406496a681941e4a7852342577ee9466e046c26b9f39b1cbe4",
@@ -67,9 +70,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 提供 AI 系統的可追溯性與透明性",
+    "candidate_answer": "提供 AI 系統的可追溯性與透明性",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.009Z"
+    "created_at": "2026-09-10T13:42:55.009Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a1050df8f177f0804a969b01b0225a77daeae708c632611df9c6700c2dce3aa4",
@@ -85,9 +89,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 包含不正確資訊但無惡意",
+    "candidate_answer": "包含不正確資訊但無惡意",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.010Z"
+    "created_at": "2026-09-10T13:42:55.010Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "17b32888e967f1c26e90e310f84b6bbe88774b690dccaa1add46051cdaace90e",
@@ -103,9 +108,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 增加透明度與內容審核機制",
+    "candidate_answer": "增加透明度與內容審核機制",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.010Z"
+    "created_at": "2026-09-10T13:42:55.010Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "b24264a2d0730274585bc9e70d90227867f2ebc2cca9a002c772725c6b52332a",
@@ -121,9 +127,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 為不同應用場景制定針對性規範",
+    "candidate_answer": "為不同應用場景制定針對性規範",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.012Z"
+    "created_at": "2026-09-10T13:42:55.012Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dd7f8993e1b27d44fd1034c2483123c24a0048d3496025b1916f1fb2cba14e4e",
@@ -139,9 +146,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 加速虛假資訊的生成與傳播",
+    "candidate_answer": "加速虛假資訊的生成與傳播",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.015Z"
+    "created_at": "2026-09-10T13:42:55.015Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "5f29c6d5e8351506069a1a45a06c69f99c2e8ad1f13b21555e1e0fb7f904ae5c",
@@ -157,9 +165,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. Misinformation 與 Disinformation",
+    "candidate_answer": "Misinformation 與 Disinformation",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.016Z"
+    "created_at": "2026-09-10T13:42:55.016Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "9ebcf7674dd3ba41bc75b5a2009f7ce48ed09e33e3bd48adc1eb52b9c8a5b816",
@@ -175,8 +184,9 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 引起不必要的恐慌",
+    "candidate_answer": "引起不必要的恐慌",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T13:42:55.018Z"
+    "created_at": "2026-09-10T13:42:55.018Z",
+    "review_state": "candidate_ready"
   }
 ]

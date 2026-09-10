@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. at the same time",
+    "candidate_answer": "at the same time",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:15:25.779Z"
+    "created_at": "2026-09-10T07:15:25.779Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "41479b807cd7290fda6915ca22aebffad3de3a89e0955f1ac99f07b801fa5da0",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. keep calm",
+    "candidate_answer": "keep calm",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:15:25.787Z"
+    "created_at": "2026-09-10T07:15:25.787Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0296c1d425cb56b246a9c622043f54c9aa3645bda224907cd3567e597405c9c2",
@@ -49,9 +51,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. border",
+    "candidate_answer": "border",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:15:25.788Z"
+    "created_at": "2026-09-10T07:15:25.788Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "19dfc7b3da295dfc7bcb5dfe7cc69ba128e3b7e88c9356dd86c9e3c7617ad7af",
@@ -67,9 +70,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. To become an investigative journalist, and return to her country to negotiate with the Taliban",
+    "candidate_answer": "To become an investigative journalist, and return to her country to negotiate with the Taliban",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:15:25.789Z"
+    "created_at": "2026-09-10T07:15:25.789Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "9bec7119ae4bec28a2037322478c6ab5f982964d1d1a35b45add192f500c3a95",
@@ -85,8 +89,9 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. struggle",
+    "candidate_answer": "struggle",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T07:15:25.789Z"
+    "created_at": "2026-09-10T07:15:25.789Z",
+    "review_state": "candidate_ready"
   }
 ]

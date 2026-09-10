@@ -15,14 +15,15 @@
     "previous_answer": null,
     "candidate_answer": "不同的棲地環境孕育相同的生物資源",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.733Z"
+    "created_at": "2026-09-10T10:57:58.733Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a5cfe863162f5fd67624c6ec894656f139d2c385c4f6dc796c127ae45e99abc5",
     "question": "不當的漁法及濫捕會對海洋生造成何種影響？",
     "options": [
-      "棲息地短期的破壞影響族群量",
-      "會混獲到大量其他不需要的物種",
+      "棲息地短期的破壞影響族群量",
+      "會混獲到大量其他不需要的物種",
       "造成其他物種資源的更新補充",
       "以上皆非"
     ],
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "會混獲到大量其他不需要的物種",
+    "candidate_answer": "會混獲到大量其他不需要的物種",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.736Z"
+    "created_at": "2026-09-10T10:57:58.736Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "891507af5255851f70cdae99d95969cef164bee8ea2c4d9360ea0c999aa27180",
@@ -51,7 +53,8 @@
     "previous_answer": null,
     "candidate_answer": "岩岸",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.737Z"
+    "created_at": "2026-09-10T10:57:58.737Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f43342412cb067d61879bc0d3a1af024ae782fe347949f0417c97015213af5dc",
@@ -69,7 +72,8 @@
     "previous_answer": null,
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.738Z"
+    "created_at": "2026-09-10T10:57:58.738Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f120f0d9043da4291cca46ae9cfc3bbed2106e64bc3ce68b50d9a21ecd8559d4",
@@ -87,7 +91,8 @@
     "previous_answer": null,
     "candidate_answer": "沙岸",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.739Z"
+    "created_at": "2026-09-10T10:57:58.739Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0c8530fd1b1715e46842e6c2e4af32cf6dc719577c8174a6373445d4d8944510",
@@ -105,7 +110,8 @@
     "previous_answer": null,
     "candidate_answer": "沙岸",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.739Z"
+    "created_at": "2026-09-10T10:57:58.739Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "dc34ef0645b2057a9873b9c69fc02072461c16bb2df0b79635fec79817f245e9",
@@ -123,7 +129,8 @@
     "previous_answer": null,
     "candidate_answer": "建構碳酸鈣的環境棲地",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.740Z"
+    "created_at": "2026-09-10T10:57:58.740Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "50c904ae0d2a7585a236417019b6d993bbcaf98aba04bfb4cfb625260ce05b0e",
@@ -139,9 +146,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "潟湖",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:57:58.741Z"
+    "created_at": "2026-09-10T10:57:58.741Z",
+    "review_state": "awaiting_candidate"
   },
   {
     "id": "69d57687144a34209027f72eeef3a89c969a22fe7d921ff41c20d72ed166ea02",
@@ -157,9 +165,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 適應環境能力高",
+    "candidate_answer": "適應環境能力高",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:58:31.487Z"
+    "created_at": "2026-09-10T10:58:31.487Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "47cca9e659988dfca934086b32b6847ca03e06b7eb1abfb5f65ef35f7723bf76",
@@ -175,9 +184,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 物種多樣性",
+    "candidate_answer": "物種多樣性",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:58:31.490Z"
+    "created_at": "2026-09-10T10:58:31.490Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "448b563de585ec787116b38506c13ccb7b7fc9c186e0409d0ad49b4ffca397c5",
@@ -193,9 +203,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 潟湖",
+    "candidate_answer": "潟湖",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:58:31.491Z"
+    "created_at": "2026-09-10T10:58:31.491Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e3766d744a2287ef776295c6fe5f3963c7619a20af2e3a5c0ce5de8687cbab96",
@@ -211,9 +222,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 遺傳多樣性低",
+    "candidate_answer": "遺傳多樣性低",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:58:31.493Z"
+    "created_at": "2026-09-10T10:58:31.493Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "142559eeb7b8849e436168a938cef6a94060a30cf7e5cf63e35d12b002b4830e",
@@ -231,6 +243,7 @@
     "previous_answer": null,
     "candidate_answer": "沙岸",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T10:59:02.067Z"
+    "created_at": "2026-09-10T10:59:02.067Z",
+    "review_state": "candidate_ready"
   }
 ]

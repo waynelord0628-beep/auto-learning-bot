@@ -15,7 +15,8 @@
     "previous_answer": null,
     "candidate_answer": "triangles",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.226Z"
+    "created_at": "2026-09-10T08:25:23.226Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1c5549c10f52b40e6b41ce2a8485e172876ca22ca326eb20d94d34894412bc27",
@@ -33,7 +34,8 @@
     "previous_answer": null,
     "candidate_answer": "shrink",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.227Z"
+    "created_at": "2026-09-10T08:25:23.227Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f1cd1ec8d87bb02237b62af7da375cd08edf1b1b5d3f56dbe5afb7fa915897f6",
@@ -51,14 +53,15 @@
     "previous_answer": null,
     "candidate_answer": "doubtful",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.228Z"
+    "created_at": "2026-09-10T08:25:23.228Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "3bca7f05b0b02bdd7c901adead4cef351b02facf08e1be886cfe935b16e35455",
     "question": "你可以使用這個產品將家裡除臭。可英譯為：You can use this product to stop from terrible smells in your home.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "看懂標籤　洗衣不再失誤！",
@@ -67,7 +70,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.229Z"
+    "created_at": "2026-09-10T08:25:23.229Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "4b25f9168239a9b25353d8b35892b32e3ca8a0388355e044b615c6cc01fa8edc",
@@ -85,7 +89,8 @@
     "previous_answer": null,
     "candidate_answer": "blouse",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.229Z"
+    "created_at": "2026-09-10T08:25:23.229Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "8ce65f5e04a27cf5fa8a1c68b7c0eda44a23f1ebdb87fe59ff83dce50b1b5594",
@@ -103,7 +108,8 @@
     "previous_answer": null,
     "candidate_answer": "temperature",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.230Z"
+    "created_at": "2026-09-10T08:25:23.230Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e5950d632cc96dd3c9f090f13b59244ef0ddbdacc0ab751146ca409947948a03",
@@ -121,7 +127,8 @@
     "previous_answer": null,
     "candidate_answer": "labels",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.231Z"
+    "created_at": "2026-09-10T08:25:23.231Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "c8a5e6f12a6ff2e2dc045a2a0ef4028d46548adaa830de0a37507c693ebcd0ca",
@@ -139,7 +146,8 @@
     "previous_answer": null,
     "candidate_answer": "laundry",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.232Z"
+    "created_at": "2026-09-10T08:25:23.232Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "7305196cd2107e0c76616c477babb76d52d41379e50633ea0a554466f9df5fb1",
@@ -157,14 +165,15 @@
     "previous_answer": null,
     "candidate_answer": "ruined",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.235Z"
+    "created_at": "2026-09-10T08:25:23.235Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "0830a5deab41246647dc010af93dc56f159fc39461909b72a8ff298de69aab86",
     "question": "坎蒂絲會在週末到爸媽開的餐廳幫忙來賺一些外快。可英譯為：Candace helps out in her parents’ restaurant on the weekends for some extra money.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "看懂標籤　洗衣不再失誤！",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T08:25:23.236Z"
+    "created_at": "2026-09-10T08:25:23.236Z",
+    "review_state": "candidate_ready"
   }
 ]

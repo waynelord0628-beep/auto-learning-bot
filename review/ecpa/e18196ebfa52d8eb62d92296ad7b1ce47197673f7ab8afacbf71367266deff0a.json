@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2022年",
+    "candidate_answer": "1. 2022年",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.000Z"
+    "created_at": "2026-09-10T12:04:30.000Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a5ed90f94e5060dcb9aac3cb7ef6c6a70dcf946b8c102d99a28c84d4a282eccb",
@@ -31,9 +32,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋環境保護",
+    "candidate_answer": "3. 海洋環境保護",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.005Z"
+    "created_at": "2026-09-10T12:04:30.005Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "928422611dcb23f8c41069f1fc30b2ebe4188578f28482777e8fdec302bfa29d",
@@ -51,7 +53,8 @@
     "previous_answer": null,
     "candidate_answer": "海洋藍碳",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.008Z"
+    "created_at": "2026-09-10T12:04:30.008Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "f76bde18fd66a60dd13b83fffecf4dce0c0fa69784b4d3a91ea55b6b57223d9e",
@@ -69,7 +72,8 @@
     "previous_answer": null,
     "candidate_answer": "海洋礦資源",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.015Z"
+    "created_at": "2026-09-10T12:04:30.015Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "7ad3d30ab218ddffd727eb8c5142d1a0cf64bbecfc59e20f2e8975c2982d0ea8",
@@ -87,7 +91,8 @@
     "previous_answer": null,
     "candidate_answer": "建構海洋資料庫",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.021Z"
+    "created_at": "2026-09-10T12:04:30.021Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "38527d1283740e8d142f9368e75e0e14c5b71962dfe68514bef8872cf49910d2",
@@ -103,9 +108,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "12",
+    "candidate_answer": "2. 12",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.026Z"
+    "created_at": "2026-09-10T12:04:30.026Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "78fcace1dff4ab5acae0e2cc7b1f5bce4fb53bb8acfb2bfacc171dcf5b84eb0b",
@@ -121,9 +127,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2023年1月1日",
+    "candidate_answer": "1. 2023年1月1日",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.027Z"
+    "created_at": "2026-09-10T12:04:30.027Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "ae8e17c555b2f0d9be83c287b4b9981a676ee81307e54b30768daf78abd6ce28",
@@ -139,9 +146,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。",
+    "candidate_answer": "1. 指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.031Z"
+    "created_at": "2026-09-10T12:04:30.031Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "1bad24a24c0ce8fa43dcd952344943597cb94f60c56802e19e5783e1d56c1f72",
@@ -159,7 +167,8 @@
     "previous_answer": null,
     "candidate_answer": "聯合國海洋法公約下國家管轄外區域海洋生物多樣性保育及永續利用協定",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:04:30.033Z"
+    "created_at": "2026-09-10T12:04:30.033Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "52adc27ce0fd67468f2ac68ad3cfb30d4e37d1b795d05df5163a15967631ad9a",
@@ -177,7 +186,8 @@
     "previous_answer": null,
     "candidate_answer": "海洋漁業與養殖",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:05:04.109Z"
+    "created_at": "2026-09-10T12:05:04.109Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "91a01b754712161adc868ae7b54f4fbbd40aec849b9af22d6a1ee10c00ac53ea",
@@ -195,7 +205,8 @@
     "previous_answer": null,
     "candidate_answer": "5月20日",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:05:04.117Z"
+    "created_at": "2026-09-10T12:05:04.117Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "7e4eb4270133430c726bc928df6c57bd5b091d97903889eba44a8676e55a5760",
@@ -213,7 +224,8 @@
     "previous_answer": null,
     "candidate_answer": "藍色經濟",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:05:04.122Z"
+    "created_at": "2026-09-10T12:05:04.122Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "d109288ad55cea9660eb930ea59ad79b3ac2f0040f35f4b81939dba06d06561f",
@@ -231,7 +243,8 @@
     "previous_answer": null,
     "candidate_answer": "海洋運輸及輔助、海洋能源、海洋漁業與養殖",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:05:04.123Z"
+    "created_at": "2026-09-10T12:05:04.123Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "9008d21f57b52910262ec89e009901b4e6359105a7913f0e3e7a7775fd614cc4",
@@ -249,6 +262,7 @@
     "previous_answer": null,
     "candidate_answer": "經濟(Economical)",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T12:05:04.124Z"
+    "created_at": "2026-09-10T12:05:04.124Z",
+    "review_state": "candidate_ready"
   }
 ]

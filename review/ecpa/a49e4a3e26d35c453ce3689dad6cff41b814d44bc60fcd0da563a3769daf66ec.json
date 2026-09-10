@@ -15,14 +15,15 @@
     "previous_answer": null,
     "candidate_answer": "consumers",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.441Z"
+    "created_at": "2026-09-10T09:50:01.441Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e8804be1c4e812f0f19502c8f1d83902b9687f9f710aada10439aff111ef9415",
     "question": "海倫回家的時候發現她的狗狗正在前門等著她。可英譯為：Helen found her dog waiting at the front door when she returned home.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "得來「速」還是得來「塑」？如何解決外送服務的環保問題？",
@@ -31,7 +32,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.442Z"
+    "created_at": "2026-09-10T09:50:01.442Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "2f1ab77193dd6a7c6e7bd4753289768681673b06afa54a4be3c30f9e6dd1a1c9",
@@ -49,7 +51,8 @@
     "previous_answer": null,
     "candidate_answer": "regular",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.443Z"
+    "created_at": "2026-09-10T09:50:01.443Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "29f0ef652fbc45ccb1c2f8ee6772255978adf72bf03ce37cae6f61efafd7bc3a",
@@ -67,7 +70,8 @@
     "previous_answer": null,
     "candidate_answer": "evidence",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.443Z"
+    "created_at": "2026-09-10T09:50:01.443Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "9cddc963bbc400e6d6bc12564df61d9edd4b09095c661e6d03848f87160d0b7f",
@@ -85,14 +89,15 @@
     "previous_answer": null,
     "candidate_answer": "options",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.444Z"
+    "created_at": "2026-09-10T09:50:01.444Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "506c1fa6973370518912a68d8728f1349bf5b0ea2b3c18f53c33844e826f1f8f",
     "question": "珊迪的金飾和口紅讓她的造型看起來更加貴氣。可英譯為：Sandy's gold jewelry and lipstick added to her already expensive look.",
     "options": [
-      "",
-      ""
+      "正確",
+      "錯誤"
     ],
     "type": "是非",
     "course": "得來「速」還是得來「塑」？如何解決外送服務的環保問題？",
@@ -101,7 +106,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.445Z"
+    "created_at": "2026-09-10T09:50:01.445Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "738d574297c54d15909de79588b64ad6736621dbe6b2e4aecc04ccb3725eed3f",
@@ -119,7 +125,8 @@
     "previous_answer": null,
     "candidate_answer": "product",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.445Z"
+    "created_at": "2026-09-10T09:50:01.445Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "42914da2097bcfe43d334759fcf4022e101f3e0615ac1f71017fb6a7821afa82",
@@ -137,7 +144,8 @@
     "previous_answer": null,
     "candidate_answer": "significantly",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.446Z"
+    "created_at": "2026-09-10T09:50:01.446Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "45b5a60029975dda10294361cb197a9122e628f7e06d6d831f2a26f07a618d66",
@@ -155,7 +163,8 @@
     "previous_answer": null,
     "candidate_answer": "environmental",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.446Z"
+    "created_at": "2026-09-10T09:50:01.446Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "bbb475a7c032da3e19d8ea417edea9a616457be40a143ef59ed90665fe319c78",
@@ -173,6 +182,7 @@
     "previous_answer": null,
     "candidate_answer": "reviews",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T09:50:01.447Z"
+    "created_at": "2026-09-10T09:50:01.447Z",
+    "review_state": "candidate_ready"
   }
 ]
