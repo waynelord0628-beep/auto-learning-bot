@@ -13,9 +13,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 控制體重和血壓在正常範圍",
+    "candidate_answer": "控制體重和血壓在正常範圍",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.511Z"
+    "created_at": "2026-09-10T14:24:08.511Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "52fb48d9f7b3e023e9bda600abf8a38c8dabeb1bca565d9672e22a81237dbd9f",
@@ -31,7 +32,8 @@
     "previous_answer": null,
     "candidate_answer": "正確",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.512Z"
+    "created_at": "2026-09-10T14:24:08.512Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "5a0dbffbefd8f4ed5c78572abfd923fb5063d83a7759a9ab6ad8b0f1db757693",
@@ -47,9 +49,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 老化一定會失智，這是無法避免的。 2. 失智症只有65歲以上的長者才會得。 4. 巴金森氏症是目前最常見的失智症類型。",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.514Z"
+    "created_at": "2026-09-10T14:24:08.514Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "1. 老化一定會失智，這是無法避免的。 2. 失智症只有65歲以上的長者才會得。 4. 巴金森氏症是目前最常見的失智症類型。"
   },
   {
     "id": "f9db051151cbf4a31509cc66b7d6dabc8c3a29147d598511ca6898669bdd3fea",
@@ -65,9 +69,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 戒菸、不再過量飲酒",
+    "candidate_answer": "戒菸、不再過量飲酒",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.515Z"
+    "created_at": "2026-09-10T14:24:08.515Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "955bcad9b84e31614fc530d101f100cf5477bc56b051e948ffecff9a30c35d11",
@@ -83,9 +88,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 及早帶先生去醫院檢查。",
+    "candidate_answer": "及早帶先生去醫院檢查。",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.515Z"
+    "created_at": "2026-09-10T14:24:08.515Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "56e82b96414a94ba97b450d98dbc457632e298475d5b48920131654573e80459",
@@ -101,9 +107,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 阿茲海默型失智症",
+    "candidate_answer": "阿茲海默型失智症",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.516Z"
+    "created_at": "2026-09-10T14:24:08.516Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "d94adb3d3d3da239a5eb299671ff88188a30dda1075bbedf1f052a96081aaec7",
@@ -119,7 +126,8 @@
     "previous_answer": null,
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.517Z"
+    "created_at": "2026-09-10T14:24:08.517Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "ab7db2e72ba1dfee63c8d1b665efc9644406e6c48a252d888a08054840932730",
@@ -135,9 +143,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 長期暴露於空氣污染中 3. 有白內障和重聽卻不治療 4. 時常參加賽車、拳擊等運動不做防護",
+    "candidate_answer": null,
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.517Z"
+    "created_at": "2026-09-10T14:24:08.517Z",
+    "review_state": "awaiting_multiselect_support",
+    "original_candidate_answer": "2. 長期暴露於空氣污染中 3. 有白內障和重聽卻不治療 4. 時常參加賽車、拳擊等運動不做防護"
   },
   {
     "id": "0bc2d0272a520767aedae54018a866cbfb1758d9f08f6d454cf3bd3c130d1e57",
@@ -153,9 +163,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 時常補充低密度脂蛋白(LDL)",
+    "candidate_answer": "時常補充低密度脂蛋白(LDL)",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.519Z"
+    "created_at": "2026-09-10T14:24:08.519Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "e68562fae535ec6149ead275241a1d549e7306d5bc12c0dc6f750f4692a5d00c",
@@ -171,9 +182,10 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4. 能延緩病情進展並保存較多的認知與生活功能",
+    "candidate_answer": "能延緩病情進展並保存較多的認知與生活功能",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:08.520Z"
+    "created_at": "2026-09-10T14:24:08.520Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "3115b4a1f32aee2474df8105b09934aef8c5fa48b702d64c7e95ebd1bbba549e",
@@ -191,7 +203,8 @@
     "previous_answer": null,
     "candidate_answer": "7.99%",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:43.946Z"
+    "created_at": "2026-09-10T14:24:43.946Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a00c79d8c5f389b4d5fcf1755ec991fc674cf831f7990ba9f7eebe4917e02c76",
@@ -209,7 +222,8 @@
     "previous_answer": null,
     "candidate_answer": "情緒起伏大，容易焦慮或易怒",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:43.948Z"
+    "created_at": "2026-09-10T14:24:43.948Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "958e14929bd4796c5d676833ab814825a95ddb0cee342829356da6d2d89b06ba",
@@ -227,7 +241,8 @@
     "previous_answer": null,
     "candidate_answer": "延緩病情惡化，改善生活品質",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:43.950Z"
+    "created_at": "2026-09-10T14:24:43.950Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "a8235106157a3dcef59bb0b7290e28cb646d94262b21c81397eca747f115440f",
@@ -245,7 +260,8 @@
     "previous_answer": null,
     "candidate_answer": "否，目前還無法完全治癒",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:24:43.951Z"
+    "created_at": "2026-09-10T14:24:43.951Z",
+    "review_state": "candidate_ready"
   },
   {
     "id": "c4fc77f2954f97e40695503359211994fdb486697f748e79de77c33d05135387",
@@ -263,6 +279,7 @@
     "previous_answer": null,
     "candidate_answer": "都會增加風險",
     "source": "ai_unverified",
-    "created_at": "2026-09-10T14:25:13.547Z"
+    "created_at": "2026-09-10T14:25:13.547Z",
+    "review_state": "candidate_ready"
   }
 ]
