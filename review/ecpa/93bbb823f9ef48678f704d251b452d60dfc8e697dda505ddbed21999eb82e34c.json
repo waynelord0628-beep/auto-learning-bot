@@ -241,10 +241,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "天劍飛彈",
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:14.613Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-11T19:19:38.950Z"
   },
   {
     "id": "ed9e649dc868455b8022378967ea51d3e408d2d42a7905c71cbd02f97efd386d",
