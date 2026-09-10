@@ -174,5 +174,76 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.469Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b93c8cdf9d7d10e625e9552bd52f9e919256dd4d6b08b2d008fe7706e3b698cd",
+    "question": "下列兵工廠何者是於清朝「洋務運動」期間所成立？",
+    "options": [
+      "江南製造局",
+      "漢陽兵工廠",
+      "金陵機器製造局",
+      "太原兵工廠"
+    ],
+    "type": "多選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:14.609Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "08d775134c3b7eeedb9b020afb3c6e4f97efa35e75429ffdc60b033124e234c8",
+    "question": "清朝於西元1794~1857年間暢行「師夷長技以制夷」之目的在於學習國外先進的科學技術以抵禦外國的侵略，使中國走上富強的道路。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:14.612Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "851b4fa28d73d8c10fc6524eb1a2a62f63e0c5d4075481cd84de8368ad126fc9",
+    "question": "「銳利的武器沒有辦法永遠銳利」提醒我們要不斷開發新技術以因應未來新型態軍事衝突威脅。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:14.612Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d466949839c208997ee6cc85c7e60f2b9dfd6dfca0b36895f7a6a681916518da",
+    "question": "我國發展之第一款自製之空對空飛彈名稱為何?",
+    "options": [
+      "響尾蛇飛彈",
+      "魔法飛彈",
+      "天劍飛彈"
+    ],
+    "type": "單選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T16:11:14.613Z",
+    "review_state": "awaiting_candidate"
   }
 ]
