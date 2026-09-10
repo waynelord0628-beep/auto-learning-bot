@@ -225,5 +225,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:46.159Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f042c7f75ed7a6affdf7bd50df74eb8ce5809e658024fdbb7acf682b4167b5aa",
+    "question": "公務人員登記為公職候選人者，應在那段期間，依規定請事假或休假？",
+    "options": [
+      "自登記競選之日起至投票日止",
+      "自競選活動開始之日起至就職日止",
+      "自候選人名單公告之日起至投票日止",
+      "自競選活動開始之日起至投票日止"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立法與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自登記競選之日起至投票日止",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T17:18:50.725Z",
+    "review_state": "candidate_ready"
   }
 ]
