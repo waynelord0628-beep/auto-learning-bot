@@ -41,3 +41,6 @@ env/
 # 系統
 .DS_Store
 Thumbs.db
+
+# Local anonymous usage identity
+usage_state.json

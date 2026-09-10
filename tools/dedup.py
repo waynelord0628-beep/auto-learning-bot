@@ -27,11 +27,13 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() in (
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT_DIR, "questions.db")
 
 
 def main():
+    if not os.path.isfile(DB_PATH):
+        raise FileNotFoundError(f"找不到題庫：{DB_PATH}")
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
 

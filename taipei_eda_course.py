@@ -41,15 +41,20 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoAlertPresentException, UnexpectedAlertPresentException
 
 from quiz_bank import do_quiz_with_bank, do_feedback
+from utils.playback_wait import wait_with_heartbeat
 
 urllib3.disable_warnings()
 
 _ACTIVE_DRIVER = None
+_ACTIVE_OWNER = None
 
-def force_close_active_driver():
-    global _ACTIVE_DRIVER
+def force_close_active_driver(owner=None):
+    global _ACTIVE_DRIVER, _ACTIVE_OWNER
+    if _ACTIVE_OWNER is not owner:
+        return
     driver = _ACTIVE_DRIVER
     _ACTIVE_DRIVER = None
+    _ACTIVE_OWNER = None
     if driver is not None:
         try:
             driver.quit()
@@ -185,7 +190,7 @@ def pause_and_mute_media(driver):
 
 # 登入
 
-def do_login(driver, wait, username='T124478221', password='A870628a'):
+def do_login(driver, wait, username, password):
     driver.get('https://elearning.taipei/mpage/login')
     wait.until(EC.presence_of_element_located((By.ID, 'pid')))
     time.sleep(0.8)
@@ -705,11 +710,15 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
             dismiss_alerts(driver)
             pause_and_mute_media(driver)
 
-            st = time.time()
-            while should_continue() and time.time() - st < RESIDENCE_TIME:
-                time.sleep(1)
+            def update_player():
                 pause_and_mute_media(driver)
                 deep_commit(driver)
+
+            if not wait_with_heartbeat(
+                RESIDENCE_TIME, should_continue, update_player,
+                interval=config.get('playback_poll_interval', 5),
+            ):
+                return False
 
             if is_chapter_done(driver, scoid):
                 print('      ✅ 單元已完成')
@@ -785,7 +794,7 @@ def _release_taipei_run_lock(lock_path):
 
 
 
-def run_taipei_eda(config_override=None, should_continue=None, log_callback=None):
+def run_taipei_eda(config_override=None, should_continue=None, log_callback=None, owner=None):
     """Run the Taipei E-learning workflow from the GUI/back-end dispatcher."""
     should_continue = should_continue or (lambda: True)
     config = load_config()
@@ -808,6 +817,8 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
     driver = None
     lock_path = _acquire_taipei_run_lock()
     if lock_path is None:
+        if log_callback:
+            sys.stdout = original_stdout
         return False
     try:
         if config_override:
@@ -822,13 +833,15 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
         opts = Options()
         if config.get('headless', False):
             opts.add_argument('--headless=new')
-        opts.add_argument('--disable-gpu')
+        if config.get('disable_gpu', False):
+            opts.add_argument('--disable-gpu')
         opts.add_argument('--mute-audio')
         opts.add_argument('--no-sandbox')
 
         driver = webdriver.Chrome(options=opts)
-        global _ACTIVE_DRIVER
+        global _ACTIVE_DRIVER, _ACTIVE_OWNER
         _ACTIVE_DRIVER = driver
+        _ACTIVE_OWNER = owner
         driver.set_window_size(1400, 900)
         wait = WebDriverWait(driver, 20)
 
@@ -928,7 +941,7 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
         print('\n完成！')
         return not stopped
     finally:
-        force_close_active_driver()
+        force_close_active_driver(owner=owner)
         _release_taipei_run_lock(lock_path)
         if log_callback:
             sys.stdout = original_stdout

@@ -45,6 +45,8 @@ from colorama import Fore, Style, init
 
 from utils.helpers import get_logger, to_sec, sec_to_str, draw_bar
 from utils.webdriver_mgr import download_best_chromedriver
+from utils.playback_wait import wait_with_heartbeat
+from utils.media_playback import start_unstarted_video
 
 # 禁用冗長日誌與警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -84,15 +86,12 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.8"
+    VERSION = "V2.1.9"
     CHANGELOG = (
-        "‧ 僅處理開放式課程，自動略過微學習/SPOC/專班等非開放式課程\n"
-        "‧ 課程清單低筆數保護：同步 session 後重抓，降低漏課機率\n"
-        "• Gemini 模型更新：優先使用 gemini-3.1-flash-lite（免費額度較高）\n"
-        "• 缺題回報改為背景執行，不再影響考試流程\n"
-        "• 缺題通知顯示使用者姓名，方便辨識\n"
-        "• 更新提示恢復優先從 GitHub Release 下載\n"
-        "• 新增匿名使用統計與在線人數顯示"
+        "• 新增入口一鍵更新，下載完成後自動重新啟動\n"
+        "• 改善上課播放穩定性與部分課程單元切換\n"
+        "• 改善操作流暢度與任務啟動、停止流程\n"
+        "• 改善部分題型作答相容性，減少重複通知"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -123,7 +122,7 @@ class AdminEfficiencyPilot:
 
         # ⭐ 調試：打印最終配置（遮蔽敏感欄位）
         logger.info(f"📋 最終配置: headless={self.config.get('headless', True)}")
-        _safe_settings = {k: ("***" if "key" in k.lower() or "password" in k.lower() else v) for k, v in self.config.get('settings', {}).items()}
+        _safe_settings = {k: self.config.get("settings", {}).get(k) for k in ("headless", "disable_gpu", "login_type", "ai_provider")}
         logger.info(f"📋 settings={_safe_settings}")
 
         self.version = self.VERSION
@@ -255,6 +254,8 @@ class AdminEfficiencyPilot:
         self.total_courses = 0
         self._driver_service = None
         self._managed_pids = set()
+        self._managed_process_times = {}
+        self._cleanup_lock = threading.Lock()
         self.log_callback = log_callback
         self.running = True  # 停止開關
         self._exam_fail_counts = {}  # course_id → 不及格次數
@@ -281,7 +282,8 @@ class AdminEfficiencyPilot:
         self.log_file = os.path.join(base_dir, "debug.log")
 
         if not any(isinstance(h, logging.FileHandler) for h in logger.handlers):
-            fh = logging.FileHandler(self.log_file, mode="w", encoding="utf-8")
+            from logging.handlers import RotatingFileHandler
+            fh = RotatingFileHandler(self.log_file, maxBytes=8 * 1024 * 1024, backupCount=3, encoding="utf-8")
             fh.setFormatter(
                 logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
             )
@@ -289,13 +291,14 @@ class AdminEfficiencyPilot:
 
         # 無論怎麼結束（Ctrl+C、關視窗、正常結束）都會清理
         atexit.register(self._cleanup)
-        signal.signal(signal.SIGTERM, lambda *_: self._cleanup())
-        try:
-            signal.signal(
-                signal.SIGBREAK, lambda *_: self._cleanup()
-            )  # Windows Ctrl+Break
-        except (AttributeError, OSError):
-            pass
+        if threading.current_thread() is threading.main_thread():
+            signal.signal(signal.SIGTERM, lambda *_: self._cleanup())
+            try:
+                signal.signal(
+                    signal.SIGBREAK, lambda *_: self._cleanup()
+                )  # Windows Ctrl+Break
+            except (AttributeError, OSError):
+                pass
 
         # GAS 題庫靜默背景同步（啟動時）
         _t = threading.Thread(target=self._update_db_from_gas, daemon=True, name="GAS-DB-Sync")
@@ -381,55 +384,34 @@ class AdminEfficiencyPilot:
             pass
         self._keep_awake_stop.set()
 
-    def _cleanup(self):
+    def _cleanup(self, stop=True):
         """統一清理入口，重複呼叫安全（atexit/signal/finally 都指向這裡）。"""
-        self.running = False
-        self._stop_keep_awake()
-        if self.config.get("login_type") == "taipei_eda":
-            try:
-                from taipei_eda_course import force_close_active_driver
-                force_close_active_driver()
-            except Exception:
-                pass
-        if self.driver:
-            try:
-                self.driver.quit()
-            except Exception:
-                pass
-            self.driver = None
-        self._kill_managed_processes()
+        with self._cleanup_lock:
+            if stop:
+                self.running = False
+                self._stop_keep_awake()
+            if self.config.get("login_type") == "taipei_eda":
+                try:
+                    from taipei_eda_course import force_close_active_driver
+                    force_close_active_driver(owner=self)
+                except Exception:
+                    pass
+            if self.driver:
+                try:
+                    self.driver.quit()
+                except Exception:
+                    pass
+                self.driver = None
+            self._kill_managed_processes()
+            if stop:
+                session = getattr(self, "http_session", None)
+                if session is not None:
+                    session.close()
+
 
     def kill_orphan_drivers(self):
-        """
-        啟動前清理：只殺「孤立的 chromedriver」。
-        判斷標準：行程名稱是 chromedriver，但父行程不是本程式（即上次執行殘留的）。
-        完全不碰使用者自己開的 chrome.exe。
-        """
-        my_pid = os.getpid()
-        killed = []
-        for proc in psutil.process_iter(["pid", "name", "ppid"]):
-            try:
-                name = (proc.info["name"] or "").lower()
-                if "chromedriver" not in name:
-                    continue
-                # 父行程不是本程式 → 視為上次殘留的孤立 driver
-                if proc.info["ppid"] != my_pid:
-                    # 連同它啟動的 chrome 子行程一起清掉
-                    for child in proc.children(recursive=True):
-                        try:
-                            child.kill()
-                            killed.append(f"{child.name()}(PID {child.pid})")
-                        except (psutil.NoSuchProcess, psutil.AccessDenied):
-                            pass
-                    proc.kill()
-                    killed.append(f"{proc.name()}(PID {proc.pid})")
-            except (psutil.NoSuchProcess, psutil.AccessDenied):
-                pass
-        if killed:
-            logger.info(f"🧹 已清除孤立 driver 行程：{', '.join(killed)}")
-            time.sleep(0.5)
-        else:
-            logger.info("✅ 無殘留 driver 行程。")
+        """Only clean drivers owned by this instance; another parent is not an orphan."""
+        self._kill_managed_processes()
 
     def _kill_managed_processes(self):
         """結束時清理：只殺本次自己記錄的 PID 樹，不影響使用者其他 Chrome。"""
@@ -438,6 +420,8 @@ class AdminEfficiencyPilot:
         for pid in list(self._managed_pids):
             try:
                 proc = psutil.Process(pid)
+                if proc.create_time() != self._managed_process_times.get(pid):
+                    continue  # PID has been reused, or ownership was never recorded.
                 for child in proc.children(recursive=True):
                     try:
                         child.kill()
@@ -449,6 +433,7 @@ class AdminEfficiencyPilot:
             except (psutil.NoSuchProcess, psutil.AccessDenied):
                 pass
         self._managed_pids.clear()
+        self._managed_process_times.clear()
         time.sleep(0.5)
 
     @staticmethod
@@ -596,6 +581,9 @@ class AdminEfficiencyPilot:
                 else:
                     answer = resp.json()["choices"][0]["message"]["content"].strip()
 
+                if not re.fullmatch(r"[1-9][0-9]*", answer) or not 1 <= int(answer) <= len(cleaned_options):
+                    logger.warning(f"   ⚠️ AI [{model}] 回覆不是有效選項編號，嘗試下一個模型")
+                    continue
                 logger.info(f"   🤖 AI 補充答案（{model}）：{answer!r}")
                 return answer
 
@@ -668,6 +656,7 @@ class AdminEfficiencyPilot:
 
         格式：[{"question":"...","answer":"...","options":["A","B","C","D"],...}, ...]
         """
+        conn = None
         try:
             logger.info("📥 正在從雲端同步最新題庫（背景）...")
             resp = requests.get(
@@ -699,6 +688,7 @@ class AdminEfficiencyPilot:
             """)
             added = 0
             updated = 0
+            pending_memory = {}
             for item in data:
                 q = (item.get("question") or "").strip()
                 a = (item.get("answer") or "").strip()
@@ -711,10 +701,10 @@ class AdminEfficiencyPilot:
                 oc = (opts[2] if len(opts) > 2 else item.get("option_c") or "").strip()
                 od = (opts[3] if len(opts) > 3 else item.get("option_d") or "").strip()
                 existing = conn.execute(
-                    "SELECT id, answer FROM questions WHERE question = ?", (q,)
+                    "SELECT id, answer, option_a, option_b, option_c, option_d FROM questions WHERE question = ?", (q,)
                 ).fetchone()
                 if existing:
-                    if existing[1] != a:
+                    if tuple(value or "" for value in existing[1:]) != (a, oa, ob, oc, od):
                         conn.execute(
                             "UPDATE questions SET answer=?, option_a=?, option_b=?, option_c=?, option_d=? WHERE question=?",
                             (a, oa, ob, oc, od, q),
@@ -726,24 +716,28 @@ class AdminEfficiencyPilot:
                         (q, oa, ob, oc, od, a),
                     )
                     added += 1
-                # 同步記憶體 _answer_map
+                # Publish only after the entire database transaction succeeds.
                 nk = _normalize_q(q)
                 if nk:
-                    if nk not in self._answer_map:
-                        self._answer_keys.append(nk)
-                    self._answer_map[nk] = {
+                    pending_memory[nk] = {
                         "answer": a,
                         "options": [o for o in [oa, ob, oc, od] if o],
                         "question": q,
                     }
             conn.commit()
-            conn.close()
+            # Update existing containers: callers may hold references to them.
+            new_keys = [key for key in pending_memory if key not in self._answer_map]
+            self._answer_map.update(pending_memory)
+            self._answer_keys.extend(new_keys)
             logger.info(
                 f"📥 GAS 題庫同步完成：新增 {added} 題，更新 {updated} 題"
                 f"，記憶體共 {len(self._answer_map)} 題"
             )
         except Exception as e:
             logger.warning(f"📥 GAS 題庫同步失敗（不影響本機題庫）: {e}")
+        finally:
+            if conn is not None:
+                conn.close()
 
     def _accept_alert(self):
         """若有 alert/confirm 對話框則點確定，無則跳過"""
@@ -755,178 +749,162 @@ class AdminEfficiencyPilot:
             return False
 
     def _harvest_correct_answers(self, view_result_url: str) -> dict:
-        """
-        從 view_result.php 頁面讀取正確答案。
-        流程：
-          1. 取得 queryStr 和 isReadAnswer（JS 變數）
-          2. 若 isReadAnswer != '1'，用 http_session GET set_see_question_result.php
-          3. reload 後，找每題 span[style*='background-color: green'] input → 取 value
-          4. 回傳 {題目關鍵字: 答案value} dict（可能為空）
-        """
-        result = {}
+        """Read an already disclosed key; never request disclosure or end retries."""
         try:
-            # 確認在正確視窗
-            time.sleep(1)
-            query_str = self.driver.execute_script(
-                "try { return typeof queryStr !== 'undefined' ? queryStr : null; } catch(e) { return null; }"
+            if "view_result" not in self.driver.current_url:
+                return {}
+            data = self.driver.execute_script("""
+                if (typeof isReadAnswer === 'undefined' || String(isReadAnswer) !== '1') return [];
+                return Array.from(document.querySelectorAll('tr.bg03.font01, tr.bg04.font01')).map(row => {
+                    const p = row.querySelector('p');
+                    const spans = Array.from(row.querySelectorAll('span')).filter(span =>
+                        ['green', 'rgb(0, 128, 0)'].includes(span.style.backgroundColor) && span.querySelector('input'));
+                    const controls = Array.from(row.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
+                    const optionText = control => {
+                        const value = control.value.toUpperCase();
+                        if (value === 'T') return '正確';
+                        if (value === 'F') return '錯誤';
+                        const li = control.closest('li');
+                        return li ? li.innerText.trim() : '';
+                    };
+                    return {question: p ? p.innerText.trim() : '',
+                        options: controls.map(optionText),
+                        type: controls.some(c => c.type === 'checkbox') ? '多選' :
+                            (controls.length === 2 && controls.every(c => ['T', 'F'].includes(c.value.toUpperCase())) ? '是非' : '單選'),
+                        answers: spans.map(span => {
+                        const value = span.querySelector('input').value.toUpperCase();
+                        if (value === 'T') return '正確';
+                        if (value === 'F') return '錯誤';
+                        return span.innerText.trim();
+                    })};
+                });
+            """) or []
+            from utils.answer_evidence import text
+            result = {}
+            ambiguous = set()
+            for item in data:
+                key = text(re.sub(r"^[\d０-９]+[.．、。）)\s]+", "", item.get("question", "")))
+                record = {field: item.get(field) for field in ("answers", "options", "type")}
+                if key and record["answers"]:
+                    if key in result and result[key] != record:
+                        ambiguous.add(key)
+                    result[key] = record
+            return {key: value for key, value in result.items() if key not in ambiguous}
+        except Exception as error:
+            logger.debug(f"   已公布答案讀取失敗（{type(error).__name__}）")
+            return {}
+
+    def _flush_answer_evidence(self, evidence):
+        """Use the per-machine evidence key, outside distributable config and source."""
+        try:
+            from pathlib import Path
+            import threading
+            key_path = Path(os.environ.get("LOCALAPPDATA", str(Path.home()))) / "AutoLearningBot" / "ecpa_evidence.key"
+            if not key_path.exists():
+                return
+            key = key_path.read_text(encoding="utf-8").strip()
+            if not re.fullmatch(r"[a-f0-9]{64}", key):
+                return
+            url = self.config.get("gas_url", self._GAS_DB_URL)
+            if not url:
+                return
+            def send():
+                try:
+                    count = evidence.flush(url, key, requests.post)
+                    if count:
+                        logger.info(f"   ☁️ 雲端已接受 {count} 筆平台正解證據")
+                except Exception as error:
+                    logger.debug(f"   正解同步保留待重試（{type(error).__name__}）")
+            threading.Thread(target=send, daemon=False, name="ECPA-Evidence-Sync").start()
+        except Exception as error:
+            logger.debug(f"   正解同步尚未啟用（{type(error).__name__}）")
+
+    def _report_missing_questions(self, course, missing, reason="missing"):
+        """Report missing or failed-exam questions through the existing GAS contract."""
+        _missing = missing
+        if _missing:
+            # 去重（同一次考試同一題可能出現多次）
+            _seen = set()
+            _missing_dedup = []
+            for _m in _missing:
+                _key = _m.get("question", "")
+                if _key not in _seen:
+                    _seen.add(_key)
+                    _missing_dedup.append(_m)
+
+            _GAS_URL = self.config.get(
+                "gas_url",
+                "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
             )
-            is_read = self.driver.execute_script(
-                "try { return typeof isReadAnswer !== 'undefined' ? isReadAnswer : '0'; } catch(e) { return '0'; }"
+            _course_name = course.get("caption", "未知課程")
+            _username = (
+                self.config.get("name")
+                or self.config.get("account")
+                or "匿名"
             )
-            if not query_str:
-                logger.debug("   harvest: 無法取得 queryStr，放棄")
-                return result
+            if not _GAS_URL:
+                return None
 
-            logger.info(f"   📖 嘗試讀取正確答案（isReadAnswer={is_read}）")
-
-            if is_read != "1":
-                # 呼叫 set_see_question_result.php
-                base_url = view_result_url.split("/learn/")[0]
-                api_url = (
-                    f"{base_url}/learn/exam/set_see_question_result.php?{query_str}"
-                )
-                ua = self.driver.execute_script("return navigator.userAgent;")
-                # 同步 cookie 到 http_session
-                for c in self.driver.get_cookies():
-                    self.http_session.cookies.set(
-                        c["name"], c["value"], domain=c["domain"]
-                    )
-                resp = self.http_session.get(
-                    api_url,
-                    headers={"User-Agent": ua, "Referer": view_result_url},
-                    timeout=10,
-                )
-                logger.debug(
-                    f"   set_see_question_result: {resp.status_code} / {resp.text[:50]!r}"
-                )
-                if resp.text.strip() == "1":
-                    self.driver.refresh()
-                    time.sleep(3)
-                else:
-                    logger.warning(
-                        f"   ⚠️ set_see_question_result 無法公布答案（server 回應：{resp.text.strip()[:50]!r}），此課程可能不開放答案"
-                    )
-                    return result
-
-            # 讀取每題的正確答案（span[style*=green] input）+ 選項文字
-            q_data = self.driver.execute_script(
-                """
-                var result = [];
-                var rows = document.querySelectorAll('tr.bg03.font01, tr.bg04.font01');
-                for (var i = 0; i < rows.length; i++) {
-                    var row = rows[i];
-                    var p = row.querySelector('p');
-                    var qText = p ? p.innerText.trim() : '';
-                    if (!qText) continue;
-                    // 找 background-color: green 的 span 裡的 input
-                    var spans = row.querySelectorAll('span');
-                    var correctVals = [];
-                    var correctTexts = [];
-                    for (var j = 0; j < spans.length; j++) {
-                        var bg = spans[j].style.backgroundColor;
-                        if (bg === 'green' || bg === 'rgb(0, 128, 0)') {
-                            var inp = spans[j].querySelector('input');
-                            if (inp) correctVals.push(inp.value);
-                            // 取選項文字（span 內去掉 input 的文字）
-                            var spanText = spans[j].innerText || spans[j].textContent || '';
-                            spanText = spanText.replace(/^[\\s\\d.]+/, '').trim();
-                            if (spanText) correctTexts.push(spanText);
-                        }
-                    }
-                    if (correctVals.length > 0) {
-                        result.push({q: qText, ans: correctVals, texts: correctTexts});
-                    }
-                }
-                return result;
-                """
-            )
-
-            if not q_data:
-                logger.warning("   ⚠️ 未讀到任何正確答案（可能頁面未更新或格式不符）")
-                return result
-
-            # 轉換格式並寫入 answers.json（優先用選項文字，其次用 value）
-            for item in q_data:
-                q_text = item["q"]
-                ans_vals = item["ans"]
-                ans_texts = item.get("texts", [])
-                # 去掉題號前綴（如 "1. " "（1）" 等），與 auto_exam 的題目文字一致
-                q_text_clean = re.sub(r"^[\d０-９]+[.．、。）)\s]+", "", q_text).strip()
-                # 保留題目全文作為 key（不截 30 字，避免碰撞）
-                key = q_text_clean.strip()
-                # 優先用選項文字作為答案，多選以「、」合併為一個字串
-                if ans_texts:
-                    ans_str = (
-                        "、".join(ans_texts) if len(ans_texts) > 1 else ans_texts[0]
-                    )
-                else:
-                    # fallback: 用 input value
-                    ans_str = (
-                        "、".join(ans_vals)
-                        if len(ans_vals) > 1
-                        else (ans_vals[0] if ans_vals else "")
-                    )
-                result[key] = ans_str
-                logger.debug(f"   harvest: {key!r} => {ans_str!r}")
-
-            logger.info(f"   📖 讀到 {len(result)} 題正確答案")
-
-            # 寫入 answers.json（list 格式 [{"題目": ..., "答案": ...}]）
+            # Reserve before starting the worker: retries and concurrent accounts
+            # share receipts, without storing account data or touching questions.db.
+            from utils.question_report_cache import QuestionReportCache
+            receipt_cache = None
+            receipt_owner = None
             try:
-                answers_path = os.path.join(
-                    os.path.dirname(os.path.abspath(__file__)), "answers.json"
-                )
-                existing_list = []
-                if os.path.exists(answers_path):
-                    with open(answers_path, encoding="utf-8") as f:
-                        existing_list = json.load(f)
-                # 建立題目全文→index 的快速查找（雙向比對以找到相同題目）
-                existing_keys = {}
-                for idx_e, entry in enumerate(existing_list):
-                    ek = entry.get("題目", "").strip()
-                    existing_keys[ek] = idx_e
-                # 更新或新增
-                added = 0
-                for key, ans_str in result.items():
-                    # 先嘗試精確匹配，再嘗試雙向包含
-                    matched_idx = None
-                    if key in existing_keys:
-                        matched_idx = existing_keys[key]
-                    else:
-                        for ek, idx_e in existing_keys.items():
-                            if (
-                                key
-                                and ek
-                                and len(key) >= 8
-                                and len(ek) >= 8
-                                and (key in ek or ek in key)
-                            ):
-                                matched_idx = idx_e
-                                break
-                    if matched_idx is not None:
-                        # 更新現有條目
-                        existing_list[matched_idx]["答案"] = ans_str
-                    else:
-                        existing_list.append({"題目": key, "答案": ans_str})
-                        added += 1
-                with open(answers_path, "w", encoding="utf-8") as f:
-                    json.dump(existing_list, f, ensure_ascii=False, indent=2)
-                logger.info(
-                    f"   ✅ 已將 {len(result)} 題答案寫入 answers.json（新增 {added} 題，共 {len(existing_list)} 題）"
-                )
-                # 更新記憶體中的 answers（list of (題目, 答案)）
-                for key, ans_str in result.items():
-                    self.answers.append((key, ans_str))
-            except Exception as e:
-                logger.warning(f"   ⚠️ 寫入 answers.json 失敗: {e}")
+                receipt_cache = QuestionReportCache()
+                receipt_owner, pending = receipt_cache.reserve(_GAS_URL + "#" + reason, _course_name, _missing_dedup)
+                skipped = len(_missing_dedup) - len(pending)
+                _missing_dedup = pending
+                if skipped:
+                    logger.debug(f"   缺題回報略過 {skipped} 題近期已收件或處理中的題目")
+                if not pending:
+                    return None
+            except Exception as error:
+                receipt_cache = None
+                logger.warning(f"   缺題回報去重紀錄暫時不可用（{type(error).__name__}），仍繼續回報")
 
-            # 同步寫入 questions.db（複用 _save_answers_to_db）
-            self._save_answers_to_db(result, source="harvest")
+            _payload = {
+                "course": _course_name,
+                "username": _username,
+                "missing": [{key: item.get(key) for key in ("question", "options", "type")} for item in _missing_dedup],
+                "reason": reason,
+            }
 
-        except Exception as e:
-            logger.debug(f"   harvest_correct_answers 失敗: {e}")
+            import threading as _threading, requests as _req
 
-        return result
+            def _post_gas(url, payload):
+                accepted = False
+                try:
+                    response = _req.post(url, json=payload, timeout=20)
+                    response.raise_for_status()
+                    acknowledgement = response.json()
+                    if not isinstance(acknowledgement, dict) or not (
+                        acknowledgement.get("ok") is True or acknowledgement.get("status") == "ok"
+                    ):
+                        raise ValueError("GAS 未確認接受缺題回報")
+                    accepted = True
+                    logger.info(
+                        f"   📨 GAS 已接受 {len(payload['missing'])} 題缺題"
+                        f"（正式新增 {acknowledgement.get('added', 0)} 題；待查 {acknowledgement.get('pending', 0)} 題）"
+                    )
+                except Exception as _e:
+                    logger.warning(f"   ⚠️ 缺題回報失敗（{type(_e).__name__}），尚未確認送達 GAS")
+
+                finally:
+                    if receipt_cache is not None:
+                        try:
+                            receipt_cache.finish(receipt_owner, accepted)
+                        except Exception as error:
+                            logger.warning(f"   缺題回報收件紀錄寫入失敗（{type(error).__name__}）")
+
+            report_thread = _threading.Thread(
+                target=_post_gas, args=(_GAS_URL, _payload), daemon=False,
+                name="ECPA-Missing-Report",
+            )
+            report_thread.start()
+            logger.info(f"   📨 缺題回報排入背景處理（{len(_missing_dedup)} 題），等待 GAS 確認")
+            return report_thread
+
 
     def auto_exam(self, course):
         """時數達標後，自動進入測驗並作答。回傳 True=通過, False=未通過/失敗"""
@@ -945,10 +923,20 @@ class AdminEfficiencyPilot:
             return False
 
         logger.info("   📝 開始自動作答流程...")
-        # 收集本場 AI 補答的題目，考試通過後寫入 db
+        # AI candidates remain separate from confirmed answers.
         _ai_answered = {}
-        # 不及格過至少一次 → 強制 AI 補答（不信任 DB 可能存有錯誤答案）
-        force_ai = fail_count >= 1
+        # Whole-exam failure is not evidence that every existing answer is wrong.
+        force_ai = False
+        evidence = None
+        attempt_id = None
+        observed_rows = []
+        cloud_candidates_loaded = False
+        try:
+            from utils.answer_evidence import AnswerEvidence
+            evidence = AnswerEvidence()
+            self._flush_answer_evidence(evidence)
+        except Exception as error:
+            logger.warning(f"   作答證據紀錄暫時不可用（{type(error).__name__}）")
         # 以「目前所在視窗」為課程教室主視窗（不論從哪條路徑進入）
         main_window = self.driver.current_window_handle
 
@@ -1074,6 +1062,7 @@ class AdminEfficiencyPilot:
             answered = 0
             skipped = 0
             _missing = []  # 題庫無答案的題目，考試後回報 GAS
+            _exam_questions = []
 
             rows = self.driver.find_elements(
                 By.CSS_SELECTOR, "tr.bg03.font01, tr.bg04.font01"
@@ -1233,7 +1222,64 @@ class AdminEfficiencyPilot:
                     except Exception:
                         option_texts = []
 
+                    # Image-only true/false choices have no text. Read the actual
+                    # form values rather than guessing from the number of choices.
+                    radio_values = [(r.get_attribute("value") or "").upper() for r in radios]
+                    is_true_false = len(radios) == 2 and set(radio_values) == {"T", "F"}
+                    if is_true_false:
+                        option_texts = ["正確" if value == "T" else "錯誤" for value in radio_values]
+
+                    question_payload = {
+                        "type": "多選" if checkboxes else ("是非" if is_true_false else "單選"),
+                        "question": q_text,
+                        "options": option_texts,
+                    }
+                    _exam_questions.append(question_payload)
+                    answer_source = "legacy_db" if ans is not None else "guess"
+                    stored_answer = None
+                    if evidence:
+                        try:
+                            stored_answer = evidence.lookup(course_id, question_payload, verified_only=True)
+                            if ans is None and not stored_answer:
+                                if not cloud_candidates_loaded:
+                                    cloud_candidates_loaded = True
+                                    # One bounded read per exam, only when the bank lacks an answer.
+                                    import hashlib
+                                    digest = hashlib.sha256(str(course.get("caption", "未知課程")).encode("utf-8")).hexdigest()
+                                    try:
+                                        response = requests.get(
+                                            "https://raw.githubusercontent.com/waynelord0628-beep/auto-learning-bot/main/review/ecpa/" + digest + ".json",
+                                            timeout=5,
+                                        )
+                                        if response.status_code == 200:
+                                            evidence.import_cloud(course_id, response.json())
+                                    except Exception:
+                                        logger.debug("   雲端候選暫時不可用，繼續本機補答")
+                                stored_answer = evidence.lookup(course_id, question_payload)
+                            if stored_answer:
+                                # Bypass legacy fuzzy/positional answer mapping below.
+                                answer_source = stored_answer["source"]
+                        except Exception as error:
+                            logger.debug(f"   候選查詢略過（{type(error).__name__}）")
+                    observed_rows.append((question_payload, row))
+                    question_payload["source"] = answer_source
+                    if ans is None:
+                        _missing.append(question_payload)  # AI補答後仍需補進共用題庫。
+
                     # 題庫找不到時，或不及格重試強制用 AI 補答
+                    if stored_answer:
+                        from utils.answer_evidence import text
+                        answers_to_select = set(stored_answer["answers"])
+                        inputs = checkboxes or radios
+                        if len(inputs) == len(option_texts):
+                            for option, control in zip(option_texts, inputs):
+                                wanted = text(option) in answers_to_select
+                                if control.is_selected() != wanted and (checkboxes or wanted):
+                                    self.driver.execute_script("arguments[0].click();", control)
+                            answered += 1
+                            continue
+                        stored_answer = None
+                        question_payload["source"] = "legacy_db" if ans is not None else "guess"
                     if ans is None or force_ai:
                         radios_count = len(row.find_elements(By.CSS_SELECTOR, "input[type='radio']"))
                         ai_options = option_texts if any(option_texts) else (
@@ -1243,7 +1289,14 @@ class AdminEfficiencyPilot:
                             ai_ans = self._ai_find_answer(q_text, ai_options)
                             if ai_ans:
                                 ans = ai_ans
-                                _ai_answered[q_text] = ai_ans
+                                # Keep the option text, never a position that can change.
+                                _ai_answered[q_text] = ai_options[int(ai_ans) - 1]
+                                question_payload["source"] = "local_ai_unverified"
+                                if evidence:
+                                    try:
+                                        evidence.candidate(course_id, question_payload, [_ai_answered[q_text]])
+                                    except Exception:
+                                        logger.debug("   AI 候選暫存失敗，保留本次作答")
 
                     logger.info(f"   題目: {q_text[:50]!r}")
                     logger.info(f"   選項: {[t[:20] for t in option_texts]!r}")
@@ -1354,7 +1407,7 @@ class AdminEfficiencyPilot:
                             ans_lower = ans_norm.lower()
 
                             # AI 新格式會只回 1/2/3/4；題庫也可能存 A/B/C/D 或「2. 答案」。
-                            m = re.search(r"(?<!\d)(\d+)(?!\d)", ans_norm)
+                            m = re.fullmatch(r"\s*(\d+)(?:[.、)）:：]\s*[^\d\s].*)?\s*", ans_norm)
                             if m:
                                 n = int(m.group(1))
                                 if 1 <= n <= len(radios):
@@ -1366,6 +1419,13 @@ class AdminEfficiencyPilot:
                                 if token in letter_map:
                                     idx = letter_map[token]
 
+                            if idx is None and is_true_false:
+                                truth_tokens = {"正確": "T", "對": "T", "是": "T", "TRUE": "T", "T": "T", "O": "T",
+                                                "不正確": "F", "錯誤": "F", "錯": "F", "否": "F", "FALSE": "F", "F": "F", "X": "F"}
+                                truth_value = truth_tokens.get(ans_norm.upper())
+                                if truth_value is not None:
+                                    idx = radio_values.index(truth_value)
+
                             if idx is None and len(radios) == 2:
                                 ans_upper = ans_norm.upper()
                                 if ans_upper in ("O", "T", "TRUE", "A"):
@@ -1375,10 +1435,10 @@ class AdminEfficiencyPilot:
                                 else:
                                     true_words = ["對", "是", "正確", "true"]
                                     false_words = ["錯", "否", "不正確", "錯誤", "false", "非"]
-                                    if any(w in ans_lower for w in true_words):
-                                        idx = 0
-                                    elif any(w in ans_lower for w in false_words):
+                                    if ans_lower in false_words:
                                         idx = 1
+                                    elif ans_lower in true_words:
+                                        idx = 0
 
                             if idx is None and option_texts:
                                 def _choice_key(value):
@@ -1461,46 +1521,19 @@ class AdminEfficiencyPilot:
 
             logger.info(f"   📝 作答完成：{answered} 題已答，{skipped} 題略過")
 
-            # ── 6b. 傳送缺題通知到 GAS Relay → Telegram（背景執行，不阻擋主流程）──
-            if _missing:
-                # 去重（同一次考試同一題可能出現多次）
-                _seen = set()
-                _missing_dedup = []
-                for _m in _missing:
-                    _key = _m.get("question", "")
-                    if _key not in _seen:
-                        _seen.add(_key)
-                        _missing_dedup.append(_m)
+            self._report_missing_questions(course, _missing)
 
-                _GAS_URL = self.config.get(
-                    "gas_url",
-                    "https://script.google.com/macros/s/AKfycbzYUNM--zLlS8El6YR6lIiKerBIz1M6rL2gM8nTGicmEjfh_1TNiBo12YcVsb37J7Cl/exec"
-                )
-                _course_name = course.get("caption", "未知課程")
-                _username = (
-                    self.config.get("name")
-                    or self.config.get("account")
-                    or "匿名"
-                )
-                _payload = {
-                    "course": _course_name,
-                    "username": _username,
-                    "missing": _missing_dedup,
-                }
-
-                import threading as _threading, requests as _req
-
-                def _post_gas(url, payload):
-                    try:
-                        _req.post(url, json=payload, timeout=20)
-                        logger.info(f"   📨 已回報 {len(payload['missing'])} 題缺題（{payload['username']}）")
-                    except Exception as _e:
-                        logger.debug(f"   缺題回報失敗: {_e}")
-
-                _threading.Thread(
-                    target=_post_gas, args=(_GAS_URL, _payload), daemon=True
-                ).start()
-                logger.info(f"   📨 缺題回報已背景送出（{len(_missing_dedup)} 題）")
+            if evidence:
+                try:
+                    for question, observed_row in observed_rows:
+                        controls = observed_row.find_elements(By.CSS_SELECTOR, "input[type='radio'], input[type='checkbox']")
+                        question["selection_observed"] = len(controls) == len(question["options"])
+                        question["selected"] = [question["options"][i] for i, control in enumerate(controls)
+                                                if i < len(question["options"]) and control.is_selected()]
+                    attempt_id = evidence.prepare(course_id, _exam_questions)
+                    logger.info("   🧾 已記錄送出前實際選項；等待平台結果確認")
+                except Exception as error:
+                    logger.warning(f"   作答證據記錄失敗（{type(error).__name__}），不影響原作答流程")
 
             # ── 7. 點「送出答案，結束測驗」──
             # 頁面有兩個 submit 按鈕：
@@ -1614,6 +1647,10 @@ class AdminEfficiencyPilot:
                         self._exam_fail_counts.get(course_id, 0) + 1
                     )
                     fail_now = self._exam_fail_counts[course_id]
+                    initially_missing = {item["question"] for item in _missing}
+                    self._report_missing_questions(
+                        course, [item for item in _exam_questions if item["question"] not in initially_missing], reason="exam_failed"
+                    )
                     if fail_now >= 3:
                         logger.warning(
                             f"   ❌ 測驗不及格，已累計 {fail_now} 次。"
@@ -1628,44 +1665,24 @@ class AdminEfficiencyPilot:
                     passed = True
                     # 通過後清除不及格計數
                     self._exam_fail_counts.pop(course_id, None)
-                    # 通過後把 AI 補答的題目寫進 db（AI 答對了才有意義存）
+                    # Passing the exam does not validate every generated answer.
                     if _ai_answered:
-                        self._save_answers_to_db(_ai_answered, source="AI")
+                        logger.info(f"   ℹ️ {len(_ai_answered)} 題 AI 答案尚無逐題正誤確認，不寫入正式題庫")
                 else:
                     logger.info("   📝 無法判斷成績，請自行確認")
             except Exception:
                 pass
 
-            # ── 10. 不及格時嘗試讀取正確答案 ──
-            # 考試 form submit 後，exam_window 已整頁跳轉到 view_result.php。
-            # 直接對當前視窗呼叫 _harvest_correct_answers。
-            # 若當前頁面不是 view_result.php，從 exam_start_url 推算後再 navigate。
-            if not passed:
-                time.sleep(1)
+            # Record observed outcomes without requesting answer disclosure.
+            if evidence and attempt_id:
                 try:
-                    self.driver.switch_to.window(exam_window)
-                    cur_exam_url = self.driver.current_url
-                    # 若已在 view_result.php，直接讀取
-                    if "view_result" in cur_exam_url:
-                        self._harvest_correct_answers(cur_exam_url)
-                    else:
-                        # 從 exam_start_url 推算 view_result URL
-                        # exam_start.php?{course_id}+{attempt}+{token}+0
-                        # → view_result.php?{course_id}+{attempt}+{token}
-                        m = re.search(r"exam_start\.php\?(.+?)\+0$", exam_start_url)
-                        if m:
-                            base = exam_start_url.split("/learn/")[0]
-                            vr_url = f"{base}/learn/exam/view_result.php?{m.group(1)}"
-                            logger.debug(f"   步驟10 推算 view_result URL: {vr_url!r}")
-                            self.driver.get(vr_url)
-                            time.sleep(2)
-                            self._harvest_correct_answers(vr_url)
-                        else:
-                            logger.debug(
-                                f"   步驟10 無法從 exam_start URL 推算 view_result（格式不符）: {exam_start_url!r}"
-                            )
-                except Exception as e:
-                    logger.debug(f"   步驟10 公布答案失敗: {e}")
+                    disclosed = self._harvest_correct_answers(self.driver.current_url)
+                    outcome = evidence.finish(attempt_id, body_text, disclosed)
+                    evidence.queue_confirmed(attempt_id, course.get("caption", "未知課程"))
+                    self._flush_answer_evidence(evidence)
+                    logger.info(f"   🧾 作答结果已記錄；逐題確認 {outcome['confirmed']} 題，其餘保持原狀")
+                except Exception as error:
+                    logger.warning(f"   結果證據記錄失敗（{type(error).__name__}）")
 
             return passed
 
@@ -1866,7 +1883,8 @@ class AdminEfficiencyPilot:
             # 加速啟動
             options.add_argument("--no-sandbox")
             options.add_argument("--disable-dev-shm-usage")
-            options.add_argument("--disable-gpu")
+            if self.config.get("disable_gpu", False):
+                options.add_argument("--disable-gpu")
             options.add_argument("--disable-extensions")
             options.add_argument("--disable-background-networking")
             options.add_argument("--disable-sync")
@@ -1885,7 +1903,7 @@ class AdminEfficiencyPilot:
             if headless_mode:
                 # 背景執行
                 logger.info("⚙️ 使用 Headless 模式（背景執行）")
-                options.add_argument("--headless=old")
+                options.add_argument("--headless=new")
                 options.add_argument("--window-size=1920,1080")
                 options.add_argument("--disable-blink-features=AutomationControlled")
             else:
@@ -1899,7 +1917,9 @@ class AdminEfficiencyPilot:
                 service=self._driver_service, options=options
             )
             if self._driver_service.process:
-                self._managed_pids.add(self._driver_service.process.pid)
+                pid = self._driver_service.process.pid
+                self._managed_process_times[pid] = psutil.Process(pid).create_time()
+                self._managed_pids.add(pid)
 
             self.driver.execute_script(
                 "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
@@ -2274,6 +2294,8 @@ class AdminEfficiencyPilot:
             self.driver.switch_to.window(classroom_h)
 
             attempted = set()
+            active_unit = None
+            playback_start_checks = 0
             frame_fail_count = 0
 
             while self.running:
@@ -2321,6 +2343,9 @@ class AdminEfficiencyPilot:
                         self.driver.switch_to.default_content()
 
                 try:
+                    keep_current_video = bool(active_unit) and (
+                        start_unstarted_video(self.driver, inspect_only=True) == "playing"
+                    )
                     self.driver.switch_to.frame("s_catalog")
                     self.driver.switch_to.frame("pathtree")
                     frame_fail_count = 0
@@ -2338,10 +2363,15 @@ class AdminEfficiencyPilot:
                     if not links:
                         all_texts = [l.text.strip() for l in all_links]
                         logger.warning(f"   ⚠️ pathtree 無可選單元，原始清單({len(all_texts)}筆): {all_texts[:20]}")
-                    target = next(
-                        (l for l in links if l.text not in attempted),
-                        random.choice(links) if links else None,
-                    )
+                    target = None
+                    if keep_current_video:
+                        target = next((link for link in links if
+                            (link.text.strip(), link.get_attribute("href") or "") == active_unit), None)
+                    if target is None:
+                        target = next(
+                            (link for link in links if link.text not in attempted),
+                            random.choice(links) if links else None,
+                        )
                     # 所有單元都已嘗試過 → 重置讓下一輪重新輪
                     if target is None and links:
                         logger.info("   🔄 所有單元已輪完，重置重新輪...")
@@ -2356,22 +2386,38 @@ class AdminEfficiencyPilot:
 
                         u_name = target.text.strip()
                         attempted.add(u_name)
-                        logger.info(f"   📍 進入單元：{u_name[:20]}...")
-                        self.driver.execute_script("arguments[0].click();", target)
+                        unit_key = (u_name, target.get_attribute("href") or "")
+                        if unit_key != active_unit:
+                            logger.info(f"   📍 進入單元：{u_name[:20]}...")
+                            self.driver.execute_script("arguments[0].click();", target)
+                            active_unit = unit_key
+                            playback_start_checks = 3
+                        else:
+                            logger.debug(f"   ▶ 維持目前單元：{u_name[:20]}，避免重載播放器")
 
                         w_time = self.config.get("residence_time", 75)
-                        st = time.time()
-                        while time.time() - st < w_time:
-                            # ⭐ 檢查點 8（停留時間內）
-                            if not self.running:
-                                logger.info("🛑 使用者手動停止（停留中）")
-                                return "STOP"
-
-                            time.sleep(1)
+                        def commit_progress():
+                            nonlocal playback_start_checks
                             self.driver.switch_to.window(classroom_h)
+                            if playback_start_checks > 0:
+                                playback_start_checks -= 1
+                                state = start_unstarted_video(
+                                    self.driver, muted=self.config.get("headless", True)
+                                )
+                                if state == "playing":
+                                    playback_start_checks = 0
+                                elif state == "requested":
+                                    logger.info("   ▶ 已向播放器請求正常播放")
                             self.driver.execute_script(
                                 "function deepCommit(win){ try{if(win.API)win.API.LMSCommit('');}catch(e){} if(win.frames){for(let i=0;i<win.frames.length;i++)deepCommit(win.frames[i]);}} deepCommit(window);"
                             )
+
+                        if not wait_with_heartbeat(
+                            w_time, lambda: self.running, commit_progress,
+                            interval=self.config.get("playback_poll_interval", 5),
+                        ):
+                            logger.info("🛑 使用者手動停止（停留中）")
+                            return "STOP"
                     else:
                         for _ in range(30):
                             # ⭐ 檢查點 9（無目標課程時）
@@ -2380,6 +2426,7 @@ class AdminEfficiencyPilot:
                                 return "STOP"
                             time.sleep(1)
                 except Exception as e:
+                    active_unit = None  # Recovery must reopen the unit when page state is uncertain.
                     # 優先攔截殘留 alert（如閒置登出），避免後續操作全部失敗
                     alert_text = self._accept_alert_if_present()
                     err_text = f"{alert_text} {e}"
@@ -2526,6 +2573,7 @@ class AdminEfficiencyPilot:
                     config_override=self.config,
                     should_continue=lambda: self.running,
                     log_callback=self.log_callback,
+                    owner=self,
                 )
                 if ok:
                     logger.info("🏆 臺北E大所有任務完成！")
@@ -2556,7 +2604,7 @@ class AdminEfficiencyPilot:
             logger.info("📖 AI 補答未啟用，僅使用本地題庫作答")
         try:
             if not self.init_engine():
-                if sys.stdin:
+                if not self.log_callback and sys.stdin and sys.stdin.isatty():
                     input(
                         f"\n{Fore.RED}❌ 引擎啟動失敗，請檢查驅動程式後按 Enter 退出...{Style.RESET_ALL}"
                     )
@@ -2568,11 +2616,12 @@ class AdminEfficiencyPilot:
                     msg = "❌ 登入失敗！請確認『我的E政府』帳密正確，或是否出現驗證碼。"
                 else:
                     msg = "❌ 登入失敗！請確認 eCPA 帳密正確且無驗證碼要求。"
-                if sys.stdin:
+                if not self.log_callback and sys.stdin and sys.stdin.isatty():
                     input(f"\n{Fore.RED}{msg} 按 Enter 退出...{Style.RESET_ALL}")
                 return
 
             empty_api_count = 0
+            all_tasks_done = False
 
             while self.running:
                 try:
@@ -2628,7 +2677,7 @@ class AdminEfficiencyPilot:
                         if len(courses) == 0:
                             if empty_api_count >= 3:
                                 logger.warning("🚀 API 連續 0 筆無法恢復，重啟輔助引擎後再試。")
-                                self._cleanup()
+                                self._cleanup(stop=False)
                                 if not self.safe_sleep(5):
                                     break
                                 if not self.init_engine() or not self.login():
@@ -2698,6 +2747,7 @@ class AdminEfficiencyPilot:
                     ]
 
                     if not pending and not completed_hours:
+                        all_tasks_done = True
                         break
 
                     # ── 第一步：先對時數已達標但考試/問卷未完成的課程執行 ──
@@ -2787,7 +2837,7 @@ class AdminEfficiencyPilot:
 
                         if res == "STALLED":
                             logger.warning("🚀 偵測到停滯，正在重新啟動輔助引擎...")
-                            self._cleanup()
+                            self._cleanup(stop=False)
                             if not self.safe_sleep(5):
                                 break
                             if not self.init_engine() or not self.login():
@@ -2818,7 +2868,7 @@ class AdminEfficiencyPilot:
                         logger.warning(
                             "🔄 偵測到瀏覽器 session 失效，嘗試重建引擎並重新登入..."
                         )
-                        self._cleanup()
+                        self._cleanup(stop=False)
                         if not self.safe_sleep(5):
                             break
                         if not self.init_engine() or not self.login():
@@ -2828,8 +2878,11 @@ class AdminEfficiencyPilot:
                     else:
                         self.safe_sleep(10)
 
-            logger.info(f"🏆 {Fore.GREEN}所有任務圓滿達成！{Style.RESET_ALL}")
-            if sys.stdin:
+            if all_tasks_done:
+                logger.info(f"🏆 {Fore.GREEN}所有任務圓滿達成！{Style.RESET_ALL}")
+            else:
+                logger.warning("研習流程已中止，尚未確認所有任務完成。")
+            if not self.log_callback and sys.stdin and sys.stdin.isatty():
                 input(f"\n{Fore.GREEN}✓ 程式執行完畢，按 Enter 關閉。{Style.RESET_ALL}")
 
         except KeyboardInterrupt:
@@ -2839,7 +2892,7 @@ class AdminEfficiencyPilot:
 
         except Exception as e:
             logger.critical(f"🔥 程式發生致命錯誤: {e}")
-            if sys.stdin:
+            if not self.log_callback and sys.stdin and sys.stdin.isatty():
                 input(
                     f"\n{Fore.RED}❌ 發生嚴重錯誤，請查看 debug.log 並按 Enter 退出...{Style.RESET_ALL}"
                 )

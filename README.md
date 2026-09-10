@@ -1,11 +1,22 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.8** | 數位研習輔助工具
+**版本 V2.1.9** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 協助處理公務數位研習流程，整合課程播放、測驗作答、問卷填寫、題庫同步與缺題回報，降低重複性操作時間。
+
+---
+
+## V2.1.9 更新
+
+- 新增入口一鍵更新，下載完成後自動重新啟動。
+- 改善上課播放穩定性與部分課程單元切換。
+- 改善操作流暢度與啟動、停止流程。
+- 改善部分題型作答相容性，減少重複補題通知。
+
+更新方式：2.1.8 使用者請下載下方 EXE，關閉舊版後放回原資料夾使用，保留原有 config.json 與題庫。升級至 2.1.9 後，後續版本即可使用一鍵更新。
 
 ---
 
