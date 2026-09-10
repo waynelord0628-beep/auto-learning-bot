@@ -172,5 +172,117 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.421Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "afcffcbde502fadd275201b78c26e223709d8682f0b6897afde9e7a60ee16030",
+    "question": "當他人有情緒困擾時，可以向他提供尋求資源的管道",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.842Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2da59138689a3e08754cfe4c1210143afc9412370a05e262fd9bb74f27839b19",
+    "question": "當有壓力與情緒困擾時，可以撥打以下哪支專線尋求協助?",
+    "options": [
+      "1925",
+      "1922",
+      "1923",
+      "1924"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1925",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.844Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "12cb95deb808c718718bc7d83486a8e9edef03cea733ba09dc00724ea7c0f66b",
+    "question": "過去研究證實哪些方式無法有效改善情緒?",
+    "options": [
+      "運動",
+      "心理諮詢或心理治療",
+      "充足睡眠",
+      "過度抽菸或喝酒"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "過度抽菸或喝酒",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.844Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1c8ccd060963c8c5940b2ea03c6130888c283d1cae75330866ac974e5d0ec157",
+    "question": "有關自殺防治口訣「BHC-5L」(Being happiness catchers-5L)的意思與順序為何?",
+    "options": [
+      "走牽轉聽看",
+      "轉聽看走牽",
+      "看轉牽走聽",
+      "看聽轉牽走"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "看聽轉牽走",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.845Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "936d6783393a8862b56d987b13527f33449e72b22f8500321c35e6f40b464847",
+    "question": "下列何者非情緒困擾時常見的狀況?",
+    "options": [
+      "胃口不佳",
+      "對原本喜歡的事物變得沒興趣",
+      "失眠",
+      "整體績效進步"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "整體績效進步",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.846Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7d622f26f40c5948285a802bceced2d729cba2f4a244698af366eb0e373f8125",
+    "question": "當有壓力與情緒困擾時，可以撥打哪些專線尋求協助?",
+    "options": [
+      "生命線1995",
+      "張老師1980",
+      "衛福部安心專線1925",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:13.847Z",
+    "review_state": "candidate_ready"
   }
 ]
