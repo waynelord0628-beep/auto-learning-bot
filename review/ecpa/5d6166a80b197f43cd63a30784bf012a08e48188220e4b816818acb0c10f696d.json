@@ -202,5 +202,56 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:47:44.819Z"
+  },
+  {
+    "id": "6fdd0de269902d5687e6fea797817ee01589b036ad2a0580dcc5f01eac605c8b",
+    "question": "政府部門推動族群主流化政策，重點之一在於促進不同族群民眾之間的交流、互動。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "族群主流化概念介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:48:13.967Z"
+  },
+  {
+    "id": "77b62ddbcdb83897db4dccbc7f2ffe8963aaaeacf400af53d449ebf52674ac74",
+    "question": "請問以下哪些是政府部門可採用的族群主流化政策工具？",
+    "options": [
+      "族群統計",
+      "族群分析",
+      "族群影響評估",
+      "族群意識培力",
+      "族群預算"
+    ],
+    "type": "多選",
+    "course": "族群主流化概念介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1. 族群統計, 2. 族群分析, 3. 族群影響評估, 4. 族群意識培力, 5. 族群預算",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:48:13.969Z"
+  },
+  {
+    "id": "d95bb86c0ece17bd4a5f14ebb5beda1e2101f0236a470fffab274f222aec40bc",
+    "question": "推動客家政策，與推動原住民族政策，完全是不一樣的事情，不需要互相交流。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "族群主流化概念介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:48:13.970Z"
   }
 ]
