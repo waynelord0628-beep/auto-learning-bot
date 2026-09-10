@@ -144,9 +144,3 @@ function processEcpaReviewQueue() {
 function ecpaReadAtDirectory(path, head) {
   return JSON.stringify(ecpaGit('contents/' + path + '?ref=' + head));
 }
-function installEcpaReviewWorker() {
-  const handler = 'processEcpaReviewQueue';
-  if (!ScriptApp.getProjectTriggers().some(t => t.getHandlerFunction() === handler))
-    ScriptApp.newTrigger(handler).timeBased().everyHours(1).create();
-  return processEcpaReviewQueue();
-}
