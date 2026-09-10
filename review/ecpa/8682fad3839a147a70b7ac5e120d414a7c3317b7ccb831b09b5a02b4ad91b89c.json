@@ -216,5 +216,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:01:16.882Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d4f1c8b618675ebb79b7cd10ddf8ec1e2190d95ababcb147a16919e8bdcd2459",
+    "question": "依性別平等工作法第32-3條第1項規定，公務人員遭受性騷擾，且行為人為機關首長時，應向誰提出申訴？",
+    "options": [
+      "公務人員所屬服務機關",
+      "行為人所屬服務機關之上級機關",
+      "性騷擾事件發生地之警察機關",
+      "地方勞政主管機關"
+    ],
+    "type": "單選",
+    "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "行為人所屬服務機關之上級機關",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T18:01:46.216Z",
+    "review_state": "candidate_ready"
   }
 ]
