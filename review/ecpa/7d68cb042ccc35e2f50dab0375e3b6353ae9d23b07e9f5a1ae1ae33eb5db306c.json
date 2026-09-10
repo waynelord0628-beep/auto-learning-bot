@@ -284,5 +284,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.847Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d17433617e80ea18a8a714161a0dd5fe50ee81a57d2bc5b4258b566466115c63",
+    "question": "根據研究調查顯示自殺死亡人數是男性大於女性",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:43.544Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c28870510c5b3f9c6e108fea100dfbe47048b34e3c73263e307f4892ee5d5e34",
+    "question": "若有人威脅自己要自殺時，不必認真對待",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T19:57:43.545Z",
+    "review_state": "candidate_ready"
   }
 ]
