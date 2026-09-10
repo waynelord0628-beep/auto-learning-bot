@@ -170,5 +170,41 @@
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-09-10T10:40:35.672Z"
+  },
+  {
+    "id": "0c4b6221507a4f7e5737c7a7bac4206c127655c81f3524caa6ec4dea3c2b58af",
+    "question": "下列情形何者適用性別平等工作法?",
+    "options": [
+      "受僱者於非工作時間遭受最高負責人性騷擾",
+      "受僱者於非工作時間遭受所屬事業單位之同一人，為持續性性騷擾",
+      "受僱者於非工作時間遭受不同事業單位，具共同作業或業務往來關係之同一人，為持續性性騷擾",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "性別平等工作法及相關子法修法重點與實務案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4. 以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:40:59.107Z"
+  },
+  {
+    "id": "dbd0b04298c8d09c1a75c85c8efa09c681d6a7ed32138d969bbb425cd3b6e150",
+    "question": "僱用受僱者幾人以上之雇主，於處理性騷擾申訴時，除應依規定設申訴處理單位外，並應組成申訴調查小組調查?",
+    "options": [
+      "30人",
+      "50人",
+      "100人",
+      "500人"
+    ],
+    "type": "單選",
+    "course": "性別平等工作法及相關子法修法重點與實務案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2. 50人",
+    "source": "ai_unverified",
+    "created_at": "2026-09-10T10:40:59.108Z"
   }
 ]
