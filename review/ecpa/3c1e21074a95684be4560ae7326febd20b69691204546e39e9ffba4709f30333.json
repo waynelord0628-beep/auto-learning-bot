@@ -226,5 +226,43 @@
     "source": "reported_question",
     "created_at": "2026-09-11T10:38:08.268Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "2a2fec83ca54666957ec77a9301f231f5b6742dd6095908d0319409dcacda073",
+    "question": "下列何者敘述正確？",
+    "options": [
+      "公務人員可以公開為其參選直轄市市長之配偶站台、助講",
+      "公務人員可以公開為其參選直轄市市長之三親等以內血親、姻親站台、助講",
+      "公務人員可以公開為其參選直轄市市長之配偶具銜且具名的廣告",
+      "公務人員可以公開為其參選直轄市市長之三親等以內血親、姻親拍廣告"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立案例解析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 公務人員不得加入政治團體",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T10:38:38.346Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "6d6064c7d90f6c7ac701e5627373e2ca2ad94642e2f2234841f54c741c46d964",
+    "question": "下列何者敘述錯誤？",
+    "options": [
+      "公務人員不得為支持或反對特定政黨或公職候選人公開站台、助講",
+      "公務人員不得為支持或反對特定之政黨或公職候選人主持集會、發起遊行",
+      "公務人員不得為支持或反對特定政黨或公職候選人而對職務相關人員或其職務對象表達指示",
+      "公務人員可以於下班後或週末為公職候選人站台或助講"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立案例解析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 公務人員可以於下班後或週末為公職候選人站台或助講",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T10:38:38.357Z",
+    "review_state": "awaiting_evidence"
   }
 ]
