@@ -188,5 +188,43 @@
     "source": "reported_question",
     "created_at": "2026-09-11T10:37:33.217Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "7e10da109f2b2baf718217170cf757a7d59ef78d7ede89de7cb99a66273de4d2",
+    "question": "下列何者敘述正確？",
+    "options": [
+      "公務人員可以在大眾傳播媒體具名而不具銜的廣告",
+      "公務人員不得在大眾傳播媒體具銜或具名廣告",
+      "公務人員可以在大眾傳播媒體具銜而不具名的廣告",
+      "公務人員可以在大眾傳播媒體具名且具銜的廣告"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立案例解析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 公務人員不得加入政治團體",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T10:38:08.267Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5b13dbe664e99616691006e47abc6fce6deaa5a16cdc654f38109a78dc072f0a",
+    "question": "行政資源指行政上可支配運用之",
+    "options": [
+      "公物",
+      "公款",
+      "場所",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立案例解析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 以上皆是",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T10:38:08.268Z",
+    "review_state": "awaiting_evidence"
   }
 ]
