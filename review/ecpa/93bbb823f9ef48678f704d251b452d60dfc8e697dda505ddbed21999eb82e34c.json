@@ -282,5 +282,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:44.015Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b912e570d2fff3a983b1768867f9de2794ca6a88c6919f743d238b9036ab543f",
+    "question": "下列兵工廠何者不是由國民政府成立，而是由軍閥所成立的？",
+    "options": [
+      "太原兵工廠",
+      "瀋陽兵工廠",
+      "鞏縣兵工廠",
+      "西安機器局"
+    ],
+    "type": "多選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T01:15:50.039Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
