@@ -62,7 +62,11 @@
     "candidate_answer": "要求使用者提供敏感資訊或點擊惡意連結",
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.007Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T19:21:00.253Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "de6b6ecd800b81406496a681941e4a7852342577ee9466e046c26b9f39b1cbe4",
