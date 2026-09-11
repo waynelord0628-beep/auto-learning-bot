@@ -16,7 +16,10 @@ function ecpaReviewApi(body) {
       (c.annotations || []).forEach(a => { if (a.type === 'url_citation') urls.push(a.url); });
     });
   });
-  return {data:JSON.parse(stripJsonFence(texts.join('\n'))),urls,
+  let data;
+  try {data=JSON.parse(stripJsonFence(texts.join('\n')));}catch(e){data={};}
+  if(!data || typeof data!=='object')data={};
+  return {data,urls,
     searched:(result.output || []).some(o=>o.type==='web_search_call' && o.status==='completed')};
 }
 function ecpaSourceAllowed(url) {

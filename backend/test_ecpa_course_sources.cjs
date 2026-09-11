@@ -18,7 +18,7 @@ assert.equal(ctx.ecpaVerifyCourseAnswer({...q,course:'Other course'}),null);
 ctx.ecpaCourseSourceUrls=()=>['https://roddayeye.pixnet.net/1','https://roddayeye.pixnet.net/2'];
 ctx.ecpaFetchCoursePage=url=>({url,html:url.endsWith('/2')?table.replace('<td></td><td></td><td>A','<td>v</td><td></td><td>A').replace('<td>v</td><td></td><td>B','<td></td><td></td><td>B'):table});
 assert.equal(ctx.ecpaVerifyCourseAnswer(q).conflict,true);
-const pei='<div class="post-body-inner"><div>問：Question?</div><div>&nbsp; A</div><div>v <span> B</span></div></div>';
+const pei='<div class="post-body-inner"><div>問：Question?</div><div>&nbsp; A</div><div>v <span> B</span></div></div><div>Advertisement must not be an option</div>';
 let rows=ctx.ecpaCoursePageRows(pei,'https://www.peigogo.com/a');assert.equal(rows.length,1);assert.equal(rows[0].answers[0],'B');assert.equal(rows[0].options.length,2);
 const rodi='<table><tr><td>問</td><td>Question?</td></tr><tr><td></td><td>A</td></tr><tr><td>✓</td><td>B</td></tr></table>';
 rows=ctx.ecpaCoursePageRows(rodi,'https://www.rodiyer.idv.tw/a');assert.equal(rows[0].answers[0],'B');

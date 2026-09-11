@@ -831,7 +831,10 @@ function ecpaReviewApi(body) {
       (c.annotations || []).forEach(a => { if (a.type === 'url_citation') urls.push(a.url); });
     });
   });
-  return {data:JSON.parse(stripJsonFence(texts.join('\n'))),urls,
+  let data;
+  try {data=JSON.parse(stripJsonFence(texts.join('\n')));}catch(e){data={};}
+  if(!data || typeof data!=='object')data={};
+  return {data,urls,
     searched:(result.output || []).some(o=>o.type==='web_search_call' && o.status==='completed')};
 }
 function ecpaSourceAllowed(url) {
@@ -1011,6 +1014,18 @@ function ecpaCourseQuestion(s) {
 function ecpaCoursePageRows(html,url) {
   const rows=[];
   if (/peigogo\.com\//.test(url)) {
+    // Stop at the article boundary: footer text must not become last-question options.
+    html=html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'').replace(/<!--[\s\S]*?-->/g,'');
+    const opening=/<div\b[^>]*class\s*=\s*["'][^"']*\bpost-body-inner\b[^"']*["'][^>]*>/i.exec(html);
+    if(!opening)return [];
+    const start=opening.index+opening[0].length,tags=/<\/?div\b[^>]*>/gi;
+    tags.lastIndex=start;let depth=1,tag,end=-1;
+    while((tag=tags.exec(html))) {
+      depth+=/^<\//.test(tag[0])?-1:1;
+      if(depth===0){end=tag.index;break;}
+    }
+    if(end<0)return [];
+    html=html.slice(start,end);
     // Preserve each answer line's leading V before stripping HTML.
     html.replace(/<div\b[^>]*>((?:(?!<div\b)[\s\S])*?)<\/div>/gi,(_,body)=>{
       const t=ecpaCoursePlain(body);
