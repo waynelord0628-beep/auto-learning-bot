@@ -36,5 +36,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:22.164Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e397bd623c3f561868d4b87b35ec83368d498f51946a1edeaf4a5a122886d8a6",
+    "question": "有關「AT5系列圖片」檢測點的期望敘述，下列何者正確?",
+    "options": [
+      "使用實際文字而非使用文字圖片",
+      "需於系列圖片之第一項目描述該組圖片相關資訊",
+      "背景圖片不可被聚焦，若背景圖片為有意義傳達之圖片，應有替代的表達方式",
+      "圖片、物件或沒有意義但取得焦點的元件被宣告為“不可用”或“禁用”，並且不可操作"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T14:06:50.989Z",
+    "review_state": "awaiting_candidate"
   }
 ]
