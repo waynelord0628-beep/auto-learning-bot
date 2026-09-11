@@ -81,13 +81,30 @@
     ],
     "type": "單選",
     "course": "公務人員行政中立法與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "臺北大眾捷運公司董事長",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:09.588Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T10:19:53.058Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "新北市市長",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T10:19:52.380Z"
+    },
+    "resolved_answer": "新北市市長"
   },
   {
     "id": "c56420f1a00835542f1437aab6488add5718e011e9c29f59510818e5009f1cd1",

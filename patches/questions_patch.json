@@ -15731,5 +15731,29 @@
       "model": null,
       "checked_at": "2026-09-11T10:19:45.427Z"
     }
+  },
+  {
+    "question": "下列何者並非公務人員行政中立法適用或準用之對象？",
+    "type": "單選",
+    "options": [
+      "臺北大眾捷運公司董事長",
+      "警政署署長",
+      "新北市市長"
+    ],
+    "course": "公務人員行政中立法與實務",
+    "answer": "新北市市長",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "新北市市長",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T10:19:52.380Z"
+    }
   }
 ]
