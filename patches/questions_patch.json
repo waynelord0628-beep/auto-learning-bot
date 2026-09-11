@@ -15903,5 +15903,30 @@
       "model": null,
       "checked_at": "2026-09-11T13:19:57.339Z"
     }
+  },
+  {
+    "question": "正值壯年的張先生一直保持著良好的生活習慣，但他的家族有失智症病史。下列哪個選項最能幫助張先生降低未來罹患失智症的風險？",
+    "type": "單選",
+    "options": [
+      "控制體重和血壓在正常範圍",
+      "得了白內障不要治療",
+      "常與好友相聚過量飲酒",
+      "儘量少動腦筋避免學習新知"
+    ],
+    "course": "認知促進：提升腦活力預防失智上門",
+    "answer": "控制體重和血壓在正常範圍",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "控制體重和血壓在正常範圍",
+      "sources": [
+        {
+          "url": "https://elderhealthcare.ntunhs.edu.tw/tab/527/id/195",
+          "quote": "這些運動能有效控制心臟病、高血壓、糖尿病及高膽固醇等慢性疾病，可以降低阿茲海默症及血管性失智症的發生風險。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T14:20:06.776Z"
+    }
   }
 ]

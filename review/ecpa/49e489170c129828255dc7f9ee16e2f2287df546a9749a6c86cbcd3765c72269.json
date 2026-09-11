@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "認知促進：提升腦活力預防失智上門",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "控制體重和血壓在正常範圍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T14:24:08.511Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T14:20:07.635Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "控制體重和血壓在正常範圍",
+      "sources": [
+        {
+          "url": "https://elderhealthcare.ntunhs.edu.tw/tab/527/id/195",
+          "quote": "這些運動能有效控制心臟病、高血壓、糖尿病及高膽固醇等慢性疾病，可以降低阿茲海默症及血管性失智症的發生風險。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T14:20:06.776Z"
+    },
+    "resolved_answer": "控制體重和血壓在正常範圍"
   },
   {
     "id": "52fb48d9f7b3e023e9bda600abf8a38c8dabeb1bca565d9672e22a81237dbd9f",
