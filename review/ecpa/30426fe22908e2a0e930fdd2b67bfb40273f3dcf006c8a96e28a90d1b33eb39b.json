@@ -1,0 +1,40 @@
+[
+  {
+    "id": "e044c3eb24ff9b35655013296c7dc5eb0ea4a3a113930e29e3737e31188f72a7",
+    "question": "在行動化應用軟體無障礙檢測指引中，有關「NT1包容性通知」檢測點描述，下列何者正確?",
+    "options": [
+      "通知訊息必須有語音",
+      "通知訊息必須有圖片",
+      "通知訊息必須有連結",
+      "通知訊息必須同時可見和可聽"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "通知訊息必須同時可見和可聽",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T14:06:22.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "154467fa9ffb40cea9b95422b484ebbd2c34ace611533ee9bd457d0d737b95dd",
+    "question": "有關「ST1單一頁面標題」檢核點相關說明，下列何者符合無障礙設計？(複選)",
+    "options": [
+      "頁面標題無須顯示在螢幕任一地方",
+      "僅需提供APP名稱作為每個頁面標題",
+      "頁面標題只要在特定頁面顯示",
+      "標題名稱應與頁面內容相呼應"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "標題名稱應與頁面內容相呼應",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T14:06:22.164Z",
+    "review_state": "candidate_ready"
+  }
+]
