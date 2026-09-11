@@ -16122,5 +16122,28 @@
       "model": null,
       "checked_at": "2026-09-11T17:19:42.845Z"
     }
+  },
+  {
+    "question": "自殺是「多種原因、複雜歷程、甚至有交互作用」的行為。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "幸福捕手專業版",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T17:19:48.900Z"
+    }
   }
 ]
