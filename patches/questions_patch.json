@@ -15780,5 +15780,30 @@
       "model": null,
       "checked_at": "2026-09-11T11:19:41.005Z"
     }
+  },
+  {
+    "question": "當我們使用 AI 工具時，應該注意的倫理問題之一是什麼？",
+    "type": "單選",
+    "options": [
+      "AI 生成的速度是否夠快",
+      "AI 是否能生成精美的圖片",
+      "AI 生成的內容是否真實且不帶偏見",
+      "AI 的開發成本是否過高"
+    ],
+    "course": "好好用 AI：了解「AI 風險」的公務生存指南",
+    "answer": "AI 生成的內容是否真實且不帶偏見",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "AI 生成的內容是否真實且不帶偏見",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T11:19:47.721Z"
+    }
   }
 ]

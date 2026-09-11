@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI 生成的內容是否真實且不帶偏見",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.410Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T11:19:48.931Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AI 生成的內容是否真實且不帶偏見",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T11:19:47.721Z"
+    },
+    "resolved_answer": "AI 生成的內容是否真實且不帶偏見"
   },
   {
     "id": "ac94e7d017960f8751a56584b2935709b30283ffe4b08819ff2227f4b1645038",
