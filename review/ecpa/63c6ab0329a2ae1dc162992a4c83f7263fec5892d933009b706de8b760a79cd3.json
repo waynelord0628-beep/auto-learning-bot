@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(2)(3)(1)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.280Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T21:19:43.145Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)(2)(1)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T21:19:42.309Z"
+    },
+    "resolved_answer": "(3)(2)(1)"
   },
   {
     "id": "269f72f1fdcccc0a7b8f9bd881356d02f3dce4c0e7130c89a86babf1d4f92857",
