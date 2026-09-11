@@ -15755,5 +15755,30 @@
       "model": null,
       "checked_at": "2026-09-11T10:19:52.380Z"
     }
+  },
+  {
+    "question": "人工智慧（AI）在現代社會中最主要的影響是什麼？",
+    "type": "單選",
+    "options": [
+      "導致所有人類職業消失",
+      "提升工作效率和生活便利性",
+      "導致全球經濟停滯",
+      "完全取代人類的情感與判斷"
+    ],
+    "course": "好好用 AI：了解「AI 風險」的公務生存指南",
+    "answer": "提升工作效率和生活便利性",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提升工作效率和生活便利性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T11:19:41.005Z"
+    }
   }
 ]
