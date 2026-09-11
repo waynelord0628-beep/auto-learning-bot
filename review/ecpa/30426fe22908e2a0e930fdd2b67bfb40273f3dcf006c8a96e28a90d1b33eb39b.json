@@ -74,5 +74,43 @@
     "source": "reported_question",
     "created_at": "2026-09-11T14:06:57.346Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "a3a0f8e957a305b17bc642eb61f4e17dafd4ecc462a4a60b9beb50db4cc03f0c",
+    "question": "有關「FM1標記表單控件」檢測點的期望敘述，下列何者正確?",
+    "options": [
+      "表單輸入欄位無須提供視覺的標籤",
+      "必填輸入欄位可由螢幕報讀軟體清楚指出",
+      "對於分組的每個欄位，手機報讀模式報讀個別標籤優先於欄位標籤",
+      "以上皆不符合"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "必填輸入欄位可由螢幕報讀軟體清楚指出",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T14:07:26.591Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "71bcab9ccc9fc07df2cdd9deb5057c64898913aa49c3f44f843ebc65b6b8e0e9",
+    "question": "下列哪一項不是呈現組件AV時序媒體相關的檢核點？",
+    "options": [
+      "AT1非文字內容的替代品",
+      "AV1視聽內容的替代品",
+      "AV4音量控制",
+      "AV5不得音訊衝突"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "AV1視聽內容的替代品",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T14:07:26.595Z",
+    "review_state": "awaiting_evidence"
   }
 ]
