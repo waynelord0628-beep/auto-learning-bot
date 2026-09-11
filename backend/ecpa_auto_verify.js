@@ -32,6 +32,8 @@ function ecpaSourceText(html) {
     .replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Math.min(Number(n),1114111))));
 }
 function ecpaVerifyFromSources(q) {
+  const courseAnswer=ecpaVerifyCourseAnswer(q);
+  if(courseAnswer)return courseAnswer.conflict?null:courseAnswer;
   const input = {course:q.course,question:q.question,type:q.type,options:ecpaReviewOptions(q)};
   const research = ecpaReviewApi({
     tools:[{type:'web_search',filters:{allowed_domains:['gov.tw','edu.tw','who.int','un.org','openai.com','microsoft.com']}}],
@@ -74,7 +76,8 @@ function ecpaCanAutoVerify(q, now) {
     ['candidate_ready','awaiting_candidate','awaiting_evidence'].includes(q.review_state) &&
     !q.candidate_conflict && q.type !== '多選' &&
     ecpaReviewOptions(q).length >= 2 && ecpaReviewOptions(q).every(Boolean) &&
-    (q.verify_attempts || 0) < 3 && (!q.verify_after || Date.parse(q.verify_after) <= now);
+    (q.verify_policy !== 'course_first_v1' ||
+      ((q.verify_attempts || 0) < 3 && (!q.verify_after || Date.parse(q.verify_after) <= now)));
 }
 function processEcpaReviewQueue() {
   const maintenance = maintainEcpaReviewQueue();
@@ -134,7 +137,7 @@ function ecpaAutoVerifyBatch(deadline) {
   return {ok:true,attempted,published};
   } finally {
     if (published) {
-      const sent=tgSend('eCPA 自動查證補題\n本輪更新：'+published+' 題\n已比對官方來源並交叉審核（非平台公布答案）。');
+      const sent=tgSend('eCPA 自動補題\n本輪更新：'+published+' 題\n已比對課程解答或來源資料，並補入共用題庫。');
       props.setProperty('ECPA_VERIFY_LAST_NOTIFICATION',JSON.stringify({time:new Date().toISOString(),published,sent:sent===true}));
     }
   }
@@ -147,7 +150,8 @@ function ecpaSaveSourceReview(path,original,verdict,error) {
     const queue=JSON.parse(ecpaReadAt(path,head,'[]'));
     const q=queue.find(x=>x.id===original.id && ecpaReviewIdentity(x)===ecpaReviewIdentity(original));
     if (!ecpaCanAutoVerify(q,Date.now())) return 0;
-    q.verify_attempts=(q.verify_attempts||0)+1;
+    q.verify_attempts=(q.verify_policy==='course_first_v1'?(q.verify_attempts||0):0)+1;
+    q.verify_policy='course_first_v1';
     q.verify_after=new Date(Date.now()+7*86400000).toISOString();
     q.verification_status=error?'service_error':(verdict?'source_supported':'insufficient_sources');
     const patches=JSON.parse(ecpaReadAt(ECPA_PATCH_PATH,head,'[]'));
@@ -157,7 +161,7 @@ function ecpaSaveSourceReview(path,original,verdict,error) {
       q.source_review=verdict; q.status='resolved'; q.review_state='source_reviewed';
       q.resolved_answer=verdict.answer; q.candidate_answer=null;
       patches.push({question:q.question,type:q.type,options:q.options,course:q.course,
-        answer:verdict.answer,source:'official_source_reviewed',source_review:verdict});
+        answer:verdict.answer,source:verdict.method==='course_answer_exact_v1'?'course_answer_page':'official_source_reviewed',source_review:verdict});
       published=1;
     } else if (verdict) q.verification_status='existing_answer_requires_evidence';
     const files=[{path,mode:'100644',type:'blob',content:JSON.stringify(queue,null,2)}];

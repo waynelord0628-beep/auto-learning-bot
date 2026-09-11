@@ -62,8 +62,9 @@ function ecpaReconcileReview(queue, patches) {
       q.status = 'pending'; q.review_state = 'evidence_conflict'; q.candidate_answer = null;
       continue;
     }
-    const reviewed = matches.filter(p => p.source === 'official_source_reviewed' &&
-      p.source_review && p.source_review.method === 'official_source_two_pass_v1');
+    const reviewed = matches.filter(p => p.source_review &&
+      ((p.source === 'official_source_reviewed' && p.source_review.method === 'official_source_two_pass_v1') ||
+       (p.source === 'course_answer_page' && p.source_review.method === 'course_answer_exact_v1')));
     if (reviewed.length === 1 && !trusted.length) {
       q.status = 'resolved'; q.review_state = 'source_reviewed';
       q.resolved_answer = reviewed[0].answer; q.candidate_answer = null;

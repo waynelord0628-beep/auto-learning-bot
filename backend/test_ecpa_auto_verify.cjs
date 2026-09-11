@@ -5,7 +5,7 @@ const q={id:'q',question:'test question',type:'單選',options:['A','B'],course:
 function setup() {
  const files={'queue':JSON.stringify([q]),'patch':'[]','version':'6002'},props={};
  let staged=[],race=false,sends=0,calls=0;
- const ctx={console,Date,ecpaText:s=>String(s).normalize('NFC').trim().replace(/\s+/g,' '),
+ const ctx={console,Date,ecpaVerifyCourseAnswer:()=>null,ecpaText:s=>String(s).normalize('NFC').trim().replace(/\s+/g,' '),
    ECPA_PATCH_PATH:'patch',ECPA_VERSION_PATH:'version',stripJsonFence:s=>s,
    LockService:{getScriptLock:()=>({tryLock:()=>true,releaseLock:()=>{}})},
    PropertiesService:{getScriptProperties:()=>({getProperty:k=>props[k],setProperty:(k,v)=>props[k]=v})},
@@ -40,7 +40,8 @@ s=setup();s.race();assert.throws(()=>s.ctx.ecpaSaveSourceReview('queue',q,verdic
 s=setup();assert.equal(s.ctx.ecpaSaveSourceReview('queue',q,null,true),0);assert.equal(s.files.patch,'[]');assert.equal(s.ctx.ecpaCanAutoVerify(JSON.parse(s.files.queue)[0],Date.now()),false);
 assert.equal(s.ctx.ecpaCanAutoVerify({...q,reason:'exam_failed_unverified'},Date.now()),false);
 assert.equal(s.ctx.ecpaCanAutoVerify({...q,type:'多選'},Date.now()),false);
-assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3},Date.now()),false);
+assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_policy:'course_first_v1'},Date.now()),false);
+assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_after:'2999-01-01'},Date.now()),true);
 s=setup();s.ctx.maintainEcpaReviewQueue=()=>({ok:true});s.ctx.ecpaAutoVerifyBatch=()=>({ok:true});
 s.ctx.processEcpaReviewQueue();assert.equal(s.props.ECPA_VERIFY_USED,'3');assert.equal(s.props.ECPA_VERIFY_LEASE_UNTIL,'0');
 s.props.ECPA_VERIFY_USED='48';assert.equal(s.ctx.processEcpaReviewQueue().status,'daily_budget');

@@ -37,3 +37,14 @@ Code.template.gs 是移除四項私密設定後的完整後端測試範本，不
 通過者以 official_source_reviewed 儲存來源 URL、短引文、模型與時間；題庫、版本及待查結案同一個非強制 commit。已發布項目重跑不再次發布。每輪正式更新才合併推送一則 Telegram；來源紀錄保存在題庫中，訊息清楚區分平台答案。服務錯誤保留在題目及執行失敗紀錄。Telegram 送出結果記於 ECPA_VERIFY_LAST_NOTIFICATION；網路逾時可能無法確認送達，為避免重複通知不盲目重送。
 
 測試：node backend/test_ecpa_auto_verify.cjs。另須跑既有 review、evidence、backend_incident 測試。官方 API 參考：https://developers.openai.com/api/docs/guides/tools-web-search
+
+
+## 2026-09-11 課程解答優先（GAS 24）
+
+先用 source_index 找原 DB 的公開 source_url，直接重讀 Peigogo、Rodiyer、roddayeye 痞客邦課程頁；只索引網址、不輸出 DB 答案或帳密。索引依題目與課程雜湊切成 256 個小檔，避免單檔超出 GitHub Contents API 限制。建置指令：python backend/build_course_source_index.py <questions.db> review/source_index。
+
+頁面標題須符合課程，题目文字與完整组选項須相符，並解析頁面 V/✓ 正解標記。找到確切解答不呼叫 AI，來源答案不同不發布；原 DB 答案不作為核實依據。找不到時才搜尋這三個網站的新解答頁，仍須讀取原文解析，最後才用原官方來源查證作備援。非官方解答以 course_answer_page / course_answer_exact_v1 記錄，明確與平台答案區別。這些網站也可能有錯，不能保證及格。
+
+前一版因官方來源不足而待查的題目可立即進新流程一次，後續維持原重試間隔與每日額度；客戶端考三次不及格就跳過的規則沒有修改。已存在正式答案不在本次擴大覆寫。
+
+驗證：node backend/test_ecpa_course_sources.cjs，加上既有 auto_verify/review/evidence/backend_incident 測試。已用實際下載的痞客邦「低碳蔬食活力GO」頁面與 DB 網址索引驗證是非答案對應。
