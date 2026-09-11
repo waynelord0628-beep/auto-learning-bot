@@ -267,5 +267,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.034Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "32c3ec4de3e3e7f05d0f97869f404cced8dff90849d9e41a5aa9056f5824d86b",
+    "question": "性騷擾的發生可能源自於哪些因素？",
+    "options": [
+      "權力不對等",
+      "性別刻板印象",
+      "對性騷擾的迷思與錯誤認知",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:43.972Z",
+    "review_state": "candidate_ready"
   }
 ]
