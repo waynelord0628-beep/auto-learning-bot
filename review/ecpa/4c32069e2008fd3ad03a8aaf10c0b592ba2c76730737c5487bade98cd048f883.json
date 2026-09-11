@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "School Away From Home 遠離家鄉的學校",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "attack",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:18:22.557Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T16:20:03.525Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "attack",
+      "sources": [
+        {
+          "url": "https://ukraine.un.org/en/278124-un-human-rights-monitors-report-extensive-civilian-harm-recent-attacks",
+          "quote": "Attacks by Russian armed forces since 26 August have caused extensive civilian harm across Ukraine"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T16:20:02.732Z"
+    },
+    "resolved_answer": "attack"
   },
   {
     "id": "7d9a138904b6711474ee34e9b0489454f5d6d0b7440e8ec18591bd4234a1993f",

@@ -16074,5 +16074,30 @@
       "model": null,
       "checked_at": "2026-09-11T16:19:47.639Z"
     }
+  },
+  {
+    "question": "Russia launched a fierce _____ , causing Ukrainians to lose lives and properties.",
+    "type": "單選",
+    "options": [
+      "appreciate",
+      "attack",
+      "rebuild",
+      "integrate"
+    ],
+    "course": "School Away From Home 遠離家鄉的學校",
+    "answer": "attack",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "attack",
+      "sources": [
+        {
+          "url": "https://ukraine.un.org/en/278124-un-human-rights-monitors-report-extensive-civilian-harm-recent-attacks",
+          "quote": "Attacks by Russian armed forces since 26 August have caused extensive civilian harm across Ukraine"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T16:20:02.732Z"
+    }
   }
 ]
