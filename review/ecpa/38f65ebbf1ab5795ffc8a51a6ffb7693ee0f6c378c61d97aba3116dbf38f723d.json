@@ -1,0 +1,180 @@
+[
+  {
+    "id": "81001997fa4fd6d816af8dd0f585c934312bb34d23e2f56f68793b8128d50de0",
+    "question": "公務常見的運用開放之生成式AI的隱性危險行為，下列何項敘述不包括在其中?",
+    "options": [
+      "政策研析都靠生成式AI ，不自知的被牽著走",
+      "無法判斷他人提供的素材是否從生成式AI 產生，導致自己侵權",
+      "無完整個資保護意識，所做的行為也無法確保個資零檢出",
+      "運用生成式AI 文字生成之功能，協助公文稿件撰寫"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.308Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9ee0f8fe5768e58e76a072fb99a2a9417c59abd554c6987526f6d447d587ffdc",
+    "question": "若將營業秘密輸入開放式AI(如ChatGPT、Bard)，其他人使用均可能取得此資料，可能就會因此喪失成為營業秘密之要件。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.314Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3b3dfd1007ef74f585402d2e015839c1479eaddeddc7f9552dc4fcd30717f99c",
+    "question": "公務常見的運用開放之生成式AI的顯性危險行為，下列何項敘述不包括在其中?",
+    "options": [
+      "將公務文件整篇放到生成式AI翻譯",
+      "與生成式AI問答當中透漏個資與機敏資料",
+      "人工最終判斷生成式AI的回復",
+      "機關或承商(非公益性質)直接使用生成式AI產生的圖片、影音"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "人工最終判斷生成式AI的回復",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.315Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "529c55d1b4024029c2252a39bad13a23154e43bae80d7598a403eda20b8b913a",
+    "question": "國科會發布之公務機關使用生成式AI指引 ，規定為了要充分運用AI功能，得違反資通安全與相關資訊使用規定。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.315Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "acd1c6d2fe628fe62cad3197a10c13d4d2563c8c575e598ba95ab85e7a972c8f",
+    "question": "生成式AI用於智慧政府，可協助公文稿件撰寫、政府服務與公務流程優化、民眾回應彙編、 智慧線上櫃台輔助等項目。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.316Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eae44745ff0f57e166ecf15c63cbed2099c6f878387c475715df3be6a64cf793",
+    "question": "國科會發布之公務機關使用生成式AI指引 ，下列何者為非?",
+    "options": [
+      "不得提供任何未經公開或涉及公務上應保密之公務相關資訊予生成式AI 。",
+      "機敏文件可由公務人員使用生成式AI撰寫 。",
+      "AI產生的文件仍須公務人員進行最終判斷，不得取代公務人員自主思維。",
+      "不得以未經確認之產出內容做為公務決策或提供服務。"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.317Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "a2c0053e4e365b346400c1634d50bea9bd3b531e1a360c702969b66d625e5ee4",
+    "question": "使用者運用開放式AI(如ChatGPT、Midjourney)產生之文章及圖片，由於是AI產生的，即使其來源資料具有原創性、創作性，仍與AI使用者無關，因此可合法使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.317Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "af37cb71c7c9aaa3b660d7ac55bc074117b0d15784424932912727836565ba7f",
+    "question": "ChatGPT的隱私權政策宣告，下列何者為非?",
+    "options": [
+      "會蒐集包括在服務提供的輸入、文件上傳或反饋包含的個人資訊",
+      "會就個人資訊聚合或去識別化分析服務的有效性 、改進和增進服務的功能",
+      "會向供應商和服務提供商提供個人資訊，包括託管服務、雲端服務與電子郵件通訊服務等",
+      "會拒絕使用者關閉聊天記錄功能，以利資料可以有效被提供作為訓練基礎"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "會拒絕使用者關閉聊天記錄功能，以利資料可以有效被提供作為訓練基礎",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.318Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "98842390bda911cf49cbc72a785090525497ed7db67f178675172a512e63645d",
+    "question": "生成式AI發展已經成熟，不會有胡說八道的情況發生。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.319Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5cd375aa18d5ece35a02bd3d26912c7f2f1511e5aba510459b7ef0f1256996e9",
+    "question": "生成式AI可用於智慧客服輔助、語音助理、 服務流程設計、文案生成等項目。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:21.320Z",
+    "review_state": "candidate_ready"
+  }
+]
