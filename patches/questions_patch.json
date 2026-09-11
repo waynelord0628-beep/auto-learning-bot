@@ -16168,5 +16168,30 @@
       "model": null,
       "checked_at": "2026-09-11T17:19:54.968Z"
     }
+  },
+  {
+    "question": "Thanks to our great ______, we made lots of money by selling all our crops at the market.",
+    "type": "單選",
+    "options": [
+      "harvest",
+      "harvested",
+      "relief",
+      "relieved"
+    ],
+    "course": "十萬個冷知識(聖誕節)",
+    "answer": "harvest",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "harvest",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T18:19:47.689Z"
+    }
   }
 ]
