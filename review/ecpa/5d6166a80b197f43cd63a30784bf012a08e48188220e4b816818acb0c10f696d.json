@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "族群主流化概念介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:47:09.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T20:19:55.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_220.html",
+          "title": "「族群主流化概念介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T20:19:55.289Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "de32c30d0b32f6e00ceb7771757d230fb09504a7ef6e73aea1349f3ac2cafeca",
