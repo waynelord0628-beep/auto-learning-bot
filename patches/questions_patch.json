@@ -15581,5 +15581,32 @@
       "錯誤"
     ],
     "course": "《人權搜查客》不受限的完成挑戰自我，談身心障礙者的處遇ft. Chairman椅人˙何秉錡"
+  },
+  {
+    "question": "工業革命後，人類大量利用石油、煤炭、天然氣等作為能量來源，產生大量的溫室氣體。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "低碳蔬食活力GO",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://lowcarbon.taichung.gov.tw/page/about/index.aspx?kind=82&lang=TW",
+          "quote": "大量開採煤、石油和天然氣等化石燃料，以取得能源。這些人類活動會使大氣中的二氧化碳含量增加，促使大氣的溫室效應加強，導致全球的溫度上升。"
+        },
+        {
+          "url": "https://pweb.cwa.gov.tw/PopularScience/wt/wt_6.html",
+          "quote": "然而自工業革命之後，人類為了工業與文明發展大量使用石化燃料（如煤和石油），再加上不斷砍伐熱帶雨林"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T09:09:29.031Z"
+    }
   }
 ]

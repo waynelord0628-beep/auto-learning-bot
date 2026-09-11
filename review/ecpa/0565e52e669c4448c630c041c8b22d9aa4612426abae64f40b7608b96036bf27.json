@@ -48,13 +48,33 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.253Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_after": "2026-09-18T09:09:29.944Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://lowcarbon.taichung.gov.tw/page/about/index.aspx?kind=82&lang=TW",
+          "quote": "大量開採煤、石油和天然氣等化石燃料，以取得能源。這些人類活動會使大氣中的二氧化碳含量增加，促使大氣的溫室效應加強，導致全球的溫度上升。"
+        },
+        {
+          "url": "https://pweb.cwa.gov.tw/PopularScience/wt/wt_6.html",
+          "quote": "然而自工業革命之後，人類為了工業與文明發展大量使用石化燃料（如煤和石油），再加上不斷砍伐熱帶雨林"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T09:09:29.031Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ad5024e3035cd8f2caeb8779f08d126a3d8264f2e674353dd295c62e9358db57",
