@@ -176,5 +176,79 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.320Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4fbf9094bdfa400ca2f46ca7ecdad8663ac08ca226a5aa3d4fb3b08532b4fc27",
+    "question": "下列何者非ChatGPT的基本功能?",
+    "options": [
+      "只要運用少量電腦運算資源就能生成完整的回答",
+      "生成式AI就像一個很會玩文字接龍的軟體",
+      "Prompt用讓ChatGPT作角色扮演，功能發揮更加得精準",
+      "ChatGPT用AI老師來訓練自己，因此身段更軟、 道德更高、胡說八道的機率更低"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ChatGPT用AI老師來訓練自己，因此身段更軟、 道德更高、胡說八道的機率更低",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:57.734Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1da246a9ef79c96d2abce3aeb7d4479a8abc213c3ed8acae644fa5280e35fe6d",
+    "question": "重要的生成式AI功能性應用，下列何者為非?",
+    "options": [
+      "自然語言處理",
+      "數位內容生成創作",
+      "程式設計",
+      "無法創作"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "無法創作",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:57.745Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2dfe39333cf3bdca3a30d2233e0b7a2757fc5c86a3223479e27c8975038a0c99",
+    "question": "國科會開發「可信任人工智慧對話引擎」 TAIDE ，實測可自動摘要、翻譯文本、寫信及寫文章，TAIDE 7B都有不錯表現。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:57.746Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eda8426c4a9cb6cd91faafcf7c83db9348ed490bbbf9587ced4b711949c0d629",
+    "question": "依據營業秘密法第2條所稱營業秘密須符合之要件，下列何者為非?",
+    "options": [
+      "屬個人獨有之創作而尚未被他人所研發成功者。（原創性）",
+      "非一般涉及該類資訊之人所知者。（新穎性）",
+      "因其秘密性而具有實際或潛在之經濟價值者。（價值性）",
+      "所有人已採取合理之保密措施者。（秘密性）"
+    ],
+    "type": "單選",
+    "course": "人工智慧應用與實務（基礎篇）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "所有人已採取合理之保密措施者。（秘密性）",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T20:25:57.747Z",
+    "review_state": "candidate_ready"
   }
 ]
