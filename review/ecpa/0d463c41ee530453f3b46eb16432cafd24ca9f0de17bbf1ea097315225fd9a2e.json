@@ -71,7 +71,10 @@
     "candidate_answer": "氫氟碳化物(HFCS)",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:54:53.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_after": "2026-09-18T09:20:33.772Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0f0b6626572b480109613fde23f562222b8070dfc54dabde2deec496080cc724",
