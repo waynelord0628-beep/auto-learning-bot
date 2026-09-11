@@ -16,7 +16,11 @@
     "candidate_answer": "communication",
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:08:23.347Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T12:21:27.946Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0beba5d5d0c93fd1c5260be0c423d303eae979d2735d320c2ae03fe4d7d41af1",
