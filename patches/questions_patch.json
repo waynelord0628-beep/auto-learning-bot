@@ -15928,5 +15928,28 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-11T14:20:06.776Z"
     }
+  },
+  {
+    "question": "阿茲海默症若在早期就透過服藥等方式控制病情，病患將可較晚邁入中、晚期的臥床、失禁等境地。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認知促進：提升腦活力預防失智上門",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0499089905.html",
+          "title": "「認知促進：提升腦活力預防失智上門」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T14:20:12.941Z"
+    }
   }
 ]
