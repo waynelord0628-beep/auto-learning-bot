@@ -49,7 +49,10 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:54:53.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_after": "2026-09-18T09:20:07.269Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "56b2446a40261f31b74bd298c81d8bc25dcf0230d4899e3e18222a770f10242d",
