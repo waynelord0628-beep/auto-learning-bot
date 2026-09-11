@@ -16412,5 +16412,30 @@
       "model": null,
       "checked_at": "2026-09-11T22:19:39.238Z"
     }
+  },
+  {
+    "question": "Canva 的設計之中有些照片並非是方正形狀而是特殊形狀，這是用到什麼功能？",
+    "type": "單選",
+    "options": [
+      "裁切",
+      "剪裁",
+      "邊框",
+      "插圖"
+    ],
+    "course": "應用Canva AI工作坊",
+    "answer": "邊框",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "邊框",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T22:19:43.529Z"
+    }
   }
 ]
