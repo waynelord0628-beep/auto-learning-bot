@@ -301,5 +301,23 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:15:50.039Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "037650f4d6420dbb5597f36d4caa49fd2e7e3445c08d4a62ff024399f9ed8798",
+    "question": "右列何者非我國自主研製之軍艦",
+    "options": [
+      "成功級巡防艦",
+      "沱江軍艦",
+      "基隆級軍艦"
+    ],
+    "type": "單選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "基隆級軍艦",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T01:16:50.769Z",
+    "review_state": "candidate_ready"
   }
 ]
