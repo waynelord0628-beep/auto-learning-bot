@@ -318,5 +318,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:43.545Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "144a4d5589d4406de6c8e51dc13e4b906bde1b2eca72a98eeff5190846dad0bc",
+    "question": "當朋友有嚴重自殺意念時，哪種處理方式較恰當?",
+    "options": [
+      "替他保密以避免更加嚴重",
+      "因他與家人關係不佳，幫他隱瞞他的家人",
+      "建議就醫",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建議就醫",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T01:21:52.934Z",
+    "review_state": "candidate_ready"
   }
 ]
