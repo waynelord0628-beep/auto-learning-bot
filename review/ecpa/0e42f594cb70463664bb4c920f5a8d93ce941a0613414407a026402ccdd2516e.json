@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "如何看出新聞是「真」還是「假」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "current",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:07:48.775Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T09:46:26.397Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "current",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_61.html",
+          "title": "「如何看出新聞是「真」還是「假」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T09:46:25.652Z"
+    },
+    "resolved_answer": "current"
   },
   {
     "id": "05e6ba85f713db3afab1760c6fe43febb9b31e4b85ecafbe138ccb79b34b828c",
