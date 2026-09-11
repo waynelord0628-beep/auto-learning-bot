@@ -337,5 +337,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:21:52.934Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "811df21fe6bd6e77153100705b83bcb9b6895416962a0921c56e2ebfcd905c32",
+    "question": "可以透過觀察以覺察他人的求助信號嗎",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "心靈守門員",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T01:22:21.990Z",
+    "review_state": "candidate_ready"
   }
 ]
