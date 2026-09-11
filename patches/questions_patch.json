@@ -15608,5 +15608,28 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-11T09:09:29.031Z"
     }
+  },
+  {
+    "question": "溫室氣體碳盤查是針對二氧化碳(CO2)的盤查",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.ida.gov.tw/ctlr?PRO=faq.FaqView&id=3838",
+          "quote": "針對7種溫室氣體進行全廠排放量盤查作業"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T09:19:50.442Z"
+    }
   }
 ]
