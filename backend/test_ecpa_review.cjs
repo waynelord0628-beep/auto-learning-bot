@@ -40,9 +40,9 @@ q={...base,reason:'exam_failed_unverified'};s.ctx.ecpaReconcileReview([q],[]);as
 q={...base,candidate_answer:null};s.ctx.ecpaReconcileReview([q],[]);s.ctx.ecpaRetryCandidates([q],10,Date.now());assert.equal(q.candidate_answer,'B');assert.equal(s.ai(),1);
 q={...base,candidate_answer:null,retry_count:3};s.ctx.ecpaReconcileReview([q],[]);s.ctx.ecpaRetryCandidates([q],10,Date.now());assert.equal(s.ai(),1);assert.equal(q.review_state,'awaiting_evidence');
 s=setup();const path='review/ecpa/'+hash('course')+'.json';s.files[path]=JSON.stringify([base]);s.files['patches/questions_patch.json']='[]';
-s.ctx.processEcpaReviewQueue();assert.equal(JSON.parse(s.files[path])[0].candidate_answer,'B');assert.equal(s.tg(),0);assert.equal(s.ai(),0);assert.equal(s.files['patches/questions_patch.json'],'[]');
-const writes=s.writes();s.ctx.processEcpaReviewQueue();assert.equal(s.writes(),writes);
-s=setup();s.files[path]=JSON.stringify([base]);s.race();assert.throws(()=>s.ctx.processEcpaReviewQueue());assert.equal(JSON.parse(s.files[path])[0].candidate_answer,'2. B');assert.equal(s.props.ECPA_REVIEW_CURSOR,undefined);
+s.ctx.maintainEcpaReviewQueue();assert.equal(JSON.parse(s.files[path])[0].candidate_answer,'B');assert.equal(s.tg(),0);assert.equal(s.ai(),0);assert.equal(s.files['patches/questions_patch.json'],'[]');
+const writes=s.writes();s.ctx.maintainEcpaReviewQueue();assert.equal(s.writes(),writes);
+s=setup();s.files[path]=JSON.stringify([base]);s.race();assert.throws(()=>s.ctx.maintainEcpaReviewQueue());assert.equal(JSON.parse(s.files[path])[0].candidate_answer,'2. B');assert.equal(s.props.ECPA_REVIEW_CURSOR,undefined);
 // Intake remains backward-compatible, silent, and deduplicates across report reasons.
 s=setup();let saved=[],puts=0;
 s.ctx.Utilities={DigestAlgorithm:{SHA_256:0},Charset:{UTF_8:0},computeDigest:(_,text)=>[...Buffer.from(hash(text),'hex')]};

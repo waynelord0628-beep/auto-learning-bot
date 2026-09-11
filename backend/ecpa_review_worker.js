@@ -1,4 +1,4 @@
-// Queue maintenance never promotes an AI answer into the published bank.
+// Maintenance consumes evidence; the separate source verifier performs research.
 function ecpaReviewIdentity(q) {
   return JSON.stringify([ecpaText(q.question || ''), String(q.type || ''),
     (q.options || []).map(ecpaText).sort()]);
@@ -62,6 +62,13 @@ function ecpaReconcileReview(queue, patches) {
       q.status = 'pending'; q.review_state = 'evidence_conflict'; q.candidate_answer = null;
       continue;
     }
+    const reviewed = matches.filter(p => p.source === 'official_source_reviewed' &&
+      p.source_review && p.source_review.method === 'official_source_two_pass_v1');
+    if (reviewed.length === 1 && !trusted.length) {
+      q.status = 'resolved'; q.review_state = 'source_reviewed';
+      q.resolved_answer = reviewed[0].answer; q.candidate_answer = null;
+      continue;
+    }
     // Keep status=pending for released 2.1.9 readers; review_state carries detail.
     q.status = 'pending';
     if (q.options.length < 2 || q.options.some(x => !x) || new Set(q.options).size !== q.options.length) {
@@ -103,7 +110,7 @@ function ecpaRetryCandidates(queue, budget, now) {
   retry.forEach(q => { if (!q.candidate_answer && q.retry_count >= 3) q.review_state = 'awaiting_evidence'; });
   return retry.length;
 }
-function processEcpaReviewQueue() {
+function maintainEcpaReviewQueue() {
   const lock = LockService.getScriptLock();
   if (!lock.tryLock(1000)) return {ok:false, status:'busy'};
   try {

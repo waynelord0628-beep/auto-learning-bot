@@ -24,3 +24,16 @@
 Code.template.gs 是移除四項私密設定後的完整後端測試範本，不可直接覆蓋現有部署設定。test_backend_incident.cjs 直接執行完整範本，涵蓋在線統計、心跳寫入、缺少常數、儲存失敗與大量錯誤通知上限。
 
 驗證：node backend/test_backend_incident.cjs。正式 Web App 已驗證 usage_stats、usage_ping 與既有匿名裝置心跳寫入正常。未修改或重新發布 2.1.9 EXE。
+
+
+## 2026-09-11 自動來源查證（GAS 23）
+
+新增 ecpa_auto_verify.js；原排程函式保留 processEcpaReviewQueue 名稱，先做既有維護，再主動查證缺題。以上舊段落所述「只維護、不查證」由本節更新。
+
+每輪最多 3 題、每日最多 48 題（UTC），API 呼叫前持久保留額度並取得有期限的工作租約。查證期間不持有 Git 寫入鎖，避免阻擋使用者上傳或在線心跳。未通過者 7 天後重試、最多 3 次；複選、選項不足、考試失敗及已有正式答案衝突不自動覆寫。
+
+查證使用 Responses web_search（gpt-4.1），只搜尋指定官方來源。後端再次 HTTPS 讀取來源，拒絕跳轉，核對連續原文存在，再以另一個不提供候選答案的請求審核原文與題目。這是有來源的 AI 審核，不等於平台公布答案，也不保證答案絕對正確。原文不足、來源不可讀、兩次判斷不同均不入庫。
+
+通過者以 official_source_reviewed 儲存來源 URL、短引文、模型與時間；題庫、版本及待查結案同一個非強制 commit。已發布項目重跑不再次發布。每輪正式更新才合併推送一則 Telegram；來源紀錄保存在題庫中，訊息清楚區分平台答案。服務錯誤保留在題目及執行失敗紀錄。Telegram 送出結果記於 ECPA_VERIFY_LAST_NOTIFICATION；網路逾時可能無法確認送達，為避免重複通知不盲目重送。
+
+測試：node backend/test_ecpa_auto_verify.cjs。另須跑既有 review、evidence、backend_incident 測試。官方 API 參考：https://developers.openai.com/api/docs/guides/tools-web-search
