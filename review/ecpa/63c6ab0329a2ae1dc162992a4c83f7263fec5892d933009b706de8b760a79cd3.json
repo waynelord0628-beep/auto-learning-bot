@@ -178,5 +178,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.289Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "970462959db6c6db31f5bab24a6dbdf5bd3eab0d392affd021a4cfd5a98027b8",
+    "question": "性騷擾案件成立與否，完全取決於被害人個人主觀之感受。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:06.028Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ef95d69314579e32009c4c836e6447728226d2055ef9881a4092112f6646ae02",
+    "question": "以下對於「權勢性騷擾」的描述，何者為「非」？",
+    "options": [
+      "無法律明確定義",
+      "雙方須有教育、訓練、醫療、公務、業務、求職或其他相類關係",
+      "行為人對被害人有監督、照護、指導之權",
+      "除看雙方的關係之外，行為人也須「利用權勢或機會」為性騷擾"
+    ],
+    "type": "單選",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "無法律明確定義",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:06.029Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b7013b9de5bc9b8b3a8594f08efdf1cd2374fd9818837f4f2eed804ac4fa61cc",
+    "question": "對於「場所主人責任」的描述，何者為「是」？",
+    "options": [
+      "性騷擾事件發生後，場所主人才負有責任",
+      "是否要舉辦或要求員工參與性騷擾防治的教育訓練，取決於各單位自己的規劃，法律並無規定",
+      "場所主人負有檢討所屬場所安全之責任",
+      "雖被害人有蒐證需求，但監視錄影屬於私人財產，不應對外提供"
+    ],
+    "type": "單選",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "場所主人負有檢討所屬場所安全之責任",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:06.031Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "218277795321687b16953ca06dbe6c7fa22f99bfb8c04d93e2e34a651021744f",
+    "question": "政府機關(構)、部隊、學校、警察機關及直轄市、縣(市)主管機關於性騷擾事件調查過程中，應主動提供或轉介諮詢協談、心理輔導、法律協助、社會福利資源及其他必要之服務予被害人。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:06.032Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "caacebda4ff2b83cc5a7d60af434da83c85474abe2913ce80d749f5272b94fdc",
+    "question": "如果同在一個職場，行為人上班時性騷擾被害人，下班後也繼續性騷擾被害人，依照現行法，上班時的性騷擾用〈性別平等工作法〉來處理、下班後的性騷擾用〈性騷擾防治法〉來處理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T09:24:06.034Z",
+    "review_state": "candidate_ready"
   }
 ]
