@@ -15631,5 +15631,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-11T09:19:50.442Z"
     }
+  },
+  {
+    "question": "After looking over Wilson's banking records, the police ______ that he had stolen the car.",
+    "type": "單選",
+    "options": [
+      "conclude",
+      "concluded",
+      "concludes",
+      "concluding"
+    ],
+    "course": "如何看出新聞是「真」還是「假」",
+    "answer": "concluded",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "concluded",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_61.html",
+          "title": "「如何看出新聞是「真」還是「假」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T09:46:20.304Z"
+    }
   }
 ]
