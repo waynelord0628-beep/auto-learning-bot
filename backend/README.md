@@ -15,3 +15,12 @@
 驗證：`node backend/test_ecpa_review.cjs`、`node backend/test_ecpa_evidence.cjs`。
 
 部署需要在既有 Apps Script 編輯器儲存上述函式，更新原 Web App 部署版本（保留既有 URL），再於觸發條件介面設定每小時執行 `processEcpaReviewQueue`。單純推送 GitHub 不會更新 GAS 或啟用排程。
+
+
+## 2026-09-11 緊急修復（GAS 22）
+
+前次替換函式時誤刪其後的 USAGE_PROP_KEY 宣告，造成在線心跳持續拋錯；doPost 的無限制錯誤通知放大成 Telegram 洗版。已還原原常數值，心跳錯誤僅留執行記錄，其他錯誤使用共用鎖及持久時間戳限制每小時最多一則通知。訊息不包含原始請求或憑證。
+
+Code.template.gs 是移除四項私密設定後的完整後端測試範本，不可直接覆蓋現有部署設定。test_backend_incident.cjs 直接執行完整範本，涵蓋在線統計、心跳寫入、缺少常數、儲存失敗與大量錯誤通知上限。
+
+驗證：node backend/test_backend_incident.cjs。正式 Web App 已驗證 usage_stats、usage_ping 與既有匿名裝置心跳寫入正常。未修改或重新發布 2.1.9 EXE。
