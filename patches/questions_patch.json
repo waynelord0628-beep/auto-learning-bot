@@ -16437,5 +16437,30 @@
       "model": null,
       "checked_at": "2026-09-11T22:19:43.529Z"
     }
+  },
+  {
+    "question": "當進行任何操作時，發現操作有誤，或跟預期有落差，這時候最好的作法是？",
+    "type": "單選",
+    "options": [
+      "登出 Canva",
+      "回到 Canva首頁",
+      "按Ctrl +Z復原",
+      "按Esc"
+    ],
+    "course": "應用Canva AI工作坊",
+    "answer": "按Ctrl +Z復原",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "按Ctrl +Z復原",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T22:19:47.873Z"
+    }
   }
 ]
