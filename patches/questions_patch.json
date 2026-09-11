@@ -15706,5 +15706,30 @@
       "model": null,
       "checked_at": "2026-09-11T10:19:40.746Z"
     }
+  },
+  {
+    "question": "依我國現行法令規定，下列何者於任職期間不得參加政黨活動？",
+    "type": "單選",
+    "options": [
+      "法官",
+      "公務人員保障暨培訓委員會主任委員",
+      "審計長",
+      "法務部長"
+    ],
+    "course": "公務人員行政中立法與實務",
+    "answer": "法官",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "法官",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T10:19:45.427Z"
+    }
   }
 ]
