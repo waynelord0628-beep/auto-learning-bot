@@ -188,5 +188,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.675Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "6fe1363b3d5982c1df351b0d9de6ac4fb50337c1b1519107661268cf1cfc8e67",
+    "question": "下列哪一個工具常被用於機器人流程自動化（RPA）的開發？",
+    "options": [
+      "生成式AI",
+      "UiPath",
+      "Excel",
+      "PowerPoint"
+    ],
+    "type": "單選",
+    "course": "自動化革命：解放工作力！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "UiPath",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T14:36:11.968Z",
+    "review_state": "candidate_ready"
   }
 ]
