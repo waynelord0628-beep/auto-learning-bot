@@ -178,5 +178,97 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.284Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9fc98d0b4cb46b95009853914a47d0f0b571b24582aeb39dc744b537ecba2d84",
+    "question": "聯合國有九大核心人權公約，所謂「核心人權公約」，是指該公約設有「委員會」（亦即「條約機構」），以審查並監督締約國定期提交的「國家報告」。請問截至2024年6月為止，下列哪一部核心公約在臺灣已具有國內法的效力？",
+    "options": [
+      "公民與政治權利國際公約（ICCPR）",
+      "所有移徙工人及其家庭成員權利國際公約（ICMW）",
+      "保護所有人免遭強迫失蹤國際公約（ICPPED）",
+      "禁止酷刑和其他殘忍、不人道或有辱人格的待遇或處罰公約（CAT）"
+    ],
+    "type": "單選",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:04.314Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "aad2d677bc56abdf2f3f57f3af198d4e262e2fab0de555b722e9ff1dca40fa3b",
+    "question": "「經濟社會文化權利國際公約」第10條規定，家庭為社會之自然基本團體單位，當其負責養護教育受扶養之兒童時，尤應予以保護與協助。對於兒童的保障，在「兒童權利公約」有更細緻具體的規範。劇中小女孩阿綢告訴母親：「雖然阮是囡仔，嘛有表達家己意見的權利！」請問阿綢提及的權利最接近下列哪一項「兒童權利公約」的原則？",
+    "options": [
+      "禁止歧視原則",
+      "兒童最佳利益原則",
+      "生存及發展權",
+      "兒童表意權"
+    ],
+    "type": "單選",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "兒童表意權",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:04.318Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "691f121d75df2cbddd6a962badd9e546bdf28cde75def0a7ef3d84fb58c49bc7",
+    "question": "堅持行義的書院先生梁清江堪稱本劇的人權先行者。假若清江生活在現在的臺灣，請問下列敘述何者正確？",
+    "options": [
+      "世代安居在天水的村民，遭受迫遷及驅離；村民受影響之權益包括「經濟社會文化權利國際公約」第11條所延伸的住居適足權與土地權",
+      "清江召集文友聯名抗議迫遷；此種和平集會之權利為「公民與政治權利國際公約」第21條所肯認",
+      "清江撰寫文稿呼籲大眾關心重大社會議題；清江以文字傳遞消息及思想的發表自由，為「公民與政治權利國際公約」第19條所保障",
+      "雖然小女孩阿綢表示：「人家清江叔叔都會好好地聽我說話」，但兒少表意權的相對人只限其父母元寶和玉女，不包括身為師長的清江",
+      "清江堅信「義就是走自己應該走的道路」，並以此為處世原則；但因為這是不涉及宗教信仰的個人信念，所以不在「公民與政治權利國際公約」第18條的保障"
+    ],
+    "type": "多選",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:04.320Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d1dfb6d32aab756704b7f47701a98953450f7f33736a29d74dd84c7857883a45",
+    "question": "本劇第5幕，元寶回憶清江曾對他說過，即使是身心障礙者亦應受到他人的尊重。清江這段話符合「身心障礙者權利公約」平等不歧視原則的精神。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:04.322Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e983a013904f4f48c68fc9a7ec53def60279d441960096f240837c0d154a9240",
+    "question": "「公民與政治權利國際公約」第7條本文規定：「任何人不得施以酷刑，或予以殘忍、不人道或侮辱之處遇或懲罰。」劇中李捕頭雖向元寶展示對其他囚犯的嚴刑拷問、威脅要讓元寶嚐嚐皮鞭的滋味，甚至刻意提及元寶的家人，但因為沒有真的鞭打元寶，所以並不構成本條禁止之行為。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:04.322Z",
+    "review_state": "candidate_ready"
   }
 ]
