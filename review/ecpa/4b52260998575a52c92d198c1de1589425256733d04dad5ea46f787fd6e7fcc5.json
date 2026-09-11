@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "性騷擾防治法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "30人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:23:13.216Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T15:22:55.633Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "30人",
+      "sources": [
+        {
+          "url": "https://eeweb.mol.gov.tw/genderZone/harassment_2.html",
+          "quote": "僱用受僱者三十人以上之雇主，除依前條規定辦理外，應依本準則規定，訂定性騷擾防治措施、申訴及懲戒規範，並公開揭示之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T15:22:54.652Z"
+    },
+    "resolved_answer": "30人"
   },
   {
     "id": "d657ca1fc78d0a422471d811bf7c8294baafd8f5d20dbc8c2c4ab7c7496ebae1",
