@@ -16218,5 +16218,30 @@
       "model": null,
       "checked_at": "2026-09-11T18:19:53.609Z"
     }
+  },
+  {
+    "question": "Ahmad cooked a ______ meal to share a part of his culture with his friends.",
+    "type": "單選",
+    "options": [
+      "tradition",
+      "traditional",
+      "traditionally",
+      "traditionalist"
+    ],
+    "course": "十萬個冷知識(聖誕節)",
+    "answer": "traditional",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "traditional",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T18:19:59.197Z"
+    }
   }
 ]
