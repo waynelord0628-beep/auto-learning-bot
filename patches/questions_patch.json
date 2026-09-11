@@ -16291,5 +16291,30 @@
       "model": null,
       "checked_at": "2026-09-11T20:19:55.289Z"
     }
+  },
+  {
+    "question": "請問以下何者「不是」族群主流化的目標？",
+    "type": "單選",
+    "options": [
+      "破除歧視",
+      "參與主流",
+      "族群融合",
+      "保障人權"
+    ],
+    "course": "族群主流化概念介紹",
+    "answer": "族群融合",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "族群融合",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_220.html",
+          "title": "「族群主流化概念介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T20:19:59.499Z"
+    }
   }
 ]

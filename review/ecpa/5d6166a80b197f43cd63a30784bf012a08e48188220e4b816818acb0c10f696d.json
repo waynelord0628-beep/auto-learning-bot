@@ -80,13 +80,30 @@
     ],
     "type": "單選",
     "course": "族群主流化概念介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "族群融合",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:47:09.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T20:20:00.158Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "族群融合",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_220.html",
+          "title": "「族群主流化概念介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T20:19:59.499Z"
+    },
+    "resolved_answer": "族群融合"
   },
   {
     "id": "b249b80a580796b55f22fd322c2de54d847dd4b34952beb41f34ce8d7460e206",
