@@ -255,5 +255,22 @@
     "source": "reported_question",
     "created_at": "2026-09-10T10:41:04.527Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5eb3786b550fdad84f3eaadf42e0984b858cdc7d07535fc52446a8156cfd7a25",
+    "question": "軍公教人員不適用性別平等工作法",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別平等工作法及相關子法修法重點與實務案例",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-11T01:26:20.297Z",
+    "review_state": "awaiting_evidence"
   }
 ]
