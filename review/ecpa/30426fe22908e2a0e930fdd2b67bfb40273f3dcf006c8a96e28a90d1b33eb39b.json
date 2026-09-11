@@ -51,10 +51,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "背景圖片不可被聚焦，若背景圖片為有意義傳達之圖片，應有替代的表達方式",
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:50.989Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-12T18:19:37.295Z"
   },
   {
     "id": "25a7c4aee9cfbeba242345cbe43d3399027dead376d9cb7aef6dce106f193f88",
