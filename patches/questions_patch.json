@@ -15855,5 +15855,28 @@
       "model": null,
       "checked_at": "2026-09-11T13:19:44.567Z"
     }
+  },
+  {
+    "question": "這名女飛行員獨自飛越大西洋，創造了歷史。可英譯為：The female pilot acted history when she flew over the Atlantic Ocean by herself.",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "萊卡的單程太空旅行",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T13:19:50.560Z"
+    }
   }
 ]

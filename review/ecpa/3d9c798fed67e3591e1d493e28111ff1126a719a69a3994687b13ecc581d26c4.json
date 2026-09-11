@@ -44,13 +44,30 @@
     ],
     "type": "是非",
     "course": "萊卡的單程太空旅行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:38:09.266Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T13:19:51.588Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T13:19:50.560Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "dba6be649b60687a162c1fdeed6316ff875276e9fc9da56b6aca5fe8fcb31c9a",
