@@ -15976,5 +15976,30 @@
       "model": null,
       "checked_at": "2026-09-11T14:20:19.868Z"
     }
+  },
+  {
+    "question": "最高負責人經地方主管機關認定有性騷擾行為時，可處新臺幣多少罰鍰?",
+    "type": "單選",
+    "options": [
+      "1至10萬元",
+      "1至50萬元",
+      "1至100萬元",
+      "1至200萬元"
+    ],
+    "course": "性騷擾防治法及相關子法修法重點與實務案例",
+    "answer": "1至100萬元",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "1至100萬元",
+      "sources": [
+        {
+          "url": "https://eeweb.mol.gov.tw/genderZone/harassment_1.html",
+          "quote": "最高負責人或僱用人經地方主管機關認定有性騷擾者，處新臺幣一萬元以上一百萬元以下罰鍰。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T15:20:43.326Z"
+    }
   }
 ]

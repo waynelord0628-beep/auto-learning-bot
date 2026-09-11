@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "性騷擾防治法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1至50萬元",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:23:13.214Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T15:20:44.131Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1至100萬元",
+      "sources": [
+        {
+          "url": "https://eeweb.mol.gov.tw/genderZone/harassment_1.html",
+          "quote": "最高負責人或僱用人經地方主管機關認定有性騷擾者，處新臺幣一萬元以上一百萬元以下罰鍰。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-11T15:20:43.326Z"
+    },
+    "resolved_answer": "1至100萬元"
   },
   {
     "id": "dbd0b04298c8d09c1a75c85c8efa09c681d6a7ed32138d969bbb425cd3b6e150",
