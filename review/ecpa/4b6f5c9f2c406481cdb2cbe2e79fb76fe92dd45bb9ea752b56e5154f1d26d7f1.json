@@ -8,12 +8,29 @@
     ],
     "type": "是非",
     "course": "職場零霸凌EAP幫你-從預警、關懷到復原的心理支持策略(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:37:49.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T16:19:48.462Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/eap-ee_0372443458.html",
+          "title": "「職場零霸凌EAP幫你-從預警、關懷到復原的心理支持策略(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T16:19:47.639Z"
+    },
+    "resolved_answer": "正確"
   }
 ]
