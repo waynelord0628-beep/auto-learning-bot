@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "查證資訊來源，並進行人為判斷和修正",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.410Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T11:19:54.769Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "查證資訊來源，並進行人為判斷和修正",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T11:19:54.042Z"
+    },
+    "resolved_answer": "查證資訊來源，並進行人為判斷和修正"
   },
   {
     "id": "1300f523a3ed41416fc5e189d934eea7859ba9dd176f28a6dbd3181ccf685e8b",

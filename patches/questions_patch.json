@@ -15805,5 +15805,30 @@
       "model": null,
       "checked_at": "2026-09-11T11:19:47.721Z"
     }
+  },
+  {
+    "question": "如果 AI 產生了錯誤或不準確的資訊，我們應該如何應對？",
+    "type": "單選",
+    "options": [
+      "查證資訊來源，並進行人為判斷和修正",
+      "要求 AI 重複生成多次直到生成內容合理",
+      "認為 AI 不可靠並完全停止使用",
+      "認為 AI 比人類客觀，因此直接採信"
+    ],
+    "course": "好好用 AI：了解「AI 風險」的公務生存指南",
+    "answer": "查證資訊來源，並進行人為判斷和修正",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "查證資訊來源，並進行人為判斷和修正",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T11:19:54.042Z"
+    }
   }
 ]
