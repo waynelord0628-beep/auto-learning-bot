@@ -100,13 +100,30 @@
     ],
     "type": "單選",
     "course": "認知促進：提升腦活力預防失智上門",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "戒菸、不再過量飲酒",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T14:24:08.515Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-18T14:20:21.659Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "戒菸、不再過量飲酒",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0499089905.html",
+          "title": "「認知促進：提升腦活力預防失智上門」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-11T14:20:19.868Z"
+    },
+    "resolved_answer": "戒菸、不再過量飲酒"
   },
   {
     "id": "955bcad9b84e31614fc530d101f100cf5477bc56b051e948ffecff9a30c35d11",
