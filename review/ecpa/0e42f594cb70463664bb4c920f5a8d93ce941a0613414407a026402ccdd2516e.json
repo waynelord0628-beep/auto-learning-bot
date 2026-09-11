@@ -89,8 +89,8 @@
     "review_state": "candidate_ready",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-18T09:46:36.578Z",
-    "verification_status": "service_error"
+    "verify_after": "1970-01-01T00:00:00.000Z",
+    "verification_status": "retry_pending"
   },
   {
     "id": "39109885c12b672352207b7e75166555ea4efa2aac52ac0979a56cd9179e1df6",
