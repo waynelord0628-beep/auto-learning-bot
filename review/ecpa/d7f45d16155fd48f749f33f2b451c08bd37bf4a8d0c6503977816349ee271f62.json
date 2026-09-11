@@ -270,5 +270,76 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:04.322Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5f941de21a25046c3c2f90152ceedae5d44d543cecc74ebbd63b592f53f0e2f1",
+    "question": "重建社會信任、避免再度發生國家大規模侵害人權之情事，這些都是轉型正義（Transitional Justice）追求的重要目的。請問下列哪些國家已完成或正在推動轉型正義工程？",
+    "options": [
+      "德國",
+      "南非",
+      "南韓",
+      "臺灣",
+      "中國"
+    ],
+    "type": "多選",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:34.243Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "29fb61a83604f0e080b322eeb9a95282eda95a65b5863ed52915c679ec1220b6",
+    "question": "劇中李捕頭厲聲唱道：「會予我掠來就是因為你無乖！」突顯出威權統治下，人民僅僅想法與意見與統治者相左就可能獲罪，連基本人權也毫無保障。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:34.244Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1dc8ba3a133b928245878ccf925e40713d3003117b12c2c3de5392ed2be4255b",
+    "question": "我國雖非聯合國會員國，但為提升我國人權保障，並與國際人權體系接軌，乃以制定施行法的方式，賦予兩公約國內法效力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:34.245Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ac5496530e89771bc47a57bcd739e820fdfdb60c2e5e2cb9d49e4e2439100f4b",
+    "question": "人權離我們並不遙遠，即使單純享受一齣戲帶來的感動，也是實現文化權的一種方式。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "「戲說人權─《冒壁鬼》」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-11T12:26:34.246Z",
+    "review_state": "candidate_ready"
   }
 ]
