@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "身心障礙者權益與保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人權模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:53:20.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T08:19:47.595Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人權模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_991.html",
+          "title": "「身心障礙者權益與保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T08:19:46.863Z"
+    },
+    "resolved_answer": "人權模式"
   },
   {
     "id": "0e5bcfa48338cf5ab9742317cb80abae72dd469002b565f9028d753854b7da49",
