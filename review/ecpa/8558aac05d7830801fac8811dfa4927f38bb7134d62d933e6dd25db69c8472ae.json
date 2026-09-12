@@ -273,5 +273,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:21.827Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a3db943304a4a2fa111c84c4d4ea59bed44e655c0a667dc7c4bf529241406cee",
+    "question": "針對身障者適切的生活水準與社會保護方面，締約國應盡到以下哪一項義務？",
+    "options": [
+      "提供身障者在生活中能夠獲得相關需求的協助",
+      "利用社會保障方案及降低貧窮方案來幫助身障者脫離貧困",
+      "確保身障礙者參加公共住宅方案",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:51.393Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e5811361a2b7acf05653f3261430041b79501af567b86d79d677742636d74457",
+    "question": "關於對身心障礙者歧視的敘述，下列哪些正確？",
+    "options": [
+      "對身障者的歧視，會損害身障者享有與其他人平等的人權及基本自由",
+      "對身障者的歧視僅會影響他們在社會及經濟上的人權及自由",
+      "拒絕對身障者提供合理的對待，也是一種歧視",
+      "只有某種特定的形式，例如語言上的歧視才算"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:51.394Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "152d38e566c836cbc8639dd81e322083ed27fc25f53a954f46fda0c5b5a7f28c",
+    "question": "以下哪項為公約第三條中所提到的一般性原則？",
+    "options": [
+      "男女平等",
+      "不歧視",
+      "無障礙",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:51.395Z",
+    "review_state": "candidate_ready"
   }
 ]
