@@ -16700,5 +16700,34 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-12T05:20:47.618Z"
     }
+  },
+  {
+    "question": "臺灣北部的野柳女王頭及南部佳洛水海岸是哪種海岸地形？",
+    "type": "單選",
+    "options": [
+      "岩岸",
+      "礫石",
+      "珊瑚礁",
+      "沙岸"
+    ],
+    "course": "海洋保育-海洋生物多樣性與保育",
+    "answer": "岩岸",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "岩岸",
+      "sources": [
+        {
+          "url": "https://www.ntsec.edu.tw/liveSupply/detail.aspx?a=6829&cat=6841&lid=15605&p=1&print=1",
+          "quote": "野柳的女王頭地景，頸部是較弱的砂岩，而頭部是較堅硬的鈣質砂岩結核"
+        },
+        {
+          "url": "https://landscape.forest.gov.tw/Front/LandscapePhoto/Otherphotos/Gallery.aspx?Album=93&id=Mg19MK%2FlJN4%3D&page=3",
+          "quote": "屏東佳樂水的岩岸地形，主要是由傾動的砂岩所形成的海岸侵蝕地形"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-12T05:21:26.881Z"
+    }
   }
 ]

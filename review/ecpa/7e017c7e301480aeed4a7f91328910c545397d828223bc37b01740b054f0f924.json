@@ -69,13 +69,34 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "岩岸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.737Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T05:21:28.709Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "岩岸",
+      "sources": [
+        {
+          "url": "https://www.ntsec.edu.tw/liveSupply/detail.aspx?a=6829&cat=6841&lid=15605&p=1&print=1",
+          "quote": "野柳的女王頭地景，頸部是較弱的砂岩，而頭部是較堅硬的鈣質砂岩結核"
+        },
+        {
+          "url": "https://landscape.forest.gov.tw/Front/LandscapePhoto/Otherphotos/Gallery.aspx?Album=93&id=Mg19MK%2FlJN4%3D&page=3",
+          "quote": "屏東佳樂水的岩岸地形，主要是由傾動的砂岩所形成的海岸侵蝕地形"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-12T05:21:26.881Z"
+    },
+    "resolved_answer": "岩岸"
   },
   {
     "id": "f43342412cb067d61879bc0d3a1af024ae782fe347949f0417c97015213af5dc",
