@@ -39,7 +39,11 @@
     "candidate_answer": "keep calm",
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:15:25.787Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T00:20:13.324Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0296c1d425cb56b246a9c622043f54c9aa3645bda224907cd3567e597405c9c2",
