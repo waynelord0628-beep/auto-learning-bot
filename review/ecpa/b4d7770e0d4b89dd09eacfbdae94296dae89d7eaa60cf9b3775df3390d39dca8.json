@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "AI 與人—與 AI 共處的奮進或躺平指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:12:32.430Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T14:20:04.228Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ai-ee.html",
+          "title": "「AI 與人—與 AI 共處的奮進或躺平指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T14:20:02.944Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "062c8d29b412b7d8630ca89c0c283a219f3a6bc060138bfc43b32ca85f669f55",

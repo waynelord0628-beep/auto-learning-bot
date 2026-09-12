@@ -17291,5 +17291,30 @@
       "model": null,
       "checked_at": "2026-09-12T14:19:55.565Z"
     }
+  },
+  {
+    "question": "關於「機器人系統與人工智慧」的角色，講者提到哪些我們應當注意的事項？",
+    "type": "單選",
+    "options": [
+      "機器人系統與人工智慧應為補充與輔助專業人士的角色",
+      "機器人系統與人工智慧不應假冒人性",
+      "機器人系統與人工智慧必須隨時標示其創造者、控制者及擁有者的身份",
+      "以上皆是"
+    ],
+    "course": "AI 與人—與 AI 共處的奮進或躺平指南",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ai-ee.html",
+          "title": "「AI 與人—與 AI 共處的奮進或躺平指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T14:20:02.944Z"
+    }
   }
 ]
