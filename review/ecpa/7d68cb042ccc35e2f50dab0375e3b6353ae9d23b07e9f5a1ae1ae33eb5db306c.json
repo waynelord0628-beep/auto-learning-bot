@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.415Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T04:19:39.214Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T04:19:38.536Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "c999ece15a86a2a84c23dbf40ffad03ea854b8bfc4224927858a45e2bdfa9dc5",
