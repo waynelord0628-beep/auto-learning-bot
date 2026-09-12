@@ -180,5 +180,98 @@
     "source": "reported_question",
     "created_at": "2026-09-12T16:50:46.919Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7c9674b6faff20a2fcca84b164153cc6076b24709790f9aaef509cbe61fe0759",
+    "question": "在課程中所提及的奧地利輕軌案例，新建置的輕軌雖未設立語音系統，但若奧地利政府在身障者反應後就隨即建置，即不違反公約的精神。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:21.825Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "835d4cf3ad2a325ee8736f1ec38ee7f4c476d184a17ce3bc1b99b98050691b23",
+    "question": "關於公約的第十九條自立生活與融合社區，下列敘述哪些正確？",
+    "options": [
+      "身障者有權選擇居住的地方，與何人一起生活",
+      "因為身障者行動不便，且需要他人照顧，所以可由家人代為決定其居住地點",
+      "身障者可平等的使用政府為大眾所提供的社區服務及設施",
+      "社區活動的規劃，因以大多數居民的利益為優先考量，故不需特別考慮身障者的情況而做調整"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:21.825Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "5699546880cf3a0a0eead389a97c06fa392e86e0e6521d2607a2c99c63b734c8",
+    "question": "關於第二十三條尊重家居與家庭，下列哪些敘述是正確的？",
+    "options": [
+      "身障者結婚與組成家庭的權利應獲得承認",
+      "身障者得以自由且負責任地決定子女人數及生育間隔",
+      "身障者得以保留生育的能力",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:21.826Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2c3f5b5867fb14b5da4cf412a5f581b037fa36b4ff4b0aaa2a6760ffcb6ae08e",
+    "question": "以下哪一項敘述為公約的締約國應盡的一般義務？",
+    "options": [
+      "採取所有適當的措施，讓身心障礙者免於被歧視",
+      "保障及促進身障者的人權",
+      "促進培訓協助身障者的專業人員與工作人員",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:21.826Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9fef126d8070bc195ed18f6df008a59b1e291f03d257673f0b160fc8e8bfef9e",
+    "question": "關於公約的第二十五條健康，下列敘述何者正確？",
+    "options": [
+      "醫療照護是為了給身障者更好的照顧，所以不需經由本人同意",
+      "保險公司可以自訂政策決定不接受身障者的投保",
+      "締約國應提供身障者與其他人享有同等的健康照護",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "締約國應提供身障者與其他人享有同等的健康照護",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T16:51:21.827Z",
+    "review_state": "candidate_ready"
   }
 ]
