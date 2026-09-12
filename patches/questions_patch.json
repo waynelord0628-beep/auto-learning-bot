@@ -16535,5 +16535,28 @@
       "model": null,
       "checked_at": "2026-09-12T02:19:54.871Z"
     }
+  },
+  {
+    "question": "馬祖藍眼淚是由夜光蟲所造成的嗎?",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_65.html",
+          "title": "「海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T03:20:00.653Z"
+    }
   }
 ]
