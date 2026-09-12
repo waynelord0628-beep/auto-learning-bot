@@ -17068,5 +17068,30 @@
       "model": null,
       "checked_at": "2026-09-12T11:19:56.619Z"
     }
+  },
+  {
+    "question": "當有同仁提出疑似遭受霸凌，何者做法不恰當？",
+    "type": "單選",
+    "options": [
+      "立即要他們提出申訴",
+      "提供機構申訴管道",
+      "傾聽",
+      "同理"
+    ],
+    "course": "職場零霸凌EAP幫你-從預警、關懷到復原的心理支持策略(下)",
+    "answer": "立即要他們提出申訴",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "立即要他們提出申訴",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/eap-ee.html",
+          "title": "「職場零霸凌EAP幫你-從預警、關懷到復原的心理支持策略(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T11:20:05.367Z"
+    }
   }
 ]
