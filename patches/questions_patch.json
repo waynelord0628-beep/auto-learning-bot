@@ -16949,5 +16949,30 @@
       "model": null,
       "checked_at": "2026-09-12T08:19:51.910Z"
     }
+  },
+  {
+    "question": "Companies are not allowed to sell very poor-quality goods to ______.",
+    "type": "單選",
+    "options": [
+      "corners",
+      "consumers",
+      "hammers",
+      "hangers"
+    ],
+    "course": "得來「速」還是得來「塑」？如何解決外送服務的環保問題？",
+    "answer": "consumers",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "consumers",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_31.html",
+          "title": "「得來「速」還是得來「塑」？如何解決外送服務的環保問題？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T09:20:04.676Z"
+    }
   }
 ]

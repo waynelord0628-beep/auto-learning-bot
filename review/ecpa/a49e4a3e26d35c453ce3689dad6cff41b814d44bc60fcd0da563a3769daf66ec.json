@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "得來「速」還是得來「塑」？如何解決外送服務的環保問題？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "consumers",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:50:01.441Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T09:20:05.558Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "consumers",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_31.html",
+          "title": "「得來「速」還是得來「塑」？如何解決外送服務的環保問題？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T09:20:04.676Z"
+    },
+    "resolved_answer": "consumers"
   },
   {
     "id": "e8804be1c4e812f0f19502c8f1d83902b9687f9f710aada10439aff111ef9415",
