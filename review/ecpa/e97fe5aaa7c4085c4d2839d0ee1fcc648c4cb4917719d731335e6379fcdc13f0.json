@@ -55,5 +55,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:42:43.886Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ccf80708bd127ec775b21bef9cff17f7959a6a24a513626453d5db9923ab503",
+    "question": "以下哪些要素是職場霸凌的構成要件？",
+    "options": [
+      "行為人為本機關人員，利用職務上的權力或機會",
+      "持續的歧視、侮辱言行或其他形式的攻擊",
+      "造成敵意、威脅或冒犯性的工作環境",
+      "導致公務人員的身心受到不法侵害"
+    ],
+    "type": "多選",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T06:25:51.404Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "38490d9ff72bf6f86fd1418c58e021fdd1cf013726d97449b1b3df9de5c973fe",
+    "question": "職場霸凌的定義，以下哪一項敘述是錯誤的？",
+    "options": [
+      "必須利用職務上的權勢或機會進行。",
+      "必須超出職務上必要合理的範圍。",
+      "情節重大者，不必持續發生。",
+      "必須造成身體上的傷害才算構成。"
+    ],
+    "type": "單選",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "必須造成身體上的傷害才算構成。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T06:25:51.406Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "28e1c1842b8a0f2fa5d353dee9de7a24324298258a278f0c18744c45f43d0286",
+    "question": "安衛防護委員會的職責包括以下事項的督導：",
+    "options": [
+      "辦公場所建築、設施及設備的維護與檢修",
+      "各項安全及衛生防護措施的實施，並公開年度書面報告",
+      "健康管理的宣導及實施",
+      "處理本機關人員遭受的騷擾、恐嚇及威脅等情況"
+    ],
+    "type": "多選",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T06:25:51.407Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "3709ebe875edf195ccef5a215cc77efb94b01e7cd5927841498499590cb89cb6",
+    "question": "公務人員執行職務安全及衛生諮詢會的召開，以下哪些敘述是正確的？",
+    "options": [
+      "由主管機關召開",
+      "得聘請公務人員協會代表為委員",
+      "得聘請學者專家為委員",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T06:25:51.408Z",
+    "review_state": "candidate_ready"
   }
 ]
