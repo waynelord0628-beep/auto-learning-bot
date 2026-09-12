@@ -182,5 +182,59 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.996Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "756405d9eba583b533c347d38cde795925f57b8d97ce4059f5b277eaf387c58a",
+    "question": "有關「性暴力連續體」概念的說明、解釋，以下哪些正確？",
+    "options": [
+      "看待數位性別暴力就應該一笑置之",
+      "平日網路出現的與性/性別相關的偏見歧視語言被當成笑點，大眾被教導應該要不以為意，日常暴力就成了細水長流",
+      "衛福部2022年全國數位性別暴力盛行率調查結果顯示，約六成以上的受訪者收過具性別歧視等騷擾訊息，但是不認為這些是「數位性別暴力」。這就是性暴力連續體一例",
+      "性暴力連續體這概念指出日常生活中對暴力的容忍產生溫水煮青蛙的效果",
+      "數位性別暴力有待防治，需要注重平日網路上影音語言互動中落實性別平等"
+    ],
+    "type": "多選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:09:47.900Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b671e76cd35593113aa5d4a7d4924777491944388da47524e6b3d76c6802891b",
+    "question": "「數位性別暴力」類型中的「招募引誘」源自受害者不正確的金錢觀。矯正金錢觀，就可杜絕受害。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:09:47.902Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1afcd8d2eb6e09fb7bc0694003165cc4795a7006ce8cbb6da1654da8b7701d08",
+    "question": "CEDAW一般性建議中就針對「數位性別暴力」提出定義。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:09:47.902Z",
+    "review_state": "candidate_ready"
   }
 ]
