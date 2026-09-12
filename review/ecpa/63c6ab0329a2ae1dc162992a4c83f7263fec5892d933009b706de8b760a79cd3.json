@@ -337,5 +337,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:43.972Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0e696de3346800bf62fab88d6f938a131fa9b4448ab8ed111f2663f7a6bcbf7e",
+    "question": "性騷擾的判斷，應考量被害人的感受，除〈性騷擾防治法〉第25條之外，皆不考量行為人是否有性騷擾意圖。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:14:06.398Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3852c599b2eb1bc09b4a5f757d00d8e47855b1559ca7cf850588470bb25b7563",
+    "question": "若性騷擾是由不特定人於公共場所或公眾得出入場所為之者，則以〈性騷擾防治法〉來處理該性騷擾事件，不再適用〈性別平等工作法〉。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:14:06.400Z",
+    "review_state": "candidate_ready"
   }
 ]
