@@ -16997,5 +16997,28 @@
       "model": null,
       "checked_at": "2026-09-12T10:19:46.918Z"
     }
+  },
+  {
+    "question": "多模態AI (multimodal AI)的技術主要是可以讓AI讓一張圖片無限創作展開更大更複雜的圖片",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0651907772.html",
+          "title": "「數位學習與數位行銷之AI應用及創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T10:20:10.467Z"
+    }
   }
 ]
