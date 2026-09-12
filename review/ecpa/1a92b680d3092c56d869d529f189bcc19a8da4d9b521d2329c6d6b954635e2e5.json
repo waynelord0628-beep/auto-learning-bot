@@ -301,5 +301,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.845Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c7fd9a28a4c73772dbeed2c01add3c413ad6ea1e3a82ecabc6f9fd9d8a118546",
+    "question": "「全民國防」需著眼於綜合性安全威脅概念，這是基於何種國際環境的變遷？",
+    "options": [
+      "全球化",
+      "本土化",
+      "在地化",
+      "鄉土化"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "全球化",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:44.551Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "53c4d2857f8738b94dba48a8647adefbcaa7d35fa61732e2031e3652324bb843",
+    "question": "除了漢光演習是國軍年度戰備訓練核心，納入地方政府、警、消、民防團隊與民、物力動員等全民總力運用的演習為何？",
+    "options": [
+      "網路安全演習",
+      "民安演習",
+      "交通安全演習",
+      "核能安全演習"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民安演習",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:44.552Z",
+    "review_state": "candidate_ready"
   }
 ]
