@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "會混獲到大量其他不需要的物種",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.736Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T05:20:52.465Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "會混獲到大量其他不需要的物種",
+      "sources": [
+        {
+          "url": "https://www.nmmba.gov.tw/cp.aspx?n=5efaf2d5eb3360fd&s=04D50237E37C9779",
+          "quote": "漁業誤捕的問題，亦即捕撈時，上網了許多非漁穫對象的魚種或小型未成熟的魚類常被做為下雜魚處理或直接拋棄，此類的行為至少浪費了近1/4～1/3的漁業資源。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-12T05:20:47.618Z"
+    },
+    "resolved_answer": "會混獲到大量其他不需要的物種"
   },
   {
     "id": "891507af5255851f70cdae99d95969cef164bee8ea2c4d9360ea0c999aa27180",

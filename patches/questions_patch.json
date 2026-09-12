@@ -16675,5 +16675,30 @@
       "model": null,
       "checked_at": "2026-09-12T04:19:46.882Z"
     }
+  },
+  {
+    "question": "不當的漁法及濫捕會對海洋生造成何種影響？",
+    "type": "單選",
+    "options": [
+      "棲息地短期的破壞影響族群量",
+      "會混獲到大量其他不需要的物種",
+      "造成其他物種資源的更新補充",
+      "以上皆非"
+    ],
+    "course": "海洋保育-海洋生物多樣性與保育",
+    "answer": "會混獲到大量其他不需要的物種",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "會混獲到大量其他不需要的物種",
+      "sources": [
+        {
+          "url": "https://www.nmmba.gov.tw/cp.aspx?n=5efaf2d5eb3360fd&s=04D50237E37C9779",
+          "quote": "漁業誤捕的問題，亦即捕撈時，上網了許多非漁穫對象的魚種或小型未成熟的魚類常被做為下雜魚處理或直接拋棄，此類的行為至少浪費了近1/4～1/3的漁業資源。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-12T05:20:47.618Z"
+    }
   }
 ]
