@@ -176,5 +176,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:36:22.221Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f98149c5bc38cb1acbb8356aad531f4b9ef0172dcd88dca76cd882569de2c322",
+    "question": "哪一個不是[工程倫理與衝突處理原則]的四大檢視要件?",
+    "options": [
+      "適法性。",
+      "符合群體共識。",
+      "專業價值。",
+      "只考慮符合自身利益即可。"
+    ],
+    "type": "單選",
+    "course": "工程倫理及公務廉政倫理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:36:58.998Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ae9ce18f54b97804d834eccdba55a37d692d31449d6641b9e1607587e0ff8a30",
+    "question": "公務員透過哪些受贈財物，不會推定為自己收受?",
+    "options": [
+      "父母。",
+      "配偶。",
+      "熟識的朋友。",
+      "以上皆非。"
+    ],
+    "type": "單選",
+    "course": "工程倫理及公務廉政倫理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:36:58.999Z",
+    "review_state": "awaiting_candidate"
   }
 ]
