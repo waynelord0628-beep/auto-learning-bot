@@ -55,5 +55,79 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:06:02.272Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2cddffee250d4823a64e86f376074e5cfe6e16b78e4a9a5332f141e1f8861873",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "excavator; crane; cement mixer",
+      "crane; excavator; cement mixer",
+      "cement mixer; crane; excavator",
+      "excavator; cement mixer; crane"
+    ],
+    "type": "單選",
+    "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:06:07.066Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "f6f5ed59b86beafe5696b371f6119691045b6cc4d35ed72cdfa2a32effb21959",
+    "question": "Please read the following paragraph and determine whether it is TRUE or FALSE.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:06:07.069Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "50a26771e8fb2d43e90e2e3bbb90e2456fac6421c019f70e8afc4b6bb70ee482",
+    "question": "Which of the following statements about the Lyu-Chuan is accurate?",
+    "options": [
+      "In the past, the water quality of the Lyu-Chuan was so good that locals would regularly collect water from the river for daily use.",
+      "Following the revitalization, residents have started hosting various events, like storytelling sessions, on the bridges that span the Lyu-Chuan.",
+      "The third phase of the revitalization project focuses on fully connecting the Lyu-Chuan, which required negotiating with a university to dismantle a wall.",
+      "All of the above."
+    ],
+    "type": "單選",
+    "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "All of the above.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:06:07.070Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d19605bf5b50770dd8770bb27fed47870a0e86bb4ced1d1cb2fa8fe6eb16075a",
+    "question": "Which of the following statements about the Lyu-Chuan revitalization project is accurate?",
+    "options": [
+      "During the initial construction of Lyu-Chuan, sewage treatment facilities were not included, leading to the direct discharge of most wastewater into the river, resulting in significant pollution.",
+      "The revitalization team installed sewage interceptors along Lyu-Chuan's banks, channeling wastewater straight into the ocean without passing through any treatment plants.",
+      "The Lyu-Chuan revitalization project focused solely on water quality improvement, neglecting the cleanup of riverbanks, which made it less accessible and beneficial for both the public and the environment.",
+      "The second phase of the Lyu-Chuan revitalization project, located adjacent to the railway, had no specific construction method requirements, allowing for unrestricted building practices."
+    ],
+    "type": "單選",
+    "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "During the initial construction of Lyu-Chuan, sewage treatment facilities were not included, leading to the direct discharge of most wastewater into the river, resulting in significant pollution.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:06:07.071Z",
+    "review_state": "candidate_ready"
   }
 ]
