@@ -62,7 +62,11 @@
     "candidate_answer": "It doesn't matter if",
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:04:14.373Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T01:20:16.298Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d9858850c2fc68a7d85e75b02ef79cb1aead11edf456d88754a40e0df26135da",
