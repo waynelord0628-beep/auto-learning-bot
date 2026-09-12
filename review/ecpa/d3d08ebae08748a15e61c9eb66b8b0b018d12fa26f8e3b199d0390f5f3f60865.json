@@ -175,5 +175,58 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:21:15.220Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4af45eb64b2e682d428b043f1aa72e316e263ecb36d0752b85df4db5bb7daa31",
+    "question": "求職者遭雇主要求上班必須穿著露出事業線的服裝，才同意錄用，雇主可能構成職場性騷擾",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:47.134Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "67946de735ecd2f9ad5a01660812d9412cd82636933d89d04db59cbfad90438e",
+    "question": "依照112年8月16日新修正性騷擾防治法規定，其中央主管機關為何？",
+    "options": [
+      "內政部",
+      "勞動部",
+      "衛福部"
+    ],
+    "type": "單選",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "勞動部",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:47.136Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4eb8bcd879c5413a05638e0a387ef62ec9e439d0ca69f970ff695f99285060ec",
+    "question": "依113年3月8日施行之工作場所性騷擾防治措施準則，僱用受僱者五百人以上之雇主，因申訴人或被害人之請求，應提供至少幾次的心理諮商協助？",
+    "options": [
+      "三次",
+      "二次",
+      "一次"
+    ],
+    "type": "單選",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "三次",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:47.136Z",
+    "review_state": "candidate_ready"
   }
 ]
