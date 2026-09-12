@@ -252,5 +252,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:45:36.581Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8a8849d817e308dd5ad33c2b6ab0b18cd9bafb2ff5ba28f9b8c13bdc94991fd4",
+    "question": "蔬菜種植的碳排放量是六大類食材中最高的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:46:04.856Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7485c40b6a74591ec8e065e682705473dacccd4fa4e6716eaaedc6597e218b8d",
+    "question": "植物油的煉製過程通常需藉由高溫，耗用較多能源，碳排放比動物油高。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:46:04.858Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "64811d6980db6cee42a53f0ce7f83bf0cdeece995f051d0b2e34c9229b0053ba",
+    "question": "下列關於營養素均衡的飲食原則，何者錯誤？",
+    "options": [
+      "能降低心臟血管代謝疾病",
+      "能降低癌症風險",
+      "需從六大類食物中攝取足量的營養素",
+      "多吃保健補品"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "多吃保健補品",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:46:04.860Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b39cf2bbf3ec04ff2c2b44ea00907bfb783429345d4e7a29cba4df6560725197",
+    "question": "下列哪項不是蛋白質的功能？",
+    "options": [
+      "調節新陳代謝",
+      "抗發炎和氧化",
+      "提供必需胺基酸",
+      "維持水分和酸鹼平衡"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "抗發炎和氧化",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:46:04.861Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "64cad4d9f9b8192d67b180d69bde6db1d7720900a766b8782b4d3deacf4301bc",
+    "question": "果皮中含有豐富的膳食纖維，能預防慢性疾病。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:46:04.863Z",
+    "review_state": "candidate_ready"
   }
 ]
