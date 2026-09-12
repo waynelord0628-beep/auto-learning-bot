@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "新臺幣1萬元以上100萬元以下罰鍰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.682Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T06:19:46.138Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "新臺幣1萬元以上100萬元以下罰鍰",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T06:19:45.176Z"
+    },
+    "resolved_answer": "新臺幣1萬元以上100萬元以下罰鍰"
   },
   {
     "id": "688b58097e5df9c5fbca5294b445735f9ea6ba2fc9c3330e085deed2bc79a55a",
