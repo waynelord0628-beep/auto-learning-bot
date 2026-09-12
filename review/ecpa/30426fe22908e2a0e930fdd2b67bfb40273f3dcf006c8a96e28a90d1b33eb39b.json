@@ -133,5 +133,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:14:28.740Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f26bf5df5efa0f942a414745feee9c33fbda77479e4d4ec97268552f404567f",
+    "question": "行動化應用軟體無障礙檢核點總共有幾個？",
+    "options": [
+      "13",
+      "20",
+      "35",
+      "55"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "20",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T04:14:33.548Z",
+    "review_state": "awaiting_evidence"
   }
 ]
