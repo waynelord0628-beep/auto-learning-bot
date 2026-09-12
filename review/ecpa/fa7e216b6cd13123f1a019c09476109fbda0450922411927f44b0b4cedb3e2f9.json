@@ -182,5 +182,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T13:06:21.303Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e11066c57a9d5eba77a24331d14d3075798974f166b01bf9aa8552ceae470e04",
+    "question": "國家報告的撰寫，應屬於政府單位的權利與義務，所以民間單位不適合參與此過程。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T13:06:56.912Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86308bb5783d40d6180463979f46a349c74b0ef29bcacd82bc79dbc5bb5a214c",
+    "question": "若一間金融機構所提供的提款機，無法讓視障者使用，可以請他直接去櫃檯找人員服務即可，並不需要特別改善機器設備。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T13:06:56.913Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d212229b229011ba603994021c4ef7c66d2753da62ae78d840ca97de10d7fc8c",
+    "question": "在撰寫國家報告時，對於人權缺失的部分，應該要主動的寫入報告中，並提出改進的方案。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T13:06:56.914Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b14043dee5ab88fe1f74da28695814c934b919c71e29589427bce6a383953aa6",
+    "question": "以紐西蘭的報告為例，在第一部份的綜述中，紐西蘭將以下哪項內容寫入？",
+    "options": [
+      "身心障礙者與政府共同對公約允諾的狀況",
+      "所面臨到的挑戰",
+      "對未來的展望",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T13:06:56.915Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "541aef413bc528b2588e93280c10ee8e132ef21a4e2659080936264e6b81ffc8",
+    "question": "CRPD的一般性意見中，通常會包括以下哪些內容？",
+    "options": [
+      "條款的規範內容",
+      "締約國的義務",
+      "與公約其他規定之間的關係",
+      "國家層級的執行工作"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T13:06:56.916Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
