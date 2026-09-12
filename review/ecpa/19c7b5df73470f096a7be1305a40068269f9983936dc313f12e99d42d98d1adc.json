@@ -1,0 +1,192 @@
+[
+  {
+    "id": "48a858ae7bab462bc8a8db21ba347532aae2f5dd6db61ecf9217398a4b751477",
+    "question": "關於【勒索病毒】攻擊與破壞方式，下列何者【正確】?",
+    "options": [
+      "加密檔案",
+      "刪除檔案",
+      "修改 Windows 登入帳密",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.431Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0398246111414de6b5ef791ccc132aaa4e372aaf86f042dd7a5d7e9419066fc3",
+    "question": "關於【手機安全使用習慣】，下列何者【正確】 ?",
+    "options": [
+      "暫時不用功能，要關閉，例如：藍芽、NFC、WiFi",
+      "更新最新手機作業系統",
+      "安裝來自【可信任來源】之 行動 App 軟體",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.433Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "aeed823e64e887a6afb02bc00287c830ab6763b7065d7b46eb6c4f7fcc9b5b70",
+    "question": "下列【哪種】弱點漏洞，最難【修補】？",
+    "options": [
+      "人類",
+      "軟體",
+      "硬體",
+      "網路"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "人類",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.434Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f80f59fa08a117d4b99330241a8c3e9a4384cc6f21ce0cd52373305e8f3293d",
+    "question": "關於電子郵件社交演練攻擊的信件有何特徵？",
+    "options": [
+      "寄件人看起來是知名且有權益往來的公司或機關",
+      "具有誘惑吸引開啟的信件主旨",
+      "信件本文中包含有點選連結，並且誘使點選",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.436Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8311afa66c9e78cb25c68504da7a984a7f3054bf893da8667c25f51f26322578",
+    "question": "關於【駭客攻擊程序】，下列何者正確？",
+    "options": [
+      "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+      "情蒐與研究 -> 破壞/奪權/竊資 -> 社交工程攻擊",
+      "社交工程攻擊 -> 情蒐與研究 -> 破壞/奪權/竊資",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.437Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f625669dda907986b5c4753989a0f290e8b5dcc469e9818c9c898db420ec246a",
+    "question": "資安風險方程式為何？",
+    "options": [
+      "風險=(弱點+威脅)x發生機率",
+      "風險=弱點+威脅+發生機率+資產價值",
+      "風險=弱點x威脅x發生機率x資產價值",
+      "風險=(弱點x威脅)+(發生機率x資產價值)"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "風險=(弱點+威脅)x發生機率",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.438Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "db1636864c73056e659611cf8b143af530d190a7e5633e237b24e66cc3764e23",
+    "question": "關於【帳密撞庫攻擊】，下列何者【錯誤】?",
+    "options": [
+      "最好每個網站的會員，使用不同的密碼",
+      "帳密撞庫的帳密來源來自駭客入侵許多網站而來，通常在暗網銷售。",
+      "最好使用多因認證來登入，比較不用擔心帳密撞庫攻擊。",
+      "僅需密碼設定的很長很複雜，就不用擔心帳密撞庫攻擊。"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "僅需密碼設定的很長很複雜，就不用擔心帳密撞庫攻擊。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.444Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f194e7fb7a573926d6a75bdb03e96e5fa45438c95d90ed7599a680eeb11df33c",
+    "question": "關於【資安管理觀念】，下列何者【正確】？",
+    "options": [
+      "政府機關應該落實資安攻防演練，了解資安攻擊趨勢 以及 單位的資安防護能力!",
+      "駭客攻擊手法，時時在變，所以應該時常接受資安意識培訓，養成良好資安習慣",
+      "沒有絕對安全的資訊系統",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.445Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "49f73e8be41aec33779aa66372e04f32277529a59488946fec22512980ca73bc",
+    "question": "關於【上網安全使用】的觀念，下列何者【正確】？",
+    "options": [
+      "提升資安危機意識",
+      "口碑相傳安全上網知識",
+      "日積月累，養成上網安全好習慣",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.446Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2737306d76ac6bd26acd312fc911e3a1ab0294732253bce2c4d5b4f309d11979",
+    "question": "關於【上網安全習慣】，下列何者錯誤 ?",
+    "options": [
+      "針對【帳號填充攻擊】，僅需密碼設定的夠長夠複雜，就一定安全!",
+      "利用 Google 搜尋的網站安全檢測功能 for 各種常去網站",
+      "每個網站密碼，應該儘量設定不同密碼",
+      "電子郵件社交攻擊演練是針對【人】的弱點進行檢測。"
+    ],
+    "type": "單選",
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "針對【帳號填充攻擊】，僅需密碼設定的夠長夠複雜，就一定安全!",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T10:42:55.453Z",
+    "review_state": "candidate_ready"
+  }
+]
