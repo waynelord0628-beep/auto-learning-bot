@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "被害人勞務提供地之地方主管機關",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.686Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T06:19:53.313Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "被害人勞務提供地之地方主管機關",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T06:19:51.953Z"
+    },
+    "resolved_answer": "被害人勞務提供地之地方主管機關"
   },
   {
     "id": "12508de3a05ee6b21c929bfcf6de811a60cead01fd1a378801cc470850e60d8c",
