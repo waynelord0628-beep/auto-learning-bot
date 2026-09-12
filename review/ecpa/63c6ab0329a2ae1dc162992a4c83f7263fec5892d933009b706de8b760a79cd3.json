@@ -371,5 +371,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:06.400Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5cf28c76407568700247796cade9e5a93f6e418cf3fee7b9e31fedd282d377b0",
+    "question": "親吻、擁抱或觸摸他人臀部、胸部或其他身體隱私處，可能負擔哪些法律責任？",
+    "options": [
+      "行政罰鍰",
+      "民事賠償",
+      "刑事處罰",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:14:37.239Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "57c303033749ac88d73b04001698102384bb5a2e94f35a4b9abea964bf3cdef3",
+    "question": "對於適用〈性騷擾防治法〉事件的申訴受理窗口，何者為「非」？",
+    "options": [
+      "若行為人任職於公務單位，向該單位申訴",
+      "若行為人是公部門的最高負責人，向該單位的上級機關申訴",
+      "若行為人是私部門的最高負責人，向所在地的社會局(處)(或家庭暴力暨性侵害防治中心)申訴",
+      "其他情況向發生地的派出所申訴"
+    ],
+    "type": "單選",
+    "course": "解謎性騷擾",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "若行為人是私部門的最高負責人，向所在地的社會局(處)(或家庭暴力暨性侵害防治中心)申訴",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:14:37.242Z",
+    "review_state": "candidate_ready"
   }
 ]
