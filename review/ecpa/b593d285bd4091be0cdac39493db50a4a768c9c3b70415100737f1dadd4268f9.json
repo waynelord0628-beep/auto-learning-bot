@@ -39,7 +39,11 @@
     "candidate_answer": "marched into",
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:51:43.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T15:20:10.651Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2e3903500d63bb877e6e219cb3b84700c898339bc26f36d59cfccff180886659",
