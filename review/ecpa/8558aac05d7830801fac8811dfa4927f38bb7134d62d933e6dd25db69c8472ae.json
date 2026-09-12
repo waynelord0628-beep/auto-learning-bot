@@ -330,5 +330,41 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:51.395Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f10f69b585f4ed48ef32b24407248cf39e11de1a13d2746fe9a46d92cff5916",
+    "question": "身心障礙者權利公約，是二十一世紀第一個國際人權條約，將影響全球六億身心障礙者的權利保障， 可說是國際人權的重要發展。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T21:53:07.437Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ce3d238604ce0e788d12ae22fd642836663c0e9c5bf37f795699eeeb1799e2c",
+    "question": "關於德國障礙者工作職場案例，以下哪些敘述是正確的？",
+    "options": [
+      "德國提供短時間可復原之身障者在工作上的補助，是以醫療模式來看待身障者",
+      "公約的精神是以社會模型理念來看待身心障礙者",
+      "公約第二十七條規定，締約國應促進私部門僱用身心障礙者",
+      "德國的補助計畫中，不確定性高且障礙者無法參與程序，違反了第二十七條工作與就業的規範"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T21:53:07.439Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
