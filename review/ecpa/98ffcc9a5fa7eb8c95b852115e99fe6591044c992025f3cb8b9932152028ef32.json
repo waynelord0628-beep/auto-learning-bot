@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "身心障礙者權益與保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "機構照顧",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:53:20.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T08:19:52.676Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "機構照顧",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_991.html",
+          "title": "「身心障礙者權益與保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T08:19:51.910Z"
+    },
+    "resolved_answer": "機構照顧"
   },
   {
     "id": "b43ec05972b896159ecd7b270c3e376c4b66e71ca250fae8caf899c0e7890809",
