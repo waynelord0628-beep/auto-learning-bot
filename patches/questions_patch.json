@@ -16826,5 +16826,29 @@
       "model": null,
       "checked_at": "2026-09-12T07:19:40.636Z"
     }
+  },
+  {
+    "question": "何者為專責我國國防科技研發與製造機構?",
+    "type": "單選",
+    "options": [
+      "國家中山科學研究院",
+      "工業科學研究院",
+      "國家研究院"
+    ],
+    "course": "國防科技與國防自主",
+    "answer": "國家中山科學研究院",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "國家中山科學研究院",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T07:19:47.018Z"
+    }
   }
 ]
