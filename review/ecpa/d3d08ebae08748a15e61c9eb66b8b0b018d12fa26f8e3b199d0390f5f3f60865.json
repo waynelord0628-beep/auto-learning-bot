@@ -70,5 +70,110 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:21:10.452Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e810319909581e66a2cbcae3b14a85e12b5ee7f099298cad08fe0b1d7c68fb53",
+    "question": "某黨部主任甲男稱讚前去採訪的女記者乙女：「妳的胸型真是漂亮」，致乙女感受被冒犯及不悅，向公司申訴甲男性騷擾，該公司應依何法律處理？",
+    "options": [
+      "性騷擾防治法",
+      "性別平等工作法",
+      "性別平等教育法"
+    ],
+    "type": "單選",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "性騷擾防治法",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.216Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0eb76220afc9ce400061028671aab0613d98e12eb2dd0e9c54b15a7025291f2",
+    "question": "甲男下班後，於小吃攤遭遇公司直屬主管開黃腔，應適用性別平等工作法規定調查處理",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.217Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "08ff0bc8114c4038dc800777c279f6477a73ddd3df757653e773b5720df0c577",
+    "question": "依112年8月16日新修正性別平等工作法規定，最高負責人為性騷擾行為人時，除可處罰新台幣1-100萬元罰緩外，另可加重處以幾倍懲罰性賠償金？",
+    "options": [
+      "損害額3-5倍",
+      "損害額1-3倍",
+      "損害額6-10倍"
+    ],
+    "type": "單選",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "損害額1-3倍",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.218Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2787c75747d9b5b21d8d3cf72bb1ac6b46de9cafb4b0fbcb3a5e544209af1139",
+    "question": "甲老師於上體育課時對乙老師性騷擾，應依性別平等教育法之規定處理",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.218Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e341355696a99d4c97d2c2fcacc26e7713325865936c9dd00e9cab02f14f4a95",
+    "question": "百貨公司A化妝品櫃姐甲女上班時，遭路過客人乙男伸手摸其屁股一下，經其向A公司申訴，就該性騷擾事件之調查應適用何法律為之？",
+    "options": [
+      "性別平等工作法",
+      "性別平等教育法",
+      "性騷擾防治法"
+    ],
+    "type": "單選",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "性別平等工作法",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.219Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "15e86211dddff98a45763c37d9f4c93ac70c51a85e2b8f8e89e0baa29bd7f64c",
+    "question": "以LINE發送人體全裸圖片騷擾他方，可依照性騷擾防治法第25條處罰",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:21:15.220Z",
+    "review_state": "candidate_ready"
   }
 ]
