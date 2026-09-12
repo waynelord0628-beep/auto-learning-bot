@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "有性生殖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T20:59:07.887Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T03:20:30.009Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "有性生殖",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_65.html",
+          "title": "「海洋科技：解密人魚的淚水藍眼淚研究動機與大學社會責任」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T03:20:28.382Z"
+    },
+    "resolved_answer": "有性生殖"
   },
   {
     "id": "aa62861126bc8b4186d64ef45e55f75e87d4bacda76239505b5220ee79943e31",
