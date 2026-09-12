@@ -110,5 +110,24 @@
     "source": "reported_question",
     "created_at": "2026-09-12T08:42:01.388Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "4344edef97f191a4ea175feef305e252db34e0b3c517032363ab989335b91398",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "passport; luggage; belongings; visas",
+      "passport; visas; belongings; luggage",
+      "visas; belongings; passport; luggage",
+      "belongings; luggage; passport; visas"
+    ],
+    "type": "單選",
+    "course": "從桃園機場起飛：農村到亞洲航空樞紐的蛻變",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:43:06.018Z",
+    "review_state": "awaiting_evidence"
   }
 ]
