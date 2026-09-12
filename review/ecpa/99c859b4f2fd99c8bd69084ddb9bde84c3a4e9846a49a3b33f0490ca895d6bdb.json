@@ -16,7 +16,11 @@
     "candidate_answer": "甲乙",
     "source": "ai_unverified",
     "created_at": "2026-09-12T01:31:57.991Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T09:19:48.141Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c881c4390c4ce128aedfd838a5f52cf96d6e79d9f94787200cf18698cf4c428f",
