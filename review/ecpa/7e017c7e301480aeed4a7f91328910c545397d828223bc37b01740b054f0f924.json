@@ -16,7 +16,11 @@
     "candidate_answer": "不同的棲地環境孕育相同的生物資源",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.733Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T05:20:20.254Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a5cfe863162f5fd67624c6ec894656f139d2c385c4f6dc796c127ae45e99abc5",
