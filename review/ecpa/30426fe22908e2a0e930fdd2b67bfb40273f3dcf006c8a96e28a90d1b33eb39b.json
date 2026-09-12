@@ -114,5 +114,24 @@
     "source": "reported_question",
     "created_at": "2026-09-11T14:07:26.595Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "20b5c64540205b25c3572c7d22a5e95402e3ba2603b16db2d6927900c09207cc",
+    "question": "在行動化應用軟體無障礙檢測指引中，下列何者不是互動組件的檢測單?",
+    "options": [
+      "TS觸控操作",
+      "AV時序媒體",
+      "FC焦點",
+      "LK鏈結"
+    ],
+    "type": "單選",
+    "course": "行動化應用軟體無障礙進階分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AV時序媒體",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T04:14:28.740Z",
+    "review_state": "candidate_ready"
   }
 ]
