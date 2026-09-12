@@ -254,5 +254,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:17:08.813Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0ab61d26a04cfa3dcd95cb4cc4047cc0c708c545f267ad79ba6b885c7aafbaae",
+    "question": "行政院經濟發展委員會第2次委員會議就「包容成長」進行討論，並做出4項決議，下列何者非屬決議事項？",
+    "options": [
+      "中小微企業多元振興方案",
+      "薪資提升及薪資透明化",
+      "雙就業與雙照顧",
+      "打造臺灣成為亞洲資產管理中心"
+    ],
+    "type": "單選",
+    "course": "當前國家重大政策議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "打造臺灣成為亞洲資產管理中心",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T15:34:42.001Z",
+    "review_state": "candidate_ready"
   }
 ]
