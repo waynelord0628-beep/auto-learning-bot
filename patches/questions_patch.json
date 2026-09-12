@@ -17241,5 +17241,30 @@
       "model": null,
       "checked_at": "2026-09-12T13:19:50.847Z"
     }
+  },
+  {
+    "question": "講師在影片中分享「N * X」的思維，N 是代表什麼呢？",
+    "type": "單選",
+    "options": [
+      "物質條件",
+      "個人能力",
+      "公共資源",
+      "組織體制"
+    ],
+    "course": "AI 與人—與 AI 共處的奮進或躺平指南",
+    "answer": "個人能力",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "個人能力",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ai-ee.html",
+          "title": "「AI 與人—與 AI 共處的奮進或躺平指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T14:19:48.828Z"
+    }
   }
 ]

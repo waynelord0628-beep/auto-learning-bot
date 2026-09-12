@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "AI 與人—與 AI 共處的奮進或躺平指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "個人能力",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:12:32.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T14:19:49.971Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "個人能力",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ai-ee.html",
+          "title": "「AI 與人—與 AI 共處的奮進或躺平指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T14:19:48.828Z"
+    },
+    "resolved_answer": "個人能力"
   },
   {
     "id": "ca580ef819f1dff1df19a2ebd5d65df79f7e927fc7895a53538ca7349e758245",
