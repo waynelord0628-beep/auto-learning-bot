@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "alerted",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.990Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T13:19:46.803Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "alerted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T13:19:46.185Z"
+    },
+    "resolved_answer": "alerted"
   },
   {
     "id": "1c70d5e509b84de5fff61cc092587c4288c18aafcbe005318928bb60c5b21ccc",

@@ -17193,5 +17193,30 @@
       "model": null,
       "checked_at": "2026-09-12T13:19:41.425Z"
     }
+  },
+  {
+    "question": "The sound of the bell _____ the students that school was about to start.",
+    "type": "單選",
+    "options": [
+      "resumed",
+      "alerted",
+      "mutilated",
+      "recommended"
+    ],
+    "course": "有笑也有淚　大象的記憶深處",
+    "answer": "alerted",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "alerted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T13:19:46.185Z"
+    }
   }
 ]
