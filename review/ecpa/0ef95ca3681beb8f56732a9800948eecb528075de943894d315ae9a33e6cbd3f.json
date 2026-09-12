@@ -1,0 +1,184 @@
+[
+  {
+    "id": "23ec699e35c7a91106a10082685e346c6cd9145504d27a3f2e48b4d2d335f0a1",
+    "question": "桃園1999導入AI的試辦成效評估發現，應答成效不同議題，成果不同，也受議題的複雜度影響",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.622Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "360bfdcf28a9634b4935cab2e1c0510c6fbe249fb6ddfcdbf537ec9338df6563",
+    "question": "國內1999為民服務專線結合IT技術應用，AI可以協助之處為何？",
+    "options": [
+      "減少整理資料的負擔",
+      "加快理解問答的速度",
+      "減少民眾等待查的時間",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.624Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e681dfe0c7036974b7740aab5bb53faa4a0184c002ab0be2b5d2712ed09c545",
+    "question": "1999服務流程導入AI，可提高工作效能有哪些？",
+    "options": [
+      "在收集資料上：使用爬蟲技術收集政府網站資料，轉成內部資料庫。",
+      "在理解問題上：使用語音辨識交談內容，分析民眾意圖。",
+      "在查找解答上：使用整理過的內部資料生成解答，供話務人員參考。",
+      "在民眾回應上：使用虛實互動技術回覆民眾",
+      "以上皆是。"
+    ],
+    "type": "單選",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.625Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3add163272fcf710ee4d9f090d4b9d316ade53748266ff3f6ad0e103eba2061a",
+    "question": "桃園1999為民服務專線導入生成式AI，為進行導入AI試辦效益評估，透過實驗設計，使用本系統話務人員觀測對象為何？",
+    "options": [
+      "新進人員4位",
+      "資深人員4位",
+      "2位資深人員(年資7年以上)",
+      "2位新進人員(年資2年以內)"
+    ],
+    "type": "單選",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2位資深人員(年資7年以上)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.626Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f93ae4e1215aa411c2df4ce21bebb062d0ade5f6e96ed8121fac2e31326af851",
+    "question": "桃園1999為民服務專線導入AI的試辦成效，發現資深人員平均通話減少80秒，資淺人員平均通話秒數增加3秒，受話務人員的資深程度影響",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.627Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f853017f79a0131d272c48e9ced6cae4c9260a847a7d1e0dbb1cdfd2c7d3f3bc",
+    "question": "桃園1999為民服務專線導入生成式AI，依據話務人員問題，進行跨知識內容分析，生成參考應答",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.628Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "42c92d6a447812ad3a882ed50f3577898d4a5a230207e8c3ae76f8478176c2d6",
+    "question": "桃園1999為民服務專線AI系統，依據話務人員問題，生成參考應答，不提供知識目錄及資料引用來源",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.629Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e646a51c52eec5e243518d22f588842878d0aa779c94c1bcc4873c3006c6996",
+    "question": "根據本課程內容，桃園1999為民服務專線導入何種AI方案？",
+    "options": [
+      "爬蟲從技術收集政府資料",
+      "語音分析民眾問題",
+      "用內部資料生成解答",
+      "虛實互動解答民眾問題",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.630Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "101fe1ce8b6e992bf3a2dcf407bb066fdab4c730fd356615f5c0c6c8b45c3b2f",
+    "question": "桃園1999為民服務專線導入AI後，總體而言，通話時間縮短，搜尋時間也減少",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.631Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a773c48fc695f66dec37628ba11f4f6eecd7c2c3cb7bb82061600b850f657440",
+    "question": "桃園1999為民服務專線導入生成式AI，請問是在西元哪一年導入？",
+    "options": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "type": "單選",
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2022",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:22:48.632Z",
+    "review_state": "candidate_ready"
+  }
+]
