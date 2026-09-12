@@ -216,5 +216,24 @@
     "source": "reported_question",
     "created_at": "2026-09-12T06:25:56.157Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "ef4f223f71df6cceab7a39f8ac98c718fe26c96f8c9c8e8c493a5575029e0d22",
+    "question": "判斷職場霸凌情節是否重大時，應考量哪些因素？",
+    "options": [
+      "造成身心侵害之程度",
+      "侵害行為的次數、頻率、手段",
+      "行為人應受責難的程度",
+      "申訴人的職等"
+    ],
+    "type": "多選",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T06:26:28.950Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
