@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "數位學習與數位行銷之AI應用及創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:43:12.529Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T10:19:47.901Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0651907772.html",
+          "title": "「數位學習與數位行銷之AI應用及創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T10:19:46.918Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3c37305a1aa021826eb58853d431a52722b469da4e81ae3596125071694fb00f",
