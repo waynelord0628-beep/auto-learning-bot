@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "天弓飛彈",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.448Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T07:19:41.845Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "天弓飛彈",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T07:19:40.636Z"
+    },
+    "resolved_answer": "天弓飛彈"
   },
   {
     "id": "f9b345c15640b0bac68d54a7c7e0d0cef5a9c45e346dfb827ac49a1ea06b68c0",
