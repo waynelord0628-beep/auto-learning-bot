@@ -178,5 +178,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.634Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8afb080d7fd524895ae1ddba6e67ff0a73642e882849831e438cde705b1dbb77",
+    "question": "為維護居住正義，政府積極推動各項社會住宅政策，並進一步推動「百萬戶租屋家庭支持計畫」，其政策目標不包含以下何者？",
+    "options": [
+      "直接興建社會住宅25萬戶",
+      "包租代管社會住宅25萬戶",
+      "租金補貼50萬戶",
+      "新青安貸款50萬戶"
+    ],
+    "type": "單選",
+    "course": "當前國家重大政策議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "新青安貸款50萬戶",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:17:08.810Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "85533b6670d6f7c6b3f0f5478692396d9d632a9ffd3889d422c984b8a5e16785",
+    "question": "以下何者非屬「五大信賴產業」？",
+    "options": [
+      "半導體",
+      "AI",
+      "再生能源",
+      "次世代通訊"
+    ],
+    "type": "單選",
+    "course": "當前國家重大政策議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:17:08.811Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f85ed5dc90eaceb604a54be01f187a6aec2638ca8cb8b0cc2a80be9ee9cef9eb",
+    "question": "行政院核定調升2025年全國軍公教薪資待遇為？",
+    "options": [
+      "4％",
+      "3％",
+      "2％",
+      "1％"
+    ],
+    "type": "單選",
+    "course": "當前國家重大政策議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4％",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:17:08.812Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9eaeead182b85a09e57aa8c1bcd9a0f0376f7b69ccb7c8230bf0b9d3e8f30f7c",
+    "question": "為持續落實在地安老，強化醫療及照顧系統的銜接及整合，並增進對中重症的照顧，行政院將提出什麼計畫？",
+    "options": [
+      "三高防治888計畫",
+      "長照3.0",
+      "住院整合照護服務",
+      "全人整人照護方案"
+    ],
+    "type": "單選",
+    "course": "當前國家重大政策議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "長照3.0",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:17:08.813Z",
+    "review_state": "candidate_ready"
   }
 ]
