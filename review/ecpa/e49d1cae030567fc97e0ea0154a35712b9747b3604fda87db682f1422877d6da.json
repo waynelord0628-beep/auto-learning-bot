@@ -286,5 +286,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:53:21.408Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "66d741d65be462051fcaeb69b664e0281d0c3bf508181ec82f42a6003b255f1e",
+    "question": "美國的開放政府政策著重於政府資訊公開化的透明。前總統歐巴馬在2009年一上任，即提出「政府政策資訊透明度」、「市民參與」、「政府間以及官民協作」等三項目標，目的在於打造一個開放、透明的政府。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:53:52.222Z",
+    "review_state": "candidate_ready"
   }
 ]
