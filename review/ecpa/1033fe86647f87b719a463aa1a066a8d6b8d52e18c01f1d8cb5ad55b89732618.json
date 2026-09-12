@@ -335,5 +335,44 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:10:17.777Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0db557a4e995d65d7e682211f0872f020a572827ba115e5ada0c492a9680d88c",
+    "question": "針對「數位性別暴力」類型中「非法侵入或竊取他人資料」一項的說明，以下何者為是？",
+    "options": [
+      "不會發生在曾有親密關係的兩造之間",
+      "侵入網路攝影機取得他人影像資料就是一例",
+      "主要衝突源自金錢，較少與性或性別相關",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "侵入網路攝影機取得他人影像資料就是一例",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T21:54:35.057Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8c5c8e809d733c0dcc616918af48e3b45baebf0a7c94041107e05e2cb6d31442",
+    "question": "「惡意或未經同意而散布與性或性別有關的個人私密資料」這項，所謂的「個人資料」包括以下哪幾項？。",
+    "options": [
+      "文字",
+      "聲音",
+      "照片",
+      "影像",
+      "圖畫"
+    ],
+    "type": "多選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T21:54:35.058Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
