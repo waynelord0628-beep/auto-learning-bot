@@ -182,5 +182,75 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:44:59.983Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4b430f76c67f1adb94382001e2ebf12d91e3dc56e3c2f468aa21ec7e71ea835",
+    "question": "低「碳」飲食會透過多種食物包裝來保存食物的鮮美。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:45:36.578Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eb7eae5a450cc41a9c51bdf8471a23f6420934963fc4187d4358e5a06a7f3e77",
+    "question": "「原型食物」是指未經加工且不含額外添加物的食物。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:45:36.579Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "88a4cb465457cf613bb46ac068bb1b96e808bdf074513e7c1ccb9b3bda7c12bd",
+    "question": "下列那項不是原型食物？",
+    "options": [
+      "雞蛋",
+      "蘋果",
+      "蜜餞",
+      "馬鈴薯"
+    ],
+    "type": "單選",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "蜜餞",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:45:36.581Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fb27480569bcfdb7248af7053382d29ca5e4ad9d1d69efaaf9b8f3e5dde8f0f1",
+    "question": "身體質量指數(BMI)的計算方式為:體重（公斤）除以身高（公尺）的平方",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:45:36.581Z",
+    "review_state": "candidate_ready"
   }
 ]
