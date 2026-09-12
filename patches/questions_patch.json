@@ -17168,5 +17168,30 @@
       "model": null,
       "checked_at": "2026-09-12T12:19:53.570Z"
     }
+  },
+  {
+    "question": "Billy is a ______ boy who often cries when he watches sad movies.",
+    "type": "單選",
+    "options": [
+      "sensitive",
+      "sensitively",
+      "sensitivity",
+      "sensible"
+    ],
+    "course": "有笑也有淚　大象的記憶深處",
+    "answer": "sensitive",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "sensitive",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T13:19:41.425Z"
+    }
   }
 ]
