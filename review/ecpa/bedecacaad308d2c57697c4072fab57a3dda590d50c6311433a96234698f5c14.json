@@ -214,5 +214,56 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:36:58.999Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7b0e625ff43a3beb8e11fe375248cd516f9ea07bced0677348aad7ef6f5885d0",
+    "question": "工程司可以嚴格要求對待包商，不用考慮公平原則，只要確保能分工達成任務，以上敘述是否符合行政院公共工程委員會之工程倫理手冊-八大倫理守則？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工程倫理及公務廉政倫理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:37:28.388Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d226fff4a026fddb0d0c8e68648d85dc2349a48a8cf19c15c59328ba8e7352f8",
+    "question": "公務員廉政倫理規範目的是樹立廉能政治新典範，以公共利益為依歸，建立國民對政府的信任，是否正確？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工程倫理及公務廉政倫理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:37:28.389Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d249cda1097c0fe03de2603c065d5ac3a55995e8bfba10779c377c545df253fe",
+    "question": "美國土木工程師學會倫理守則將公眾安全、健康、福利擺在最高位置，是否正確？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工程倫理及公務廉政倫理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:37:28.390Z",
+    "review_state": "candidate_ready"
   }
 ]
