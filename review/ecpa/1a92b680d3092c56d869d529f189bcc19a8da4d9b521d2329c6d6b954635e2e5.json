@@ -187,5 +187,119 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.047Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bac83f88f78d149d0ef1f3aabf2ec327884ff0c7f66e7be01263725dd9887947",
+    "question": "考量全球戰略態勢變化、區域安全衝突升高、全民國防實務需要及人口結構改變，我國將義務役役期調整為多久？",
+    "options": [
+      "4個月",
+      "6個月",
+      "1年",
+      "2年"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.839Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "58e7404a139ac2c43931d4798f47c31d726b4a33742ddf2d88baa3e6b524b756",
+    "question": "中共自2021年起修頒《國防法》，頒布《海警法》、《海上交通安全法》等法規，屬於何種類型的對臺作戰整備？",
+    "options": [
+      "宣傳戰",
+      "心理戰",
+      "輿論戰",
+      "法律戰"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "法律戰",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.842Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1c5d762ef9d934a47ec030c6e13aef520163da17a834032e815f0bad0ba2ce2a",
+    "question": "中共對臺軍事作戰整備能力主要表現在哪個方面？",
+    "options": [
+      "統一戰線",
+      "反介入/區域拒止",
+      "惠臺政策措施",
+      "文化滲透"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "反介入/區域拒止",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.843Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "11715eae29c7e67524d63edcfda3d12a1629a1bab85c871ff01341c2a9481ab7",
+    "question": "國軍將「處處皆戰場」思維，融入「時時做訓練」概念，是要強化何種訓練效益？",
+    "options": [
+      "形式化",
+      "虛擬化",
+      "實戰化",
+      "理論化"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "實戰化",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.844Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8965cef4c03e79ee24927c54ad7f62269f76b7f99660b9a718a835855a8c17a6",
+    "question": "以下何者不是全民國防教育的主要範疇？",
+    "options": [
+      "國防政策",
+      "國際情勢",
+      "社會福利",
+      "防衛動員"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "社會福利",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.844Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6bf125cdb10d33f432aa6ed1f48c2b0ff6e5dfe1e28dd16aff9c0f30c5097e53",
+    "question": "作為輔助國軍主戰部隊、守備部隊、後備部隊與後備系統的地方民力為何？",
+    "options": [
+      "緊急救援系統",
+      "保防系統",
+      "災防系統",
+      "民防系統"
+    ],
+    "type": "單選",
+    "course": "全民國防概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民防系統",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T03:01:14.845Z",
+    "review_state": "candidate_ready"
   }
 ]
