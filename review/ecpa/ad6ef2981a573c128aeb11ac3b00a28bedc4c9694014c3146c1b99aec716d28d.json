@@ -1,0 +1,186 @@
+[
+  {
+    "id": "961f412ba8dbebcc6277d52425cef6483bbfc0105c375a2caccd05fccfa60ded",
+    "question": "文字轉圖片的技術屬於生成式AI",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.529Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3c37305a1aa021826eb58853d431a52722b469da4e81ae3596125071694fb00f",
+    "question": "Agent-based AI主要方式是AI可以代理協助處理許多工作項目",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.532Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bcff21eaea09d12794e10a4ab42429182a3c2d518b0bc526827319269e54b782",
+    "question": "多模態AI (multimodal AI)的技術主要是可以讓AI讓一張圖片無限創作展開更大更複雜的圖片",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.533Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e89720f0560fabc96b704f306d715900a3459955ec7c3fa57bfb7b2d63270e50",
+    "question": "以下哪一種服務是生成式AI？",
+    "options": [
+      "Chatgpt",
+      "Canva自動生圖",
+      "Midjourney文生圖",
+      "TTSmaker文字轉聲音"
+    ],
+    "type": "多選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.534Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "77f7abe041c0b76f7859524c2216a469f7cf4a2d033dda7d594dc2fdb2fa9e58",
+    "question": "以下哪一項不是生成式AI？",
+    "options": [
+      "Stable Diffusion",
+      "D-ID",
+      "Slido",
+      "Jasper AI"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Slido",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.535Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dcdc56a9fc32771a5f6ea5f3cf024e61716dbae3d841b506b4b7cc9cf5cc4adc",
+    "question": "Slido主要的功用為何？",
+    "options": [
+      "可以自動針對影片生成封面圖",
+      "可以透過音檔做成逐字稿文字",
+      "可以生成PPT",
+      "在PPT中加入與聽眾互動的提問，並可以即時呈現效果"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.536Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eb46eebc42a216a2e8c0eb891e4f661a8ff3faaffacdc2d77f3c5728576c1fbe",
+    "question": "Kahoot主要功用為何？",
+    "options": [
+      "提供AI轉場效果",
+      "設計與現場互動的測驗題",
+      "透過AI生成圖像",
+      "請AI重新編寫文件內容"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "設計與現場互動的測驗題",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.537Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3c758217098007f62caffe1adc992b6c2e4a983ddcce9e45dd6a7e7283472128",
+    "question": "如果想要輸入文字後出現有虛擬人物的影片，可以使用以下什麼服務？",
+    "options": [
+      "D-ID",
+      "Kahoot",
+      "Midjourney",
+      "Jasper AI"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "D-ID",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.537Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "876e41ba9a50c8119764b71f30f2e81e8a7eb824657a47b237e2b388b5b87087",
+    "question": "簡易版三階段的行銷漏斗階段不包含哪一項？",
+    "options": [
+      "認知",
+      "轉換行動",
+      "情感",
+      "考慮"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "情感",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.538Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d16a631c0da717b562ca053feb5286e4cbdb2e8e592a244fba3adc4f578c24f",
+    "question": "給影片一些標籤標註Hashtag，主要設計的方式有哪些？",
+    "options": [
+      "品牌或是口號型hashtag",
+      "呼籲行動的hashtag",
+      "相關詞hashtag",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "數位學習與數位行銷之AI應用及創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:43:12.539Z",
+    "review_state": "candidate_ready"
+  }
+]
