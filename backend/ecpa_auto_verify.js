@@ -119,6 +119,7 @@ function ecpaAutoVerifyBatch(deadline) {
   const cursor = props.getProperty('ECPA_VERIFY_CURSOR') || '';
   const ordered = paths.filter(p=>p>cursor).concat(paths.filter(p=>p<=cursor));
   let attempted=0,published=0,errors=0,last=cursor;
+  const courses=new Map();
   try {
   for (const path of ordered) {
     if (attempted>=3 || Date.now()>deadline) break;
@@ -129,7 +130,12 @@ function ecpaAutoVerifyBatch(deadline) {
       attempted++;
       let verdict = null, error = false;
       try { verdict = ecpaVerifyFromSources(q); } catch(e) { error=true; errors++; }
-      published += ecpaSaveSourceReview(path,q,verdict,error);
+      const added=ecpaSaveSourceReview(path,q,verdict,error);
+      published += added;
+      if(added) {
+        const course=ecpaText(q.course || '未命名課程').slice(0,300);
+        courses.set(course,(courses.get(course)||0)+added);
+      }
     }
     last=path;
   }
@@ -140,7 +146,8 @@ function ecpaAutoVerifyBatch(deadline) {
   return {ok:true,attempted,published};
   } finally {
     if (published) {
-      const sent=tgSend('eCPA 自動補題\n本輪更新：'+published+' 題\n已比對課程解答或來源資料，並補入共用題庫。');
+      const details=[...courses].map(([course,count])=>'課程：'+course+'\n新增：'+count+' 題').join('\n\n');
+      const sent=tgSend('eCPA 自動補題\n本輪更新：'+published+' 題\n\n'+details+'\n\n已補入共用題庫。');
       props.setProperty('ECPA_VERIFY_LAST_NOTIFICATION',JSON.stringify({time:new Date().toISOString(),published,sent:sent===true}));
     }
   }
