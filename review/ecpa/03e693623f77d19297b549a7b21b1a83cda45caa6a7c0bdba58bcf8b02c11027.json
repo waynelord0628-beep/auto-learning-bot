@@ -341,5 +341,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:46:04.863Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "701741c8868b3e5674fd78ba28e74198d91514370b38cbda8860190ad3636a2f",
+    "question": "BMI小於18.5代表體重過重；大於24則代表體重過輕。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "低碳蔬食綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T21:56:15.340Z",
+    "review_state": "candidate_ready"
   }
 ]
