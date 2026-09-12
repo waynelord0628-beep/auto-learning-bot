@@ -236,5 +236,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:47.902Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "edffdc15b2989e33fc24484f65059d5b0aac02fb7b5a8036d338f9c0a203021a",
+    "question": "針對「數位性別暴力」類型中「偽造或冒用身份」一項的說明，以下何者為非？",
+    "options": [
+      "「偽造或冒用身份」此類不會與其他暴力類型交織，這種犯罪總是單獨出現",
+      "目的在損害受害人信用名譽",
+      "可能冒用身份，接觸受害人親友同事，傳散有關受害者不實資訊",
+      "會利用私訊，假裝是受害者，與其親友聯絡"
+    ],
+    "type": "單選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:10:17.776Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "1c975b554265a9c231bc6716c85c68c4afc0dc3855564caa8984c6f1ad844475",
+    "question": "「人肉搜索」不是行政院公布的數位性別暴力」10種類型之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:10:17.776Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bebb068e3f2c4401e29b97a9e58648fad42a7b6b87b55902e815057a1fd7e2b3",
+    "question": "數位發展與數位性別暴力的關係，可以從以下哪些角度思考？",
+    "options": [
+      "資安",
+      "人權",
+      "性別平等",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:10:17.776Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7f5fe9c62ccc71e63ed0187bb36244221fbe7a98c543541b9688044969f12ae4",
+    "question": "有關數位性別暴力防治與媒體素養的關係，以下哪些是正確的說明？",
+    "options": [
+      "只要強調資訊素養、數位科技使用知能就能防堵數位性別暴力",
+      "數位性騷擾、數位性侵害的被害者確實有責任，防治數位性暴力首要之務就是教育受害者，要承擔責任",
+      "「性暴力連續體」強調線上線下日常生活連續不斷的經驗，各種環境中情感教育、性別平等教育必須與數位性別暴力防治同步推行",
+      "媒體應該將所有數位性暴力案件資訊披露在陽光下",
+      "數位性別暴力防治教育的推動，要強調「尊重當事人意願」。即使具有可以操控對方資料的資訊能力，「未經對方同意」就是不應該從事。"
+    ],
+    "type": "多選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:10:17.777Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "3c73d8df2fc674c27702ca607fa90a7470c303c910b681eb488fc1dfbb743aa9",
+    "question": "從新聞媒體素養的角度來討論數位性/性別暴力， 以下哪幾項需要注意？",
+    "options": [
+      "網路新聞媒體或小編報導數位性/別暴力事件的手法，像是強化性的訴求的標題",
+      "新聞消息來源只有「網友說」，一味強調受害人理當自己採取行動",
+      "報導內容揶揄懷疑數位性別暴力受害者",
+      "新聞報導形同窺密、淡化犯罪、強調情慾",
+      "新聞從業人員的生理性別比例"
+    ],
+    "type": "多選",
+    "course": "性別平等與媒體素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T19:10:17.777Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
