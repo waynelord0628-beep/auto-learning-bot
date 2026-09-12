@@ -347,5 +347,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T13:07:26.553Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7e63f873d9cd81fa753324136c178d0906f82079f36c6c0dcdd1d16ce3b0aea8",
+    "question": "根據國家報告的審查流程中，每隔幾年需提交一次定期報告？",
+    "options": [
+      "一年",
+      "兩年",
+      "四年",
+      "不需再提交"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "兩年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T15:44:03.119Z",
+    "review_state": "candidate_ready"
   }
 ]
