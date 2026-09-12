@@ -231,5 +231,75 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:15.245Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "3e9f8b77f5ba56cabdded5eaf4828d60b47360c65c11be190e3c3eea465d7015",
+    "question": "下列何者不是鹽埕商圈沒落的原因？",
+    "options": [
+      "五福商圈興起",
+      "高雄地下街失火",
+      "治安變差",
+      "市政府遷往苓雅區"
+    ],
+    "type": "單選",
+    "course": "從臨港線穿梭鹽埕今昔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高雄地下街失火",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T18:27:45.682Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5097850e31d3846a9d3c08fe81673cf7e54b0ac95bbe38a9e66e04a167058ed1",
+    "question": "高雄臨港線火車最終為配合鐵路地下化及輕軌鋪設，而全面廢止。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從臨港線穿梭鹽埕今昔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T18:27:45.683Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "873e83704ddb2fba050a806c1153834b85b80f303229762ec0a817075a8ba680",
+    "question": "日治時期即完成高雄臨港線火車繞行市區一周的路線鋪設。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從臨港線穿梭鹽埕今昔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T18:27:45.684Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "91379d296f7cbaeaec89ce5c37112dc1e5dcb9d208e652b560c720122ff4dbc3",
+    "question": "高雄臨港線火車設置的目的主要是為了貨物運輸。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從臨港線穿梭鹽埕今昔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T18:27:45.684Z",
+    "review_state": "candidate_ready"
   }
 ]
