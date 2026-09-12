@@ -129,5 +129,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:06:07.071Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2285a8c89d591e548544f271cab745debe5bd0db67678bc3251d5f53f8c1be6f",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "water lilies; reeds; water hyacinths",
+      "water hyacinths; reeds; water lilies",
+      "reeds; water hyacinths; water lilies",
+      "water lilies; water hyacinths; reeds"
+    ],
+    "type": "單選",
+    "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:06:43.094Z",
+    "review_state": "awaiting_evidence"
   }
 ]
