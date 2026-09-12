@@ -235,5 +235,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:26:28.950Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0334f2fdd3660dc6bb9586bbebe48939f6a30fabc61097d62b88fd1d95bee67f",
+    "question": "修正辦法中定義的「高風險職務」人員，每年必須至少實施一次一般健康檢查，不論年齡。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T06:26:34.190Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5e99e457da46449995eac06140ad014ff7b048681f81b7e0609f15cade0fca08",
+    "question": "公務人員就安全及衛生防護事項提出建議後，機關應於接到建議後60日內回覆辦理情形。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌防治",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T06:26:34.193Z",
+    "review_state": "awaiting_evidence"
   }
 ]
