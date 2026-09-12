@@ -17093,5 +17093,30 @@
       "model": null,
       "checked_at": "2026-09-12T11:20:05.367Z"
     }
+  },
+  {
+    "question": "A lack of money is the ______ that keeps most people from starting a business.",
+    "type": "單選",
+    "options": [
+      "opportunity",
+      "fantasy",
+      "expect",
+      "obstacle"
+    ],
+    "course": "《喜福會》",
+    "answer": "obstacle",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "obstacle",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T12:19:42.195Z"
+    }
   }
 ]
