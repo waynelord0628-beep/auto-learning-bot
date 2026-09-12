@@ -102,10 +102,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "二年",
     "source": "ai_unverified",
     "created_at": "2026-09-12T13:06:21.299Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-13T19:19:37.398Z"
   },
   {
     "id": "66f27d100024b714370ee432e213c7f63683bdd54a68ca2dac187c51d1187494",
@@ -305,10 +307,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "根據身心障礙者權益保障法第六十條，視障者可由合格導盲犬陪同自由出入公共場所、公共建築物等地",
     "source": "ai_unverified",
     "created_at": "2026-09-12T13:07:26.551Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-13T19:19:37.398Z"
   },
   {
     "id": "07993b65e284de8ae92e05a4a2d0563724edab88a43f21049868e5e3e0212ce9",
