@@ -176,5 +176,115 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.907Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1104e3045e05a6dc2b0665f1b44a2b856d2f03046f143b4d5b77bc81ca32ce45",
+    "question": "有關韓國「OPEN系統」的說明，下列何者為是？",
+    "options": [
+      "落實開放及機器可判讀之新設政府資訊",
+      "建立了線上民事申請審批程式系統",
+      "提供大量主題，供公眾瀏覽",
+      "於2014年推動開放政府資料"
+    ],
+    "type": "單選",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "落實開放及機器可判讀之新設政府資訊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:53:21.405Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0c3b54a5af0e5e95aa110d7a5240391702b2377926d269dfbfa5e802f0457315",
+    "question": "制定「行政院及所屬機關（構）推動行政作業流程透明原則」的目標為何？",
+    "options": [
+      "讓外部可監督行政部門運作的正當性",
+      "避免政府決策黑箱作業之質疑",
+      "避免因資訊不對稱造成行賄可能",
+      "方便接受外界捐贈款項"
+    ],
+    "type": "多選",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:53:21.406Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "9fbb9b1ec2cef682292a145b0921a4b8b1c09834fb526df091bb73b37fedcadd",
+    "question": "「行政院及所屬機關（構）推動行政作業流程透明原則」規定，行政作業流程透明，以確保政府行政部門運作及決策過程之外部監督可及性。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:53:21.406Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0e5a3980db8556b58ddab595bbe82036c1f71d941cf9f29b9bb254f3860253a1",
+    "question": "有關我國行政透明的說明，下列哪些是正確的？",
+    "options": [
+      "分為「財政透明化」、「政治透明化」及「資訊透明化」三大範疇",
+      "政治透明化係指政府機關應提供促進公眾取得政府資訊的程序，主要有政府資訊公開法等規範",
+      "透過行政程序公開，使公眾有檢視及監督政府施政的機會",
+      "為預防和打擊貪腐之重要工具"
+    ],
+    "type": "多選",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:53:21.407Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "fad66552d630d044cd394cbd651504555a1dc82eb3003ba80447f20202f5dcef",
+    "question": "下列有關「我國現行相關行政透明規定」的說明，哪些是正確的？",
+    "options": [
+      "根據公職人員財產申報法，每個公務員都需申報資料審核並公開",
+      "「駕照考照流程」公開筆試題庫為行政透明措施",
+      "財政部關務署「關港貿單一窗口」提供線上作業及APP即時查詢",
+      "藉由具外部監督可及性的行政透明化措施，提供公眾直接監督管道"
+    ],
+    "type": "多選",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-12T08:53:21.407Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e96659d9347442ca543aa7419e2d2194221fbb6be7f0408b060570ea7cd8663b",
+    "question": "「資訊透明與課責」，使得公眾與政府之間的資訊不對稱降低，進而督促政府正視財政問題與政策成效，同時也能減少公務員貪腐的誘因。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T08:53:21.408Z",
+    "review_state": "candidate_ready"
   }
 ]
