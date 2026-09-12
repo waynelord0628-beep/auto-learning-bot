@@ -264,5 +264,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.124Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1c6094031f8cc4350eecebfaa1814ad441ca4ce30387e63bceeaf143a1ce890c",
+    "question": "海洋基本法有三大願景，下列何者為非？",
+    "options": [
+      "生態永續",
+      "海域安全",
+      "自由平等",
+      "產業繁榮"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟的永續發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自由平等",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:16:32.819Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "51ed2d6ecf9c5355a989ce53ba20874a97cd996b8938cb73df154f0773ae5848",
+    "question": "請問海洋基本法是何年公布?",
+    "options": [
+      "1. 2019年",
+      "2. 2020年",
+      "3. 2021年",
+      "4. 2022年"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟的永續發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2. 2020年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:16:32.820Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c1f56dee54b1a8192f3fb7a6bdd8c3d049b6b1df4fbb38b4496f5c4234ecda11",
+    "question": "自1995年以來，海洋經濟成長速度大約幾倍?",
+    "options": [
+      "1. 1.5倍",
+      "2. 2倍",
+      "3. 2.5倍",
+      "4. 3倍"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟的永續發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2. 2倍",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:16:32.820Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "81cfd453310906299b19f27b3326cf0911df19ad78153509b85e90b6ee0e47e1",
+    "question": "請問海洋深層水產業是我國海洋產業的哪一種類別？",
+    "options": [
+      "海洋非生物資源",
+      "海洋生物科技",
+      "海洋礦資源",
+      "海洋能源"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟的永續發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "海洋非生物資源",
+    "source": "ai_unverified",
+    "created_at": "2026-09-12T00:16:32.824Z",
+    "review_state": "candidate_ready"
   }
 ]
