@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.663Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T02:19:45.802Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-12T02:19:45.093Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6981b5e8a3f4cadc5b9346c58a70044e70e3c428dfb8c9d32aab0010fd5299b3",
