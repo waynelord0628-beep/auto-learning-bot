@@ -62,6 +62,10 @@
     "candidate_answer": "slavery",
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:51:43.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-19T15:20:22.412Z",
+    "verification_status": "insufficient_sources"
   }
 ]
