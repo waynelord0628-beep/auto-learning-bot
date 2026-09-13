@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.615Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2be44307a5acce8abc645526ccf9f42c813e2f73905693cac2c971215951ceaa",
+    "question": "The documentary aims to educate the public about the _______ impact of plastic waste on marine life.",
+    "options": [
+      "carp",
+      "destructive",
+      "inadvertently",
+      "sentimental"
+    ],
+    "type": "單選",
+    "course": "物種攻防戰&漆彈大戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "destructive",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T19:36:18.645Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5a09e6c8cfb808d5fa28f830692f3c37481e3406e64f6a1e0b789d8382986f4b",
+    "question": "A beach hotel facing the ocean is a great place to _____.",
+    "options": [
+      "unwind",
+      "challenges",
+      "obstacle",
+      "communication"
+    ],
+    "type": "單選",
+    "course": "物種攻防戰&漆彈大戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "unwind",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T19:36:18.648Z",
+    "review_state": "candidate_ready"
   }
 ]
