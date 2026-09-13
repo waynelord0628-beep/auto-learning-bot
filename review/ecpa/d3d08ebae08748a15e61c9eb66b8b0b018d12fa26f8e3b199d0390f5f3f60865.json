@@ -115,13 +115,30 @@
     ],
     "type": "是非",
     "course": "性騷擾勿擾：談機關防治責任與案件處理實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:21:15.217Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T09:19:49.124Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_651.html",
+          "title": "「性騷擾勿擾：談機關防治責任與案件處理實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T09:19:48.390Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "08ff0bc8114c4038dc800777c279f6477a73ddd3df757653e773b5720df0c577",
