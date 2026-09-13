@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T07:48:11.877Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cdcb6cb307db1cbbe0d92ef5c81e52a40d49ad8a2801fd011d60bf1a553074a2",
+    "question": "My first _____ as a local newspaper reporter was to ask locals what they liked about the town.",
+    "options": [
+      "realistically",
+      "assignment",
+      "preferable",
+      "instinct"
+    ],
+    "type": "單選",
+    "course": "過度承諾低度實踐&別小看「閒聊」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "assignment",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T07:48:46.779Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "733b9adc890daa2b5e635f795873f046078130e75a9714d578f001c4d57f25a9",
+    "question": "Your _____ about our new neighbor was correct, and I’m glad you warned me about him. The police just arrested him for murder.",
+    "options": [
+      "preferable",
+      "instinct",
+      "wellness",
+      "appropriate"
+    ],
+    "type": "單選",
+    "course": "過度承諾低度實踐&別小看「閒聊」",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "instinct",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T07:48:46.782Z",
+    "review_state": "candidate_ready"
   }
 ]
