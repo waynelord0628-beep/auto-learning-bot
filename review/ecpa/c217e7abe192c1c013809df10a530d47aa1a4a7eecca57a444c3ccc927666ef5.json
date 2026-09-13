@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "17 個",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.416Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T04:19:40.432Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "17 個",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T04:19:39.792Z"
+    },
+    "resolved_answer": "17 個"
   },
   {
     "id": "5d2b7bc9de29d9a63a2ac7e46a4304fcffa280621d9398851c4cc7ebf16036eb",

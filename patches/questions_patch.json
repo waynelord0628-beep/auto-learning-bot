@@ -17581,5 +17581,30 @@
       "model": null,
       "checked_at": "2026-09-13T03:19:49.980Z"
     }
+  },
+  {
+    "question": "聯合國所提出的「永續發展目標 (Sustainable Development Goals, SDGs)」共有幾個主要目標？",
+    "type": "單選",
+    "options": [
+      "10 個",
+      "15 個",
+      "17 個",
+      "20 個"
+    ],
+    "course": "永續策略-行動SDGs塑造未來",
+    "answer": "17 個",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "17 個",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T04:19:39.792Z"
+    }
   }
 ]
