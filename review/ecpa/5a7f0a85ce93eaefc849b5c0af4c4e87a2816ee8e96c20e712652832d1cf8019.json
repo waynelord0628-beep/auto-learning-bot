@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T06:23:27.292Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f99844d27f67a3971637dc14e33bdc2cc621fd351ca6c44fe8f8920bc86bbf7a",
+    "question": "In her speech for the HeForShe campaign, actress Emma Watson wanted to raise our _____ of  gender equality.",
+    "options": [
+      "rewarded",
+      "professional",
+      "myth",
+      "awareness"
+    ],
+    "type": "單選",
+    "course": "瑪德琳‧斯圖亞特國際模特兒&打擊樂聽障獨奏家依芙琳‧葛蘭",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "awareness",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T06:24:26.872Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2d6852342b7191540af45cdc049eb9818023fb04b0738fa803878c20e0b37f64",
+    "question": "For my grandma, age is no _____ to enjoying her life to the fullest.",
+    "options": [
+      "vital",
+      "toil",
+      "penetrating",
+      "barrier"
+    ],
+    "type": "單選",
+    "course": "瑪德琳‧斯圖亞特國際模特兒&打擊樂聽障獨奏家依芙琳‧葛蘭",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "barrier",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T06:24:26.878Z",
+    "review_state": "candidate_ready"
   }
 ]
