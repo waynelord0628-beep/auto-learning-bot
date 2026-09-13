@@ -84,13 +84,30 @@
     ],
     "type": "是非",
     "course": "員工職場霸凌事件處理實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:18:05.460Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T03:19:41.874Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0188947547.html",
+          "title": "「員工職場霸凌事件處理實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T03:19:41.248Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d377d63e475ab35858f354be7c88e04d8fc004baca4900640e947b9935699fbf",
