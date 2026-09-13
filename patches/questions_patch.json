@@ -17364,5 +17364,30 @@
       "model": null,
       "checked_at": "2026-09-13T00:19:59.313Z"
     }
+  },
+  {
+    "question": "請問下列哪一項是駭客常用的攻擊手法？",
+    "type": "單選",
+    "options": [
+      "使用第三國之VPN/VPS作為進攻跳板",
+      "利用漏洞攻擊網通設備",
+      "竊取資訊，植入勒索病毒",
+      "以上皆是"
+    ],
+    "course": "當前科技犯罪面貌與因應之道",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0839883276.html",
+          "title": "「當前科技犯罪面貌與因應之道」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T01:19:41.674Z"
+    }
   }
 ]

@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "當前科技犯罪面貌與因應之道",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:10:48.595Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T01:19:42.474Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0839883276.html",
+          "title": "「當前科技犯罪面貌與因應之道」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T01:19:41.674Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "053f23934f506237e4a5174baeedb042b84feb348255887627d463bb7270f9cd",
