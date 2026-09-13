@@ -17606,5 +17606,30 @@
       "model": null,
       "checked_at": "2026-09-13T04:19:39.792Z"
     }
+  },
+  {
+    "question": "下列何者非聯合國所提出的「永續發展目標 (Sustainable Development Goals, SDGs)」目標？",
+    "type": "單選",
+    "options": [
+      "和平、正義及健全制度",
+      "多元夥伴關係",
+      "合適的工作及經濟成長",
+      "非核家園"
+    ],
+    "course": "永續策略-行動SDGs塑造未來",
+    "answer": "非核家園",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "非核家園",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T04:19:44.425Z"
+    }
   }
 ]

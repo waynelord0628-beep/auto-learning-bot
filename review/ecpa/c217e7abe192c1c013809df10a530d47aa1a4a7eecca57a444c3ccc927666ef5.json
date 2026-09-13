@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "非核家園",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.417Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T04:19:45.071Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "非核家園",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T04:19:44.425Z"
+    },
+    "resolved_answer": "非核家園"
   },
   {
     "id": "db9ef8e6c6931295b68534ec906edca58f0d19b633cf842c0678d15a5fec64c9",
