@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.225Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "449861ef0af82147fa645a6fdcbc3375f4c5b54c172422d2fcb0686ca2b15014",
+    "question": "The water in the river is ____. You can see fish swimming in it.",
+    "options": [
+      "large",
+      "thin",
+      "pretty",
+      "clear"
+    ],
+    "type": "單選",
+    "course": "皎潔月亮&我的媽媽無敵棒",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "clear",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T04:26:34.682Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "be215ff1e56b181c310bf89486ab3651359168108f498d1c2ddff926117f4931",
+    "question": "On a dark night, the biggest and brightest ____ in the sky is the moon.",
+    "options": [
+      "object",
+      "moment",
+      "subject",
+      "machine"
+    ],
+    "type": "單選",
+    "course": "皎潔月亮&我的媽媽無敵棒",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "object",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T04:26:34.692Z",
+    "review_state": "candidate_ready"
   }
 ]
