@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "工程倫理及公務廉政倫理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:36:22.209Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T02:19:44.597Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01659482853.html",
+          "title": "「工程倫理及公務廉政倫理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T02:19:43.894Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d80b33c892f34c0acd8cf4a489ee16bc0b32af1dee7e816056584cbe617b10f3",
