@@ -18123,5 +18123,30 @@
       "model": null,
       "checked_at": "2026-09-13T12:19:41.261Z"
     }
+  },
+  {
+    "question": "The history report is ______ next Tuesday, so everyone has to finish it by Monday.",
+    "type": "單選",
+    "options": [
+      "date",
+      "did",
+      "due",
+      "end"
+    ],
+    "course": "時間管理大師養成守則",
+    "answer": "due",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "due",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164099",
+          "title": "時間管理大師養成守則《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T12:19:46.855Z"
+    }
   }
 ]
