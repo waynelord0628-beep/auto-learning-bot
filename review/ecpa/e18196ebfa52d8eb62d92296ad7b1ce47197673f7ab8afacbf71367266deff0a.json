@@ -62,7 +62,11 @@
     "candidate_answer": "海洋藍碳",
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.008Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T15:20:29.342Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f76bde18fd66a60dd13b83fffecf4dce0c0fa69784b4d3a91ea55b6b57223d9e",
