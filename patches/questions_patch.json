@@ -17829,5 +17829,30 @@
       "model": null,
       "checked_at": "2026-09-13T07:19:45.369Z"
     }
+  },
+  {
+    "question": "This shirt has a tear in it. Let me ______ it for you before you put it on.",
+    "type": "單選",
+    "options": [
+      "mends",
+      "mended",
+      "mending",
+      "mend"
+    ],
+    "course": "膠帶背後的小故事",
+    "answer": "mend",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "mend",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T07:19:51.684Z"
+    }
   }
 ]

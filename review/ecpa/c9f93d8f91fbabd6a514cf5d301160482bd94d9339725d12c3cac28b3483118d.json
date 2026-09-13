@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "mend",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T07:19:52.606Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "mend",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T07:19:51.684Z"
+    },
+    "resolved_answer": "mend"
   },
   {
     "id": "cbb991d3727e763aec51f82c0bcf31d2f68be621c8dacaff693b1c7221b7bd48",
