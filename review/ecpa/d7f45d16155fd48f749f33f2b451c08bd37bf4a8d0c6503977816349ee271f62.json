@@ -10,15 +10,32 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.262Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-13T17:19:40.074Z"
+    "retry_after": "2026-09-13T17:19:40.074Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T10:21:45.229Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "經濟社會文化權利國際公約（ICESCR）",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T10:21:44.199Z"
+    },
+    "resolved_answer": "經濟社會文化權利國際公約（ICESCR）"
   },
   {
     "id": "d34816cda3b21d669f4f390ba60168efd8a345a89a8a783d389a9ea62ac1f220",
