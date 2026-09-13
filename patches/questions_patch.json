@@ -17879,5 +17879,30 @@
       "model": null,
       "checked_at": "2026-09-13T07:19:56.999Z"
     }
+  },
+  {
+    "question": "Erin wanted to get a ______ job, so she became a teacher to help people.",
+    "type": "單選",
+    "options": [
+      "meaning",
+      "meaningful",
+      "meaningfully",
+      "meaningfulness"
+    ],
+    "course": "《讓愛傳出去》",
+    "answer": "meaningful",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "meaningful",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T08:19:47.025Z"
+    }
   }
 ]
