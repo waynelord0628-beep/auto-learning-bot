@@ -226,5 +226,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:36:18.648Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0495d2fdb71ee7fc668576161eb64ad1a8335ba9d61e9f495a27dc8b97660ba4",
+    "question": "Neuschwanstein Castle was built by King Ludwig II of Bavaria, at a(n) _______ cost of more than seven million dollars.",
+    "options": [
+      "sentimental",
+      "irrigation",
+      "endanger",
+      "astronomical"
+    ],
+    "type": "單選",
+    "course": "物種攻防戰&漆彈大戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "astronomical",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T19:36:53.831Z",
+    "review_state": "candidate_ready"
   }
 ]
