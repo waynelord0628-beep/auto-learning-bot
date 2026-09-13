@@ -17316,5 +17316,30 @@
       "model": null,
       "checked_at": "2026-09-12T14:20:02.944Z"
     }
+  },
+  {
+    "question": "向學校匿名檢舉性騷擾案件，學校是否受理?",
+    "type": "單選",
+    "options": [
+      "應受理",
+      "有條件受理",
+      "原則上不受理",
+      "應協助處理"
+    ],
+    "course": "性騷擾防治",
+    "answer": "原則上不受理",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "原則上不受理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T00:19:54.725Z"
+    }
   }
 ]
