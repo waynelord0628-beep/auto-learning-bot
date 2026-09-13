@@ -188,5 +188,119 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T13:25:47.945Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b05ab90377d6e014f4aff26cf84e36f3dbf35736870b0d9f787e443ed8c289e3",
+    "question": "請選出一個正確或是最佳的中文字義答案：Prompt",
+    "options": [
+      "促使；激勵",
+      "消除；排除",
+      "運動員",
+      "極漂亮的；令人震驚的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "促使；激勵",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.875Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "92103e08a8a515023f45c65a5ac678f76bbc557f2bb96922fcc1a1b5faa3aeba",
+    "question": "請選出一個正確或是最佳的中文字義答案：Stunning",
+    "options": [
+      "促使；激勵",
+      "消除；排除",
+      "運動員",
+      "極漂亮的；令人震驚的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "極漂亮的；令人震驚的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.876Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ce48e58da1ab58c369651861364a8190a8ff549a214d833cd037999744b736d1",
+    "question": "請選出一個正確或是最佳的中文字義答案：Exotic",
+    "options": [
+      "奇異的；異國風情的",
+      "快速帶走",
+      "著手做；承擔",
+      "微粒；顆粒"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "奇異的；異國風情的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.877Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "698f6a269f103cfcb7f2e110289cf30c895aa49de64e013b74ec133323c73f75",
+    "question": "請選出一個正確或是最佳的中文字義答案：Exchange",
+    "options": [
+      "無保護的，不能自衛的",
+      "服從；遵守",
+      "劇烈地；大大地",
+      "交換；互換"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "交換；互換",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.878Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7134739fbc96a73277304eda21c70e5a0164485fb750f6f4c438da404604e145",
+    "question": "請選出一個正確或是最佳的中文字義答案：Athlete",
+    "options": [
+      "促使；激勵",
+      "消除；排除",
+      "運動員",
+      "極漂亮的；令人震驚的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "運動員",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.878Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6aea9f2f6f2f036c5973866b3bdbae2cec9b4f2cadaec26989906fc1bb2de9ad",
+    "question": "請選出一個正確或是最佳的中文字義答案：Undertake",
+    "options": [
+      "奇異的；異國風情的",
+      "快速帶走",
+      "著手做；承擔",
+      "微粒；顆粒"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "著手做；承擔",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:26:29.879Z",
+    "review_state": "candidate_ready"
   }
 ]
