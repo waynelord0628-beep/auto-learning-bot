@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "時間管理大師養成守則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "omitted",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:10:25.890Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T12:19:41.869Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "omitted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164099",
+          "title": "時間管理大師養成守則《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T12:19:41.261Z"
+    },
+    "resolved_answer": "omitted"
   },
   {
     "id": "b387a05449b358225f7e40fbc0df91378998cbc4b57b1976fe738c705a974833",
