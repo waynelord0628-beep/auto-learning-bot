@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "appeared",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.546Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T06:19:51.529Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "appeared",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T06:19:50.543Z"
+    },
+    "resolved_answer": "appeared"
   },
   {
     "id": "7e6f58ab005ce1d4807955e362df2f5188c914e78c58e7a1f9feeabe7d8fceb8",

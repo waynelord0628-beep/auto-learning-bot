@@ -17731,5 +17731,30 @@
       "model": null,
       "checked_at": "2026-09-13T05:20:05.560Z"
     }
+  },
+  {
+    "question": "The star singer ______ at a rock festival and sang a few songs.",
+    "type": "單選",
+    "options": [
+      "appear",
+      "appears",
+      "appeared",
+      "appearing"
+    ],
+    "course": "隨選即聽 ─ Podcast",
+    "answer": "appeared",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "appeared",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T06:19:50.543Z"
+    }
   }
 ]
