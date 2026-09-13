@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T01:29:37.815Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "634ea60d96b59979b09c7aabf16bfeb6dd0981e242d81ebc7a952a556744035e",
+    "question": "Sam didn’t come. Do you know the ____?",
+    "options": [
+      "reason",
+      "spring",
+      "mind",
+      "action"
+    ],
+    "type": "單選",
+    "course": "動物過冬面面觀&最愛水族箱",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "reason",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T01:30:23.033Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "592b6fb7e7d6a2fd55ac13d688ca34b38ad69286b787448f8d36935c9930210f",
+    "question": "(Jack and Sam are at an aquarium.)Jack:I like seeing the tropical fish.Sam:And I love looking at the big ____.",
+    "options": [
+      "spiders",
+      "swings",
+      "zebras",
+      "crabs"
+    ],
+    "type": "單選",
+    "course": "動物過冬面面觀&最愛水族箱",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "crabs",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T01:30:23.035Z",
+    "review_state": "candidate_ready"
   }
 ]
