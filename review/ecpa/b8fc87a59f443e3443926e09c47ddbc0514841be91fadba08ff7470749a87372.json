@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "當前科技犯罪面貌與因應之道",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人工智慧",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:10:48.597Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T01:19:52.278Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人工智慧",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0839883276.html",
+          "title": "「當前科技犯罪面貌與因應之道」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T01:19:51.482Z"
+    },
+    "resolved_answer": "人工智慧"
   },
   {
     "id": "96eb43daefb39f857c49ab4953fc9996796a2ed0fc977be681b09ed86e60c2f5",
