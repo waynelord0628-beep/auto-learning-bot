@@ -188,5 +188,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:55:10.878Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "925bd7dab2887d9429a16ee8a00698057eb0007322a8d83a5dccff673e25ecfd",
+    "question": "請選出一個正確或是最佳的中文字義答案：Overlook",
+    "options": [
+      "忽略，沒注意到",
+      "一代(人)",
+      "彈起；跳躍",
+      "耐嚼的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "忽略，沒注意到",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:01.130Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9a1b6b98fdcbd9ff4080ecda2177de7231afbc8321ed832a276ba1790419ae0e",
+    "question": "請選出一個正確或是最佳的中文字義答案：Constantly",
+    "options": [
+      "收聽；收看",
+      "確實地",
+      "據稱；大概",
+      "不斷地；總是"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不斷地；總是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:01.131Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ac02946725b79fddba44597e48d8165ca1528fae7ca267700ba97943a4aefe1f",
+    "question": "請選出一個正確或是最佳的中文字義答案：Gaze",
+    "options": [
+      "注視，凝視",
+      "極長的時間；永恆",
+      "豐盛的",
+      "使人疲勞的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "注視，凝視",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:01.132Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5b7097b89a789b6e5ef1267663fb424a8870bedfaed916b3cd73a83ef612ee57",
+    "question": "請選出一個正確或是最佳的中文字義答案：Extinction",
+    "options": [
+      "滅絕；絕種",
+      "後代；幼獸",
+      "不理智的",
+      "耐久的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "滅絕；絕種",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:01.133Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "726c789d8f1696f37a350c8508ce82b46fb4305ddaf5af969ddbfd98dcd363bd",
+    "question": "請選出一個正確或是最佳的中文字義答案：Irrational",
+    "options": [
+      "滅絕；絕種",
+      "後代；幼獸",
+      "不理智的",
+      "耐久的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不理智的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:01.133Z",
+    "review_state": "candidate_ready"
   }
 ]
