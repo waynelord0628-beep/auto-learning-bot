@@ -17804,5 +17804,30 @@
       "model": null,
       "checked_at": "2026-09-13T06:20:06.020Z"
     }
+  },
+  {
+    "question": "The cake was too bitter, so Ellen added some sugar to ______ its taste.",
+    "type": "單選",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvise"
+    ],
+    "course": "膠帶背後的小故事",
+    "answer": "improve",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "improve",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T07:19:45.369Z"
+    }
   }
 ]
