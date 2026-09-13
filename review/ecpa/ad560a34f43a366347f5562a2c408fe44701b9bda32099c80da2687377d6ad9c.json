@@ -188,5 +188,176 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.842Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f9573233b88d5757a5db1be950aab157c711d9160ebdf0f2438a79303f94f1f",
+    "question": "請選出一個最合適的英文 :在得來速點餐",
+    "options": [
+      "Ordering Drinks",
+      "app Food Delivery Apps",
+      "Ordering Food at a Drive-Thru",
+      "Ordering Breakfast in America"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Ordering Food at a Drive-Thru",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.230Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "87c7ffad61fdf76e8956fe97d5b5b9bc27c816ac5f158a63bf3115b5b8bf162c",
+    "question": "請選出一個最合適的英文 :和辦公室櫃檯談話",
+    "options": [
+      "Talking to an Office Receptionist",
+      "Calling In for Sick Leave",
+      "Schedule Meeting Time",
+      "Taking a Phone Message"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Talking to an Office Receptionist",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.231Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5350e545c088b463dc64b228f7886f7024a45cabebfff8f1cfa6e4c75d73cf98",
+    "question": "請選出一個最合適的英文 :到警局備案",
+    "options": [
+      "Information Desk",
+      "At the Post Office",
+      "At the Police Station",
+      "Lost & Found"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "At the Police Station",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.231Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f05c5e1aa2549f48ecc111c2e3c76877b8e667ba1071ad50c0f59cb157c8b9ad",
+    "question": "請選出一個最合適的英文 :騎自行車",
+    "options": [
+      "Signing Up for the Gym",
+      "At the Gym",
+      "Diets",
+      "Cycling"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Cycling",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.231Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "57ac0198145adc127163a1920d04d9c11f2491ba5fb7c3e01f781f7efb72d66f",
+    "question": "請選出一個最合適的英文 :機場退稅",
+    "options": [
+      "Tax Refund at the Store",
+      "Tax Refund at the Airport",
+      "Annual Performance Review",
+      "Shopping for Souvenirs"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Tax Refund at the Airport",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.232Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c7254a885698ccbed1b81204daa7d2cf27cb0fb41090beafff7d8e14f21b694b",
+    "question": "請選出一個最合適的英文 :報名健身",
+    "options": [
+      "Signing Up for the Gym",
+      "At the Gym",
+      "Diets",
+      "Cycling"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Signing Up for the Gym",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.232Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "26d05cfc3d63aeb34625809711ffc51598c4940582febbe140b6ba4c1608c44c",
+    "question": "請選出一個最合適的英文 :地震",
+    "options": [
+      "Earthquake",
+      "Typhoon Day",
+      "Typhoons",
+      "Rainstorm"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Earthquake",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.233Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "408f57bb5ad9734963a638068dcb9d8b3881b1e9ba37d5d1a40a0a5e55af0264",
+    "question": "請選出一個最合適的英文 :商品退稅",
+    "options": [
+      "Tax Refund at the Store",
+      "Tax Refund at the Airport",
+      "Annual Performance Review",
+      "Shopping for Souvenirs"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Tax Refund at the Store",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.233Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6532774afb3297637c0a5ac7a1ca8f46eeefcca0bc19fe010b2fbf47eae6f464",
+    "question": "請選出一個最合適的英文 :協商房租",
+    "options": [
+      "Negotiating the Rent",
+      "Apartment Hunting",
+      "Scheduling an Apartment Viewing",
+      "Opening a Bank Account"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Negotiating the Rent",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:17.234Z",
+    "review_state": "candidate_ready"
   }
 ]
