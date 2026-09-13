@@ -185,5 +185,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.808Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9bd4024960aeab55c5e234d4e5133db1e2a3b47670d21b75fe4c81304c6c0356",
+    "question": "Rewards systems, used correctly, can be effective for students. They provide students with ______ to work hard and exercise self-discipline.",
+    "options": [
+      "incentives",
+      "components",
+      "decay",
+      "drastically"
+    ],
+    "type": "單選",
+    "course": "摩天木樓&強化核心肌群",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "incentives",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T22:24:22.804Z",
+    "review_state": "candidate_ready"
   }
 ]
