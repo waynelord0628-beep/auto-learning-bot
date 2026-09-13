@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "debt",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.150Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T08:20:03.281Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "debt",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T08:20:01.446Z"
+    },
+    "resolved_answer": "debt"
   },
   {
     "id": "06303cebacf12116f28cfe9914c090cc161e06f69027483e4c05a048bb27e698",
