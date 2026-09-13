@@ -39,7 +39,11 @@
     "candidate_answer": "grind",
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:59:43.520Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T11:20:14.524Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "22d600a55cb92cb6286af94a1ea214fc5c79f54ee947f7844a56b2903a3d3c6b",
