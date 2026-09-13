@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:58:30.102Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c00d1ff7deb6dbe2ef7f946a47a939458661f3b66a36b3c99958973e0fb74058",
+    "question": "Tom is very sad. He ____ his wallet again.",
+    "options": [
+      "lost",
+      "blew",
+      "found",
+      "held"
+    ],
+    "type": "單選",
+    "course": "平安旅遊&樂攀岩",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "lost",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T02:59:15.478Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "48ae2bcdcafe1187725a6181e95fe55c8c6e37e6398e0eb45798e0458f276523",
+    "question": "Have the ____ numbers in the places you are going. Call the numbers for help when necessary.",
+    "options": [
+      "emergency",
+      "pleasure",
+      "experience",
+      "knowledge"
+    ],
+    "type": "單選",
+    "course": "平安旅遊&樂攀岩",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "emergency",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T02:59:15.480Z",
+    "review_state": "candidate_ready"
   }
 ]
