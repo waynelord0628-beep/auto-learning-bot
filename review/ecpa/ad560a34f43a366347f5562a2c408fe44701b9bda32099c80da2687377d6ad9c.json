@@ -359,5 +359,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.234Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "55fd007dffc4157574344d8b6bc283ca7f7eeab14a4998992a71a5e396d5a761",
+    "question": "請選出一個最合適的英文 :購買鞋子",
+    "options": [
+      "Buying a New Phone",
+      "Convenience Stores",
+      "Buying Earrings",
+      "Buying Shoes"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Buying Shoes",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:53.347Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8e88cb4dedb3c580db1226e190ffb84489860bda47cf210b7275eeeafe7c3261",
+    "question": "請選出一個最合適的英文 :派對地點",
+    "options": [
+      "Party D?cor",
+      "Party Venue",
+      "Dress Code",
+      "Party Food"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Party Venue",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:53.350Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86189733d26e15ad193e7b0311616e1bd44d036c8f25f19ca0ca4b3495202b89",
+    "question": "請選出一個最合適的英文 :找尋公寓",
+    "options": [
+      "Negotiating the Rent",
+      "Apartment Hunting",
+      "Scheduling an Apartment Viewing",
+      "Opening a Bank Account"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Apartment Hunting",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:53.350Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "89b74954c55fcc21516026e59b97e37df6896641ca7a717aca80e6208f9be1db",
+    "question": "請選出一個最合適的英文 :線上商務",
+    "options": [
+      "Summer Jobs",
+      "Going to the Military",
+      "Internet Trolls",
+      "Online Business"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Online Business",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:46:53.351Z",
+    "review_state": "candidate_ready"
   }
 ]
