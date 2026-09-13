@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.518Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c5ebf6d1b2af2725d31db4d6fbd7030c134c4880679cde375e40fc8e96b9df42",
+    "question": "Yes. If you ____ interested, please join us.",
+    "options": [
+      "will be",
+      "was",
+      "are",
+      "do"
+    ],
+    "type": "單選",
+    "course": "水上安全&淨灘活動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "are",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T03:40:06.153Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "144732c4372f243262fbfa03aed365d5b5dc0be885e4fcbeda85f3784d17332b",
+    "question": "I'm going to help pick up trash ____ the beach.",
+    "options": [
+      "up",
+      "with",
+      "at",
+      "off"
+    ],
+    "type": "單選",
+    "course": "水上安全&淨灘活動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "at",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T03:40:06.159Z",
+    "review_state": "candidate_ready"
   }
 ]
