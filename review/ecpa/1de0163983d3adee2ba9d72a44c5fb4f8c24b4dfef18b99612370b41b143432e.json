@@ -188,5 +188,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:09:43.415Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2a358c3500e3882b278fece3fd73a5362892f5996ec614d80585400fa15d3341",
+    "question": "When designing their house, Mrs. Miller wanted it to be designed with _____ decorations while  Mr. Miller wanted the decorations to be simple.",
+    "options": [
+      "tart",
+      "ornate",
+      "perched",
+      "voyage"
+    ],
+    "type": "單選",
+    "course": "愛上里斯本&錯失恐懼症",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ornate",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:10:24.952Z",
+    "review_state": "candidate_ready"
   }
 ]
