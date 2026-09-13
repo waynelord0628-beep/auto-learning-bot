@@ -18196,5 +18196,30 @@
       "model": null,
       "checked_at": "2026-09-13T13:19:40.706Z"
     }
+  },
+  {
+    "question": "You shouldn't put that sweater in the dryer; it will ______ and then you won't be able to wear it.",
+    "type": "單選",
+    "options": [
+      "quake",
+      "react",
+      "increase",
+      "shrink"
+    ],
+    "course": "看懂標籤　洗衣不再失誤！",
+    "answer": "shrink",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "shrink",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T13:19:44.722Z"
+    }
   }
 ]

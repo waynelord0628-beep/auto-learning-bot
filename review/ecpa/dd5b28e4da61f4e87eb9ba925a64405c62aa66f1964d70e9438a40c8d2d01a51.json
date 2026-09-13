@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "shrink",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.227Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T13:19:45.349Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "shrink",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T13:19:44.722Z"
+    },
+    "resolved_answer": "shrink"
   },
   {
     "id": "f1cd1ec8d87bb02237b62af7da375cd08edf1b1b5d3f56dbe5afb7fa915897f6",
