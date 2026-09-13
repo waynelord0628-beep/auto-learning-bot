@@ -17781,5 +17781,28 @@
       "model": null,
       "checked_at": "2026-09-13T06:19:58.621Z"
     }
+  },
+  {
+    "question": "海莉很興奮，因為她有機會去迪士尼樂園過生日。可英譯為：Hailey is excited because she gets to go to Disneyland for her birthday",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "隨選即聽 ─ Podcast",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T06:20:06.020Z"
+    }
   }
 ]
