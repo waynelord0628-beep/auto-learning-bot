@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.068Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a15ded0720e984ce25045e20bb8d833c290efbcb951a9a5a0f6a761dd2f906a6",
+    "question": "To inject new blood into the workforce and increase productivity, the company plans to _____ 300 workers.",
+    "options": [
+      "disposable",
+      "recruit",
+      "milestones",
+      "profound"
+    ],
+    "type": "單選",
+    "course": "太空探索企業：SpaceX&空氣水",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "recruit",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T05:39:21.924Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "76a9e6c9af7efbd618fc3bead80d99f45ca284a12e01768ebd597e5e0a758eb4",
+    "question": "The investor suffered a major _____ in the stock market and lost millions of dollars overnight.",
+    "options": [
+      "crucial",
+      "setback",
+      "roadster",
+      "payload"
+    ],
+    "type": "單選",
+    "course": "太空探索企業：SpaceX&空氣水",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "setback",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T05:39:21.926Z",
+    "review_state": "candidate_ready"
   }
 ]
