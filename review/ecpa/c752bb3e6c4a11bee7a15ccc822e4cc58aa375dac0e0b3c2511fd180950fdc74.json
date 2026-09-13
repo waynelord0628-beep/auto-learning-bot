@@ -283,5 +283,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:56:01.133Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9f9daa81f2dff64743ae31fc94619e560cb32e8a934873d137355dd9c9b2573e",
+    "question": "請選出一個正確或是最佳的中文字義答案：Durable",
+    "options": [
+      "滅絕；絕種",
+      "後代；幼獸",
+      "不理智的",
+      "耐久的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "耐久的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:36.262Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f369b0b7c79b5d3919e1153f3a0db45ab5191956490bd9d347ddcfb5a2990863",
+    "question": "請選出一個正確或是最佳的中文字義答案：Generation",
+    "options": [
+      "忽略，沒注意到",
+      "一代(人)",
+      "彈起；跳躍",
+      "耐嚼的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一代(人)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:36.264Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bd403e5af124e0feddcd706b7567c53a8079d7865ec448c9c6958394d3b2879a",
+    "question": "請選出一個正確或是最佳的中文字義答案：Offspring",
+    "options": [
+      "滅絕；絕種",
+      "後代；幼獸",
+      "不理智的",
+      "耐久的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "後代；幼獸",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:56:36.269Z",
+    "review_state": "candidate_ready"
   }
 ]
