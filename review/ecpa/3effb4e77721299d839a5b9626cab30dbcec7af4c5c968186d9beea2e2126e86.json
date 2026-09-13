@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.181Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cbacdaa308986c52c18124491c14aeba1bb04f48ff5cf8a4614c0535805fcbee",
+    "question": "Helen: Will you cook ____ in your hot pot?",
+    "options": [
+      "typhoons",
+      "reports",
+      "mushrooms",
+      "flowers"
+    ],
+    "type": "單選",
+    "course": "樂享火鍋&夏季美味甜點",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "mushrooms",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T00:48:17.812Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d356eaa034a0fb31bfe1a24279a5b52fed795207efa9ea2c454cc0d3e2a8ef43",
+    "question": "If Kevin keeps treating his friends like that, he will ____ with no friends.",
+    "options": [
+      "give up",
+      "look up",
+      "end up",
+      "get up"
+    ],
+    "type": "單選",
+    "course": "樂享火鍋&夏季美味甜點",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "end up",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T00:48:17.815Z",
+    "review_state": "candidate_ready"
   }
 ]
