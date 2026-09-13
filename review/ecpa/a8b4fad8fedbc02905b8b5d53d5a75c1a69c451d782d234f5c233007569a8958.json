@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.127Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f99f79a04af22f88b213ab94321ff9b9498cd78ec74688a5be743d020125ae67",
+    "question": "請選出最接近中文意思的英文：言出必行",
+    "options": [
+      "Cream of the Crop/ Cream Rises to the Top",
+      "Protein Shakes and Smoothies",
+      "As Good As Gold",
+      "Phubbing/ Phubber"
+    ],
+    "type": "單選",
+    "course": "英語維基＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "As Good As Gold",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T16:51:39.115Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9793a5e8dde1e58916a82b105788f6a583af1dbf693b16cddf8dd1bbccb8d8f3",
+    "question": "請選出最接近中文意思的英文：開心吧",
+    "options": [
+      "Cream of the Crop/ Cream Rises to the Top",
+      "Protein Shakes and Smoothies",
+      "Be of Good Cheer",
+      "Phubbing/ Phubber"
+    ],
+    "type": "單選",
+    "course": "英語維基＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Be of Good Cheer",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T16:51:39.118Z",
+    "review_state": "candidate_ready"
   }
 ]
