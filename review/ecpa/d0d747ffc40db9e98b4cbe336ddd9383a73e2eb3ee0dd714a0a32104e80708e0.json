@@ -188,5 +188,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:08:32.845Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c96f18527da36a7ec0e6d05fca9d8f74cdf54d2e01dd35bc47917cfe6af7a775",
+    "question": "請選出最接近中文意思的英文:厄運",
+    "options": [
+      "Jinx",
+      "Go Green!",
+      "Zero to Hero",
+      "Left on Read"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Jinx",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T12:09:20.545Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "24d6068589f2851b2ac4d679a350972eb87f586a1bbcac91c2e6d397d0439f83",
+    "question": "請選出最接近中文意思的英文:別無選擇",
+    "options": [
+      "Roll Over in Your Grave",
+      "To Wear Many Hats",
+      "To Be Extra",
+      "Beggars Can't be Choosers"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Beggars Can't be Choosers",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T12:09:20.546Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6ce6da7294288be8184e20c7c8eeb6f4d0d299ca8e88de9db3f0ecb47231a140",
+    "question": "請選出最接近中文意思的英文:對某人不滿",
+    "options": [
+      "Time is money",
+      "Flexing/Flex culture",
+      "Have a Beef with",
+      "Itchy palm/ Itchy fingers"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Have a Beef with",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T12:09:20.547Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2be887b7872d611fb087a333af42b955da92dd555362d92081b220c6b85c2672",
+    "question": "請選出最接近中文意思的英文:失效",
+    "options": [
+      "Inside Job",
+      "Null and Void",
+      "To Stick Your Neck Out",
+      "Baseball: an American Tradition"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Null and Void",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T12:09:20.549Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8cfa9caa5691a303664be7e5bd5424acd7bafbdde2cb83df860c5b2a73e48ae4",
+    "question": "請選出最接近中文意思的英文:噩夢一場",
+    "options": [
+      "What a Nightmare",
+      "Break the Bank",
+      "Meet Cute",
+      "Giving the Cold Shoulder"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "What a Nightmare",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T12:09:20.549Z",
+    "review_state": "candidate_ready"
   }
 ]
