@@ -18221,5 +18221,30 @@
       "model": null,
       "checked_at": "2026-09-13T13:19:44.722Z"
     }
+  },
+  {
+    "question": "It seems ______ that you’ll find your keys in the fridge.",
+    "type": "單選",
+    "options": [
+      "doubt",
+      "doubtful",
+      "doubtfully",
+      "doubtless"
+    ],
+    "course": "看懂標籤　洗衣不再失誤！",
+    "answer": "doubtful",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "doubtful",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T13:19:48.947Z"
+    }
   }
 ]
