@@ -39,7 +39,11 @@
     "candidate_answer": "3. 海洋環境保護",
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.005Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T15:20:14.251Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "928422611dcb23f8c41069f1fc30b2ebe4188578f28482777e8fdec302bfa29d",
