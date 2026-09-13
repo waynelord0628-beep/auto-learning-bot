@@ -17756,5 +17756,30 @@
       "model": null,
       "checked_at": "2026-09-13T06:19:50.543Z"
     }
+  },
+  {
+    "question": "This TV show is really ______. All of the kids in my class watch it.",
+    "type": "單選",
+    "options": [
+      "popularly",
+      "popular",
+      "popularity",
+      "popularization"
+    ],
+    "course": "隨選即聽 ─ Podcast",
+    "answer": "popular",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "popular",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T06:19:58.621Z"
+    }
   }
 ]
