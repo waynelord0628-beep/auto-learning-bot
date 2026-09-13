@@ -188,5 +188,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.567Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "34e55378b2dab34c2fd1fcf94f85c388957ad90682d3b59cb6f31263fa0f95b9",
+    "question": "請選出最接近中文意思的英文：瀏覽頻道,瀏覽網路,海陸大餐",
+    "options": [
+      "Task Force",
+      "Newlywed, Newish, Newbie",
+      "Surf Channels, Surf the Web, Surf and Turf",
+      "No Man Is an Island"
+    ],
+    "type": "單選",
+    "course": "英語維基＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Surf Channels, Surf the Web, Surf and Turf",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T18:12:53.971Z",
+    "review_state": "candidate_ready"
   }
 ]
