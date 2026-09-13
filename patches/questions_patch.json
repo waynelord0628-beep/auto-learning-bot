@@ -17656,5 +17656,30 @@
       "model": null,
       "checked_at": "2026-09-13T04:19:48.854Z"
     }
+  },
+  {
+    "question": "My brother is taller than most people. In fact, he is over two ______ tall!",
+    "type": "單選",
+    "options": [
+      "liters",
+      "meters",
+      "kilograms",
+      "degrees"
+    ],
+    "course": "天涼好個秋！來去日月潭旅遊",
+    "answer": "meters",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "meters",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164127",
+          "title": "天涼好個秋！來去日月潭旅遊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T05:19:45.618Z"
+    }
   }
 ]
