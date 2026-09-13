@@ -17462,5 +17462,30 @@
       "model": null,
       "checked_at": "2026-09-13T02:19:43.894Z"
     }
+  },
+  {
+    "question": "有職務上利害關係，因為公務禮儀或是民俗節慶公開舉辦並邀請一般人參加之活動，應該踐行什麼程序才能安心參加?",
+    "type": "單選",
+    "options": [
+      "事後簽報長官報備。",
+      "事前簽報長官核准並知會政風機構。",
+      "自己偷偷去就好，不會被發現。",
+      "有好康當然找同事一起去，彼此保密。"
+    ],
+    "course": "工程倫理及公務廉政倫理",
+    "answer": "事前簽報長官核准並知會政風機構。",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "事前簽報長官核准並知會政風機構。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01659482853.html",
+          "title": "「工程倫理及公務廉政倫理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T02:19:48.694Z"
+    }
   }
 ]

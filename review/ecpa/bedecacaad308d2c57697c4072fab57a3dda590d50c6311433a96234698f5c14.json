@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "工程倫理及公務廉政倫理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "事前簽報長官核准並知會政風機構。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:36:22.216Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T02:19:49.326Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "事前簽報長官核准並知會政風機構。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01659482853.html",
+          "title": "「工程倫理及公務廉政倫理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T02:19:48.694Z"
+    },
+    "resolved_answer": "事前簽報長官核准並知會政風機構。"
   },
   {
     "id": "87fa27d2d0417597a086fa44808af7adfe42511d35943d949f010a858fe78e97",
