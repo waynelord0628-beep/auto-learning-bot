@@ -36,5 +36,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T20:13:38.822Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a69bd7b4b339c3ef91905d544744284eadf2636b95db70db57b7c39df5895762",
+    "question": "請找出正確順序的英文句子",
+    "options": [
+      "In June,there is a special festival at the beach.",
+      "In June, at the beach a special festival there is.",
+      "In June,a special festival there is at the beach.",
+      "At the beach there is a special festival in June,"
+    ],
+    "type": "單選",
+    "course": "自我挑戰重組句子 Try it",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "In June,there is a special festival at the beach.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T20:14:13.018Z",
+    "review_state": "candidate_ready"
   }
 ]
