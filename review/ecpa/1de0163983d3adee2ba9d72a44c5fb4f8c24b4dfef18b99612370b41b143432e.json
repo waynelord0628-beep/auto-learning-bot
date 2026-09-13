@@ -207,5 +207,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:10:24.952Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e7afbe4553f32695b22263593c0fa74ad22b48df351692d9687bff5eff4e503b",
+    "question": "The bride entered the banquet room, dressed in a costly and _____ gown that attracted everyone's eye.",
+    "options": [
+      "humidity",
+      "elegant",
+      "retreat",
+      "pavilion"
+    ],
+    "type": "單選",
+    "course": "愛上里斯本&錯失恐懼症",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "elegant",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T09:10:59.938Z",
+    "review_state": "candidate_ready"
   }
 ]
