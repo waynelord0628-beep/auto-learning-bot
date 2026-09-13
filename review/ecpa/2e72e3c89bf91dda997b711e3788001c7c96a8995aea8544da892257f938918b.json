@@ -36,5 +36,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:02:19.876Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "687fe95dab244900dfafd3eba4c2e8f6ca9118a14a6f6651817722861c012d9a",
+    "question": "請找出正確順序的英文句子",
+    "options": [
+      "In the mountains hiking this weekend go let's.",
+      "Let's hiking in the mountains go this weekend.",
+      "This weekend in the mountains hiking let's go.",
+      "Let's go hiking in the mountains this weekend."
+    ],
+    "type": "單選",
+    "course": "【自我挑戰重組句子】&【J檔案】",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Let's go hiking in the mountains this weekend.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T05:02:56.456Z",
+    "review_state": "candidate_ready"
   }
 ]
