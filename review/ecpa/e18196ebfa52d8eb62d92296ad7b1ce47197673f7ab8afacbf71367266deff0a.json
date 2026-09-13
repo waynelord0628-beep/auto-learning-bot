@@ -16,7 +16,11 @@
     "candidate_answer": "1. 2022年",
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.000Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T15:19:59.049Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a5ed90f94e5060dcb9aac3cb7ef6c6a70dcf946b8c102d99a28c84d4a282eccb",
