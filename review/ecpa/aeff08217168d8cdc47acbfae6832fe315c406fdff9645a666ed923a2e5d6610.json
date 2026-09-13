@@ -187,5 +187,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.361Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "54645db1d03f37e04b5f58eb6e47be29781ca183ebfba8e6d9b31a7bae098f46",
+    "question": "Tina and Lucy are good friends. They ____ each other.",
+    "options": [
+      "shout",
+      "taste",
+      "steal",
+      "trust"
+    ],
+    "type": "單選",
+    "course": "聰明付款&好習慣與壞習慣",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "trust",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T02:13:15.351Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1e5edd4794610236a678778a588113cb2d3523c3e2e646f30f840a973dfe1672",
+    "question": "John doesn't ____ food. He finishes everything in his bowl.",
+    "options": [
+      "waste",
+      "wake",
+      "wish",
+      "write"
+    ],
+    "type": "單選",
+    "course": "聰明付款&好習慣與壞習慣",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "waste",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T02:13:15.352Z",
+    "review_state": "candidate_ready"
   }
 ]
