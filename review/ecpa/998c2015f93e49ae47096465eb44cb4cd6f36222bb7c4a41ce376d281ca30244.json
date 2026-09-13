@@ -302,5 +302,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T13:26:29.879Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b5329edf41276a63ef7ffd37c2548c58d89307c392ba048bc0ca90a2b376467d",
+    "question": "請選出一個正確或是最佳的中文字義答案：Drastically",
+    "options": [
+      "首次發現；被發現的事物",
+      "無保護的，不能自衛的",
+      "服從；遵守",
+      "劇烈地；大大地"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "劇烈地；大大地",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:27:06.568Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "35cdbb89a12a94f6410303f01be4a6f52828c3b8ae46a3a798e143e32dfd3942",
+    "question": "請選出一個正確或是最佳的中文字義答案：Masterpiece",
+    "options": [
+      "機械的，似機械的",
+      "打噴嚏",
+      "傑作；名作",
+      "使害怕，使恐懼"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "傑作；名作",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T13:27:06.571Z",
+    "review_state": "candidate_ready"
   }
 ]
