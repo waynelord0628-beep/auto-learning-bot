@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "天涼好個秋！來去日月潭旅遊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "participant",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:10:34.291Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-20T05:20:08.525Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "participant",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164127",
+          "title": "天涼好個秋！來去日月潭旅遊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-13T05:20:05.560Z"
+    },
+    "resolved_answer": "participant"
   },
   {
     "id": "343eefa4f14ff3083c29e649a3c33d236cfa1cb3dbcfe78bcc908719fd6c5919",
