@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.894Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a5fcca283282c7cb011c5215dc4e2b23a4ffac15cb3b1430b14e5ef680dd707c",
+    "question": "There are many ways to celebrate a birthday.In China, people eat long-life ____ and hope for a long life.",
+    "options": [
+      "noodles",
+      "medicine",
+      "plants",
+      "presents"
+    ],
+    "type": "單選",
+    "course": "歡慶生日&表達愛意",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "noodles",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:18:47.907Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e666d9f117c3403e806357c98d790a22645509b65b742c21bcc62d3c70cdd826",
+    "question": "Say nice things. You can say, “I really ____ your help.",
+    "options": [
+      "practice",
+      "appreciate",
+      "understand",
+      "surprise"
+    ],
+    "type": "單選",
+    "course": "歡慶生日&表達愛意",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "appreciate",
+    "source": "ai_unverified",
+    "created_at": "2026-09-13T14:18:47.911Z",
+    "review_state": "candidate_ready"
   }
 ]
