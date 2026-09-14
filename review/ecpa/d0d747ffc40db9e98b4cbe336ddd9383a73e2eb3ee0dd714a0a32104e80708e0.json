@@ -397,5 +397,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:09:51.105Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "df4efdb9dbce843d8d242dff6aebd014db91bd04c544bbeda85b3efb63a1954c",
+    "question": "請選出最接近中文意思的英文:貪心/手癢",
+    "options": [
+      "Time is money",
+      "Flexing/Flex culture",
+      "Have a Beef with",
+      "Itchy palm/ Itchy fingers"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Itchy palm/ Itchy fingers",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:39.352Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "12e8bca28863a92e726a9e4cf381e6f534cd00f4e07bec0c15ebcf6425018fe8",
+    "question": "請選出最接近中文意思的英文:認命",
+    "options": [
+      "Catch Someone Red handed",
+      "Cash is King",
+      "Pick Your Poison",
+      "To be Resigned to Your Fate"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "To be Resigned to Your Fate",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:39.357Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9f72e3390979668a5d92bdd9c46694c063658efb5426a511d506772e63086532",
+    "question": "請選出最接近中文意思的英文:炫耀/炫耀文化",
+    "options": [
+      "Time is money",
+      "Flexing/Flex culture",
+      "Have a Beef with",
+      "Itchy palm/ Itchy fingers"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Flexing/Flex culture",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:39.359Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fd2080e0c6dcb1ed1853cec924491d69e783a10b8007e09d40e2b51fb8f4f63d",
+    "question": "請選出最接近中文意思的英文:高度評價",
+    "options": [
+      "Two Thumbs Up",
+      "Castles in the Sky",
+      "Buzzy",
+      "Wild Card"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Two Thumbs Up",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:39.361Z",
+    "review_state": "candidate_ready"
   }
 ]
