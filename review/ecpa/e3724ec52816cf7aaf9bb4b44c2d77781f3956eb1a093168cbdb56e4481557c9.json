@@ -16,7 +16,11 @@
     "candidate_answer": "創建圖像",
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:34.230Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T00:19:51.699Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2276cb8c0d9aa0fe573c3a015c013a19c23c6905a4008dc7c01eb42aa1ff590f",
