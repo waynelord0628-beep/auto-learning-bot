@@ -273,5 +273,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.233Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c0d8bd4400dc2464680a2523f6543dfeac4dcdb9953ca102d3110973b10f385a",
+    "question": "請問《身心障礙者權利公約》是在哪一年通過的？",
+    "options": [
+      "西元1966年",
+      "西元1976年",
+      "西元1982年",
+      "西元2006年"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "西元2006年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:36.574Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7619ea0e700da70bca5d31b48d3795bb2b3dd557cf4e20351c4ef9a72faf973d",
+    "question": "請問下列哪些為《身心障礙者權利公約》國內法化的理由？",
+    "options": [
+      "提升臺灣觀光知名度。",
+      "現行的《身心障礙者權益保障法》無法涵蓋公約全部。",
+      "將其他國際公約引進國內。",
+      "透過國際監督機制做審查。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:36.582Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
