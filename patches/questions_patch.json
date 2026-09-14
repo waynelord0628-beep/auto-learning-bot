@@ -19042,5 +19042,30 @@
       "model": null,
       "checked_at": "2026-09-14T13:20:17.498Z"
     }
+  },
+  {
+    "question": "Zoe: Are you free now? Can we ____ the plan for this weekend?Lily: Yes. Let’s talk about it now.",
+    "type": "單選",
+    "options": [
+      "discuss",
+      "follow",
+      "define",
+      "belong"
+    ],
+    "course": "你的嗜好是什麼&樂器行",
+    "answer": "discuss",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "discuss",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016993",
+          "title": "你的嗜好是什麼&樂器行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T13:20:32.519Z"
+    }
   }
 ]
