@@ -80,13 +80,30 @@
     ],
     "type": "是非",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.804Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T04:19:58.765Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T04:19:58.110Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "7c73993bbfa6a2111954fe0ced25471e13e771fbc1b9f19aff5bea0a53e7a368",
