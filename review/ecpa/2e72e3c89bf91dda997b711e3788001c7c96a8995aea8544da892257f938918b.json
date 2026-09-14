@@ -55,5 +55,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:02:56.456Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "dacc1eaa353ef7c847b9331a683326e866fba72be53f663b379cd3ce66e04b6f",
+    "question": "請找出正確順序的英文句子",
+    "options": [
+      "Please tell me about your family.",
+      "Tell me family please about your.",
+      "Please about your tell me family.",
+      "Family tell me please about your."
+    ],
+    "type": "單選",
+    "course": "【自我挑戰重組句子】&【J檔案】",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Please tell me about your family.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T15:59:28.615Z",
+    "review_state": "candidate_ready"
   }
 ]
