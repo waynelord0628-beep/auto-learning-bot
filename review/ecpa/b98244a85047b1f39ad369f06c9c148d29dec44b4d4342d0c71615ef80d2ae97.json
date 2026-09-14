@@ -32,10 +32,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "尊重固有尊嚴",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:30.998Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T16:19:38.642Z"
   },
   {
     "id": "c56b0843c96d76b3f48da9ed7e430e877212e373ccd9324d25c5ee2902f166d6",
@@ -51,10 +53,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "第27條，工作與就業。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:30.999Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T16:19:38.642Z"
   },
   {
     "id": "86f9cc72180ceb4b86d5e7a1b3b7524cb0fa29dd35b8abef0b8fceca7b7d82b2",
@@ -70,10 +74,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "第13條，獲得司法保護。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:31.000Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T16:19:38.642Z"
   },
   {
     "id": "4b5b080662aaf86e04963e9b972d4932a7a02c30b6f5b5718f580484c0b0b0d2",
@@ -269,10 +275,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "第11條，危險情況與人道緊急情況。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.233Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T16:19:38.642Z"
   },
   {
     "id": "c0d8bd4400dc2464680a2523f6543dfeac4dcdb9953ca102d3110973b10f385a",
