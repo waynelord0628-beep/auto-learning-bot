@@ -251,12 +251,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "「偽造或冒用身份」此類不會與其他暴力類型交織，這種犯罪總是單獨出現",
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:10:17.776Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-13T20:19:37.064Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-15T06:19:38.755Z"
   },
   {
     "id": "1c975b554265a9c231bc6716c85c68c4afc0dc3855564caa8984c6f1ad844475",
