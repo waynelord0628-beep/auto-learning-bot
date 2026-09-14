@@ -180,5 +180,111 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:13:14.976Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "815b2af0127c9d5d52786243dc06d9bd08db904b67b57b4b698880760325b874",
+    "question": "使用電子郵件時，須確認寄件者與你業務相關且熟識，也要確認電子郵件信箱位址無誤，但不建議關閉郵件預覽功能。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.779Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0ed491c8123b164eede4bd0c12f6932cdd1198d48281a4b1f08aa1aae89e1921",
+    "question": "詐騙者自稱高階主管、律師要求被害人處理機密性事務，甚至要求匯款至他們所控制的帳戶，此行為是屬於電腦蠕蟲的社交工程術。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.780Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf844300618c58e6ee24a0cf4396310f0049423a0a3437853b2e0b4f516e4f4b",
+    "question": "下列何者非網路釣魚使用的手法？",
+    "options": [
+      "假貸款真詐騙",
+      "建立一個聳動的主旨",
+      "常有跳窗網頁",
+      "偽造一個相似的網址"
+    ],
+    "type": "單選",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "假貸款真詐騙",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.781Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5adc46424d4d323de6ffbf0cba34394ae7b79f85be498c76261a08fc2852f62e",
+    "question": "使用任何電子郵件軟體前，先進行確認，是屬於「使用者防護停看聽」的「停」階段。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.781Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c9202c1931d6b17e73813ee556c2deeb3fe847ea4ee5e885987d6aa78175a26b",
+    "question": "若使用太簡易的密碼很容易被駭客破解，建議同時混用數字、字母及特殊符號來增加困難度，並經常更換帳號密碼。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.782Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dfe3956c7be5ebf28ca5a0deb604797c9a68969bc5aafa0ad6fa6fc4f02f2a5f",
+    "question": "下列何者非「使用者防護停看聽」中「看」階段的行為？",
+    "options": [
+      "確認往來對象",
+      "透過電話或電子郵件向寄件人確認郵件真偽",
+      "可疑主旨勿開啟",
+      "可疑檔名勿開啟"
+    ],
+    "type": "單選",
+    "course": "電子郵件安全與社交工程防範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "確認往來對象",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T18:13:51.783Z",
+    "review_state": "candidate_ready"
   }
 ]
