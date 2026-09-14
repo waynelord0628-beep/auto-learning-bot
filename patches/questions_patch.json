@@ -19163,5 +19163,30 @@
       "model": null,
       "checked_at": "2026-09-14T15:19:45.234Z"
     }
+  },
+  {
+    "question": "You should try to follow ______ matters in the news so you will know who to vote for in the election.",
+    "type": "單選",
+    "options": [
+      "polite",
+      "politely",
+      "political",
+      "politically"
+    ],
+    "course": "如何看出新聞是「真」還是「假」",
+    "answer": "political",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "political",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_61.html",
+          "title": "「如何看出新聞是「真」還是「假」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T15:19:51.189Z"
+    }
   }
 ]
