@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為提高檢舉時效性，透過電話檢舉即可，同時為保護檢舉人，決不可錄音。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T11:48:21.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T06:19:57.534Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為提高檢舉時效性，透過電話檢舉即可，同時為保護檢舉人，決不可錄音。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T06:19:56.765Z"
+    },
+    "resolved_answer": "為提高檢舉時效性，透過電話檢舉即可，同時為保護檢舉人，決不可錄音。"
   },
   {
     "id": "e01b835f785cb43931bb3684e29d537e6346b470d3adbd84e361de01b97c6077",
