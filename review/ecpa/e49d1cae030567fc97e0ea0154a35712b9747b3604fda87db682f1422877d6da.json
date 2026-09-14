@@ -76,13 +76,30 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.898Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T01:19:52.490Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T01:19:51.853Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "254391b843d1a0ecee04b859e8ebba389f0ffc26928e1db4bcc0b19da8e14db9",
