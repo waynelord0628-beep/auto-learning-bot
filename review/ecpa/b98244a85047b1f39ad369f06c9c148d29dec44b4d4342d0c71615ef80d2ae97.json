@@ -184,5 +184,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:31.004Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d18d66c238c95782b6f1daaa9976cae477cb7cb9511222d470933e180ebf24f1",
+    "question": "雖然臺灣不是聯合國會員國，未來還是可以邀請聯合國身心障礙者權利委員協助審查身心障礙者權利報告，與國際接軌。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:06.230Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "33095078f8063cf1d00ef2af65a26a10e8801dc5b1eeee47321679b95a1bb42f",
+    "question": "關於《身心障礙者權利公約》制定內容，下列哪些描述正確？",
+    "options": [
+      "羅列國家應循的原則與義務。",
+      "重申身心障礙者的基本人權與相關名稱定義。",
+      "羅列國家層級和國際層級的人權監督機制。",
+      "具體保障內容分成公民政治權利和經濟社會文化權利兩種相關類型。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-14T05:57:06.231Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "25699f3b1114ad48a8cd03366692b194cefcd907a8fad9011a070d15900ee70c",
+    "question": "《身心障礙者權利公約》主張以無障礙為基礎的發展觀。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:06.232Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "09b479ba209f22539fd1362051f44103ce952c3403d87030127e70fbc8e7cb89",
+    "question": "基於「尊重固有尊嚴」與「不歧視」原則，縱使執行公務，也應以尊重身心障礙者為前提，合理調整公務執行方式。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:06.233Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6863d86429b8e7cf22e9e0fc5895b65ef2cf6604f756088f2ee48bfc5f1804c8",
+    "question": "請問下列哪些《身心障礙者權利公約》條文與措施規範無關？",
+    "options": [
+      "第09條，無障礙。",
+      "第11條，危險情況與人道緊急情況。",
+      "第13條，獲得司法保護。",
+      "第28條，適足之生活水準與社會保障。"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:57:06.233Z",
+    "review_state": "awaiting_candidate"
   }
 ]
