@@ -606,5 +606,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.140Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed7e5d5ed864eae11f045d32684b70c4b4cb80c9f5c555336334ae14c6fe75a5",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Deplete",
+    "options": [
+      "在其他情況下",
+      "耗費；消耗",
+      "家庭",
+      "細節"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "耗費；消耗",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:12:32.261Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9f8f3fff14d06f835fd0b648ef88f3a0f564cb46cec589b79c8a1d243a1af25f",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Diagnose",
+    "options": [
+      "招認；承認",
+      "最終，終於",
+      "構想；規劃",
+      "診斷(病症)"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "診斷(病症)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:12:32.264Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7aeba669437eeffb9baf2ec5dbd2025116ee3f54bee1632c67af01b1bb553055",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Aspire",
+    "options": [
+      "節約；保存",
+      "財產；所有物",
+      "表示；示意",
+      "有志於；追求"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "有志於；追求",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:12:32.265Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "de99cc8259b720fb7851fafadbfa7247b4d737e9af2363ced708f3b30f91f7d4",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Oasis",
+    "options": [
+      "決定；影響",
+      "使毀滅；注定",
+      "吸引",
+      "綠洲；寧靜宜人之地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "綠洲；寧靜宜人之地",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:12:32.269Z",
+    "review_state": "candidate_ready"
   }
 ]
