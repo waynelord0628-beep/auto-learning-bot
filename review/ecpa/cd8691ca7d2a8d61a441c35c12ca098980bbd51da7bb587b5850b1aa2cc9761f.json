@@ -176,5 +176,109 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.676Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "54635c79ae05ff45f7f862975c28f0f8565f65fba70b8c2cc0d0b3aef54b1332",
+    "question": "下列關於職業安全衛生法規的敘述，何者正確。",
+    "options": [
+      "為了界定不同類型的職業傷害而定。",
+      "法規僅規範工作者的權利，並未規定雇主之應盡義務。",
+      "立法願景是「讓每一位工作者都能獲得職業安全健康的照護」。",
+      "法規適用於各行各業，且一法適用於全體，並沒有針對特殊情況規定之。"
+    ],
+    "type": "單選",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.295Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2290ac01e57060dec983f2151bd52916152e040232e9e3a85f325b1297e7f63e",
+    "question": "職業安全衛生法規主要是為了保障工作者之權益，主要規定各項職業災害的索賠金額。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.296Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ea01ff3ca84031015b59cc40937097595a7da6105be1d8ef938877217e3d79f6",
+    "question": "事業單位勞工人數在十人以上者，應雇用或特約醫護人員，辦理健康管理、職業病預防及健康促進勞工健康保護事項。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.297Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b860128be1f62fbea4c10180576fc3b804611e303afe478bf3d304cf198b33cd",
+    "question": "根據職業安全衛生法規定，雇主應對有母性健康危害之虞之工作，採取危害評估、控制及分級管理措施。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.297Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "910e3a8a51e0c203bdf1be52cfbaee5f8112d3d3be99c899279c6d523a4a17a1",
+    "question": "阿雄為負責輕軌工程之勞動者，因此他屬於職業規範權利主體之勞工。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.298Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "38c171befb3ac46669b40d8da19ab2dd02059672679b3002fe3ad15ba05b8df0",
+    "question": "職業災害指因勞動場所之建築物、機械、設備、原料、材料、化學品、氣體、蒸氣、粉塵等或作業活動及其他職業上原因引起之工作者疾病、傷害、失能或死亡。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:51:37.298Z",
+    "review_state": "candidate_ready"
   }
 ]
