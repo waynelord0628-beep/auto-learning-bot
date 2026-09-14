@@ -49,10 +49,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "Slido",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.733Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "dcdc56a9fc32771a5f6ea5f3cf024e61716dbae3d841b506b4b7cc9cf5cc4adc",
@@ -68,10 +70,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "eb46eebc42a216a2e8c0eb891e4f661a8ff3faaffacdc2d77f3c5728576c1fbe",
@@ -87,10 +91,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "設計與現場互動的測驗題",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "3c758217098007f62caffe1adc992b6c2e4a983ddcce9e45dd6a7e7283472128",
@@ -106,10 +112,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "D-ID",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "876e41ba9a50c8119764b71f30f2e81e8a7eb824657a47b237e2b388b5b87087",
@@ -125,10 +133,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "情感",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.735Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "1d16a631c0da717b562ca053feb5286e4cbdb2e8e592a244fba3adc4f578c24f",
@@ -144,10 +154,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.735Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-15T10:19:37.505Z"
   },
   {
     "id": "86322fe85b904a9d92530dd806b45b583571f3349b7f96e9abd33e93177f95a3",
