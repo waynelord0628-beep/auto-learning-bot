@@ -219,5 +219,73 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:54.000Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "563ecf5e01ebc506a107ec815386dfe93e0d80cf4c4abfeccd09bb406fc3f321",
+    "question": "公務人員可於選舉期間，於辦公場所之各出入口明顯處所張貼禁止競選活動之告示。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政中立暨便民與圖利",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T10:18:23.187Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2613a48e4a6d20208cf01fc008fc6c22a40d64318629bf9771b3ef550a5190fd",
+    "question": "公務人員不得兼任公職候選人競選辦事處之職務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政中立暨便民與圖利",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T10:18:23.188Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d4e6d8f2c8556979139e165fdf5dc92e54c20ce6b0887ad606a1f0c37f901af9",
+    "question": "公務人員若明知違法、圖利自己或他人，但是，只要非屬自己主管之事務，則不會違反貪污治罪條例",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政中立暨便民與圖利",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T10:18:23.189Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eb1e5671204020509408f9893aff685bfad768d2945da98101f8b94b9225db90",
+    "question": "公務人員對於長官監督範圍內所發之命令有服從義務，如認為該命令違法，應負報告之義務",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政中立暨便民與圖利",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T10:18:23.190Z",
+    "review_state": "candidate_ready"
   }
 ]
