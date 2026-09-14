@@ -75,7 +75,11 @@
     "candidate_answer": "創建個性化學習材料",
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:34.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T00:20:16.482Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2f341e9d255fd4573e201504b3075877ca84f34fc415bae51dbfa4e142638a34",
