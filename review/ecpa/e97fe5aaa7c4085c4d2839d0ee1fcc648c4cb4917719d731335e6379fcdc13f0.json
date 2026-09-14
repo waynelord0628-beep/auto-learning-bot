@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "三分之一",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:42:43.882Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T03:20:55.269Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "三分之一",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01711897462.html",
+          "title": "「職場霸凌防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T03:20:54.088Z"
+    },
+    "resolved_answer": "三分之一"
   },
   {
     "id": "bbaecd6d3687f579fd82bf779ed14766e9060acbb66436ad613e4cf32ff2b054",
