@@ -74,5 +74,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:31:46.757Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f9a8fbecec8c52b6e1174b93e5fc72ed6ffb87d9355b7304e62859760bc4f097",
+    "question": "請找出正確順序的英文句子",
+    "options": [
+      "That thing online don't purchase.",
+      "Don't online purchase that thing.",
+      "Don't purchase that thing online.",
+      "Don't that thing purchase online."
+    ],
+    "type": "單選",
+    "course": "自我挑戰重組句子 Try it",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Don't purchase that thing online.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:32:22.623Z",
+    "review_state": "candidate_ready"
   }
 ]
