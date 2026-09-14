@@ -19140,5 +19140,28 @@
       "model": null,
       "checked_at": "2026-09-14T14:19:59.814Z"
     }
+  },
+  {
+    "question": "這本童書裡的一切內容都是假的，全是作者編造的。可英譯為：Nothing in this children's story is real. It was all made over by the author.",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "如何看出新聞是「真」還是「假」",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_61.html",
+          "title": "「如何看出新聞是「真」還是「假」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T15:19:45.234Z"
+    }
   }
 ]
