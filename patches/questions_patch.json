@@ -18296,5 +18296,28 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-14T00:20:05.136Z"
     }
+  },
+  {
+    "question": "《聯合國反貪腐公約》第10條「政府報告」，目的為妥善管理公共事務與公共財產、廉正、透明度和課責制，促進社會參與。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "行政透明",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T01:19:42.730Z"
+    }
   }
 ]
