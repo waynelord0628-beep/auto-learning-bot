@@ -359,5 +359,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:19:28.344Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ab197f963170bfc7ade0e601e012d06a609925f29a9189650394693539095bf1",
+    "question": "請選出一個正確或是最佳的中文字義答案：Bounce",
+    "options": [
+      "忽略，沒注意到",
+      "一代(人)",
+      "彈起；跳躍",
+      "耐嚼的"
+    ],
+    "type": "單選",
+    "course": "超短劇＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "彈起；跳躍",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:20:03.998Z",
+    "review_state": "candidate_ready"
   }
 ]
