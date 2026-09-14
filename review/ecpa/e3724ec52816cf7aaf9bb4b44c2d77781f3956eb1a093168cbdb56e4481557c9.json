@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自動化數據輸入",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:34.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T00:20:05.810Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自動化數據輸入",
+      "sources": [
+        {
+          "url": "https://pumag.pu.edu.tw/p/406-1131-48082%2Cr1134.php?Lang=zh-tw",
+          "quote": "這些作業可以包括資料輸入、文件處理、電子郵件發送等各種瑣碎但卻又不可或缺的工作。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-14T00:20:05.136Z"
+    },
+    "resolved_answer": "自動化數據輸入"
   },
   {
     "id": "413957d1a4483a3cc6ca7a3c9d5ca768d26dc038c57965f0c0c97a5abc4d0d9c",

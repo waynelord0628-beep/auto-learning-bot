@@ -18271,5 +18271,30 @@
       "model": null,
       "checked_at": "2026-09-13T14:19:47.788Z"
     }
+  },
+  {
+    "question": "RPA 的一個典型應用是什麼？",
+    "type": "單選",
+    "options": [
+      "設計產品原型",
+      "自動化數據輸入",
+      "提升品牌宣傳效果",
+      "減少產品開發時間"
+    ],
+    "course": "自動化革命：解放工作力！",
+    "answer": "自動化數據輸入",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "自動化數據輸入",
+      "sources": [
+        {
+          "url": "https://pumag.pu.edu.tw/p/406-1131-48082%2Cr1134.php?Lang=zh-tw",
+          "quote": "這些作業可以包括資料輸入、文件處理、電子郵件發送等各種瑣碎但卻又不可或缺的工作。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-14T00:20:05.136Z"
+    }
   }
 ]
