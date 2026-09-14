@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "inadvertently",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.607Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T11:19:49.271Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "inadvertently",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T11:19:47.583Z"
+    },
+    "resolved_answer": "inadvertently"
   },
   {
     "id": "cb66b266cd99379685c6d254aff2ac1a44ea232de73d93a3c36e6a5ed70be335",

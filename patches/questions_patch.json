@@ -18848,5 +18848,30 @@
       "model": null,
       "checked_at": "2026-09-14T10:19:58.705Z"
     }
+  },
+  {
+    "question": "Don’t leave our homes unless absolutely necessary to ensure that we don’t _______ contract the virus and then spread it to our loved ones.",
+    "type": "單選",
+    "options": [
+      "carp",
+      "destructive",
+      "inadvertently",
+      "sentimental"
+    ],
+    "course": "物種攻防戰&漆彈大戰",
+    "answer": "inadvertently",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "inadvertently",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T11:19:47.583Z"
+    }
   }
 ]
