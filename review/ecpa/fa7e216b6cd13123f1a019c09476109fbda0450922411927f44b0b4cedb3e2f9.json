@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T13:06:21.292Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T05:19:41.943Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd4ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第4講：國家報告撰寫準則」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T05:19:40.938Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "51809a8bf85b7ce4b66ab7f1ae44278232951d004f1908c81d3d73e866f50b60",
