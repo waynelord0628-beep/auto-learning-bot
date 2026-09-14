@@ -188,5 +188,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:01:28.278Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "93beb0e4e259393d6e8097203474f2afd6ebf508238a9b0cac5cedb0a9170594",
+    "question": "請問國內常見電子支付有哪些？",
+    "options": [
+      "街口支付",
+      "全支付",
+      "全盈付",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "行動支付安全(113)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T17:02:37.121Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1f3f2f71eb49fafc2bdba2c6fd10fd7115c2a2e3189f3c16be0d5aa99d0c6d67",
+    "question": "Apple Pay、Google Pay、Samsung Pay、台灣Pay屬於何種支付方式？",
+    "options": [
+      "感應支付",
+      "條碼支付",
+      "信用支付",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "行動支付安全(113)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "感應支付",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T17:02:37.127Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "875ae40a8d0e6da6fe3aa02797757e62aa412cc5a2350846e66adc234fb6636d",
+    "question": "有關行動支付在消費體驗上的優點，何者為是？",
+    "options": [
+      "攜帶便利",
+      "操作方便容易",
+      "消費紀錄檢視",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "行動支付安全(113)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T17:02:37.128Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f0337ffef5106bc8da6e7b1e028683e037fdd85fddc3de8cc4ce2b34a3b7eeb3",
+    "question": "下列有關行動支付的場景，何者為非？",
+    "options": [
+      "透過內建相機掃描QR Code",
+      "透過內建近場通訊NFC感應",
+      "從手機中印出貨幣",
+      "透過支付App產生QR Code或條碼"
+    ],
+    "type": "單選",
+    "course": "行動支付安全(113)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "從手機中印出貨幣",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T17:02:37.134Z",
+    "review_state": "candidate_ready"
   }
 ]
