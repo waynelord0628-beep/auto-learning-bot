@@ -176,5 +176,130 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:15:05.678Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0252feb4608e5d341858bb6c516f0f32983b35678c0bd3cce9ca51849b5b8f74",
+    "question": "受僱自然人雇主、實際從事勞動人員可透過ibon參加職業災害保險，最長期間為1年。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.329Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7495e84f50a81bb481a0457475116c0f1d00819ab119539e06f93a55795626aa",
+    "question": "職業災害勞工醫療期間契約終止並退保者，可繼續參加勞工保險(普通事故保險)，下列敘述何者為非？",
+    "options": [
+      "已經符合請領勞保老年給付一樣可以繼續加保。",
+      "僅得參加到符合請領勞保老年給付之日。",
+      "申請續保者，應於原發生職災單位離職退保後5年內辦理。",
+      "於續保有效期間，得請領同一職災傷病之職災醫療、傷病、失能或死亡給付。"
+    ],
+    "type": "單選",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "已經符合請領勞保老年給付一樣可以繼續加保。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.333Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eddab3e8e3204648f37a9b08089d3e17397230d706ba62627902063967aab664",
+    "question": "退保後職業病之津貼補助項目，下列何者為非？",
+    "options": [
+      "醫療補助",
+      "傷病補助",
+      "失能津貼",
+      "死亡津貼"
+    ],
+    "type": "單選",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "死亡津貼",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.335Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "36d077a474183effbb77fb00adceed6ee70aa600e5a3fe8c0753c5912b6a243f",
+    "question": "下列何者非職業災害保險之給付種類？",
+    "options": [
+      "死亡給付",
+      "失蹤給付",
+      "醫療給付",
+      "家屬死亡給付"
+    ],
+    "type": "單選",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "失蹤給付",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.336Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d78fbb64efaae58b08e51854052ddb0e1ffecc37d68ea06f2fd1c065fa970b4",
+    "question": "受僱登記有案事業單位之勞工，雇主如未辦理加保手續，發生職業災害保險事故亦得請領職業災害保險給付。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.336Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "886c404f74314efcdced44b851397a1385fcda179aec91c74e55b7f3c099a110",
+    "question": "受僱登記有案事業單位之勞工，其職業災害保險費之分攤比例為20%。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.337Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e24c33c477f847d691df7a993236ee449cdcaa017bc2987a7e6133e35f5c1761",
+    "question": "職業災害保險的納保對象可分為強制納保、自願加保及特別加保。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "勞工職業災害保險及保護法簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T07:15:44.338Z",
+    "review_state": "candidate_ready"
   }
 ]
