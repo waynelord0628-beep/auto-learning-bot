@@ -113,13 +113,30 @@
     ],
     "type": "是非",
     "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:54:53.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T14:20:01.177Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_116.html",
+          "title": "「綠色供應鏈管理趨勢暨簡易碳盤查演練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T14:19:59.814Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6490cb136bfb0826d1a046fca0452b3968a6b20e3567464197fadff410d9201f",
