@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T11:48:21.696Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T06:19:45.471Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T06:19:44.569Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0866e2954fb501784579714c28bf109a24ec20b8332d075206d559dd56df1d32",
