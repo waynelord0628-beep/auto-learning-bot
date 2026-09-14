@@ -373,5 +373,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:42:32.680Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "077627a99531716a8f5640faa3415ec614a61bb6fb98c23489caa764cd95dc53",
+    "question": "下列哪些是屬於美國「行政透明」的作為及目的？",
+    "options": [
+      "使公眾掌握政府的經費運用與計畫",
+      "政府的資料開放給公眾加值利用",
+      "公眾瞭解聯邦政府振興經濟的作為",
+      "透過提供政府資訊及資源收取服務費"
+    ],
+    "type": "多選",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T05:48:21.768Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
