@@ -8,16 +8,30 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.249Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_after": "2026-09-18T09:09:11.285Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-09-21T12:20:05.008Z",
+    "verification_status": "source_supported",
+    "verify_policy": "course_first_v1",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T12:19:57.913Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "06f0818887f4b43fba827afe200c764bf3ba79440bfcd89c6517f7a111d68cf8",
