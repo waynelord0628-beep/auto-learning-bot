@@ -18440,5 +18440,30 @@
       "model": null,
       "checked_at": "2026-09-14T04:19:48.786Z"
     }
+  },
+  {
+    "question": "We are studying a(n) ______ grave that is over 2,000 years old.",
+    "type": "單選",
+    "options": [
+      "past",
+      "ancient",
+      "former",
+      "previous"
+    ],
+    "course": "洞洞食物大集合　你不知道的美味秘密",
+    "answer": "ancient",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "ancient",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T04:19:53.450Z"
+    }
   }
 ]
