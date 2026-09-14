@@ -682,5 +682,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:12:32.269Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad3521b2bedb67b3ca2b8633258262c866c611e0f93b42d368c977b3c1990dd4",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Sturdy?",
+    "options": [
+      "結實的",
+      "抓取",
+      "面部的，臉上的",
+      "蓄意的，故意的"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "結實的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:06.936Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fbcc12b2e067bd3825c97622ca451c396ad8125e7601704ba4fede0d100e57dc",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：The Sky's the Limit",
+    "options": [
+      "處理；對付",
+      "捐贈；捐獻",
+      "禮貌；習慣",
+      "沒有限制"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "沒有限制",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:06.938Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b11087b1338dd295ca0dc6d0d7a036d610f88b48da0e2034957509c3026464fa",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Wilderness?",
+    "options": [
+      "偶然發現",
+      "拋棄；遺棄",
+      "(大量地)吃；消耗",
+      "荒野；荒地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "荒野；荒地",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:06.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "05b21bf3a1d57f9e73c6ed2393edb8435f736187744e8bbadae0997465be08cb",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Anonymously",
+    "options": [
+      "(公開)稱譽；讚賞",
+      "讓某人知道某事",
+      "減少；降低",
+      "匿名地；不具名地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "匿名地；不具名地",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:06.940Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f46616ef620b6bff6810999fad984ca8680e2a38397521bca440ccb40782ea0",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Stumble?",
+    "options": [
+      "偶然發現",
+      "拋棄；遺棄",
+      "(大量地)吃；消耗",
+      "荒野；荒地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "偶然發現",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:13:06.941Z",
+    "review_state": "candidate_ready"
   }
 ]
