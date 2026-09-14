@@ -492,5 +492,119 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:10:15.052Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cf6efba868320fa4bb59cd1d1387b9d31aa1e4a9820a542a2678ea3594a62e9d",
+    "question": "請選出一個最合適的英文 :颱風來襲",
+    "options": [
+      "Earthquake",
+      "Typhoon Day",
+      "Typhoons",
+      "Rainstorm"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Typhoons",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.596Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a041016756ae55d0410766f4c678a763ea1184d244390ff8f58b4b806ed82335",
+    "question": "請選出一個最合適的英文 :塑膠袋",
+    "options": [
+      "Graffiti",
+      "Plastic Bags",
+      "Pets",
+      "Air Pollution"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Plastic Bags",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.600Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f76305a899c415c753a4942fbd0291b9ae7d31a343e8207d5728264ad8d1f29d",
+    "question": "請選出一個最合適的英文 :約看公寓",
+    "options": [
+      "Negotiating the Rent",
+      "Apartment Hunting",
+      "Scheduling an Apartment Viewing",
+      "Opening a Bank Account"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Scheduling an Apartment Viewing",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.601Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cbd94486d4503e27b261c1342cd4354950a7c0a0af569e139a234d1b8a92faa0",
+    "question": "請選出一個最合適的英文 :颱風天",
+    "options": [
+      "Earthquake",
+      "Typhoon Day",
+      "Typhoons",
+      "Rainstorm"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Typhoon Day",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.610Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "98664fe572e5a9270175d67f1b791265e5bbf1c4612410f04dc71524b05cac89",
+    "question": "請選出一個最合適的英文 :塗鴉",
+    "options": [
+      "Graffiti",
+      "Plastic Bags",
+      "Pets",
+      "Air Pollution"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Graffiti",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.614Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62617f1d0be9198baa844f80771ca1d84b30413f20d222868af5fb2ed078f256",
+    "question": "請選出一個最合適的英文 :服裝規定",
+    "options": [
+      "Party D?cor",
+      "Party Venue",
+      "Dress Code",
+      "Party Food"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Dress Code",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:11:25.615Z",
+    "review_state": "candidate_ready"
   }
 ]
