@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "communicate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T09:19:49.863Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "communicate",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T09:19:49.013Z"
+    },
+    "resolved_answer": "communicate"
   },
   {
     "id": "e53562254454e7c95f950d27d9051351f4cc999dcd501cdbcf4838c4859959c6",
