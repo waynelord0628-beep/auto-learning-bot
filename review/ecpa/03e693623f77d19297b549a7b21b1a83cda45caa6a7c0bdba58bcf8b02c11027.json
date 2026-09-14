@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "低碳蔬食綠生活",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "散裝在地蓮霧",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:44:59.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T10:19:53.801Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "散裝在地蓮霧",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_810.html",
+          "title": "「低碳蔬食綠生活」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T10:19:52.868Z"
+    },
+    "resolved_answer": "散裝在地蓮霧"
   },
   {
     "id": "c6b1a109d7cdbc7d58d02951ad3b672a3af2693e9dcf07e878956cd477c99c2f",
