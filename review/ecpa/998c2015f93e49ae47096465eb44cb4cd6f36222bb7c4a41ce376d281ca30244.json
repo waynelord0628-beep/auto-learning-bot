@@ -378,5 +378,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:15:25.248Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4cac1d7f6bd56c8009c627e77dcbb5b5e43004bfca1719bfcc459bf8ade41bfa",
+    "question": "請選出一個正確或是最佳的中文字義答案：Defenseless",
+    "options": [
+      "首次發現；被發現的事物",
+      "無保護的，不能自衛的",
+      "服從；遵守",
+      "劇烈地；大大地"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "無保護的，不能自衛的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:16:01.548Z",
+    "review_state": "candidate_ready"
   }
 ]
