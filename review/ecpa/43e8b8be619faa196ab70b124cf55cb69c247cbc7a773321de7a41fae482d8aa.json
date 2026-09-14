@@ -176,5 +176,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.270Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4ffec1348588f6056ddfa6c2fc5424c13a1516ef901977e404da72d6e7e202a9",
+    "question": "針對論談案例三中模板支撐倒塌的公安事故，專家指出設計、監造與施工三方共同的缺失可能導致嚴重的連帶責任。在此脈絡下，「監造方」的主要職責是什麼？",
+    "options": [
+      "直接動手操作施工機具。",
+      "僅負責在完工當天到場拍照。",
+      "查核廠商是否按圖施工及追蹤缺失改善。",
+      "代辦行政機關的所有會計帳目。"
+    ],
+    "type": "單選",
+    "course": "新北青年工程倫理廉政論談",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "查核廠商是否按圖施工及追蹤缺失改善。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T03:27:06.462Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0d9d3735d9faa580b211d8b04c5674da3094ce9813d6a6ca743ebbeb10ab2562",
+    "question": "根據《政府採購法》第 101 條，廠商若有違法或重大違約情事，將被公告為「不良廠商」。此制度的主要法律效果為何？",
+    "options": [
+      "由主管機關撤銷或廢止該廠商之公司登記。",
+      "在特定期間內禁止該廠商參加政府採購之標案。",
+      "自公告日起，不得再承攬任何民間工程或私人採購案件。",
+      "停止該廠商申請政府各項補助及獎勵措施。"
+    ],
+    "type": "單選",
+    "course": "新北青年工程倫理廉政論談",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "在特定期間內禁止該廠商參加政府採購之標案。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T03:27:06.463Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "befab5bd9f14db8750bd1804e27b170fdb50a6df740d5904c095798d57d1e523",
+    "question": "在「設計與監造皆出問題」的案例中，技師負擔的是何種等級的法律注意義務？",
+    "options": [
+      "與處理自己事務相同注意義務。",
+      "只要不是故意犯錯，即可免責。",
+      "善良管理人注意義務。",
+      "重大過失注意義務，僅於明顯疏失時始負法律責任。"
+    ],
+    "type": "單選",
+    "course": "新北青年工程倫理廉政論談",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "重大過失注意義務，僅於明顯疏失時始負法律責任。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T03:27:06.464Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f3d865c8416fb63b4bde6435bf0b07b5b72a0f191010c5e528e3ec99f823d7a0",
+    "question": "在橋梁檢測案例中，廠商拿舊照片交報告被判處「業務登載不實罪」，下列何者敘述正確？",
+    "options": [
+      "事後若良心發現趕快抽換正確照片，仍無法免除已發生的刑事責任。",
+      "只要橋梁最後沒有斷裂，這種偽造照片的行為就不算犯罪。",
+      "只要是受雇員工自行決定上傳假照片，公司負責人就完全不需要負擔任何責任。",
+      "這種便宜行事僅屬於單純的民事契約違約，並不會觸犯《刑法》。"
+    ],
+    "type": "單選",
+    "course": "新北青年工程倫理廉政論談",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "事後若良心發現趕快抽換正確照片，仍無法免除已發生的刑事責任。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T03:27:06.464Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9674aa227366a4fc3503f7e191e97b2806579b611dca13641c74ea322c46b081",
+    "question": "在建築師索取 5% 回扣的案例中，即便最終沒有拿到錢，為何法院仍判定構成犯罪？",
+    "options": [
+      "因為他是慣犯。",
+      "收受賄賂罪構成要件包含「要求」、「期約」、「收受」三個階段，只要開口要求即構成犯罪。",
+      "法律規定只要有「意圖」而未行動，仍須負擔刑事責任。",
+      "因為其已造成工程進度延宕。"
+    ],
+    "type": "單選",
+    "course": "新北青年工程倫理廉政論談",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "收受賄賂罪構成要件包含「要求」、「期約」、「收受」三個階段，只要開口要求即構成犯罪。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T03:27:06.466Z",
+    "review_state": "candidate_ready"
   }
 ]
