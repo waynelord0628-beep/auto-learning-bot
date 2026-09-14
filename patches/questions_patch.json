@@ -18700,5 +18700,30 @@
       "model": null,
       "checked_at": "2026-09-14T07:19:52.578Z"
     }
+  },
+  {
+    "question": "I traveled to India for a new ______ experience. Life is so different there!",
+    "type": "單選",
+    "options": [
+      "cultured",
+      "culturing",
+      "cultural",
+      "culturally"
+    ],
+    "course": "與時俱進的emoji",
+    "answer": "cultural",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "cultural",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T09:19:44.066Z"
+    }
   }
 ]

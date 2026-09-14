@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "cultural",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T09:19:44.949Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "cultural",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T09:19:44.066Z"
+    },
+    "resolved_answer": "cultural"
   },
   {
     "id": "04cf8749e7f8b37da153a26296d7375cfa1b2f6590784fa831fed466fc80ea95",
