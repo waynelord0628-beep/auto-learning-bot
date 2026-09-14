@@ -18823,5 +18823,30 @@
       "model": null,
       "checked_at": "2026-09-14T10:19:52.868Z"
     }
+  },
+  {
+    "question": "下列哪些是飲食適量（七分飽）的好處？",
+    "type": "單選",
+    "options": [
+      "提高身體代謝力",
+      "減少胃腸負擔",
+      "避免高血壓、高血脂、高血糖的風險",
+      "以上皆是"
+    ],
+    "course": "低碳蔬食綠生活",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_810.html",
+          "title": "「低碳蔬食綠生活」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T10:19:58.705Z"
+    }
   }
 ]

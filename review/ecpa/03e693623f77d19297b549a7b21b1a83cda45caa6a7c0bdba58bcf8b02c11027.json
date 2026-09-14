@@ -80,13 +80,30 @@
     ],
     "type": "單選",
     "course": "低碳蔬食綠生活",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:44:59.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T10:19:59.885Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_810.html",
+          "title": "「低碳蔬食綠生活」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T10:19:58.705Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "383406337d05523ae734faf6fa802876df10c7cc9d522bdfc411207b1a644c62",
