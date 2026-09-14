@@ -19092,5 +19092,30 @@
       "model": null,
       "checked_at": "2026-09-14T14:19:44.129Z"
     }
+  },
+  {
+    "question": "滅火器採購時，要檢視產品哪一類溫室氣體的排放量?",
+    "type": "單選",
+    "options": [
+      "甲烷(CH4)",
+      "氧化亞氮(N2O)",
+      "氫氟碳化物(HFCS)",
+      "二氧化碳(CO2)"
+    ],
+    "course": "綠色供應鏈管理趨勢暨簡易碳盤查演練",
+    "answer": "氫氟碳化物(HFCS)",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "氫氟碳化物(HFCS)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_116.html",
+          "title": "「綠色供應鏈管理趨勢暨簡易碳盤查演練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T14:19:51.629Z"
+    }
   }
 ]
