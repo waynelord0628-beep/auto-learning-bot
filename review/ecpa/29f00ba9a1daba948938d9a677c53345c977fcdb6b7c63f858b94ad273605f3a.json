@@ -207,5 +207,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:53.971Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1e4b123441378afab62d853f50a1f5402bdbc9ce52857f1241a5da51b0b8cabc",
+    "question": "請選出最接近中文意思的英文：群眾外包",
+    "options": [
+      "Down In the Dumps",
+      "Crowdsourcing",
+      "Baker's Dozen",
+      "A Treasure Trove"
+    ],
+    "type": "單選",
+    "course": "英語維基＃3",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Crowdsourcing",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:26:24.807Z",
+    "review_state": "candidate_ready"
   }
 ]
