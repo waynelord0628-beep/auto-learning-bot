@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "以森林循環打造淨零減碳的⾃然解⽅",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "鼓勵植樹養護，積極回收修枝製成木作、生物炭與醋液等應用達到固碳行動",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:34:40.810Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T07:19:48.074Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "鼓勵植樹養護，積極回收修枝製成木作、生物炭與醋液等應用達到固碳行動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_97.html",
+          "title": "「以森林循環打造淨零減碳的⾃然解⽅」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T07:19:47.104Z"
+    },
+    "resolved_answer": "鼓勵植樹養護，積極回收修枝製成木作、生物炭與醋液等應用達到固碳行動"
   },
   {
     "id": "79b909dbefdf8ac18cc061386c5a73be39a5c3d9bfefb04865586505504b3a08",
