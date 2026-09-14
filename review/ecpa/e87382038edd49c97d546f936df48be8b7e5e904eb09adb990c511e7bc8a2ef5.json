@@ -33,12 +33,29 @@
     ],
     "type": "單選",
     "course": "快樂漁夫首次航海：欣賞台灣海峽煙火【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "flying a kite / watching a stunt kite show / a picnic",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T09:59:46.935Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T03:20:48.994Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "flying a kite / watching a stunt kite show / a picnic",
+      "sources": [
+        {
+          "url": "https://wrb.tycg.gov.tw/News_Content.aspx?n=10829&s=1062508&sms=14442",
+          "quote": "活動現場除了欣賞空中精彩的風箏表演與野餐趣外，還有超級英雄cosplay、魔術派對、小丑氣球秀和互動泡泡秀，以及「打卡送風箏」、「風箏彩繪」等限時限量活動"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-14T03:20:48.282Z"
+    },
+    "resolved_answer": "flying a kite / watching a stunt kite show / a picnic"
   }
 ]

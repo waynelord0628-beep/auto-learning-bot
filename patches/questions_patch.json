@@ -18365,5 +18365,30 @@
       "model": null,
       "checked_at": "2026-09-14T01:19:51.853Z"
     }
+  },
+  {
+    "question": "After watching the video, Tom is sorting out relevant information. The activities people usually do at the Taoyuan International Kite Festival are mentioned in the video. However, he cannot recall this part. Please help him fill in the blanks.",
+    "type": "單選",
+    "options": [
+      "a tethered balloon ride / a non-tethered balloon ride / a barbecue",
+      "flying a kite / watching a water show / a barbecue",
+      "setting off a sky lantern / enjoying a performance / a picnic",
+      "flying a kite / watching a stunt kite show / a picnic"
+    ],
+    "course": "快樂漁夫首次航海：欣賞台灣海峽煙火【看紀錄片學英語 尋寶福爾摩沙】",
+    "answer": "flying a kite / watching a stunt kite show / a picnic",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "flying a kite / watching a stunt kite show / a picnic",
+      "sources": [
+        {
+          "url": "https://wrb.tycg.gov.tw/News_Content.aspx?n=10829&s=1062508&sms=14442",
+          "quote": "活動現場除了欣賞空中精彩的風箏表演與野餐趣外，還有超級英雄cosplay、魔術派對、小丑氣球秀和互動泡泡秀，以及「打卡送風箏」、「風箏彩繪」等限時限量活動"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-14T03:20:48.282Z"
+    }
   }
 ]
