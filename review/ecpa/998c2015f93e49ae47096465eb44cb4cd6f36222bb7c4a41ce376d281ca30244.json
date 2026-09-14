@@ -340,5 +340,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T13:27:06.571Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d41a49f2a6ff7e86dbb29d02e0d5dbc0eaa4acd508c1d7fc6c323bcbce4c7e8",
+    "question": "請選出一個正確或是最佳的中文字義答案：Terrify",
+    "options": [
+      "機械的，似機械的",
+      "打噴嚏",
+      "傑作；名作",
+      "使害怕，使恐懼"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使害怕，使恐懼",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:15:25.246Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4b7edf39a9dd9c874597c833254fb5abd5d86517462bdc367ad669a456f61a92",
+    "question": "請選出一個正確或是最佳的中文字義答案：Whisk",
+    "options": [
+      "奇異的；異國風情的",
+      "快速帶走",
+      "著手做；承擔",
+      "微粒；顆粒"
+    ],
+    "type": "單選",
+    "course": "超短劇＃4",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "快速帶走",
+    "source": "ai_unverified",
+    "created_at": "2026-09-14T16:15:25.248Z",
+    "review_state": "candidate_ready"
   }
 ]
