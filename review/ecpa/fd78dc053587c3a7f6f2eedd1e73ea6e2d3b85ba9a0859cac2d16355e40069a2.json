@@ -79,13 +79,30 @@
     ],
     "type": "單選",
     "course": "以森林循環打造淨零減碳的⾃然解⽅",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "積極促進落實FSC森林永續管理方案，以及大幅增進造林與林產業全面應用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:34:40.814Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-21T07:19:53.402Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "積極促進落實FSC森林永續管理方案，以及大幅增進造林與林產業全面應用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_97.html",
+          "title": "「以森林循環打造淨零減碳的⾃然解⽅」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T07:19:52.578Z"
+    },
+    "resolved_answer": "積極促進落實FSC森林永續管理方案，以及大幅增進造林與林產業全面應用"
   },
   {
     "id": "4f726711a4998f89d51b02cdf7dc5790e4704fb72562cf95c514e1b9dc58a860",
