@@ -18898,5 +18898,30 @@
       "model": null,
       "checked_at": "2026-09-14T11:19:57.391Z"
     }
+  },
+  {
+    "question": "In spite of all the _____ and troubles, always stay positive.",
+    "type": "單選",
+    "options": [
+      "unwind",
+      "challenges",
+      "obstacle",
+      "communication"
+    ],
+    "course": "物種攻防戰&漆彈大戰",
+    "answer": "challenges",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "challenges",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T11:20:10.119Z"
+    }
   }
 ]
