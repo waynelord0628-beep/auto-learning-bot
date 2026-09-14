@@ -19017,5 +19017,30 @@
       "model": null,
       "checked_at": "2026-09-14T13:20:03.612Z"
     }
+  },
+  {
+    "question": "We need twenty ____ of paper for the students.",
+    "type": "單選",
+    "options": [
+      "clocks",
+      "spoons",
+      "bottles",
+      "sheets"
+    ],
+    "course": "你的嗜好是什麼&樂器行",
+    "answer": "sheets",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "sheets",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016993",
+          "title": "你的嗜好是什麼&樂器行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-14T13:20:17.498Z"
+    }
   }
 ]
