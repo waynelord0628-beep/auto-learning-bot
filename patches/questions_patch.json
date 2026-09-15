@@ -19830,5 +19830,30 @@
       "model": null,
       "checked_at": "2026-09-15T09:19:44.741Z"
     }
+  },
+  {
+    "question": "當我們在社群媒體上看到 AI 生成的內容時，最負責任的做法是什麼？",
+    "type": "單選",
+    "options": [
+      "內容合理就直接分享",
+      "已經過朋友審核，故無需判斷即可分享",
+      "只要有使用 AI 生成，就一律不相信、不使用",
+      "辨識並標註 AI 生成的內容，避免誤導他人"
+    ],
+    "course": "好好用 AI：了解「AI 風險」的公務生存指南",
+    "answer": "辨識並標註 AI 生成的內容，避免誤導他人",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "辨識並標註 AI 生成的內容，避免誤導他人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T09:19:55.119Z"
+    }
   }
 ]
