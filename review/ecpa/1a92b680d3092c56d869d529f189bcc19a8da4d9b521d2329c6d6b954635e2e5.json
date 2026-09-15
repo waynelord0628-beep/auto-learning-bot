@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "認知作戰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T07:19:48.381Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "認知作戰",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T07:19:47.471Z"
+    },
+    "resolved_answer": "認知作戰"
   },
   {
     "id": "c0e8281235be1f5ef83882c6c912045e3c2cf6234eea35ebf1609e75f80617ba",

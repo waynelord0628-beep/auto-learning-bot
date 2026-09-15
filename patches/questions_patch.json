@@ -19655,5 +19655,30 @@
       "model": null,
       "checked_at": "2026-09-15T06:20:07.923Z"
     }
+  },
+  {
+    "question": "提升媒體識讀能力與社會溝通是反制哪種安全威脅的作為？",
+    "type": "單選",
+    "options": [
+      "認知作戰",
+      "暴力攻擊",
+      "駭客入侵",
+      "跨國犯罪"
+    ],
+    "course": "全民國防概論",
+    "answer": "認知作戰",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "認知作戰",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T07:19:47.471Z"
+    }
   }
 ]
