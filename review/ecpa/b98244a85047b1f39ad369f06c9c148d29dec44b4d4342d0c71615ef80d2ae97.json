@@ -319,5 +319,41 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:36.582Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "bb64d9ec5f15731ea9bbd1fec2ca08c04de7335e25a5e7a0d3bb4042a73a729e",
+    "question": "對待身心障礙者的模式有哪幾種？",
+    "options": [
+      "人權模式",
+      "社會模式",
+      "醫療模式",
+      "慈善模式"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:17:08.929Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0e449fa2fd217ae21f901136dfefeb35e84c048fb922d08ec6158db6797600c9",
+    "question": "在實驗課上課時，讓有肢體障礙的身心障礙學生參與上課，但禁止參與實驗過程，以免發生危險。此為間接歧視之行為。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:17:08.942Z",
+    "review_state": "candidate_ready"
   }
 ]
