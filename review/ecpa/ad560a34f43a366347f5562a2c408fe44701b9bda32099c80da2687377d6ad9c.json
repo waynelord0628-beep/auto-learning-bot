@@ -606,5 +606,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.615Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "33f160ab404fb6ad1c772a16497cd6d4cff2303d456a2177fd9824b114e5ab0c",
+    "question": "請選出一個最合適的英文 :感冒和流感",
+    "options": [
+      "Annual Health Checkup",
+      "Colds and Flus",
+      "Laser Eye Surgery",
+      "Dealing with Acne"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Colds and Flus",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:14:46.678Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dd7950f288351f263d9944a279eddeda9bf9b37f3343b5e9eb933380101c345b",
+    "question": "請選出一個最合適的英文 :空氣汙染",
+    "options": [
+      "Graffiti",
+      "Plastic Bags",
+      "Pets",
+      "Air Pollution"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Air Pollution",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:14:46.697Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf3dd939a319b8e189b7edccf6f4ab0e0834d4560f1a79cca1de5c371de596b9",
+    "question": "請選出一個最合適的英文 :餐飲外送",
+    "options": [
+      "Ordering Drinks",
+      "app Food Delivery Apps",
+      "Ordering Food at a Drive-Thru",
+      "Ordering Breakfast in America"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:14:46.707Z",
+    "review_state": "awaiting_candidate"
   }
 ]
