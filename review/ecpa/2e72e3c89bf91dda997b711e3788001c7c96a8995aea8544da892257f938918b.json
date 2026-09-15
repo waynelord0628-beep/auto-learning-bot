@@ -75,7 +75,11 @@
     "candidate_answer": "Let's go hiking in the mountains this weekend.",
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:02:56.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T12:19:56.020Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "dacc1eaa353ef7c847b9331a683326e866fba72be53f663b379cd3ce66e04b6f",
