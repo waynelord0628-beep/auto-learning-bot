@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "lousy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.061Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T15:20:52.942Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "lousy",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T15:20:49.443Z"
+    },
+    "resolved_answer": "lousy"
   },
   {
     "id": "eb8036afc864c2bd1a824f5a42042c540a5b0f31549a3d18a0575a39a02ca38f",
