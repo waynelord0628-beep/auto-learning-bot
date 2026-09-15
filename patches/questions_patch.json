@@ -20153,5 +20153,28 @@
       "model": null,
       "checked_at": "2026-09-15T15:20:49.443Z"
     }
+  },
+  {
+    "question": "凱瑟琳跟一些老朋友共度晚餐，好聊聊彼此的近況。可英譯為：Catherine and some of her old friends had dinner together so they could catch on with one another.",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "不會吧！又要開會？",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T15:21:25.918Z"
+    }
   }
 ]
