@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "人與機器的角逐：關於人和智能機器的三個故事和幾個思考",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:59.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T04:20:18.753Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_538.html",
+          "title": "「人與機器的角逐：關於人和智能機器的三個故事和幾個思考」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T04:20:17.547Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d4950efdae5e0fe8cee2b3b7fe5aadc9d0c47aa4513348f8c19b185690ef9ffb",

@@ -19480,5 +19480,30 @@
       "model": null,
       "checked_at": "2026-09-15T03:20:09.242Z"
     }
+  },
+  {
+    "question": "圖靈發展的人工智慧(machine learning)演算模型，在實際應用時可能面臨的嚴峻挑戰有",
+    "type": "單選",
+    "options": [
+      "預測問題的過度擬合",
+      "分類問題的過度擬合",
+      "無法自主判斷數據中的因果關係",
+      "以上皆是"
+    ],
+    "course": "人與機器的角逐：關於人和智能機器的三個故事和幾個思考",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_538.html",
+          "title": "「人與機器的角逐：關於人和智能機器的三個故事和幾個思考」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T04:20:17.547Z"
+    }
   }
 ]
