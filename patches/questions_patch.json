@@ -19455,5 +19455,30 @@
       "model": null,
       "checked_at": "2026-09-15T03:20:01.580Z"
     }
+  },
+  {
+    "question": "「惡意或未經同意而散布與性或性別有關之文字、聲音、圖畫、照片或影像等個人私密資料」這類型暴力，受害人只會是生理女性嗎？",
+    "type": "單選",
+    "options": [
+      "對",
+      "不對",
+      "與生理性別、性別認同無關",
+      "兩人衝突、情感生變，他人難置喙"
+    ],
+    "course": "性別平等與媒體素養",
+    "answer": "不對",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "不對",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T03:20:09.242Z"
+    }
   }
 ]
