@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人類",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.434Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T06:20:09.403Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人類",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T06:20:07.923Z"
+    },
+    "resolved_answer": "人類"
   },
   {
     "id": "8f80f59fa08a117d4b99330241a8c3e9a4384cc6f21ce0cd52373305e8f3293d",

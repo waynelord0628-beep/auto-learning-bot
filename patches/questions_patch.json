@@ -19630,5 +19630,30 @@
       "model": null,
       "checked_at": "2026-09-15T06:19:58.329Z"
     }
+  },
+  {
+    "question": "下列【哪種】弱點漏洞，最難【修補】？",
+    "type": "單選",
+    "options": [
+      "人類",
+      "軟體",
+      "硬體",
+      "網路"
+    ],
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "answer": "人類",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "人類",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T06:20:07.923Z"
+    }
   }
 ]
