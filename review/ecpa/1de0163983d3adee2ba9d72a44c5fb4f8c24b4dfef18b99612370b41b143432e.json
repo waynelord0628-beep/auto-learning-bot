@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "愛上里斯本&錯失恐懼症",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "retreat",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:09:43.410Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T08:19:46.355Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "retreat",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_43.html",
+          "title": "「愛上里斯本&錯失恐懼症」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T08:19:45.591Z"
+    },
+    "resolved_answer": "retreat"
   },
   {
     "id": "b41cc541f7eca010272a2e6db4ddd2d7f1f73d0c683a7949627bb7c05cb0253b",
