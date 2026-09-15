@@ -663,5 +663,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:14:46.707Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "fc7aaecf6de31ec76da5366f0db17260a4b78778b2f7ad422f52f89298fd5e1b",
+    "question": "請選出一個最合適的英文 :服務臺",
+    "options": [
+      "Information Desk",
+      "At the Post Office",
+      "At the Police Station",
+      "Lost & Found"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Information Desk",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:15:57.352Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f80efa8758e6c558b02728a1b5a08160ce6ef0f6d5f9d5eb9e615f60790c74d5",
+    "question": "請選出一個最合適的英文 :服兵役",
+    "options": [
+      "Summer Jobs",
+      "Going to the Military",
+      "Internet Trolls",
+      "Online Business"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Going to the Military",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:15:57.354Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "275fb51d40be8ff01a1d00d424be04cca3651d7edcb5aa230008e42b840447b0",
+    "question": "請選出一個最合適的英文 :雷射近視手術",
+    "options": [
+      "Annual Health Checkup",
+      "Colds and Flus",
+      "Laser Eye Surgery",
+      "Dealing with Acne"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Laser Eye Surgery",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:15:57.357Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "261aa2d308d8b4792a380dd294ac4f7fada87e849e0307a70d03e1666146668f",
+    "question": "請選出一個最合適的英文 :暑期打工",
+    "options": [
+      "Summer Jobs",
+      "Going to the Military",
+      "Internet Trolls",
+      "Online Business"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Summer Jobs",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:15:57.357Z",
+    "review_state": "candidate_ready"
   }
 ]
