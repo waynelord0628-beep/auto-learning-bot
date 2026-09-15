@@ -258,5 +258,41 @@
     "source": "reported_question",
     "created_at": "2026-09-15T02:54:20.608Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "445a37b549f51e8b1f9300733c1a11e394fe462254c2410c1635ee078ab58c2d",
+    "question": "公務人員不得公開為支持之公職候選人站台。但公職候選人之何人不在此限？",
+    "options": [
+      "配偶",
+      "二親等以內血親",
+      "二親等以內姻親",
+      "三親等以內姻親"
+    ],
+    "type": "多選",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:54:45.240Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d620a901126e8a8a9f11c48bdefaebac43d90a3fff50222ff74d8b9c68f45675",
+    "question": "公務人員可以兼任政黨或其他政治團體之職務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:54:45.242Z",
+    "review_state": "candidate_ready"
   }
 ]
