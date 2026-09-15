@@ -659,10 +659,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "app Food Delivery Apps",
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:14:46.707Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-16T23:19:45.031Z"
   },
   {
     "id": "fc7aaecf6de31ec76da5366f0db17260a4b78778b2f7ad422f52f89298fd5e1b",
