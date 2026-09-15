@@ -19730,5 +19730,30 @@
       "model": null,
       "checked_at": "2026-09-15T07:19:59.135Z"
     }
+  },
+  {
+    "question": "People with obesity have an unhealthy _____ with food, but people with anorexia can’t stand the idea of eating.",
+    "type": "單選",
+    "options": [
+      "overall",
+      "relish",
+      "obsession",
+      "logged out"
+    ],
+    "course": "愛上里斯本&錯失恐懼症",
+    "answer": "obsession",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "obsession",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_43.html",
+          "title": "「愛上里斯本&錯失恐懼症」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T08:19:40.612Z"
+    }
   }
 ]
