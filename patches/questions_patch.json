@@ -20053,5 +20053,30 @@
       "model": null,
       "checked_at": "2026-09-15T12:19:40.998Z"
     }
+  },
+  {
+    "question": "What ____ of clothes do you usually wear?",
+    "type": "單選",
+    "options": [
+      "list",
+      "mind",
+      "type",
+      "order"
+    ],
+    "course": "市集百百種&頭髮護理",
+    "answer": "type",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "type",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016961",
+          "title": "市集百百種&頭髮護理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T13:19:42.135Z"
+    }
   }
 ]
