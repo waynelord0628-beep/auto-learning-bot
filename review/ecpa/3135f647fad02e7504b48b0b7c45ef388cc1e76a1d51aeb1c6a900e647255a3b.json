@@ -184,5 +184,43 @@
     "source": "reported_question",
     "created_at": "2026-09-15T02:53:18.750Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "29a5e1025b94dd3946057edc41105d4cad3d4a66a7c585121a925548826814a0",
+    "question": "長官要求公務人員從事公務人員行政中立法禁止之行為時，得向下列機關提出檢舉？",
+    "options": [
+      "法務部",
+      "廉政署",
+      "銓敘部",
+      "監察院"
+    ],
+    "type": "單選",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "廉政署",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:54:15.448Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3bf86b564d49ee9f4f8c2c7dacf3167ba4ea983f03c687b3ba9b6644ceb7bfb3",
+    "question": "公務人員不得於上班或勤務時間，從事政黨活動。所稱上班或勤務時間，係指下列何者？",
+    "options": [
+      "法定上班時間",
+      "值班或加班時間",
+      "依規定留職停薪期間",
+      "因公奉派訓練之時間"
+    ],
+    "type": "多選",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:54:15.449Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
