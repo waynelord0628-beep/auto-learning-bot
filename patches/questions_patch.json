@@ -19380,5 +19380,30 @@
       "model": null,
       "checked_at": "2026-09-15T02:19:42.670Z"
     }
+  },
+  {
+    "question": "國內1999為民服務專線結合IT技術應用，AI可以協助之處為何？",
+    "type": "單選",
+    "options": [
+      "減少整理資料的負擔",
+      "加快理解問答的速度",
+      "減少民眾等待查的時間",
+      "以上皆是"
+    ],
+    "course": "AI落地應用及需求探討-以桃園1999專線服務為例",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ai-1999ee.html",
+          "title": "「AI落地應用及需求探討-以桃園1999專線服務為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T02:19:50.580Z"
+    }
   }
 ]
