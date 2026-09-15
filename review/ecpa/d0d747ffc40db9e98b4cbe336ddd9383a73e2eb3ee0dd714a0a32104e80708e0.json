@@ -549,5 +549,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:18:45.916Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ca6dcbd8784c08d652d7356304bbbd9652b736c571e916518f1f8b9ac691dd51",
+    "question": "請選出最接近中文意思的英文:抓個正著",
+    "options": [
+      "Catch Someone Red handed",
+      "Cash is King",
+      "Pick Your Poison",
+      "To be Resigned to Your Fate"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Catch Someone Red handed",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:19:22.469Z",
+    "review_state": "candidate_ready"
   }
 ]
