@@ -76,13 +76,30 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T01:19:51.843Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T01:19:51.109Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9e51991793bdfb3c24954d16789eeb5f99b21cec9d452e906252372fd370b74a",
