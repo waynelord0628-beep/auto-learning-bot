@@ -777,5 +777,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.941Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "447148035047bf2c37eb28d4f3af65585dba745615109127af15fbf4b9d6ed28",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Abandon?",
+    "options": [
+      "偶然發現",
+      "拋棄；遺棄",
+      "(大量地)吃；消耗",
+      "荒野；荒地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "拋棄；遺棄",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:16:29.448Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c62818eb26f7e4938acb6b2ad36e211241555177600a52c95de8ddfa58262162",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Exceptional",
+    "options": [
+      "開車",
+      "不同凡響的",
+      "權力；管轄權",
+      "可信賴的；可靠的"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不同凡響的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:16:29.453Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff38c9634d297bf63c6ca3dbc8cefd7869947c07a49980081e84118e4b065ee2",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Detail",
+    "options": [
+      "在其他情況下",
+      "耗費；消耗",
+      "家庭",
+      "細節"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "細節",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:16:29.454Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "91c674f7a53c5499aa9d80ce6e6721b56113bc875c1e4fa5c7a80f38b56c4d16",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Frantically",
+    "options": [
+      "緊張忙亂地",
+      "拖延，延後",
+      "可憐的；可悲的",
+      "克服；戰勝"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "緊張忙亂地",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:16:29.454Z",
+    "review_state": "candidate_ready"
   }
 ]
