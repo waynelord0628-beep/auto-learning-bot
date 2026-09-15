@@ -19880,5 +19880,30 @@
       "model": null,
       "checked_at": "2026-09-15T09:20:15.696Z"
     }
+  },
+  {
+    "question": "There was a fire in the building, but ______ nobody was hurt.",
+    "type": "單選",
+    "options": [
+      "unfortunately",
+      "firstly",
+      "thankfully",
+      "splendidly"
+    ],
+    "course": "聽：台灣原聲童聲合唱團來了！",
+    "answer": "thankfully",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "thankfully",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T10:19:43.374Z"
+    }
   }
 ]
