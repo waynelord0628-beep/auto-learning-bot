@@ -530,5 +530,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:14:51.406Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f456bb2eabcf0cd4e375b6c833b6306e3bf1dafe8ad862bb9a37e885fe71e415",
+    "question": "請選出最接近中文意思的英文:可愛的邂逅",
+    "options": [
+      "What a Nightmare",
+      "Break the Bank",
+      "Meet Cute",
+      "Giving the Cold Shoulder"
+    ],
+    "type": "單選",
+    "course": "英語維基＃2",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Meet Cute",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:18:45.916Z",
+    "review_state": "candidate_ready"
   }
 ]
