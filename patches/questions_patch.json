@@ -19855,5 +19855,30 @@
       "model": null,
       "checked_at": "2026-09-15T09:19:55.119Z"
     }
+  },
+  {
+    "question": "生成式 AI 與過去的 AI 相比，最大的差異是什麼？",
+    "type": "單選",
+    "options": [
+      "只能依照既有規則分類與判斷資料",
+      "能根據大量資料「創作」出新的文字、圖像等內容",
+      "僅能在專業領域運作，難以應用於日常生活",
+      "操作門檻高，僅限具備程式設計能力的人使用"
+    ],
+    "course": "好好用 AI：了解「AI 風險」的公務生存指南",
+    "answer": "能根據大量資料「創作」出新的文字、圖像等內容",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "能根據大量資料「創作」出新的文字、圖像等內容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T09:20:15.696Z"
+    }
   }
 ]

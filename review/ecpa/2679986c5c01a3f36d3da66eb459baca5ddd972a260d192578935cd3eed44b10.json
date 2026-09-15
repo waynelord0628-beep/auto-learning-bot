@@ -190,13 +190,30 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "能根據大量資料「創作」出新的文字、圖像等內容",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.412Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T09:20:16.783Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "能根據大量資料「創作」出新的文字、圖像等內容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T09:20:15.696Z"
+    },
+    "resolved_answer": "能根據大量資料「創作」出新的文字、圖像等內容"
   },
   {
     "id": "ba5be516183456eaa632c5c57e29c6b4fb706b22ff641e396f208fce72c13e23",
