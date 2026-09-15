@@ -19405,5 +19405,30 @@
       "model": null,
       "checked_at": "2026-09-15T02:19:50.580Z"
     }
+  },
+  {
+    "question": "以下針對「數位性別暴力」類型中「基於性別貶抑或仇恨的言論或行為」的說明，以下何者為是？",
+    "type": "單選",
+    "options": [
+      "鼓吹性暴力",
+      "基於性別，對於他人之行為或遭遇，進行貶抑或訕笑",
+      "對他人之性別、性傾向或性別認同等，發表貶抑、侮辱、攻擊或威脅等仇恨言論",
+      "以上皆是"
+    ],
+    "course": "性別平等與媒體素養",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T03:19:51.706Z"
+    }
   }
 ]
