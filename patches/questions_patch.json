@@ -19555,5 +19555,30 @@
       "model": null,
       "checked_at": "2026-09-15T05:19:49.008Z"
     }
+  },
+  {
+    "question": "依公務人員行政中立法規定，公務人員不得公開為公職候選人站台、助講、遊行或拜票。但與該公職候選人之關係為何者不在此限？(1)配偶(2)兄弟(3)娌(4)岳父母",
+    "type": "單選",
+    "options": [
+      "1234",
+      "僅123",
+      "僅12",
+      "僅14"
+    ],
+    "course": "公務人員行政中立法與實務",
+    "answer": "1234",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "1234",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T05:19:54.486Z"
+    }
   }
 ]
