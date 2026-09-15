@@ -853,5 +853,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:16:29.454Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c8aa2ced9b842e9ac8f757e1756756b660a05ed2444a54c03fba885a0b1a35e9",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Navigate",
+    "options": [
+      "捲入；牽扯",
+      "確定…的方向；引導",
+      "徹底改變",
+      "毛，毛皮"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "確定…的方向；引導",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:17:39.723Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0cc0c6aafc875a7dbe3e50d0e668bb39215584c4f56535e50f25adc07d63b6e1",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Evolve",
+    "options": [
+      "美麗動人的，極其漂亮的",
+      "(使)逐步演變，(使)逐步發展",
+      "心愛的；深愛的",
+      "珍藏，懷有(希望、記憶)"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "(使)逐步演變，(使)逐步發展",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:17:39.728Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "df50515267a90ece3d2169ab85e810ecaa80b52fcca8cf03a22a41f1e5bfcd8e",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Assume",
+    "options": [
+      "想當然地認為；假設",
+      "處理；對付",
+      "捐贈；捐獻",
+      "禮貌；習慣"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "想當然地認為；假設",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:17:39.733Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dff519c2b5c0eaa08cd1dd2b6d00fefdbee0825fa3439437db13480504c4e5df",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Manners",
+    "options": [
+      "處理；對付",
+      "捐贈；捐獻",
+      "禮貌；習慣",
+      "沒有限制"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "禮貌；習慣",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:17:39.734Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e8094c0105445e09a740e16f1c2568b2f2382677fce804058b44f9ae35ecf215",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Beloved",
+    "options": [
+      "美麗動人的，極其漂亮的",
+      "(使)逐步演變，(使)逐步發展",
+      "心愛的；深愛的",
+      "珍藏，懷有(希望、記憶)"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "心愛的；深愛的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:17:39.736Z",
+    "review_state": "candidate_ready"
   }
 ]
