@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "special",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T00:19:59.943Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "especially",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T00:19:59.312Z"
+    },
+    "resolved_answer": "especially"
   },
   {
     "id": "6350a4a6e4f0259fa4eefa72235eb7243af1c538eaf8a454376a0d208c7472fa",
