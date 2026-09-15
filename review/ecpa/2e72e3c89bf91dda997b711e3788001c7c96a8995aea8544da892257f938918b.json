@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "【自我挑戰重組句子】&【J檔案】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Sarah often asks me for advice.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:01:38.298Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T12:19:42.318Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Sarah often asks me for advice.",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_3.html",
+          "title": "「【自我挑戰重組句子】&【J檔案】」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T12:19:40.998Z"
+    },
+    "resolved_answer": "Sarah often asks me for advice."
   },
   {
     "id": "39e7a2759625abd46a4423e09f1f7984bdd1a36643f2372c891f2d43e26e8dd7",
