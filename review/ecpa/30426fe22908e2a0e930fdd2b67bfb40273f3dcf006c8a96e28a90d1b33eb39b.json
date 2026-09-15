@@ -16,7 +16,11 @@
     "candidate_answer": "通知訊息必須同時可見和可聽",
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:22.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T14:19:55.139Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "154467fa9ffb40cea9b95422b484ebbd2c34ace611533ee9bd457d0d737b95dd",
