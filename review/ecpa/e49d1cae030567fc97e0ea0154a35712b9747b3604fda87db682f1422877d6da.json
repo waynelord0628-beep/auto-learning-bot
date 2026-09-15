@@ -392,5 +392,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:48:21.768Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ddb82f9c3fedff46cf451966fc8409a7f9d60aab6b8ab14062216a96e61eb6f3",
+    "question": "「政治獻金法」中，政黨、政治團體及擬參選人應於金融機構開立專戶的順序應為收受政治獻金＞陳報受理申報機關許可＞開立專戶。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "行政透明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T02:14:25.053Z",
+    "review_state": "candidate_ready"
   }
 ]
