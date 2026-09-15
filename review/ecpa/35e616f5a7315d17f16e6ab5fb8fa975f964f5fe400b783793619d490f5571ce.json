@@ -226,5 +226,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:19:06.192Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "01ebf9b024952f4b2d1048235999cee32ba0de38c58b0957dc7aee0307b41afe",
+    "question": "以下對於藍色經濟的敘述，何者有誤？",
+    "options": [
+      "能夠永續地利用海洋資源",
+      "藍色經濟提供資金鼓勵漁捕",
+      "藍色經濟被視為一種循環經濟模式",
+      "藍色經濟涵蓋漁業、航運、海洋能源、旅遊等產業"
+    ],
+    "type": "單選",
+    "course": "海洋政策與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:45:31.685Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "27e9c6f598895697fbbbb75d4306f5477da14e27e8bb7d2e6d1da3f4ae011477",
+    "question": "在構成我國海纜安全的人為因素來源，下列何者正確：",
+    "options": [
+      "船舶下錨勾損",
+      "大量抽砂導致海纜裸露",
+      "權宜輪活動",
+      "以上皆正確"
+    ],
+    "type": "單選",
+    "course": "海洋政策與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-15T18:45:31.688Z",
+    "review_state": "awaiting_candidate"
   }
 ]
