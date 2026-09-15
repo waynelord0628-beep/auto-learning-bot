@@ -117,13 +117,30 @@
     ],
     "type": "單選",
     "course": "公務人員行政中立法與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "國立大學依法僱用之人員",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:09.589Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-22T05:19:44.059Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政法人之無給職人員",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T05:19:43.055Z"
+    },
+    "resolved_answer": "行政法人之無給職人員"
   },
   {
     "id": "251b0492584890efb5808e4834a38331154790ab1b811a232439696558a1f4b8",

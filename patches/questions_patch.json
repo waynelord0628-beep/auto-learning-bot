@@ -19505,5 +19505,30 @@
       "model": null,
       "checked_at": "2026-09-15T04:20:17.547Z"
     }
+  },
+  {
+    "question": "下列人員，何者並非公務人員行政中立法適用或準用之對象？",
+    "type": "單選",
+    "options": [
+      "國立大學依法僱用之人員",
+      "國立高中之軍訓教官",
+      "行政法人之無給職人員",
+      "公營事業對經營政策負有主要決策責任之人員"
+    ],
+    "course": "公務人員行政中立法與實務",
+    "answer": "行政法人之無給職人員",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "行政法人之無給職人員",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_239.html",
+          "title": "「公務人員行政中立法與實務(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-15T05:19:43.055Z"
+    }
   }
 ]
