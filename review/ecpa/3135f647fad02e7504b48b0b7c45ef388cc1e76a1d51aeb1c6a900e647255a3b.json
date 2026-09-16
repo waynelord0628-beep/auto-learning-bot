@@ -10,15 +10,32 @@
     ],
     "type": "單選",
     "course": "公務人員如何維持行政中立",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T02:53:13.748Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-16T15:20:03.636Z"
+    "retry_after": "2026-09-16T15:20:03.636Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T01:19:43.586Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不得參加政黨或其他政治團體",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_54.html",
+          "title": "「公務人員如何維持行政中立」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T01:19:42.928Z"
+    },
+    "resolved_answer": "不得參加政黨或其他政治團體"
   },
   {
     "id": "66e6589bff425d55227b7787678cd621a8d8acb12b34dfa50c1e733dd7dc0716",
