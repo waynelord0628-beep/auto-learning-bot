@@ -20226,5 +20226,28 @@
       "model": null,
       "checked_at": "2026-09-16T01:19:42.928Z"
     }
+  },
+  {
+    "question": "公務人員可以為支持的公職候選人公開站台。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公務人員如何維持行政中立",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_54.html",
+          "title": "「公務人員如何維持行政中立」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T01:19:47.780Z"
+    }
   }
 ]
