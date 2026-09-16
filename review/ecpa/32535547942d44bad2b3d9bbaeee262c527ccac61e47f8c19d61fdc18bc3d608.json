@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "風靡全台不敗經典：霹靂布袋戲",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "achieved",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:51:08.533Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T02:19:49.133Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "achieved",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331169991",
+          "title": "風靡全台不敗經典：霹靂布袋戲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T02:19:48.039Z"
+    },
+    "resolved_answer": "achieved"
   },
   {
     "id": "f854b5c0e5190782cdefb45f001b1c386c96a13c26aee829ddaf665425a09f7d",

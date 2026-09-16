@@ -20274,5 +20274,30 @@
       "model": null,
       "checked_at": "2026-09-16T01:19:52.732Z"
     }
+  },
+  {
+    "question": "Luke ______ a lot as the football team's captain, including winning awards.",
+    "type": "單選",
+    "options": [
+      "learned",
+      "cherished",
+      "hired",
+      "achieved"
+    ],
+    "course": "風靡全台不敗經典：霹靂布袋戲",
+    "answer": "achieved",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "achieved",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331169991",
+          "title": "風靡全台不敗經典：霹靂布袋戲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T02:19:48.039Z"
+    }
   }
 ]
