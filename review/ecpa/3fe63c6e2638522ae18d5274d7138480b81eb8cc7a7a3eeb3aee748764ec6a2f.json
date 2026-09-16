@@ -1100,5 +1100,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.713Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8bac34dd135e6d54154e76b43d0a9d30c1fcb512d52b128fe3515ae9e5d7d214",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Transformation",
+    "options": [
+      "捲入；牽扯",
+      "確定…的方向；引導",
+      "徹底改變",
+      "毛，毛皮"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "徹底改變",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:40:50.774Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b590eb6a3ccc054f3eeabe5a9c3a04cbc2a5e884a345dca2ffe292e073400caf",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Attract",
+    "options": [
+      "決定；影響",
+      "使毀滅；注定",
+      "吸引",
+      "綠洲；寧靜宜人之地"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "吸引",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:40:50.779Z",
+    "review_state": "candidate_ready"
   }
 ]
