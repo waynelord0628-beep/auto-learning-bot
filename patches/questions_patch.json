@@ -20299,5 +20299,30 @@
       "model": null,
       "checked_at": "2026-09-16T02:19:48.039Z"
     }
+  },
+  {
+    "question": "Today we're going to begin reading a ______ book called The Old Man and the Sea.",
+    "type": "單選",
+    "options": [
+      "ancient",
+      "outdated",
+      "professional",
+      "classic"
+    ],
+    "course": "風靡全台不敗經典：霹靂布袋戲",
+    "answer": "classic",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "classic",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331169991",
+          "title": "風靡全台不敗經典：霹靂布袋戲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T02:19:55.741Z"
+    }
   }
 ]
