@@ -267,5 +267,58 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.863Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f8686ab3b84441fc30e4de52b6c92a604724c0f9200b347a5e9f5834ece91124",
+    "question": "網路釣魚結合生成式AI工具，模擬高階主管發起會議、偽冒員工身分索取資料，皆屬於人工智慧濫用情境。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:41:08.233Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "824caa9aa3443ded2bdbc9a56810a55ca1897653805dd2bd404de1e81dc5b365",
+    "question": "員工使用人工智慧工具提升工作效率，但未經授權情況下使用或未留意使用情境，可能有資料外洩的風險。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:41:08.236Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b039a437adfc3f8ed9025a7734a8546d739222851d1b9e067f640af2a777376a",
+    "question": "預防供應鏈受駭與橫向移動，應採取下列何種措施?",
+    "options": [
+      "提供廠商必要性最小權限且具合理時效性的帳號存取",
+      "無須監控惡意橫向移動行為",
+      "廠商遠端存取行為常開無須管理",
+      "開放最大權限給廠商可隨意存取機關內部服務"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提供廠商必要性最小權限且具合理時效性的帳號存取",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:41:08.236Z",
+    "review_state": "candidate_ready"
   }
 ]
