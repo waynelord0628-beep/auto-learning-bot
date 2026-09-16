@@ -120,5 +120,41 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:25:28.467Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e38546652c01ce5c652a86241da035f6f89d219346adc33da8566fabf6510bcb",
+    "question": "根據課程的核心觀點，教練對孩子最深遠的影響是什麼？",
+    "options": [
+      "學會精湛的技巧",
+      "讓孩子開始「相信自己」",
+      "提供了最嚴格的紀律"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_從正向管教到團隊文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "讓孩子開始「相信自己」",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T06:26:22.586Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "547bda13e86b25665eb6ad8e862731d8da95eb9e299e9ba11b965f4eccfd7835",
+    "question": "當教練看到孩子失誤並感到情緒激動時，根據「主動積極」的模型，教練最應該採取的行動是什麼？",
+    "options": [
+      "為了不打擊孩子信心，立刻壓抑情緒並給予大聲的稱讚",
+      "為了教學效率，在情緒當下立即指出錯誤，以免孩子忘記細節",
+      "先停頓並思考：「我現在真正想教會孩子的是什麼？」"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_從正向管教到團隊文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "先停頓並思考：「我現在真正想教會孩子的是什麼？」",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T06:26:22.587Z",
+    "review_state": "candidate_ready"
   }
 ]
