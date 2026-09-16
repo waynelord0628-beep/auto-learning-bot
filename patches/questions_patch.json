@@ -20622,5 +20622,30 @@
       "model": null,
       "checked_at": "2026-09-16T08:19:57.919Z"
     }
+  },
+  {
+    "question": "We don't use plastic ____ for drinks. That's not good for the Earth.",
+    "type": "單選",
+    "options": [
+      "straws",
+      "beans",
+      "pencils",
+      "chopsticks"
+    ],
+    "course": "樂享火鍋&夏季美味甜點",
+    "answer": "straws",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "straws",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T09:19:41.208Z"
+    }
   }
 ]
