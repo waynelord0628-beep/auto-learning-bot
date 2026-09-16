@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "loss",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T12:19:43.724Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "loss",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T12:19:42.906Z"
+    },
+    "resolved_answer": "loss"
   },
   {
     "id": "b121ac8c2c2b74fdb7e2137e583a3632a68c5a75142125e50e6412763fc9321e",

@@ -20772,5 +20772,30 @@
       "model": null,
       "checked_at": "2026-09-16T10:19:54.343Z"
     }
+  },
+  {
+    "question": "I'm so sorry to hear about the ______ of your grandfather. How are you feeling?",
+    "type": "單選",
+    "options": [
+      "less",
+      "loss",
+      "lost",
+      "lose"
+    ],
+    "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
+    "answer": "loss",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "loss",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T12:19:42.906Z"
+    }
   }
 ]
