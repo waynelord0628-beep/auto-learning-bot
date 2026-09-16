@@ -20449,5 +20449,28 @@
       "model": null,
       "checked_at": "2026-09-16T06:19:41.759Z"
     }
+  },
+  {
+    "question": "若將營業秘密輸入開放式AI(如ChatGPT、Bard)，其他人使用均可能取得此資料，可能就會因此喪失成為營業秘密之要件。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "人工智慧應用與實務（基礎篇）",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T06:19:47.473Z"
+    }
   }
 ]
