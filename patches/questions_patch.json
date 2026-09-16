@@ -20895,5 +20895,30 @@
       "model": null,
       "checked_at": "2026-09-16T13:19:49.989Z"
     }
+  },
+  {
+    "question": "The teacher reminded her students that rude words can ______ other people.",
+    "type": "單選",
+    "options": [
+      "affect",
+      "become",
+      "discover",
+      "hide"
+    ],
+    "course": "《神探南西》",
+    "answer": "affect",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "affect",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_115.html",
+          "title": "「《神探南西》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T13:19:55.337Z"
+    }
   }
 ]
