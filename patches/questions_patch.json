@@ -20822,5 +20822,30 @@
       "model": null,
       "checked_at": "2026-09-16T12:19:49.348Z"
     }
+  },
+  {
+    "question": "It took five years of hard work for Mary's business to become a ______.",
+    "type": "單選",
+    "options": [
+      "success",
+      "tension",
+      "hurry",
+      "luxury"
+    ],
+    "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
+    "answer": "success",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "success",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T12:19:55.192Z"
+    }
   }
 ]
