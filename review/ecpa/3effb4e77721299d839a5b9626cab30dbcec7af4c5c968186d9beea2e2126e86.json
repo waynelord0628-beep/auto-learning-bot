@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "vegetables",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.177Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T09:19:47.009Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "vegetables",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T09:19:46.398Z"
+    },
+    "resolved_answer": "vegetables"
   },
   {
     "id": "c547203d4016deb61ab20232371d6881763888a55e290d6d26ab15d94a673c9b",

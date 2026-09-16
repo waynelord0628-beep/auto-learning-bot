@@ -20647,5 +20647,30 @@
       "model": null,
       "checked_at": "2026-09-16T09:19:41.208Z"
     }
+  },
+  {
+    "question": "I liked it very much. Both the meat and the ____ were delicious.",
+    "type": "單選",
+    "options": [
+      "postcards",
+      "countries",
+      "packages",
+      "vegetables"
+    ],
+    "course": "樂享火鍋&夏季美味甜點",
+    "answer": "vegetables",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "vegetables",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T09:19:46.398Z"
+    }
   }
 ]
