@@ -174,5 +174,98 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.753Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3abe21016f66e522f50b56d8a77c76775d935cd6973d381e3fd5a083c4e7f4f",
+    "question": "蒐集他人個人資料未經當事人同意情況下，可做蒐集目的外的使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:40:37.860Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "20cd06a8681394d00ef5e6612ad486ee0b6082745108fc833348cf2ebd5ff764",
+    "question": "關於「勒索軟體」的敘述，下列何者正確?",
+    "options": [
+      "定期更換密碼，就能完全避免勒索軟體攻擊",
+      "定期備份資料是應對勒索軟體威脅最有效的緩解措施之一",
+      "只會鎖住電腦螢幕，不會損壞任何資料",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "定期備份資料是應對勒索軟體威脅最有效的緩解措施之一",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:40:37.862Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d04d582e3c1f8e61358c6111f9cbe7e0c87eb0d610924510190493243343ec7",
+    "question": "下列何種行為最容易導致資安事件發生?",
+    "options": [
+      "使用公共Wi-Fi傳送機密資料",
+      "定期更新密碼",
+      "啟用雙重驗證",
+      "安裝防毒軟體定期更新病毒碼及定期掃毒"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用公共Wi-Fi傳送機密資料",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:40:37.862Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5601e47e4c0952ca678fbc9cd38440b69a000828908269321de58d975d441d30",
+    "question": "下列何者是正確的資訊設備管理防護?",
+    "options": [
+      "定期進行漏洞修補與安全性更新",
+      "定期更換密碼且符合單位密碼原則",
+      "留意資安新聞與漏洞通報資訊，以利確認設備或作業系統是否有弱點漏洞",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:40:37.863Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "49df4cd9291bc106857abae3fd81ee8bf2efdeebb13e3cea35259aa9329e21d7",
+    "question": "若收到可疑電子郵件，應採取何種行動?",
+    "options": [
+      "立即點擊連結",
+      "下載附件檔案",
+      "回覆電子郵件",
+      "通報資訊安全單位"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "通報資訊安全單位",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T12:40:37.863Z",
+    "review_state": "candidate_ready"
   }
 ]
