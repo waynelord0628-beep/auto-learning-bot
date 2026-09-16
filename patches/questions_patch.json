@@ -20349,5 +20349,30 @@
       "model": null,
       "checked_at": "2026-09-16T02:20:03.041Z"
     }
+  },
+  {
+    "question": "請問國內常見電子票證有哪些？",
+    "type": "單選",
+    "options": [
+      "悠遊卡",
+      "一卡通",
+      "愛金卡",
+      "以上皆是"
+    ],
+    "course": "行動支付安全(113)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/113ee_24.html",
+          "title": "「行動支付安全(113)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T03:19:41.931Z"
+    }
   }
 ]
