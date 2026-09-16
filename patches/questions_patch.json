@@ -20970,5 +20970,30 @@
       "model": null,
       "checked_at": "2026-09-16T14:19:51.533Z"
     }
+  },
+  {
+    "question": "Lily: I have a ____ of questions. Can I ask you, Ms. Bells?  Ms. Bells: Sure.",
+    "type": "單選",
+    "options": [
+      "couple",
+      "kind",
+      "piece",
+      "bottle"
+    ],
+    "course": "課後活動&去露營吧",
+    "answer": "couple",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "couple",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017029",
+          "title": "課後活動&去露營吧《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T14:19:58.960Z"
+    }
   }
 ]
