@@ -20522,5 +20522,30 @@
       "model": null,
       "checked_at": "2026-09-16T07:20:12.624Z"
     }
+  },
+  {
+    "question": "After some tests, the doctors ______ that Ted is dying of cancer.",
+    "type": "單選",
+    "options": [
+      "conclude",
+      "concluded",
+      "concludes",
+      "concluding"
+    ],
+    "course": "《A Night Divided》",
+    "answer": "concluded",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "concluded",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262679",
+          "title": "《A Night Divided》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T07:20:18.486Z"
+    }
   }
 ]
