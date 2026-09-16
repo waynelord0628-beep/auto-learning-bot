@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "毛，毛皮",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.080Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T10:19:50.045Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "毛，毛皮",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T10:19:49.093Z"
+    },
+    "resolved_answer": "毛，毛皮"
   },
   {
     "id": "58a15bc3530a69cb61b268579a29dd5fb7c8d697ce3c0420a7bbad8f6eed473a",
