@@ -93,5 +93,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T07:02:52.513Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "12f481faa2190965ed86448dd10b1ef81d9190b1884928a3766f668bfc3a4023",
+    "question": "「接觸的三個等級」中，下列何者須「高度警覺」並應搭配儀式化流程？",
+    "options": [
+      "指示性接觸（使用球拍、哨子等工具指引）",
+      "安全防護接觸（防止跌倒或受傷的立即支撐）",
+      "主動式肢體調整（直接調整肩膀、臀部等核心部位）",
+      "口頭動作講解"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_兒少保護—建立安全、尊重與支持的運動環境",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安全防護接觸（防止跌倒或受傷的立即支撐）",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T07:03:45.542Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b4ce69be1c93f137366f4bc0bfcd08813e9757ec0057ed098327b72487063bd7",
+    "question": "教練模式之建設性教學處理選手失誤的正確流程為何？",
+    "options": [
+      "先處理技術，再處理情緒",
+      "先處理情緒，再處理技術",
+      "同時處理情緒與技術，不分先後",
+      "先公開檢討，再私下安撫"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_兒少保護—建立安全、尊重與支持的運動環境",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "先處理情緒，再處理技術",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T07:03:45.543Z",
+    "review_state": "candidate_ready"
   }
 ]
