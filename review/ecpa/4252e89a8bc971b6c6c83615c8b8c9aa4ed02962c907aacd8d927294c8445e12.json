@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "《神探南西》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "successful",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:59:17.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T13:19:50.728Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "successful",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_115.html",
+          "title": "「《神探南西》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T13:19:49.989Z"
+    },
+    "resolved_answer": "successful"
   },
   {
     "id": "a6a0ecf4e96a29660ca8757f295ff9d5152e277f87f9935bd1fd5a4d5cedf407",
