@@ -798,5 +798,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:37:35.186Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b03e1a9e2df793b4af5a39b5524e89739112f9207de3ff3b208f568201cad3c7",
+    "question": "請選出一個最合適的英文 :網路酸民",
+    "options": [
+      "Summer Jobs",
+      "Going to the Military",
+      "Internet Trolls",
+      "Online Business"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Internet Trolls",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:38:17.773Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0bb916cd6389b1a228b29e559e9c5068943456b8bd71ff3798c0813afc9df32",
+    "question": "請選出一個最合適的英文 :購買耳環",
+    "options": [
+      "Buying a New Phone",
+      "Convenience Stores",
+      "Buying Earrings",
+      "Buying Shoes"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Buying Earrings",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:38:17.777Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e608b123af33b0ed4e939fa2e7df784dfea8e57197849a260cdd7c5782b7327",
+    "question": "請選出一個最合適的英文 :便利商店",
+    "options": [
+      "Buying a New Phone",
+      "Convenience Stores",
+      "Buying Earrings",
+      "Buying Shoes"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Convenience Stores",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:38:17.778Z",
+    "review_state": "candidate_ready"
   }
 ]
