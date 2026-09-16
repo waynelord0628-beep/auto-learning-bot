@@ -741,5 +741,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:15:57.357Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d89b30d1b928f99f684b4c3ef9a12a82f2d1277b9c214e6785aa575ed0c93e83",
+    "question": "請選出一個最合適的英文 :痘痘護理",
+    "options": [
+      "Annual Health Checkup",
+      "Colds and Flus",
+      "Laser Eye Surgery",
+      "Dealing with Acne"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Dealing with Acne",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:37:35.174Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "df6ddaa4cc1868be436bb320b12a1b80cc95695bc32ae39bf247848844bfa29a",
+    "question": "請選出一個最合適的英文 :派對裝飾",
+    "options": [
+      "Party Ｄecoration",
+      "Party Venue",
+      "Dress Code",
+      "Party Food"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Party Ｄecoration",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:37:35.180Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "91298a8bd3fbba43af88f6e66f05afb0db6c7ec9aa0eea0035255173991f98a8",
+    "question": "請選出一個最合適的英文 :電話留言",
+    "options": [
+      "Talking to an Office Receptionist",
+      "Calling In for Sick Leave",
+      "Schedule Meeting Time",
+      "Taking a Phone Message"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Taking a Phone Message",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:37:35.186Z",
+    "review_state": "candidate_ready"
   }
 ]
