@@ -1,0 +1,182 @@
+[
+  {
+    "id": "89cd1cdd7a78bca077d45982b7ad882792e4a732a839cb92d6e30fe1441684b3",
+    "question": "在政府機關的資料應用中，資料建模可以幫助不同單位間協作分析，例如結合人口資料與服務紀錄。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.796Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6475def0c09160e99198f27a93f05d590b361aaaaf53b7175bf1047b5b9e2519",
+    "question": "在業務分析中，資料建模的價值在於讓不同來源的資訊能交叉檢視，找出關聯與趨勢。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.800Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e780ec792dccee2c68086c824e64625c60837fea031736aa53345c4b031320c0",
+    "question": "清理資料不屬於資料結構化的範疇。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.801Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8941727f3ff1e4138e931b933787527439faf849552130fa4532c2976e8715f4",
+    "question": "政府機關內部資料的特性是什麼？",
+    "options": [
+      "全部公開",
+      "可能含有機敏性，需權限管理",
+      "只存在於政府資料開放平臺",
+      "無需分類"
+    ],
+    "type": "單選",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可能含有機敏性，需權限管理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.802Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "33b1c1cc9f87d9f6a748eab7b68f1d7e42715e8c27208bc2d6cd4c43a0962f53",
+    "question": "資料設計思考中，POV 是指設計問題的觀點，請問它的全名是？",
+    "options": [
+      "Point of Value",
+      "Point of View",
+      "Power of View",
+      "Process of Value"
+    ],
+    "type": "單選",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Point of View",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.817Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e371df73c4c0483f5481e15656d48e9220757f2e6c7751ee0485fdcdad823f77",
+    "question": "資料設計思考的雙鑽石模型包括哪兩大階段？",
+    "options": [
+      "擴散與收斂",
+      "收斂與結案",
+      "擴散與分享",
+      "定義與執行"
+    ],
+    "type": "單選",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "擴散與收斂",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.818Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6d63304bcd02040ea0f1517a026d3590db18fe57eb7f5ed83336364989284c95",
+    "question": "在分析前，資料建模通常需要？",
+    "options": [
+      "資料視覺化",
+      "資料清理與整理",
+      "報告撰寫",
+      "預算編列"
+    ],
+    "type": "單選",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資料清理與整理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.818Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d51a9b96497cdc6bd4691003cfb860bffaea477bb261450db3f3fd249af413d1",
+    "question": "資料只要已經公開在機關網站上，即代表任何人都可以自由修改、使用及分享。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.819Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0ab7d8a12d82c631544f33313cb3ca3a33d10ffc94185265692ea07190d49b6a",
+    "question": "結構化資料的特徵是？",
+    "options": [
+      "無固定格式",
+      "可用表格、欄位組織",
+      "僅限文字檔",
+      "無法搜尋"
+    ],
+    "type": "單選",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可用表格、欄位組織",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.822Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5cc6865fa1e7dce37713e2e081b582a811df91a8c3733f17b0d29813e5211925",
+    "question": "政府資料開放平臺僅限公務人員使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "蒐集與理解資料",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:16:43.822Z",
+    "review_state": "candidate_ready"
+  }
+]
