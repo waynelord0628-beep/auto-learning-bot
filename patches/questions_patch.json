@@ -20547,5 +20547,30 @@
       "model": null,
       "checked_at": "2026-09-16T07:20:18.486Z"
     }
+  },
+  {
+    "question": "The workers at the music festival refused the man's ______ because he had no  ticket.",
+    "type": "單選",
+    "options": [
+      "entrance",
+      "entry",
+      "enter",
+      "entire"
+    ],
+    "course": "萊卡的單程太空旅行",
+    "answer": "entry",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "entry",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T08:19:46.823Z"
+    }
   }
 ]
