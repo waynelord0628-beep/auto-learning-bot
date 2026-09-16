@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.308Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T06:19:42.559Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T06:19:41.759Z"
+    },
+    "resolved_answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫"
   },
   {
     "id": "9ee0f8fe5768e58e76a072fb99a2a9417c59abd554c6987526f6d447d587ffdc",

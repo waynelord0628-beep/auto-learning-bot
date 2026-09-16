@@ -20424,5 +20424,30 @@
       "model": null,
       "checked_at": "2026-09-16T03:19:51.956Z"
     }
+  },
+  {
+    "question": "公務常見的運用開放之生成式AI的隱性危險行為，下列何項敘述不包括在其中?",
+    "type": "單選",
+    "options": [
+      "政策研析都靠生成式AI ，不自知的被牽著走",
+      "無法判斷他人提供的素材是否從生成式AI 產生，導致自己侵權",
+      "無完整個資保護意識，所做的行為也無法確保個資零檢出",
+      "運用生成式AI 文字生成之功能，協助公文稿件撰寫"
+    ],
+    "course": "人工智慧應用與實務（基礎篇）",
+    "answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "運用生成式AI 文字生成之功能，協助公文稿件撰寫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T06:19:41.759Z"
+    }
   }
 ]
