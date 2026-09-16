@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "課後活動&去露營吧",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "forgot",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T17:34:52.230Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T14:19:45.659Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "forgot",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017029",
+          "title": "課後活動&去露營吧《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T14:19:44.782Z"
+    },
+    "resolved_answer": "forgot"
   },
   {
     "id": "761dfa8f408aea63838d6655f723067d28a42a8bea82c9c23253354c171006bd",
