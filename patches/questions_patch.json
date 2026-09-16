@@ -20472,5 +20472,30 @@
       "model": null,
       "checked_at": "2026-09-16T06:19:47.473Z"
     }
+  },
+  {
+    "question": "公務常見的運用開放之生成式AI的顯性危險行為，下列何項敘述不包括在其中?",
+    "type": "單選",
+    "options": [
+      "將公務文件整篇放到生成式AI翻譯",
+      "與生成式AI問答當中透漏個資與機敏資料",
+      "人工最終判斷生成式AI的回復",
+      "機關或承商(非公益性質)直接使用生成式AI產生的圖片、影音"
+    ],
+    "course": "人工智慧應用與實務（基礎篇）",
+    "answer": "人工最終判斷生成式AI的回復",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "人工最終判斷生成式AI的回復",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T06:19:52.596Z"
+    }
   }
 ]
