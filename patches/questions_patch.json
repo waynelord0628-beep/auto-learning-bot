@@ -21020,5 +21020,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-16T15:20:10.566Z"
     }
+  },
+  {
+    "question": "當廠商面對監造單位的索賄要求時，若為了求工程順利而「配合給付」，廠商在法律上的風險為何？",
+    "type": "單選",
+    "options": [
+      "只要廠商能完全證明自己是被迫的，就能完全免責。",
+      "僅需負擔民事違約責任，無刑事責任風險。",
+      "因廠商為被害人，不需負擔刑事責任。",
+      "可能構成貪污治罪條例中的行賄罪。"
+    ],
+    "course": "新北青年工程倫理廉政論談",
+    "answer": "可能構成貪污治罪條例中的行賄罪。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "可能構成貪污治罪條例中的行賄罪。",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001430",
+          "quote": "對於違背職務之行為，要求、期約或收受賄賂或其他不正利益者。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-16T15:21:02.758Z"
+    }
   }
 ]

@@ -67,13 +67,30 @@
     ],
     "type": "單選",
     "course": "新北青年工程倫理廉政論談",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可能構成貪污治罪條例中的行賄罪。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.263Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T15:21:03.696Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可能構成貪污治罪條例中的行賄罪。",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001430",
+          "quote": "對於違背職務之行為，要求、期約或收受賄賂或其他不正利益者。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-16T15:21:02.758Z"
+    },
+    "resolved_answer": "可能構成貪污治罪條例中的行賄罪。"
   },
   {
     "id": "14525c1db0e9c8f15adac3925b2a7009db67c7ccfaca5f3eddefc65f6b7b965f",
