@@ -20847,5 +20847,28 @@
       "model": null,
       "checked_at": "2026-09-16T12:19:55.192Z"
     }
+  },
+  {
+    "question": "我之前對這個問題感到很焦慮，所以我很高興最後一切順利。可英譯為：I was stressed about this problem earlier, so I'm glad everything figured out in the end.",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "《神探南西》",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_115.html",
+          "title": "「《神探南西》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T13:19:45.282Z"
+    }
   }
 ]
