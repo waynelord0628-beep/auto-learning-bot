@@ -20995,5 +20995,30 @@
       "model": null,
       "checked_at": "2026-09-16T14:19:58.960Z"
     }
+  },
+  {
+    "question": "法律上的「對價關係」在賄賂案件中是指什麼？",
+    "type": "單選",
+    "options": [
+      "給予的好處與公務員職務上的具體行為有交換關係。",
+      "廠商獲利後的分紅。",
+      "給予的金額必須剛好等於工程利潤。",
+      "雙方互贈禮物的價值相等。"
+    ],
+    "course": "新北青年工程倫理廉政論談",
+    "answer": "給予的好處與公務員職務上的具體行為有交換關係。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "給予的好處與公務員職務上的具體行為有交換關係。",
+      "sources": [
+        {
+          "url": "https://www.ialgo.nat.gov.tw/open/Articles?a=11398",
+          "quote": "該「賄賂」與其職務行為間要有一定之對價關係，即以公務員職務上之行為為其賄賂之對象"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-16T15:20:10.566Z"
+    }
   }
 ]

@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "新北青年工程倫理廉政論談",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "給予的好處與公務員職務上的具體行為有交換關係。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-23T15:20:12.575Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "給予的好處與公務員職務上的具體行為有交換關係。",
+      "sources": [
+        {
+          "url": "https://www.ialgo.nat.gov.tw/open/Articles?a=11398",
+          "quote": "該「賄賂」與其職務行為間要有一定之對價關係，即以公務員職務上之行為為其賄賂之對象"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-16T15:20:10.566Z"
+    },
+    "resolved_answer": "給予的好處與公務員職務上的具體行為有交換關係。"
   },
   {
     "id": "90d3fdf2bdb920e8f4043d38dc8cb0545b3665cd35511856df7b40a311bbf785",
