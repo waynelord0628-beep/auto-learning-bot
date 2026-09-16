@@ -948,5 +948,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:17:39.736Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b1791444c18680f125d1c03c4988a633715ed5b96a524e656d17b6431731daab",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Opt",
+    "options": [
+      "好處；優勢",
+      "隱藏；隱匿",
+      "人造衛星",
+      "選擇，挑選"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "選擇，挑選",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:39:27.615Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1cabf7d3f74764c86b81942829737c60a9639f40c1373c0985d3f71caff9869f",
+    "question": "請依據題目英文選出一個正確或是最佳的中文字義答案：Gorgeous",
+    "options": [
+      "美麗動人的，極其漂亮的",
+      "(使)逐步演變，(使)逐步發展",
+      "心愛的；深愛的",
+      "珍藏，懷有(希望、記憶)"
+    ],
+    "type": "單選",
+    "course": "英語超短劇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "美麗動人的，極其漂亮的",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T02:39:27.633Z",
+    "review_state": "candidate_ready"
   }
 ]
