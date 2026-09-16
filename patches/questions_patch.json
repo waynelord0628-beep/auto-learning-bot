@@ -20399,5 +20399,30 @@
       "model": null,
       "checked_at": "2026-09-16T03:19:47.086Z"
     }
+  },
+  {
+    "question": "下列有關行動裝置資安保護措施-軟體下載與使用，何者為非？",
+    "type": "單選",
+    "options": [
+      "安裝可信任來源App軟體",
+      "App軟體權限管控",
+      "定期更新App軟體",
+      "使用三隻以上手機"
+    ],
+    "course": "行動支付安全(113)",
+    "answer": "使用三隻以上手機",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "使用三隻以上手機",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/113ee_24.html",
+          "title": "「行動支付安全(113)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-16T03:19:51.956Z"
+    }
   }
 ]
