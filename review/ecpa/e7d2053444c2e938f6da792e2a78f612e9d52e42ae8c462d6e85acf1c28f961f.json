@@ -150,5 +150,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.325Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9ddafd7f670361903e089161c664f9be94454fd0f515eac66cd0a7fa14340418",
+    "question": "同學常在訊息中傳送帶有性暗示的話，讓人感到不舒服，這算是？",
+    "options": [
+      "只是聊天",
+      "性騷擾",
+      "朋友間玩笑",
+      "無關緊要"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "性騷擾",
+    "source": "ai_unverified",
+    "created_at": "2026-09-16T04:37:00.804Z",
+    "review_state": "candidate_ready"
   }
 ]
