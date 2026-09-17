@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "平安旅遊&樂攀岩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "copies",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:58:30.097Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T00:19:41.771Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "copies",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_18.html",
+          "title": "「平安旅遊&樂攀岩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T00:19:41.102Z"
+    },
+    "resolved_answer": "copies"
   },
   {
     "id": "fc48020568196096e49aa96c4d8e5c310eb2465271c5d32a907c312ecd088a20",

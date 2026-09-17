@@ -21045,5 +21045,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-16T15:21:02.758Z"
     }
+  },
+  {
+    "question": "What should we do before traveling? First, make ____ of your travel documents. It's easier to get new ones with them.",
+    "type": "單選",
+    "options": [
+      "pages",
+      "leaves",
+      "videos",
+      "copies"
+    ],
+    "course": "平安旅遊&樂攀岩",
+    "answer": "copies",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "copies",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_18.html",
+          "title": "「平安旅遊&樂攀岩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T00:19:41.102Z"
+    }
   }
 ]
