@@ -206,13 +206,30 @@
     ],
     "type": "是非",
     "course": "認知促進：提升腦活力預防失智上門",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T14:24:08.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T02:19:56.951Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0499089905.html",
+          "title": "「認知促進：提升腦活力預防失智上門」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T02:19:56.106Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "ab7db2e72ba1dfee63c8d1b665efc9644406e6c48a252d888a08054840932730",
