@@ -21581,5 +21581,28 @@
       "model": null,
       "checked_at": "2026-09-17T08:19:56.552Z"
     }
+  },
+  {
+    "question": "政府施政首重五打七安，除了打擊「黑、金、槍、毒、詐」5大領域，也致力於保障「治安、食安、道安、工安、校安、居安、資安」等。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "當前國家重大政策議題",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T09:19:41.887Z"
+    }
   }
 ]
