@@ -21412,5 +21412,30 @@
       "model": null,
       "checked_at": "2026-09-17T05:20:00.882Z"
     }
+  },
+  {
+    "question": "Slido主要的功用為何？",
+    "type": "單選",
+    "options": [
+      "可以自動針對影片生成封面圖",
+      "可以透過音檔做成逐字稿文字",
+      "可以生成PPT",
+      "在PPT中加入與聽眾互動的提問，並可以即時呈現效果"
+    ],
+    "course": "你不能錯過的AI工作術",
+    "answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T05:20:13.253Z"
+    }
   }
 ]

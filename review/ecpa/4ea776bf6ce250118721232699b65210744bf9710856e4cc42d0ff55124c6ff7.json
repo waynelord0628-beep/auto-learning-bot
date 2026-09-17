@@ -101,15 +101,32 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T05:20:15.425Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T05:20:13.253Z"
+    },
+    "resolved_answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果"
   },
   {
     "id": "eb46eebc42a216a2e8c0eb891e4f661a8ff3faaffacdc2d77f3c5728576c1fbe",
