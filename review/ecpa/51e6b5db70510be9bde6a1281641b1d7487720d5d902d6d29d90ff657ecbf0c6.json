@@ -62,7 +62,11 @@
     "candidate_answer": "不造假、不扭曲，永遠不為了畫面好看而改變事實。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.354Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T07:21:32.352Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "00007cd6e2f3c43f6331a5aab0b68f7d8fdb353be584331bb70e421080e2077e",
