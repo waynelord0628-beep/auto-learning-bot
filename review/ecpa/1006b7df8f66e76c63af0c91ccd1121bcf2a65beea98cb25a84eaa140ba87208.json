@@ -17,5 +17,187 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T05:59:52.580Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b99e9aed4ed94de8daa728e42b4308ccc5c083c4b578e3cf57b437aa711af06e",
+    "question": "年滿25歲到70歲的男女，都要被納入民防團。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T18:14:37.106Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5c25096f9b32ef00e5dd232a40f5893f9bb24c80b867262002b2ade9c54c11a1",
+    "question": "民防團隊整編年度的基本訓練時間是幾小時？",
+    "options": [
+      "4小時",
+      "6小時",
+      "8小時",
+      "10小時"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "3. 8小時",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.109Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "b8adbf896c279ea7f5f38aaa77724e779c3e6e241b911e947886cfe3ab3efeaf",
+    "question": "2017年到2020年的全球軍力綜合排名，臺灣從18名降到25名之後。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.109Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "886ef05b40a4d8c62a392e38bd5b81c4e0a62f2da07715bdf03ee2ec746578c9",
+    "question": "執行轄區民防業務推行任務，是屬於哪個民防團隊？",
+    "options": [
+      "民防團",
+      "民防分團及勤務組",
+      "婦女中隊",
+      "團本部"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民防團",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T18:14:37.110Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "53013ec7132d5d7948aed84984f8c073725af1ccae41fe9d553876a65a68dcf6",
+    "question": "公路、港口、航空站所編製的民防團隊為何者？",
+    "options": [
+      "民防總隊",
+      "民防團",
+      "特種防護團",
+      "防護（聯合）團"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "民防團",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.110Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "a8713a806e4962e09456d5a63f43dacafc985a604b83196fd3c59c7c948d100c",
+    "question": "學校、團體、公司所編製的民防團隊為何者？",
+    "options": [
+      "民防總隊",
+      "民防團",
+      "特種防護團",
+      "防護（聯合）團"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民防團",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T18:14:37.111Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f7606e56a6fb42b722382f88fcae133a46b233af75bf21a592694eac1ff5b01a",
+    "question": "執行轄內家戶防護、民防教育宣導及公有防空避難設備管理任務，是屬於哪個民防團隊？",
+    "options": [
+      "民防團",
+      "民防分團及勤務組",
+      "婦女中隊",
+      "團本部"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1. 民防團",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.112Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "e5d26770b9e303b20483379e1fc1dc0ebae4de876bb62dfd3a560df85ebaac27",
+    "question": "我們現行的全民防衛政策，分成：機制的建立、動員的運作、民防團的編制，這三個部分。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.112Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "072ac22e9cb843275ac900e59adab997e691d6ab01998e294b7f8976ec0ab170",
+    "question": "執行護理、宣慰、服務任務，是屬於哪個民防團隊？",
+    "options": [
+      "民防團",
+      "民防分團及勤務組",
+      "疏散避難宣慰中隊、小隊",
+      "團本部"
+    ],
+    "type": "單選",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.113Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "12395416231b6ae8f2a665a52ccf8b979dc438bb39ae620dc52f551ca050c917",
+    "question": "萬安演習的重點是如何在有敵情狀況之下的防空演練。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T18:14:37.113Z",
+    "review_state": "awaiting_evidence"
   }
 ]
