@@ -21533,5 +21533,30 @@
       "model": null,
       "checked_at": "2026-09-17T08:19:42.125Z"
     }
+  },
+  {
+    "question": "We spent the weekend playing ______ games, and laughing and joking with each other.",
+    "type": "單選",
+    "options": [
+      "sleep",
+      "spent",
+      "silly",
+      "important"
+    ],
+    "course": "十萬個冷知識(聖誕節)",
+    "answer": "silly",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "silly",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T08:19:49.611Z"
+    }
   }
 ]

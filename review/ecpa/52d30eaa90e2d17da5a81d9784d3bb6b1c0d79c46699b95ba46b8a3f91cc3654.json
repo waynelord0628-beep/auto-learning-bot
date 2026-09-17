@@ -152,13 +152,30 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(聖誕節)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "silly",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:43:20.115Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T08:19:50.394Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "silly",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T08:19:49.611Z"
+    },
+    "resolved_answer": "silly"
   },
   {
     "id": "b8f222f82c18363b637180debb9f2e10b13e71a0c7c1b21c03c63f966e9b6dc6",
