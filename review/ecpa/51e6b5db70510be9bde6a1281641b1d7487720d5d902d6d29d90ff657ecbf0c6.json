@@ -39,7 +39,11 @@
     "candidate_answer": "物的喜怒哀樂。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.353Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T07:21:12.214Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5bf94d2074a48d1506b688b82ed23ba35d535ced4cc157aa7dd171c9078d0ed4",
