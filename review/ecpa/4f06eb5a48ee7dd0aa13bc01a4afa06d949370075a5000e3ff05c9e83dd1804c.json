@@ -182,13 +182,30 @@
     ],
     "type": "單選",
     "course": "幸福捕手專業版",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "請家屬根據個案的狀況做答",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:01:15.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T06:20:04.984Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "請家屬根據個案的狀況做答",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T06:20:03.710Z"
+    },
+    "resolved_answer": "請家屬根據個案的狀況做答"
   },
   {
     "id": "b2e74bdbe020ee4fc9b0245cb7bd96b6721272bd5791d349d10681290fc7e6c1",
