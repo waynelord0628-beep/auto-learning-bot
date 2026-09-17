@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "氣象教室：暴風雨A&世界各地乳牙風俗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "while",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:55:53.247Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T10:20:07.081Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "while",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017077",
+          "title": "氣象教室：暴風雨A&世界各地乳牙風俗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T10:20:05.903Z"
+    },
+    "resolved_answer": "while"
   },
   {
     "id": "bef57f3373f6eaf0107d714c23ddb9c8a99974d6b4661947ac1f61bd315710bd",

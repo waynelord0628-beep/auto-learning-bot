@@ -21652,5 +21652,30 @@
       "model": null,
       "checked_at": "2026-09-17T09:19:52.270Z"
     }
+  },
+  {
+    "question": "The tooth fairy comes ____ the child is asleep. She takes the tooth and leaves money or a small gift in its place.",
+    "type": "單選",
+    "options": [
+      "if",
+      "and",
+      "while",
+      "because"
+    ],
+    "course": "氣象教室：暴風雨A&世界各地乳牙風俗",
+    "answer": "while",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "while",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017077",
+          "title": "氣象教室：暴風雨A&世界各地乳牙風俗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T10:20:05.903Z"
+    }
   }
 ]
