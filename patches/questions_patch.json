@@ -21798,5 +21798,30 @@
       "model": null,
       "checked_at": "2026-09-17T14:20:05.318Z"
     }
+  },
+  {
+    "question": "以下哪一項是 Misinformation 的特徵？",
+    "type": "單選",
+    "options": [
+      "故意誤導他人",
+      "包含不正確資訊但無惡意",
+      "以營利為主要目的",
+      "僅限於網路平台傳播"
+    ],
+    "course": "AI 虛假資訊資安風險",
+    "answer": "包含不正確資訊但無惡意",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "包含不正確資訊但無惡意",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/ai-ee.html",
+          "title": "「AI 虛假資訊資安風險」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T14:20:19.858Z"
+    }
   }
 ]
