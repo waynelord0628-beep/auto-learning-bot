@@ -239,5 +239,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:07.252Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e1f8e16c70f7d84a04f8285fe730d1e947d130e97f34aefc12cad9a592a1d052",
+    "question": "關於隱私的處理原則，以下哪個選項錯誤？",
+    "options": [
+      "只要取得使用者的同意，就可以取得使用者的所有個人資料",
+      "須取得使用者同意才能收集個人資料",
+      "如使用者要刪除個人資料，就應該讓他刪除",
+      "由於個人資料很重要，所以要做好資安防護措施"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "只要取得使用者的同意，就可以取得使用者的所有個人資料",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:34:38.431Z",
+    "review_state": "candidate_ready"
   }
 ]
