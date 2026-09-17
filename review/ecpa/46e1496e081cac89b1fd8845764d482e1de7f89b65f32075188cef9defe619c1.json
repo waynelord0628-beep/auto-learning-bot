@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "friendship",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.890Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T01:19:58.977Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "friendship",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T01:19:57.427Z"
+    },
+    "resolved_answer": "friendship"
   },
   {
     "id": "d3a63f8deaac1ae4f5f948bd518a94e1994fdae9b516f17c093e6d9269bc6698",
