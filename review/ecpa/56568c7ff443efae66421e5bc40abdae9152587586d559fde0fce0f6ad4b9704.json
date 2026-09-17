@@ -62,6 +62,10 @@
     "candidate_answer": "The Danjiang Bridge’s main tower stands as tall as a 70-story building, making the foundation work particularly difficult.",
     "source": "ai_unverified",
     "created_at": "2026-09-12T09:17:53.919Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T11:20:33.783Z",
+    "verification_status": "insufficient_sources"
   }
 ]
