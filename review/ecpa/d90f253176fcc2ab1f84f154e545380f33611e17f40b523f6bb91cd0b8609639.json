@@ -1,0 +1,188 @@
+[
+  {
+    "id": "d5baef18b4297f7457584cb52740e56b54e71565d81381dd66af1e0037ec3e38",
+    "question": "以下何者屬於雲端的部署模型？",
+    "options": [
+      "私有雲",
+      "公有雲",
+      "混合雲",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.579Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "676d2abeddf803652ec5293fb74732db5b5114a29059ea014ef70a2263b63379",
+    "question": "簽名的書寫方式也是屬於身分驗證的方式之一？",
+    "options": [
+      "是",
+      "否"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.580Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f9e27da092eaefc23f1a800f316e717a5598048b3e94ae5de459ca284e60d69b",
+    "question": "根據IBM的資料外洩成本報告指出，以下哪個選項是資料外洩所涉及的成本種類？",
+    "options": [
+      "通知的成本",
+      "事後分析與回應的成本",
+      "檢測與升級的成本",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.583Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4893abdfe170ab8d96ebca544cdfa513211138b110b3f70ddf1129a4a0944b81",
+    "question": "關於帳號管理的最佳實踐，以下哪個選項不正確？",
+    "options": [
+      "密碼要足夠複雜",
+      "特權帳號要做好控管",
+      "帳號可以借給同事",
+      "應使用雙因子驗證"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "帳號可以借給同事",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.584Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5b27e38462d3bb67c593e08fee75b383a5ab688724dbb759009eac6264627082",
+    "question": "根據雲端安全聯盟(CSA)於2022年的報告指出，以下哪一項不屬於Top 11雲端威脅？",
+    "options": [
+      "不安全的軟體開發",
+      "雲端儲存資料外洩",
+      "系統即時更新",
+      "缺乏雲端安全架構與策略"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "系統即時更新",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.586Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "57727bcc2c43c9b59e6f06b75e8f20cb90b7263dfececcfa9179fabd7591a3f2",
+    "question": "以下何者不是使用雲端服務的好處？",
+    "options": [
+      "基礎設施需要的維運人力減少",
+      "所有工作都丟給雲端服務供應商處理即可",
+      "可以輕鬆完成異地備援的工作",
+      "可以簡單透過瀏覽器使用"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "所有工作都丟給雲端服務供應商處理即可",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.587Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "da9b3b7c7dc1f89ed89fdd65774a6392fb3152ce26889cd9d2e6f30aadf12df9",
+    "question": "在身分識別與存取管理(IAM)中，需注意哪些層面？",
+    "options": [
+      "授權(Authorization)",
+      "驗證(Authentication)",
+      "稽核(Auditing)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.589Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2d065c50381498c36c5b2b770c9af46693aa1e6b00e323ddf8f7e1b1f92342d3",
+    "question": "資料可根據機密性來分類？",
+    "options": [
+      "是",
+      "否"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.590Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "53816470fe3d83d10a32c7ce3d5018796357ab7adae6631bf4bda8c455ed9cd1",
+    "question": "根據多因子驗證(MFA)的定義，以下何者為正確的配對？",
+    "options": [
+      "臉型+指紋",
+      "密碼+生日",
+      "指紋+密碼",
+      "金融卡+一次性密碼(OTP)"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "金融卡+一次性密碼(OTP)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.591Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6c95c8c51dc43ab25b56a66ded149337cb4bf22def4387c7df49ec3ea6ae72f1",
+    "question": "下述關於資料生命週期各階段的案例說明，何者錯誤？",
+    "options": [
+      "使用(Use)階段，使用顧客資料進行銷售分析",
+      "銷毀(Destroy)階段，通常涉及將物理媒體(如硬碟或紙張)進行碎片化或完全刪除以確保資料不可恢復",
+      "儲存(Store)階段，資料通常被存放在低成本的儲存解決方案中，且不常被存取",
+      "建立(Create)階段，顧客在線上購物時填寫資料，或員工建立一份報告"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "儲存(Store)階段，資料通常被存放在低成本的儲存解決方案中，且不常被存取",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:33:29.593Z",
+    "review_state": "candidate_ready"
+  }
+]
