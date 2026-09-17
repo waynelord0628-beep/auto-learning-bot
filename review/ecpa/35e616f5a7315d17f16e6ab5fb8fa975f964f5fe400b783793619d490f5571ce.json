@@ -253,12 +253,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "藍色經濟提供資金鼓勵漁捕",
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:45:31.685Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-17T08:19:36.261Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-18T18:19:49.444Z"
   },
   {
     "id": "27e9c6f598895697fbbbb75d4306f5477da14e27e8bb7d2e6d1da3f4ae011477",
@@ -274,12 +274,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "以上皆正確",
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:45:31.688Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-17T08:19:36.261Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-18T18:19:49.444Z"
   },
   {
     "id": "f37e5f8119f1512c44dd983f81084bef1deaeb008a50aa0bb4a626fa0f5308c6",
