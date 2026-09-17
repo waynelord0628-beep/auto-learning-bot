@@ -21268,5 +21268,28 @@
       "model": null,
       "checked_at": "2026-09-17T02:19:56.106Z"
     }
+  },
+  {
+    "question": "我自己有個人的商業保險，所以志工運用單位可以不用再幫我投保志工保險。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "志願服務法規之認識",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T03:19:41.824Z"
+    }
   }
 ]
