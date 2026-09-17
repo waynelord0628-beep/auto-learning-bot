@@ -21387,5 +21387,30 @@
       "model": null,
       "checked_at": "2026-09-17T05:19:50.817Z"
     }
+  },
+  {
+    "question": "以下哪一項不是生成式AI？",
+    "type": "單選",
+    "options": [
+      "Stable Diffusion",
+      "D-ID",
+      "Slido",
+      "Jasper AI"
+    ],
+    "course": "你不能錯過的AI工作術",
+    "answer": "Slido",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Slido",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T05:20:00.882Z"
+    }
   }
 ]

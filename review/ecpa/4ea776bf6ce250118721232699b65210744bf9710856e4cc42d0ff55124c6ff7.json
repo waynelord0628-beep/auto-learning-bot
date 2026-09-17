@@ -63,15 +63,32 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Slido",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.733Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T05:20:02.827Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Slido",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T05:20:00.882Z"
+    },
+    "resolved_answer": "Slido"
   },
   {
     "id": "dcdc56a9fc32771a5f6ea5f3cf024e61716dbae3d841b506b4b7cc9cf5cc4adc",
