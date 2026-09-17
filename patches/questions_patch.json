@@ -21702,5 +21702,30 @@
       "model": null,
       "checked_at": "2026-09-17T12:19:58.329Z"
     }
+  },
+  {
+    "question": "ICERD主要針對的議題為何？",
+    "type": "單選",
+    "options": [
+      "兩性。",
+      "能源環境。",
+      "種族平等。",
+      "氣候變遷。"
+    ],
+    "course": "消除一切形式種族歧視國際公約（ICERD）第1條至第7條逐條釋義（上）",
+    "answer": "種族平等。",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "種族平等。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/icerd17ee_18.html",
+          "title": "「消除一切形式種族歧視國際公約（ICERD）第1條至第7條逐條釋義（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T12:20:05.192Z"
+    }
   }
 ]
