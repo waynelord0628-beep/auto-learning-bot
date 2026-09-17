@@ -339,6 +339,10 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:24:47.312Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T04:20:12.080Z",
+    "verification_status": "insufficient_sources"
   }
 ]
