@@ -39,7 +39,11 @@
     "candidate_answer": "Incorrect, because a cruise ship is not typically used for carrying vehicles and goods across a river.",
     "source": "ai_unverified",
     "created_at": "2026-09-12T09:17:53.918Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T11:20:14.998Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "567480271441fd889659e6ba24a57f1b7d891348cd23bb4fafa1a71d214b9f5f",
