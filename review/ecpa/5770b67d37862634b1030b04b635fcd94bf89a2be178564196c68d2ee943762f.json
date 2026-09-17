@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "消除一切形式種族歧視國際公約（ICERD）第1條至第7條逐條釋義（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "某校為了強調多元族群，故在母語教學課程時，將不同原住民學生，按其部落或意願，區分至不同教室分別教學。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:51:37.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T12:19:59.005Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "某校為了強調多元族群，故在母語教學課程時，將不同原住民學生，按其部落或意願，區分至不同教室分別教學。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/icerd17ee_18.html",
+          "title": "「消除一切形式種族歧視國際公約（ICERD）第1條至第7條逐條釋義（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T12:19:58.329Z"
+    },
+    "resolved_answer": "某校為了強調多元族群，故在母語教學課程時，將不同原住民學生，按其部落或意願，區分至不同教室分別教學。"
   },
   {
     "id": "f36eedc0a13dce47ea720e75dc142edb3bebc3ac866e9b8950667afca8383705",
