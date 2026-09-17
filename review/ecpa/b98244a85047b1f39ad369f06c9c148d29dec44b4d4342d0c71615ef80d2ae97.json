@@ -355,5 +355,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T02:17:08.942Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0d9449b994da9bdc7d520c2afaff67d7369d97f3bb8e0dce5e2db5d01ba095ba",
+    "question": "請問下列哪些為《身心障礙者權利公約》存在的理由？",
+    "options": [
+      "集結國內外力量參與其中。",
+      "全面檢視人權標準加強約束力。",
+      "國際首次提出身心障礙者權利規範。",
+      "強調身心障礙者是權利主體。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:10:42.824Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
