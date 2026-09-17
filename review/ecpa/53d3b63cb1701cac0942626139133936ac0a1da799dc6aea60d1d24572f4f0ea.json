@@ -16,7 +16,11 @@
     "candidate_answer": "wind",
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:55:53.243Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T10:19:59.754Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fb9cc97984cacd34efdfe52261ad54970034d2cc50648e0bbc7cfaa0e22a0efb",
