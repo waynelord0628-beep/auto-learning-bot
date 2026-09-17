@@ -184,5 +184,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.593Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "054788ec420eb0bdaabe033379c9446b2ef65779c64d50ff38c180feec9cd532",
+    "question": "資安意識訓練課程通常會讓組織的所有人一起參與？",
+    "options": [
+      "是",
+      "否"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:34:07.249Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62bcf3cebdde1a7d3834581c44cea9e71d80a3d5ae78cd3d92d03142f2acba5f",
+    "question": "以下何者屬於雲端服務的類型？",
+    "options": [
+      "基礎設施即服務 (IaaS)",
+      "軟體即服務 (SaaS)",
+      "平台即服務 (PaaS)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:34:07.252Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ba9b34235cf0070fb3c2548a6f238aacd69fc081b4f8d30b68ac63fc091f9b39",
+    "question": "以下關於資料的分類，以下哪個選項錯誤？",
+    "options": [
+      "極密",
+      "可疑",
+      "秘密",
+      "機密"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可疑",
+    "source": "ai_unverified",
+    "created_at": "2026-09-17T10:34:07.252Z",
+    "review_state": "candidate_ready"
   }
 ]
