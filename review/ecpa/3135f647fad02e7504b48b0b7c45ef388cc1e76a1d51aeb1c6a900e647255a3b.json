@@ -347,5 +347,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T02:54:45.242Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d10dd1c77b088aa0a01ef129de30d21edf10a6d5f0e8c4e6ae3730710843f1e",
+    "question": "公營事業對經營政策負有主要決策責任之人員為行政中立法之適用對象。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-17T17:33:43.364Z",
+    "review_state": "awaiting_evidence"
   }
 ]
