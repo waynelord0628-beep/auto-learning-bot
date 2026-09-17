@@ -21510,5 +21510,28 @@
       "model": null,
       "checked_at": "2026-09-17T06:20:03.710Z"
     }
+  },
+  {
+    "question": "每當我聞到玫瑰花，這樣的經驗總是讓我想起我奶奶。她以前最愛這些花。可英譯為：Every time I smell roses, it comes up with my grandmother to mind. She loved those flowers.",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "十萬個冷知識(聖誕節)",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T08:19:42.125Z"
+    }
   }
 ]
