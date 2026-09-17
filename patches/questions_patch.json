@@ -21145,5 +21145,30 @@
       "model": null,
       "checked_at": "2026-09-17T01:19:43.701Z"
     }
+  },
+  {
+    "question": "There are many ways to celebrate a birthday. _____ birthday cake is one common way.",
+    "type": "單選",
+    "options": [
+      "Eat",
+      "Eats",
+      "Ate",
+      "Eating"
+    ],
+    "course": "歡慶生日&表達愛意",
+    "answer": "Eating",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Eating",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T01:19:51.629Z"
+    }
   }
 ]
