@@ -21773,5 +21773,30 @@
       "model": null,
       "checked_at": "2026-09-17T13:21:19.666Z"
     }
+  },
+  {
+    "question": "ISO 42001 標準對生成式 AI 的主要要求包括什麼？",
+    "type": "單選",
+    "options": [
+      "提供 AI 系統的可追溯性與透明性",
+      "降低 AI 的運算能力",
+      "完全停止 AI 在商業領域的應用",
+      "促進所有 AI 系統的開放性"
+    ],
+    "course": "AI 虛假資訊資安風險",
+    "answer": "提供 AI 系統的可追溯性與透明性",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提供 AI 系統的可追溯性與透明性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/ai-ee.html",
+          "title": "「AI 虛假資訊資安風險」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T14:20:05.318Z"
+    }
   }
 ]

@@ -79,13 +79,30 @@
     ],
     "type": "單選",
     "course": "AI 虛假資訊資安風險",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提供 AI 系統的可追溯性與透明性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.009Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T14:20:07.446Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供 AI 系統的可追溯性與透明性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/ai-ee.html",
+          "title": "「AI 虛假資訊資安風險」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T14:20:05.318Z"
+    },
+    "resolved_answer": "提供 AI 系統的可追溯性與透明性"
   },
   {
     "id": "a1050df8f177f0804a969b01b0225a77daeae708c632611df9c6700c2dce3aa4",
