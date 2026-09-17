@@ -50,13 +50,30 @@
     ],
     "type": "是非",
     "course": "蒐集與理解資料",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:16:43.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-24T15:20:44.825Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://newdoc.nccu.edu.tw/teaschm/1091/schmPrv.jsp-yy%3D109%26smt%3D1%26num%3D405006%26gop%3D03%26s%3D1.html",
+          "quote": "不同領域的原始資料態樣各自不同，取得方法也不盡相同，原始資料無法直接取用和加值， 因此需要進行清理，變成結構化的資料。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-09-17T15:20:44.045Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8941727f3ff1e4138e931b933787527439faf849552130fa4532c2976e8715f4",
