@@ -21627,5 +21627,30 @@
       "model": null,
       "checked_at": "2026-09-17T09:19:47.315Z"
     }
+  },
+  {
+    "question": "行政院於2024年11月核定「青年百億海外圓夢基金計畫」，分4年編列百億元經費，針對哪一個年齡層的青年，提供「築夢工場組」、「海外翱翔組」及「年度旗艦計畫」等實踐途徑，鼓勵不同領域青年至海外交流學習？",
+    "type": "單選",
+    "options": [
+      "15歲-25歲",
+      "20歲-30歲",
+      "15歲-30歲",
+      "20歲-35歲"
+    ],
+    "course": "當前國家重大政策議題",
+    "answer": "15歲-30歲",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "15歲-30歲",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-17T09:19:52.270Z"
+    }
   }
 ]
