@@ -16,7 +16,11 @@
     "candidate_answer": "common cause",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.123Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T10:19:53.556Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6e201abaa887ee4544658c21f72dc88a5fea37ec8016e76f81b95470d213a232",
