@@ -22040,5 +22040,28 @@
       "model": null,
       "checked_at": "2026-09-18T02:19:50.100Z"
     }
+  },
+  {
+    "question": "鹽埕區作為商業精華地段，在籍人口數始終是高雄行政區前三名。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "從臨港線穿梭鹽埕今昔",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:19:58.211Z"
+    }
   }
 ]
