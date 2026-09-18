@@ -39,7 +39,11 @@
     "candidate_answer": "盤查資料的預期使用者及盤查目的",
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T04:19:50.065Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "190f9f11cbda371aaf3d6b4484ca869621c54c5d54abf24606239989746fa1dd",
