@@ -39,7 +39,11 @@
     "candidate_answer": "Cowboy Culture",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.123Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T10:19:59.563Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "05b42411260074736cb0b0176dcce48c142da7fc500fbcbda4c77e487acf65f0",
