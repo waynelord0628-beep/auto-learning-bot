@@ -85,6 +85,10 @@
     "candidate_answer": "found out",
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:04:14.374Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T06:19:42.114Z",
+    "verification_status": "insufficient_sources"
   }
 ]
