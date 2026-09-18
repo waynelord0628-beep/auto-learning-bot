@@ -164,7 +164,11 @@
     "candidate_answer": "消除一切形式種族歧視。",
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:48:31.148Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T05:19:53.192Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5405615abb2f48a2f67b6beeb6c6d82bc772a2272db082ec94899a1170284b17",
