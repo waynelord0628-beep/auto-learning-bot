@@ -264,5 +264,24 @@
     "source": "reported_question",
     "created_at": "2026-09-11T10:38:38.357Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "b2eb5b1939b3ecc58f584b5b05a58aa48d7e83a0ee15dcbe1e9d72426e9e3a78",
+    "question": "下列何者敘述正確？",
+    "options": [
+      "公務人員可以帶職參選而不必請假",
+      "公務人員如要請假參選，長官得因業務需要而不准假",
+      "公務人員登記為公職候選人者，應自候選人名單公告之日起至投票日止，依規定請公假",
+      "公務人員登記為公職候選人者，應自候選人名單公告之日起至投票日止，依規定請事假或休假"
+    ],
+    "type": "單選",
+    "course": "公務人員行政中立案例解析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 公務人員不得加入政治團體",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-18T21:01:37.453Z",
+    "review_state": "awaiting_evidence"
   }
 ]
