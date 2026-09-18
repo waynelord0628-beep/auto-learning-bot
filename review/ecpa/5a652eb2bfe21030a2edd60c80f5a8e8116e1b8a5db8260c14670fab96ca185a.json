@@ -188,5 +188,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.421Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9eeb6a19532e67162420c5cd76ca2b7cb2b0f3d1ee2e47df69b8b50093bbb273",
+    "question": "當一個人經常委屈自己、害怕衝突、凡事把別人的需要看得比自己的需要更重要人時，屬於哪種互動模式？",
+    "options": [
+      "敵視他人",
+      "討好他人",
+      "拒絕自己",
+      "逃避他人"
+    ],
+    "type": "單選",
+    "course": "在家庭關係中修煉自己",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "討好他人",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T13:42:47.306Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "72d9afe1d02b2c0b3fd36d3a0695ea497ed44b66dbb7ebc34d4f783ece3d52d1",
+    "question": "「爭吵不是在吵是非的問題」，真正想確認的是什麼？",
+    "options": [
+      "誰比較有道理",
+      "誰先道歉",
+      "誰應該負責",
+      "我在你心裡到底重不重要"
+    ],
+    "type": "單選",
+    "course": "在家庭關係中修煉自己",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "我在你心裡到底重不重要",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T13:42:47.313Z",
+    "review_state": "candidate_ready"
   }
 ]
