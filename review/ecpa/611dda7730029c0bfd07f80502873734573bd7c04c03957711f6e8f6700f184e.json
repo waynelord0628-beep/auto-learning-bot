@@ -16,7 +16,11 @@
     "candidate_answer": "建立排放量盤查報告書",
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.102Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T04:19:43.785Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4984d97ae2171272f5fc63229cfa20e9bc498552280877a482fd376bafbc6f90",
