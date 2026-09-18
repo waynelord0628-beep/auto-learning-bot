@@ -16,7 +16,11 @@
     "candidate_answer": "how to",
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.514Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T07:20:29.016Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ec97f4470c993138f82dad6ebd70b1bd0f5293f118b2e6d08535d1ea2bf3e6eb",
