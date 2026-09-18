@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "美軍靠港補給、維修",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.581Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T02:19:51.511Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "美軍靠港補給、維修",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:19:50.100Z"
+    },
+    "resolved_answer": "美軍靠港補給、維修"
   },
   {
     "id": "2201ef0ebcd5fe674db58a7d8a68f31483a88f6edd1b120b8a64c115a030f7df",
