@@ -62,7 +62,11 @@
     "candidate_answer": "建築或設施的使用與營運模式",
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T04:19:55.116Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8a6191ac6f7678f62eeb4249bcdc6e996c968ef03d7bf6cab4d72901ca2ce018",
