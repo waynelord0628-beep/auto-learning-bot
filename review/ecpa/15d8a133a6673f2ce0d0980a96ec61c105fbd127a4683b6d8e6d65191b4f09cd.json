@@ -180,5 +180,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.431Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "32b519b5131820b9b34504d9d51395d91abfadd2e9a960e47560f31551d58634",
+    "question": "中央政府與地方自治團體的權限爭議，由何者解決？",
+    "options": [
+      "立法院院會",
+      "總統",
+      "行政院",
+      "司法院大法官會議"
+    ],
+    "type": "單選",
+    "course": "政府組織與地方自治（含地方制度法）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "司法院大法官會議",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T02:30:31.660Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f4104dbcbad16669eae9230f71179e9415655e30a0245193222413ec864503a",
+    "question": "行政院如認為立法院所通過之法律案窒礙難行時，得經總統之核可，於該決議案送達行政院10日內，移請立法院進行程序？",
+    "options": [
+      "覆議",
+      "協商",
+      "復議",
+      "再討論"
+    ],
+    "type": "單選",
+    "course": "政府組織與地方自治（含地方制度法）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "復議",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T02:30:31.661Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5eeb7c562d71881edce44968a57d342720b09de0bb2a541229605677e7fd3ae7",
+    "question": "我國政府實為一個巨大組織體系：在縱向分工上形成由中央到地方的層級節制(hierarchy)架構；在橫向分工上則區隔為各種專業的機關或部門。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府組織與地方自治（含地方制度法）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T02:30:31.662Z",
+    "review_state": "candidate_ready"
   }
 ]
