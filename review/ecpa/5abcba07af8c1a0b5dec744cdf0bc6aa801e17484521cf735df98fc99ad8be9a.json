@@ -76,13 +76,30 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.011Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T01:19:53.352Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T01:19:52.607Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "28099ebd5a01b70c9311df49e4fb4886d8edb3de13cebe356b5e0ebe60dfa946",
