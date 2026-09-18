@@ -90,7 +90,11 @@
     "candidate_answer": "brunch",
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.222Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T12:19:46.239Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "72a4c5aa853bb35293b305ed76e0a418126494445933ba0c319fcdcd6d495cb3",
