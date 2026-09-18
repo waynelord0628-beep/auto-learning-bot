@@ -1,5 +1,6 @@
 // Source-backed AI review is distinct from a platform-disclosed answer key.
 function ecpaReviewApi(body) {
+  return {data:{},urls:[],searched:false,disabled:true}; // Paid cloud AI paused by owner.
   const r = UrlFetchApp.fetch('https://api.openai.com/v1/responses', {
     method:'post', contentType:'application/json', headers:{Authorization:'Bearer ' + OPENAI_KEY},
     payload:JSON.stringify(Object.assign({model:'gpt-4.1',store:false,max_output_tokens:1800},body)), muteHttpExceptions:true

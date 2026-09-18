@@ -48,3 +48,8 @@ Code.template.gs 是移除四項私密設定後的完整後端測試範本，不
 前一版因官方來源不足而待查的題目可立即進新流程一次，後續維持原重試間隔與每日額度；客戶端考三次不及格就跳過的規則沒有修改。已存在正式答案不在本次擴大覆寫。
 
 驗證：node backend/test_ecpa_course_sources.cjs，加上既有 auto_verify/review/evidence/backend_incident 測試。已用實際下載的痞客邦「低碳蔬食活力GO」頁面與 DB 網址索引驗證是非答案對應。
+
+
+## 2026-09-18 付費搜尋暫停
+
+依使用者成本限制，ecpaReviewApi 在網路請求前回傳 disabled，不再呼叫 GPT-4.1 搜尋或來源複核。GPT-4o-mini 缺題補答維持啟用；直接讀取課程解答與題庫同步不受影響。不得在未獲授權時恢復付費搜尋。
