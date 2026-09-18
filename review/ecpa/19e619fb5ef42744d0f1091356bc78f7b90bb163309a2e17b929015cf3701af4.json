@@ -17,5 +17,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:36:38.179Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "198e21dda38df1063463cf690eceda81efc6c90c77a9a8a00c10f54119b831fe",
+    "question": "勞退新制係於何時開始實施？",
+    "options": [
+      "94年7月1日",
+      "94年1月1日",
+      "95年7月1日",
+      "95年1月1日"
+    ],
+    "type": "單選",
+    "course": "(115年)認識勞工退休相關制度",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "94年7月1日",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T05:37:19.079Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93e589c98ccf1ac5f2ba54aec5e079079edd76d2a0571a37d6eb4afd1694abc3",
+    "question": "勞工退休金如果想要選擇月領，提繳年資至少要滿幾年？",
+    "options": [
+      "10年",
+      "15年",
+      "20年",
+      "25年"
+    ],
+    "type": "單選",
+    "course": "(115年)認識勞工退休相關制度",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "10年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T05:37:19.080Z",
+    "review_state": "candidate_ready"
   }
 ]
