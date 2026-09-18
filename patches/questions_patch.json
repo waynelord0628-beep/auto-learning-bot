@@ -21871,5 +21871,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-09-17T15:20:44.045Z"
     }
+  },
+  {
+    "question": "The employees were _____ with promotions or pay raises as appreciation for their efforts to help the company.",
+    "type": "單選",
+    "options": [
+      "rewarded",
+      "professional",
+      "myth",
+      "awareness"
+    ],
+    "course": "瑪德琳‧斯圖亞特國際模特兒&打擊樂聽障獨奏家依芙琳‧葛蘭",
+    "answer": "rewarded",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "rewarded",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906453",
+          "title": "瑪德琳‧斯圖亞特國際模特兒&打擊樂聽障獨奏家依芙琳‧葛蘭《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T00:19:41.254Z"
+    }
   }
 ]
