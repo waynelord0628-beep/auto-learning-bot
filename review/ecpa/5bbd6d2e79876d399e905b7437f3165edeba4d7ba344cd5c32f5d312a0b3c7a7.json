@@ -80,13 +80,30 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公園路：大五金街",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.583Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T02:20:06.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "新樂街：皮鞋街",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:20:05.787Z"
+    },
+    "resolved_answer": "新樂街：皮鞋街"
   },
   {
     "id": "504a6462f738c3ae672c9d961132a808975c433b7e8a344d7271e6a6de69159e",

@@ -22063,5 +22063,30 @@
       "model": null,
       "checked_at": "2026-09-18T02:19:58.211Z"
     }
+  },
+  {
+    "question": "鹽埕有許多專業街，下列哪個專業街的搭配有誤？",
+    "type": "單選",
+    "options": [
+      "新樂街：皮鞋街",
+      "七賢三路：酒吧街",
+      "公園路：大五金街",
+      "鹽埕街：飾品街"
+    ],
+    "course": "從臨港線穿梭鹽埕今昔",
+    "answer": "新樂街：皮鞋街",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "新樂街：皮鞋街",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:20:05.787Z"
+    }
   }
 ]
