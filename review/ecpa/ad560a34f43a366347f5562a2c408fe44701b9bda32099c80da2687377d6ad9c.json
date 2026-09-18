@@ -1498,7 +1498,11 @@
     "candidate_answer": "Party Ｄecoration",
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:37:35.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T12:19:57.303Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "91298a8bd3fbba43af88f6e66f05afb0db6c7ec9aa0eea0035255173991f98a8",
