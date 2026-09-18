@@ -85,7 +85,11 @@
     "candidate_answer": "To become an investigative journalist, and return to her country to negotiate with the Taliban",
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:15:25.789Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T05:20:11.669Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9bec7119ae4bec28a2037322478c6ab5f982964d1d1a35b45add192f500c3a95",
