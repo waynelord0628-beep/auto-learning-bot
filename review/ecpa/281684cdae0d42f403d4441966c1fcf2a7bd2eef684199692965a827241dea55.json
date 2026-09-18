@@ -116,13 +116,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "personality",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "personality",
+    "source_review": {
+      "answer": "personality",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.716Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0861611940c09911b6f437ac6811801471d49263be56acd14305d080631f9b77",
@@ -135,13 +149,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "population",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.662Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "population",
+    "source_review": {
+      "answer": "population",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.716Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "80cc79638e1406c8f8a6272e763c67d93930be14498f77cadf81cb8c2b36e9d1",
@@ -154,13 +182,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "reminded",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.662Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "reminded",
+    "source_review": {
+      "answer": "reminded",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.717Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "38b76e4db85c176daa3555f35f1a993faa35251299e56cd083b72089bb050ada",
@@ -173,13 +215,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "founder",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.663Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "founder",
+    "source_review": {
+      "answer": "founder",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.717Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "69013eb5922bed72ff62784a275075da3d76da5334e7d2b672885077e8650ac7",
@@ -192,13 +248,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "kilometer",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.663Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "kilometer",
+    "source_review": {
+      "answer": "kilometer",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.718Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3b3ee5081a98546ee65e1fbdab97d8b1812cf91a88cc32ab41bc4e18cbcdb35b",
@@ -211,13 +281,27 @@
     ],
     "type": "單選",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "decade",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.664Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "decade",
+    "source_review": {
+      "answer": "decade",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.719Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "727138ce91f651434ee0c6f200147e2d2b0fd2e1256694f11fe6ec099799e162",
@@ -228,12 +312,26 @@
     ],
     "type": "是非",
     "course": "聽：台灣原聲童聲合唱團來了！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:49:27.664Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331170003",
+          "title": "聽：台灣原聲童聲合唱團來了！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.719Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

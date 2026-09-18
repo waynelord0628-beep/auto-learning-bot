@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "空白鍵",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.868Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Ctrl",
+    "source_review": {
+      "answer": "Ctrl",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.555Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "01da6f7db2251662689214fccfdaecc717df07a4b41a0b3762d47abee9c2b2ef",
@@ -135,13 +153,31 @@
     ],
     "type": "單選",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對照片快點兩下再進行拖曳",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.869Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "對照片快點兩下再進行拖曳",
+    "source_review": {
+      "answer": "對照片快點兩下再進行拖曳",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.556Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "15f7a44f22f8213ed7769c8f037985135580c3b1fc46e63369cadcb412c94298",
@@ -152,13 +188,31 @@
     ],
     "type": "是非",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.870Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.557Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "12388625215f0826e0f36ab58b1abe04ea2ee25e28797a277687f1699091925d",
@@ -169,13 +223,31 @@
     ],
     "type": "是非",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.559Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d83fa6ae8d36fecfd9847001485beb30610b1bd745e1b1a2ae14753c3370a5fa",
@@ -186,13 +258,31 @@
     ],
     "type": "是非",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.872Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.560Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "97e48ff050776e0cb3b1e68b7f1e1b648573ba497c852b0424a29a59b4c3bfda",
@@ -205,13 +295,31 @@
     ],
     "type": "單選",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "gif",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.872Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "gif",
+    "source_review": {
+      "answer": "gif",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.561Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fe2d755bcdc44c61194c2ae7a80e0c11aab516d527bf181914b5852a3b51a202",
@@ -222,12 +330,30 @@
     ],
     "type": "是非",
     "course": "應用Canva AI工作坊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T02:08:43.873Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347478689",
+          "title": "應用Canva AI工作坊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/canva-aiee.html",
+          "title": "「應用Canva AI工作坊」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.562Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

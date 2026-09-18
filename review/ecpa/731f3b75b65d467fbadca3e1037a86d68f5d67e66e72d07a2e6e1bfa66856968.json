@@ -8,13 +8,27 @@
     ],
     "type": "是非",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.601Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.618Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "95d1c8cfb985491db53f07f64f17ed62b6035dfb9402ac266f4ad94a57092fff",
@@ -27,13 +41,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "accomplishments",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.602Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "accomplishments",
+    "source_review": {
+      "answer": "accomplishments",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.619Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3db94bde80d874f1cb7a5bffe76e7ae958fa5a57905c4249d2d5eb44bed3602d",
@@ -44,13 +72,27 @@
     ],
     "type": "是非",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.602Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.619Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "92bdc305f8a14e42c576e811263858e4a2bffeddf27764c4acf4191dbff4db2e",
@@ -63,13 +105,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "modern",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.603Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "huge",
+    "source_review": {
+      "answer": "huge",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.620Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "71312345a685c30ced43e82ba1aa2c91c56db03fba6d311de274a63a4b453db4",
@@ -82,13 +138,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "significant",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.604Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "significant",
+    "source_review": {
+      "answer": "significant",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.621Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e50eda7d09c4c2084dd4171b51aa3d524d481ab3b790fed8789ca91a67d1d55a",
@@ -101,13 +171,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "vegetarian",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.605Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "vegetarian",
+    "source_review": {
+      "answer": "vegetarian",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.621Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "623f1a30029107ec83fbf7a9ef70676246dab29e44bcb750a2005316e9c8a511",
@@ -120,13 +204,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "suggestions",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.605Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "suggestions",
+    "source_review": {
+      "answer": "suggestions",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.622Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3104cbf499a03042bc8660c8221d1cd2a9468b34aa5a9c414946c46f86fe933f",
@@ -139,13 +237,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "professional",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.606Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "professional",
+    "source_review": {
+      "answer": "professional",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.622Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "10046830896179c220ff92b83bb96d3570d462e249e7f1ee07f0206ad1b6b317",
@@ -158,13 +270,27 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "competitive",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.607Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "competitive",
+    "source_review": {
+      "answer": "competitive",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.622Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a4c21a1d938bc22eea0d2bda88f378416895f3eb0e324b3a1c36a87453b2caad",
@@ -177,12 +303,26 @@
     ],
     "type": "單選",
     "course": "下班後和同事慶功",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "rely",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:39:16.608Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "rely",
+    "source_review": {
+      "answer": "rely",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164075",
+          "title": "下班後和同事慶功《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.623Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

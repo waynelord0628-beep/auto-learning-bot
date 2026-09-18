@@ -224,13 +224,27 @@
     ],
     "type": "單選",
     "course": "萊卡的單程太空旅行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "suffering",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:38:09.269Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "suffering",
+    "source_review": {
+      "answer": "suffering",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.839Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e0e9430556d15d95f2e766d6c6d67f7bcf59d4f6d599c6a15bc12608536259db",
@@ -241,13 +255,27 @@
     ],
     "type": "是非",
     "course": "萊卡的單程太空旅行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:38:09.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.840Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e8623f464f58b7680832f434046207cc3367d74d4be28798a19fd04fb95536f1",
@@ -260,13 +288,27 @@
     ],
     "type": "單選",
     "course": "萊卡的單程太空旅行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "painful",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:38:09.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "painful",
+    "source_review": {
+      "answer": "painful",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.840Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e2acb13ff730490ccc17333f2423bcadc93a5ab3803bdffe799c4d1d6f2a6ecb",
@@ -279,12 +321,26 @@
     ],
     "type": "單選",
     "course": "萊卡的單程太空旅行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "rate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:38:09.271Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "rate",
+    "source_review": {
+      "answer": "rate",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225431",
+          "title": "萊卡的單程太空旅行《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.840Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

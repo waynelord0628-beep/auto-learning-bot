@@ -149,13 +149,27 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "去除臭氧",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.257Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "吸附力弱",
+    "source_review": {
+      "answer": "吸附力弱",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.483Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a2ec8c3cab5efb27943f485a9f2d65b6775ed042e494e689ca3590bc9b94a96f",
@@ -166,13 +180,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.484Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "18a24f81e14f031164ca06143708b2d64266695ea35c30c65953d7704706919d",
@@ -183,13 +211,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.485Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4690040293c0e54f263d4299cf69a4fe4806b5dbbb17447db5ed83341875209c",
@@ -202,13 +244,27 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "牛",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.264Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "牛",
+    "source_review": {
+      "answer": "牛",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.485Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f3187ef9766551970293419772ea042e47236850442b34a4388b72881af7177f",
@@ -221,13 +277,27 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "十一蒜",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.266Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "七月瓜",
+    "source_review": {
+      "answer": "七月瓜",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.486Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ea16d0e14ea7fe9955e8cf3eb5fdb418d87ed8677fb40b74c0c5519d124c40ec",
@@ -240,13 +310,27 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "碳標籤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:08.267Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "碳標籤",
+    "source_review": {
+      "answer": "碳標籤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.487Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "190f686500d1dfd032aa2c079a71fbf619d00c4e593f64f5ef0ff4ec698fe759",
@@ -257,13 +341,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:42.365Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.488Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0855ff33340265bd2f99ff16ddf4327e8a36546d82271e2d8ca29fb3cb33861e",
@@ -293,13 +391,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:42.366Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.488Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "253598c8c78e37201032188faec0e72b2047b025a0581b2f56c67fefc6bcc71c",
@@ -310,13 +422,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:38:42.367Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.489Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "51006ecfcdac2802b633efb292f1895e0dd66fcc3eb492a1df870655e1a6b5c3",
@@ -329,13 +455,27 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "營養價值比較少",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:39:11.687Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "營養價值比較少",
+    "source_review": {
+      "answer": "營養價值比較少",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.490Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fba646a4c43897d8690dd9540bf57e16c5688c684450469e53eed40647114022",
@@ -346,13 +486,27 @@
     ],
     "type": "是非",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:39:11.690Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.490Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "03e3ea63d55b7fddb32bb6384803194350ce9e5d42d8ec3bc77f2322ae6029a0",
@@ -365,12 +519,26 @@
     ],
     "type": "單選",
     "course": "低碳蔬食活力GO",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "玉米：充滿澱粉的水果",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T11:39:11.690Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "冬瓜：爬藤類蔬果",
+    "source_review": {
+      "answer": "冬瓜：爬藤類蔬果",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333021004",
+          "title": "低碳蔬食活力GO《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.491Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

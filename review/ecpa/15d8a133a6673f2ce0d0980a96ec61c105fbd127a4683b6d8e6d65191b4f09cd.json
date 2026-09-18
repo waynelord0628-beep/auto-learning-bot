@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "內政部",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "行政院",
+    "source_review": {
+      "answer": "行政院",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.618Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4a868cafd446957178480d8ead2be476c7ac2963fd7ac36c9ad69c3e24387dcb",
@@ -27,13 +45,31 @@
     ],
     "type": "是非",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.425Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.619Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "67499aefc54c5da25e2b0ce7281d2a196c07a675115ebe8fb7382dbfdf617855",
@@ -44,13 +80,31 @@
     ],
     "type": "是非",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.620Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2787135aa7adc92e75b6f39651d31698696c87d1b0932cb0c49a67e0b377d4fd",
@@ -63,13 +117,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在政治、經濟、文化及都會區域發展上，有特殊需要之地區",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.427Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "在政治、經濟、文化及都會區域發展上，有特殊需要之地區",
+    "source_review": {
+      "answer": "在政治、經濟、文化及都會區域發展上，有特殊需要之地區",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.622Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1eee47227877948903b9ff667c2c3f8bf11650fe3d2b6352c2429bcd5b184a06",
@@ -82,13 +154,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "福利",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.428Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "福利",
+    "source_review": {
+      "answer": "福利",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.623Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "03abd8424a44aade5115350f978b4d4463a0f0a8345cb97ae85f856a4da53494",
@@ -101,13 +191,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民事豁免權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.428Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "民事豁免權",
+    "source_review": {
+      "answer": "民事豁免權",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.624Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f59bd72ef4fce8d3024dfdd4d5098c5eb4671d0ea48c295541d8bdced3ce3d7f",
@@ -120,13 +228,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "採個別計算",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.429Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "採個別計算",
+    "source_review": {
+      "answer": "採個別計算",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.625Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e415431d79f343689d3b82e8d8e03fc50e6969e97527560023ca2d984deec9a5",
@@ -137,13 +263,31 @@
     ],
     "type": "是非",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.430Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.626Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "758d41129c5d38642738efaa3e169de300e9c0e28d90d041ae65a620837ec09d",
@@ -156,13 +300,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "糾正",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.431Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "公務員懲戒",
+    "source_review": {
+      "answer": "公務員懲戒",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.628Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6e720d3466e94970f45a796d9388294dc4238509f18a4796f17a601e172e9010",
@@ -173,13 +335,31 @@
     ],
     "type": "是非",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:29:41.431Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.629Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "32b519b5131820b9b34504d9d51395d91abfadd2e9a960e47560f31551d58634",
@@ -192,13 +372,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "司法院大法官會議",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:30:31.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "立法院院會",
+    "source_review": {
+      "answer": "立法院院會",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.630Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7f4104dbcbad16669eae9230f71179e9415655e30a0245193222413ec864503a",
@@ -211,13 +409,31 @@
     ],
     "type": "單選",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "復議",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:30:31.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "覆議",
+    "source_review": {
+      "answer": "覆議",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.631Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5eeb7c562d71881edce44968a57d342720b09de0bb2a541229605677e7fd3ae7",
@@ -228,12 +444,30 @@
     ],
     "type": "是非",
     "course": "政府組織與地方自治（含地方制度法）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T02:30:31.662Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332021746",
+          "title": "政府組織與地方自治（含地方制度法）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408613",
+          "title": "政府組織與地方自治（含地方制度法）(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.632Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

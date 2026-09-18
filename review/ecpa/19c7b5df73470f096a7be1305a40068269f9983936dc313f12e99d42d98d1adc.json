@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.436Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.655Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8311afa66c9e78cb25c68504da7a984a7f3054bf893da8667c25f51f26322578",
@@ -156,13 +174,31 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "風險=(弱點+威脅)x發生機率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.438Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "風險=弱點x威脅x發生機率x資產價值",
+    "source_review": {
+      "answer": "風險=弱點x威脅x發生機率x資產價值",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.657Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "db1636864c73056e659611cf8b143af530d190a7e5633e237b24e66cc3764e23",
@@ -175,13 +211,31 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "僅需密碼設定的很長很複雜，就不用擔心帳密撞庫攻擊。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "僅需密碼設定的很長很複雜，就不用擔心帳密撞庫攻擊。",
+    "source_review": {
+      "answer": "僅需密碼設定的很長很複雜，就不用擔心帳密撞庫攻擊。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.658Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f194e7fb7a573926d6a75bdb03e96e5fa45438c95d90ed7599a680eeb11df33c",
@@ -194,13 +248,27 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.445Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.659Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "49f73e8be41aec33779aa66372e04f32277529a59488946fec22512980ca73bc",
@@ -213,13 +281,31 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.446Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.660Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2737306d76ac6bd26acd312fc911e3a1ab0294732253bce2c4d5b4f309d11979",
@@ -232,12 +318,30 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "針對【帳號填充攻擊】，僅需密碼設定的夠長夠複雜，就一定安全!",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "針對【帳號填充攻擊】，僅需密碼設定的夠長夠複雜，就一定安全!",
+    "source_review": {
+      "answer": "針對【帳號填充攻擊】，僅需密碼設定的夠長夠複雜，就一定安全!",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.661Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

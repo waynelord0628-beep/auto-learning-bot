@@ -114,13 +114,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.315Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.799Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "acd1c6d2fe628fe62cad3197a10c13d4d2563c8c575e598ba95ab85e7a972c8f",
@@ -131,13 +149,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.316Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.800Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "eae44745ff0f57e166ecf15c63cbed2099c6f878387c475715df3be6a64cf793",
@@ -150,15 +186,29 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.317Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-15T08:19:41.345Z"
+    "retry_after": "2026-09-15T08:19:41.345Z",
+    "resolved_answer": "機敏文件可由公務人員使用生成式AI撰寫 。",
+    "source_review": {
+      "answer": "機敏文件可由公務人員使用生成式AI撰寫 。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.802Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a2c0053e4e365b346400c1634d50bea9bd3b531e1a360c702969b66d625e5ee4",
@@ -169,13 +219,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.317Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.804Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "af37cb71c7c9aaa3b660d7ac55bc074117b0d15784424932912727836565ba7f",
@@ -188,13 +256,31 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "會拒絕使用者關閉聊天記錄功能，以利資料可以有效被提供作為訓練基礎",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.318Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "會拒絕使用者關閉聊天記錄功能，以利資料可以有效被提供作為訓練基礎",
+    "source_review": {
+      "answer": "會拒絕使用者關閉聊天記錄功能，以利資料可以有效被提供作為訓練基礎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.805Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "98842390bda911cf49cbc72a785090525497ed7db67f178675172a512e63645d",
@@ -205,13 +291,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.319Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.807Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5cd375aa18d5ece35a02bd3d26912c7f2f1511e5aba510459b7ef0f1256996e9",
@@ -222,13 +326,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:21.320Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.808Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4fbf9094bdfa400ca2f46ca7ecdad8663ac08ca226a5aa3d4fb3b08532b4fc27",
@@ -241,13 +363,31 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ChatGPT用AI老師來訓練自己，因此身段更軟、 道德更高、胡說八道的機率更低",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:57.734Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "只要運用少量電腦運算資源就能生成完整的回答",
+    "source_review": {
+      "answer": "只要運用少量電腦運算資源就能生成完整的回答",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.810Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1da246a9ef79c96d2abce3aeb7d4479a8abc213c3ed8acae644fa5280e35fe6d",
@@ -260,13 +400,31 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "無法創作",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:57.745Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "無法創作",
+    "source_review": {
+      "answer": "無法創作",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.811Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2dfe39333cf3bdca3a30d2233e0b7a2757fc5c86a3223479e27c8975038a0c99",
@@ -277,13 +435,31 @@
     ],
     "type": "是非",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:57.746Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.813Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "eda8426c4a9cb6cd91faafcf7c83db9348ed490bbbf9587ced4b711949c0d629",
@@ -296,12 +472,30 @@
     ],
     "type": "單選",
     "course": "人工智慧應用與實務（基礎篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "所有人已採取合理之保密措施者。（秘密性）",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T20:25:57.747Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "屬個人獨有之創作而尚未被他人所研發成功者。（原創性）",
+    "source_review": {
+      "answer": "屬個人獨有之創作而尚未被他人所研發成功者。（原創性）",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342689837",
+          "title": "人工智慧應用與實務（基礎篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_93.html",
+          "title": "「人工智慧應用與實務（基礎篇）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.814Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

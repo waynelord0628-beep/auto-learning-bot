@@ -46,13 +46,31 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公務人員保障暨培訓委員會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:42:43.885Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "服務機關的安全衛生防護委員會",
+    "source_review": {
+      "answer": "服務機關的安全衛生防護委員會",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526073",
+          "title": "職場霸凌防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01711897462.html",
+          "title": "「職場霸凌防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.799Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "72208b4f3c0241c982088b79df9a6bfa30bea15218f5e04c909b70a7eb5303af",
@@ -65,13 +83,31 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "7日內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T09:42:43.886Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "10日內",
+    "source_review": {
+      "answer": "10日內",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526073",
+          "title": "職場霸凌防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01711897462.html",
+          "title": "「職場霸凌防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.801Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1ccf80708bd127ec775b21bef9cff17f7959a6a24a513626453d5db9923ab503",
@@ -103,13 +139,31 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "必須造成身體上的傷害才算構成。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:25:51.406Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "必須造成身體上的傷害才算構成。",
+    "source_review": {
+      "answer": "必須造成身體上的傷害才算構成。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526073",
+          "title": "職場霸凌防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01711897462.html",
+          "title": "「職場霸凌防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.803Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "28e1c1842b8a0f2fa5d353dee9de7a24324298258a278f0c18744c45f43d0286",
@@ -141,13 +195,31 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:25:51.408Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526073",
+          "title": "職場霸凌防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01711897462.html",
+          "title": "「職場霸凌防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.804Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f6293e2315259736a0240fc7bedc61a55b066cae86d01d825914ebb8d0209856",

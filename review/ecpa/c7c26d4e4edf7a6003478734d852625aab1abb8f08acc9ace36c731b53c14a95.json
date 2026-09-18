@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "invited",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.549Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "invited",
+    "source_review": {
+      "answer": "invited",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.434Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c1a5235c719f25e0e85756e8579400be3eb5bc455944e5a893a2fc4b7af957d",
@@ -135,13 +153,31 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "display",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.550Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "display",
+    "source_review": {
+      "answer": "display",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.435Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e06a11e2982751cc99339889a17842e7540c0eb5f9bb67904fa4fc3dc15b55b9",
@@ -152,13 +188,31 @@
     ],
     "type": "是非",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.552Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.436Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d8d5460aea75cffbc973ae8034ef19480b81fe638c94c6770a6ca0e3dd782b23",
@@ -171,13 +225,31 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "source",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "source",
+    "source_review": {
+      "answer": "source",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.437Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ff29484d97555d6fcaa4c740d93817d790386784b16fc51cd378fc2ac1a6b1e9",
@@ -190,13 +262,31 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "amateur",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.554Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "amateur",
+    "source_review": {
+      "answer": "amateur",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.438Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "59cfa3facefc289301e0a7f7e9f26794308b5fcccc9ffd7239b49c3b0338bed9",
@@ -209,13 +299,31 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "president",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.555Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "president",
+    "source_review": {
+      "answer": "president",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.439Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "eaeca23841de612fb11d670d1cdaf20a7e324a9631ac18e8773f7e8924061a7f",
@@ -228,12 +336,30 @@
     ],
     "type": "單選",
     "course": "隨選即聽 ─ Podcast",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "interrupted",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:38:57.557Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "interrupted",
+    "source_review": {
+      "answer": "interrupted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225539",
+          "title": "隨選即聽 ─ Podcast《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/podcastee.html",
+          "title": "「隨選即聽 ─ Podcast」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.440Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

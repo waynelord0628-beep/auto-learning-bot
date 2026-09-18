@@ -116,13 +116,31 @@
     ],
     "type": "是非",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.229Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.691Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4b25f9168239a9b25353d8b35892b32e3ca8a0388355e044b615c6cc01fa8edc",
@@ -135,13 +153,31 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "blouse",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.229Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "blouse",
+    "source_review": {
+      "answer": "blouse",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.692Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8ce65f5e04a27cf5fa8a1c68b7c0eda44a23f1ebdb87fe59ff83dce50b1b5594",
@@ -154,13 +190,31 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "temperature",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.230Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "temperature",
+    "source_review": {
+      "answer": "temperature",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.693Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e5950d632cc96dd3c9f090f13b59244ef0ddbdacc0ab751146ca409947948a03",
@@ -173,13 +227,31 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "labels",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.231Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "labels",
+    "source_review": {
+      "answer": "labels",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.694Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c8a5e6f12a6ff2e2dc045a2a0ef4028d46548adaa830de0a37507c693ebcd0ca",
@@ -192,13 +264,31 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "laundry",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "laundry",
+    "source_review": {
+      "answer": "laundry",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.695Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7305196cd2107e0c76616c477babb76d52d41379e50633ea0a554466f9df5fb1",
@@ -211,13 +301,31 @@
     ],
     "type": "單選",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ruined",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.235Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "ruined",
+    "source_review": {
+      "answer": "ruined",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.696Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0830a5deab41246647dc010af93dc56f159fc39461909b72a8ff298de69aab86",
@@ -228,12 +336,30 @@
     ],
     "type": "是非",
     "course": "看懂標籤　洗衣不再失誤！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T08:25:23.236Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225471",
+          "title": "看懂標籤 洗衣不再失誤！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_6.html",
+          "title": "「看懂標籤 洗衣不再失誤！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.698Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

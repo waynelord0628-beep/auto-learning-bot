@@ -110,13 +110,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.419Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.696Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "631775dd456f3430cc0397c4ed12917f5ad91d8c3d1418e11698ed766436866a",
@@ -127,13 +145,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.419Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.697Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5bd1beace7ee6782da86b5bb7d3d6ad915bfd75c5575d340c8a807d039871a33",
@@ -146,13 +182,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不斷給予建議",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "不斷給予建議",
+    "source_review": {
+      "answer": "不斷給予建議",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.699Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2110e0ad0f3083754cd1ead0d51ed33baa596db03c8536af2f948d8c5c970b27",
@@ -163,13 +217,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.700Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9d2d1cac0ffb98e369c4c525fa44a803d75837648393152eea132c06cd22dc71",
@@ -182,13 +254,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.701Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ac1bde3efbee18bd4bf29b1b384ede50491dd2ae4a683ae88b27577f784e5748",
@@ -199,13 +289,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.703Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ee6add231764aa7a818ea9ca037fdaf9dc49f231853daad69aaa2c38dbfd68af",
@@ -216,13 +324,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:56:38.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.705Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "afcffcbde502fadd275201b78c26e223709d8682f0b6897afde9e7a60ee16030",
@@ -233,13 +359,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.842Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.706Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2da59138689a3e08754cfe4c1210143afc9412370a05e262fd9bb74f27839b19",
@@ -252,13 +396,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1925",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1925",
+    "source_review": {
+      "answer": "1925",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.707Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "12cb95deb808c718718bc7d83486a8e9edef03cea733ba09dc00724ea7c0f66b",
@@ -271,13 +433,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "過度抽菸或喝酒",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "過度抽菸或喝酒",
+    "source_review": {
+      "answer": "過度抽菸或喝酒",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.709Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c8ccd060963c8c5940b2ea03c6130888c283d1cae75330866ac974e5d0ec157",
@@ -290,13 +470,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "看聽轉牽走",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.845Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "看聽轉牽走",
+    "source_review": {
+      "answer": "看聽轉牽走",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.710Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "936d6783393a8862b56d987b13527f33449e72b22f8500321c35e6f40b464847",
@@ -309,13 +507,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "整體績效進步",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.846Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "整體績效進步",
+    "source_review": {
+      "answer": "整體績效進步",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.712Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7d622f26f40c5948285a802bceced2d729cba2f4a244698af366eb0e373f8125",
@@ -328,13 +544,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:13.847Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.713Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d17433617e80ea18a8a714161a0dd5fe50ee81a57d2bc5b4258b566466115c63",
@@ -345,13 +579,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:43.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.718Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c28870510c5b3f9c6e108fea100dfbe47048b34e3c73263e307f4892ee5d5e34",
@@ -362,13 +614,31 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T19:57:43.545Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.720Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "144a4d5589d4406de6c8e51dc13e4b906bde1b2eca72a98eeff5190846dad0bc",
@@ -381,13 +651,31 @@
     ],
     "type": "單選",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建議就醫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:21:52.934Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "建議就醫",
+    "source_review": {
+      "answer": "建議就醫",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.722Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "811df21fe6bd6e77153100705b83bcb9b6895416962a0921c56e2ebfcd905c32",
@@ -398,12 +686,30 @@
     ],
     "type": "是非",
     "course": "心靈守門員",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:22:21.990Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336782869",
+          "title": "心靈守門員《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_335.html",
+          "title": "「心靈守門員」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.723Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

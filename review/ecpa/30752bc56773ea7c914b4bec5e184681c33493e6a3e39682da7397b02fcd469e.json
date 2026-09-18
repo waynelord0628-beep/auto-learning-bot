@@ -114,13 +114,31 @@
     ],
     "type": "是非",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.064Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.750Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6de501d824d48e743e48ba165b624438bf6e82748a64f190cce91ba8679d955b",
@@ -133,13 +151,31 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "outlining",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.065Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "outlining",
+    "source_review": {
+      "answer": "outlining",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.751Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "baf1f27224be25ace53940157b72cf8176ecc3c467430175ee8cd25a711c0436",
@@ -152,13 +188,31 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "overtime",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.065Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "overtime",
+    "source_review": {
+      "answer": "overtime",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.752Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f5ca6f38c8c2db70eb0a07239657e94874e693e8c7cfc8c3c23806c5a79b98bd",
@@ -171,13 +225,31 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "productive",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.066Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "productive",
+    "source_review": {
+      "answer": "productive",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.754Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9e12586b2f82863d1c89b3cfe001b2c1bd837b244bd190fee90a547d4b316901",
@@ -190,13 +262,31 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "constructive",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.066Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "constructive",
+    "source_review": {
+      "answer": "constructive",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.755Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "928ab6ea607eeb34cc24df70f3a1a9d44a27157eb175436ad3cbf8fdda08ed83",
@@ -209,13 +299,31 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "chat",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.067Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "chat",
+    "source_review": {
+      "answer": "chat",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.756Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ad18c9a61e5c7dd5742e495a17d86a988099e3427aa763287148d559a1128fdc",
@@ -228,12 +336,30 @@
     ],
     "type": "單選",
     "course": "不會吧！又要開會？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "meaningful",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:22.067Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "meaningful",
+    "source_review": {
+      "answer": "meaningful",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262711",
+          "title": "不會吧！又要開會？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_321.html",
+          "title": "「不會吧！又要開會？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.757Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

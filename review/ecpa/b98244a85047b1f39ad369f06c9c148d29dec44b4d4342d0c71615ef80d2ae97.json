@@ -29,15 +29,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "尊重固有尊嚴",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:30.998Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T16:19:38.642Z"
+    "retry_after": "2026-09-15T16:19:38.642Z",
+    "resolved_answer": "尊重固有尊嚴",
+    "source_review": {
+      "answer": "尊重固有尊嚴",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.350Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c56b0843c96d76b3f48da9ed7e430e877212e373ccd9324d25c5ee2902f166d6",
@@ -50,15 +68,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第27條，工作與就業。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:30.999Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T16:19:38.642Z"
+    "retry_after": "2026-09-15T16:19:38.642Z",
+    "resolved_answer": "第27條，工作與就業。",
+    "source_review": {
+      "answer": "第27條，工作與就業。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.351Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "86f9cc72180ceb4b86d5e7a1b3b7524cb0fa29dd35b8abef0b8fceca7b7d82b2",
@@ -71,15 +107,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第13條，獲得司法保護。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:31.000Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T16:19:38.642Z"
+    "retry_after": "2026-09-15T16:19:38.642Z",
+    "resolved_answer": "第13條，獲得司法保護。",
+    "source_review": {
+      "answer": "第13條，獲得司法保護。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.353Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4b5b080662aaf86e04963e9b972d4932a7a02c30b6f5b5718f580484c0b0b0d2",
@@ -147,13 +201,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:56:31.003Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.354Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5fc066eca8c91e4f3812fed7c525598bbf594b99121e46f1e89f175ab67e0b7a",
@@ -200,13 +272,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.230Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.357Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "33095078f8063cf1d00ef2af65a26a10e8801dc5b1eeee47321679b95a1bb42f",
@@ -236,13 +326,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.359Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "09b479ba209f22539fd1362051f44103ce952c3403d87030127e70fbc8e7cb89",
@@ -253,13 +361,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.233Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.360Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6863d86429b8e7cf22e9e0fc5895b65ef2cf6604f756088f2ee48bfc5f1804c8",
@@ -272,15 +398,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第11條，危險情況與人道緊急情況。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:06.233Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T16:19:38.642Z"
+    "retry_after": "2026-09-15T16:19:38.642Z",
+    "resolved_answer": "第28條，適足之生活水準與社會保障。",
+    "source_review": {
+      "answer": "第28條，適足之生活水準與社會保障。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.362Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c0d8bd4400dc2464680a2523f6543dfeac4dcdb9953ca102d3110973b10f385a",
@@ -293,13 +437,31 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "西元2006年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:57:36.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "西元2006年",
+    "source_review": {
+      "answer": "西元2006年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.364Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7619ea0e700da70bca5d31b48d3795bb2b3dd557cf4e20351c4ef9a72faf973d",
@@ -348,13 +510,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T02:17:08.942Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15193940027",
+          "title": "身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/crpd3ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第3講：保障身心障礙者權利及尊嚴(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.365Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0d9449b994da9bdc7d520c2afaff67d7369d97f3bb8e0dce5e2db5d01ba095ba",

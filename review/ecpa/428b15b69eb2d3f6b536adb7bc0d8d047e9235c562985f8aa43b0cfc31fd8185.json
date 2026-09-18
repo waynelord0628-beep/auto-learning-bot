@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "課後活動&去露營吧",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "match",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T17:34:52.235Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "match",
+    "source_review": {
+      "answer": "match",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017029",
+          "title": "課後活動&去露營吧《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.173Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9a9abfb3353a13738dd550148bc7bac115a53951c7d3e02110b3ca53373ba5f0",
@@ -156,13 +170,27 @@
     ],
     "type": "單選",
     "course": "課後活動&去露營吧",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "chess",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T17:34:52.236Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "chess",
+    "source_review": {
+      "answer": "chess",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017029",
+          "title": "課後活動&去露營吧《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.174Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "87ae8e349a61e821a5f2c0b3cef36337ad03f7102bf40d2737607aed25399e4e",
@@ -175,12 +203,26 @@
     ],
     "type": "單選",
     "course": "課後活動&去露營吧",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "basketball",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T17:34:52.238Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "basketball",
+    "source_review": {
+      "answer": "basketball",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017029",
+          "title": "課後活動&去露營吧《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.174Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

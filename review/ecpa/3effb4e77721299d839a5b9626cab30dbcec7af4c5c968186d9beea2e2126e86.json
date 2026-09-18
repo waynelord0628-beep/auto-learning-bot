@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "feels",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "feels",
+    "source_review": {
+      "answer": "feels",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.846Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bd9e5688ddb5414fdd9acccfb4f1aa8be782368c9b57bbbb33e659eeb9237dca",
@@ -137,13 +155,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "strawberries",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "strawberries",
+    "source_review": {
+      "answer": "strawberries",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.847Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3c663cae5c77a1faba145a25096bf5d2337dd8ec7002e0a423180f7a7387b39f",
@@ -156,13 +192,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "divided",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "divided",
+    "source_review": {
+      "answer": "divided",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.848Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5abb6356d0b3d13fe05820d3630f14f57f652c263cd17e3096ff7398859491a2",
@@ -175,13 +229,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "choices",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "choices",
+    "source_review": {
+      "answer": "choices",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.849Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f9291d289b907b91b3e671d60355cd675f48e17613df9f4148593c0d9faf8bac",
@@ -194,13 +266,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "That'll be",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "That'll be",
+    "source_review": {
+      "answer": "That'll be",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.851Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6e4f5e1f7c6ba73060db580bbbae6e7f2d20b74589fff2c2b39fa1fbb0db5317",
@@ -213,13 +303,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "tried",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "tried",
+    "source_review": {
+      "answer": "tried",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.852Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "495b84e566ecb9cb1c493e32e37cc58afba76e656ba13bec146753f679ccdf0d",
@@ -232,13 +340,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "get",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:47:33.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "get",
+    "source_review": {
+      "answer": "get",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.853Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cbacdaa308986c52c18124491c14aeba1bb04f48ff5cf8a4614c0535805fcbee",
@@ -251,13 +377,31 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "mushrooms",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:48:17.812Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "mushrooms",
+    "source_review": {
+      "answer": "mushrooms",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.854Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d356eaa034a0fb31bfe1a24279a5b52fed795207efa9ea2c454cc0d3e2a8ef43",
@@ -270,12 +414,30 @@
     ],
     "type": "單選",
     "course": "樂享火鍋&夏季美味甜點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "end up",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T00:48:17.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "end up",
+    "source_review": {
+      "answer": "end up",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911649",
+          "title": "樂享火鍋&夏季美味甜點《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_86.html",
+          "title": "「樂享火鍋&夏季美味甜點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.856Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

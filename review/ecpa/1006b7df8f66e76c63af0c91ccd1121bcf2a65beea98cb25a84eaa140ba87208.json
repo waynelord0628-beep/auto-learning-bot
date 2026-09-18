@@ -82,13 +82,31 @@
     ],
     "type": "單選",
     "course": "全民國防教育-當前我國國防政策與全民防衛",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民防團",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-17T18:14:37.110Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "民防團",
+    "source_review": {
+      "answer": "民防團",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333888979",
+          "title": "全民國防教育-當前我國國防政策與全民防衛《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_23.html",
+          "title": "「全民國防教育-當前我國國防政策與全民防衛」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.566Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "53013ec7132d5d7948aed84984f8c073725af1ccae41fe9d553876a65a68dcf6",
@@ -120,13 +138,31 @@
     ],
     "type": "單選",
     "course": "全民國防教育-當前我國國防政策與全民防衛",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民防團",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-17T18:14:37.111Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "防護（聯合）團",
+    "source_review": {
+      "answer": "防護（聯合）團",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333888979",
+          "title": "全民國防教育-當前我國國防政策與全民防衛《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_23.html",
+          "title": "「全民國防教育-當前我國國防政策與全民防衛」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.567Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f7606e56a6fb42b722382f88fcae133a46b233af75bf21a592694eac1ff5b01a",

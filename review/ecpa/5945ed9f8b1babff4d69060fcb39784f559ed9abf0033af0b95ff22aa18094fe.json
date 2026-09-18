@@ -225,13 +225,31 @@
     ],
     "type": "單選",
     "course": "AI 虛假資訊資安風險",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Misinformation 與 Disinformation",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.016Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Misinformation 與 Disinformation",
+    "source_review": {
+      "answer": "Misinformation 與 Disinformation",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347523189",
+          "title": "AI 虛假資訊資安風險《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ai-ee.html",
+          "title": "「AI 虛假資訊資安風險」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.329Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9ebcf7674dd3ba41bc75b5a2009f7ce48ed09e33e3bd48adc1eb52b9c8a5b816",
@@ -244,12 +262,30 @@
     ],
     "type": "單選",
     "course": "AI 虛假資訊資安風險",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "引起不必要的恐慌",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.018Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "引起不必要的恐慌",
+    "source_review": {
+      "answer": "引起不必要的恐慌",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347523189",
+          "title": "AI 虛假資訊資安風險《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ai-ee.html",
+          "title": "「AI 虛假資訊資安風險」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.330Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

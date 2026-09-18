@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "防衛固守，重層嚇阻",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.043Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "防衛固守，重層嚇阻",
+    "source_review": {
+      "answer": "防衛固守，重層嚇阻",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.666Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "93f14465c4a46c7b479d193f0996e385fa78cf0b2fec1c02865c9c24197175fa",
@@ -137,13 +155,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全民防衛動員準備業務會報",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.043Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "全民防衛動員準備業務會報",
+    "source_review": {
+      "answer": "全民防衛動員準備業務會報",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.667Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c626694ca67734205d859e8914f63e3d5feaac1f48a4a6771d9a1740ec10f258",
@@ -156,13 +192,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "混合戰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.044Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "混合戰",
+    "source_review": {
+      "answer": "混合戰",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.669Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a6010cd86b1ad0aa61bdae7755b1f418d6b9b09a06a60fb06118e3f4d64c1254",
@@ -174,13 +228,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第一島鏈",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.044Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "第一島鏈",
+    "source_review": {
+      "answer": "第一島鏈",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.672Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7887dc747d69c3bfd7f6568515ca8b38378567c0389c06deb72aae2a3577d5bd",
@@ -193,13 +265,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "總體作戰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.045Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "總體作戰",
+    "source_review": {
+      "answer": "總體作戰",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.673Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b96f5d6bd1e723062d734141ca89e4963ff48054cd7bc83584639cbd4b307528",
@@ -212,13 +302,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海上人道救援",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.046Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "海上人道救援",
+    "source_review": {
+      "answer": "海上人道救援",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.675Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b5558d9637c11c94b58e7e90abc54d128e23739da1ecbdfe8b7a4829ff1e596b",
@@ -250,13 +358,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.839Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1年",
+    "source_review": {
+      "answer": "1年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.678Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "58e7404a139ac2c43931d4798f47c31d726b4a33742ddf2d88baa3e6b524b756",
@@ -269,13 +395,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "法律戰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.842Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "法律戰",
+    "source_review": {
+      "answer": "法律戰",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.680Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c5d762ef9d934a47ec030c6e13aef520163da17a834032e815f0bad0ba2ce2a",
@@ -288,13 +432,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "反介入/區域拒止",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.843Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "反介入/區域拒止",
+    "source_review": {
+      "answer": "反介入/區域拒止",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.681Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "11715eae29c7e67524d63edcfda3d12a1629a1bab85c871ff01341c2a9481ab7",
@@ -307,13 +469,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "實戰化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "實戰化",
+    "source_review": {
+      "answer": "實戰化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.683Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8965cef4c03e79ee24927c54ad7f62269f76b7f99660b9a718a835855a8c17a6",
@@ -326,13 +506,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "社會福利",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "社會福利",
+    "source_review": {
+      "answer": "社會福利",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.685Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6bf125cdb10d33f432aa6ed1f48c2b0ff6e5dfe1e28dd16aff9c0f30c5097e53",
@@ -345,13 +543,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民防系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:14.845Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "民防系統",
+    "source_review": {
+      "answer": "民防系統",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.687Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c7fd9a28a4c73772dbeed2c01add3c413ad6ea1e3a82ecabc6f9fd9d8a118546",
@@ -364,13 +580,31 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全球化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:44.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "全球化",
+    "source_review": {
+      "answer": "全球化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.688Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "53c4d2857f8738b94dba48a8647adefbcaa7d35fa61732e2031e3652324bb843",
@@ -383,12 +617,30 @@
     ],
     "type": "單選",
     "course": "全民國防概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民安演習",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:01:44.552Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "民安演習",
+    "source_review": {
+      "answer": "民安演習",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347157417",
+          "title": "全民國防概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_96.html",
+          "title": "「全民國防概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.690Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -116,13 +116,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "refused",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.666Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "refused",
+    "source_review": {
+      "answer": "refused",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.614Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "efc0632c857d538031851f810b8796d5331d3cab3b9900605208424ddbb4bfcc",
@@ -135,13 +149,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "contains",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.666Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "contains",
+    "source_review": {
+      "answer": "contains",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.614Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "607d14c81da6dec6a210cd964b93169e6de0d5da8c40a4eee27dc1c9515181b7",
@@ -154,13 +182,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "debate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.667Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "debate",
+    "source_review": {
+      "answer": "debate",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.615Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ee5c674f33f40d2a5b27322c6ed436c24095249f0bb5a495603baf1d6213b04d",
@@ -171,13 +213,27 @@
     ],
     "type": "是非",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.668Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.615Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "32deb01612c401013f3cb3d63ffdc0d3555558cb9c6d745b76e843e8645b29e8",
@@ -190,13 +246,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "drugstore",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.669Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "drugstore",
+    "source_review": {
+      "answer": "drugstore",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.616Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "74930da73141dbc9015a9137481c477d5e2d1db281e14126bade95048509d172",
@@ -209,13 +279,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "politics",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.669Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "politics",
+    "source_review": {
+      "answer": "politics",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.616Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7d334646084813fc1cecc7d2da9d4f243628a92ee1da69f045fcffbef1fe54a0",
@@ -228,12 +312,26 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(可樂)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "century",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:00:52.670Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "century",
+    "source_review": {
+      "answer": "century",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331206991",
+          "title": "十萬個冷知識(可樂)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.617Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

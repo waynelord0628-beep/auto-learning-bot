@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "rough",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.612Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "rough",
+    "source_review": {
+      "answer": "rough",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.467Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "268e71201d6233dd0483baa901d495532189d06e8178964da8c2205d6e39f161",
@@ -137,13 +155,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "wit",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.613Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "wit",
+    "source_review": {
+      "answer": "wit",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.469Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c5476bb5b8d3c07aa7dbd155f930829fa8e3e0a6a3ef97c5358377cf8818947f",
@@ -156,13 +192,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "irrigation",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.613Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "irrigation",
+    "source_review": {
+      "answer": "irrigation",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.470Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "08e6a4a7f41f1c8f0470f8d60f572ec1dccc9a9484875de836285a6020d995a4",
@@ -175,13 +229,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "communication",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "communication",
+    "source_review": {
+      "answer": "communication",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.472Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "df9c2d1dac721b5052a17ee178f2c0490a429f92b692113e2c5b47828db32a14",
@@ -194,13 +266,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "sentimental",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "sentimental",
+    "source_review": {
+      "answer": "sentimental",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.473Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e8e29c825127f8ee03108da9ed0344949321d9d3732b3cd63c2fa987d52fe38b",
@@ -213,13 +303,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "circumstances",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "circumstances",
+    "source_review": {
+      "answer": "circumstances",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.475Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6ab4aad2fd251743eed7f624c9a31bddb7460c2ae3f9ef7176ee745722e29108",
@@ -232,13 +340,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "obstacle",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:35:37.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "obstacle",
+    "source_review": {
+      "answer": "obstacle",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.476Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2be44307a5acce8abc645526ccf9f42c813e2f73905693cac2c971215951ceaa",
@@ -251,13 +377,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "destructive",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:36:18.645Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "destructive",
+    "source_review": {
+      "answer": "destructive",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.478Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5a09e6c8cfb808d5fa28f830692f3c37481e3406e64f6a1e0b789d8382986f4b",
@@ -270,13 +414,31 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "unwind",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:36:18.648Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "unwind",
+    "source_review": {
+      "answer": "unwind",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.479Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0495d2fdb71ee7fc668576161eb64ad1a8335ba9d61e9f495a27dc8b97660ba4",
@@ -289,12 +451,30 @@
     ],
     "type": "單選",
     "course": "物種攻防戰&漆彈大戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "astronomical",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T19:36:53.831Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "astronomical",
+    "source_review": {
+      "answer": "astronomical",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051017",
+          "title": "物種攻防戰&漆彈大戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_42.html",
+          "title": "「物種攻防戰&漆彈大戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.481Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

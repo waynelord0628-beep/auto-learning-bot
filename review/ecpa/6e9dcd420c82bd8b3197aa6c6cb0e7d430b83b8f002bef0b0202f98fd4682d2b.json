@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "hurdles",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.177Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "hurdles",
+    "source_review": {
+      "answer": "hurdles",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.601Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9f20d6dd564202d49002799258de34cd4377ff798f2f93ef3330e80793ecd2a9",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "retail",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "retail",
+    "source_review": {
+      "answer": "retail",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.603Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "559bc295aca2ca0bec213ec8f5f16199df3b60f8ea19b5ff9a9c905cfbdc0ab2",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "drawbacks",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "drawbacks",
+    "source_review": {
+      "answer": "drawbacks",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.604Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cc1f17f1553902a6453b4682b6cc759b88c530e5e1698a85a5591bec89894a87",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "comparable",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "comparable",
+    "source_review": {
+      "answer": "comparable",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.605Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "40ebc665c4e5d8535a4915ebe62c3a2709175bc788b7768da362d5294e98cf3b",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "dispense",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "dispense",
+    "source_review": {
+      "answer": "dispense",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.606Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1eb2199b96635aaebe8e477bcba26c0f36cd0856648b86ae29066a92df02e8e9",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "streaking",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "streaking",
+    "source_review": {
+      "answer": "streaking",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.607Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "989da75437af7f0ef3223b637fb515f0b6508bbac6ef270d9ab2071cc361b3d2",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "collision",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "collision",
+    "source_review": {
+      "answer": "collision",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.608Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fc90d3cf746748d00991cd4ab8b2e6501629c35e5a9b1b3592f61da05359752c",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "catastrophic",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "catastrophic",
+    "source_review": {
+      "answer": "catastrophic",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.609Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b33df98eeeaaeb06be8fe70307d7c551c749b0b78a2f9457aebf0b4ab60d2c59",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "reaped",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "reaped",
+    "source_review": {
+      "answer": "reaped",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/spacex.html",
+          "title": "「SpaceX星鏈計畫&未來商店」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.610Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "048c37b4b1bdcfd80b1b06bfe493ffd5d359546e086aece0b97080bde047367a",
@@ -181,12 +343,26 @@
     ],
     "type": "單選",
     "course": "SpaceX星鏈計畫&未來商店",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "tweak",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T23:38:02.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "tweak",
+    "source_review": {
+      "answer": "tweak",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051109",
+          "title": "SpaceX星鏈計畫&未來商店《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.612Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

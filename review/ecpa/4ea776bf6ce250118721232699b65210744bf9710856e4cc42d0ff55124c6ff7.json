@@ -139,15 +139,33 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "設計與現場互動的測驗題",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "resolved_answer": "設計與現場互動的測驗題",
+    "source_review": {
+      "answer": "設計與現場互動的測驗題",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359769",
+          "title": "你不能錯過的AI工作術《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.241Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3c758217098007f62caffe1adc992b6c2e4a983ddcce9e45dd6a7e7283472128",
@@ -160,15 +178,33 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "D-ID",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.734Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "resolved_answer": "D-ID",
+    "source_review": {
+      "answer": "D-ID",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359769",
+          "title": "你不能錯過的AI工作術《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.242Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "876e41ba9a50c8119764b71f30f2e81e8a7eb824657a47b237e2b388b5b87087",
@@ -181,15 +217,33 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "情感",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.735Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "resolved_answer": "轉換行動",
+    "source_review": {
+      "answer": "轉換行動",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359769",
+          "title": "你不能錯過的AI工作術《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.243Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1d16a631c0da717b562ca053feb5286e4cbdb2e8e592a244fba3adc4f578c24f",
@@ -202,15 +256,33 @@
     ],
     "type": "單選",
     "course": "你不能錯過的AI工作術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T08:30:37.735Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-15T10:19:37.505Z"
+    "retry_after": "2026-09-15T10:19:37.505Z",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359769",
+          "title": "你不能錯過的AI工作術《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0538416660.html",
+          "title": "「你不能錯過的AI工作術」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.244Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "86322fe85b904a9d92530dd806b45b583571f3349b7f96e9abd33e93177f95a3",

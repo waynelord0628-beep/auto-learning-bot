@@ -10,13 +10,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "artist",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.243Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "artist",
+    "source_review": {
+      "answer": "artist",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.005Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c63da2549f267498efdcd3a567434c6e8a18fc4866fbda6e06e43ff9942a0f65",
@@ -29,13 +43,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "employees",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "employees",
+    "source_review": {
+      "answer": "employees",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.006Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "681e2e11487f246c3a45c41557a6e711bb9a58ab81e15896de1fea7aaea3373c",
@@ -48,13 +76,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "contest",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.255Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "contest",
+    "source_review": {
+      "answer": "contest",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.006Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6e7a253ec581be199e3570d6c18ad03c99bb062a03f1ddbff9c6ef1e2117ca38",
@@ -67,13 +109,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "creative",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "creative",
+    "source_review": {
+      "answer": "creative",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.006Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "264c58f062ed68dc063ee956089fbd4ba229328981eaa7080d8a05abe756f576",
@@ -86,13 +142,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "merchant",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.277Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "merchant",
+    "source_review": {
+      "answer": "merchant",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.007Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "262ec442b940607000c5be585fcbbb9cdb56085d2cb065204e8da5bccefe8bf0",
@@ -105,13 +175,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "approves",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.278Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "approves",
+    "source_review": {
+      "answer": "approves",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.010Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cf604c1b9b24cbe9321c2be976be613fc730eb00199bc8678894ddbc70b6a28f",
@@ -124,13 +208,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "benefits",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.279Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "benefits",
+    "source_review": {
+      "answer": "benefits",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.010Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f664aa8dfbb655b0b90e60b0dc4bb6f1536317cd975d9d0dac0051a5be39105f",
@@ -141,13 +239,27 @@
     ],
     "type": "是非",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.290Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.010Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "28808f9d2b4b4062a36ce849c2dfafdc516078eaaa1c29e190da69198be64713",
@@ -160,13 +272,27 @@
     ],
     "type": "單選",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "complex",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.296Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "complex",
+    "source_review": {
+      "answer": "complex",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.011Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7cccc56e1349244f685576c7b468746f732a95a9a945f40c82af101a973ec7f1",
@@ -177,12 +303,26 @@
     ],
     "type": "是非",
     "course": "辦公室藝術品影響工作效率",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:23:44.314Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164091",
+          "title": "辦公室藝術品影響工作效率《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.011Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -8,13 +8,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:50:46.914Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.777Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f6cdd4e9cbe30d4c742ab9317b4f0403fe13299d02c09cf6181850f348310379",
@@ -27,13 +45,39 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在公約中的概念，認為身心障礙為一社會結構之議題",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:50:46.915Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "在公約中的概念，認為身心障礙為一社會結構之議題",
+    "source_review": {
+      "answer": "在公約中的概念，認為身心障礙為一社會結構之議題",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.779Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c51ccd8cefeb700ae4cd199e086256c8177f79b81df74da7a2f1b297ac21760",
@@ -101,13 +145,39 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:50:46.917Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.782Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f085f56ea078c84bca6c30f43fe457606fca02488c968e331433f6b94bcd0896",
@@ -118,13 +188,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:50:46.917Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.784Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9f95e437444a0b44b3836eb859c66049002e24e7b70b972ca0ff1f7eb017e991",
@@ -154,13 +242,31 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:50:46.918Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.786Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "356ccfe6fce784d19c0ab717ffeac35d0e10284513263d5979b857177a9f7e34",
@@ -190,13 +296,39 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:21.825Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.792Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "835d4cf3ad2a325ee8736f1ec38ee7f4c476d184a17ce3bc1b99b98050691b23",
@@ -228,13 +360,39 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:21.826Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.795Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2c3f5b5867fb14b5da4cf412a5f581b037fa36b4ff4b0aaa2a6760ffcb6ae08e",
@@ -247,13 +405,39 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:21.826Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.798Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9fef126d8070bc195ed18f6df008a59b1e291f03d257673f0b160fc8e8bfef9e",
@@ -266,13 +450,31 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "締約國應提供身障者與其他人享有同等的健康照護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:21.827Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "締約國應提供身障者與其他人享有同等的健康照護",
+    "source_review": {
+      "answer": "締約國應提供身障者與其他人享有同等的健康照護",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.801Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a3db943304a4a2fa111c84c4d4ea59bed44e655c0a667dc7c4bf529241406cee",
@@ -285,13 +487,31 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:51.393Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.804Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e5811361a2b7acf05653f3261430041b79501af567b86d79d677742636d74457",
@@ -323,13 +543,39 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T16:51:51.395Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.806Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2f10f69b585f4ed48ef32b24407248cf39e11de1a13d2746fe9a46d92cff5916",
@@ -340,13 +586,39 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第2講：不歧視",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:53:07.437Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15099686058",
+          "title": "身心障礙者權利公約(CRPD)第2講：不歧視《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/crpd2ee.html",
+          "title": "「身心障礙者權利公約(CRPD)第2講：不歧視」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.810Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1ce3d238604ce0e788d12ae22fd642836663c0e9c5bf37f795699eeeb1799e2c",

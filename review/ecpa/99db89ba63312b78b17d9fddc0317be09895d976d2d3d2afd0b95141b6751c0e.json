@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "destroyed",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.770Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "destroyed",
+    "source_review": {
+      "answer": "destroyed",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.920Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f72896233e8e273ca1dd87c482a3643e75076cef2c1dfab4e3d69c84e5d88b63",
@@ -27,13 +45,31 @@
     ],
     "type": "是非",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.771Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.922Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "da3bb36f9ef750fc76814d87c76869d0fcf568753d6de1aecf6acc6564dbc8c4",
@@ -46,13 +82,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "strategy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.771Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "strategy",
+    "source_review": {
+      "answer": "strategy",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.923Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "60a07c40a5aee77e6272c2ba6482103d1536fe414841536cd7e35d2e113f4699",
@@ -65,13 +119,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "government",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "government",
+    "source_review": {
+      "answer": "government",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.924Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "40c0c63fe19d46f0baa12abcc9e07dba0660f917da0574658c9c959128207edc",
@@ -84,13 +156,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "cheered",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "cheered",
+    "source_review": {
+      "answer": "cheered",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.925Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ab534ab979f61236b3cb33e2df8b43ce82da204fff6552cc37a2ec4636f6f69d",
@@ -103,13 +193,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "commands",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "commands",
+    "source_review": {
+      "answer": "commands",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.926Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cd6a875d197ab9cb2fa6a4ef9ed9a08e95938e3e54a4a6271be125fd11c4f45a",
@@ -122,13 +230,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "major",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "major",
+    "source_review": {
+      "answer": "major",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.927Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f6101c4a6236bf73facd5898ce0765d3061e3967ca1619d97edc7a944d7d5799",
@@ -141,13 +267,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "graduated",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "graduates",
+    "source_review": {
+      "answer": "graduates",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.928Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f79c22897ed7479b48869a75e86686e4e83dfd31559119e3a0952362e8f050f4",
@@ -160,13 +304,31 @@
     ],
     "type": "單選",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "entire",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "entire",
+    "source_review": {
+      "answer": "entire",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.929Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7b458588b7c8850937b1ccac6bfb40c805c6a6785d48afdf2c451253fe598826",
@@ -177,12 +339,30 @@
     ],
     "type": "是非",
     "course": "《戰爭遊戲》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T14:20:21.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251271",
+          "title": "《戰爭遊戲》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_848.html",
+          "title": "「《戰爭遊戲》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.930Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

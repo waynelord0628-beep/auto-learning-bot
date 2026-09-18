@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "primary",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "primary",
+    "source_review": {
+      "answer": "primary",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.238Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c890b0a49401cf84520589e4d400d92070596fea94cd748cdcb067fb610cc1d",
@@ -137,13 +151,27 @@
     ],
     "type": "單選",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "locate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "locate",
+    "source_review": {
+      "answer": "locate",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.238Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3e39508add1fcf92a65e442d921c49be8699c49d9b0fdd4f1df80ac6d2490c1c",
@@ -156,13 +184,27 @@
     ],
     "type": "單選",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "harsh",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "harsh",
+    "source_review": {
+      "answer": "harsh",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.239Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f2a3e54bb614034cdc1f4facbbe6de1f4c26b46de5fc050143d05b9413397126",
@@ -175,13 +217,27 @@
     ],
     "type": "單選",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "fulfill",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.079Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "fulfill",
+    "source_review": {
+      "answer": "fulfill",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.240Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "eef50f29d335597d715963435b9a9b3ed721fd3c5cc2e11677ea6eef07904d02",
@@ -192,13 +248,27 @@
     ],
     "type": "是非",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.080Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.240Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9d0974f9114876dc025bbb571d1b3a37ddf7d73ec18ba96f55bae9b8cee9a884",
@@ -211,13 +281,27 @@
     ],
     "type": "單選",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "replace",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.081Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "replace",
+    "source_review": {
+      "answer": "replace",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.240Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "026ba80b1a39d7094f3b8cf3f05bc739710d7b029e6b14103eff5ebb13d516d0",
@@ -228,12 +312,26 @@
     ],
     "type": "是非",
     "course": "《喜福會》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T07:45:14.082Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251263",
+          "title": "《喜福會》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.243Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

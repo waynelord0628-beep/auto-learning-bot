@@ -112,13 +112,31 @@
     ],
     "type": "是非",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.215Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "beebdc3408cc224947aa77521e04804feeb62571266ca104410a2726f55cc49f",
@@ -129,13 +147,31 @@
     ],
     "type": "是非",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.219Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "02c1a8b31e664f123ba417d5a62f497851bb1784d8a6267dc2a53388b8094f71",
@@ -148,13 +184,31 @@
     ],
     "type": "單選",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "拒收報酬",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.459Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "拒收報酬",
+    "source_review": {
+      "answer": "拒收報酬",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.221Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e012d0d9ab5cf3003e8083b565abe3c6c344d117971f0748911150d68122131c",
@@ -167,13 +221,31 @@
     ],
     "type": "單選",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1年100小時",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.460Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1年150小時",
+    "source_review": {
+      "answer": "1年150小時",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.222Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e94e49b3dbb3263119a036a68d24646c02a214ac13ae72cdc882079b1a236589",
@@ -186,13 +258,31 @@
     ],
     "type": "單選",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.462Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1",
+    "source_review": {
+      "answer": "1",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.223Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8fc32bf8ae27c58ba667b0d17dc87e0e0a63b74565b05c4cfab34e8b34e24277",
@@ -203,13 +293,31 @@
     ],
     "type": "是非",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.463Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.225Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "293312b054403b6e4f7c8457604a28ca9b23c9cec0942b0ed9f8221c8435ddb3",
@@ -220,12 +328,30 @@
     ],
     "type": "是非",
     "course": "志願服務法規之認識",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T18:39:00.464Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332793196",
+          "title": "志願服務法規之認識《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_120.html",
+          "title": "「志願服務法規之認識」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.227Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

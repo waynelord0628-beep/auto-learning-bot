@@ -8,13 +8,31 @@
     ],
     "type": "是非",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.862Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.763Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e85102b2eb05444bb8f42751327875aa6c4ef034c06badb57a85c58b48cfc82a",
@@ -25,13 +43,31 @@
     ],
     "type": "是非",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.864Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.764Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fd3b18523f75d85479759a87607cd76c5e647348db1a9d7ef53c45047be8071a",
@@ -44,13 +80,31 @@
     ],
     "type": "單選",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "客家八音",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.865Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "客家八音",
+    "source_review": {
+      "answer": "客家八音",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.765Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b063708c473fdc5d83c93fd8fadf0c0cab16f38bb86b6593d13160424a94cb81",
@@ -63,13 +117,31 @@
     ],
     "type": "單選",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "鐵刀木",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.865Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "鐵刀木",
+    "source_review": {
+      "answer": "鐵刀木",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.765Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ec54001829441a889c8a05b688b36398005e944ea5b3a8a69ce7971ea7715d84",
@@ -82,13 +154,31 @@
     ],
     "type": "單選",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "菸草業",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.866Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "菸草業",
+    "source_review": {
+      "answer": "菸草業",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.767Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "56c8b4b066a4ece3e5cb8c7ef23f9beba2d108122a6c12c440dee180048f1cc5",
@@ -99,13 +189,31 @@
     ],
     "type": "是非",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.866Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.768Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "573e1725e4f31a2635c10e779a3297ecf98969aab4e1422227fc92bcbe685dc6",
@@ -116,13 +224,31 @@
     ],
     "type": "是非",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.867Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.769Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "00e099340069eaed27c36977d408c54ad8dcee664227a8a54b046224f35bb84d",
@@ -133,13 +259,31 @@
     ],
     "type": "是非",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.867Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.769Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c98cdca5bd93860273183bd23d4b1e63831ed31b423f76d3106a0221325e7acb",
@@ -152,13 +296,31 @@
     ],
     "type": "單選",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "鍾理和紀念館",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.868Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "鍾理和紀念館",
+    "source_review": {
+      "answer": "鍾理和紀念館",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.770Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d1f72346ba989c1afc6da0c22e61484995183d2c40726f0d88a577ee29c8fcdf",
@@ -171,12 +333,30 @@
     ],
     "type": "單選",
     "course": "文創美濃踏查(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T20:08:18.868Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15133797960",
+          "title": "文創美濃踏查(html5)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_99.html",
+          "title": "「文創美濃踏查(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.771Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ears",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.890Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "ears",
+    "source_review": {
+      "answer": "ears",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.191Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f2e2d0a41c066234f9c6b9d8f277862759affd1283d82b6ea2aa47de46c98b62",
@@ -137,13 +151,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "trust",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.891Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "trust",
+    "source_review": {
+      "answer": "trust",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.191Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9742cf9efb8d116f19a04a93771bc04a58038a2bc34f6ae570c213d36ed35d34",
@@ -175,13 +203,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Encourage",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.892Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Encourage",
+    "source_review": {
+      "answer": "Encourage",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.192Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c08fbe63f366a70eb5f8e9b2e18a0f6efeeba275b331e50f0de7c5e22e80acab",
@@ -194,13 +236,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "expecting",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.893Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "expecting",
+    "source_review": {
+      "answer": "expecting",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.193Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "175cd8dc7afaef037871ce9701758eb97b66d7724a5e5207441eb798606ee79b",
@@ -213,13 +269,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "actions",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "actions",
+    "source_review": {
+      "answer": "actions",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.193Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ad8db08e2b405cff15aa2ebae87ae87eba0f3be18b2e11aced704afb3bfe2c07",
@@ -232,13 +302,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "fancy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "fancy",
+    "source_review": {
+      "answer": "fancy",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.194Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a5fcca283282c7cb011c5215dc4e2b23a4ffac15cb3b1430b14e5ef680dd707c",
@@ -251,13 +335,27 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "noodles",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:47.907Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "noodles",
+    "source_review": {
+      "answer": "noodles",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.194Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e666d9f117c3403e806357c98d790a22645509b65b742c21bcc62d3c70cdd826",
@@ -270,12 +368,26 @@
     ],
     "type": "單選",
     "course": "歡慶生日&表達愛意",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "appreciate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:47.911Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "appreciate",
+    "source_review": {
+      "answer": "appreciate",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016829",
+          "title": "歡慶生日&表達愛意《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.195Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

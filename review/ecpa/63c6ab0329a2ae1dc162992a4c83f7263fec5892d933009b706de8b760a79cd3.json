@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "被害人提出申訴或提告，是行使合法權利，並非害群之馬；破壞和諧者應是不尊重他人的行為人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.283Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "被害人提出申訴或提告，是行使合法權利，並非害群之馬；破壞和諧者應是不尊重他人的行為人",
+    "source_review": {
+      "answer": "被害人提出申訴或提告，是行使合法權利，並非害群之馬；破壞和諧者應是不尊重他人的行為人",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.486Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "12fcb4fa57164bc37cfcac16bc8ac988e6c8df466385a94d802ded35376552af",
@@ -133,13 +151,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.489Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "283114cccdab93ca08ad5e033ab7b53b55b8fc4043bebd35fc0547b45af78f99",
@@ -152,13 +188,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "「113保護專線」24小時全年無休，任何時間自己或他人遭受性騷擾，都可以打電話求助",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.285Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "「113保護專線」24小時全年無休，任何時間自己或他人遭受性騷擾，都可以打電話求助",
+    "source_review": {
+      "answer": "「113保護專線」24小時全年無休，任何時間自己或他人遭受性騷擾，都可以打電話求助",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.494Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3bcdf7691793b309b319761b2ed5b436475d647fa71e3fa58fd7c0f0a6c2b57b",
@@ -169,13 +223,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.286Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.497Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d1482b465ecbe3370ca4914c2f27e1155e7f7704bbbda7ea1b5ed049c9bfb72d",
@@ -186,13 +258,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.288Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.499Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "dd64c316721371054b642cb8e7128b1b6621597a4d81f75f6b37d7943337d828",
@@ -205,13 +295,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "我們都應該約束自己的言行、尊重他人的界線，不應隨便以性或性別的話題開玩笑",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "我們都應該約束自己的言行、尊重他人的界線，不應隨便以性或性別的話題開玩笑",
+    "source_review": {
+      "answer": "我們都應該約束自己的言行、尊重他人的界線，不應隨便以性或性別的話題開玩笑",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.503Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bf28bba7abc80941253b981ef326d809b93aa3b57103a3e43acff01e68cc7086",
@@ -222,13 +330,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:23:03.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.505Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "970462959db6c6db31f5bab24a6dbdf5bd3eab0d392affd021a4cfd5a98027b8",
@@ -239,13 +365,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.028Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.508Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ef95d69314579e32009c4c836e6447728226d2055ef9881a4092112f6646ae02",
@@ -258,13 +402,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "無法律明確定義",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.029Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "無法律明確定義",
+    "source_review": {
+      "answer": "無法律明確定義",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.511Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b7013b9de5bc9b8b3a8594f08efdf1cd2374fd9818837f4f2eed804ac4fa61cc",
@@ -277,13 +439,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "場所主人負有檢討所屬場所安全之責任",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.031Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "場所主人負有檢討所屬場所安全之責任",
+    "source_review": {
+      "answer": "場所主人負有檢討所屬場所安全之責任",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.514Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "218277795321687b16953ca06dbe6c7fa22f99bfb8c04d93e2e34a651021744f",
@@ -294,13 +474,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.032Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.517Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "caacebda4ff2b83cc5a7d60af434da83c85474abe2913ce80d749f5272b94fdc",
@@ -311,13 +509,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:06.034Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.520Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "32c3ec4de3e3e7f05d0f97869f404cced8dff90849d9e41a5aa9056f5824d86b",
@@ -330,13 +546,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T09:24:43.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.523Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0e696de3346800bf62fab88d6f938a131fa9b4448ab8ed111f2663f7a6bcbf7e",
@@ -347,13 +581,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:06.398Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.526Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3852c599b2eb1bc09b4a5f757d00d8e47855b1559ca7cf850588470bb25b7563",
@@ -364,13 +616,31 @@
     ],
     "type": "是非",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:06.400Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.529Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5cf28c76407568700247796cade9e5a93f6e418cf3fee7b9e31fedd282d377b0",
@@ -383,13 +653,31 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:37.239Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.532Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "57c303033749ac88d73b04001698102384bb5a2e94f35a4b9abea964bf3cdef3",
@@ -402,12 +690,30 @@
     ],
     "type": "單選",
     "course": "解謎性騷擾",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "若行為人是私部門的最高負責人，向所在地的社會局(處)(或家庭暴力暨性侵害防治中心)申訴",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:14:37.242Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "若行為人是公部門的最高負責人，向該單位的上級機關申訴",
+    "source_review": {
+      "answer": "若行為人是公部門的最高負責人，向該單位的上級機關申訴",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191189372",
+          "title": "解謎性騷擾《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/08/ee_01587059668.html",
+          "title": "「解謎性騷擾」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.535Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

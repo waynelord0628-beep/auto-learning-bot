@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Schedule Meeting Time",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.828Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Schedule Meeting Time",
+    "source_review": {
+      "answer": "Schedule Meeting Time",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.018Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "29bd2330095256e58b1f8051de77bc95cb14b4217221508dd44e8befe2094007",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Party Food",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.837Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Party Food",
+    "source_review": {
+      "answer": "Party Food",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.021Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1e07d162179e09d90d32b263fdb35880de8a5da2057ca330b995d4d62da69a5e",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Ordering Food at a Drive-Thru",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.838Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Ordering Breakfast in America",
+    "source_review": {
+      "answer": "Ordering Breakfast in America",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.025Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fd74537292d019bd6d68b95f530e2cd471e10bbfce22bd35254894b7b80c64ee",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Ordering Drinks",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.838Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Ordering Drinks",
+    "source_review": {
+      "answer": "Ordering Drinks",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.028Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "47d154bdd11f2a065b2e525d0fa5f97fa18f606d56e2e569a6320bc44d31fb22",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Diets",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.839Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Diets",
+    "source_review": {
+      "answer": "Diets",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.031Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "830fca89c1cb449806e4dc0eba77df1bc42e79a6502a592e112220a4a1c793fb",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Calling In for Sick Leave",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.840Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Calling In for Sick Leave",
+    "source_review": {
+      "answer": "Calling In for Sick Leave",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.034Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "482cdb5aabec96540da047ed450f38511b3982584b11f747e1e6c32b348b8d57",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Rainstorm",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.840Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Rainstorm",
+    "source_review": {
+      "answer": "Rainstorm",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.038Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "522c88f8e9b2efb0d778917fa3a3ba387aeaf82eb2745d80c766e6aa408479a0",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "At the Post Office",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.841Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "At the Post Office",
+    "source_review": {
+      "answer": "At the Post Office",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.041Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9bc6283b3a02af3bed8703c6e4d76775adb5e9136457fb504021ec3fb2dd2381",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "At the Gym",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.841Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "At the Gym",
+    "source_review": {
+      "answer": "At the Gym",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.045Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "68f21b2e8af13e818bfde8f4bfaa00e2815db5836ae924979093cccf56edd60b",
@@ -181,13 +343,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Annual Health Checkup",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:45:35.842Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Annual Health Checkup",
+    "source_review": {
+      "answer": "Annual Health Checkup",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.049Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8f9573233b88d5757a5db1be950aab157c711d9160ebdf0f2438a79303f94f1f",
@@ -200,13 +380,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Ordering Food at a Drive-Thru",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.230Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Ordering Food at a Drive-Thru",
+    "source_review": {
+      "answer": "Ordering Food at a Drive-Thru",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.053Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "87c7ffad61fdf76e8956fe97d5b5b9bc27c816ac5f158a63bf3115b5b8bf162c",
@@ -219,13 +417,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Talking to an Office Receptionist",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.231Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Talking to an Office Receptionist",
+    "source_review": {
+      "answer": "Talking to an Office Receptionist",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.056Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5350e545c088b463dc64b228f7886f7024a45cabebfff8f1cfa6e4c75d73cf98",
@@ -238,13 +454,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "At the Police Station",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.231Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "At the Police Station",
+    "source_review": {
+      "answer": "At the Police Station",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.059Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f05c5e1aa2549f48ecc111c2e3c76877b8e667ba1071ad50c0f59cb157c8b9ad",
@@ -257,13 +491,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Cycling",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.231Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Cycling",
+    "source_review": {
+      "answer": "Cycling",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.063Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "57ac0198145adc127163a1920d04d9c11f2491ba5fb7c3e01f781f7efb72d66f",
@@ -276,13 +528,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Tax Refund at the Airport",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Tax Refund at the Airport",
+    "source_review": {
+      "answer": "Tax Refund at the Airport",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.068Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c7254a885698ccbed1b81204daa7d2cf27cb0fb41090beafff7d8e14f21b694b",
@@ -295,13 +565,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Signing Up for the Gym",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.232Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Signing Up for the Gym",
+    "source_review": {
+      "answer": "Signing Up for the Gym",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.071Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "26d05cfc3d63aeb34625809711ffc51598c4940582febbe140b6ba4c1608c44c",
@@ -314,13 +602,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Earthquake",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.233Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Earthquake",
+    "source_review": {
+      "answer": "Earthquake",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.075Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "408f57bb5ad9734963a638068dcb9d8b3881b1e9ba37d5d1a40a0a5e55af0264",
@@ -333,13 +639,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Tax Refund at the Store",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.233Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Tax Refund at the Store",
+    "source_review": {
+      "answer": "Tax Refund at the Store",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.078Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6532774afb3297637c0a5ac7a1ca8f46eeefcca0bc19fe010b2fbf47eae6f464",
@@ -352,13 +676,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Negotiating the Rent",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:17.234Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Negotiating the Rent",
+    "source_review": {
+      "answer": "Negotiating the Rent",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.082Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "55fd007dffc4157574344d8b6bc283ca7f7eeab14a4998992a71a5e396d5a761",
@@ -371,13 +713,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Buying Shoes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:53.347Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Buying Shoes",
+    "source_review": {
+      "answer": "Buying Shoes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.085Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8e88cb4dedb3c580db1226e190ffb84489860bda47cf210b7275eeeafe7c3261",
@@ -390,13 +750,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Party Venue",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:53.350Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Party Venue",
+    "source_review": {
+      "answer": "Party Venue",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.088Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "86189733d26e15ad193e7b0311616e1bd44d036c8f25f19ca0ca4b3495202b89",
@@ -409,13 +787,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Apartment Hunting",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:53.350Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Apartment Hunting",
+    "source_review": {
+      "answer": "Apartment Hunting",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.091Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "89b74954c55fcc21516026e59b97e37df6896641ca7a717aca80e6208f9be1db",
@@ -428,13 +824,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Online Business",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T09:46:53.351Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Online Business",
+    "source_review": {
+      "answer": "Online Business",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.095Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "96b0819ab86fec6a0cbb5b6e5108ed7d2b5ce9bb0311478bea4c722939ad504a",
@@ -447,13 +861,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Pets",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:10:15.025Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Pets",
+    "source_review": {
+      "answer": "Pets",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.098Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "23e65b0b19214018be82027cb8c5a05216ff24fbee3f30268ff3da19a6ab0b64",
@@ -466,13 +898,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Annual Performance Review",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:10:15.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Annual Performance Review",
+    "source_review": {
+      "answer": "Annual Performance Review",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.102Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8f3a1658aa245813b03ed214833376b0ec970698bb74e11af150fb03dba131a2",
@@ -485,13 +935,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Shopping for Souvenirs",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:10:15.052Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Shopping for Souvenirs",
+    "source_review": {
+      "answer": "Shopping for Souvenirs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.105Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cf6efba868320fa4bb59cd1d1387b9d31aa1e4a9820a542a2678ea3594a62e9d",
@@ -504,13 +972,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Typhoons",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.596Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Typhoons",
+    "source_review": {
+      "answer": "Typhoons",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.110Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a041016756ae55d0410766f4c678a763ea1184d244390ff8f58b4b806ed82335",
@@ -523,13 +1009,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Plastic Bags",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.600Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Plastic Bags",
+    "source_review": {
+      "answer": "Plastic Bags",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.114Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f76305a899c415c753a4942fbd0291b9ae7d31a343e8207d5728264ad8d1f29d",
@@ -542,13 +1046,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Scheduling an Apartment Viewing",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.601Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Scheduling an Apartment Viewing",
+    "source_review": {
+      "answer": "Scheduling an Apartment Viewing",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.117Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cbd94486d4503e27b261c1342cd4354950a7c0a0af569e139a234d1b8a92faa0",
@@ -561,13 +1083,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Typhoon Day",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.610Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Typhoon Day",
+    "source_review": {
+      "answer": "Typhoon Day",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.122Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "98664fe572e5a9270175d67f1b791265e5bbf1c4612410f04dc71524b05cac89",
@@ -580,13 +1120,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Graffiti",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Graffiti",
+    "source_review": {
+      "answer": "Graffiti",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.126Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "62617f1d0be9198baa844f80771ca1d84b30413f20d222868af5fb2ed078f256",
@@ -599,13 +1157,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Dress Code",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:25.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Dress Code",
+    "source_review": {
+      "answer": "Dress Code",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.129Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "33f160ab404fb6ad1c772a16497cd6d4cff2303d456a2177fd9824b114e5ab0c",
@@ -618,13 +1194,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Colds and Flus",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:14:46.678Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Colds and Flus",
+    "source_review": {
+      "answer": "Colds and Flus",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.132Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "dd7950f288351f263d9944a279eddeda9bf9b37f3343b5e9eb933380101c345b",
@@ -637,13 +1231,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Air Pollution",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:14:46.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Air Pollution",
+    "source_review": {
+      "answer": "Air Pollution",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.136Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bf3dd939a319b8e189b7edccf6f4ab0e0834d4560f1a79cca1de5c371de596b9",
@@ -656,15 +1268,33 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "app Food Delivery Apps",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:14:46.707Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-16T23:19:45.031Z"
+    "retry_after": "2026-09-16T23:19:45.031Z",
+    "resolved_answer": "app Food Delivery Apps",
+    "source_review": {
+      "answer": "app Food Delivery Apps",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.139Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fc7aaecf6de31ec76da5366f0db17260a4b78778b2f7ad422f52f89298fd5e1b",
@@ -677,13 +1307,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Information Desk",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:15:57.352Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Information Desk",
+    "source_review": {
+      "answer": "Information Desk",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.143Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f80efa8758e6c558b02728a1b5a08160ce6ef0f6d5f9d5eb9e615f60790c74d5",
@@ -696,13 +1344,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Going to the Military",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:15:57.354Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Going to the Military",
+    "source_review": {
+      "answer": "Going to the Military",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.146Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "275fb51d40be8ff01a1d00d424be04cca3651d7edcb5aa230008e42b840447b0",
@@ -715,13 +1381,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Laser Eye Surgery",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:15:57.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Laser Eye Surgery",
+    "source_review": {
+      "answer": "Laser Eye Surgery",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.149Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "261aa2d308d8b4792a380dd294ac4f7fada87e849e0307a70d03e1666146668f",
@@ -734,13 +1418,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Summer Jobs",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:15:57.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Summer Jobs",
+    "source_review": {
+      "answer": "Summer Jobs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.152Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d89b30d1b928f99f684b4c3ef9a12a82f2d1277b9c214e6785aa575ed0c93e83",
@@ -753,13 +1455,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Dealing with Acne",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:37:35.174Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Dealing with Acne",
+    "source_review": {
+      "answer": "Dealing with Acne",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.156Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "df6ddaa4cc1868be436bb320b12a1b80cc95695bc32ae39bf247848844bfa29a",
@@ -791,13 +1511,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Taking a Phone Message",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:37:35.186Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Taking a Phone Message",
+    "source_review": {
+      "answer": "Taking a Phone Message",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.163Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b03e1a9e2df793b4af5a39b5524e89739112f9207de3ff3b208f568201cad3c7",
@@ -810,13 +1548,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Internet Trolls",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:38:17.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Internet Trolls",
+    "source_review": {
+      "answer": "Internet Trolls",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.166Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b0bb916cd6389b1a228b29e559e9c5068943456b8bd71ff3798c0813afc9df32",
@@ -829,13 +1585,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Buying Earrings",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:38:17.777Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Buying Earrings",
+    "source_review": {
+      "answer": "Buying Earrings",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.170Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6e608b123af33b0ed4e939fa2e7df784dfea8e57197849a260cdd7c5782b7327",
@@ -848,13 +1622,31 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Convenience Stores",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:38:17.778Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Convenience Stores",
+    "source_review": {
+      "answer": "Convenience Stores",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.175Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b41c2106c15b9a0bf6c1a29548f30183f4ea778d54de1a6cbba4a27cee4d02d1",
@@ -867,12 +1659,30 @@
     ],
     "type": "單選",
     "course": "開口說英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Lost & Found",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T01:35:02.008Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Lost & Found",
+    "source_review": {
+      "answer": "Lost & Found",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906318",
+          "title": "開口說英語《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_979.html",
+          "title": "「開口說英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.179Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -114,13 +114,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全社會防衛韌性委員會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.631Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "行政院經濟發展委員會",
+    "source_review": {
+      "answer": "行政院經濟發展委員會",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.265Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c5904b0d1c3f784e7be9c768d5db5e94afffa54b1a108d5a8a89797cb9874ad4",
@@ -131,13 +149,31 @@
     ],
     "type": "是非",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.631Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.267Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2c06559c33087c2a8d02672f48e23de159f06fd63340c7df37abf11e99b28d57",
@@ -150,13 +186,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "32％",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.632Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "36％",
+    "source_review": {
+      "answer": "36％",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.268Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "811ce5e89d871eb72d31818bfb277c2aa0ebcf75b306bc5bf3df64e6259e0d62",
@@ -167,13 +221,31 @@
     ],
     "type": "是非",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.632Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.269Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1bfd98469bfd853003913da7d9134ec191cbb84c2540a1c13b034c7439441f3e",
@@ -186,13 +258,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "28％加減2％",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.633Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "28％加減2％",
+    "source_review": {
+      "answer": "28％加減2％",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.270Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "af44887e7a97351f81f48cfa9c9dbc713ad5556c6b48ae81773c17aee5670095",
@@ -205,13 +295,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "宜花東屏南「東部低碳城鄉」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "宜花東屏南「東部低碳城鄉」",
+    "source_review": {
+      "answer": "宜花東屏南「東部低碳城鄉」",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.272Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "27c3466e964b0c478fdfda549fcb5ec3240ff4ea35676df18ad29fc4961b120f",
@@ -222,13 +330,31 @@
     ],
     "type": "是非",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:16:33.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.273Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8afb080d7fd524895ae1ddba6e67ff0a73642e882849831e438cde705b1dbb77",
@@ -241,13 +367,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "新青安貸款50萬戶",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:17:08.810Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "新青安貸款50萬戶",
+    "source_review": {
+      "answer": "新青安貸款50萬戶",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.274Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "85533b6670d6f7c6b3f0f5478692396d9d632a9ffd3889d422c984b8a5e16785",
@@ -260,13 +404,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:17:08.811Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "再生能源",
+    "source_review": {
+      "answer": "再生能源",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.276Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f85ed5dc90eaceb604a54be01f187a6aec2638ca8cb8b0cc2a80be9ee9cef9eb",
@@ -279,13 +441,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4％",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:17:08.812Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "3％",
+    "source_review": {
+      "answer": "3％",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.277Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9eaeead182b85a09e57aa8c1bcd9a0f0376f7b69ccb7c8230bf0b9d3e8f30f7c",
@@ -298,13 +478,31 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "長照3.0",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:17:08.813Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "長照3.0",
+    "source_review": {
+      "answer": "長照3.0",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.278Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0ab61d26a04cfa3dcd95cb4cc4047cc0c708c545f267ad79ba6b885c7aafbaae",
@@ -317,12 +515,30 @@
     ],
     "type": "單選",
     "course": "當前國家重大政策議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "打造臺灣成為亞洲資產管理中心",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:34:42.001Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "打造臺灣成為亞洲資產管理中心",
+    "source_review": {
+      "answer": "打造臺灣成為亞洲資產管理中心",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347392785",
+          "title": "當前國家重大政策議題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_024145683.html",
+          "title": "「當前國家重大政策議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.279Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -29,13 +29,31 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "components",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.804Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "components",
+    "source_review": {
+      "answer": "components",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.455Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c8493d9761ca89c887d03e33aaaaa706ce5fe228ff9b8f8d41c6212b91dc557c",
@@ -48,13 +66,27 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "respectively",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.804Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "respectively",
+    "source_review": {
+      "answer": "respectively",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.456Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b2f5947d93e487e24e47c0e3e981d615dda70a40cc9afcfc8994feb8865a393f",
@@ -67,13 +99,27 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "legality",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.805Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "legality",
+    "source_review": {
+      "answer": "legality",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.457Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3e648378c436f6ccc33c1ed79496cd6461b40459c61f7621b2b548c877b15475",
@@ -104,13 +150,31 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "repetition",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.805Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "repetition",
+    "source_review": {
+      "answer": "repetition",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.459Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a5b6673cc2b12354697f54f7f0dcbc9252437bb787f27faad81affe91596fa31",
@@ -122,13 +186,31 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "forearm",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.806Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "forearm",
+    "source_review": {
+      "answer": "forearm",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.461Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "627008b1cf2590dae7c80a56b2b6e137bec02dafcffc56c4de444267363dd99f",
@@ -140,13 +222,31 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "strengthened",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.807Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "strengthened",
+    "source_review": {
+      "answer": "strengthened",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.462Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7bb43eaaf090bdda159a6c494a86cf3652472c58999878325b005f505ff909af",
@@ -178,13 +278,31 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "drastically",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:23:37.808Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "drastically",
+    "source_review": {
+      "answer": "drastically",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.464Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9bd4024960aeab55c5e234d4e5133db1e2a3b47670d21b75fe4c81304c6c0356",
@@ -197,12 +315,30 @@
     ],
     "type": "單選",
     "course": "摩天木樓&強化核心肌群",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "incentives",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T22:24:22.804Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "incentives",
+    "source_review": {
+      "answer": "incentives",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051069",
+          "title": "摩天木樓&強化核心肌群《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_10.html",
+          "title": "「摩天木樓&強化核心肌群」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.468Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

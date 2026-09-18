@@ -92,13 +92,31 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自動化業務流程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "自動化業務流程",
+    "source_review": {
+      "answer": "自動化業務流程",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022585",
+          "title": "自動化革命：解放工作力！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.738Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f2676c382ad912d06d05a4d397ab3d737d7137d6cab693f4901b4ae9640b14c6",
@@ -130,13 +148,27 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減少人力成本和錯誤率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.665Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "減少人力成本和錯誤率",
+    "source_review": {
+      "answer": "減少人力成本和錯誤率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.741Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "dd72f77dc5a7cec84108350c9b423bf958cb1980a9cd262f1640e00806ad45c5",
@@ -149,13 +181,31 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提高運營效率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.667Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "提高運營效率",
+    "source_review": {
+      "answer": "提高運營效率",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022585",
+          "title": "自動化革命：解放工作力！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.742Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b7c69cc135a4fbd12fb63c6fe7c075d9f33cade8838affebf7be86876dfd050f",
@@ -168,13 +218,31 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "機器人流程自動化（RPA）",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.669Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "機器人流程自動化（RPA）",
+    "source_review": {
+      "answer": "機器人流程自動化（RPA）",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022585",
+          "title": "自動化革命：解放工作力！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.743Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3032e0996ec48d431a6939c083d5fa97e60e5a2169f969d67f505d8f2f7aa106",
@@ -187,13 +255,31 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "改變現有的工作流程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.673Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "無法處理複雜的決策",
+    "source_review": {
+      "answer": "無法處理複雜的決策",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022585",
+          "title": "自動化革命：解放工作力！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.744Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c54d66b91794fe1f6cb28fa86d6a66fe888af394950a6ba04ed58d6dc3000c08",
@@ -206,13 +292,31 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "創意寫作",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:40.675Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "創意寫作",
+    "source_review": {
+      "answer": "創意寫作",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022585",
+          "title": "自動化革命：解放工作力！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_171.html",
+          "title": "「自動化革命：解放工作力！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.745Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6fe1363b3d5982c1df351b0d9de6ac4fb50337c1b1519107661268cf1cfc8e67",

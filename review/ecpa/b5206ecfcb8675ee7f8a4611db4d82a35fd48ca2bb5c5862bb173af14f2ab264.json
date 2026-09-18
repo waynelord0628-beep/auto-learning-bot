@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "particles",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.695Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "particles",
+    "source_review": {
+      "answer": "particles",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.262Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6a1abe45c137d8ea7ec735793e28053a0c1cc2efbe9b877a8175902b7edc41ec",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "illusion",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "distorted",
+    "source_review": {
+      "answer": "distorted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.263Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "21804dd3a7eb096f20675f037a4402a68b56747cc7c80d0fab98be51a5e7d383",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "reflect on",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "reflect on",
+    "source_review": {
+      "answer": "reflect on",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.265Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "db82728ee2f040cd221fbc59f9cb9fd52e1a7f15bff861b830b6e8d25edd68ae",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "irrational",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "irrational",
+    "source_review": {
+      "answer": "irrational",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.266Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3d3d4613f9ec26714b6d05b98f8921b5dfc00e21ad92ce6170cb25da1311ccc6",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "awe-inspiring",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.699Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "awe-inspiring",
+    "source_review": {
+      "answer": "awe-inspiring",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.268Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2b1d02923685776fc5f30722c875954fc2ab25b4839b1bbe05f2e284ae114ab7",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "perception",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.699Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "perception",
+    "source_review": {
+      "answer": "perception",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.269Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "34549d44feb853005fdf4a50545220501248b49429827253d9ff76f76395e891",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "nurtured",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.700Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "nurtured",
+    "source_review": {
+      "answer": "nurtured",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.271Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b35e56bf4e25002da3a6a2f6d812b20289e8bcba77eb7655b9827e4b02bffe28",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "eclipse",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.700Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "eclipse",
+    "source_review": {
+      "answer": "eclipse",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.272Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "74379456329b677ea17e3abffc25b421c8dded14776b45bb73794f283dc6f765",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "take in",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.701Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "take in",
+    "source_review": {
+      "answer": "take in",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.273Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fc8df3286e945cb4177492f81415b4d7b867a67e512f31fbfa2060c8d917839f",
@@ -181,13 +343,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "obstruct",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:00:27.701Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "eclipse",
+    "source_review": {
+      "answer": "eclipse",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.275Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "775acb5718be6a0de791036ce659843f128ecfd2492b604e38359658ff8bec8c",
@@ -200,13 +380,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "spectrum",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:01:09.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "spectrum",
+    "source_review": {
+      "answer": "spectrum",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.276Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7fe2f0826bd2455ce880d80df0228f0c72d2dcd5e2c33fc66d3b02ac992fe292",
@@ -219,13 +417,31 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "reservoirs",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:01:09.768Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "reservoirs",
+    "source_review": {
+      "answer": "reservoirs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.277Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e1388b2e0737964fc8ebb2a4eddb1da86fa2aa1900eb9107a854c9dd12bf933f",
@@ -238,12 +454,30 @@
     ],
     "type": "單選",
     "course": "天文旅遊&過濾氣泡—同溫層",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "distorted",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:01:09.775Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "illusion",
+    "source_review": {
+      "answer": "illusion",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051041",
+          "title": "天文旅遊&過濾氣泡—同溫層《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/blog-post_24.html",
+          "title": "「天文旅遊&過濾氣泡—同溫層」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.279Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

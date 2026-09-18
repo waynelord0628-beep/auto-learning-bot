@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "message",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.152Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "message",
+    "source_review": {
+      "answer": "message",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.475Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "475e80fa92e3217b3aadd5fe89d8418fc1737e2a884bb73730080dab3774dd05",
@@ -137,13 +155,31 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "within",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "within",
+    "source_review": {
+      "answer": "within",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.476Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e31d09ec857bd68baa5bf1de5457ed4c5117545e5e1c76bf153d6e41e32b776b",
@@ -154,13 +190,31 @@
     ],
     "type": "是非",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.477Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6a4478f2f89f104548afb2b0248f07b7aef0009cc2bbd40d3a1339a88d7bc53c",
@@ -173,13 +227,31 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "achieve",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.154Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "achieve",
+    "source_review": {
+      "answer": "achieve",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.478Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cb921283064fb1e6fa7774e677a75f081e97bca8e81a6331d96740e06fdaf17d",
@@ -190,13 +262,31 @@
     ],
     "type": "是非",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.479Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2b80f79a8049afb35929958ce0ae957ead0bfe12eec663c7547383c09cda4558",
@@ -209,13 +299,31 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "completely",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "completely",
+    "source_review": {
+      "answer": "completely",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.481Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f39ca51b401b49f9f9f8a863550cb923bbaaa307c70643a924613af19c5b15f1",
@@ -228,12 +336,30 @@
     ],
     "type": "單選",
     "course": "《讓愛傳出去》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "immediately",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:55:37.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "immediately",
+    "source_review": {
+      "answer": "immediately",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262671",
+          "title": "《讓愛傳出去》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_612.html",
+          "title": "「《讓愛傳出去》」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.483Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

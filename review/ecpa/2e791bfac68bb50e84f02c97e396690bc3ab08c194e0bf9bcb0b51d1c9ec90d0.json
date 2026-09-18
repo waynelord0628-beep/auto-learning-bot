@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "市集百百種&頭髮護理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "pots",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T15:32:18.523Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "pots",
+    "source_review": {
+      "answer": "pots",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016961",
+          "title": "市集百百種&頭髮護理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.745Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c343c9853d708e0e672205d936eca041f4f6abf63993a9cfa7c1d897ad7f0aed",
@@ -137,13 +151,27 @@
     ],
     "type": "單選",
     "course": "市集百百種&頭髮護理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "vendor",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T15:32:18.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "vendor",
+    "source_review": {
+      "answer": "vendor",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016961",
+          "title": "市集百百種&頭髮護理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.745Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bff06bb8a2e921019612855a4ea23b82877ef305f67f59cc2e33c40d8c3140aa",
@@ -156,13 +184,27 @@
     ],
     "type": "單選",
     "course": "市集百百種&頭髮護理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "jam",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T15:32:18.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "jam",
+    "source_review": {
+      "answer": "jam",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016961",
+          "title": "市集百百種&頭髮護理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.746Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "84286f78db955ebe9d16004fb6d3fd7cadce8f6d67b3f9c2155a8c036b878515",
@@ -175,12 +217,26 @@
     ],
     "type": "單選",
     "course": "市集百百種&頭髮護理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "gently",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T15:32:18.525Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "gently",
+    "source_review": {
+      "answer": "gently",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016961",
+          "title": "市集百百種&頭髮護理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.746Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

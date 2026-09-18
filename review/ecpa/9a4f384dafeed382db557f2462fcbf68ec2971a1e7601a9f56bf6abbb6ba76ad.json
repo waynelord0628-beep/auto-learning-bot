@@ -8,13 +8,31 @@
     ],
     "type": "是非",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.097Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.935Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2239cdf9bcd7bb3d55b6f8f5d3e1a67bffb854ead8b4c6a10176132057be46b9",
@@ -27,13 +45,31 @@
     ],
     "type": "單選",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "檔案修復",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.099Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "檔案修復",
+    "source_review": {
+      "answer": "檔案修復",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.935Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bc31dd8019ebad342d27e4ddb5286bcee7ccb1737062e207f54b43906e0ac845",
@@ -44,13 +80,31 @@
     ],
     "type": "是非",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.100Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.936Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e10ecb79f4b58d3250a3869033a1a460982530fcd63c3ea549f00e44b707e8d9",
@@ -61,13 +115,31 @@
     ],
     "type": "是非",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.101Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.937Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2f0abfd7babc85c61b6b060bfd521c9a67d64353656b954a779f53910c39c127",
@@ -78,13 +150,31 @@
     ],
     "type": "是非",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.101Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.938Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4451b20e265414b956338754b4687277b461d9cb646e657229e1aab6434b99e2",
@@ -116,13 +206,31 @@
     ],
     "type": "單選",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "模擬",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.104Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "建置",
+    "source_review": {
+      "answer": "建置",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.940Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b674604caae499f680f667fa274bb88b1d75b7abfe664faaad0df9531f65a353",
@@ -133,13 +241,31 @@
     ],
     "type": "是非",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.943Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0db7d86ee88a86799b6f04792a0ac90292e2864978d54103c8ec3ace02b4dd13",
@@ -152,13 +278,31 @@
     ],
     "type": "單選",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1234",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1234",
+    "source_review": {
+      "answer": "1234",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.944Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5115e5df3f4b5d1535ee69c8250f566ab9a01626dbf9f16301a79e5df157efb0",
@@ -171,12 +315,30 @@
     ],
     "type": "單選",
     "course": "B513 文檔資訊系統規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "測試計畫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T02:32:12.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "測試計畫",
+    "source_review": {
+      "answer": "測試計畫",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340533077",
+          "title": "B513 文檔資訊系統規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/b513-ee.html",
+          "title": "「B513 文檔資訊系統規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.945Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

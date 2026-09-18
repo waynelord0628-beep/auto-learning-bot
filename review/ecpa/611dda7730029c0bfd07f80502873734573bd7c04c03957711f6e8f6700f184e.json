@@ -86,13 +86,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆可",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆可",
+    "source_review": {
+      "answer": "以上皆可",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.457Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fb194bd8e8aef3cf11f89a6293669a956ca488ccd6c4352dfe8d5bb5a6971835",
@@ -124,13 +138,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "外購蒸氣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.107Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "外購蒸氣",
+    "source_review": {
+      "answer": "外購蒸氣",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.458Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9a7439b04e08b1625aa52672a35e6aaa04983c419f86a1bc5444549561a0fdb1",
@@ -143,13 +171,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "外購電力",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "外購電力",
+    "source_review": {
+      "answer": "外購電力",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.458Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a004101fe998c7a18035db023186744160e6da51a1baec4c79e2ff756937cf59",
@@ -181,12 +223,26 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "直接監測法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.109Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "直接監測法",
+    "source_review": {
+      "answer": "直接監測法",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.459Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

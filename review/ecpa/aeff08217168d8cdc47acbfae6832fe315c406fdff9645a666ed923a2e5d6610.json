@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "isn't it",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.354Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "isn't it",
+    "source_review": {
+      "answer": "isn't it",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.188Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8dc244f695f7cbb605b8b1ac84d476985f40764b86b6ac585b48fff215252d6f",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "put…off",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "put…off",
+    "source_review": {
+      "answer": "put…off",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.189Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "29b79b486ad08efd8f21553b8ef8606ad3e6e40ca09fb32a26069a093b11b71a",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "breakfast",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "breakfast",
+    "source_review": {
+      "answer": "breakfast",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.191Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a92827dbec97295c0332cbbd5f01c311c7fc52ee7b554000495b562ec7842a70",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "concerned",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "concerned",
+    "source_review": {
+      "answer": "concerned",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.192Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8c8fbf38148d287e2a2db9ba3d55bf2a515238794a36b3c3c51337b77a350915",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "change",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.359Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "change",
+    "source_review": {
+      "answer": "change",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.193Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "15c35aec2221888f532dde585c0dc98a1a584baa1cda4738a729df45b2b0a0a0",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "for",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.359Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "for",
+    "source_review": {
+      "answer": "for",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.194Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "98bbc727c506fc7c13995616ad732d08bd98b508766d72ee51ba81a02c911c40",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "for",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.360Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "with",
+    "source_review": {
+      "answer": "with",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.195Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9c3b43588fdacf3c53e8a033b81cebebfb2d7f32531dc6b6ef099099c31c87a9",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "I'm",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.360Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "I'm",
+    "source_review": {
+      "answer": "I'm",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.197Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ff92b35fb2b107178858246134ef5b5af240036ee5ee007e7867b57808652501",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "important",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "important",
+    "source_review": {
+      "answer": "important",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.198Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "710b5e4334956b4334e1c50d98c707a599d1ce2bec6faf03efc610a0f79fb698",
@@ -199,13 +361,31 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "trust",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:13:15.351Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "trust",
+    "source_review": {
+      "answer": "trust",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.200Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1e5edd4794610236a678778a588113cb2d3523c3e2e646f30f840a973dfe1672",
@@ -218,12 +398,30 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "waste",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:13:15.352Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "waste",
+    "source_review": {
+      "answer": "waste",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911619",
+          "title": "聰明付款&好習慣與壞習慣《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_12.html",
+          "title": "「聰明付款&好習慣與壞習慣」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.201Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

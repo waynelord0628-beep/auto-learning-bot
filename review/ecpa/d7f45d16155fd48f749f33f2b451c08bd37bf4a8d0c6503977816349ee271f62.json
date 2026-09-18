@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "父親元寶限制阿綢對公共事務的發言，以提升阿綢的社會化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.276Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "父親元寶限制阿綢對公共事務的發言，以提升阿綢的社會化",
+    "source_review": {
+      "answer": "父親元寶限制阿綢對公共事務的發言，以提升阿綢的社會化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.611Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ae7636d2857fa93ca11d70c5b9654d96004595f058075a8447fa518133181a18",
@@ -135,13 +153,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.277Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.613Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b61bb176046760265dbd1c09b43395afd7e43ed650958783cdb39585f9011b3f",
@@ -152,13 +188,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.278Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.615Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7ee0bc7b2bdfedbd87134583c5204daf82e670aaf6a05772bbcdb72348df8984",
@@ -169,13 +223,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.280Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.617Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "672f71185f641bcb842065da8b124ecfec534df33db2121f1cae867e21ebe0d7",
@@ -188,13 +260,31 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性別",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.282Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "性別",
+    "source_review": {
+      "answer": "性別",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.618Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0793be14093ef62dc4bd95018999df8f1dc305ac105284293c3d54db7ded8c16",
@@ -205,13 +295,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.283Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.620Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "93eb1ef34bfc5da9680c41fa790d5f95f9d58f568af764f091d90ad65745fa5c",
@@ -224,13 +332,31 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "歌仔戲",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:25:24.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "歌仔戲",
+    "source_review": {
+      "answer": "歌仔戲",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.622Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9fc98d0b4cb46b95009853914a47d0f0b571b24582aeb39dc744b537ecba2d84",
@@ -243,15 +369,33 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:04.314Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-15T04:19:37.314Z"
+    "retry_after": "2026-09-15T04:19:37.314Z",
+    "resolved_answer": "公民與政治權利國際公約（ICCPR）",
+    "source_review": {
+      "answer": "公民與政治權利國際公約（ICCPR）",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.624Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "aad2d677bc56abdf2f3f57f3af198d4e262e2fab0de555b722e9ff1dca40fa3b",
@@ -264,13 +408,31 @@
     ],
     "type": "單選",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "兒童表意權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:04.318Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "兒童表意權",
+    "source_review": {
+      "answer": "兒童表意權",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.625Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "691f121d75df2cbddd6a962badd9e546bdf28cde75def0a7ef3d84fb58c49bc7",
@@ -301,13 +463,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:04.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.627Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e983a013904f4f48c68fc9a7ec53def60279d441960096f240837c0d154a9240",
@@ -318,13 +498,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:04.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.629Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5f941de21a25046c3c2f90152ceedae5d44d543cecc74ebbd63b592f53f0e2f1",
@@ -355,13 +553,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:34.244Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.631Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1dc8ba3a133b928245878ccf925e40713d3003117b12c2c3de5392ed2be4255b",
@@ -372,13 +588,31 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:34.245Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.633Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ac5496530e89771bc47a57bcd739e820fdfdb60c2e5e2cb9d49e4e2439100f4b",
@@ -389,12 +623,30 @@
     ],
     "type": "是非",
     "course": "「戲說人權─《冒壁鬼》」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T12:26:34.246Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022881",
+          "title": "「戲說人權─《冒壁鬼》」《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_157.html",
+          "title": "「「戲說人權─《冒壁鬼》」」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.636Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

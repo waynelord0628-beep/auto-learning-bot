@@ -110,13 +110,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.752Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f3328dcf6de5c72aa7d3daaabf0a191ae7a31f8abea1713effc7bf6b2fca9769",
@@ -129,13 +147,31 @@
     ],
     "type": "單選",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "落實開放及機器可判讀之新設政府資訊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "落實開放及機器可判讀之新設政府資訊",
+    "source_review": {
+      "answer": "落實開放及機器可判讀之新設政府資訊",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.758Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7eebaa5e6826fa56b04608fa2d2601f60a44df9c5ef02747dd0dfd1f22837daa",
@@ -148,13 +184,31 @@
     ],
     "type": "單選",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+    "source_review": {
+      "answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.760Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2d4f2310174d43d558c93226aa70413e3ac688209787c5845d0a59432418c8d2",
@@ -165,13 +219,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.762Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7514e8b83e45bc09ed649a9aa6fbb8b11bac168e50498c8749b94def592181b3",
@@ -201,13 +273,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.763Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3697b5d30bda0e8535d5a5cd1ed1df4cbd35aa01ac06a076fcecbd80ea033bf7",
@@ -239,13 +329,31 @@
     ],
     "type": "單選",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "落實開放及機器可判讀之新設政府資訊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:53:21.405Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "建立了線上民事申請審批程式系統",
+    "source_review": {
+      "answer": "建立了線上民事申請審批程式系統",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.767Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0c3b54a5af0e5e95aa110d7a5240391702b2377926d269dfbfa5e802f0457315",
@@ -275,13 +383,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:53:21.406Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.768Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0e5a3980db8556b58ddab595bbe82036c1f71d941cf9f29b9bb254f3860253a1",
@@ -330,13 +456,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:53:21.408Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.770Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "66d741d65be462051fcaeb69b664e0281d0c3bf508181ec82f42a6003b255f1e",
@@ -347,13 +491,31 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:53:52.222Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.771Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8933dabfc1cc5ddaeaa7ad71579bf088d0c86fc3112b53186d0c593ee0982fd4",
@@ -366,13 +528,31 @@
     ],
     "type": "單選",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "讓公眾自由的檢索政府每筆預算的支出狀況",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:42:32.680Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "避免發生公務員對處理公眾申辦業務有延遲或不當處理之情形",
+    "source_review": {
+      "answer": "避免發生公務員對處理公眾申辦業務有延遲或不當處理之情形",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.773Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "077627a99531716a8f5640faa3415ec614a61bb6fb98c23489caa764cd95dc53",
@@ -402,12 +582,30 @@
     ],
     "type": "是非",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T02:14:25.053Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15273540600",
+          "title": "行政透明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_499.html",
+          "title": "「行政透明」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.775Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

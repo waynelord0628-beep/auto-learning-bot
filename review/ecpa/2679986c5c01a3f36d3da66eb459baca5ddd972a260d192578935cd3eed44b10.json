@@ -226,13 +226,27 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI 無法完全理解語言的文化脈絡、語氣、在地用語",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.413Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "AI 無法完全理解語言的文化脈絡、語氣、在地用語",
+    "source_review": {
+      "answer": "AI 無法完全理解語言的文化脈絡、語氣、在地用語",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.709Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b83d6aa5074bfd3fe2f9f10fef6f2a5b308c9f589b26ffbb535627673eea4ad2",
@@ -245,13 +259,27 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "主動向平台回饋，共同促進 AI 優化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.413Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "主動向平台回饋，共同促進 AI 優化",
+    "source_review": {
+      "answer": "主動向平台回饋，共同促進 AI 優化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.709Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8f835056caf48010e389b1aed7644e96f94c15838504e7cc9e74d9de44433fb3",
@@ -264,13 +292,27 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI 能真正理解語意與文化脈絡",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.414Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "AI 能真正理解語意與文化脈絡",
+    "source_review": {
+      "answer": "AI 能真正理解語意與文化脈絡",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.711Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "34f1a5bfa98c00518e226006cad338d370045443c2de7db33d71aeec1b294129",
@@ -283,12 +325,26 @@
     ],
     "type": "單選",
     "course": "好好用 AI：了解「AI 風險」的公務生存指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "保持理解、批判性思考，並學習如何負責任地使用與協作",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T11:13:04.414Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "保持理解、批判性思考，並學習如何負責任地使用與協作",
+    "source_review": {
+      "answer": "保持理解、批判性思考，並學習如何負責任地使用與協作",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/aiai-ee.html",
+          "title": "「好好用 AI：了解「AI 風險」的公務生存指南」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.714Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

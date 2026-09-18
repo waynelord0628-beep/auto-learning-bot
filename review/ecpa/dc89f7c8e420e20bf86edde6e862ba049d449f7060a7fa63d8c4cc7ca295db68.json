@@ -27,13 +27,31 @@
     ],
     "type": "單選",
     "course": "B511文書及檔案管理電腦化作業規範簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T00:40:09.137Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15255774009",
+          "title": "B511文書及檔案管理電腦化作業規範簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/07/b511ee.html",
+          "title": "「B511文書及檔案管理電腦化作業規範簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.680Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d9edb415330b526f897fc7d095c4f1deb9e7408a410bc25a753097975293384f",
@@ -46,13 +64,31 @@
     ],
     "type": "單選",
     "course": "B511文書及檔案管理電腦化作業規範簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1次",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T00:40:09.138Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "1次",
+    "source_review": {
+      "answer": "1次",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15255774009",
+          "title": "B511文書及檔案管理電腦化作業規範簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/07/b511ee.html",
+          "title": "「B511文書及檔案管理電腦化作業規範簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.681Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1e829f11bd420132ce04d88d52049359d29eafcb1bdf5cdfa77b27c3edb0ba57",
@@ -118,13 +154,31 @@
     ],
     "type": "單選",
     "course": "B511文書及檔案管理電腦化作業規範簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全國電子公布欄",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T00:40:09.141Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "全國電子公布欄",
+    "source_review": {
+      "answer": "全國電子公布欄",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15255774009",
+          "title": "B511文書及檔案管理電腦化作業規範簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/07/b511ee.html",
+          "title": "「B511文書及檔案管理電腦化作業規範簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.685Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "67f4e05da0d74e98210edc827a98a2fec7e515c058241dd466064d2a8198db7a",

@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "device",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.452Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "device",
+    "source_review": {
+      "answer": "device",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.900Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9de0ef68e16598657cbd6e641f62200d54f08ec33ecf8a1885856f3865b358f4",
@@ -135,13 +153,31 @@
     ],
     "type": "是非",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.901Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "15fae52dd5154079f002ea080c2116f1fc436407668f605ec34559f93d59e48d",
@@ -154,13 +190,31 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "available",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "available",
+    "source_review": {
+      "answer": "available",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.902Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5c62edec6f7c7420276d3b0d7b9be4d5bb8bbb536bc0fc09b6e0ae253bdb4d9b",
@@ -171,13 +225,31 @@
     ],
     "type": "是非",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.903Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "70099d8840dca8d5307989b36ff67342a45000a0de7d133c3f6d9a316c5de80c",
@@ -190,13 +262,31 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "characters",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "characters",
+    "source_review": {
+      "answer": "characters",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.905Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "db8e90bf62b3e1bd20950fe5bc2ce1a844a980895ada1571241551f4b926f266",
@@ -209,13 +299,31 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "various",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "various",
+    "source_review": {
+      "answer": "various",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.906Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0db64b53380332da6287510059cf365c8da5f9679ba709c885e2535c6695fa2c",
@@ -228,12 +336,30 @@
     ],
     "type": "單選",
     "course": "與時俱進的emoji",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "designer",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T06:10:42.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "designer",
+    "source_review": {
+      "answer": "designer",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251243",
+          "title": "與時俱進的emoji《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/emojiee.html",
+          "title": "「與時俱進的emoji」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.907Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

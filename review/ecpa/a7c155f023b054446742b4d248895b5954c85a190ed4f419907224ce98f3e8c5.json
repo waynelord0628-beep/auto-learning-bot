@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "disposable",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "disposable",
+    "source_review": {
+      "answer": "disposable",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.962Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "aee7cc44c831e4a47c09aa6834b11bd4161e7136963a4d00f665c09afcd76515",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "milestones",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.045Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "milestones",
+    "source_review": {
+      "answer": "milestones",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.963Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e8ff282e476947bb263130e831b0f1d700ac6ab13c88d8e10aab8f1ef34098c4",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "crucial",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.046Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "crucial",
+    "source_review": {
+      "answer": "crucial",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.964Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d732374fbd25700fa670f29f0e325dba215c15df59fd5ecdeebb52f8919349f9",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "payload",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.048Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "payload",
+    "source_review": {
+      "answer": "payload",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.965Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f28d6deb2f23a4e6d25b43f7acb83f3f8495e375835b650df69106c5be21fead",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "generates",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.051Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "generates",
+    "source_review": {
+      "answer": "generates",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.966Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "be30673fb0a10e8a75fd16dedffd12eed3d7b3742333e1b990fdbcb10a8094d7",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "profound",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.052Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "profound",
+    "source_review": {
+      "answer": "profound",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.968Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d1a5136d4f936d6791d73a4ae73a95e1c6d8d65f307189022dcfaa32a3f276df",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "extracted",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.059Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "extracted",
+    "source_review": {
+      "answer": "extracted",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.970Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b89fc36f2891fd736f59040b52ab76f665aae95aaea799ee84a6896b764a4ad2",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "aspires",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.062Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "aspires",
+    "source_review": {
+      "answer": "aspires",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.971Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b70d6f22fcf443258877657e8722a5a553a72c9aabf5c58004258696375b55b8",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "condensed",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.065Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "condensed",
+    "source_review": {
+      "answer": "condensed",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.972Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8b88b537f28eea286a1ab7adba82a397301a4163dfe5bad9129c9ba1048a879f",
@@ -181,13 +343,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "versions",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:38:36.068Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "versions",
+    "source_review": {
+      "answer": "versions",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.973Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a15ded0720e984ce25045e20bb8d833c290efbcb951a9a5a0f6a761dd2f906a6",
@@ -200,13 +380,31 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "recruit",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:39:21.924Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "recruit",
+    "source_review": {
+      "answer": "recruit",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.975Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "76a9e6c9af7efbd618fc3bead80d99f45ca284a12e01768ebd597e5e0a758eb4",
@@ -219,12 +417,30 @@
     ],
     "type": "單選",
     "course": "太空探索企業：SpaceX&空氣水",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "setback",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T05:39:21.926Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "setback",
+    "source_review": {
+      "answer": "setback",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911526",
+          "title": "太空探索企業：SpaceX&空氣水《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/spacex.html",
+          "title": "「太空探索企業：SpaceX&空氣水」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.976Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Battle of the Bulge",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.564Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Battle of the Bulge",
+    "source_review": {
+      "answer": "Battle of the Bulge",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.722Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "556a4e174bc3928ef0b61765eca28c27374d2c480d0ebdc8b0b1ab824cc4cbb0",
@@ -137,13 +151,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Baker's Dozen",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Baker's Dozen",
+    "source_review": {
+      "answer": "Baker's Dozen",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.722Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "12ab703f363ea1d22ec29c4b321acb3885dec3f2ec7e4cac18913938b8f79722",
@@ -156,13 +184,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "By Word of Mouth",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "By Word of Mouth",
+    "source_review": {
+      "answer": "By Word of Mouth",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.723Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0212bcedbdf95ccce3d380d2e7fe3688bd95bb7aa500fb6eb392b85b992c816b",
@@ -175,13 +217,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Newlywed, Newish, Newbie",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.566Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Newlywed, Newish, Newbie",
+    "source_review": {
+      "answer": "Newlywed, Newish, Newbie",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.724Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "33129635cb40ab537b5d7810f1480086eaa2c83ccd9f594ce533d9fa776b1bf5",
@@ -194,13 +250,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Task Force",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.566Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Task Force",
+    "source_review": {
+      "answer": "Task Force",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.725Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "546f414eaa82b6800eee191da4932db535369edb5871869a60fcf494648ad52c",
@@ -213,13 +283,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Down In the Dumps",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.567Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Down In the Dumps",
+    "source_review": {
+      "answer": "Down In the Dumps",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.725Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "776a6060d82727b271cf72b514b9e2f7a9ebb1c80f3ea3f61c028624d5e96ea9",
@@ -232,13 +316,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Mind Numbing",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:13.567Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Mind Numbing",
+    "source_review": {
+      "answer": "Mind Numbing",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.726Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "34e55378b2dab34c2fd1fcf94f85c388957ad90682d3b59cb6f31263fa0f95b9",
@@ -251,13 +349,27 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Surf Channels, Surf the Web, Surf and Turf",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T18:12:53.971Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Surf Channels, Surf the Web, Surf and Turf",
+    "source_review": {
+      "answer": "Surf Channels, Surf the Web, Surf and Turf",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.727Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1e4b123441378afab62d853f50a1f5402bdbc9ce52857f1241a5da51b0b8cabc",
@@ -270,12 +382,26 @@
     ],
     "type": "單選",
     "course": "英語維基＃3",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Crowdsourcing",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:26:24.807Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Crowdsourcing",
+    "source_review": {
+      "answer": "Crowdsourcing",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340017057",
+          "title": "英語維基＃3《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.727Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

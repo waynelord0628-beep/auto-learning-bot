@@ -78,13 +78,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.437Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.314Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9afc1bd4c7f4617dfd9df9610c40b82a2ccdc9ac6be3da3ddfc933ec9e412d35",
@@ -95,13 +113,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.438Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.315Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a00fbd6657ecf098bf6d9ee006908b0e2087dca5bbb4356e1e870679d73683c8",
@@ -114,13 +150,31 @@
     ],
     "type": "單選",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.439Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.316Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "871cbb22482e8ed6f860f811539606bf24636dadc43e82864ceb1eaae2bc9e1e",
@@ -131,13 +185,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.440Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.318Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0d77402f4d1ebd5a92a8a4f21582e759d51fcdd017d8315a75f64ca13e766c5f",
@@ -148,13 +220,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.440Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.319Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "628ff9d29b429dbc5a9fa5c7ca102ef6b947399bad546af9217e9449b610da5d",
@@ -165,13 +255,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.442Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.320Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d0f4b3daae214e1053be0b444dd6fa7ce5bb4df4521c6083d60db5bf4431915d",
@@ -182,13 +290,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.443Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.322Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f5ad020026369ab9381beecbf7ed1b28e2f4372f601322084857380b4bd6f356",
@@ -201,13 +327,31 @@
     ],
     "type": "單選",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "拿身材開玩笑也算是性騷擾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:46:37.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "拿身材開玩笑也算是性騷擾",
+    "source_review": {
+      "answer": "拿身材開玩笑也算是性騷擾",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.323Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9c9caf9cb3af9347dadcccadb8df54a44697d522c74d84b26b278fefe28a74d9",
@@ -218,13 +362,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:47:11.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.324Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "405c49689dbef4c92698424ed3d0f83b79ddbd0fa3b4da308672ae005c0967bd",
@@ -237,13 +399,31 @@
     ],
     "type": "單選",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:47:11.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.329Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4bbc3368376eb837b44e7618dfc7aea20c1cc7c406eac979e778f8b228bdf09e",
@@ -254,13 +434,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:47:11.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.331Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "88f66604c968ac8ecb2ebb35265078c6569b704f23abee670c38274f03538400",
@@ -271,13 +469,31 @@
     ],
     "type": "是非",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:47:11.262Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.332Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "88b79fb7569b19291851f478c58025780804a24323aa2c1c37cb095b0cd98b17",
@@ -290,12 +506,30 @@
     ],
     "type": "單選",
     "course": "性騷擾防治",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不向他人求助，獨自承受",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:47:11.262Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "不向他人求助，獨自承受",
+    "source_review": {
+      "answer": "不向他人求助，獨自承受",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.333Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

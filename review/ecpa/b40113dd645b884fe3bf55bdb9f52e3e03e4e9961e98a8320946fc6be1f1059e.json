@@ -116,13 +116,27 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "violence",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.992Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "violence",
+    "source_review": {
+      "answer": "violence",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.246Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0aea59b91a160bffbb322594aae13795eb7f45036258e8618a91e8d0346fc04f",
@@ -133,13 +147,27 @@
     ],
     "type": "是非",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.993Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.247Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6e50080449be9751d73afc34b7aa9535d4813353d6dc11c2ce666c4125f2a6fc",
@@ -152,13 +180,27 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "friendship",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.994Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "friendship",
+    "source_review": {
+      "answer": "friendship",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.247Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5ad7acb5ea2ea5671da76a9a5a1428ffd3a6eabcd00d94ade64c677519c5eabc",
@@ -171,13 +213,27 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "intelligence",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.995Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "intelligence",
+    "source_review": {
+      "answer": "intelligence",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.248Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e617bce8cdbf4813114b0d405c076478d6d196786e9178cd40e996327f1c9c5e",
@@ -190,13 +246,27 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "personality",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.996Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "personality",
+    "source_review": {
+      "answer": "personality",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.248Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e88d7946616e3add76f118c05ca47a623405fc4b648cbed5cd705a4d90dae629",
@@ -209,13 +279,27 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "situation",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.997Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "situation",
+    "source_review": {
+      "answer": "situation",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.248Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a0a1e169282101a90255177606d721ed23df23faee39c8bfb2cefc2de0e9097f",
@@ -228,12 +312,26 @@
     ],
     "type": "單選",
     "course": "有笑也有淚　大象的記憶深處",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "circus",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T05:30:32.998Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "circus",
+    "source_review": {
+      "answer": "circus",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225395",
+          "title": "有笑也有淚 大象的記憶深處《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.249Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

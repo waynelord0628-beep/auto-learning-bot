@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "嘟嘟火車",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.583Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "嘟嘟火車",
+    "source_review": {
+      "answer": "嘟嘟火車",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.368Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "14122df7e8e772e71af6140b5de17b0cb502113db61933cbad9698d73c6fa7ef",
@@ -133,13 +151,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.584Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.370Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4f00d6fbe41c7b28d85ab5dd7d992559049fa415c6fea299531489a7d6d358e1",
@@ -152,13 +188,31 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全面封閉施工",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.584Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "全面封閉施工",
+    "source_review": {
+      "answer": "全面封閉施工",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.371Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "03e5eacb2c48337a4dd49d66e1be5522f95016b8c0bde0d9bb6eca73e34f3853",
@@ -171,13 +225,31 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "林百貨",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.584Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "大新百貨",
+    "source_review": {
+      "answer": "大新百貨",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.373Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b46eb73853d7eabf8f26786b5dd16cbc3aca2b75ef4059da715784198c3c1533",
@@ -190,13 +262,31 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "北野町",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.585Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "旗後町",
+    "source_review": {
+      "answer": "旗後町",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.374Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "40d8a265784071e5668aa2370c8272c1c720ae3d0fb40a93243131ead4a6a9d6",
@@ -207,13 +297,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.585Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.376Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c95aef1710cf7f54fa4af90fffaed7c7de3a375fc6aec680ab3b694d5cf2b35d",
@@ -224,13 +332,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:26:39.585Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.377Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "21477456c54e460176a0550cc77bb971a445eb9448df3696b67f866c295cab8f",
@@ -241,13 +367,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:15.242Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.379Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "089eef2029bb348bae4f8a2a3d4dbfba8ff81a26b2401390bb9c72ebf4aecd5e",
@@ -258,13 +402,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:15.244Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.380Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "65acbba9faab9e4edd8d1fed6bd3937c39a1b0bbae6f3838777bb58a707d282c",
@@ -275,13 +437,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:15.245Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.383Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3e9f8b77f5ba56cabdded5eaf4828d60b47360c65c11be190e3c3eea465d7015",
@@ -294,13 +474,31 @@
     ],
     "type": "單選",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高雄地下街失火",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:45.682Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "治安變差",
+    "source_review": {
+      "answer": "治安變差",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.385Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5097850e31d3846a9d3c08fe81673cf7e54b0ac95bbe38a9e66e04a167058ed1",
@@ -311,13 +509,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:45.683Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.386Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "873e83704ddb2fba050a806c1153834b85b80f303229762ec0a817075a8ba680",
@@ -328,13 +544,31 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:45.684Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.388Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "91379d296f7cbaeaec89ce5c37112dc1e5dcb9d208e652b560c720122ff4dbc3",
@@ -345,12 +579,30 @@
     ],
     "type": "是非",
     "course": "從臨港線穿梭鹽埕今昔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T18:27:45.684Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347695509",
+          "title": "從臨港線穿梭鹽埕今昔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02056052316.html",
+          "title": "「從臨港線穿梭鹽埕今昔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.389Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

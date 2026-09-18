@@ -29,13 +29,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "will be",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.515Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "will be",
+    "source_review": {
+      "answer": "will be",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.679Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "30a77a18c769197f5ffbfb80678b1a7e9ef18538a2a88241f41d54604a18f9e5",
@@ -48,13 +66,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "reach",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.515Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "reach",
+    "source_review": {
+      "answer": "reach",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.680Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "258a91b19653b44fc555dc8cf4fa4a64400c6e0c6d475bd68dcaa30b1b9786e2",
@@ -86,13 +122,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "choose",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.516Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "choose",
+    "source_review": {
+      "answer": "choose",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.683Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e40921cfafcaecb1451ae7c50ef0b3367244bfa9b78df24016615d89fadc88ba",
@@ -105,13 +159,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "leave",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "leave",
+    "source_review": {
+      "answer": "leave",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.684Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d8d616771fb647e09fddf61577c1c9bad0c9fbc05ac3f1aa47bcef738318f345",
@@ -124,13 +196,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "birds",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "birds",
+    "source_review": {
+      "answer": "birds",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.685Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3f6a9a6413868ba75ee2a14a5e37bf1b289cb9a532650ae88aae9b6a156a4f5b",
@@ -143,13 +233,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "off",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "off",
+    "source_review": {
+      "answer": "off",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.686Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "90bd7ad8032637f6ab3681e7cae0a65671a978863c0b72c7f9015e42e52f0376",
@@ -162,13 +270,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "rope",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "rope",
+    "source_review": {
+      "answer": "rope",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.687Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "51f7d1eef8ea13f81bd5c883bc6cf8b4776d9d1357b43cb16d071a83d2f5e6f9",
@@ -181,13 +307,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "collects",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:39:24.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "collects",
+    "source_review": {
+      "answer": "collects",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.688Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c5ebf6d1b2af2725d31db4d6fbd7030c134c4880679cde375e40fc8e96b9df42",
@@ -200,13 +344,31 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "are",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:40:06.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "are",
+    "source_review": {
+      "answer": "are",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.690Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "144732c4372f243262fbfa03aed365d5b5dc0be885e4fcbeda85f3784d17332b",
@@ -219,12 +381,30 @@
     ],
     "type": "單選",
     "course": "水上安全&淨灘活動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "at",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T03:40:06.159Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "at",
+    "source_review": {
+      "answer": "at",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911601",
+          "title": "水上安全&淨灘活動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_30.html",
+          "title": "「水上安全&淨灘活動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.691Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

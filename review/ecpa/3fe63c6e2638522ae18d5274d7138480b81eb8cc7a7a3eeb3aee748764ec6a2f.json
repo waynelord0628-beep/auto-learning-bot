@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "有價值的；貴重的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.084Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "有價值的；貴重的",
+    "source_review": {
+      "answer": "有價值的；貴重的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.865Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2291e7b93f97856e104e1da6fb87811c85352a0c127079265315093936c59b09",
@@ -137,13 +155,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(公開)稱譽；讚賞",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.085Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "(公開)稱譽；讚賞",
+    "source_review": {
+      "answer": "(公開)稱譽；讚賞",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.870Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "086cf834402cd9e2ed46dfde074d3c538474170984dcc892d6aa75e43471caea",
@@ -156,13 +192,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "構想；規劃",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.087Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "構想；規劃",
+    "source_review": {
+      "answer": "構想；規劃",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.875Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9f3f42ba2d9da137905c064325cc2b2968b7fd50662d5dfb068af502da571bed",
@@ -175,13 +229,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "蓄意的，故意的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.090Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "蓄意的，故意的",
+    "source_review": {
+      "answer": "蓄意的，故意的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.880Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0b4052d27964943baf4e6a2186b1d5e0c9714e659ad5ff7ef71b049fa9d50ae5",
@@ -194,13 +266,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "權力；管轄權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.091Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "權力；管轄權",
+    "source_review": {
+      "answer": "權力；管轄權",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.884Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8b7e686839019a2b4eaad17b8b389440a4470556d0ee44c83f37d54b8c143bdc",
@@ -213,13 +303,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "蓬勃發展；茁壯成長",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.093Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "蓬勃發展；茁壯成長",
+    "source_review": {
+      "answer": "蓬勃發展；茁壯成長",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.889Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "68c746baa482b58bc812db0e947cddd4a39692710dc5895adaf23e67636ecbf3",
@@ -232,13 +340,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "處理；對付",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:55:22.095Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "處理；對付",
+    "source_review": {
+      "answer": "處理；對付",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.893Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ebd030f5e27e5c0700a6cc024df829d88e1770679f0f98d1b0f4c35ba1bf9c19",
@@ -251,13 +377,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自信；信心",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "自信；信心",
+    "source_review": {
+      "answer": "自信；信心",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.897Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b3c89a4a83c7a3166c9d16d97f5febeac9a76adaf2a0f3e1078b59833dcac8d9",
@@ -270,13 +414,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在其他情況下",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "在其他情況下",
+    "source_review": {
+      "answer": "在其他情況下",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.903Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ae39ccb7e78ac9e59aee09603103d70db61a1b05e2734259152dc484f47722fc",
@@ -289,13 +451,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "捲入；牽扯",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.359Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "捲入；牽扯",
+    "source_review": {
+      "answer": "捲入；牽扯",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.908Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c1e6385afe7530a95c27c416600985c53890f16b483566b1f64114fb9390d7ad",
@@ -308,13 +488,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "最終，終於",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.360Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "最終，終於",
+    "source_review": {
+      "answer": "最終，終於",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.914Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6fd69c0e007e7633f543475bd3b37060474fa3108cf074948e92e97a0c735ec2",
@@ -327,13 +525,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "孵出；孵化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.360Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "孵出；孵化",
+    "source_review": {
+      "answer": "孵出；孵化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.918Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3ec0cd3db712d53a5cfcbf677ab3327d2541991f4c61952488adc58c32c6db81",
@@ -346,13 +562,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "好處；優勢",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "好處；優勢",
+    "source_review": {
+      "answer": "好處；優勢",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.924Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6169696c8032a84e2ed85fa8959abd0c9226cecbc8f843a74893925899cc6d1d",
@@ -365,13 +599,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "面部的，臉上的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "面部的，臉上的",
+    "source_review": {
+      "answer": "面部的，臉上的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.928Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3d3990108fde39256e66173b2444b29b999dd47b19be84e91eb9274b7261e6f4",
@@ -384,13 +636,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "焦慮，不安",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.362Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "焦慮，不安",
+    "source_review": {
+      "answer": "焦慮，不安",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.935Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "efe0e734f5e689fa5116d0ca05d1f577d08adacee4e0bfa6c192574b0c5a7ced",
@@ -403,13 +673,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減少；降低",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.362Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "減少；降低",
+    "source_review": {
+      "answer": "減少；降低",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.939Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a617ffa33a3bf5cabf7aeba662fec0a006988a70e98316d018c441a741590df3",
@@ -422,13 +710,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "家庭",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:03.363Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "家庭",
+    "source_review": {
+      "answer": "家庭",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.944Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d8d87ac40abe9abfeea986b2ff01767d9a8ac71ab121bcbed0ab200d90c48884",
@@ -441,13 +747,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "開車",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "開車",
+    "source_review": {
+      "answer": "開車",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.949Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "72da4be7efb9084c0be3364c21ed413d8ef71de1d57aec224ee72962e7176c89",
@@ -460,13 +784,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "拖延，延後",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "拖延，延後",
+    "source_review": {
+      "answer": "拖延，延後",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.953Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c16b9ed1eab0986f7c5bebc9dc1051afe26567a8cce3ca1f3e816cd9668dc1c1",
@@ -479,13 +821,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "招認；承認",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.425Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "招認；承認",
+    "source_review": {
+      "answer": "招認；承認",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.958Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cf3d1d7b308c68840f76bbe1dd14979ae80544ee8022e5c5ef9b1d5bbf586e7a",
@@ -498,13 +858,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "捐贈；捐獻",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "捐贈；捐獻",
+    "source_review": {
+      "answer": "捐贈；捐獻",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.962Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1a5bf70c9cff90ea90245b7ae26d7f7188b15fc508946f5bfdc426fcfcff9f96",
@@ -517,13 +895,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "調味品",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "調味品",
+    "source_review": {
+      "answer": "調味品",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.967Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "121d83d15c5e91694eb20a2c88f44a97340393011b609018611c6828a31701ac",
@@ -536,13 +932,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "表示；示意",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T10:56:38.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "表示；示意",
+    "source_review": {
+      "answer": "表示；示意",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.972Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "31b41098459017e2a956ed6b0b2a076b3ffb5cd2109639ffcbecd6a2c70558f1",
@@ -555,13 +969,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(大量地)吃；消耗",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.113Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "(大量地)吃；消耗",
+    "source_review": {
+      "answer": "(大量地)吃；消耗",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.977Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e1931086f4139e60b8b8a4802eed5c3afc244377ad42d9ee77b9edeb49f947aa",
@@ -574,13 +1006,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "財產；所有物",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.116Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "財產；所有物",
+    "source_review": {
+      "answer": "財產；所有物",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.982Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9b20e2df9ba936a28434a8abd201ca8c8163e2e102447d16ea2eaa624a909d5d",
@@ -593,13 +1043,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "偷偷地走，潛行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.118Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "偷偷地走，潛行",
+    "source_review": {
+      "answer": "偷偷地走，潛行",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.987Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2949948660b50974cea097e3c0efc08784282e86fb95992822e7b67d6aa38526",
@@ -612,13 +1080,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "心上人；甜心",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.131Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "心上人；甜心",
+    "source_review": {
+      "answer": "心上人；甜心",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.992Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7a0f2148af760ab0f7f421526fc92a67c84da57657d6c660cc53d8ab99488478",
@@ -631,13 +1117,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "想像；使形象化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.133Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "想像；使形象化",
+    "source_review": {
+      "answer": "想像；使形象化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.996Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9f4d528c2722e7ac40bf3dc32243da1c43492865293b212549bad260cd06a749",
@@ -650,13 +1154,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "懸疑；懸念",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:11:57.140Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "懸疑；懸念",
+    "source_review": {
+      "answer": "懸疑；懸念",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.000Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ed7e5d5ed864eae11f045d32684b70c4b4cb80c9f5c555336334ae14c6fe75a5",
@@ -669,13 +1191,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "耗費；消耗",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:12:32.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "耗費；消耗",
+    "source_review": {
+      "answer": "耗費；消耗",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.005Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9f8f3fff14d06f835fd0b648ef88f3a0f564cb46cec589b79c8a1d243a1af25f",
@@ -688,13 +1228,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "診斷(病症)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:12:32.264Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "診斷(病症)",
+    "source_review": {
+      "answer": "診斷(病症)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.009Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7aeba669437eeffb9baf2ec5dbd2025116ee3f54bee1632c67af01b1bb553055",
@@ -707,13 +1265,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "有志於；追求",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:12:32.265Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "有志於；追求",
+    "source_review": {
+      "answer": "有志於；追求",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.014Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "de99cc8259b720fb7851fafadbfa7247b4d737e9af2363ced708f3b30f91f7d4",
@@ -726,13 +1302,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "綠洲；寧靜宜人之地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:12:32.269Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "綠洲；寧靜宜人之地",
+    "source_review": {
+      "answer": "綠洲；寧靜宜人之地",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.019Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ad3521b2bedb67b3ca2b8633258262c866c611e0f93b42d368c977b3c1990dd4",
@@ -745,13 +1339,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "結實的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.936Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "結實的",
+    "source_review": {
+      "answer": "結實的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.024Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fbcc12b2e067bd3825c97622ca451c396ad8125e7601704ba4fede0d100e57dc",
@@ -764,13 +1376,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沒有限制",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "沒有限制",
+    "source_review": {
+      "answer": "沒有限制",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.029Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b11087b1338dd295ca0dc6d0d7a036d610f88b48da0e2034957509c3026464fa",
@@ -783,13 +1413,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "荒野；荒地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.939Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "荒野；荒地",
+    "source_review": {
+      "answer": "荒野；荒地",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.034Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "05b21bf3a1d57f9e73c6ed2393edb8435f736187744e8bbadae0997465be08cb",
@@ -802,13 +1450,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "匿名地；不具名地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "匿名地；不具名地",
+    "source_review": {
+      "answer": "匿名地；不具名地",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.040Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2f46616ef620b6bff6810999fad984ca8680e2a38397521bca440ccb40782ea0",
@@ -821,13 +1487,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "偶然發現",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T16:13:06.941Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "偶然發現",
+    "source_review": {
+      "answer": "偶然發現",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.045Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "447148035047bf2c37eb28d4f3af65585dba745615109127af15fbf4b9d6ed28",
@@ -840,13 +1524,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "拋棄；遺棄",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:16:29.448Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "拋棄；遺棄",
+    "source_review": {
+      "answer": "拋棄；遺棄",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.049Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c62818eb26f7e4938acb6b2ad36e211241555177600a52c95de8ddfa58262162",
@@ -859,13 +1561,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不同凡響的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:16:29.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "不同凡響的",
+    "source_review": {
+      "answer": "不同凡響的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.054Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ff38c9634d297bf63c6ca3dbc8cefd7869947c07a49980081e84118e4b065ee2",
@@ -878,13 +1598,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "細節",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:16:29.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "細節",
+    "source_review": {
+      "answer": "細節",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.058Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "91c674f7a53c5499aa9d80ce6e6721b56113bc875c1e4fa5c7a80f38b56c4d16",
@@ -897,13 +1635,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "緊張忙亂地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:16:29.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "緊張忙亂地",
+    "source_review": {
+      "answer": "緊張忙亂地",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.063Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c8aa2ced9b842e9ac8f757e1756756b660a05ed2444a54c03fba885a0b1a35e9",
@@ -916,13 +1672,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確定…的方向；引導",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:17:39.723Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "確定…的方向；引導",
+    "source_review": {
+      "answer": "確定…的方向；引導",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.068Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0cc0c6aafc875a7dbe3e50d0e668bb39215584c4f56535e50f25adc07d63b6e1",
@@ -935,13 +1709,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(使)逐步演變，(使)逐步發展",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:17:39.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "(使)逐步演變，(使)逐步發展",
+    "source_review": {
+      "answer": "(使)逐步演變，(使)逐步發展",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.074Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "df50515267a90ece3d2169ab85e810ecaa80b52fcca8cf03a22a41f1e5bfcd8e",
@@ -973,13 +1765,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "禮貌；習慣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:17:39.734Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "禮貌；習慣",
+    "source_review": {
+      "answer": "禮貌；習慣",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.085Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e8094c0105445e09a740e16f1c2568b2f2382677fce804058b44f9ae35ecf215",
@@ -992,13 +1802,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "心愛的；深愛的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:17:39.736Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "心愛的；深愛的",
+    "source_review": {
+      "answer": "心愛的；深愛的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.090Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b1791444c18680f125d1c03c4988a633715ed5b96a524e656d17b6431731daab",
@@ -1011,13 +1839,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "選擇，挑選",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:39:27.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "選擇，挑選",
+    "source_review": {
+      "answer": "選擇，挑選",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.095Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1cabf7d3f74764c86b81942829737c60a9639f40c1373c0985d3f71caff9869f",
@@ -1030,13 +1876,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "美麗動人的，極其漂亮的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:39:27.633Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "美麗動人的，極其漂亮的",
+    "source_review": {
+      "answer": "美麗動人的，極其漂亮的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.100Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "59a2c2f8fc50c313a33a54c4564fa10a3009258a26b018a2a85ff5450ea81dc2",
@@ -1049,13 +1913,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "徹頭徹尾的；仔細的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.709Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "徹頭徹尾的；仔細的",
+    "source_review": {
+      "answer": "徹頭徹尾的；仔細的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.107Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "589badfec20f66789fdfb22b6dae9870fd0a8f5e60a13e328ac4aca9233cd103",
@@ -1068,13 +1950,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "克服；戰勝",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.710Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "克服；戰勝",
+    "source_review": {
+      "answer": "克服；戰勝",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.115Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1b078aa0196d7363404d3bd54789ed70451aecf89cdd0b281ee520170d3348c0",
@@ -1087,13 +1987,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使毀滅；注定",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.710Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "使毀滅；注定",
+    "source_review": {
+      "answer": "使毀滅；注定",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.119Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "17d50cc27fcd5963621807e97728477a88b60d1e3e17b4356e12ad6af36daf48",
@@ -1106,13 +2024,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "隱藏；隱匿",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.711Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "隱藏；隱匿",
+    "source_review": {
+      "answer": "隱藏；隱匿",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.124Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d3224f92dd79440ab3c9851553c797647ede35f20ab82721425995c09c506105",
@@ -1125,13 +2061,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "符合；與…一樣好",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.713Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "符合；與…一樣好",
+    "source_review": {
+      "answer": "符合；與…一樣好",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.130Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3e0efeb8524a1f74b28ebabc482a4d515a1ab9c15f35be16dfcccb9f89e21248",
@@ -1144,13 +2098,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可憐的；可悲的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:04.713Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "可憐的；可悲的",
+    "source_review": {
+      "answer": "可憐的；可悲的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.136Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8bac34dd135e6d54154e76b43d0a9d30c1fcb512d52b128fe3515ae9e5d7d214",
@@ -1163,13 +2135,31 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "徹底改變",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:50.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "徹底改變",
+    "source_review": {
+      "answer": "徹底改變",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.142Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b590eb6a3ccc054f3eeabe5a9c3a04cbc2a5e884a345dca2ffe292e073400caf",
@@ -1182,12 +2172,30 @@
     ],
     "type": "單選",
     "course": "英語超短劇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "吸引",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:40:50.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "吸引",
+    "source_review": {
+      "answer": "吸引",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331906300",
+          "title": "英語超短劇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_710.html",
+          "title": "「英語超短劇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.148Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

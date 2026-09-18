@@ -10,13 +10,27 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "straight",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.947Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "straight",
+    "source_review": {
+      "answer": "straight",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.758Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1f178fc3612788a6d016bdb11dabae6046776b29f809b5efc8ac150cbd20bfdd",
@@ -29,13 +43,27 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "lanes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.949Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "lanes",
+    "source_review": {
+      "answer": "lanes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.758Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f0207a2790dfa30d2e42ec2b4ff314d025509722115d20e971a509b4dafa70df",
@@ -48,13 +76,27 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ahead",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.950Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "ahead",
+    "source_review": {
+      "answer": "ahead",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.758Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7b014700bbec60c9bd92165253389a68bb81197aa8467e735879c781fd57e2be",
@@ -67,13 +109,27 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "path",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.951Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "path",
+    "source_review": {
+      "answer": "path",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.758Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e6a0d86fe6e7a737014027d0c08a6dfe98ee3bba9b830805d1738df3ede4967a",
@@ -86,13 +142,27 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "owns",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "owns",
+    "source_review": {
+      "answer": "owns",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.759Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7d2e96d3888a9e0c8095ddd6e0fb13b400e1ff591bf4daa3e9dee87760c6438f",
@@ -105,12 +175,26 @@
     ],
     "type": "單選",
     "course": "安全搬運物品&租借交通工具",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "depends",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T12:50:43.953Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "depends",
+    "source_review": {
+      "answer": "depends",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340016745",
+          "title": "安全搬運物品&租借交通工具《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.759Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

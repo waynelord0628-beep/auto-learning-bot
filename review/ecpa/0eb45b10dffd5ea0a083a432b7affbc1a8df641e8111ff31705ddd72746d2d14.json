@@ -110,13 +110,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.227Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.528Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5d5cb6c81d563355ff89bfd87cde2478a1caedaa41736b836b7522c307239bdf",
@@ -127,13 +145,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.233Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.529Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "dc60ec1163a414feadabd639a9813bdd98c3671ec9ea9a8797727d256c5f6281",
@@ -144,13 +180,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.239Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.531Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c9a0cb73c8aa9c0b38e471684a88078c9894d63041740df3c3d1b2ded367782f",
@@ -161,13 +215,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.240Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.534Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "14e8b65f9f0c98033ea05028b5793e7663191a13ca027ae79dea8ab54539393e",
@@ -178,13 +250,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.241Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.535Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f33b4df875050bc49adc445da8ef812ec3f6b03efd247e6f8324a1a9014fc37f",
@@ -195,13 +285,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.248Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.537Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cb70556d3a0d2efc94dda5770992ea5b0192b8e3dad4eae0907670f2dfa8770b",
@@ -212,13 +320,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:25.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.538Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e6615bb284e451721abb45a68413371582892b2baf26888ef033b7ae4c802c9c",
@@ -229,13 +355,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:53.997Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.540Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "298d04b4c95290aa4504496567dcabf81bb80b7a5fde943e57d405ec085e5845",
@@ -246,13 +390,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:53.999Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.541Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3dd0173b4b04ccdd5e32f66f86d2262dfac1e06200e07a522bf419923fa1a776",
@@ -263,13 +425,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:17:54.000Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.542Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "563ecf5e01ebc506a107ec815386dfe93e0d80cf4c4abfeccd09bb406fc3f321",
@@ -280,13 +460,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:18:23.187Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.544Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2613a48e4a6d20208cf01fc008fc6c22a40d64318629bf9771b3ef550a5190fd",
@@ -297,13 +495,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:18:23.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.545Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d4e6d8f2c8556979139e165fdf5dc92e54c20ce6b0887ad606a1f0c37f901af9",
@@ -314,13 +530,31 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:18:23.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.546Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "eb1e5671204020509408f9893aff685bfad768d2945da98101f8b94b9225db90",
@@ -331,12 +565,30 @@
     ],
     "type": "是非",
     "course": "行政中立暨便民與圖利",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T10:18:23.190Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337469097",
+          "title": "行政中立暨便民與圖利《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_486.html",
+          "title": "「行政中立暨便民與圖利」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.547Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

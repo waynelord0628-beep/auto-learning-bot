@@ -109,13 +109,31 @@
     ],
     "type": "單選",
     "course": "從臭水溝到城市綠寶：台中綠川的華麗重生",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "All of the above.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:06:07.070Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "All of the above.",
+    "source_review": {
+      "answer": "All of the above.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100321",
+          "title": "從臭水溝到城市綠寶：台中綠川的華麗重生《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_452.html",
+          "title": "「從臭水溝到城市綠寶：台中綠川的華麗重生」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.452Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d19605bf5b50770dd8770bb27fed47870a0e86bb4ced1d1cb2fa8fe6eb16075a",

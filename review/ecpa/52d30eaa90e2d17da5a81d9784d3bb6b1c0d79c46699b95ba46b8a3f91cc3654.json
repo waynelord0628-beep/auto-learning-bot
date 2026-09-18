@@ -222,13 +222,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(聖誕節)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "tales",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:43:20.119Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "tales",
+    "source_review": {
+      "answer": "tales",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.257Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "41d46ec2d246f8a76c198b073d2ab0ec71f715552827202f68c3a9c35d8f115e",
@@ -241,13 +255,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(聖誕節)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "birth",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:43:20.119Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "birth",
+    "source_review": {
+      "answer": "birth",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.258Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "afce5fc0423cdc9c3c8b1b5daa9c4d876995f9d4166f7ae024b7e75a007b51c6",
@@ -260,13 +288,27 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(聖誕節)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "fertilizes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:43:20.121Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "fertilizes",
+    "source_review": {
+      "answer": "fertilizes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.258Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "66ee9f8f8135ac8b369c2258d25f8ca168c29828fd9843a4276d4cbe90c31d4f",
@@ -279,12 +321,26 @@
     ],
     "type": "單選",
     "course": "十萬個冷知識(聖誕節)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "priest",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T04:43:20.122Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "priest",
+    "source_review": {
+      "answer": "priest",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225375",
+          "title": "十萬個冷知識(聖誕節)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.258Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

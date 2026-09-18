@@ -118,13 +118,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "SDG6 (淨水與衛生)與SDG15 (陸域生態)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.418Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "SDG6 (淨水與衛生)與SDG15 (陸域生態)",
+    "source_review": {
+      "answer": "SDG6 (淨水與衛生)與SDG15 (陸域生態)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.403Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6d26eba2fdc01c431f76ce1fee8d029326c2b11e9352fa096b5fa04fbbd73d7e",
@@ -137,13 +151,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "肺臟",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "腎臟",
+    "source_review": {
+      "answer": "腎臟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.403Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "172769caff95780cadd5a53aff27c404de7996cd56c163e13d9214d069441606",
@@ -156,13 +184,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "循環經濟與減量設計工法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "循環經濟與減量設計工法",
+    "source_review": {
+      "answer": "循環經濟與減量設計工法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.404Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ed7aed4049f090351e84500d8a4dc48ebaa38666720fb3c0fcdd080d46ca37fa",
@@ -175,13 +217,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "設計生物通道、保留原生蕨類林園、營造原生魚類水道，並透過人工種植的方式加速自然界森林及生態池的整體環境恢復",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "設計生物通道、保留原生蕨類林園、營造原生魚類水道，並透過人工種植的方式加速自然界森林及生態池的整體環境恢復",
+    "source_review": {
+      "answer": "設計生物通道、保留原生蕨類林園、營造原生魚類水道，並透過人工種植的方式加速自然界森林及生態池的整體環境恢復",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.404Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fecc4b76e4ef98370c0a5ea53bf097d68341a13c6559c2b99078d46d0246bab1",
@@ -194,13 +250,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "氣候變遷導致全球所有地區的溫度上升速度均等，沒有任何區域差異",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.422Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "氣候變遷導致全球所有地區的溫度上升速度均等，沒有任何區域差異",
+    "source_review": {
+      "answer": "氣候變遷導致全球所有地區的溫度上升速度均等，沒有任何區域差異",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.405Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "12c576ccc1521b42c9c2782dbbb959cccb7d238c239eac88c10caa319d562b57",
@@ -213,13 +283,27 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全球碳排放至少減排43%，且全球必須有超過60%電力來自再生能源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.425Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "全球碳排放至少減排43%，且全球必須有超過60%電力來自再生能源",
+    "source_review": {
+      "answer": "全球碳排放至少減排43%，且全球必須有超過60%電力來自再生能源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.409Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b7b3edbaa73d7675e5ff62272461dbada9dbec9d6b625b98b4a71692e75a845c",
@@ -232,12 +316,26 @@
     ],
     "type": "單選",
     "course": "永續策略-行動SDGs塑造未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "永續議題是複雜且多面向的，涉及各方利害關係的動態平衡，需要深入討論並尋求可行方案",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:24:20.425Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "永續議題是複雜且多面向的，涉及各方利害關係的動態平衡，需要深入討論並尋求可行方案",
+    "source_review": {
+      "answer": "永續議題是複雜且多面向的，涉及各方利害關係的動態平衡，需要深入討論並尋求可行方案",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/sdgsee.html",
+          "title": "「永續策略-行動SDGs塑造未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.410Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

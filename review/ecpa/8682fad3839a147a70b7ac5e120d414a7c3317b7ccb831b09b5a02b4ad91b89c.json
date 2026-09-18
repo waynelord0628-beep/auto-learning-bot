@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "受雇者於執行職務時，遭不特定人於公共場所或公眾得出入場所所為之性騷擾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.691Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "受雇者於執行職務時，遭不特定人於公共場所或公眾得出入場所所為之性騷擾",
+    "source_review": {
+      "answer": "受雇者於執行職務時，遭不特定人於公共場所或公眾得出入場所所為之性騷擾",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.815Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "702e3e7348004f70c71b144c21fe681c1224e99305ee69a958857b2581d03b73",
@@ -135,13 +153,31 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "於知悉事件發生後1年內提出申訴。但自性騷擾事件發生之日起逾3年者，不得提出",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.693Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "於知悉事件發生後3年內提出申訴。但自性騷擾事件發生之日起逾7年者，不得提出",
+    "source_review": {
+      "answer": "於知悉事件發生後3年內提出申訴。但自性騷擾事件發生之日起逾7年者，不得提出",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.817Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8329e99cc2a815c836c3095ecb38a7e3648090ca54432b9d7a73d15f9c276d83",
@@ -152,13 +188,31 @@
     ],
     "type": "是非",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.694Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.818Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7ab4ea9ba3d6502c650a099fd1d666ac29c5bee07982613a4a73608fcb3d6bd1",
@@ -169,13 +223,31 @@
     ],
     "type": "是非",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.695Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.819Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8020dce7ce76dee430e638e4c440430a346bf32e793ed02fbd322788fbee7e8d",
@@ -188,13 +260,31 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性騷擾申訴事件之調查結果，應移送直轄市、縣（市）主管機關審議處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.696Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "性騷擾申訴事件之調查結果，應移送直轄市、縣（市）主管機關審議處理",
+    "source_review": {
+      "answer": "性騷擾申訴事件之調查結果，應移送直轄市、縣（市）主管機關審議處理",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.820Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1a5fb5a2845619fabbcbaaf7d1502c2506049f5c51b0189de62c7d85da88b5aa",
@@ -205,13 +295,31 @@
     ],
     "type": "是非",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:00:41.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.822Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4ffed425c7a884476a585aa0cd7223b51b66e9c6431810041ba7e647489c5b9e",
@@ -243,13 +351,31 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "7日內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:01:16.881Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "14日內",
+    "source_review": {
+      "answer": "14日內",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.824Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "53c6072beba95d77a094e0d8a6e110b38dc9fe1a58b2bb25a9baeea758719db0",
@@ -260,13 +386,31 @@
     ],
     "type": "是非",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:01:16.882Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.825Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d4f1c8b618675ebb79b7cd10ddf8ec1e2190d95ababcb147a16919e8bdcd2459",
@@ -279,13 +423,31 @@
     ],
     "type": "單選",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行為人所屬服務機關之上級機關",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T18:01:46.216Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "行為人所屬服務機關之上級機關",
+    "source_review": {
+      "answer": "行為人所屬服務機關之上級機關",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.826Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e411fa350bcd27ef952e9db99d29af81297f65dd707d04a755284968630ede1a",
@@ -315,12 +477,30 @@
     ],
     "type": "是非",
     "course": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:18:44.612Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835921",
+          "title": "行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_537.html",
+          "title": "「行政院所屬中央及地方各機關（構）性騷擾案件申訴處理作業流程指引」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.828Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

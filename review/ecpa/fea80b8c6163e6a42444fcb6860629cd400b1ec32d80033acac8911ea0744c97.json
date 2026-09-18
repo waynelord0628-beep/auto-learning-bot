@@ -8,17 +8,30 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.124Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-21T08:20:50.860Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.893Z"
+    }
   },
   {
     "id": "7eb2d56927d999286968aa7010e47cdc7d05ba5cb0b1e3030f000d2e6ce2914c",
@@ -29,17 +42,30 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.125Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-21T08:21:03.421Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.893Z"
+    }
   },
   {
     "id": "2fcf468cea4a188b3736df8bcc7761e1eaedb609a071e6a9965062da87427fc5",
@@ -50,17 +76,30 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.125Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-21T08:21:16.937Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.894Z"
+    }
   },
   {
     "id": "e3b80014ea891397e2d7ff2487226770722d59c1d702b9d78016f163546924c0",
@@ -71,13 +110,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.126Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.894Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ce89dee49716c06636041ca85e4ec08f2ed46335f1f0fb84355fc5f47a0cbe75",
@@ -88,13 +141,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.126Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.894Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "35223895c6181b0416b986d677a8fabaf69eec068934b80994594ffaee52560c",
@@ -105,13 +172,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.127Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.894Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6658b9660d6d96b3e97a5f477d9447a14e20ad1b82430d5b57e0b4dc5a044a83",
@@ -122,13 +203,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.127Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.895Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "459b4063e60861cd80a0562a76c3364534430587f29018b647d4f9c1672fdfab",
@@ -139,13 +234,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.128Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.895Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "868e04b526ec2e454e0efabc8a55f7016213882e48f560c416cfc356724c4e5d",
@@ -156,13 +265,27 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.129Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.895Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "885a07cdd148ace07942bf64c605f55754ba7a5b5ffca60dc691c428f43c8e0a",
@@ -173,12 +296,26 @@
     ],
     "type": "是非",
     "course": "114年度 高空樹木修剪教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:13:07.129Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831380",
+          "title": "114年度 高空樹木修剪教育訓練《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.896Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

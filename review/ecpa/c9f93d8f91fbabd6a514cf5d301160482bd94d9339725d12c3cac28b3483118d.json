@@ -116,13 +116,27 @@
     ],
     "type": "是非",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.442Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1863c85ecdec8bc2814360607d38cd110464cc4a3f3ac029709f2852d156d4f9",
@@ -133,13 +147,27 @@
     ],
     "type": "是非",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.442Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e3961bcef426af792ba41ebb188e15220f206c06bb9271b76b78ec382e461370",
@@ -152,13 +180,27 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "company",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "company",
+    "source_review": {
+      "answer": "company",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.442Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "91ee4e0547184ef51d0b1acd6970466cc098d200fc43ba3371e6cabff93366f6",
@@ -171,13 +213,27 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "hired",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.184Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "hired",
+    "source_review": {
+      "answer": "hired",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.443Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9068bf0bd0fcd3cafa8643b28b2394fbcef337cd4096a9194460a344db6c38d4",
@@ -190,13 +246,27 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "design",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.186Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "design",
+    "source_review": {
+      "answer": "design",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.443Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8dd51405aecfff93db033560d47d08aedb13039cef2be598d84782e8b3d923fb",
@@ -209,13 +279,27 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "separated",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.187Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "separated",
+    "source_review": {
+      "answer": "separated",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.443Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "37e9b621e06ae825bb027e7d673e411fe8b00d991b96eed165c3410e14d7cd61",
@@ -228,12 +312,26 @@
     ],
     "type": "單選",
     "course": "膠帶背後的小故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "tough",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T06:55:50.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "tough",
+    "source_review": {
+      "answer": "tough",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331225407",
+          "title": "膠帶背後的小故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.444Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

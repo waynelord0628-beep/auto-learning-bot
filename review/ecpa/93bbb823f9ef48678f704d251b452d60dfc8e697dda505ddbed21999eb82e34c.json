@@ -131,13 +131,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.848Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1d9a462b5062ea84d051b379c3985553a7972d7b295910def34ff5bd9806eff3",
@@ -149,13 +167,31 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "IDF戰機",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "IDF戰機",
+    "source_review": {
+      "answer": "IDF戰機",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.851Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b88014a21db7896a5f7ace3615ea6167060daffa3ca6533329c52b6e55eeb4ae",
@@ -166,13 +202,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.852Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2cdd1f612a6b4a9641276c37280e13b0ff057cd5c6643030cad50da20b1ec664",
@@ -183,13 +237,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.458Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.853Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fe17ef972e18bdc1736ceca38d20197a82d20652fb68e91f7d73ef83f5879513",
@@ -201,13 +273,31 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "漢陽造88式步槍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.467Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "漢陽造88式步槍",
+    "source_review": {
+      "answer": "漢陽造88式步槍",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.855Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0ee980668a6decd4c4461f635bcf1b3e4b0962f0f21b855e9271b4ff2d5da60f",
@@ -218,13 +308,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:10:39.469Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.857Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b93c8cdf9d7d10e625e9552bd52f9e919256dd4d6b08b2d008fe7706e3b698cd",
@@ -254,13 +362,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:14.612Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.858Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "851b4fa28d73d8c10fc6524eb1a2a62f63e0c5d4075481cd84de8368ad126fc9",
@@ -271,13 +397,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:14.612Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.860Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "d466949839c208997ee6cc85c7e60f2b9dfd6dfca0b36895f7a6a681916518da",
@@ -289,15 +433,33 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "天劍飛彈",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:14.613Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-11T19:19:38.950Z"
+    "retry_after": "2026-09-11T19:19:38.950Z",
+    "resolved_answer": "天劍飛彈",
+    "source_review": {
+      "answer": "天劍飛彈",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.861Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ed9e649dc868455b8022378967ea51d3e408d2d42a7905c71cbd02f97efd386d",
@@ -309,13 +471,31 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "創新不對稱策略",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:43.998Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "創新不對稱策略",
+    "source_review": {
+      "answer": "創新不對稱策略",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.862Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b4c5c25fcdcf6ec9e81667195102d05330b9f758db5fde908ec510fd833d3086",
@@ -326,13 +506,31 @@
     ],
     "type": "是非",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T16:11:44.015Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.864Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b912e570d2fff3a983b1768867f9de2794ca6a88c6919f743d238b9036ab543f",
@@ -363,12 +561,30 @@
     ],
     "type": "單選",
     "course": "國防科技與國防自主",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "基隆級軍艦",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T01:16:50.769Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "基隆級軍艦",
+    "source_review": {
+      "answer": "基隆級軍艦",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342767109",
+          "title": "國防科技與國防自主《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_90.html",
+          "title": "「國防科技與國防自主」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.865Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

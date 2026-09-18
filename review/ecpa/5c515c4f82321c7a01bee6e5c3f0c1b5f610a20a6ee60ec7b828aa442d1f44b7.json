@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Go Up in Smoke",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.308Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Go Up in Smoke",
+    "source_review": {
+      "answer": "Go Up in Smoke",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.395Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "640088168f67079eaf949dc85df74cd6f4512144d281427c32625862069f8a9d",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Insta Stories",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.310Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Insta Stories",
+    "source_review": {
+      "answer": "Insta Stories",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.397Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "37197d5cd26df590d3409f47487d90923015b96471ae03dc67b3dd06e74a0baf",
@@ -48,13 +84,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Hot Potato",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.312Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Hot Potato",
+    "source_review": {
+      "answer": "Hot Potato",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.400Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bfaf99167b111905307af392d2ae0c0ddfe667cabf80e9fb2e6f7c67502cecf5",
@@ -67,13 +121,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "To Feel Torn or Pulled",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.315Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "To Feel Torn or Pulled",
+    "source_review": {
+      "answer": "To Feel Torn or Pulled",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.402Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2468f2f011b39fb983e99e27916ed59ab10f930abd351f7c6746afe82dab13c7",
@@ -86,13 +158,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Makeup Tutorials",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.319Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Makeup Tutorials",
+    "source_review": {
+      "answer": "Makeup Tutorials",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.404Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "70a11935e1f1b293da18f3e16f3276b46ad9c8d80c9be3d890244d576989b290",
@@ -105,13 +195,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Epic Fail",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.324Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Epic Fail",
+    "source_review": {
+      "answer": "Epic Fail",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.407Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1d19c604c14721f80800eecc0200279f8796be08a296d6e0fa1daac772a4a076",
@@ -124,13 +232,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Drama Queen",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.326Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Drama Queen",
+    "source_review": {
+      "answer": "Drama Queen",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.409Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9e59fd7ce460e9744c52cd40b101fa94c744d31b44aabed13e08534784222b14",
@@ -143,13 +269,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Something Fishy?",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.330Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Something Fishy?",
+    "source_review": {
+      "answer": "Something Fishy?",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.411Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b53135d293c09a1fbcc68bda383a137a81b737183c1acdd42f000ec17b8b74a8",
@@ -162,13 +306,31 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Come in Handy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Come in Handy",
+    "source_review": {
+      "answer": "Come in Handy",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.414Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5a12811929d04526922e168d0038e651a6b06caacd9a37818e6b4a6ddd614a6d",
@@ -181,12 +343,30 @@
     ],
     "type": "單選",
     "course": "英語維基＃1",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Green Thumb/Black Thumb",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T11:31:19.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Green Thumb/Black Thumb",
+    "source_review": {
+      "answer": "Green Thumb/Black Thumb",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331905892",
+          "title": "英語維基＃1《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/1ee.html",
+          "title": "「英語維基＃1」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.417Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

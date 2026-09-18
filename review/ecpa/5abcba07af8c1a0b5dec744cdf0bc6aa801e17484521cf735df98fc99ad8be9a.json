@@ -110,13 +110,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.012Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.342Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6a9ca4ee16ef18560246f5452ab99ea8c0caf8964557f6b0dd71a37fe0648494",
@@ -127,13 +145,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.013Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.344Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7471564f75eac414ad369b32904c9a42e2ceb6858d7a3cc14c91d482fb1196ea",
@@ -144,13 +180,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.014Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.345Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "570e846c7fbcd41db7f502ab0a79c5fe8eb1d3ec92afbde577c518b673f66324",
@@ -161,13 +215,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.014Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.348Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e06af9e5b6072d813b49832ea2241a6ab48f88562ef1420405155a4a1ffa0ce9",
@@ -178,13 +250,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.015Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.349Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7a8e29ee049fe27e3d255fd83a86d06f1aeee30f96cc64907d104e518c62b6ab",
@@ -195,13 +285,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.016Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.351Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ece8a4d2c5471939db0e91a9579753fa1e90d5cc0f30be163885836441a4fea5",
@@ -212,13 +320,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:58:47.017Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.352Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "72a12da788a9e05d255f9355f4df793234cf71e9652bfb12c51a2579a63f341a",
@@ -229,13 +355,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:21.954Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.353Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e9c236a00463e11092dc001be82952f36921268c097d5054ed31f525c4b79045",
@@ -246,13 +390,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:21.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.354Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f8b37f609635e4c2b18927eca73e0c312f95ae0d8a110797cc9a0d4176ac6f83",
@@ -263,13 +425,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:21.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.356Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e8008dfbdb9c8d1c3084075e4e39574ec89aea80cad2ba948d6135f0c74dec0c",
@@ -280,13 +460,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:21.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.357Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fde16e5d5c7ec2c040683b944c7df56d7e2eb6587ff256c0b81218ecbc8d6501",
@@ -297,13 +495,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:51.580Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.358Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "5470edc92deeecd38e885806ede1377dbdcb19c3ee5ea22e791f2395787f9c09",
@@ -314,13 +530,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:51.581Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.360Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c7c1cccb0d6ff53ef860538931eabe5787bc9dd72cbb3aba4858d551dc824384",
@@ -331,13 +565,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:51.581Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.361Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "938f5379a62ccf6bb8f1543d7718edd92d50684ad5c54748c79d65ea64eac121",
@@ -348,13 +600,31 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:51.582Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.362Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c883d127b4672b914b7c2f7def46f95511d3b068bbc600cec4d94c7ce34a840",
@@ -365,12 +635,30 @@
     ],
     "type": "是非",
     "course": "認識跨性別者及其處境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T17:59:51.582Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337703573",
+          "title": "認識跨性別者及其處境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_21.html",
+          "title": "「認識跨性別者及其處境」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.364Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

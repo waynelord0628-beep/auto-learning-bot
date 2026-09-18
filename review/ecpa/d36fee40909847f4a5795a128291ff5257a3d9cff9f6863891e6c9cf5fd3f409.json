@@ -10,13 +10,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "By changing their colors",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.281Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "By changing their colors",
+    "source_review": {
+      "answer": "By changing their colors",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.585Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "3d33fc7e5bcd6fcc3f5fb5a84442a0fc624f59344c28ddd414f85868301bd4f3",
@@ -29,13 +43,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Sweeping the floor",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Washing the dishes",
+    "source_review": {
+      "answer": "Washing the dishes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.586Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7fe5e10a9cb970c0999c8b3fb77113631cad0cbfc3c767870ecccbd00660f87c",
@@ -48,13 +76,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Go for a walk or a run, go for a hike or a bike ride",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.285Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Go for a walk or a run, go for a hike or a bike ride",
+    "source_review": {
+      "answer": "Go for a walk or a run, go for a hike or a bike ride",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.586Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8c286209d610f90d44452411f846dbd39acde3220a72367cc47b86b47882737d",
@@ -67,13 +109,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Collecting rocks",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.286Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Playing video games",
+    "source_review": {
+      "answer": "Playing video games",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.587Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "17b9f3c210a87f81ba0f6509fa84a042c7bb723af88bf8c1b2db4446f7940c26",
@@ -86,13 +142,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Saving a credit card on the app for payment",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.287Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Saving a credit card on the app for payment",
+    "source_review": {
+      "answer": "Saving a credit card on the app for payment",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.587Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8cc8031338113f19b8347a5d0d9d8a1cab9f85ec748edd8904bcb27df835e3f7",
@@ -105,13 +175,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Use a small scissors or clippers to trim them",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.287Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Use a small scissors or clippers to trim them",
+    "source_review": {
+      "answer": "Use a small scissors or clippers to trim them",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.588Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e08c2acc0a2975a4196885a1cd3226c5d0b499731b1e269159645eff2ae3009f",
@@ -124,13 +208,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Snorkel and see colorful fish",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.288Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Snorkel and see colorful fish",
+    "source_review": {
+      "answer": "Snorkel and see colorful fish",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.588Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b023d18a5fbeb64ada6c3b75900df613e98f01786bdcb57357a4591895e23359",
@@ -143,13 +241,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Cover the cut with a bandage.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Cover the cut with a bandage.",
+    "source_review": {
+      "answer": "Cover the cut with a bandage.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.589Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "0863a0eb7ae2e02db0675e189fc289903725a1f3436867aa7ab9d756546e4632",
@@ -162,13 +274,27 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Fly a kite or play frisbee",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.290Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Fly a kite or play frisbee",
+    "source_review": {
+      "answer": "Fly a kite or play frisbee",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.589Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "70e9283551284f0b8e81964a9e5ccec2354f480931bc2a04025afe1fc46690b6",
@@ -181,12 +307,26 @@
     ],
     "type": "單選",
     "course": "J檔案",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The game ends immediately.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T21:36:23.290Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "The players get another ping pong ball and continue playing.",
+    "source_review": {
+      "answer": "The players get another ping pong ball and continue playing.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340051049",
+          "title": "J檔案《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.589Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -218,13 +218,31 @@
     ],
     "type": "單選",
     "course": "幸福捕手專業版",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:01:15.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329611188",
+          "title": "幸福捕手專業版《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.248Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "75db51310dcdbf05671550759c8581c5bd52c9f6dc29aee27cbbb4c4ffe4505a",
@@ -237,13 +255,31 @@
     ],
     "type": "單選",
     "course": "幸福捕手專業版",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:01:15.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329611188",
+          "title": "幸福捕手專業版《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.249Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "abcbb5103121b9b767d604ad7b13092c342980510967b8cf3f7cbeb7e7732460",
@@ -256,13 +292,31 @@
     ],
     "type": "單選",
     "course": "幸福捕手專業版",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:01:15.977Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329611188",
+          "title": "幸福捕手專業版《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.250Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7c3dc2eb1b194cfdc38833d54c0c473c842ef818d76c2588f0ae03d4058e2de5",
@@ -275,13 +329,31 @@
     ],
     "type": "單選",
     "course": "幸福捕手專業版",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "積極詢問壓力源，直接提供解決辦法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T15:01:15.977Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "積極詢問壓力源，直接提供解決辦法",
+    "source_review": {
+      "answer": "積極詢問壓力源，直接提供解決辦法",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329611188",
+          "title": "幸福捕手專業版《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_597.html",
+          "title": "「幸福捕手專業版」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.252Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8237a6e4ebeadef6e3bb863eb7e57ea812415717bc485f40895f8d2e2a12c527",

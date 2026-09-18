@@ -116,13 +116,27 @@
     ],
     "type": "是非",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.552Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.157Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "43cb45cb3b84468fe555f75a08b05a6ddf2d1aa940d806e3efd20a60d6177105",
@@ -135,13 +149,27 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "provides",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "supports",
+    "source_review": {
+      "answer": "supports",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.157Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1bebde8fd6ed8ff790b8208a81d8c964cef4975c149a36adfecbbcdd79a22fd6",
@@ -154,13 +182,27 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "proper",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "proper",
+    "source_review": {
+      "answer": "proper",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.157Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1b3c16c3ba748713d6f52943e00f99f3233aca52a62daaa6b70aff7bf7bf1496",
@@ -173,13 +215,27 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "release",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "release",
+    "source_review": {
+      "answer": "release",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.158Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "4bf6662763fb737a22e930423a0b4112463bb58656da00229881c1bd8da96e2f",
@@ -192,13 +248,27 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "figure",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.554Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "figure",
+    "source_review": {
+      "answer": "figure",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.158Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "ca52baac1d75c8f7a2bc25118b0b6495d0da33282e9b75355ae00029e45a28c6",
@@ -211,13 +281,27 @@
     ],
     "type": "單選",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "patients",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.554Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "patients",
+    "source_review": {
+      "answer": "patients",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.158Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "9cc9087a9521821f4b1ed17283b8c8169f425523c73876191c966d16dcd863c3",
@@ -228,12 +312,26 @@
     ],
     "type": "是非",
     "course": "偏鄉守護者 ─ 陳爸與孩子的書屋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T22:40:27.554Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331164111",
+          "title": "偏鄉守護者 ─ 陳爸與孩子的書屋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.159Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

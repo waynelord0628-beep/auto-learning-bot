@@ -118,13 +118,31 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "深假換臉，未經對方同意就移花接木製作有對方頭臉的色情影片",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.984Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "深假換臉，未經對方同意就移花接木製作有對方頭臉的色情影片",
+    "source_review": {
+      "answer": "深假換臉，未經對方同意就移花接木製作有對方頭臉的色情影片",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.573Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8748b43476fbb70fa5894ea25ffda372981bc69dffba26756db6299965a60a7d",
@@ -135,13 +153,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.985Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.575Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "183b90bca471bce88e46756eea220d49a6ce1fa265a246d5c3707a3c7be8321c",
@@ -154,13 +190,31 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.986Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.577Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8c2b25244d08a393e9dedc906ddb7b539bd65cc85c3c3b38666962093f680dc6",
@@ -171,13 +225,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.989Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.581Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b5fdf3c28258be9297f2f78bc9317efe7b83c892364db0d5d0a40dc54122daa5",
@@ -188,13 +260,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.990Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.583Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a89f624310c1ef47fe763c927be77b4b37daa8a847255aa27f4a0562cf3bdd6a",
@@ -207,13 +297,31 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "所謂「基於性別」，指的就是我們文化裡，大眾對其有刻板印象、存在偏見與歧視，本來就常以特定話語、行為對待，延展衍生為暴力舉措，而且合理化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.993Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "所謂「基於性別」，指的就是我們文化裡，大眾對其有刻板印象、存在偏見與歧視，本來就常以特定話語、行為對待，延展衍生為暴力舉措，而且合理化",
+    "source_review": {
+      "answer": "所謂「基於性別」，指的就是我們文化裡，大眾對其有刻板印象、存在偏見與歧視，本來就常以特定話語、行為對待，延展衍生為暴力舉措，而且合理化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.585Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "fc668d319781bf41da0eccf2cb4ca79fd6847fc5c7acac1eb87a4fdfc2ab858c",
@@ -226,13 +334,31 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆可能",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:11.996Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "以上皆可能",
+    "source_review": {
+      "answer": "以上皆可能",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.587Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "756405d9eba583b533c347d38cde795925f57b8d97ce4059f5b277eaf387c58a",
@@ -263,13 +389,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:47.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.589Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1afcd8d2eb6e09fb7bc0694003165cc4795a7006ce8cbb6da1654da8b7701d08",
@@ -280,13 +424,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:09:47.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.591Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "edffdc15b2989e33fc24484f65059d5b0aac02fb7b5a8036d338f9c0a203021a",
@@ -299,15 +461,33 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "「偽造或冒用身份」此類不會與其他暴力類型交織，這種犯罪總是單獨出現",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:10:17.776Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-15T06:19:38.755Z"
+    "retry_after": "2026-09-15T06:19:38.755Z",
+    "resolved_answer": "「偽造或冒用身份」此類不會與其他暴力類型交織，這種犯罪總是單獨出現",
+    "source_review": {
+      "answer": "「偽造或冒用身份」此類不會與其他暴力類型交織，這種犯罪總是單獨出現",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.593Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1c975b554265a9c231bc6716c85c68c4afc0dc3855564caa8984c6f1ad844475",
@@ -318,13 +498,31 @@
     ],
     "type": "是非",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:10:17.776Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.596Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "bebb068e3f2c4401e29b97a9e58648fad42a7b6b87b55902e815057a1fd7e2b3",
@@ -337,15 +535,33 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:10:17.776Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-13T20:19:37.064Z"
+    "retry_after": "2026-09-13T20:19:37.064Z",
+    "resolved_answer": "以上皆是",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.597Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7f5fe9c62ccc71e63ed0187bb36244221fbe7a98c543541b9688044969f12ae4",
@@ -398,13 +614,31 @@
     ],
     "type": "單選",
     "course": "性別平等與媒體素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "侵入網路攝影機取得他人影像資料就是一例",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T21:54:35.057Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "侵入網路攝影機取得他人影像資料就是一例",
+    "source_review": {
+      "answer": "侵入網路攝影機取得他人影像資料就是一例",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160525",
+          "title": "性別平等與媒體素養《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_65.html",
+          "title": "「性別平等與媒體素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.600Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "8c5c8e809d733c0dcc616918af48e3b45baebf0a7c94041107e05e2cb6d31442",

@@ -53,7 +53,7 @@ function githubGetRaw(path) {
     throw new Error(`GitHub GET ${path} failed: ${code} ${res.getContentText()}`);
   }
   const data = JSON.parse(res.getContentText());
-  const text = Utilities.newBlob(Utilities.base64Decode(data.content))
+  const text = Utilities.newBlob(ecpaFileBytes_(data, path, typeof head === 'undefined' ? null : head))
     .getDataAsString("UTF-8")
     .replace(/^\uFEFF/, "");
   return { exists: true, content: text, sha: data.sha };
@@ -553,7 +553,7 @@ function ecpaReadAt(path, head, fallback) {
   if (r.getResponseCode() === 404) return fallback;
   if (r.getResponseCode() !== 200) throw new Error('Evidence snapshot read failed');
   const data = JSON.parse(r.getContentText());
-  return Utilities.newBlob(Utilities.base64Decode(data.content)).getDataAsString('UTF-8').replace(/^\uFEFF/, '');
+  return Utilities.newBlob(ecpaFileBytes_(data, path, typeof head === 'undefined' ? null : head)).getDataAsString('UTF-8').replace(/^\uFEFF/, '');
 }
 function handleEcpaEvidence(envelope) {
   if (typeof envelope.payload !== 'string' || envelope.payload.length > 150000 || typeof envelope.signature !== 'string')
@@ -1112,4 +1112,16 @@ function ecpaVerifyCourseAnswer(q) {
   if(new Set(found.map(x=>x.answer)).size!==1)return {conflict:true};
   return {answer:found[0].answer,sources:found.map(x=>({url:x.url,title:x.title})),
     method:'course_answer_exact_v1',model:null,checked_at:new Date().toISOString()};
+}
+
+// GitHub omits inline base64 for files above 1 MB. Read the same immutable blob.
+function ecpaFileBytes_(data, path, head) {
+  if (typeof data.content === 'string' && data.encoding !== 'none')
+    return Utilities.base64Decode(data.content);
+  if (!data || !/^[a-f0-9]{40}$/.test(data.sha || '')) throw Error('Invalid GitHub file metadata');
+  const headers = Object.assign({}, githubHeaders(), {Accept:'application/vnd.github.raw+json'});
+  const r = UrlFetchApp.fetch('https://api.github.com/repos/' + GITHUB_REPO + '/git/blobs/' + data.sha,
+    {headers, muteHttpExceptions:true});
+  if (r.getResponseCode() !== 200) throw Error('GitHub large file read failed');
+  return r.getBlob().getBytes();
 }

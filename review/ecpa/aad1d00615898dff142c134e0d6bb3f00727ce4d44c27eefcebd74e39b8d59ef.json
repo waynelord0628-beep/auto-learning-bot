@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "by itself",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "of its own",
+    "source_review": {
+      "answer": "of its own",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.990Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "05995cc76fc1a8a369de92ea2703d9eb1eeb54a536384f38774aea90c16e092a",
@@ -29,13 +47,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "crazy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.222Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "crazy",
+    "source_review": {
+      "answer": "crazy",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.991Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "7da4c48267c573e62066c996a11db9898a077541c2e5517760b1e45f089a6a39",
@@ -86,13 +122,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "culture",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "culture",
+    "source_review": {
+      "answer": "culture",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.995Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "cb6e4e964f6dae12ee6bdd9729d98bb96af89eb3c7b8a11cf065fb1042d254f1",
@@ -105,13 +159,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "think of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "think of",
+    "source_review": {
+      "answer": "think of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.996Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "381b4862af6ec1c2f749e582e39bc4776c168fb289c1e40e09628d036e1a2f45",
@@ -124,13 +196,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "instead",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "instead",
+    "source_review": {
+      "answer": "instead",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.997Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b0286e84801eba6c34ef760c8de1399643034c7e526ab520f1c05856952e1d1f",
@@ -143,13 +233,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "appreciate",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "appreciate",
+    "source_review": {
+      "answer": "appreciate",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.998Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "1b74f161d3fa1162dc94135c6a5bf0a17908f67f692b0b305dcc07e104ee3608",
@@ -162,13 +270,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "My",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Mine",
+    "source_review": {
+      "answer": "Mine",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:30.999Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b8e5c269f0f78005cdcd1f6b9654daaa5c3234e813ce5aefeda806ac21311cee",
@@ -181,13 +307,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "at all",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.225Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "at all",
+    "source_review": {
+      "answer": "at all",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.001Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "449861ef0af82147fa645a6fdcbc3375f4c5b54c172422d2fcb0686ca2b15014",
@@ -200,13 +344,31 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "clear",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:26:34.682Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "clear",
+    "source_review": {
+      "answer": "clear",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.002Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "be215ff1e56b181c310bf89486ab3651359168108f498d1c2ddff926117f4931",
@@ -219,12 +381,30 @@
     ],
     "type": "單選",
     "course": "皎潔月亮&我的媽媽無敵棒",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "object",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:26:34.692Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "object",
+    "source_review": {
+      "answer": "object",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331911592",
+          "title": "皎潔月亮&我的媽媽無敵棒《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/blog-post_89.html",
+          "title": "「皎潔月亮&我的媽媽無敵棒」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.003Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

@@ -116,13 +116,27 @@
     ],
     "type": "是非",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.177Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "正確",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.520Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f78afd8cea7496678b13032cbc0e85e1fa1cd0daf8ef5b51866669e62950ee3e",
@@ -135,13 +149,27 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "affect",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "affect",
+    "source_review": {
+      "answer": "affect",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.521Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "e0fd600e5f602c378b61b8f696a6d3f970c4ba19ac4a4bf6865f5a6545afc789",
@@ -154,13 +182,27 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "novel",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "novel",
+    "source_review": {
+      "answer": "novel",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.521Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "c07e4b665ad13fc1f4e9edd740e0c2fd9033384d10a2db524da72fc5b5790e35",
@@ -173,13 +215,27 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Meanwhile",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "Meanwhile",
+    "source_review": {
+      "answer": "Meanwhile",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.522Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "298d7e4ebf00bb6ed504e4402dc947d50e21d8619111a9f55cf3b191bb33ff49",
@@ -190,13 +246,27 @@
     ],
     "type": "是非",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.522Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "88e242242caee6e33dc07d65e7f926839f281a91085da9a3d68a586e70a75a6c",
@@ -209,13 +279,27 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ignored",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "ignored",
+    "source_review": {
+      "answer": "ignored",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.523Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "86da1ccdc51dac232b8eb4ea7fc0d42f880ab1f9de301fa2263230e3298113a1",
@@ -228,12 +312,26 @@
     ],
     "type": "單選",
     "course": "《我不再沉默》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "revealed",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T15:08:57.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "revealed",
+    "source_review": {
+      "answer": "revealed",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331262663",
+          "title": "《我不再沉默》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:29.524Z"
+    },
+    "verification_status": "source_supported"
   }
 ]

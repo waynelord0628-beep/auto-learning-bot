@@ -116,13 +116,31 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "traded",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.805Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "traded",
+    "source_review": {
+      "answer": "traded",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.809Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "6a132ec0304b71e2d7376c179589d2f2872b6e71c87770e6f196bb781f7262ee",
@@ -135,13 +153,31 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "golden",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.806Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "golden",
+    "source_review": {
+      "answer": "golden",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.810Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "b92be440d8c924365d4ef1e5272f6ac96bc6042656b39478b920ca193c659658",
@@ -154,13 +190,31 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "legend",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.807Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "legend",
+    "source_review": {
+      "answer": "legend",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.811Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "f785b59a03187877cc74f70a3074323b025d4744bcf8320e4611313f850214e5",
@@ -173,13 +227,31 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "favorite",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.808Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "favorite",
+    "source_review": {
+      "answer": "favorite",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.812Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "50232bcbba863498dfa16fd98570b9fd172b68266019ec964b79da34086afdd3",
@@ -190,13 +262,31 @@
     ],
     "type": "是非",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.809Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "錯誤",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.812Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "2958943c232a31374210c6e33fc1fe561290d1797e69266c421e8a3847a156d3",
@@ -209,13 +299,31 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "holy",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.810Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "holy",
+    "source_review": {
+      "answer": "holy",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.813Z"
+    },
+    "verification_status": "source_supported"
   },
   {
     "id": "a84b638c4566aeff8dfdd946dc3f5b7d3498d8880ec6d6f0a3c8db22ff29c885",
@@ -228,12 +336,30 @@
     ],
     "type": "單選",
     "course": "洞洞食物大集合　你不知道的美味秘密",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "captain",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:58.811Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "resolved_answer": "captain",
+    "source_review": {
+      "answer": "captain",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331251231",
+          "title": "洞洞食物大集合 你不知道的美味秘密《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_756.html",
+          "title": "「洞洞食物大集合 你不知道的美味秘密」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-18T02:42:31.815Z"
+    },
+    "verification_status": "source_supported"
   }
 ]
