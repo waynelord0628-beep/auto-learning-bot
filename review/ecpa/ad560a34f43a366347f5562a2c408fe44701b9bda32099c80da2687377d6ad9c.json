@@ -855,5 +855,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T02:38:17.778Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b41c2106c15b9a0bf6c1a29548f30183f4ea778d54de1a6cbba4a27cee4d02d1",
+    "question": "請選出一個最合適的英文 :失物招領",
+    "options": [
+      "Information Desk",
+      "At the Post Office",
+      "At the Police Station",
+      "Lost & Found"
+    ],
+    "type": "單選",
+    "course": "開口說英語",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Lost & Found",
+    "source": "ai_unverified",
+    "created_at": "2026-09-18T01:35:02.008Z",
+    "review_state": "candidate_ready"
   }
 ]
