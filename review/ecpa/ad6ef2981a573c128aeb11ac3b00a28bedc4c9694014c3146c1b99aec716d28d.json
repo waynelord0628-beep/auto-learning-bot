@@ -147,7 +147,11 @@
     "candidate_answer": "在PPT中加入與聽眾互動的提問，並可以即時呈現效果",
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:43:12.536Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-25T13:20:07.659Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "eb46eebc42a216a2e8c0eb891e4f661a8ff3faaffacdc2d77f3c5728576c1fbe",
