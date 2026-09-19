@@ -1,0 +1,192 @@
+[
+  {
+    "id": "225c27271378d8e66fb98f04986fbd10f747cffe030f4ff16ce7607ec44b52f7",
+    "question": "GNN 圖神經網路如何幫助防禦社交工程？",
+    "options": [
+      "自動生成防禦簡報",
+      "判斷圖片是否有浮水印",
+      "探測人際互動路徑，找出不尋常的聯繫網絡（如從未交集的部門突然索取資料）",
+      "加速網路連線速度"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "探測人際互動路徑，找出不尋常的聯繫網絡（如從未交集的部門突然索取資料）",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.289Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2e412ff8d565885fcfc88f359d2a53aff0ce0edde45b74c45de9d80d9603cdb6",
+    "question": "駭客利用 Google Drive 等「高信譽網域」發送釣魚信件的主要目的是？",
+    "options": [
+      "加速網頁的載入時間",
+      "直接避開資安系統的攔截與防毒軟體過濾",
+      "減少信件被標記為已讀的機率",
+      "免費獲得雲端儲存空間"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "直接避開資安系統的攔截與防毒軟體過濾",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.291Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "04023b5ef58d787f811671fae74ff030549cd6ec165e0bb26bb11ba3fbabd53f",
+    "question": "現代防禦架構中，負責在虛擬環境中「引爆」附件以確認無毒才放行的是？",
+    "options": [
+      "Email Gateway",
+      "Sandbox (沙箱)",
+      "NLP 語意模型",
+      "MFA 雙重驗證"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Sandbox (沙箱)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.292Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9e61c3c8b0f7bb7550b65594c98ccbc32ff5c0a74df32f7dae990615d74cd1e0",
+    "question": "社交工程的核心攻擊目標與邏輯是什麼？",
+    "options": [
+      "攻擊防火牆與防毒系統的技術漏洞",
+      "攻擊未加密的硬碟資料",
+      "繞過防護系統，直接攻擊「人性的弱點」",
+      "竊取企業的網路頻寬"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "繞過防護系統，直接攻擊「人性的弱點」",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.292Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9598857e2f585ae92d354d10b820e98aefc611c67f9490755dc9be3dd0fda977",
+    "question": "Word 的「功能變數 (IncludePicture)」在沒有巨集的情況下，可能造成什麼危害？",
+    "options": [
+      "自動刪除電腦內的其他文件",
+      "隱藏檔案真正的副檔名",
+      "只要打開文件就會連回攻擊者主機，甚至竊取 Windows NTLM Hash 憑證",
+      "導致 Word 軟體永久當機"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "只要打開文件就會連回攻擊者主機，甚至竊取 Windows NTLM Hash 憑證",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.293Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed1a2da63172bdfb3481609976070ffad46c4a4612e34c7950684ab724b302fa",
+    "question": "若有帳號在半夜三點從未見過的海外 IP 登入並發信，會被哪個系統自動隔離？",
+    "options": [
+      "防火牆 (Firewall)",
+      "沙箱 (Sandbox)",
+      "UEBA 行為偵測",
+      "GNN 圖神經網路"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "UEBA 行為偵測",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.294Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "87a0e5b42aed98cf10743ee21dfd376507868ce9800c5610586d9263b1d3431d",
+    "question": "駭客發送假冒的「違規通知或法律信函」，是利用了哪一種心理觸發點？",
+    "options": [
+      "貪婪",
+      "好奇心",
+      "恐懼",
+      "同情心"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "恐懼",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.294Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "02e924e20d3d4cb94f566db0a63e4d4ddbeb6eb4d18c53e9df8b8a5925e5e6a5",
+    "question": "什麼是 Open Relay Attack (開放轉發攻擊)？",
+    "options": [
+      "駭客遠端打開你的光碟機",
+      "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
+      "利用開放原始碼的軟體漏洞",
+      "一種針對社群媒體的攻擊"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.295Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0851f89767aa388f95620050e3a59e949e2c6122f120c9e0f7d8b95930aa6433",
+    "question": "在中華郵政包裹詐騙案例中，最有效的識破點為何？",
+    "options": [
+      "網域拼字是否正確",
+      "寄件者的顯示名稱是否為中文",
+      "滑鼠懸停（Hover）在連結上，檢查真實網址是否為無關亂碼",
+      "確認信件是否有郵局 Logo"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "滑鼠懸停（Hover）在連結上，檢查真實網址是否為無關亂碼",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.296Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "636f566cdc339b01b3bd35a6fe61313cdf0475933722faade1a6e4c2ca804f8d",
+    "question": "DMARC / SPF / DKIM 協定在現代防禦中的功能為何？",
+    "options": [
+      "擔任郵件界的防偽標籤，確保寄件人身分未被冒用",
+      "自動回覆釣魚信件",
+      "把可疑信件翻譯成中文",
+      "限制郵件的檔案大小"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "擔任郵件界的防偽標籤，確保寄件人身分未被冒用",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T08:26:07.296Z",
+    "review_state": "candidate_ready"
+  }
+]
