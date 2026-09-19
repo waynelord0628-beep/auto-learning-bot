@@ -1,0 +1,181 @@
+[
+  {
+    "id": "20c3c0a6279c1649e01287694e06eaa76e255d52531f86921fab223e5bd78848",
+    "question": "What are the criteria for classifying viruses into different risk groups?",
+    "options": [
+      "Whether new variants frequently emerge",
+      "Whether it affects human health",
+      "Severity of the corresponding infectious disease",
+      "Transmissibility",
+      "Availability of effective therapeutic or preventive measures"
+    ],
+    "type": "多選",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.805Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b544a514a9c314033d25f554c597497753f161632bbaac80a20f84987b66acda",
+    "question": "Viruses with new characteristics generated through serial passaging of a virus are not necessarily all gain-of-function (GOF).",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.807Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5c77c8c123f19a860b49e6905e42ef1e400fe200159d3f7a7dac75c537f72958",
+    "question": "Performing infection experiments in a BSL-3 laboratory is almost the same as in a BSL-2 laboratory, except for wearing additional personal protective equipment.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.807Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93f11510f2adfc0c0c3b5bdbf6f727b4cdffc7d0d8c8adae95963ba8d2b33828",
+    "question": "Monitoring viruses emerging in nature does not constitute gain-of-function (GOF) research; however, if a potentially high-risk viral strain is detected, it should be reported to the regulatory authorities as soon as possible.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.810Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ea2d0c43b16a065c1a17e7c5f5a0ab798448a87b792ed6fa4f18b530d01f794f",
+    "question": "Which of the following is not an appropriate justification for performing viral functional modification experiments?",
+    "options": [
+      "To understanding the function of viral genes",
+      "To prove that the research group is capable of modifying viruses",
+      "To develop new antiviral drugs",
+      "To enhance the impact of research results",
+      "To investigate the transmission mechanisms of the virus"
+    ],
+    "type": "多選",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.837Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b1bb49cf3ba87dff4043bf850cef81231d695f101d7fc7d2a210887119cc1e2d",
+    "question": "Performing infection experiments inside a biosafety cabinet is primarily to ensure that the cells used in my experiment do not get contaminated.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.838Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93cb8586d3a9f71873138101a8a1b81938a8894fe8f03603ccb7003c8e048e2b",
+    "question": "The experimental methods and workflows I use for Risk Group 2 (RG-2) viruses in a BSL-2 laboratory can be identically applied to Risk Group 3 (RG-3) viruses in a BSL-3 laboratory.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.840Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c83352fa18e2b3dff894c8b85acdddb8014cfcca04581bd21b6ea92a9f4e57b7",
+    "question": "Even though I have experience handling Risk Group 2 (RG-2) viruses, I must still undergo prior assessment, training, and evaluation to obtain operational qualifications if I want to perform experiments with Risk Group 3 (RG-3) viruses, .",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.840Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bb7599b06691a63a455cf5ba5cbc417755ce79310a106604da22151e3aa6b586",
+    "question": "Which of the following can be considered methodologies for viral gain-of-function (GOF) research that require enhanced assessment during biosafety applications?",
+    "options": [
+      "Generation of chimeric viruses",
+      "Removal of specific viral genes",
+      "Site-directed modification of the viral genome",
+      "Application of inhibitory drugs in a single-round infection experiment",
+      "Serial passaging of the virus under inhibitory drug treatment of infected cells"
+    ],
+    "type": "多選",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.841Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "520662153a7ca28cd86bc86ef1d5415e2e6265f14a841de845b40adad2479b38",
+    "question": "Since we don't know the outcome, experiments involving viral modification can be performed first, and a biosafety permit can be applied for after the results show that the modified virus has gained function.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Biosafety and other considerations for research with viruses",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T09:42:18.842Z",
+    "review_state": "candidate_ready"
+  }
+]
