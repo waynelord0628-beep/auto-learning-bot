@@ -176,5 +176,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.895Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2bf8bc190bc85096edcb0059fb6743726a909c929e00bc17cce60c741b3d0660",
+    "question": "當AI的回答變得很「智障」或品質明顯下降（俗稱降智）時，下列何者較適合作為第一步處理方式？",
+    "options": [
+      "瘋狂刷新頁面",
+      "罵它一頓",
+      "等一段時間再問，因為可能是當下算力資源不足",
+      "重新安裝瀏覽器"
+    ],
+    "type": "單選",
+    "course": "探索AI世界：從工具比較到關鍵觀念全解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "等一段時間再問，因為可能是當下算力資源不足",
+    "source": "ai_unverified",
+    "created_at": "2026-09-19T19:06:25.485Z",
+    "review_state": "candidate_ready"
   }
 ]
