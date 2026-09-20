@@ -268,7 +268,11 @@
     "candidate_answer": "不得在學習或訓練場所懸掛或標示競選旗幟",
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:09.593Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T01:19:44.780Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6ab5518c4636d3e734d9feae64f25786f7b621fbdc32621c4a7e04360aa227d2",
