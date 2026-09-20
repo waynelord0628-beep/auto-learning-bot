@@ -402,7 +402,11 @@
     "candidate_answer": "向監察院報備，得兼任政黨或其他政治團體之職務",
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:46.159Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T01:19:52.367Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "f042c7f75ed7a6affdf7bd50df74eb8ce5809e658024fdbb7acf682b4167b5aa",
