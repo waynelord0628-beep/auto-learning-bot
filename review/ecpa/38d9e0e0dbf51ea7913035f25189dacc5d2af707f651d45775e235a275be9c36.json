@@ -1,0 +1,182 @@
+[
+  {
+    "id": "b92e159978d48eb7d50f08971fc8fea0a14edde8f8321a7693a8570aa36a699a",
+    "question": "當 NotebookLM 回答問題時，資料來源不足或與問題無關，它的回答特點是？",
+    "options": [
+      "自動推送其他使用者的答案",
+      "系統會拒絕回答並停止運作",
+      "誠實告知來源不足或與問題無關",
+      "提醒使用者購買進階版"
+    ],
+    "type": "單選",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "誠實告知來源不足或與問題無關",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.906Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "a06e0b1800cbd184eb94623764f8960dc9eaacdc473c4397038cca1bfc8f52cb",
+    "question": "NotebookLM可以直接上傳影片檔作為筆記分析的來源。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.908Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "a5c7168aeab766a86bda15321e586d4b12ca8a3806d7605ce0345c75c7e5b9b0",
+    "question": "NotebookLM可以直接上傳csv檔作為筆記分析的來源。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.909Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "8465db32eb7188cc1a18a54a6ba8db17ab3387b7b68520b5a0d39c87d85fb834",
+    "question": "NotebookLM可以完全取代 Google 文件的編輯與寫作功能。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.910Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "89ed760719fc3eb8fbc9c4d72a2b58d861d4d446cd919c346b1724f5fe1cd5c6",
+    "question": "NotebookLM的回答都會自動附上來源引註，方便確認資訊出處。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.910Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "959394ab41c4537dab472af16bd090be800a07daef47ffa2c0046383364c0eaa",
+    "question": "NotebookLM 的主要定位是？",
+    "options": [
+      "個人知識助理",
+      "電子郵件服務",
+      "社交平台",
+      "雲端硬碟替代品"
+    ],
+    "type": "單選",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "個人知識助理",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.912Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "42e2e4079704978bf2795ce98db431c654c4e345677474634462896c94d2e0be",
+    "question": "下列哪一個情境最不適合使用NotebookLM？",
+    "options": [
+      "整理研究報告並回答相關問題",
+      "製作資訊圖表",
+      "製作Podcast",
+      "進行即時多人視訊會議"
+    ],
+    "type": "單選",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "進行即時多人視訊會議",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.914Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "9fdfcdb3841aca3f37ced506dce5378b3f04a9de41eee7a012eb3e626375081d",
+    "question": "NotebookLM的對話回覆跟ChatGPT一樣，會自動記錄下來。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.915Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "fb4e8e129e7558e209ccffa6bcf543616cf673a44a84370ee65fdc46c6a5e0ae",
+    "question": "以下哪一個不是NotebookLM工作室的功能？",
+    "options": [
+      "語音摘要",
+      "影片摘要",
+      "心智圖",
+      "視訊會議"
+    ],
+    "type": "單選",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "視訊會議",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.916Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "f284da48170f17bfdfd309e54d094a4cb391dcec2288e173ebecd853358482b6",
+    "question": "在 NotebookLM 的回答中，為了幫助使用者確認正確性，系統通常會？",
+    "options": [
+      "提供隨機參考資料",
+      "標註來源文件與段落",
+      "移除所有引文避免干擾",
+      "自動加上圖片說明"
+    ],
+    "type": "單選",
+    "course": "NotebookLM智慧文件與AI筆記",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "標註來源文件與段落",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-20T06:56:56.916Z",
+    "review_state": "awaiting_evidence"
+  }
+]
