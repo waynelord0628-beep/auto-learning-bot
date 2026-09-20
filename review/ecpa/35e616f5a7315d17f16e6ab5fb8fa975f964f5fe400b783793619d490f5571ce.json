@@ -85,7 +85,11 @@
     "candidate_answer": "公海+「區域」",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.608Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T06:19:57.803Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "808c93ce561eab862272d3bcc5144e561031ef50e7fd58c82a25d782ef6e397e",
