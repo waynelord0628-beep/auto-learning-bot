@@ -190,7 +190,11 @@
     "candidate_answer": "When",
     "source": "ai_unverified",
     "created_at": "2026-09-13T14:18:06.892Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T13:20:43.094Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dca7f18f2aa5a8e0962b62f3095f25f17933e67c82c65be005305016a902bc09",
