@@ -249,5 +249,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:25:33.113Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "028d5283cc599da1cb78e027e4951fcf37ada284023cf418e6ac58ec8fea0969",
+    "question": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;the forecast, it will be rainy tomorrow.",
+    "options": [
+      "Confess to",
+      "Apart from",
+      "Attend to",
+      "According to"
+    ],
+    "type": "單選",
+    "course": "公務實用英語（基礎篇）-我國國情介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "According to",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T09:19:24.726Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8827c00bf8f47619f970294821124de5bae6cb7ec14c262e3fb77c17fa80a749",
+    "question": "Aside from the office of the President, the Central Government &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; five branches.",
+    "options": [
+      "divided into",
+      "have",
+      "consists of",
+      "filled by"
+    ],
+    "type": "單選",
+    "course": "公務實用英語（基礎篇）-我國國情介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "consists of",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T09:19:24.730Z",
+    "review_state": "candidate_ready"
   }
 ]
