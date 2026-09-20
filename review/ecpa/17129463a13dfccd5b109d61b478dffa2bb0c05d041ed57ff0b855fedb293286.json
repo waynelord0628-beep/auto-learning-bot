@@ -62,7 +62,11 @@
     "candidate_answer": "擔心出櫃而刻意隱藏自己的身分",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.777Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T00:19:53.021Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6c8a0bb30716106a105468e2ccdc4cd09f83ce0f7404c98ef031092321acd32d",
