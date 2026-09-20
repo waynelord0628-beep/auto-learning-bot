@@ -102,7 +102,11 @@
     "candidate_answer": "接受同仁名牌繳交",
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.030Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T05:19:53.519Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "612190a5707c5b0fae228b2ccdbbf3dff29ded7e2fcb6de8042d8ca2ca1d5674",
