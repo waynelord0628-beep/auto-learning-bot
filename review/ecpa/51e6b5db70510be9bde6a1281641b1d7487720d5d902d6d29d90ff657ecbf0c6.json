@@ -131,7 +131,11 @@
     "candidate_answer": "在事件發展中，剛好捕捉到意義與畫面形式完美結合的那一瞬間。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.367Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T15:19:53.995Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7bd792ed70aebc7f7276195a5b15e435f38a13822d23052edad259c200a0c5bf",
