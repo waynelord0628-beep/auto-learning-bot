@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "黑鮪魚身價的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "People are negotiating the price of the tuna intensely.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T14:08:38.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T14:20:33.128Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "People are negotiating the price of the tuna intensely.",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_871.html",
+          "title": "「黑鮪魚身價的秘密【看紀錄片學英語 尋寶福爾摩沙】」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-20T14:20:31.987Z"
+    },
+    "resolved_answer": "People are negotiating the price of the tuna intensely."
   },
   {
     "id": "89e09141cca12e258a632b77ea4e117213ad671caa646456e08844fde25cf54d",
