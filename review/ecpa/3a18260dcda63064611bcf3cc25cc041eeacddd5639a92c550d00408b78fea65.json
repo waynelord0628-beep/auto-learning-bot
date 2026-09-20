@@ -16,7 +16,11 @@
     "candidate_answer": "每個孩子在每堂課都有學習",
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.568Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T09:19:42.466Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bf028e4750637b6d9b0eeabcbd4634caff81660aa5d61cf3d62fadd219c452d5",
