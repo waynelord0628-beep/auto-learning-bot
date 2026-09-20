@@ -39,7 +39,11 @@
     "candidate_answer": "常被視為單身子女，而被期待承擔較多照顧責任",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.776Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T00:19:48.219Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e6845c594a3ee624fd83a22c00196aa28e9e99fad05cafc2ad62b50a029c34cb",
