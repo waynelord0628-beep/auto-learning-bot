@@ -39,7 +39,11 @@
     "candidate_answer": "本人需有可能被散步的影像",
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.628Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T07:19:51.817Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "385d44912c03f8f5f0ea7f7fc42aad61b78fbdbdc490d0ebb15f04a778581c80",
