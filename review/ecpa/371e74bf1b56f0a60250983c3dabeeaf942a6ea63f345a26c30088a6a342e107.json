@@ -16,7 +16,11 @@
     "candidate_answer": "協助受害人打官司",
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.627Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T07:19:44.992Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a6f95fa00fac8527a0b6a2f4ca2256aa04f525cb639611f5917cf3b0e978e344",
