@@ -16,7 +16,11 @@
     "candidate_answer": "六色彩虹旗或彩虹徽章",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T00:19:43.169Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bb6fa7e723cd9e85420bc8b0be0a5388e6e6ff13680c188b35c1ae6f53dfccb6",
