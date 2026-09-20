@@ -10,12 +10,33 @@
     ],
     "type": "單選",
     "course": "CEDAW實務案例解析(含多重與交叉歧視)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "三十條",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T05:35:10.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T03:19:50.600Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "三十條",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188037",
+          "title": "CEDAW實務案例解析(含多重與交叉歧視)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/cedawee.html",
+          "title": "「CEDAW實務案例解析(含多重與交叉歧視)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-20T03:19:50.025Z"
+    },
+    "resolved_answer": "三十條"
   }
 ]

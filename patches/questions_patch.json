@@ -54808,5 +54808,34 @@
       "model": null,
       "checked_at": "2026-09-18T02:42:31.907Z"
     }
+  },
+  {
+    "question": "關於CEDAW共有幾條？",
+    "type": "單選",
+    "options": [
+      "二十條",
+      "三十條",
+      "四十條",
+      "十條"
+    ],
+    "course": "CEDAW實務案例解析(含多重與交叉歧視)",
+    "answer": "三十條",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "三十條",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188037",
+          "title": "CEDAW實務案例解析(含多重與交叉歧視)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/cedawee.html",
+          "title": "「CEDAW實務案例解析(含多重與交叉歧視)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-20T03:19:50.025Z"
+    }
   }
 ]
