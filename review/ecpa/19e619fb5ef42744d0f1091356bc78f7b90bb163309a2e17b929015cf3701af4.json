@@ -39,7 +39,11 @@
     "candidate_answer": "94年7月1日",
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:37:19.079Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T02:19:49.711Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "93e589c98ccf1ac5f2ba54aec5e079079edd76d2a0571a37d6eb4afd1694abc3",
