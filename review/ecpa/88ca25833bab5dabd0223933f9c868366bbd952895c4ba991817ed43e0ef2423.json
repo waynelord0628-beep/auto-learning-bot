@@ -1,0 +1,182 @@
+[
+  {
+    "id": "601aa622caec6d8b12bbcd8aa72cf5c983306f3b35a9c3d2cd21cb36e784e461",
+    "question": "使用者在使用Gemini這類AI工具時，如果沒有登入Google帳號，雖然在特定情況下可能可以使用基礎功能，但系統將無法為使用者保留歷史對話紀錄。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.369Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "357171111d71988885ff34821f850b7bcbf4d80c748204922e283daa4fe755d0",
+    "question": "在使用 Gemini 的「深度研究（Deep Research）」功能時，關於其運作流程的敘述，下列何者正確？",
+    "options": [
+      "輸入提示詞後，系統會先擬定計畫，經使用者確認或編輯後才放著讓它跑",
+      "系統擁有超高運算力，會在按下送出的一秒內立即生成數萬字報告，無需任何等待",
+      "該功能屬於基礎完全免費功能，不需要登入任何 Google 帳號即可操作",
+      "系統所擬定的初步計畫屬於唯讀狀態，人工是絕對無法在介面上進行編輯的"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "輸入提示詞後，系統會先擬定計畫，經使用者確認或編輯後才放著讓它跑",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.371Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c0678b38d0b97a163f885e7a0bcc2702b1e9fc722a8fbe377f8c5355de142ed5",
+    "question": "關於課程中介紹的「Canvas」功能，其最主要的應用場景與定位描述何者正確？",
+    "options": [
+      "專門用來修復受損或模糊的咖啡豆照片",
+      "用於撰文、寫程式或製作簡報的雙視窗輔助協作工具",
+      "專門用來計算黑金經濟財務損益的精算系統",
+      "是一個獨立、不需依附在 Gemini 底下的視訊會議軟體"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "用於撰文、寫程式或製作簡報的雙視窗輔助協作工具",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.372Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "774f54354fe0e91f5eba231898a624e65053842dd0acbc05e01ec047a43476d3",
+    "question": "使用 Gemini 內建的「Canvas」工具來撰文或寫程式時，畫面會一分為二，通常左邊較窄用於提示詞分析與輔助，右邊則呈現產出的報告資料，並支援針對特定段落進行局部修改。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.373Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9ff5296cd2711864de12f37427a4950bd479b91485ea4dfe282e35a2b2507fb1",
+    "question": "若想在 Google 文件、簡報等雲端應用程式的右上角，直接點選並使用常駐的「向 Gemini 提問」整合功能來修改內容，使用者的Google帳號通常必須具備付費權限（如Pro版或特定進階版本）。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.374Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "38d9e74484c4bf4f055daab4e71351b1d4f798f865e4541e70e77d26db82f4af",
+    "question": "講座在撰寫有關「咖啡入門報告」的提示詞（Prompt）範例時，強調哪一個核心關鍵會直接影響到AI撰寫報告的文字深淺度（如是否使用過多專門術語）？",
+    "options": [
+      "電腦螢幕的色彩調校與亮度",
+      "提示詞尾端是否有設定特定的字體大小",
+      "閱讀這份報告的「目標對象」是誰",
+      "是否在提示詞中連續重複輸入相同的問題三次"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "閱讀這份報告的「目標對象」是誰",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.375Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ec74993164ac3d535f5ac2d4ba0b2895b92a588d48fa48c90e38cf1e02aec709",
+    "question": "根據課程內容，Google 生態圈在搭配 Gemini 應用時，主要是以哪一個雲端空間作為資料儲存與串聯各工具的「中間跳板」？",
+    "options": [
+      "Google 雲端硬碟",
+      "外部實體隨身碟",
+      "X (原 Twitter) 輿情平台",
+      "電腦本機的 C 槽"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Google 雲端硬碟",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.375Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf74b3b75655e1693632aa60c0fa1a89b9431003dac7089a773e27fa910707c0",
+    "question": "在Gemini中產生的翻譯或報告草稿，可以透過點選結果下方的「三個點點」直接匯出至Google文件，這是因為 Google 生態圈主要是拿「雲端（雲端硬碟）」當作資料串聯的跳板。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.376Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "517a3e60eb35445eeb6e62221b677c33aec4f73c5cb4f114ede1b8db7bd79802",
+    "question": "當在Gemini啟用「深度研究（Research）」功能時，系統為了節省時間，會在接受到提示詞後直接開始漫長的資料搜尋與報告撰寫，過程中不提供任何計畫給使用者確認。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.377Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4cf2c1c57a059c09197ac16ac5e1422a65bad1946cabdb69722e483017a547bc",
+    "question": "在Google雲端文件或簡報等應用程式中，想要利用右上角的常駐功能直接透過對話請 Gemini 幫忙修改段落、增加咖啡豆口感描述等，需要滿足什麼帳號前提？",
+    "options": [
+      "使用者的實體電腦必須安裝獨立顯示卡",
+      "必須登入具備付費權限（如 Pro 或工作區進階版）的 Google 帳號",
+      "必須將整個 Google 帳號的系統預設語言切換為純英文",
+      "必須在完全中斷網路的離線狀態下進行操作"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "必須登入具備付費權限（如 Pro 或工作區進階版）的 Google 帳號",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T10:10:55.378Z",
+    "review_state": "candidate_ready"
+  }
+]
