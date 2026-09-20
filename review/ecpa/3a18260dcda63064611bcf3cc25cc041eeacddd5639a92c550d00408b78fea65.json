@@ -39,7 +39,11 @@
     "candidate_answer": "讓教育版Gemini成為學生的自主學習教練",
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.568Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T09:19:47.100Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f45143550904cd82791d02aaebb0dd0895c8a0aca02f2f1721bfd09482248de8",
