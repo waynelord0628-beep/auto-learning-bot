@@ -79,7 +79,11 @@
     "candidate_answer": "對",
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.030Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T05:19:48.503Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dfb42bad8e2f9e1e7fe4901c5f99439b2b4052b9dd6f607fe6ccb67071c1f603",
