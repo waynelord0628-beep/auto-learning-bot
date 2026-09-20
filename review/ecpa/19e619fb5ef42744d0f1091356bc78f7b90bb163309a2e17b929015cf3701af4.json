@@ -16,7 +16,11 @@
     "candidate_answer": "6%",
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:36:38.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T02:19:43.777Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "198e21dda38df1063463cf690eceda81efc6c90c77a9a8a00c10f54119b831fe",
