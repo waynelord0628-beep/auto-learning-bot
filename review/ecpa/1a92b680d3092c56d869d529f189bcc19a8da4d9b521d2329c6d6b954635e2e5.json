@@ -345,7 +345,11 @@
     "candidate_answer": "民法",
     "source": "ai_unverified",
     "created_at": "2026-09-12T03:00:39.047Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T03:19:43.751Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bac83f88f78d149d0ef1f3aabf2ec327884ff0c7f66e7be01263725dd9887947",
