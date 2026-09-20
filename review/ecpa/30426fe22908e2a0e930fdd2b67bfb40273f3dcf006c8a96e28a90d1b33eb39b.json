@@ -144,7 +144,11 @@
     "candidate_answer": "AV時序媒體",
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:14:28.740Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T05:19:42.833Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2f26bf5df5efa0f942a414745feee9c33fbda77479e4d4ec97268552f404567f",
