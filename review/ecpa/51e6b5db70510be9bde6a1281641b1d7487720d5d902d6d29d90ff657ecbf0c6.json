@@ -108,7 +108,11 @@
     "candidate_answer": "那一瞬間過去就永遠消失，這正是新聞攝影的珍貴之處。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T15:19:49.096Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f6ebe822de5b87429175ae1e6245d2b3892543cde34e8f6641dc3918ba8da0d5",
