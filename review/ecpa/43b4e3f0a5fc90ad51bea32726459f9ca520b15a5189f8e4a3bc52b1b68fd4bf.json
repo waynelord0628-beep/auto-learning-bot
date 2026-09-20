@@ -172,5 +172,126 @@
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:23:38.546Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "faf84a8fa01a7e43cc4f1052b39e40f855a96d03f00a8ecfaf8d972dd1819a8d",
+    "question": "AI技術發展可能會導致部分低階人力市場需求減少。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.779Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d51b939617fb8b05aa257fbd0bb87bd7dde40fdbc218e1e1809e522467746f56",
+    "question": "使用AI產生的資料都是正確無誤的，因此不需要進一步查證。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.782Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0c1d6cda10478317a78e1ce1c194a303170459fc1b2698a75090e39da6d7572e",
+    "question": "公司在使用AI的時候，千萬不要隨意把哪些資料放上去呢？",
+    "options": [
+      "機密資料",
+      "財務資料",
+      "客戶資料",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.783Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "51d2de6c78774668e8f6d84248ea8e2c52ceb9c006e72205c5bae6d61fa33a40",
+    "question": "AI目前尚未具備語音辨識或語音轉文字的能力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.784Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "25eda069927921ede2823a8f8d0bee2ee8abe56706dd16f383b1d59f918d5f73",
+    "question": "AI是以「文字接龍」方式來拼湊答案和組合。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.785Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "edaadda02315553e8146842d66d5901ca84d4ec922b2ff77ac87093153bb3191",
+    "question": "AI的出現會讓企業表現比以往更加衰退與停滯。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.787Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b2edeff45f2eee915420cedc8b0dc21a21aa1993bf97825fa2f946d536743fea",
+    "question": "Whisper 是一款可以將語音內容轉換為文字的AI軟體。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-20T17:24:11.788Z",
+    "review_state": "candidate_ready"
   }
 ]
