@@ -85,7 +85,11 @@
     "candidate_answer": "新聞價值。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.355Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T15:19:43.894Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "66f6e3b4b9be9e549d848a4014e5580350277bb1ec10439b09ec9942678ec6fd",
