@@ -130,7 +130,11 @@
     "candidate_answer": "移送建築師懲戒委員會，視情節予以停止執行業務或撤銷、廢止開業證書等懲戒處分。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.265Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T12:19:49.780Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "46714d08d1b4c68f0ebb04bec6c14e7023b4874969a991fd6ee5cf0305c74221",
