@@ -62,7 +62,11 @@
     "candidate_answer": "國小高年級以上學生",
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-27T09:19:51.816Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "70ac439b70e0ec9c01d4bb0f3a013e0a23c6108004b8225849c02575f5925251",
