@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "基隆鬼月大驚奇 - 探索中元祭與水燈頭文化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "burn",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T18:19:15.466Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T12:21:50.291Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "burn",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055933",
+          "title": "基隆鬼月大驚奇 - 探索中元祭與水燈頭文化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-21T12:21:48.767Z"
+    },
+    "resolved_answer": "burn"
   },
   {
     "id": "15c132ccdf61fa43ef5cc0adc2e2349b103d7d9bb0d36955fd3c0dc723ed6614",
