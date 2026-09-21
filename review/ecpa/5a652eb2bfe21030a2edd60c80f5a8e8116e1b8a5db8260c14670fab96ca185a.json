@@ -16,7 +16,11 @@
     "candidate_answer": "修煉不是改變別人，而是回到自己",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.416Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T02:19:47.759Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "43e92a1a4884c9b10db5fba48978d5722d00b7c303be1793df1974f56472e876",
