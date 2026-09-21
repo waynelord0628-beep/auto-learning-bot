@@ -39,7 +39,11 @@
     "candidate_answer": "瑞士乳酪模型 (Swiss Cheese Model)",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.035Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T14:19:54.367Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "55bf69fea6c1b74ae0741ffaf52964bdb40975a105f0060096ad866f66ba3df5",
