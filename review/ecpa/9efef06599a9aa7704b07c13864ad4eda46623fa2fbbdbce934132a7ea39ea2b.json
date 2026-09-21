@@ -16,7 +16,11 @@
     "candidate_answer": "探測人際互動路徑，找出不尋常的聯繫網絡（如從未交集的部門突然索取資料）",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T15:20:49.747Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2e412ff8d565885fcfc88f359d2a53aff0ce0edde45b74c45de9d80d9603cdb6",
