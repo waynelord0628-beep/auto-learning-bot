@@ -1,0 +1,191 @@
+[
+  {
+    "id": "04b4f3b4feb3236add82c83637e82d6ccdd4cd9cb0b517d2a0e54d35f3ab15ba",
+    "question": "臺北榮總使用哪一種資安防護措施，可快速掌握全院弱點與嚴重程度？",
+    "options": [
+      "滲透測試",
+      "資安健檢",
+      "弱點檢測",
+      "端點偵測與回應"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "弱點檢測",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.356Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "819910e2ce26d33d0f3d7f0722bdfe14c699764e4a29761a8544421dafad2bd9",
+    "question": "臺北榮總醫院提出新的零信任架構規劃中，請問下列哪一項做法是錯誤的？",
+    "options": [
+      "升級郵件服務架構",
+      "導入帳號防護機制",
+      "過濾上網內容",
+      "開放自由上網"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "開放自由上網",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.358Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "27f9c2d9a1d839d3d17b43198519fbee715716e6c7b66d214695aacd16008fe3",
+    "question": "臺北榮總2022年資安預算(不含資安人事費)約佔資訊預算的多少比例？",
+    "options": [
+      "10%",
+      "20%",
+      "30%",
+      "40%"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "20%",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.368Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f710a923cf2d84c28af2d22dc9abe845ce35706437cf4c3689ab54c4497e936",
+    "question": "臺北榮總為培養團隊的安全開發能力，採取下列何種做法？",
+    "options": [
+      "僱用資深工程師傳承經驗",
+      "建置訓練平台，提供課程培訓",
+      "委外開發測試",
+      "舉辦內部資安達人競賽"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建置訓練平台，提供課程培訓",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.369Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b1fc546e49504b3d2d163593ab92e7f80419e1ebf81388755aa08dbb9dca6128",
+    "question": "Zero-Trust 指的是什麼規劃方向？",
+    "options": [
+      "資安零容忍政策",
+      "網路零信任架構",
+      "滲透測試零被發現",
+      "零時差資安應變"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "網路零信任架構",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.370Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e069fc7c166b8a4cb3ce4254d9f4b6cdbacf1316d340a3691a6e94423c2a1aa5",
+    "question": "下列何者不屬於導入安全測試(SecDevOps)可能面臨的挑戰？",
+    "options": [
+      "開發人員反彈心態",
+      "工具誤判問題",
+      "漏洞修復效率低落",
+      "預算編列不足"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "預算編列不足",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.371Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "239b458fe841da10026df7a698fea317275472fb00dc7d4c13163781803c21da",
+    "question": "請問下列哪一項不屬於臺北榮總資安預算的用途？",
+    "options": [
+      "資安課程辦理",
+      "系統開發測試 網路監控",
+      "源碼掃描"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "系統開發測試 網路監控",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.372Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "42d7b757b36669d8763ac871b99e627e48744f61752eeb71747fe263ef67b924",
+    "question": "下列何者不屬於臺北榮總培養安全開發能力的訓練流程？",
+    "options": [
+      "安全能力健檢",
+      "資安教練課程",
+      "外部委託訓練",
+      "完成指定漏洞課程"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安全能力健檢",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.372Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9205d5517c7fac8136a66eec4c0ebd6d38a68da5e4cb87045d026e6c1209267a",
+    "question": "請問下列哪一個不屬於臺北榮總資安室的主要任務？",
+    "options": [
+      "全院資訊應用服務規劃",
+      "通信相關業務管理",
+      "資通安全政策制定",
+      "醫護人員培訓"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "全院資訊應用服務規劃",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.374Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "621d6162865e5bc112526342ef448e188ea3646d86e9ae66d280d3fcacc8f856",
+    "question": "ISO 27001標準新版(2022年版)要求企業最晚需於哪一年完成轉版？",
+    "options": [
+      "2024年",
+      "2025年",
+      "2026年",
+      "2027年"
+    ],
+    "type": "單選",
+    "course": "大型醫院的醫療資安經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2025年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T16:29:34.375Z",
+    "review_state": "candidate_ready"
+  }
+]
