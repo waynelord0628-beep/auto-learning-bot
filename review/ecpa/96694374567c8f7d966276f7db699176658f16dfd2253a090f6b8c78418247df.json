@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "驚險出航：驚濤駭浪中夜釣白帶魚【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:02:01.720Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T13:19:49.873Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699745",
+          "title": "驚險出航：驚濤駭浪中夜釣白帶魚【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-21T13:19:49.130Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "22a099e45c3fae7a926ee868267a5c1acef5bc251a4e26c42258599838e28dd6",
