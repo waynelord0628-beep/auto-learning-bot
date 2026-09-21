@@ -312,5 +312,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T05:15:13.219Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bc52a8382f31c84342f802f1227ff59545db5fb83ae5b5b2bb2af950634326b1",
+    "question": "下列哪一位人物，是聯名警告AI風險的簽署者之一，並且被稱為「AI教父」？",
+    "options": [
+      "奧特曼 (Altman)",
+      "哈薩比斯 (Hassabis)",
+      "辛頓 (Hinton)",
+      "唐鳳"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "辛頓 (Hinton)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T05:15:42.361Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8929371016601100fb3bc265433ab54efe128a0e7868f253b3a321e4da93a38e",
+    "question": "AI 模型透過什麼的方式來組合答案？",
+    "options": [
+      "文字接龍",
+      "固定模板",
+      "隨機查詢",
+      "使用者提供"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "文字接龍",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T05:15:42.364Z",
+    "review_state": "candidate_ready"
   }
 ]
