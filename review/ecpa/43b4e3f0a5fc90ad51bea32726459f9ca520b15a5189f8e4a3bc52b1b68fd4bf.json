@@ -293,5 +293,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.788Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ec7595490cc00f212e681e7970cb13cc584f2bab66e811f7dbcd756a5e6c2497",
+    "question": "下列哪一項屬於「根據要求產生文本」的AI工具應用範例？",
+    "options": [
+      "翻譯英文網站成中文",
+      "將會議記錄摘要並整理成簡報",
+      "將一本書精簡成重點內容",
+      "寫一篇產品文案或商務報告"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(二)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "寫一篇產品文案或商務報告",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T05:15:13.219Z",
+    "review_state": "candidate_ready"
   }
 ]
