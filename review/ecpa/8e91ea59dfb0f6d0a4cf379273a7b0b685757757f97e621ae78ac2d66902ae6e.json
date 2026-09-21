@@ -106,7 +106,11 @@
     "candidate_answer": "物質文化、制度文化、心理文化",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T11:19:45.898Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "26e8050005f60768a85ef84a0bbae634ab8e9231a05ad58e8f8bd25d42a752d6",
