@@ -85,7 +85,11 @@
     "candidate_answer": "因為內部包含多個單位的運作模式",
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T03:19:52.622Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3c157c309c361031653631e64de6beaa966aca3f844c95cb997e5f1b9b0afd18",
