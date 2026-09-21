@@ -37,7 +37,11 @@
     "candidate_answer": "輸入提示詞後，系統會先擬定計畫，經使用者確認或編輯後才放著讓它跑",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.371Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T10:19:58.900Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c0678b38d0b97a163f885e7a0bcc2702b1e9fc722a8fbe377f8c5355de142ed5",
