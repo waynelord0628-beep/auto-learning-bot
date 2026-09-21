@@ -83,7 +83,11 @@
     "candidate_answer": "應尊重不同文化具有各自合法且有價值的觀點",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T11:19:41.629Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "859ea324850106a07b96ef60ed5f7445e3a51d0d775041d0d32dd391886f3ae1",
