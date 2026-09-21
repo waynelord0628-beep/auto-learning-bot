@@ -39,7 +39,11 @@
     "candidate_answer": "安全依附",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.417Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T02:19:52.574Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "837718acb6cd2f03f3b1ad0e635da20cc616f01ea492fd28e98fb1367f72a390",
