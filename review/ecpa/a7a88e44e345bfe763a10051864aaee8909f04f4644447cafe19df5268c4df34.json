@@ -1,0 +1,180 @@
+[
+  {
+    "id": "3b23726e4b1a297f2ca71f9dcba68153c0034cb4a1bcbd4d0f0c0f34acc9cf1e",
+    "question": "醫院在評估醫療資訊系統發展時，通常會從哪些構面來判斷？",
+    "options": [
+      "系統功能是否能滿足基本必要需求",
+      "系統之間是否能順暢的彼此串接",
+      "數據是否能自動化上傳至系統中",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.614Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e3e47a68377470cac70d30aa885976ffd67bb89af5daa3fb7b6320a810acc1e8",
+    "question": "根據長庚醫院的經驗，各大醫院醫療資訊系統100%是不同的，所以，必須各自開發",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.618Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b3d3b3eeaa79a59b855e77802a1d1291f73081bda1a2d0561ad55afe7b433b6e",
+    "question": "由於每家醫院的組織特性、定價策略、經營方式非常不同，因此無法發展出一套具有標準檔設定，且可複製應用的醫療資訊系統",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.619Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4ddb7cd4afb04e1aeee768ce2a0a15342cdbd1220f3d999cfc8613a06fa47f6d",
+    "question": "根據本課程講座的陳述，醫院資訊組織架構發展歷程的演化，下列何者正確?",
+    "options": [
+      "在大電腦時代是以資訊人員為主體，資訊部門負責規劃、設計、開發及維護",
+      "2000年~2010年為主從架構時代，IT(資訊部門)與OT(業務部門)平行組織架構，OT部門負責規劃、設計， IT部門負責開發及維護",
+      "2010年~2020年為智慧多元時代，由IT(資訊部門)提供平台，著重任務編組，由使用單位、OT部門及IT部門共同規劃、設計，開發及維護",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.620Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "484cb7197233ea3a73ae545f9a1c60899c55045217e54378e94f709e791015ad",
+    "question": "醫院的資訊人員最重要的任務為開發核心資訊系統，而非投入大數據資料整合來發展臨床研究及醫療決策優化",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.621Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4c96b62be333e9136b903ed96bc9c2f42a25fb283eb9241e6b37305c1d89976",
+    "question": "根據本課程講座的陳述，醫院資訊組織架構發展在2020年後，邁入智能自主時代的階段，資訊平台需求激增，因此強化IT(資訊部門)的任務編組功能，以便開發設計更多的資訊平台",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.622Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1abe2165978f5ec398df36494f35bab017d7a755d067edf79130a0065ad89a64",
+    "question": "醫院在評估醫療資訊系統(HIS)建置時，只要是創新、前瞻的功能都應不計成本代價的投入開發",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.623Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f51eaecc949cf7b333abde8bf64d7db14b86ada5c795d21adfc09c4250077a71",
+    "question": "根據本課程講座的陳述，醫院資訊組織架構發展在2020年後，邁入智能自主時代的階段，將由IT(資訊部門)再次主導設計、開發及維護",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.624Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "da79eb183c857c9c12a392d08033306d3b4967ec5ea2e3d8443f4bb50f8eccc9",
+    "question": "次世代的醫療資訊系統HIS)應具備哪些條件？",
+    "options": [
+      "系統應具備普遍性的功能模組及客製調整的彈性",
+      "系統應能銜接與串聯不同的硬體與系統，用以滿足資訊交換的需求",
+      "系統應能融入醫院既有的管理流程",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.625Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "64dd324b1fb9bcfae7f71368aacaed681e892665040ddc86a721784b34e4e456",
+    "question": "根據講者內容，次世代醫療資訊系統(HIS)應具備的條件與特色?",
+    "options": [
+      "使用同一平台，而可自行設定不同標準檔，如：會計科技、收費標準、帳務、床位、藥品等等",
+      "具備異質性系統醫療資訊交換的需求",
+      "建立大數據資料整合的基礎",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代HIS系統發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:07:40.626Z",
+    "review_state": "candidate_ready"
+  }
+]
