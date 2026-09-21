@@ -104,5 +104,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T17:48:21.557Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0cd6c66e37a151ff100b10498c461d04d96593e0d9f916870b9686f7d68838ae",
+    "question": "當貓咪耳朵向左右邊倒時，表示牠處於何種情緒？",
+    "options": [
+      "驚嚇",
+      "開心",
+      "憂慮",
+      "警戒"
+    ],
+    "type": "單選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "驚嚇",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:50:41.727Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7cd946241151aa10ea20553cbefe0947e7f26467861b42d66bdde9d67de009a1",
+    "question": "請問當貓咪感到緊張時，容易出現下列何種行為？",
+    "options": [
+      "抓咬",
+      "蜷縮",
+      "逃離",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:50:41.727Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5031c58b24db803e0e9250ff77c7dc380d0ac8a078dcd23048c629b4eaba8f94",
+    "question": "飼養貓咪時，貓咪的食物碗與水碗分開使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T17:50:41.729Z",
+    "review_state": "candidate_ready"
   }
 ]
