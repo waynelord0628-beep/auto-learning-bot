@@ -98,7 +98,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-16T10:38:19.734Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T06:19:59.235Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "299d33af500eb82cd3a47054c96f07944b0a986aac002ceb007f0f8d6579b1d4",
