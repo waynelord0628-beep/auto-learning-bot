@@ -92,7 +92,11 @@
     "candidate_answer": "可能含有機敏性，需權限管理",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:16:43.802Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T01:19:42.050Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "33b1c1cc9f87d9f6a748eab7b68f1d7e42715e8c27208bc2d6cd4c43a0962f53",
