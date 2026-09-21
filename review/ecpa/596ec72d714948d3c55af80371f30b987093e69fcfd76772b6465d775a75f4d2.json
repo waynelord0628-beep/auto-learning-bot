@@ -138,7 +138,11 @@
     "candidate_answer": "擴散與收斂",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:16:43.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T01:19:50.955Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6d63304bcd02040ea0f1517a026d3590db18fe57eb7f5ed83336364989284c95",
