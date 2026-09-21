@@ -115,7 +115,11 @@
     "candidate_answer": "Point of View",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:16:43.817Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T01:19:46.487Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e371df73c4c0483f5481e15656d48e9220757f2e6c7751ee0485fdcdad823f77",
