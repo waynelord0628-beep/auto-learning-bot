@@ -1,0 +1,40 @@
+[
+  {
+    "id": "f24c70de2ae177e0afd2efcb939d7afb9329821829a92f49e79814d127fd5de5",
+    "question": "Which of the following sentences correctly uses the structure \"Place + verb + in the + direction + of + reference point\" to describe a location?",
+    "options": [
+      "The library is in the north of the downtown.",
+      "The river flows in the west of the forest.",
+      "The stadium is in the southeast of the university.",
+      "The restaurant is in the east of the road."
+    ],
+    "type": "單選",
+    "course": "從過去走向未來：台南新化市場的復興計劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "The stadium is in the southeast of the university.",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T12:12:38.686Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0596ef035b854efb036b209dcfe82879f4937131e7de07105dbd58c2d7c02195",
+    "question": "Based on the conversation, what direction best describes the location of the supermarket?",
+    "options": [
+      "northeast",
+      "southwest",
+      "southeast",
+      "northwest"
+    ],
+    "type": "單選",
+    "course": "從過去走向未來：台南新化市場的復興計劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "southeast",
+    "source": "ai_unverified",
+    "created_at": "2026-09-21T12:12:38.689Z",
+    "review_state": "candidate_ready"
+  }
+]
