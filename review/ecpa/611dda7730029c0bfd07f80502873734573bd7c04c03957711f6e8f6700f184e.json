@@ -141,7 +141,11 @@
     "candidate_answer": "直接來自於製程或設施的排放",
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.107Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-28T03:19:59.357Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5a3bf3ac547726938e5cbd0d20caf69f63216a7695b7d1b17be83a2e6aa53b46",
