@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "(113年)性別平等工作法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:35:56.573Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T04:19:57.137Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "受僱者陪伴其配偶妊娠產檢或其配偶分娩時，雇主應給予陪產檢7日、陪產假7日，共計14日。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022925",
+          "title": "(113年)性別平等工作法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T04:19:56.467Z"
+    },
+    "resolved_answer": "受僱者陪伴其配偶妊娠產檢或其配偶分娩時，雇主應給予陪產檢7日、陪產假7日，共計14日。"
   },
   {
     "id": "c18baa8188649095ac7c55f00a735a1df8fb6235f56b86a580f1cfcd1d07cc92",
