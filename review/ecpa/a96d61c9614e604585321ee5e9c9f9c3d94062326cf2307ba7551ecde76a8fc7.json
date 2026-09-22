@@ -16,7 +16,11 @@
     "candidate_answer": "以其與被害人互動時的身分來定其受調查身分",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T03:19:46.046Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "abce98bd39920a86c5ee5037ee6807c4560eab5f6ed480def4738503118edcca",
