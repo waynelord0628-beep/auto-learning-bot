@@ -55010,5 +55010,30 @@
       "model": null,
       "checked_at": "2026-09-21T13:20:13.211Z"
     }
+  },
+  {
+    "question": "醫院在評估醫療資訊系統發展時，通常會從哪些構面來判斷？",
+    "type": "單選",
+    "options": [
+      "系統功能是否能滿足基本必要需求",
+      "系統之間是否能順暢的彼此串接",
+      "數據是否能自動化上傳至系統中",
+      "以上皆是"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T00:19:44.324Z"
+    }
   }
 ]
