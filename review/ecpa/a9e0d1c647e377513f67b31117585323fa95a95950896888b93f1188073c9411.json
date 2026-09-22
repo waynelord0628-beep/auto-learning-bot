@@ -136,10 +136,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "高中學生在校園裡，受到老師性騷擾。",
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:35:56.578Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-23T08:19:37.855Z"
   },
   {
     "id": "692d07a03e3a90dfc7e13ac92cf38a03a7809d48d6eb5199e70fe6a0c34b3524",
