@@ -216,5 +216,75 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:30.660Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f262907a0938b5a96175cfd6bccd179201b145c4c03448438aee068a023d526d",
+    "question": "下列關於政府數位轉型推動場域與其策略焦點，何者敘述錯誤？",
+    "options": [
+      "數位建設：資料治理",
+      "數位建設：智慧政府",
+      "數位社會：開放資料",
+      "數位服務：資料治理"
+    ],
+    "type": "單選",
+    "course": "智慧政府與數位創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "數位服務：資料治理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T06:55:55.783Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fe06cf42384d5419750c6793353071d325948b237df72a973be2f5f486606a47",
+    "question": "網路輿情分析應用網路上的資料，進行關鍵字（keywords）分析，藉此瞭解網民對於特定事務的看法，進而調整決策方向。然而，在其未來發展中仍有限制，例如：以機器判讀人類思維及語言，在客觀分析上恐有「測不準」的問題。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "智慧政府與數位創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T06:55:55.814Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b36effb588c5cb74e4939467d99792b7d2d0b3e989d376640e660f5ced02bca2",
+    "question": "未來臺灣政府數位轉型工作，無論依循資通訊科技的發展走到何種程度，都終將意識到，政府數位轉型的根本問題在於技術問題。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "智慧政府與數位創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T06:55:55.819Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "911d8c9ad38c29641752b559563f434eeecfb83e5d8aff59b96cd91587d8779f",
+    "question": "政府端的爭議訊息處理，應當從本質上配合開放資料的建置，從透明信任價值的追求來減少爭議訊息的出現，方為根本之道。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "智慧政府與數位創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T06:55:55.824Z",
+    "review_state": "candidate_ready"
   }
 ]
