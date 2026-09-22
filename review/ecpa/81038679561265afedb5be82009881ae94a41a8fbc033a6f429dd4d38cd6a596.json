@@ -1,0 +1,192 @@
+[
+  {
+    "id": "66f4de1f072a626da052a5fb7eb4e18ef2dca0d43dde9e73e923aec270df7c4b",
+    "question": "根據生物安全事故等級判定標準，若病原體「洩漏擴及列管實驗室/生材庫以外區域」，應判定為哪一種危害等級？",
+    "options": [
+      "低度危害",
+      "中度危害",
+      "高度危害",
+      "虛驚事件"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高度危害",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.935Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f39541c6514a1ba31a3f7fd06c3ccb5027c0c00a3cdb4e5380f1e278f9240cf7",
+    "question": "依據規定，列管實驗室或生物材料庫辦理生物事故應變演習的頻率與要求為何？",
+    "options": [
+      "每兩年辦理一次，且僅需負責人參與即可",
+      "每年應辦理，但可由各實驗室自行決定是否參與",
+      "每年規劃辦理，且每 3 年演習必須包含一次「實地演習」",
+      "每半年辦理一次桌上演習即可，無須實地演練"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "每年規劃辦理，且每 3 年演習必須包含一次「實地演習」",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.936Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ffc286818c1e9016c3364919d78577fb20080c309b5e907befdebb2fd8712b21",
+    "question": "關於訂定生物事故應變計畫的架構與目的，下列敘述何者錯誤？",
+    "options": [
+      "確保事故發生時人員與社區能獲得即時防護，降低感染風險",
+      "建立標準化流程以避免事故擴大，維持設施穩定運作",
+      "應變計畫僅需包含生物安全事故情境，不需涵蓋生物保全事故",
+      "涵蓋緊急醫療應變程序、疏散程序及物資庫存管理等內容"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "應變計畫僅需包含生物安全事故情境，不需涵蓋生物保全事故",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.936Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d394b902bc54a2143d90215dfa7641b26dc978f8e9ef2ac14a7b4281f4bfdd43",
+    "question": "所（中心）在向本院生安辦公室進行內部通報前，應準備好 5 項關鍵資訊。下列何者不包含在此 5 項資訊中？",
+    "options": [
+      "人員資訊（通報人姓名、單位等）與聯絡窗口",
+      "事故狀況（如當事人、經過、發生地點、涉及生物材料等級）",
+      "暴露或傷害（暴露或受傷人員之人數與嚴重程度）",
+      "事故實驗室明年度的研究計畫經費編列明細"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "事故實驗室明年度的研究計畫經費編列明細",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.937Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "98eeb99da29ed7893e7717c8c775dc23b64f406b50f0b7105f3aa341ebbcf830",
+    "question": "辦理生物事故應變演習時，關於相關表單的送審時程，下列規定何者正確？",
+    "options": [
+      "演習計畫表與成果回報表皆於演習結束後 1 個月內繳交",
+      "演習計畫表於演習前 1 個月送核；成果回報表於演習後 1 個月內送審",
+      "演習計畫表於演習前 2 週送核；成果回報表於演習後 1 週內送審",
+      "演習計畫表於演習前 1 週送核；成果回報表於演習後 2 個月內送審"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "演習計畫表於演習前 1 個月送核；成果回報表於演習後 1 個月內送審",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.937Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e9e141d2b50d61f32988c94f8139b947a4932ca00cf5828df70f44fb2fe3c49",
+    "question": "發生生物安全事故時，依法須向當地衛生局及疾管署進行外部通報。請問「中度危害」與「高度危害」的法定通報時效分別為何？",
+    "options": [
+      "中度危害於 24 小時內；高度危害於 12 小時內",
+      "中度危害於 3 日內；高度危害於 24 小時內",
+      "中度危害於 7 日內；高度危害於 3 日內",
+      "中度危害於 1 個月內；高度危害於 7 日內"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "中度危害於 24 小時內；高度危害於 12 小時內",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.938Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a97dd33f14434c7023bc944ee3e191e6c50a8437042e7a5658519df2bac539b5",
+    "question": "關於「生物保全事故」的內部通報與分級，觸發「RG2 級警戒」的具體條件為何？",
+    "options": [
+      "僅需設備耗材非列管生物材料遭竊即可",
+      "只要涉及第三級危險群（RG3）病原體品項或數量不符即可",
+      "遭受感染動物咬傷，且傷口發生化膿者",
+      "涉及 RG2 病原體或生物毒素品項或數量不符，且為遺失、遭竊或發生原因不明者"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "涉及 RG2 病原體或生物毒素品項或數量不符，且為遺失、遭竊或發生原因不明者",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.938Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "61e2308584722761efe4d01e75f67860d882976aac6738396dd0c2ae340e8ed7",
+    "question": "根據定義，下列何種情況屬於「生物安全事故」而非生物保全事故？",
+    "options": [
+      "未經授權者闖入列管實驗室",
+      "感染性生物材料遭竊或惡意遺失",
+      "操作時離心管破裂導致病原洩漏",
+      "病原體相關資料或存取系統遭入侵"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "操作時離心管破裂導致病原洩漏",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6a6e53c6504c790cbe7866f389a9639f5f0a48b0f103d4d049aa8041cb4ab689",
+    "question": "本院生物事故內部通報流程中，在什麼特殊情況下，發現者/當事人得進行「跳級通報」以確保時效？",
+    "options": [
+      "發生未造成人員受傷的低度危害事故時",
+      "辦理例行性功能性演習時",
+      "發生任何一般性緊急醫療需求時",
+      "發生涉及 RG3 病原體之重大/特殊狀況，或逢假日、人員休假時"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "發生涉及 RG3 病原體之重大/特殊狀況，或逢假日、人員休假時",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "15fc8d633aaf73ce39bf78cfd0e89311a85e0b2836ac167faaedd5626dad2579",
+    "question": "針對中、高度危害的生物安全事故進行醫學評估時，若經醫師評估當事人無感染疑慮而判定為「虛驚事件」，應於幾日內向衛生局及疾管署通報為「非感染事件」？",
+    "options": [
+      "24 小時內",
+      "3 日內",
+      "7 日內",
+      "1 個月內"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物事故應變及通報",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3 日內",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:18:09.940Z",
+    "review_state": "candidate_ready"
+  }
+]
