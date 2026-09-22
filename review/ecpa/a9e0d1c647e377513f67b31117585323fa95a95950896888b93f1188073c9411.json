@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "(113年)性別平等工作法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:35:56.569Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T04:19:48.286Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "無論是每日減少工作時間或調整工作時間，必需與雇主協商，雙方合意後才可以實施；所以雇主也可以拒絕。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022925",
+          "title": "(113年)性別平等工作法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T04:19:47.501Z"
+    },
+    "resolved_answer": "無論是每日減少工作時間或調整工作時間，必需與雇主協商，雙方合意後才可以實施；所以雇主也可以拒絕。"
   },
   {
     "id": "6e7db3c539b656d9f0dd0e990cd705a436fddc5efb4ed0de0f621675f5a543e0",
