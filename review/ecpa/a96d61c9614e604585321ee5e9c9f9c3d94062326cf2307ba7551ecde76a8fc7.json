@@ -39,7 +39,11 @@
     "candidate_answer": "男性受害人比例均有三成以上且有增加趨勢",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.469Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T03:19:53.261Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3229d2ac5407f31bbd0bffe9243ba1d5bd090effe7f01597a01c9a5f710b796d",
