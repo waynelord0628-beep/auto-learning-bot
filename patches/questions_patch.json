@@ -55229,5 +55229,30 @@
       "model": null,
       "checked_at": "2026-09-22T06:20:06.218Z"
     }
+  },
+  {
+    "question": "Please listen to the audio file and answer the following question. How do we distinguish velvet shrimp?",
+    "type": "單選",
+    "options": [
+      "The differences between velvet shrimp and regular shrimp are visibly distinguishable.",
+      "The difference in smell allows you to distinguish the taste between velvet shrimp and regular shrimp.",
+      "The sense of touch can be employed to distinguish the difference in texture between velvet shrimp and regular shrimp.",
+      "Taste can be used to distinguish the difference in flavor between velvet shrimp and regular shrimp."
+    ],
+    "course": "走進溫馨小漁村 - 一同見證火燒蝦的魅力",
+    "answer": "The sense of touch can be employed to distinguish the difference in texture between velvet shrimp and regular shrimp.",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "The sense of touch can be employed to distinguish the difference in texture between velvet shrimp and regular shrimp.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020237",
+          "title": "走進溫馨小漁村 - 一同見證火燒蝦的魅力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T09:19:43.224Z"
+    }
   }
 ]

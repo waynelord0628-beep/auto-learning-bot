@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "走進溫馨小漁村 - 一同見證火燒蝦的魅力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The differences between velvet shrimp and regular shrimp are visibly distinguishable.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T09:23:54.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T09:19:43.843Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The sense of touch can be employed to distinguish the difference in texture between velvet shrimp and regular shrimp.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020237",
+          "title": "走進溫馨小漁村 - 一同見證火燒蝦的魅力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T09:19:43.224Z"
+    },
+    "resolved_answer": "The sense of touch can be employed to distinguish the difference in texture between velvet shrimp and regular shrimp."
   },
   {
     "id": "147cd42129117983be2cd2784758beb07228e6f0aee1f72d141279a8a1fdfaa2",
