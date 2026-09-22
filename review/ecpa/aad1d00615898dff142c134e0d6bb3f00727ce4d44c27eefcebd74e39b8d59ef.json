@@ -113,7 +113,11 @@
     "candidate_answer": "patient",
     "source": "ai_unverified",
     "created_at": "2026-09-13T04:25:49.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T05:19:46.728Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "68d864527a0723df528ca5d59308997b9d52e641ce710606bf97bd2c14083022",
