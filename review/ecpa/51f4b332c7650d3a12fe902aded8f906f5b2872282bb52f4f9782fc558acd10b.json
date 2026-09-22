@@ -1,0 +1,192 @@
+[
+  {
+    "id": "00b43f537b23aeacb485fdab2478764ead5362c61d1580bcc697e21be2292815",
+    "question": "生物安全 (Biosafety) 與生物保全 (Biosecurity) 的主要防護重點差異為何？",
+    "options": [
+      "生物安全旨在防止「蓄意」外洩，生物保全防止「意外」暴露",
+      "生物安全旨在防止「意外」暴露，生物保全旨在防止病原體與資訊的「蓄意」未經授權獲取、濫用或釋放",
+      "兩者皆僅關注病原體本身的突變機率與傳染力",
+      "生物保全僅適用於農業環境，生物安全僅適用於醫療環境"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.741Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "300035c7d294d9bbe874a061c1417e658992dd1be210421828abafe5147eaa15",
+    "question": "針對資訊安全與廢棄物銷毀防線，當實驗室要淘汰含有敏感研究數據的電腦、硬碟或儀器控制面板時，正確的處置方式為何？",
+    "options": [
+      "單純將檔案拖入資源回收桶「刪除」即可",
+      "將硬碟格式化後捐贈給外部教育機構",
+      "必須執行物理破壞或軍規級資料抹除，防止機密數據被還原",
+      "直接作為一般塑膠廢棄物丟棄"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.743Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "dd0311241802897d469746b2ec00ea19370375c06fb888aa7c69480fd394a265",
+    "question": "實體保全常採用「同心圓分層存取控制」。其中，僅限經過深度背景調查、獲得專案授權之極少數研究員才能進入的區域為何？",
+    "options": [
+      "Cold Zone (一般行政區)",
+      "Warm Zone (一般管制區)",
+      "Visitor Zone (訪客接待區)",
+      "Hot Zone (高敏感核心區)"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.743Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "31b7cbfc75de9745cdf8083aab341951833edfc712d518937f48964b648b1bdb",
+    "question": "在進行「生物保全風險評鑑 5 步驟」的評估風險（第2步）時，由於極難預測人為惡意攻擊的「可能性」，因此評鑑應高度聚焦於下列何者？",
+    "options": [
+      "設備的折舊率與採購成本",
+      "實驗所需的時間長短",
+      "事件發生後果 (Consequence) 的嚴重性",
+      "實驗室的日常耗電量"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.743Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bc585d4b404e6eeeba872e7dcc9646fe9b01b0ce84591970978dabe2c3a8f7e2",
+    "question": "實施各項防護措施後所剩餘的風險稱為「殘餘風險 (Residual Risk)」。依據保全決策原則，若殘餘風險評估後仍處於「不可接受」的狀態，實驗室應採取何種行動？",
+    "options": [
+      "增加實驗人員繼續測試",
+      "必須停止該項實驗",
+      "隱瞞風險並向主管機關申報安全",
+      "將實驗轉移至一般公共區域進行"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.744Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f0f0866e0420225d9391f17ded0777e3d2c1885867c7a6caf6b707ce9bb3201b",
+    "question": "針對高風險材料的防護，哪一個階段是物質發生失竊、劫持或遺失風險最高、最脆弱的環節？",
+    "options": [
+      "存放在上鎖的超低溫冰箱時",
+      "於安全櫃內進行活體培養時",
+      "執行高壓滅菌除污程序時",
+      "材料離開堅固實驗室的轉移與運輸過程時"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.744Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "a90af4e31d58825b790765eca974f7de04f95dd19065b6f70347d1d493cd75a9",
+    "question": "針對庫存與設備管控，為了防範單點失效或內部人員竊取，在提取或轉移高價值與高風險物質時，必須由兩位經授權人員同時在場確認。此防護機制稱為：",
+    "options": [
+      "當責原則 (Accountability)",
+      "雙人法則 (Two-Person Rule)",
+      "訪客全程陪同制度",
+      "資訊分級制度"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.745Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "cef7d692a8d694d612efbf5ff204a456dfc343eee41384522bb3f47e2dfeda80",
+    "question": "在發展控制策略以從源頭降低風險時，若將敏感專案拆分給不同獨立團隊，實施「知情需要 (Need-to-know)」原則，避免單一團隊掌握所有高危害細節。此策略稱為什麼？",
+    "options": [
+      "縮小規模",
+      "替代模型",
+      "數位模擬",
+      "分割專案"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.745Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "28e958cd5650cbaa1412486d44ab0665fcd3f475e50c624e2e1e64e4d02ad826",
+    "question": "實驗室生物保全的「核心防護目標」除了生物病原體與毒素之外，還包含哪些重要面向？",
+    "options": [
+      "僅包含研究人員的人身安全",
+      "僅包含實驗室的建築結構",
+      "包含敏感情資與數據（如基因序列、SOP），以及關鍵儀器與設備（如 DNA 合成儀）",
+      "僅包含防護衣與口罩等個人防護裝備"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.745Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0c912f917cb3258085b43d4e370dc7b62ef4bb64ccbfd0c4691cacc4ea75bb8d",
+    "question": "對於未造成實際損失的異常狀況（例如：遺失的識別證被找回、電子門禁短暫失效），即所謂的「虛驚事件 (Near Miss)」，機構應提倡何種處理文化？",
+    "options": [
+      "嚴厲懲罰通報者以儆效尤",
+      "因為沒有造成實際外洩，所以不需理會與紀錄",
+      "建立「無過失通報文化 (No-Fault Reporting)」，將其視為修補系統漏洞的黃金機會",
+      "隱匿事件以維持實驗室對外的完美聲譽"
+    ],
+    "type": "單選",
+    "course": "115年實驗室生物保全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T04:54:44.746Z",
+    "review_state": "awaiting_candidate"
+  }
+]
