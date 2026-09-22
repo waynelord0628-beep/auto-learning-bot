@@ -1,0 +1,184 @@
+[
+  {
+    "id": "97acea7f799dac49df2d8507b48bb15a839eeb0db98a22a57cc58c90cf8a6550",
+    "question": "在 SKILL.md 的 frontmatter 設定中，description 是 Agent 觸發此項 Skill 的唯一依據（包含做什麼及何時用）？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.264Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3f1b796b6f90c408da6296bc143e0507f7e44fabb5f8c9f521d41a6fe11e0010",
+    "question": "在 Antigravity 中，Skill 的組成結構裡專門用來放「非核心且有需求時才讀取的參考資料（例如：內容規則.md）」，以實現漸進式揭露的目錄是？",
+    "options": [
+      "scripts",
+      "reference",
+      "assets",
+      "raw"
+    ],
+    "type": "單選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "reference",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.267Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9511541f047c5a59ba7dd34683b512a612fe1116693d49b215ddceb00cb51d13",
+    "question": "Skill 組成結構中，提示詞 prompt（即 SKILL.md）是主要描述檔，描述如何做某件事?",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.268Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "394400c19879009840302432b8df63d4a2dc44f947e609c6bac7a283227f574d",
+    "question": "skill主要由哪三個部分組成?",
+    "options": [
+      "提示詞 prompt",
+      "參考資訊 reference",
+      "觸發條件 Triggers",
+      "程式 scripts"
+    ],
+    "type": "多選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.271Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "5c8c11b539d457f2e1f73d2251e06305e96e132a656cfb09d5b6ffcabc86e065",
+    "question": "若多個技能（Skill）在鏈接執行時出錯，為方便排除失敗的技能，建議將所有相關任務濃縮寫成一份長達一萬行的單一 Skill？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.272Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad0eba4cd77926e1ad88fa48184181e5ae158fad3dc26aec788c5c7f6ed3f2db",
+    "question": "關於 Rule、Workflows 與 Skill 的使用情境，下列敘述何者正確？",
+    "options": [
+      "Rule 需要在每一次對話中手動使用 / 來觸發呼叫",
+      "Workflows 每次需要透過 / 呼叫，其通常放置步驟明確且執行較複雜的重複性指令，且可包含 skills 的使用",
+      "Skill 一在對話啟動時，AI 就會直接完整讀取整份 SKILL.md 描述檔",
+      "Rule 與 Workflows 的定位完全相同，可互相取代"
+    ],
+    "type": "單選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Workflows 每次需要透過 / 呼叫，其通常放置步驟明確且執行較複雜的重複性指令，且可包含 skills 的使用",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.273Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1396ce08614755c0c3178997bbb641b0a3c136bcffd9d5d33753c185c9927398",
+    "question": "下列何者「不是」使用 Skill 的主要優點？",
+    "options": [
+      "增加 Agent 的能力、降低 LLM 幻覺",
+      "避免重複輸入指令，維持穩定的結果輸出",
+      "可以自動修改 raw/sources 中的檔案，維護其唯一真實來源的地位",
+      "避免對話一開啟就因載入過於複雜的 Rule 導致 token 快速耗盡"
+    ],
+    "type": "單選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可以自動修改 raw/sources 中的檔案，維護其唯一真實來源的地位",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.274Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a758506945644611412652de9b610fee255f2ea63bc1ff718fecf8fa3c203e58",
+    "question": "因為 Rule（主要規則）是最高指導原則，每次與 AI 對話時都會自動送出，所以建議寫得非常長且非常詳細？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.275Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4119d98be3191585998e20a710ebd616e7c3c1899baf97928e50ed3fcbcbd9a5",
+    "question": "當我們從網路上安裝不信任來源的 Skill 時，為了避免資安風險，應該檢查哪些方面？",
+    "options": [
+      "檢查 Skill 內附的 scripts 程式是否有危險操作或傳送隱私資訊",
+      "檢查 SKILL.md 描述檔中是否包含敏感指令",
+      "評估 Skill 來源是否可靠，盡量從信任的來源去安裝",
+      "只要 Skill 有在 GitHub 上公開，就絕對安全不需做任何檢查"
+    ],
+    "type": "多選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.276Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "13530050e8ef696e979e110f0af03c58b576b844f663d458063f1580bd5497d3",
+    "question": "在設計 Skill.md 描述檔結構時，若想避免 AI 隨意假設未提供的情境，或在輸入不完整時主動提示補充而非直接猜測，應該在以下哪一個區塊中進行規範？",
+    "options": [
+      "任務目標 (Goal)",
+      "觸發條件 (Triggers / Inputs)",
+      "執行步驟 (Workflow Steps)",
+      "防錯與限制條件 (Negative Constraints)"
+    ],
+    "type": "單選",
+    "course": "Antigravity 進階技巧及應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "防錯與限制條件 (Negative Constraints)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T03:40:11.279Z",
+    "review_state": "candidate_ready"
+  }
+]
