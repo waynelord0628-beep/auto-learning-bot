@@ -161,5 +161,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.709Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bcbcb11e2bd415cd91740483d3ade36d2e8c08c3658168070dc6bc296bf67609",
+    "question": "suspend在文中為何義?",
+    "options": [
+      "懸掛",
+      "終止",
+      "暫停",
+      "支持"
+    ],
+    "type": "單選",
+    "course": "新制多益測驗得分技巧(初級)(上)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "暫停",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T02:29:30.952Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "75722c68ed65502d2524f64cd6f95327a9e8e1355c54407a6329d9d9380d2bb9",
+    "question": "及物動詞(Vt)後面要加受詞(O)",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "新制多益測驗得分技巧(初級)(上)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T02:29:30.956Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "30d0500af7774fbf00ef234a487512b26f801799ac1bd8b5fa855d283782a054",
+    "question": "client 在文中是指為何",
+    "options": [
+      "安靜",
+      "顧客",
+      "商品",
+      "金融業"
+    ],
+    "type": "單選",
+    "course": "新制多益測驗得分技巧(初級)(上)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "顧客",
+    "source": "ai_unverified",
+    "created_at": "2026-09-22T02:29:30.958Z",
+    "review_state": "candidate_ready"
   }
 ]
