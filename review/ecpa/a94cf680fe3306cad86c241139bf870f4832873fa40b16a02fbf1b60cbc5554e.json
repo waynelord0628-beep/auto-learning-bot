@@ -123,7 +123,11 @@
     "candidate_answer": "身心障礙及資賦優異學生與家長代表。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.969Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T02:20:09.334Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a223330ab57412f7a824e219d83ae649b064c7c54a52e830dfcd2cfbb71a3adc",
