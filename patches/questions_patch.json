@@ -55058,5 +55058,28 @@
       "model": null,
       "checked_at": "2026-09-22T00:19:52.186Z"
     }
+  },
+  {
+    "question": "由於每家醫院的組織特性、定價策略、經營方式非常不同，因此無法發展出一套具有標準檔設定，且可複製應用的醫療資訊系統",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T00:19:59.353Z"
+    }
   }
 ]
