@@ -58,7 +58,11 @@
     "candidate_answer": "《人類環境宣言》",
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T07:19:56.832Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e45c0cb4c46f6977da8cdc67ac27f733e4fab87c36f7b5a17a3bb72e741f5aeb",
