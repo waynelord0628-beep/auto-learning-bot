@@ -62,7 +62,11 @@
     "candidate_answer": "性別平等教育法",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.483Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T03:20:01.828Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0774fed5f76c02e7d82e3f57e187250e601a2bb492ab012d4742e1624f22e342",
