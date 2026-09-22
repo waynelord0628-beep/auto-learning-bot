@@ -55035,5 +55035,28 @@
       "model": null,
       "checked_at": "2026-09-22T00:19:44.324Z"
     }
+  },
+  {
+    "question": "根據長庚醫院的經驗，各大醫院醫療資訊系統100%是不同的，所以，必須各自開發",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-22T00:19:52.186Z"
+    }
   }
 ]
