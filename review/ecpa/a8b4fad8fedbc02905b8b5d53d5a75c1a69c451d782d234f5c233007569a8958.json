@@ -85,7 +85,11 @@
     "candidate_answer": "Cream of the Crop/ Cream Rises to the Top",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.124Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-29T01:19:47.609Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8411b6d2f235373d4a4d88464c7203b4fc9431421af051172728af021cad7ac5",
