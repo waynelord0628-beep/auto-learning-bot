@@ -264,5 +264,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:56.163Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d14bb0ccad02c0c7963024e9e7d4a73f763f5a9788bf9c70c33ae66bde44997c",
+    "question": "下列何者屬於自殺的「保護因子」？",
+    "options": [
+      "家族承擔",
+      "婚姻、親子關係不佳",
+      "社群、家庭凝聚",
+      "容易取得致命工具"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "社群、家庭凝聚",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T03:00:44.485Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a5dccfebc252ee85066187a30ae3ec433f94c198f98c624920ae1c477c2fc171",
+    "question": "社會福利人員在自殺防治中扮演關鍵角色，那些是高危險群：",
+    "options": [
+      "殘障失能。",
+      "低收入戶。",
+      "家暴受害者。",
+      "以上皆是。"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T03:00:44.486Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5bc2e02a2b748e9683b30629945888576446fb5b6d9d54c6b9824c47c353ec66",
+    "question": "強制住院的條件不包含下列哪一項？",
+    "options": [
+      "嚴重病人",
+      "傷害他人或自己或有傷害之虞",
+      "拒絕接受住院",
+      "家屬同意住院"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "家屬同意住院",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T03:00:44.487Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0661b0f246f5535c1e4b64672c0e60b12b6bf5958fcf2e74c71b2aa6dfa714af",
+    "question": "臺灣近年的自殺死亡數據顯示，不正確的是？",
+    "options": [
+      "青少年自殺率上升",
+      "老年人是自殺率最高年齡層",
+      "青中壯年仍嚴重",
+      "各年齡層皆下降"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "各年齡層皆下降",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T03:00:44.488Z",
+    "review_state": "candidate_ready"
   }
 ]
