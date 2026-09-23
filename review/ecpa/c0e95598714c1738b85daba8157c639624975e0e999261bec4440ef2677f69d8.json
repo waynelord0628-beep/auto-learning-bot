@@ -62,7 +62,11 @@
     "candidate_answer": "is situated in",
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.237Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T01:19:57.191Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5fa235429e23ea85ae298f317a5b62c8574842fe1ee528b960902323db977ad0",
