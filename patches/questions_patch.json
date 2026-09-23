@@ -55817,5 +55817,34 @@
       "model": null,
       "checked_at": "2026-09-23T13:19:56.506Z"
     }
+  },
+  {
+    "question": "Which of the following sentences correctly uses the structure \"Place + verb + in the + direction + of + reference point\" to describe a location?",
+    "type": "單選",
+    "options": [
+      "The library is in the north of the downtown.",
+      "The river flows in the west of the forest.",
+      "The stadium is in the southeast of the university.",
+      "The restaurant is in the east of the road."
+    ],
+    "course": "從過去走向未來：台南新化市場的復興計劃",
+    "answer": "The stadium is in the southeast of the university.",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "The stadium is in the southeast of the university.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100269",
+          "title": "從過去走向未來：台南新化市場的復興計劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_877.html",
+          "title": "「從過去走向未來：台南新化市場的復興計劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-23T15:19:56.807Z"
+    }
   }
 ]
