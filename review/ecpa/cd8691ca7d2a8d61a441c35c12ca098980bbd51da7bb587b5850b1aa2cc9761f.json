@@ -79,7 +79,11 @@
     "candidate_answer": "雇主應置備適當之必要防護器具，並保持其性能、清潔。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.673Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T03:19:45.370Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2da033176a911e2d0a8104cd4f1d2f112ac9977b8d21561d8f19b91cab22dc99",
