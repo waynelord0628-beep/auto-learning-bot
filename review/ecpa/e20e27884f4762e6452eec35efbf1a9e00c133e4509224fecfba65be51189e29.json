@@ -131,7 +131,11 @@
     "candidate_answer": "安全防護接觸（防止跌倒或受傷的立即支撐）",
     "source": "ai_unverified",
     "created_at": "2026-09-16T07:03:45.542Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T10:20:01.513Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b4ce69be1c93f137366f4bc0bfcd08813e9757ec0057ed098327b72487063bd7",
