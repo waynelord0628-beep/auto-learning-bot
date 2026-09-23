@@ -31,13 +31,30 @@
     ],
     "type": "是非",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T23:21:45.847Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T04:19:55.509Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/113ee_2.html",
+          "title": "「113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-23T04:19:54.905Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "62465a45e3a16151161b11f0211d9d197fb79dd52bc445506752f31e91595f47",
