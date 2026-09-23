@@ -182,5 +182,111 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.251Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "21046e95217e4c7f0a81fb33e3f021828b9f7bbb2d8465710c6dc07de885fa04",
+    "question": "當病患在不同院所就醫時，FHIR 技術能協助醫師即時且準確地取得完整的跨院歷程，進而減少重複檢查與醫療錯誤。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.585Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dc3ce3c3c3c7479bb6ca1c7e4ede93739dcd00c26a7b1c8405c3621d44b70dbc",
+    "question": "高醫體系支援那瑪夏、桃源區的「5G 偏鄉遠距醫療」服務，主要是透過傳輸什麼即時影像，讓市區的專科醫師能進行「隔空看診」？",
+    "options": [
+      "手機視訊通話畫面",
+      "數位五官鏡影像",
+      "遠端超音波掃描影片",
+      "病患居家環境環景影像"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "手機視訊通話畫面",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.587Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "46a24a1ce1c3591c8c7a8975c23305705280e521f2538ebd379250396961f8b1",
+    "question": "高醫團隊研發了哪一種智慧醫療技術，能協助醫師在檢查中辨識肉眼難見的早期病灶，大幅提升食道癌的治療契機？",
+    "options": [
+      "Face AI 微血管波動技術",
+      "數位孿生基因分身技術",
+      "12 導程救護車傳輸技術",
+      "AI 內視鏡影像技術"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI 內視鏡影像技術",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.588Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "68ed5a2a70d0d75f219211f9d1ad40c401f2ccd4065b6b747bbcc982ce6303e9",
+    "question": "「5G 智慧救護」技術之所以強大，是因為它能讓醫院端醫師在病患「抵達醫院前」就協助醫院端醫師提前掌握病況，並進行初步判斷與整備，縮短急救處置時間。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.589Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fc8da8f5664b632cdbe32641ac824dace0cfb3e549d009bb689700905f3712b6",
+    "question": "傳統的醫療 AI 訓練模式通常採用「資料集中化」，這與聯邦學習「資料不動、參數動」的運作原理相同。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.590Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9583f9814904696a01285378830b51f149f2b23c8af806302c0c3c4b5003a15f",
+    "question": "權責歸屬與倫理問責框架的建立，是為了在系統與法律層面釐清責任，讓醫護人員能更安心地善用 AI 輔助工具。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:01:38.591Z",
+    "review_state": "candidate_ready"
   }
 ]
