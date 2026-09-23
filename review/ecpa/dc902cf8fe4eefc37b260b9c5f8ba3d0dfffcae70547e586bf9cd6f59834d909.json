@@ -95,13 +95,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:51:46.887Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T08:20:00.279Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-23T08:19:59.210Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2df7a3a55e5991fad2ce9fe8f487dc215bba54cf4aa164f60fe3e3928f40c6c6",
