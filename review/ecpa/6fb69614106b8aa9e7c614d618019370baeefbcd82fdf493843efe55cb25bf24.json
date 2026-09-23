@@ -188,5 +188,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.642Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "39638032e58bd94e0708d080bd81f88d7298cdafaa10abfa4b36d923561f5f48",
+    "question": "綜合自殺死亡與自殺通報數據顯示，正確的是？",
+    "options": [
+      "自殺死亡者超過一半曾經被通報",
+      "自殺死亡者只有三成生前曾經被通報",
+      "自殺死亡者只有一成生前曾經被通報",
+      "一個月內不在自殺企圖，就不會再有風險"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自殺死亡者只有三成生前曾經被通報",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:59:56.146Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0bb10473402cef92a128623eef00954416eb46ca228c11f77accff93a5f27f6a",
+    "question": "下列哪個關於自殺預防的敘述是正確的？",
+    "options": [
+      "只有專業人士才能預防自殺。",
+      "如果危機中的人得到幫助，他們可能不會自殺。",
+      "一旦決定自殺，就無法改變。",
+      "談論自殺是個壞主意。"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "如果危機中的人得到幫助，他們可能不會自殺。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:59:56.147Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d575026f58e047fba7246eacb744af11b024946a7d786584da531cbbe6b1d915",
+    "question": "關於自殺行為的解釋，下列哪個敘述最準確？",
+    "options": [
+      "自殺是單一事件造成的結果。",
+      "自殺的原因通常很明顯。",
+      "導致自殺的因素是多種多樣且複雜的。",
+      "只有心理健康問題會導致自殺。"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "導致自殺的因素是多種多樣且複雜的。",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:59:56.148Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "76cc5c9c1652714e046ed3a583f21df334a2d7528fc867c4693c33310642d982",
+    "question": "臺灣近年的自殺死亡方法的趨勢，正確的是？",
+    "options": [
+      "上吊仍是全人口第一名",
+      "高處墜下有上升趨勢",
+      "高處墜下已趕過服用固體液體自殺",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:59:56.163Z",
+    "review_state": "candidate_ready"
   }
 ]
