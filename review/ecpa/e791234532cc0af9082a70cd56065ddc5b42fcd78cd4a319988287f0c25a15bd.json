@@ -37,7 +37,11 @@
     "candidate_answer": "聲請監護宣告",
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:05:14.720Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T14:20:03.967Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7fad5ca6891b26363d81c84073bc9761ee0fd6c7dd3fed76b65aefab178355d6",
