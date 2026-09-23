@@ -85,7 +85,11 @@
     "candidate_answer": "which has",
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.237Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T01:20:05.273Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "eaf4abca46013cf542355789d8f9547beaa6c688eb9b624a6a8b33b81cc1476c",
