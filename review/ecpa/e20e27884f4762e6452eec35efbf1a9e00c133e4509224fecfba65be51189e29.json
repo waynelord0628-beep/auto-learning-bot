@@ -108,7 +108,11 @@
     "candidate_answer": "「社會安全網-關懷e起來」線上求助平台",
     "source": "ai_unverified",
     "created_at": "2026-09-16T07:02:52.513Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T10:19:52.814Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "12f481faa2190965ed86448dd10b1ef81d9190b1884928a3766f668bfc3a4023",
