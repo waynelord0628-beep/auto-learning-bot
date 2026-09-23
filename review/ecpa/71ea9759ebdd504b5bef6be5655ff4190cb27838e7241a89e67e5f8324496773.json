@@ -1,0 +1,186 @@
+[
+  {
+    "id": "50f32be066a69885656d2f42981a79446488237fb95ba3b9d741176b0fb929a7",
+    "question": "FHIR 雖然是全台灣的科技趨勢，但因為它是一套地方性的技術規格，因此無法與國際藥廠、研究機構無縫接軌。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.240Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "188fe768f541ee3a293699f1a09a714831ae5fa8600d53478785a85ee4c5da30",
+    "question": "智慧醫療國際標準技術「FHIR」的中文全名是什麼？",
+    "options": [
+      "快速健康照護互通資源",
+      "遠距醫療即時傳輸標準協議",
+      "雲端智慧病歷加密安全網絡",
+      "跨院聯合學習模型共享架構"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "快速健康照護互通資源",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.244Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "771493a26179fa654acaa6988087fee3cb358591368c21149faeb57666a5f588",
+    "question": "衛福部推動用來提升醫療系統「抗網路攻擊能力」的三大治理面向，不包含下列哪一項？",
+    "options": [
+      "資安治理",
+      "資料治理",
+      "AI 治理",
+      "財務治理"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI 治理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.245Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4c3904c60b08e07a48965856c8f89bef5f1a384822ea22a0e3708c6eb3cdaee",
+    "question": "聯邦學習（Federated Learning）在運作時，各醫療機構只會將什麼數據上傳至中心伺服器進行整合？",
+    "options": [
+      "病患姓名與身分證字號",
+      "完整的去識別化病歷",
+      "電腦斷層掃描原始影像",
+      "本地訓練的模型參數"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "本地訓練的模型參數",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.246Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "edc58deb9be2d04bdc63ab0b9bd2b2bbb701582ceb1e87881ce2bebb9e44b1f2",
+    "question": "高醫在「智慧住院全人照護」計畫中，透過導入物聯網與 AI 來偵測病患跌倒與離床行為，這有助於減輕護理師的負擔。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.246Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "25d00e1cb20370d1e4d2f38026957e92dae2990a316a80625d0e6ad8a501a631",
+    "question": "當 AI 預測出長者出院後的失能風險時，醫護團隊可以提前干預，及早制定復健與居家支持計畫。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.247Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4fc6b0539823d885bb1c1d6be04a2e4a9858d8f718f5c6847759aeb5707a1fc0",
+    "question": "醫療數據在進入 AI 訓練前，為了防止隱私洩漏，會透過什麼技術移除姓名、身分證號等標識符號，轉化為無法追蹤個人的代碼？",
+    "options": [
+      "聯邦參數化技術",
+      "去識別化技術",
+      "微分段隔離技術",
+      "數位孿生虛擬技術"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "去識別化技術",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.248Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "666c2f011243afa98335a48aaedb043148d1db27b0ceb14e8db99b7d4c10f4b9",
+    "question": "高雄智慧醫療聯盟提供的驗證平台，其範疇涵蓋了六大關鍵領域。下列何者「不屬於」這六大領域？",
+    "options": [
+      "門診與急診",
+      "住院與急重症",
+      "房地產市場與醫美趨勢預測",
+      "疾病預測與長照"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "房地產市場與醫美趨勢預測",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.249Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2fcf015c2d47316e1c091988a0682020cb3389be0aba276d6e4f20dcb561f46f",
+    "question": "以高雄榮總為例，AI 早期預警系統（EWS）是如何運作以提早預測敗血症與休克風險的？",
+    "options": [
+      "由病患家屬定時上傳生理數據",
+      "AI 24 小時抓取患者的生命徵象",
+      "病患進入手術室後才開始偵測",
+      "人工填寫紙本病歷後輸入系統"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI 24 小時抓取患者的生命徵象",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.250Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f70eafa5093c3bc1f9f9b478465f27ed1a4365ae822f822a870be8bf2258be4e",
+    "question": "小港醫院為了縮短病患候診時間、優化就醫流程，針對復康巴士採取了什麼核心技術整合？",
+    "options": [
+      "自動駕駛導航與車牌辨識系統",
+      "跨平台數據與智能註記",
+      "全國交通卡(悠遊卡)金流介接",
+      "醫院大門口無障礙坡道語音提示"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "跨平台數據與智能註記",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:00:31.251Z",
+    "review_state": "candidate_ready"
+  }
+]
