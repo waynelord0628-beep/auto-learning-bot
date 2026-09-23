@@ -274,5 +274,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.725Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5ce2d92ebab1cd996abe9c81c09379e646168191defce985dac126252912afed",
+    "question": "權勢性侵的本質為？",
+    "options": [
+      "權力",
+      "金錢",
+      "能力",
+      "控制"
+    ],
+    "type": "多選",
+    "course": "突破厭女：你我可以做什麼",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:53:00.095Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "4a1cc2ac5165b3ced8d4974e72318502d7d28d09ab4541a7ea98cd3284367a49",
+    "question": "厭女的作為不只是外在的懲戒機制，而是控制內在自我的感受、體驗與理解。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "突破厭女：你我可以做什麼",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:53:00.096Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "607bf9202f719aedef3a48006844d25b1eb5e3f093ac55959b391b03258c47ab",
+    "question": "請問何者並非性自主權的理論？",
+    "options": [
+      "違背自主意願",
+      "侵害自我擁有權",
+      "侵害性能動主體",
+      "侵害財產權"
+    ],
+    "type": "單選",
+    "course": "突破厭女：你我可以做什麼",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "侵害財產權",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T02:53:00.097Z",
+    "review_state": "candidate_ready"
   }
 ]
