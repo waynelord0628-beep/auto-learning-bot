@@ -85,7 +85,11 @@
     "candidate_answer": "溝通留痕原則",
     "source": "ai_unverified",
     "created_at": "2026-09-16T07:02:52.513Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T10:19:45.722Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "20ef67fd3fa15ead43b8a9e9308c71d97f7d297bc726b1705211b34df03d1d4c",
