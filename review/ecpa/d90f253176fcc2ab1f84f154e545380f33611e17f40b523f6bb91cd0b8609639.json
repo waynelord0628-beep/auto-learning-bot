@@ -83,7 +83,11 @@
     "candidate_answer": "帳號可以借給同事",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.584Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T06:19:53.077Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5b27e38462d3bb67c593e08fee75b383a5ab688724dbb759009eac6264627082",
