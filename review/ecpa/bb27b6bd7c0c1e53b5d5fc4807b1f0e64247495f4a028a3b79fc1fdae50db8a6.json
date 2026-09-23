@@ -17,8 +17,8 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.675Z",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-23T10:19:49.441Z",
+    "retry_count": 2,
+    "retry_after": "2026-09-24T11:19:42.333Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-29T13:19:45.015Z",
@@ -42,8 +42,8 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.676Z",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-23T10:19:49.441Z",
+    "retry_count": 2,
+    "retry_after": "2026-09-24T11:19:42.333Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-29T13:20:00.370Z",
@@ -67,8 +67,8 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.677Z",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-23T10:19:49.441Z",
+    "retry_count": 2,
+    "retry_after": "2026-09-24T11:19:42.333Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-29T13:20:08.524Z",
@@ -91,7 +91,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.678Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-09-24T11:19:42.333Z"
   },
   {
     "id": "036a872e12a9def5d5ad7e7ad41729dfe945bb9e2ccda6c60d8b7b837f905300",
@@ -110,7 +112,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.678Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-09-24T11:19:42.333Z"
   },
   {
     "id": "ac91e256e710c91ef824ec3a5918646721b1d9519cd32162140675f867598022",
