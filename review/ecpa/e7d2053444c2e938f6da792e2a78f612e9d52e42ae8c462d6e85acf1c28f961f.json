@@ -85,7 +85,11 @@
     "candidate_answer": "規劃廁所的人習以為常的刻板印象所造成的結果",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.927Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T15:20:16.053Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "315f97c44bd75d8a7494be76286e998494a26e4100b9032fa2701589fc2c35ce",
