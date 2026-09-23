@@ -16,7 +16,11 @@
     "candidate_answer": "48小時",
     "source": "ai_unverified",
     "created_at": "2026-09-22T05:34:13.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T11:20:02.403Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f43f1cc68fecaeda661acc8d1c2016c173a889e809524b1a9d25ccdd8de1f570",
