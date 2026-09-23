@@ -123,7 +123,11 @@
     "candidate_answer": "職業安全衛生管理系統。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.674Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-09-30T03:19:56.093Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2042d6a50ad956f9d85b2f081c162c11b451c1cd547f1f33da23c7c4c9a3390e",
