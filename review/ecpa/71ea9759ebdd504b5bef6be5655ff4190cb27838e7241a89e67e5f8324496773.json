@@ -288,5 +288,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.591Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "923ce35ca58c8cfdc99b834e4758e997c64deee85bde276d0e52bd6caf4dd2a2",
+    "question": "高雄智慧醫療聯盟是由高雄在地的四大醫學中心（高醫、長庚、榮總、義大）與 AI Labs 共同組成。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:02:22.401Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2ad52a22929da2ef6214a7a7f1b2d1f856279849d3ec06144148226ee493ed05",
+    "question": "去識別化技術會將醫療數據完全破壞，使其雖然保障了隱私，但同時也無法再被拿來做 AI 訓練使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-23T16:02:22.411Z",
+    "review_state": "candidate_ready"
   }
 ]
