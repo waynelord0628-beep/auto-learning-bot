@@ -16,7 +16,11 @@
     "candidate_answer": "控管風險",
     "source": "ai_unverified",
     "created_at": "2026-09-20T11:33:03.254Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T06:19:46.746Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b797b48e875eec698b235da22ac31e69fc8d24cc582e2786cc93d201a7370548",
