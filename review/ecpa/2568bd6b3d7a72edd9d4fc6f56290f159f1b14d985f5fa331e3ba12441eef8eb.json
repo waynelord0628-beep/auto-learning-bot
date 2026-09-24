@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以人為本、AI 為輔",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.812Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T15:19:53.976Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以人為本、AI 為輔",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T15:19:53.176Z"
+    },
+    "resolved_answer": "以人為本、AI 為輔"
   },
   {
     "id": "d6203b2ec7221f89fe573265d36ad9829b235606146653ee424a8b7156c02d52",
