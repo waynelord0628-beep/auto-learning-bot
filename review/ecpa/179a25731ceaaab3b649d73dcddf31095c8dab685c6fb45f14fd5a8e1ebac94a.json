@@ -62,7 +62,11 @@
     "candidate_answer": "stone weir; Respect Words Pavilions; Bag Gung Temples",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:10.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T12:20:01.388Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "706567fc3085d2026bb8beee4db6a765a1763c9bead872f08a1305768a6b8abb",
