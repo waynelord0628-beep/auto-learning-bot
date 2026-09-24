@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "拜訪蟹老闆的家 - 富基漁港與捕蟹人的故事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Salmon",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T19:00:23.474Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T00:19:50.483Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Crabs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055945",
+          "title": "拜訪蟹老闆的家 - 富基漁港與捕蟹人的故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T00:19:49.837Z"
+    },
+    "resolved_answer": "Crabs"
   },
   {
     "id": "5bd42f7683e42fa2f19ad293a3513c111f0971b57d54080ee772c0047e75475e",

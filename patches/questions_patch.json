@@ -55846,5 +55846,30 @@
       "model": null,
       "checked_at": "2026-09-23T15:19:56.807Z"
     }
+  },
+  {
+    "question": "According to the video, which type of seafood is the main source of livelihood for the majority of residents at Fuji Fishing Harbor?",
+    "type": "單選",
+    "options": [
+      "Crabs",
+      "Salmon",
+      "Eels",
+      "Lobsters"
+    ],
+    "course": "拜訪蟹老闆的家 - 富基漁港與捕蟹人的故事",
+    "answer": "Crabs",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Crabs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055945",
+          "title": "拜訪蟹老闆的家 - 富基漁港與捕蟹人的故事《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T00:19:49.837Z"
+    }
   }
 ]
