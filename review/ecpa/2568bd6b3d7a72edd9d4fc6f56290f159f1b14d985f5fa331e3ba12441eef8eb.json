@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "降低急診壅塞",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.810Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T15:19:46.486Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "降低急診壅塞",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T15:19:45.781Z"
+    },
+    "resolved_answer": "降低急診壅塞"
   },
   {
     "id": "20f02d6cc3e6eadf2dace8f25ef102558398d36a25930d028196071a445e38a6",

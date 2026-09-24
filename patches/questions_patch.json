@@ -56180,5 +56180,30 @@
       "model": null,
       "checked_at": "2026-09-24T13:20:13.460Z"
     }
+  },
+  {
+    "question": "居家醫療的實施有助於？",
+    "type": "單選",
+    "options": [
+      "降低急診壅塞",
+      "增加開刀人次",
+      "減少疫苗施打",
+      "提升藥價"
+    ],
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "answer": "降低急診壅塞",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "降低急診壅塞",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T15:19:45.781Z"
+    }
   }
 ]
