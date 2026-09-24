@@ -104,7 +104,11 @@
     "candidate_answer": "With regard to",
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.237Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T01:20:15.698Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6cc1de67a08727c4f16557b53b879cf3ae716c8201ef4a228cc43ef92f6867a4",
