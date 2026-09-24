@@ -39,7 +39,11 @@
     "candidate_answer": "The Respect Words Pavilion is mostly square or hexagonal in shape, usually with four levels, each with different designs and functions.",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:10.446Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T12:19:51.807Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3b09f7b877cf53c9dc62208777937d72694674815be4b4a129cc18b621f1f1cb",
