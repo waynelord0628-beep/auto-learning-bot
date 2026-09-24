@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1488119666cccd32299ffa2b699b5ccd636390383e028507efcebf30f92eb0d8",
+    "question": "請問當前AI智慧醫療發展趨勢，何者正確？",
+    "options": [
+      "早期偵測/預測、精準診斷決策支援",
+      "非侵入式(Non-Invasive)、穿戴式裝置與邊緣運算",
+      "深度與廣度學習(Deep and Broad Learning)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.053Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d7122aacbd543c94843deb633ae2b4016af55deb6173649049ac1f155c848546",
+    "question": "2020 年 COVID-19 疫情期間，美國推出「智慧戒指」可及偵測 COVID-19 的 AI 模型。受試者出現 COVID-19 症狀的前 3 天，便預先提前發出告警訊息，準確度可達 9 成。請問「智慧戒指」運用哪些新興科技？",
+    "options": [
+      "AI人工智慧",
+      "穿戴式感測裝置",
+      "邊緣運算",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.055Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "064fc1b1d2453823fbbdadde3bbcc8f86ff34fc614aa766f0c713ec4382fb987",
+    "question": "AI智慧醫療領域常運用「深度學習」於疾病檢測及風險預測上。請問「深度學習」是指？",
+    "options": [
+      "一種網路運算架構，運算過程盡可能靠近資料來源以減少延遲和頻寬使用",
+      "一種紀錄資料的技術，藉由密碼學串接來保護內容的文字記錄，讓這串記錄極難被竄改",
+      "一種演算法，讓電腦模擬人類神經網絡運作方式，特別應用在影像辨識、語音辨識、自然語言處理、生物醫學等領域",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一種演算法，讓電腦模擬人類神經網絡運作方式，特別應用在影像辨識、語音辨識、自然語言處理、生物醫學等領域",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.056Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9c2af4b79d597d3e852022ba39a30573fcb4c0c814f4679680e850c87612586c",
+    "question": "AI醫療是從1960年代「專家系統」開始發展起，其特色為何？",
+    "options": [
+      "專家系統是一種「知識庫系統」，處理大量人類專業知識的複雜主題",
+      "一個有用的專家系統必須展現高效率及高度可靠性",
+      "專家系統必須能提出合理化解決策略與建議",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.056Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "da222c0406569ef20a55f41293143bdc9514f09fe55bd87ee071b0f1e4d8b361",
+    "question": "AI可以視為獨立的醫療器材，其關鍵里程碑是？",
+    "options": [
+      "2020年1月15日我國頒布 「醫療器材管理法」，將醫療器材管理自「藥事法」抽離",
+      "2022年8月27日我國正式成立「數位發展部」",
+      "2021年1月19日美國白宮科技政策辦公室於宣布成立國家人工智慧辦公室",
+      "2021年1 月 12 日美國食藥署(FDA)正式發表人工智慧醫療器材獨立軟體行動計畫"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2021年1 月 12 日美國食藥署(FDA)正式發表人工智慧醫療器材獨立軟體行動計畫",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.057Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "29069726837ad304ddf4bbc1049c36b9059c72a879a2d106ee1b0ea64e046bf3",
+    "question": "「iDeepCare」計畫是由學界與國內醫療機構跨域合作，蒐集各種生醫原始資料，建立AI模型，運用於疾病檢測及健康風險預測。請問下列何者可作為訓練AI模型的資料來源？",
+    "options": [
+      "醫療影像",
+      "生理訊號",
+      "病歷醫囑",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.057Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fd71cfe6c98093372b6b3d2206c21f5ca3b2eb8deade94a523a23bb12cd99bf5",
+    "question": "台灣推動「iDeepCare」計畫，耕耘AI醫療領域多年，以下何者正確？",
+    "options": [
+      "「大腸息肉 AI 辨識模型」能在 0.5 秒內完成判讀大腸息肉的良惡性，準確率達到 96%",
+      "「心律不整預警系統」能預測高風險猝死，準確率可達75%，有別於內科醫師判斷準確率47.5%",
+      "「眼表影像與深度學習的輔助診斷技術」判別感染性角膜炎準確率超過 70%，高於眼科專業醫生平均診斷準確率的 52%",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.058Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7566d06a41ede0518003c0999062f043a91c3885c2e35211ef3c73e643c018f7",
+    "question": "台灣自主研發的ITRI-DR視網膜病變自動辨識系統，以下何者錯誤？",
+    "options": [
+      "可輔助眼科醫師診斷使用",
+      "家醫科醫生不易操作使用",
+      "已通過台灣衛福部食藥署TFDA上市許可證",
+      "獲得 2020 國家新創獎"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "家醫科醫生不易操作使用",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.058Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d8d3819059418be4b6f603f64b4c5aed518ea88d4088373668296c5d438f1bdf",
+    "question": "有關DeepMind的敘述，何者正確？",
+    "options": [
+      "Google於2014年設立子公司",
+      "公司開發AlphaGo於2016年與韓國職業九段棋手李世?對奕，輸給了世界棋王",
+      "2019年發表對眼睛疾病檢測設計的 AI 模型，可縮短眼科疾病的診斷時間，且準確率達到 94%",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.059Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f0c5068aa8d29fe3ad98a432d8c4108556bd9016bcdd886d5793fa1df8be6434",
+    "question": "新興科技發展帶動AI醫療領域的發展，請問以下哪些新技術扮演關鍵？",
+    "options": [
+      "大數據",
+      "AI演算法",
+      "邊緣運算",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:07:16.059Z",
+    "review_state": "candidate_ready"
+  }
+]
