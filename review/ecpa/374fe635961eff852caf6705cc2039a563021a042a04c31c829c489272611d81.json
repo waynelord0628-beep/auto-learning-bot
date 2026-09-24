@@ -172,5 +172,111 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T15:01:53.289Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "63cca3003f3fbb8326e81ff0d5a73e8381b59d854d9ba8405e3f8fbfa2cd6941",
+    "question": "下列何者為契約生效的要點？",
+    "options": [
+      "當事人具有行為能力，可以訂約",
+      "為了什麼事情而訂立契約",
+      "有詐欺、脅迫等行為或條款",
+      "冒充他人姓名契約也能生效"
+    ],
+    "type": "多選",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.534Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "74bfb6c4dd3754559590f486a549116a17ef7253b5e9a7430130034d8a7b4f94",
+    "question": "即使送養一年後再移轉晶片，送養人也不可能會遇到要繼續承擔飼主責任的局面。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.535Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1e339294ea3f49dcef623ee8057aba5b2e79af2268f707e87e5c1094bce4ce02",
+    "question": "送養時可以選擇在領養契約中訂立完善規範，增加送養動物的機會。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.535Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d43e644d899256357321a7230460a8643df825b0305cbd346f0917af25e05f31",
+    "question": "有關領養契約中的處罰約定，分層處罰是一種比較建議的方式。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.536Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7693ed7eb8b56f13aacfb97565eaa6a236683af569117ed3b18c4ef935272e18",
+    "question": "當領養方不熟悉如何照顧動物時，可能會有許多突發狀況，以下哪些是常見的情形呢？",
+    "options": [
+      "領養方不知道如何照顧動物",
+      "動物因為不適應領養家庭而離開",
+      "動物因為疏失而走失",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.537Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0cf9847106241cc8437ee502a9aa7628e6721cf905e1779c138aa19785179368",
+    "question": "送養人可以透過訪視瞭解領養人的條件，從中協商磨合並尋找共識。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:24.537Z",
+    "review_state": "candidate_ready"
   }
 ]
