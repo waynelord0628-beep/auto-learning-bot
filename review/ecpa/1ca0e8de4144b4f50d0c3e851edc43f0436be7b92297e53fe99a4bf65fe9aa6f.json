@@ -50,7 +50,11 @@
     "candidate_answer": "Yilan River, Lanyang River, Dongshan River",
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T13:20:31.530Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "48b1f8576527e4a088986aa7c88e9d1e85d32fa23fb923793ce5d2bdaca76ed4",
