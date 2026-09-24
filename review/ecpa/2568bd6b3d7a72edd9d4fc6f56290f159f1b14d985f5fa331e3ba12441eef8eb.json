@@ -264,5 +264,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:01.195Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c7c27a671644360304b809c3db8ff134c881bc691173104e917c272399ec069c",
+    "question": "全人照護的實踐不包括以下哪一項？",
+    "options": [
+      "心理諮詢",
+      "靈性關懷",
+      "高價檢查推銷",
+      "社會連結"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高價檢查推銷",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:37.396Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3b7c2866a0e9228b7451e291952d361438c05f906a7923baaddd66f6faf67238",
+    "question": "生活型態醫學中不屬於核心項目的為？",
+    "options": [
+      "規律運動",
+      "健康飲食",
+      "長期住院",
+      "戒除不良習慣"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "長期住院",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:37.398Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b8f6a9c95cdc07f9109342424fdf3965dd3ca5de6d2cbe471c1cce510af6a59f",
+    "question": "HAI 系統的導入主要目的是什麼？",
+    "options": [
+      "強化病人自助掛號功能",
+      "取代醫生看診",
+      "提升醫護工作效率並強化溝通",
+      "設計問卷調查系統"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提升醫護工作效率並強化溝通",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:37.399Z",
+    "review_state": "candidate_ready"
   }
 ]
