@@ -69,13 +69,30 @@
     ],
     "type": "是非",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.704Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T07:20:01.549Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T07:20:00.319Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d920f832350ae807bcdce78425f19f2de82a6b5f58abe2a1cc31dba9e2265c54",
