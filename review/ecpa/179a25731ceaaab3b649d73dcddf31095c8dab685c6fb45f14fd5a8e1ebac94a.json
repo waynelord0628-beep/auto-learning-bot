@@ -148,5 +148,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:16.502Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "df0a3e498dff7d34afd5a06ec1a835882972788dc49c2bb1a7f7cf3bb0fd2d2f",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "bad; disregard; round; two",
+      "lucky; respect; square; three",
+      "unfortunate; dislike; triangular; four",
+      "random; disrespect; rectangular; five"
+    ],
+    "type": "單選",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-24T02:59:46.729Z",
+    "review_state": "awaiting_evidence"
   }
 ]
