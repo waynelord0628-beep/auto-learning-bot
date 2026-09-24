@@ -16,7 +16,11 @@
     "candidate_answer": "The bottom layer serves as the base, the upper layer is for burning paper, and the middle layer is primarily for smoke discharge.",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:10.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T12:19:45.153Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2658a3538c14c65fbf3ff7b5fa4bd0f3d0965a0d4c13da8528feb2fc89c239b4",
