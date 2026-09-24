@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "以飛魚抓黃鰭鮪魚，Leo 又大有斬獲啦！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T11:27:59.701Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T03:19:50.055Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697841",
+          "title": "以飛魚抓黃鰭鮪魚，Leo 又大有斬獲啦！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T03:19:49.379Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d2f9eeb5cf68d25448bbcaae6bde093195cba025f6ac9ebaeafb066e5518c510",
