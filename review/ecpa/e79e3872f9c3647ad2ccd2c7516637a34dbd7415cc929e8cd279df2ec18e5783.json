@@ -61,5 +61,22 @@
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-30T15:20:07.771Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "10179214a49f0781a70c76ecf099f84be32a8d4249e235244a80c632e935874b",
+    "question": "Please read the following paragraph and determine whether it is TRUE or FALSE.Hsinhua Market, located on a crucial route where the plains meet the mountains, is recognized as one of the largest fruit wholesale markets in southern Taiwan. Due to the delicate nature of the fruits sold there, careful packaging and manual handling are required. Vendors often use electric tricycles for transportation, a unique feature of this market.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從過去走向未來：台南新化市場的復興計劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:00:58.315Z",
+    "review_state": "candidate_ready"
   }
 ]
