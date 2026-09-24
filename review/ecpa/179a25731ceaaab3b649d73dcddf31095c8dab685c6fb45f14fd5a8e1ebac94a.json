@@ -82,10 +82,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "In the Respect Words Pavilion, people used to burn written papers to show respect for the written word.",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:16.498Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-25T23:19:42.945Z"
   },
   {
     "id": "f6f5ed59b86beafe5696b371f6119691045b6cc4d35ed72cdfa2a32effb21959",
@@ -118,10 +120,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "Bag Gung watches over the area's residents, who pray to him for blessings and share both their good and bad news.",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:16.501Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-25T23:19:42.945Z"
   },
   {
     "id": "f9025b167072c31e62be0a90de411fc27e0cb8db87a5489959699273ceb984b0",
@@ -156,10 +160,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "The original places for worshiping Bag Gung were simple earthen sacrificial platforms called Bag Gung Altars. These were later rebuilt into the temple-style buildings known as Bag Gung Temples.",
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:16.502Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-25T23:19:42.945Z"
   },
   {
     "id": "df0a3e498dff7d34afd5a06ec1a835882972788dc49c2bb1a7f7cf3bb0fd2d2f",
