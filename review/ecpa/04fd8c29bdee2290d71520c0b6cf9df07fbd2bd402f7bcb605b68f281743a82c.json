@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.117Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T05:19:49.121Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "性別平等工作法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T05:19:48.512Z"
+    },
+    "resolved_answer": "性別平等工作法"
   },
   {
     "id": "db8276468f778c74aaa0c8e429c66c68c1929e4465ecccca0bfa232d2c93eef7",
