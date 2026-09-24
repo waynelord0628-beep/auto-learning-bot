@@ -188,5 +188,100 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.729Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "644866e543899285cacf7a35bfad8e4192331b363fdb199be7ca77fb44c39f46",
+    "question": "哪一項為AI雙面鏡中『生成式AI』的特性？",
+    "options": [
+      "影像分類",
+      "聲音辨識",
+      "監控用藥劑量",
+      "語意理解與內容生成"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "語意理解與內容生成",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:24:38.195Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b811009ec622780c6fe7218bc3cbb45801f6873b802430a01e682026bfde1510",
+    "question": "iota C.ai平台的優勢不包含下列哪一項？",
+    "options": [
+      "即時推播",
+      "自然語言互動",
+      "低碼開發",
+      "紙本傳遞"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "紙本傳遞",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:24:38.199Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "69912f9c23eeab7dcbecc5a286c416abb3aa4dc8774c8e7607d756b156b9f3b1",
+    "question": "哪一項應用最能反映『AI知難行難』的現象？",
+    "options": [
+      "模型訓練容易",
+      "Chatbot部署難度高",
+      "人工標註效率高",
+      "使用者熟悉AI操作"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Chatbot部署難度高",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:24:38.199Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86eb11fbc60021bd0a77cc8a5785a9873812eb8be4879b55f4919dc7794df27c",
+    "question": "智慧醫療應用中，哪種機器人整合Line實現掛號與問診？",
+    "options": [
+      "醫生助理",
+      "網頁助理",
+      "LINE Bot",
+      "醫院APP"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "LINE Bot",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:24:38.199Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "98f154de40e9670640314b39d180f85083b75b060d29bcbb1a0157f6001ac6dd",
+    "question": "Vitals KPIM系統的功能不包括哪一項？",
+    "options": [
+      "醫療指標管理",
+      "異常提醒",
+      "系統自動核對目標值",
+      "即時叫號"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "即時叫號",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:24:38.201Z",
+    "review_state": "candidate_ready"
   }
 ]
