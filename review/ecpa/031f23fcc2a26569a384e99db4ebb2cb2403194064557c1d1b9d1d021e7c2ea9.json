@@ -44,13 +44,30 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T17:48:21.545Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T04:19:53.563Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/3-ee.html",
+          "title": "「動物保護面面觀3-「喵星人」到底在想甚麼？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T04:19:52.852Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9f217dcc8ccaefd8118f6e774839bc42dbce4104b27ae85b14109d77dea57709",
