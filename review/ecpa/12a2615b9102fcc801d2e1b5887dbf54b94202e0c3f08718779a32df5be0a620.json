@@ -168,5 +168,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:48:35.296Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b817b61fbf4f8904f613717e289802fb4fc20cee1aa7b1d088774841b783b707",
+    "question": "Canva亦能透過應用程式的pexels找尋需要的圖片素材。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Canva速成大師班",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T02:49:09.223Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86c1808759bfe561939793abef73f8d054a0cdee1640874f852f900d133bba8d",
+    "question": "「顯示時間」是Canva的影片時間軸功能，可以在編輯影片時調整物件出現時間。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Canva速成大師班",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T02:49:09.224Z",
+    "review_state": "candidate_ready"
   }
 ]
