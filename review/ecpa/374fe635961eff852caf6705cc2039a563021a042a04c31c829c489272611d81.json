@@ -278,5 +278,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T15:02:24.537Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9d1a2d84b0ea1c30fc93c4780515fd052fb46850eec1e371c2957b97463c60aa",
+    "question": "當遇上領養紛爭時，除了尋求律師協助，還可以尋求哪些管道的協助？",
+    "options": [
+      "鄉鎮市公所調解",
+      "民意代表說和",
+      "法院調解",
+      "派出所報案"
+    ],
+    "type": "多選",
+    "course": "犬貓認領養之程序與法律",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T15:02:53.935Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
