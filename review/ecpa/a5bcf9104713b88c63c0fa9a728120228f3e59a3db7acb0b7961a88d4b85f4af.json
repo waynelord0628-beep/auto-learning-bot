@@ -268,5 +268,45 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.556Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8175ea3ec444c7a2f24a37ac88bde0a021f21e80610a43c32c489278c6f2c8f2",
+    "question": "請問以下哪些是飼養鸚鵡前需要注意的問題？",
+    "options": [
+      "鸚鵡叫聲非常宏亮，容易影響鄰居、家人",
+      "鸚鵡是群居動物，需要飼主花時間陪伴、培養耐心與牠互動",
+      "鸚鵡咬合力道很強，如果放出在家中活動，可能會破壞傢俱、裝潢，特別喜歡金屬、玻璃等反光有亮光的物品，需要小心牠們誤食",
+      "鸚鵡喜歡在地上走不喜歡飛，飼養以後要多花時間訓練牠的飛行能力"
+    ],
+    "type": "多選",
+    "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:37:03.351Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "c08f7a3b7570cc8c4b30a201edbdea8129dd9a263563d8de30380beeeea7fe8e",
+    "question": "下列哪些是對鸚鵡有害的食物?(複選)",
+    "options": [
+      "帶殼小米",
+      "咖啡",
+      "洋蔥",
+      "萵苣",
+      "酪梨",
+      "大蒜"
+    ],
+    "type": "多選",
+    "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:37:03.352Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
