@@ -73,7 +73,11 @@
     "candidate_answer": "Eels are endangered, so other countries have imposed a ban on eel catching.",
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T13:20:45.935Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7b487ecd5b591dad281de3d04522b01514c379b18c40b35d6cc702b3f223a2e5",
