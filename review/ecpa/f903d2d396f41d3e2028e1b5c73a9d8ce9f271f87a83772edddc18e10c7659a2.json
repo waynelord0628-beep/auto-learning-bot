@@ -127,7 +127,11 @@
     "candidate_answer": "When it comes to",
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.238Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T01:20:36.309Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9e03d21e0bf7d0e0130f07d66d05ad05513d943dc8eaf5c26136d4ede8012b8b",
