@@ -283,5 +283,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.201Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "11ac06910b6ca8b02477e7950fe9e800b5b69e17d4a0ad7de6077b3ce4eaeaee",
+    "question": "Vitals NetZero如何協助碳盤查？",
+    "options": [
+      "依據訪談估算",
+      "自動分析設備能耗",
+      "外包第三方服務",
+      "手動輸入數據"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自動分析設備能耗",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:25:15.567Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ffc86c29dbf557fbf2d2fcd30cecfddc38910230f080b802444290403f24b550",
+    "question": "哪一項不是生成式AI應用於醫療的挑戰？",
+    "options": [
+      "語音辨識能力",
+      "資料品質與目標不明",
+      "法規與資安考量",
+      "模型透明度不足"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "語音辨識能力",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T09:25:15.570Z",
+    "review_state": "candidate_ready"
   }
 ]
