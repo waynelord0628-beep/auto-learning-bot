@@ -55,5 +55,98 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:58:10.447Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "706567fc3085d2026bb8beee4db6a765a1763c9bead872f08a1305768a6b8abb",
+    "question": "Which of the following statements about the Longjing River mentioned in the video is correct?",
+    "options": [
+      "The Longjing River is not significant for irrigation or flood control in Neipu Township and Zhutian Township.",
+      "Houses with swallowtails signify a major family event where someone has been arrested and imprisoned.",
+      "In the Respect Words Pavilion, people used to burn written papers to show respect for the written word.",
+      "The \"Stone Weir\" technique was never used for fishing in the Longjing River."
+    ],
+    "type": "單選",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T02:58:16.498Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f6f5ed59b86beafe5696b371f6119691045b6cc4d35ed72cdfa2a32effb21959",
+    "question": "Please read the following paragraph and determine whether it is TRUE or FALSE.",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-24T02:58:16.500Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5985e3715b1ace169004cdc283cbcb822818be161cc40d2ee499d936a23a52c7",
+    "question": "Which of the following statements about \"Bag Gung\" mentioned in the video is correct?",
+    "options": [
+      "Bag Gung watches over the area's residents, who pray to him for blessings and share both their good and bad news.",
+      "In Hakka culture, Bag Gung refers to the younger brother of one's grandfather and is also known as Fu De Zheng Shen or the Earth God.",
+      "The statue of Bag Gung has remained unchanged over the years, maintaining its original form through generations.",
+      "The Bag Gung Temple has endured to this day, but only one type of temple architecture has survived, while other styles have disappeared."
+    ],
+    "type": "單選",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T02:58:16.501Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f9025b167072c31e62be0a90de411fc27e0cb8db87a5489959699273ceb984b0",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "1st; 7th; fishing",
+      "2nd; 15th; crop cultivation",
+      "3rd; 12th; animal husbandry",
+      "4th; 20th; hunting"
+    ],
+    "type": "單選",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-24T02:58:16.501Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "3085d31c6672377dd7fc91d538b8f32bc177b56d83740a7c58e4e15d697362a2",
+    "question": "Based on the audio, which statement about the forms of Bag Gung Temple is correct?",
+    "options": [
+      "In the early days, Bag Gung Temples were elaborate structures made of stone, known as the Bag Gung Altar.",
+      "The original places for worshiping Bag Gung were simple earthen sacrificial platforms called Bag Gung Altars. These were later rebuilt into the temple-style buildings known as Bag Gung Temples.",
+      "The Bag Gung Temple has always been a large and complex temple, never changing its form since its creation.",
+      "There are currently only two forms of Bag Gung Temple, with no record of the early Bag Gung Altar."
+    ],
+    "type": "單選",
+    "course": "走進龍頸溪：探索客家百年人文故事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T02:58:16.502Z",
+    "review_state": "awaiting_candidate"
   }
 ]
