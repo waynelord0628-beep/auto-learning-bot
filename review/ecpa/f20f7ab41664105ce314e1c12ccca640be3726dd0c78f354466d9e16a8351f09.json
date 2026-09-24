@@ -19,5 +19,170 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:23:40.030Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2e5f635b3093d27176e3c281e2c373ed3e64a89a95a7efef8badf2ccb3c8a84c",
+    "question": "關於vTaiwan的敘述何者錯誤？",
+    "options": [
+      "vTaiwan討論的議題主要是與網路相關",
+      "行政機關無須針對vTaiwan上的意見做出回應",
+      "vTaiwan的操作由政府、g0v以及開源社群協力建置",
+      "「網路霸凌」、「線上交易安全」等議題適合在vTaiwan進行討論"
+    ],
+    "type": "單選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "行政機關無須針對vTaiwan上的意見做出回應",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.877Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "820b3fe726feff78c6fc450d16e1d3b0b52701296bff5ef46e9726f5ea34b608",
+    "question": "大P著重的是在溝通、協作的每個程序中應該進行的方式，像是會議主持人怎麼主持、如何選定、通知參與者等。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.878Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "717285457821f3fddec235b9defe6625845e075211fee682487e73b169122f34",
+    "question": "小p最重要的三個重點是？",
+    "options": [
+      "為何開會",
+      "誰來主持",
+      "要談什麼",
+      "怎麼進行"
+    ],
+    "type": "多選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.878Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "1ad4f0383019c9e085af44bddcec7bd4851843b1d5b24aa6b0b87dccaca4fdb6",
+    "question": "在開放參與溝通的努力方向中，業務單位應該思考的不包含以下何者？",
+    "options": [
+      "將民眾參與移到前期",
+      "面對政府內部運作問題",
+      "讓民間促成協作與討論的方法",
+      "限定議題的框架"
+    ],
+    "type": "單選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "限定議題的框架",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.879Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "db4686862869f70be35b11881e3376666abc9d55722ea9c62450076d55889d41",
+    "question": "現在要先思考的是如何透過新興工具結合網路和實體模式，達到有效公民參與。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.879Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ccd2f344f5e788907905e5d15c0546d36e430f7933b52a43c830cf842fc9deec",
+    "question": "政府將政策的相關計畫、執行資料公布在官網上屬於什麼行為？",
+    "options": [
+      "議程設定",
+      "審議",
+      "公開資訊",
+      "政府決策、回應"
+    ],
+    "type": "單選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "公開資訊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.879Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "35d6a4a2d6b365ce5457527566921531af297aedff9da13e7f5c8e36fb199e4a",
+    "question": "政策溝通包含的方向有？",
+    "options": [
+      "公開資訊",
+      "審議",
+      "人民回應",
+      "議程設定"
+    ],
+    "type": "多選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.880Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "4b65ba357fb8ff6fa256fb546623ff87a028aac8059e9463a4b4644accbd6a34",
+    "question": "既有的行政程序或行政慣習，對外的可能會做公聽會、說明會，對內則是專家諮詢會、委員會等。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.880Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4038792ff3bd0c84bc382615327261f83780f5536928560f25502f4aeb3baf9",
+    "question": "以下何者不屬於小p要完成的準備？",
+    "options": [
+      "參與者的選定通知",
+      "舉辦預備會議",
+      "整個參與過程每個階段的目標",
+      "會議主持方式"
+    ],
+    "type": "單選",
+    "course": "開放、參與、溝通的實與虛",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "舉辦預備會議",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:23:45.881Z",
+    "review_state": "candidate_ready"
   }
 ]
