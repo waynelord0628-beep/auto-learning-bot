@@ -188,5 +188,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.820Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2fcdf475165d0a204e6f0505567b0855e9b2373b10bdb2a4679c6876a56ea69b",
+    "question": "生活型態醫學的六大支柱不包括？",
+    "options": [
+      "正向社會連結",
+      "危險物質避免",
+      "高階影像掃描",
+      "壓力管理"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高階影像掃描",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:01.184Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2b0c09e6c5540f16d7e0e414dd8c285275ffbc9031099c8949cfe3dfe58a65f7",
+    "question": "AI在醫療中的角色是？",
+    "options": [
+      "決定病人命運",
+      "輔助判斷與減少負擔",
+      "進行法律判決",
+      "提升房租價格"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "輔助判斷與減少負擔",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:01.189Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c7a3252495a7ad99a671eeca28fe05d92d743cce9eee231ca2c4fe141fe9e737",
+    "question": "智慧醫療技術不包括以下哪一項？",
+    "options": [
+      "AI 分析影像",
+      "智慧病房管理",
+      "雲端資料備份",
+      "製作健康宣傳海報"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "製作健康宣傳海報",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:01.191Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "784078b827b7af9ffc22712c6ea4e790a0e3ac7eabaa9305e9c63ad2f8f234fa",
+    "question": "A+護理師系統最大的效益是什麼？",
+    "options": [
+      "完全自動完成手術",
+      "病患自我照護",
+      "節省記錄時間與減少錯誤",
+      "提高門診收入"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "節省記錄時間與減少錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T10:46:01.195Z",
+    "review_state": "candidate_ready"
   }
 ]
