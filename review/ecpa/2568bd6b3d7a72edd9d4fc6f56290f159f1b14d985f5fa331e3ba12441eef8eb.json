@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提升醫療收費",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.812Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-01T15:20:03.531Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升醫療收費",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T15:20:02.020Z"
+    },
+    "resolved_answer": "提升醫療收費"
   },
   {
     "id": "ae0c1a735037f691aa4b2707b6536146e67b4540da4e6edcc39880d4c92fe719",

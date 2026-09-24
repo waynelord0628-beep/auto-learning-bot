@@ -56230,5 +56230,30 @@
       "model": null,
       "checked_at": "2026-09-24T15:19:53.176Z"
     }
+  },
+  {
+    "question": "奇美醫院導入 HAI 的目標不包括？",
+    "type": "單選",
+    "options": [
+      "減輕工作負荷",
+      "避免職業倦怠",
+      "提升醫療收費",
+      "提升醫病互動品質"
+    ],
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "answer": "提升醫療收費",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提升醫療收費",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-24T15:20:02.020Z"
+    }
   }
 ]
