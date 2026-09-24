@@ -174,5 +174,92 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:31:10.676Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "07749d2af7141be3663297f34b27c4c6bde0a0fa0ffd148d514e6078215e58fc",
+    "question": "與民眾發生意見衝突時，我們應該立即主動說明。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "溝通對話禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:31:45.922Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "28a11257b3fadbd92b226e4b4a7975fbe234c1b6404f4bd96abbf4150a9117bf",
+    "question": "將每件事都做到盡善盡美就是服務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "溝通對話禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:31:45.926Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "728ed5df59c29f9bf203902ac43bd8173199208256f5e0d191068063482c9a4c",
+    "question": "民眾滿意就是互動服務過程的認知。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "溝通對話禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:31:45.929Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "688f3bf43b003243392a84f755ac59c594331191fad69fa29f00d3a089f954b0",
+    "question": "當民眾問路時，我們的身體姿勢需要站直立，面無表情的回答。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "溝通對話禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:31:45.942Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "10239f71e7facc82bd545057816820853e0d1eded4fd02e707f889d926ce8d0b",
+    "question": "哪一種用語是屬於懷疑的用語呢？",
+    "options": [
+      "不知道",
+      "等一下",
+      "不是吧",
+      "不可以"
+    ],
+    "type": "單選",
+    "course": "溝通對話禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不是吧",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T03:31:45.943Z",
+    "review_state": "candidate_ready"
   }
 ]
