@@ -182,5 +182,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.171Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9e807b730562630373158e351dc6bf65e927eca927c650ca35e06f0a19a50641",
+    "question": "下列何者可能涉犯「公務員洩密罪」?",
+    "options": [
+      "開標主持人誤認廠商報價已進入底價，不慎於開標現場公布底價，並宣布決標",
+      "辦理招標業務之承辦人，洩漏投標廠商名稱及家數予特定廠商知悉",
+      "負責收發文工作之公務員，擅自將檢舉信內容任意告知他人，致遭被檢舉人知悉",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "公務員法律責任個案檢討及防弊作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T16:04:30.955Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "44559c05f807f53fcc5d32cdac3eafb6ed1cb0cbe23f9c7de5500ce83f1effac",
+    "question": "關於「偽造變造公文書罪」，下列何敘述者正確？",
+    "options": [
+      "「變造」是指無變更權限之人，就他人所製作之原有文書，不法予以變更",
+      "公文書為公務員職務上所製作的文書",
+      "擅自變造、增、刪或竄改司法院網站公開的裁判書，可能觸犯變造公文書罪",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "公務員法律責任個案檢討及防弊作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T16:04:30.958Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3c65947e89b80e21917669aae3c0c46976031a668d77aa9ebbdd1da17b19c1fb",
+    "question": "久任一職易生倦怠現象或因循行事，進而增加機關弊失發生機會，故落實定期工作輪調制度是必要的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務員法律責任個案檢討及防弊作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-24T16:04:30.958Z",
+    "review_state": "candidate_ready"
   }
 ]
