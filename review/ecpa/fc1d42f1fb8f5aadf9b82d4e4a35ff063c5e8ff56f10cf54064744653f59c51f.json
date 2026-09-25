@@ -288,5 +288,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.284Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "665b4643829f2340f79c1a09d085c542c04a8b7fd6a6b633bc391f76eeacb46e",
+    "question": "2015年巴黎協定的目標是：2100年全球平均氣溫升幅控制在工業革命前水準以上低於2℃，並努力將升幅限制在1.5℃之內。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-09-25T05:04:52.198Z",
+    "review_state": "awaiting_evidence"
   }
 ]
