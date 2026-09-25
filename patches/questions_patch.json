@@ -56517,5 +56517,30 @@
       "model": null,
       "checked_at": "2026-09-25T04:19:54.709Z"
     }
+  },
+  {
+    "question": "根據本課程內容，請問以下何者不是花蓮慈濟醫院導入生成式AI的應用？",
+    "type": "單選",
+    "options": [
+      "串接ChatGPT API測試智能客服",
+      "發展遠距醫療診斷系統",
+      "分享生成式AI應用案例",
+      "舉辦生成式AI工作坊"
+    ],
+    "course": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享",
+    "answer": "發展遠距醫療診斷系統",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "發展遠距醫療診斷系統",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170461",
+          "title": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T04:20:02.968Z"
+    }
   }
 ]
