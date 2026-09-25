@@ -42,13 +42,30 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S10職災勞工重建與重返職場服務概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T18:54:08.595Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T01:19:53.405Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/s10ee.html",
+          "title": "「職能復健專業人員職前訓練-S10職災勞工重建與重返職場服務概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T01:19:52.749Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "54f96bc908ca111843bd7aa0fe4ebd03c05cc37948d14fbc0b6bc0a933fc41fc",
