@@ -56736,5 +56736,28 @@
       "model": null,
       "checked_at": "2026-09-25T11:20:15.594Z"
     }
+  },
+  {
+    "question": "根據講座陳述，台灣醫療體系生態系現象是「醫院大型化」、「診所普及化」",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "智慧醫療的現況與願景",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_65.html",
+          "title": "「智慧醫療的現況與願景」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T13:19:46.983Z"
+    }
   }
 ]
