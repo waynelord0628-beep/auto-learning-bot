@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ede16eb28ed60453b91962493fcdc44a172727c870b113b5401e2d77f2ba7f96",
+    "question": "依據本課程內容，新光醫院導入什麼雲端平台，協助醫院資訊治理？",
+    "options": [
+      "Amazon Wec Services (AWS)",
+      "Google Cloud Platform (GCP)",
+      "Microsoft Azure",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Microsoft Azure",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.751Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf26bf9cfaae9a1862a5e11ba823a363f32a1266d9449637c1af7518e468bff0",
+    "question": "軟體開發的專案具有高度複雜性和技術不確定，通常會採用哪一種專案模式？",
+    "options": [
+      "瀑布式",
+      "敏捷式",
+      "螺旋式",
+      "雛型式"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "敏捷式",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.755Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0814ae74f806fa66a737154a96aa6893297d01968054c48157fd59b4c1c53416",
+    "question": "依據本課程內容，新光醫院以Azure Active Directory取代Secure VPN之目的是？",
+    "options": [
+      "提高資訊安全",
+      "易於資料交換",
+      "高風險預警",
+      "彈性部署"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提高資訊安全",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.756Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "39c2edb37241925a2e048c6cba6acd3df15dfcf979249f2c166c5acb6fec4c53",
+    "question": "依據本課程內容，新光醫院導入Azure的流程，何者正確？",
+    "options": [
+      "需求調查->系統開發->版本控制->持續交付->持續整合->整合儀表板",
+      "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
+      "需求調查->系統開發->持續交付->持續整合->版本控制->整合儀表板",
+      "需求調查->系統開發->持續交付->版本控制->持續整合->整合儀表板"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.762Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5b9832824a0b76a5cb414c705a52696834673cbd6e65b0b22e0a250e72afa5ec",
+    "question": "依據本課程內容，新光醫院使用Azure過程中，哪一個步驟會定時或自動啟動，從雲端或地端下載組建成品？",
+    "options": [
+      "系統開發",
+      "持續交付",
+      "版本控制",
+      "需求調查"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "持續交付",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.765Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0e5ea778a9de4e63c28032db836078fbe1deff26c9d394efb5e5d76d2821d5d4",
+    "question": "依據本課程內容，新光醫院使用Azure做什麼？",
+    "options": [
+      "存放電子病歷資料",
+      "提供異地備援的解決方案",
+      "醫院資料治理的工作平台",
+      "協助病人掛號和衛教資訊"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "醫院資料治理的工作平台",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.766Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "34e45003a0d08a54e64fadb11bdba077d9a6fbfc1bbd705090d8d69767e06221",
+    "question": "依據本課程內容，新光醫院Azure 病歷資料庫管理模式為何？",
+    "options": [
+      "以醫師為中心",
+      "採非結構化病歷",
+      "搭建微服務群集",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.766Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e905a00e93877f3e39a041d75ea357b38ec402f325d836ad2ee8e41926cf258",
+    "question": "依據本課程內容，新光醫院如何運用Azure進行高危險病歷AI分析？",
+    "options": [
+      "透過病人出院病摘為範本",
+      "與醫師共同制定出病歷高風險因子",
+      "透過機器學習(ML)和自然語言(NLP)技術建構高風險判讀模型",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.767Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4ce6de4886c1aa389547910d9a2aca706011bd756c036b9ddb7bfb8be6dfb05c",
+    "question": "依據本課程內容，新光醫院Azure AI Bot (聊天機器人)可以為病人做什麼？",
+    "options": [
+      "診斷病因",
+      "開立處方箋",
+      "提供衛教資訊",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提供衛教資訊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.769Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3d2916b03f322805518580e84ab2672fb903564cda216bdb51837644bed8f8c4",
+    "question": "依據本課程內容，新光醫院實施AI次世代手術前檢查，是採用什麼技術？",
+    "options": [
+      "AI Bot",
+      "ChatGPT",
+      "Microservices",
+      "Active Directory"
+    ],
+    "type": "單選",
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI Bot",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:49:07.771Z",
+    "review_state": "candidate_ready"
+  }
+]
