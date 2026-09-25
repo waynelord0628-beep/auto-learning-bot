@@ -185,5 +185,80 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.945Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a96d4925116e61c0145dddbab921ad21972bc6507a38b85a2f70f10d713014fb",
+    "question": "下列哪一項不是人工智慧醫療的應用領域？",
+    "options": [
+      "以深度學習技術應用於藥物研究，透過大量資料分析篩選出合適的化合物或生物",
+      "透過大量影像資料和診斷資料、不斷對神經元網路進行深度學習訓練",
+      "提高自動化手術效率，協助護理照護、輔助醫護人員、修復患者受損肢體",
+      "電腦輔助設計，縮短醫材開發時間"
+    ],
+    "type": "單選",
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "電腦輔助設計，縮短醫材開發時間",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:12:29.476Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f492127652c108ce29a0643a623d69bd80b20efb1d7a0d2d3a1c22198865643d",
+    "question": "物聯網在醫療領域的應用被稱作智慧醫療，其中有兩項重要的特色，一為強調訊息的及時採集，二為下列 哪一項？",
+    "options": [
+      "資訊流通",
+      "即時分析",
+      "即時醫療",
+      "即時照護"
+    ],
+    "type": "單選",
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "即時分析",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:12:29.479Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "894b67a326c8a6fa02d3a73b518271dc4d9d1d61fc96d4cceaf5a4ede4ec228a",
+    "question": "關於物聯網於健康照護的應用，下列敘述哪一項錯誤？",
+    "options": [
+      "醫院透過三軸加速度計劇烈變化的數據，推論老人可能跌倒",
+      "智慧藥盒的主要目的為提醒病人吃藥，並檢測服藥行為是否正確",
+      "病人可利用眼壓感測隱形眼鏡來改善近視",
+      "醫院在病人的股動脈中植入微血壓感測器，可隨時檢驗病人血壓"
+    ],
+    "type": "單選",
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "病人可利用眼壓感測隱形眼鏡來改善近視",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:12:29.479Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9fb08357b7acf1dfa4e960d65af3e8dfc19f33edcb7c1690fdefb29a4fe391e0",
+    "question": "下列哪一項不是人工智慧醫療的優點？",
+    "options": [
+      "實現「可預測、個人化」的醫療服務",
+      "提高醫療服務的效率性、精確性與便利性",
+      "隱私及數據安全方面有保障"
+    ],
+    "type": "單選",
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "隱私及數據安全方面有保障",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:12:29.480Z",
+    "review_state": "candidate_ready"
   }
 ]
