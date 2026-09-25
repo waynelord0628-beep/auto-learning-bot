@@ -56421,5 +56421,29 @@
       "model": null,
       "checked_at": "2026-09-25T02:19:48.779Z"
     }
+  },
+  {
+    "question": "眼底鏡是用在遠距診療的哪一個科別呢？",
+    "type": "單選",
+    "options": [
+      "皮膚科",
+      "眼科",
+      "耳鼻喉科"
+    ],
+    "course": "網路取代馬路  智慧醫療與照護升級",
+    "answer": "眼科",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "眼科",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T02:20:01.871Z"
+    }
   }
 ]
