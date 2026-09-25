@@ -1,0 +1,192 @@
+[
+  {
+    "id": "d158789832dd0a4d0182a14a174d97178cceacf3a045ef006af00d7d3ab49d56",
+    "question": "台積電公司資安風險評估作業為何？",
+    "options": [
+      "僅內部自我評鑑",
+      "僅僅委託第三方風險評鑑",
+      "自我評鑑且委託第三方評鑑",
+      "不進行風險評估"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自我評鑑且委託第三方評鑑",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.763Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3fe30746eb9f9aeb6e4af1d44508dd56394c27894b81c5efe95a1b1200413f96",
+    "question": "台積電員工電腦帳號密碼管理，何者敘述正確？",
+    "options": [
+      "密碼長度>=6",
+      "必須包含英文字母大小寫、數字、特殊字元等複雜度4種",
+      "定期90天更改",
+      "失敗次數>=3封鎖"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "必須包含英文字母大小寫、數字、特殊字元等複雜度4種",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.765Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6c439f6e80b3d2c51d5909be517802ef85552854bafeccc0595280b6998d7906",
+    "question": "台積電員工必須透過什麼方式，讓上網瀏覽更安全？",
+    "options": [
+      "手機上網",
+      "無痕上網",
+      "無法上網",
+      "隔離上網"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "隔離上網",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.766Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5faceac91b77018decdc0476497b584abc9acd6aafe4dae0198e63d4a20989e1",
+    "question": "台積電「雙零」資安安全解決方案是指什麼？",
+    "options": [
+      "零碳排、零污染",
+      "對使用者零影響，對端點設備零影響",
+      "零網路流量、零數據傳輸",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "對使用者零影響，對端點設備零影響",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.766Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "44d0f2a94684ff772241bd01255768fdcfc7270043951b08143ff6d8b0560a85",
+    "question": "根據本課程內容，哪一種攻擊手法最近在產業供應鏈中興起？",
+    "options": [
+      "電子郵件攻擊",
+      "軟體供應鏈攻擊",
+      "網站植入病毒",
+      "手機釣魚攻擊"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "軟體供應鏈攻擊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.766Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "aae7670164676c47875579ae61ee64c40eec4bebad97a2ca5250b3942410bc19",
+    "question": "台積電如何與供應商合作來降低資安風險？",
+    "options": [
+      "分享資安經驗和威脅情資",
+      "提供硬體設備",
+      "減少供應商數量",
+      "禁止供應商使用網路"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "分享資安經驗和威脅情資",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.768Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cd77d7de69be34bdaf2ef3884e8d9fb8aaa86d48f5d67c08c6c84b87408fe17c",
+    "question": "根據本課程內容，企業如何應對半導體供應鏈中的資安威脅？",
+    "options": [
+      "減少供應鏈長度",
+      "放棄供應商合作",
+      "減少供應鏈投入",
+      "提高供應商審查和監控"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提高供應商審查和監控",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.769Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9aa424100af08115c25333cf1386366c803805adcbde259e7b7aa008f9735f40",
+    "question": "台積電員工如何管理電腦中的資料檔案？",
+    "options": [
+      "預設自動加密",
+      "留存機密等級",
+      "保存更改紀錄",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.769Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fea245c4334b7cfa451cd14d3070c7da9116ae6afef115be8bdf5fdff66cc2ab",
+    "question": "SEMI E187 標準是針對什麼制定的？",
+    "options": [
+      "物流管理標準",
+      "軟體開發標準",
+      "晶圓設備資安標準",
+      "教育資源管理標準"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "晶圓設備資安標準",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.770Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1347e9ea35feb36c115a0cf142b445ec64463cf742f69fd691a76fe836bb77f4",
+    "question": "台積電如何培養資安人才？",
+    "options": [
+      "鼓勵員工自學",
+      "減少資安課程",
+      "外包資安工作",
+      "提供專業訓練和證照補助"
+    ],
+    "type": "單選",
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提供專業訓練和證照補助",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T09:48:43.770Z",
+    "review_state": "candidate_ready"
+  }
+]
