@@ -79,13 +79,30 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "擴及全國各地偏鄉離島地區",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.251Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T02:20:14.057Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "擴及全國各地偏鄉離島地區",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T02:20:13.252Z"
+    },
+    "resolved_answer": "擴及全國各地偏鄉離島地區"
   },
   {
     "id": "9b1821b21a070e490b18b58069e7f8f8a8deb29e51e3c297acf085d4e92be921",
