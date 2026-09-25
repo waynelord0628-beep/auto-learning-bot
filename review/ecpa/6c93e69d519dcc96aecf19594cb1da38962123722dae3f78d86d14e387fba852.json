@@ -50,10 +50,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(4)以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.522Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-26T10:19:47.511Z"
   },
   {
     "id": "9b22c6336c93caa751b740a9607c0792b54e5927a45be95ca8ed6f69ab9daf48",
@@ -69,10 +71,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(4)以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.523Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-26T10:19:47.511Z"
   },
   {
     "id": "c60e23cac6878959612568216827e03ef356b38d05183e6f496ec4b20e4570ef",
@@ -127,10 +131,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(5)以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.524Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-26T10:19:47.511Z"
   },
   {
     "id": "41260dea84c5a44fc45274f935c7a7d5ba35e7eaefcd13b735d68b3da2ba465a",
@@ -146,10 +152,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(4)以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.525Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-26T10:19:47.511Z"
   },
   {
     "id": "0983b24e5a9132594cf652664bf678698379513858145c1030333764b091957c",
@@ -166,10 +174,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(5)以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.525Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-09-26T10:19:47.511Z"
   },
   {
     "id": "95263890107da083a695b3e9756716497024208135783fb158bab2ef3ce82233",
