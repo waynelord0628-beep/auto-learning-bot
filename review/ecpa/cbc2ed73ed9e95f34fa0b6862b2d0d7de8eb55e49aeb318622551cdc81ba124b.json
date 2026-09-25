@@ -321,5 +321,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:25:15.570Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e5c7638cdcdcc29197668d03dc91ae3d19a55007b6ba158e18145fa0e1ae271b",
+    "question": "哪個平台能協助企業快速建置Chatbot服務？",
+    "options": [
+      "C.ai",
+      "Gemma",
+      "AOAI",
+      "VIKI"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "C.ai",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T00:40:55.249Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2084b60b874057296bec7d90665849aad19d9b73d1ef77e7106c559b00121180",
+    "question": "生成式AI要成功導入醫療，需要搭配哪一關鍵策略？",
+    "options": [
+      "硬體晶片提升",
+      "視覺辨識優化",
+      "非監督式學習",
+      "微調與醫療語料導入"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "微調與醫療語料導入",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T00:40:55.261Z",
+    "review_state": "candidate_ready"
   }
 ]
