@@ -382,5 +382,22 @@
     "source": "reported_question",
     "created_at": "2026-09-17T17:33:43.364Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "c729a1b3343b476a94a28fed0db7f35e51783d09ea360044e994e64ed07158e1",
+    "question": "公務人員行政中立法所稱政治團體，指依人民團體法規定經許可設立之政治團體。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T04:46:45.528Z",
+    "review_state": "candidate_ready"
   }
 ]
