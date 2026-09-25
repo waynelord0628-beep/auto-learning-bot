@@ -37,7 +37,11 @@
     "candidate_answer": "身份權",
     "source": "ai_unverified",
     "created_at": "2026-09-17T16:19:47.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T03:19:44.241Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3c4fd32189b78b5193670ab87b6e9dd3b28167770e074bb3722f98131acf2037",
