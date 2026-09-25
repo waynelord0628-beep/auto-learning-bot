@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "擴大醫療服務範圍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T11:23:16.117Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T04:19:55.394Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "驗證次世代系統概念",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170461",
+          "title": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T04:19:54.709Z"
+    },
+    "resolved_answer": "驗證次世代系統概念"
   },
   {
     "id": "1c749ce79f055b2a26ef5738183c6fc4697dea43ec129a216b942df78a6e801d",
