@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "112 年度「強化含動物源原料食品之衛生安全管控輔導計畫」(提拉米蘇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:23:49.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T11:20:06.501Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/112-ee_32.html",
+          "title": "「112 年度「強化含動物源原料食品之衛生安全管控輔導計畫」(提拉米蘇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T11:20:05.488Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "7c9253b347dc8f1c8d921d3d6304a7bd2f04fd4baf7f452fa386f3c2344c1916",
