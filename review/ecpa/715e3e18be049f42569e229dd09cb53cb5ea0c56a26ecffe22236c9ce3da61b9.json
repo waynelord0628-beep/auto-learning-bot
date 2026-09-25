@@ -176,5 +176,132 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.473Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "73cf3ea83af021e07f1f725d792e508207529b3397a4f1acd57ee2d556913bdd",
+    "question": "政府機關在規劃每年和企業或團體合作辦理的大型活動時，可正確引導合作之民間單位，如何融入正確的性別平等意識或最新的法令規定，以擴大宣導效果，是屬於下列哪一種公私協力推動性別平等的合作模式呢？",
+    "options": [
+      "支持模式",
+      "引領模式",
+      "類競爭模式",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "引領模式",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.964Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f40f94cfc384ae4dfbde77dca503595ddaed7bb980b0b7faa76e77c7d14206a",
+    "question": "內政部辦理的「工商自由職業團體績效評鑑要點」中，對於參與評鑑之社會團體及職業團體的理事及監事任一性別比例不少於三分之一者予以加分，以鼓勵人民團體有效提升女性的決策力與影響力",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.966Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d82400fd84992a6100c55ff066d87cad3d6fb2bd5f9b28aeafb7d8fc9eca886d",
+    "question": "勞動部研訂「事業單位同工同酬自我檢核表」，鼓勵各事業單位先行自我檢核員工薪資，是否因性別而有差異，自主判斷目前狀況與同工同酬之關聯性高低，是有效改善性別薪資差距的第一步行動",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.968Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5006ef7b9dfd630b28d860d6c5dcd53778e0a0f969ba9a2c2c4f4fa963e857c0",
+    "question": "聯合國在1979年頒布、1981年實施的CEDAW，翻譯為中文是「消除對女童一切形式歧視公約」",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.969Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e9c4354afa6032587b002bbcb2a8fb9eab8c6e0848690de106eae7d2aa4a0024",
+    "question": "以下哪些措施或方案是政府部門可以向私部門大力推動之促進性別平等具體措施或活動呢？",
+    "options": [
+      "辦理評鑑或考核加入性別平等指標",
+      "辦理各事業單位的性別平等認證",
+      "補助各職業團體或社會團體辦理教育訓練課程時將「性別平等意識」課程列入核心課程",
+      "辦理勞動訪視或入場輔導各事業單位具體推動性別平等各項措施或活動"
+    ],
+    "type": "多選",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.970Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "09737f9b627682e2f92bf8c68c3d6a804ab8ff44e137c0d5f734f43ef36ee1b2",
+    "question": "民間企業的受僱女性員工申請生理假，應依據下列哪一項法令規定辦理呢？",
+    "options": [
+      "勞動基準法",
+      "性別平等工作法",
+      "勞工保險條例",
+      "就業保險法"
+    ],
+    "type": "單選",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "性別平等工作法",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.972Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff32122842ede8cc078a5f3545336209c814d06db8382f5cfc5ac308dcc2663c",
+    "question": "下列哪一個簡稱是近年來各個組織努力推動的「多元共融」文化目標呢？",
+    "options": [
+      "CEDAW",
+      "CSR",
+      "DEI",
+      "SBIR"
+    ],
+    "type": "單選",
+    "course": "公私協力性平得力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "DEI",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T01:29:14.974Z",
+    "review_state": "candidate_ready"
   }
 ]
