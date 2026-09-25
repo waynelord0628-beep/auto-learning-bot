@@ -372,5 +372,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:37.399Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a74c168e3b18ac4009be8daa00a06ed633358e5aa91fbbc07dc4d6d7275203d7",
+    "question": "哪一項是無牆醫院的實踐方式？",
+    "options": [
+      "集中式急診中心",
+      "AI 健身房",
+      "居家醫療與遠距照護",
+      "改建所有住院病房"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "居家醫療與遠距照護",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T00:44:32.070Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fe7ece2189ec239d83258ee75d2d3848a667759c3fe8c84ee3efe86b060680ed",
+    "question": "AI Together 的三大主軸為何？",
+    "options": [
+      "科技、效率、品質",
+      "智慧醫療、全人照護、無牆醫院",
+      "預防醫學、資料治理、分級照護",
+      "機器學習、大數據、遠距醫療"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "智慧醫療、全人照護、無牆醫院",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T00:44:32.075Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c3e9cd37dbc8fe0ad3a121a14a08462aabebbaf6bd0ed8c9328825993efd9078",
+    "question": "智慧藥師系統能提升什麼？",
+    "options": [
+      "藥物命名創意",
+      "病人藥品選擇自由",
+      "調劑效率與安全性",
+      "藥袋設計美觀"
+    ],
+    "type": "單選",
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "調劑效率與安全性",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T00:44:32.076Z",
+    "review_state": "candidate_ready"
   }
 ]
