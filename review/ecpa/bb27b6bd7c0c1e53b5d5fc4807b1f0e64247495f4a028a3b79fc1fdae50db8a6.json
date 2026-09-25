@@ -88,12 +88,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "遵循「全景（Long Shot）→ 中景（Medium Shot）→ 近景（Close Shot）」公式取景，並適時捕捉台下觀眾專注、鼓掌等「反應鏡頭（Reaction Shot）」。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.678Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 2,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 3,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "036a872e12a9def5d5ad7e7ad41729dfe945bb9e2ccda6c60d8b7b837f905300",
@@ -109,12 +109,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "每篇新聞總共填寫 5 個關鍵字，且為了方便索引，每個分類建議只選 1 個。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.678Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 2,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 3,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "ac91e256e710c91ef824ec3a5918646721b1d9519cd32162140675f867598022",
@@ -130,12 +130,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "臺灣出場。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.679Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "4916173dd0804ea3d94ba299acb1ee1d0d5ba4821c3c1f09d280d8fcf12d266e",
@@ -151,12 +151,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "影片畫面比例為 16：9，解析度大小為 1080P (1920*1080)。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.680Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "2b3c3c1ca4e9757259aa7c30ff5fa794eb85b0950bf88e022603f2061db4cc1b",
@@ -172,12 +172,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "首次提及長官應寫全銜如「僑務委員會委員長徐佳青」，第二次起可簡稱「徐佳青」。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.680Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "2399bfe35e3a096829c5fc0b85f6b27f9e565a80ba68f197e7f7aaf6c05ed7f1",
@@ -193,12 +193,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "內文字數 400–700 字（不含圖說）、活動照片 2–4 張。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.681Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   },
   {
     "id": "051167b67e8752f47df14edc0980f8be38992898914945453431d80b5c041421",
@@ -214,11 +214,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "為了畫面豐富，最推薦將「1 張致詞照」與「2 張美食照」拼接在一起。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T01:49:56.681Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-09-25T13:19:55.377Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-09-26T19:19:40.371Z"
   }
 ]
