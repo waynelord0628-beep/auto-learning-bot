@@ -88,7 +88,11 @@
     "candidate_answer": "To make a bad situation less serious",
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.821Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T05:20:31.457Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d7c4ecbc1f92090e5f1ddd3f5b1398469f7c327c72ec4b50e0d288e426891385",
