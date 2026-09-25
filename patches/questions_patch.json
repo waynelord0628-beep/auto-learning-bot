@@ -56397,5 +56397,29 @@
       "model": null,
       "checked_at": "2026-09-25T01:20:00.086Z"
     }
+  },
+  {
+    "question": "遠距診療所需要的通訊品質條件為高頻寬、低延遲，下列哪一種的網路才能達到醫療影像的即時傳輸？",
+    "type": "單選",
+    "options": [
+      "5G",
+      "4G",
+      "3G"
+    ],
+    "course": "網路取代馬路  智慧醫療與照護升級",
+    "answer": "5G",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "5G",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T02:19:48.779Z"
+    }
   }
 ]

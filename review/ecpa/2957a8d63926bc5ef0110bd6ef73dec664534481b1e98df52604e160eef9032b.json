@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "5G",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.246Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T02:19:50.059Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "5G",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T02:19:48.779Z"
+    },
+    "resolved_answer": "5G"
   },
   {
     "id": "d6683a938eed3cf90c94f4708025a90d0f2d849e0103a6ca931e91cf9a216f03",
