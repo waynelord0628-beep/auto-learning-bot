@@ -1,0 +1,192 @@
+[
+  {
+    "id": "488d849935db201fbf57f2824c0afcb47a450d070e1bf404580809ef8b88d046",
+    "question": "請問什麼是「軟體物料清單」(SBOM)？",
+    "options": [
+      "起源於美國總統拜登簽署之「改善國家網路安全」行政命令",
+      "隨著軟體供應鏈攻擊的威脅，使得SBOM成為確保供應鏈安全的關鍵",
+      "目標是創建成設備的所有軟體與硬體元件的清單，使組織能夠有效地管理其資產，並充分瞭解所使用軟體的風險",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.105Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "28de780fc2ffcc6419b7b91a9e6c2076bfc6ddfd60cd64d08ff93b7b4caa459b",
+    "question": "依據本課程內容，軟體安全設計流程四大步驟，何者有誤？",
+    "options": [
+      "規劃(Plan)",
+      "創造(Create)",
+      "驗證(Verify)",
+      "生產(production)"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "生產(production)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.106Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dfa5655a66a47833ac58ce29d4323c416f60a7ef5c391bf26adc1b2fdf7deb58",
+    "question": "依據本課程內容，軟體供應鏈安全檢查內容「必須」包含？",
+    "options": [
+      "產品SBOM",
+      "安全中介軟體",
+      "資料保護",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "產品SBOM",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.107Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1908ee87452f9978653805dcc157bbdfc641a8469f292a8b4fcc4ddbde250d34",
+    "question": "2023 年 3 月 OpenAI ChatGPT 因軟體供應鏈的漏洞而暫時關閉幾個小時。請問是發生什麼風險？",
+    "options": [
+      "源碼竄改",
+      "建構組件",
+      "部屬代碼",
+      "網路傳輸"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "源碼竄改",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.107Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0f0f2e61e46bb574913e559701c83969df59838428117e886cc330123533cdd1",
+    "question": "請問什麼是「軟體供應鏈」？",
+    "options": [
+      "軟體從設計到交付使用者所經歷的所有過程",
+      "產品或服務交付給使用者所經歷的所有過程",
+      "上游為IC設計，中游為IC製造，下游為IC封裝測試",
+      "從原料、加工、運輸、銷售到消費者個過程"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "軟體從設計到交付使用者所經歷的所有過程",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.108Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "188e05ae55bdc3f918c273378e22d831e53638d83c221f6f89f5adc37def90de",
+    "question": "依據本課程內容，軟體開發過程使用開源軟體之優點在於靈活、彈性、開放，可以縮短產品上市時間。但也隱藏著什麼風險？",
+    "options": [
+      "第三方依賴有限",
+      "大教堂式開發",
+      "源碼竄改",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "源碼竄改",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.108Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5093755e2c4ef6ba65678de40bf20ef8c80664495e8b1484b13570d44019c329",
+    "question": "依據本課程內容，軟體供應鏈韌性指的是軟體承受攻擊之抵抗能力和復原的能力，其要項為何？",
+    "options": [
+      "保持深度供應鏈可見性",
+      "標記問題元件",
+      "快速修復漏洞",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.108Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ab47b190e2fcd32e39fc8a0ac0ad34717327e99fa515a2047526eaff8d435bb4",
+    "question": "依據本課程內容，請問軟體供應鏈風險治理的重要原則？",
+    "options": [
+      "軟體來源管理",
+      "軟體安全合規",
+      "軟體資源管理",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.109Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e72ad1a92405a64704d7c5badb9cb98fa119f5d52605f9d859cad13016b8e0c8",
+    "question": "SBOM報告建立了軟體供應鏈的共通標準，以利進行自動化的資訊交換，請問SBOM報告記錄了軟體的哪些資訊？",
+    "options": [
+      "組件名稱、漏洞編號",
+      "版本、最新更新日期",
+      "作者、版權",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.109Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1a5fab0b058c39027bc66456c783073b87518593b2fff474de3da0cc3f37a059",
+    "question": "為什麼我們要重視軟體供應鏈呢？",
+    "options": [
+      "防止惡意代碼滲透到組織內部的關鍵",
+      "確保產品和服務的品質和一致性",
+      "符合國際法規標準要求",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "強化軟體供應鏈安全韌性SBOM管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T11:09:08.110Z",
+    "review_state": "candidate_ready"
+  }
+]
