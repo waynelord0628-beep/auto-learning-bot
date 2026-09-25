@@ -188,5 +188,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:49:42.563Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a862f2e1aee0688e9abe93794e581c9efc2647c3fcfbbb61fc1ee11ba2dbf6d9",
+    "question": "關於穿戴式裝置的種類，下列何者為「非」？",
+    "options": [
+      "Skin based （皮膚貼附式）",
+      "Drug delivery system（給藥系統）",
+      "Tattoo based（紋身型）",
+      "Automotive electronics（車用系統）"
+    ],
+    "type": "單選",
+    "course": "穿戴式裝置在智慧醫療的創新發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Automotive electronics（車用系統）",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:50:27.933Z",
+    "review_state": "candidate_ready"
   }
 ]
