@@ -56828,5 +56828,28 @@
       "model": null,
       "checked_at": "2026-09-25T15:19:50.438Z"
     }
+  },
+  {
+    "question": "訪談是評估領養人是否符合資格的重要步驟，送養人可以從訪談中了解領養人是否為本人、是否用真名以及是否能追蹤。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "犬貓認領養之程序與法律",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0941140370.html",
+          "title": "「犬貓認領養之程序與法律」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T15:19:58.185Z"
+    }
   }
 ]
