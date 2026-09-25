@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "a view from a very high place that allows you to see a large area",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.821Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T05:20:15.660Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "a view from a very high place that allows you to see a large area",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T05:20:14.195Z"
+    },
+    "resolved_answer": "a view from a very high place that allows you to see a large area"
   },
   {
     "id": "88f950a360e39843f23b7612f9dd4c57fb65af11ca3a1f084a8a290e4c0631a3",
