@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "You can cleanse your body before soaking in hot springs.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-02T08:19:59.888Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "You can use it to boil eggs and corn.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-25T08:19:59.192Z"
+    },
+    "resolved_answer": "You can use it to boil eggs and corn."
   },
   {
     "id": "144a25713c0ac8c962d98f4ab54622b64dda23e59d4ff17822dd0c0ee6061c41",
