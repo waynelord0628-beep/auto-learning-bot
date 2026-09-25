@@ -178,5 +178,115 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.026Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "891eda5ad95d70a5944bbbee03fa0cc505f6f3601928cc39613a4d0e36e566d1",
+    "question": "氫能作為高雄淨零轉型中可扮演角色有：",
+    "options": [
+      "協助在地工業的低碳轉型",
+      "提供高雄港成為綠色港口的潛力",
+      "協助現有化石燃料電廠的轉型",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.277Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4a4599499a119ec66b93fdb111ad4eb5435001260274346734a257b4331be491",
+    "question": "甲烷與二氧化碳都是溫室氣體，且兩者的的全球暖化潛能值一樣。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.280Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d0261854ec1e1c434f159be74d42fe943aabf043209b68f890c1a93ac496d295",
+    "question": "有關溫室效應的說明何者為非？",
+    "options": [
+      "沒有溫室效應造成暖化，地球就會更永續",
+      "水蒸氣是溫室氣體",
+      "水蒸氣的貢獻高達90%以上",
+      "二氧化碳的貢獻約4-8%"
+    ],
+    "type": "單選",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "沒有溫室效應造成暖化，地球就會更永續",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.281Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "02e9cd13675340926ac035a23adc10627963e82fda9b22cacda8d024fcdf7469",
+    "question": "臺灣的離岸風力發電在夏季的發電量比冬季發電量高出三倍。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.281Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3234e1b35811fd186f6f3ddb9a10b1b7af639c24d23ed771441600c178ee8cd3",
+    "question": "有關甲烷的描述何者錯誤？",
+    "options": [
+      "甲烷的全球暖化潛能值是二氧化碳的25-30倍",
+      "開挖煤炭石油的過程很容易造成甲烷的洩漏",
+      "農業部門的減量對降低甲烷的排放量很有幫助",
+      "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理"
+    ],
+    "type": "單選",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.283Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "605d8cc4d26fe37d783635a5cd658d9992f9e67b4b2bd37770f770f639e231bb",
+    "question": "將太陽能或風力發電產生之電力用於製造氫氣，這類的氫氣被稱之為下列何者？",
+    "options": [
+      "藍氫",
+      "綠氫",
+      "灰氫",
+      "棕氫"
+    ],
+    "type": "單選",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "綠氫",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T05:04:47.284Z",
+    "review_state": "candidate_ready"
   }
 ]
