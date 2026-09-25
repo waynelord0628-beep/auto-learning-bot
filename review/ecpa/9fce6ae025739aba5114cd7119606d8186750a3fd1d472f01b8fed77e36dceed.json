@@ -207,5 +207,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:50:27.933Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9404dad2c61f7671860e7bbb56318e6ccaee3eac7461bcd93cabf51ab92626f1",
+    "question": "下列何者為智慧衣的「劣勢」？",
+    "options": [
+      "目前還不能保證在運動狀態下的表現",
+      "若要獲得清晰訊號，須對原始數據進行額外處理",
+      "尚無法支持連續量測",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "穿戴式裝置在智慧醫療的創新發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-25T03:51:06.192Z",
+    "review_state": "candidate_ready"
   }
 ]
