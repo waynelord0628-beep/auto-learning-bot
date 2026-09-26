@@ -359,5 +359,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:40:55.261Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "862afc8f4a7467831d25216795240cbea416c4eab65e736d459f6aba3fe61bd2",
+    "question": "生成式AI在醫療應用中的哪一項功能能有效提升診斷效率？",
+    "options": [
+      "查詢醫療法規",
+      "診斷報告手寫",
+      "核銷醫療費用",
+      "生成診斷報告"
+    ],
+    "type": "單選",
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "生成診斷報告",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T14:51:13.839Z",
+    "review_state": "candidate_ready"
   }
 ]
