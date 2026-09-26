@@ -180,5 +180,94 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.325Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d49c2da322a399c373579e68b7f01c99b2e1ef73e0e42ece80f9261e197104f1",
+    "question": "下列哪項論述是正確的？",
+    "options": [
+      "只要通知性影像處理中心，影像一定可以被移除",
+      "我國性影像處理四法通過後，所有的性影像都可以順利被下架",
+      "網路平臺接獲縣市政府通知，沒有在期限內移除被害人性影像，縣市政府可以依法限制接取該平臺",
+      "所有被通報移除過的影像，就不會再出現於任何網路平臺上"
+    ],
+    "type": "單選",
+    "course": "認識兒童及少年性剝削防制(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "網路平臺接獲縣市政府通知，沒有在期限內移除被害人性影像，縣市政府可以依法限制接取該平臺",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T22:31:33.524Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2feef65bf486135ff612a044924c477683326fb921d3ac483987c04a769f2bc5",
+    "question": "遇到性影像被散布在LINE對話中，最重要的「第一個」步驟是？",
+    "options": [
+      "向性影像處理中心申訴",
+      "在LINE APP內檢舉被散布的影像",
+      "把對話截圖下來",
+      "把對方的帳號刪掉"
+    ],
+    "type": "單選",
+    "course": "認識兒童及少年性剝削防制(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "在LINE APP內檢舉被散布的影像",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T22:31:33.527Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "530820f37211b6f6aeb3778b6f13c3bbb109b6999b4974d6179a96770e6ad35e",
+    "question": "拍攝兒少性私密影像時，只要對方同意就不違法。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "認識兒童及少年性剝削防制(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T22:31:33.528Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e6a9cd962397b7a425ebf82c0f507b69d7403ca700f661f6da373d83addc9fb7",
+    "question": "即使性影像還沒有被散布出去，兒少還是找展翅協會參加兒少性影像轉碼比對移除計畫。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "認識兒童及少年性剝削防制(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T22:31:33.529Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6374afa4417e49b1b46ecf2fd6449dc775885c22def61b1f9563da2a15a8256e",
+    "question": "性影像處理中心可以處理未成年被害者遭外流的性影像案件？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "認識兒童及少年性剝削防制(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T22:31:33.530Z",
+    "review_state": "candidate_ready"
   }
 ]
