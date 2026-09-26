@@ -50,13 +50,34 @@
     ],
     "type": "單選",
     "course": "藝術與城市共生：台北的文藝復興時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T15:09:42.143Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T04:20:20.433Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100333",
+          "title": "藝術與城市共生：台北的文藝復興時代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_507.html",
+          "title": "「藝術與城市共生：台北的文藝復興時代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T04:20:19.553Z"
+    },
+    "resolved_answer": "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music."
   },
   {
     "id": "85ea4017b1b5b70aebe410d4990c1a2a1558bea6bd9b90270bda1d910421eac0",

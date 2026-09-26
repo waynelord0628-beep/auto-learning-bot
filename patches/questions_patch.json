@@ -56978,5 +56978,34 @@
       "model": null,
       "checked_at": "2026-09-26T04:20:05.397Z"
     }
+  },
+  {
+    "question": "Which of the following statements about the Taipei Performing Arts Center is correct?",
+    "type": "單選",
+    "options": [
+      "The Taipei Performing Arts Center is primarily known for its focus on visual arts and does not host performing arts.",
+      "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music.",
+      "The center is exclusively reserved for local artists and does not accommodate international artists.",
+      "The Taipei Performing Arts Center is located outside of Taipei and is not considered a major venue for performances."
+    ],
+    "course": "藝術與城市共生：台北的文藝復興時代",
+    "answer": "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music.",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "The Taipei Performing Arts Center is a cultural landmark in Taipei that supports innovative performances in theater, dance, and music.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100333",
+          "title": "藝術與城市共生：台北的文藝復興時代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_507.html",
+          "title": "「藝術與城市共生：台北的文藝復興時代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T04:20:19.553Z"
+    }
   }
 ]
