@@ -17,10 +17,10 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T20:12:57.541Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-23T11:19:45.600Z",
-    "verification_status": "existing_answer_requires_evidence"
+    "verify_after": "2026-10-03T05:20:12.769Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "78e09daed873cb5a0fff0e188d80e2a6fe8563765b0e62d7aa92e7bc57db0a5d",
