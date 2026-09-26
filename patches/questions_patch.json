@@ -57007,5 +57007,34 @@
       "model": null,
       "checked_at": "2026-09-26T04:20:19.553Z"
     }
+  },
+  {
+    "question": "Which of the following statements about ART TAIPEI in the video is correct?",
+    "type": "單選",
+    "options": [
+      "The exhibition venue covers over 30,000 square meters, with around 1,000 staff members involved.",
+      "The exhibition uses traditional lighting, which focuses on highlighting the artworks without concern for environmental sustainability.",
+      "The exhibition does not serve as a venue for artists to interact or exchange ideas.",
+      "The exhibition includes traditional, contemporary, modern, and street art."
+    ],
+    "course": "藝術與城市共生：台北的文藝復興時代",
+    "answer": "The exhibition includes traditional, contemporary, modern, and street art.",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "The exhibition includes traditional, contemporary, modern, and street art.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100333",
+          "title": "藝術與城市共生：台北的文藝復興時代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_507.html",
+          "title": "「藝術與城市共生：台北的文藝復興時代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T04:20:32.264Z"
+    }
   }
 ]
