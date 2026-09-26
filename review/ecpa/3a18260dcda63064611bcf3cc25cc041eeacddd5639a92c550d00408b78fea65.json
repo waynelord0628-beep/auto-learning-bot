@@ -108,7 +108,11 @@
     "candidate_answer": "精準理解學生狀況",
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T03:19:49.399Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bbe79d7a261797de7d1009a60ad5fd0a057c04de07b3e238fb178ad884b1eabf",
