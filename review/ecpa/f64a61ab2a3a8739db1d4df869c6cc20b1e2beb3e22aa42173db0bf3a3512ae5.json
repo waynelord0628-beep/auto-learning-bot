@@ -256,5 +256,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T07:26:42.787Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "652f93579db9ddb15aa20b939f66ae1f7f2a523180b7b55f454fced3e11e60c4",
+    "question": "公務員的圖利行為，除須具備公務員身分外，尚須符合以下何種要件，才會被認定成立貪污治罪條例所稱之圖利罪?",
+    "options": [
+      "明知故意",
+      "違反法令",
+      "獲得利益",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "公務員法律責任個案檢討及防弊作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T13:57:48.723Z",
+    "review_state": "candidate_ready"
   }
 ]
