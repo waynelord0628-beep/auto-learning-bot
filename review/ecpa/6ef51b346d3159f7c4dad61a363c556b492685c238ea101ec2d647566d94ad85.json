@@ -174,5 +174,128 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T08:57:24.844Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "77ec7da6734d3b6290fcad6dc2475aed504b4ef6b84834e8bee902ab2942408a",
+    "question": "雖然AI翻譯已相當準確，但在情感表達與內容深度上，仍需仰賴人工創作來補足。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.743Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c5506564cc277bdd2fb310579b33645f3497aa135d3daaac2d246197aad06e14",
+    "question": "ChatGPT是由OpenAI公司所開發的AI聊天機器人。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.745Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ee3838698921b1ba4efd29a350942defa1abbf22cf96eec99e39742609e00f5",
+    "question": "在使用Suno生成歌曲之前，可以使用哪一個工具來協助生成歌詞？",
+    "options": [
+      "ChatGPT",
+      "Luma",
+      "Sora",
+      "Perplexity"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ChatGPT",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.746Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f5e5426a674365a2796ea806a8bac42fc248a0f0711dfefbe7bc1152a0da127c",
+    "question": "Sora是能根據文字描述自動產生影片內容。。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.750Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "522227d4ec02b445166a31ecf9ff648c4383b1bf2f48f283f035af0be25a1562",
+    "question": "ChatGPT的母公司？",
+    "options": [
+      "Google",
+      "OpenAI",
+      "Meta",
+      "Adobe"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "OpenAI",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.751Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "60a3e1d8b5d2a2e6fb1f45d36433749aa86cbe90b02598177e133db859bae7d0",
+    "question": "透過AI技術，一張2D圖片就能自動轉成3D圖檔。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.752Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "077711f91b47915074c26d62b9891a27c47aebb546f9974cad569265726492f1",
+    "question": "目前的AI只能處理文字，無法創作圖片或影片。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:57:51.753Z",
+    "review_state": "candidate_ready"
   }
 ]
