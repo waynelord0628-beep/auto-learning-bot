@@ -39,7 +39,11 @@
     "candidate_answer": "以農業技術援助及與當地居民共同工作，建立國際關係。",
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:27:19.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T11:20:09.531Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "46c5dea976a7eaf77408e8a757944ecd6cc56956996328c4fc43b1358062fae3",
