@@ -297,5 +297,41 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T08:57:51.753Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "37c9cf842ac6c9d28666cdd7afc24e54fb7282ffbf42bc8d5430ccfed2d262d2",
+    "question": "使用AI進行程式設計的好處是？",
+    "options": [
+      "增加工作",
+      "加強功能",
+      "加快開發速度",
+      "替代設計"
+    ],
+    "type": "單選",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "加快開發速度",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:58:21.419Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a92fb91691efaa641ed92f8957309b2eb61b4c2f1e09b95814305a8797e3a146",
+    "question": "Siri是Apple公司於2011年在iPhone 4S中首次推出的語音虛擬助理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式AI工具入門(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T08:58:21.420Z",
+    "review_state": "candidate_ready"
   }
 ]
