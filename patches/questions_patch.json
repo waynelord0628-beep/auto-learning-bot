@@ -57250,5 +57250,30 @@
       "model": null,
       "checked_at": "2026-09-26T12:19:47.974Z"
     }
+  },
+  {
+    "question": "2020 年 COVID-19 疫情期間，美國推出「智慧戒指」可及偵測 COVID-19 的 AI 模型。受試者出現 COVID-19 症狀的前 3 天，便預先提前發出告警訊息，準確度可達 9 成。請問「智慧戒指」運用哪些新興科技？",
+    "type": "單選",
+    "options": [
+      "AI人工智慧",
+      "穿戴式感測裝置",
+      "邊緣運算",
+      "以上皆是"
+    ],
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822029",
+          "title": "人工智慧在疾病檢測及健康風險預測之創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T12:19:57.518Z"
+    }
   }
 ]
