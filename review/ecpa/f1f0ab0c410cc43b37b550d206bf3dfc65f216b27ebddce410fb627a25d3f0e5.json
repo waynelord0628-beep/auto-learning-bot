@@ -183,5 +183,42 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.040Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "576d29b5ccb118391fbe10e0295a3c99b38f8db64ae0a9f576a4cc178bc6f239",
+    "question": "下列何者不是台灣110年提出的「臺灣全面推動農糧產業省工機械化及設備現代化計畫(111 年至 114 年)」中，對於台灣現況面臨之問題分析？",
+    "options": [
+      "農機僅針對機具做開發，缺乏相應的軟體規劃",
+      "作物種類繁多，專用農機需求規模小，商業研發意願低",
+      "農民對新研發農機認知不足，投入意願低落",
+      "國內商品化農機無法符合農民需求"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:21:37.225Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "209a3cbeee8b1cc7a9b93c971056a1e9a4c6cab5917d94c03d8ee95998352d5f",
+    "question": "下列何者為課程中提到的光達（LiDAR）的功能？",
+    "options": [
+      "以雷射掃描空間資訊建立空間地圖",
+      "收取 GPS 定位點資料",
+      "辨識環境中不同的顏色資訊"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:21:37.230Z",
+    "review_state": "awaiting_candidate"
   }
 ]
