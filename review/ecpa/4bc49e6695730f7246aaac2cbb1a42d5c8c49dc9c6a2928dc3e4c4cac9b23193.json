@@ -31,13 +31,30 @@
     ],
     "type": "單選",
     "course": "Have a Dream 有夢最美【看紀錄片學英語  尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Danshui River is just a start. Taiwan has more to explore.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T07:23:33.243Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T14:19:58.548Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Danshui River is just a start. Taiwan has more to explore.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337293509",
+          "title": "Have a Dream 有夢最美【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T14:19:57.227Z"
+    },
+    "resolved_answer": "Danshui River is just a start. Taiwan has more to explore."
   },
   {
     "id": "c2c967f41ae03eb9e7fc228efe40e72568d291f8d3620f4b472d0b05b0f91635",
