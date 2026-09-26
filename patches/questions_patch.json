@@ -57300,5 +57300,30 @@
       "model": null,
       "checked_at": "2026-09-26T12:20:08.385Z"
     }
+  },
+  {
+    "question": "依據本課程內容，新光醫院導入什麼雲端平台，協助醫院資訊治理？",
+    "type": "單選",
+    "options": [
+      "Amazon Wec Services (AWS)",
+      "Google Cloud Platform (GCP)",
+      "Microsoft Azure",
+      "以上皆非"
+    ],
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "answer": "Microsoft Azure",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Microsoft Azure",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T13:19:54.869Z"
+    }
   }
 ]
