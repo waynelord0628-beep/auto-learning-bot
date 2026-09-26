@@ -16,7 +16,11 @@
     "candidate_answer": "馬歇爾計畫",
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:27:19.150Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T11:19:57.168Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c4c9660824663d85554b43f6a60b02442e310aba411fc72ea9532887e715b6dd",
