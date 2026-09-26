@@ -1,0 +1,187 @@
+[
+  {
+    "id": "22bf65615c334bf4fbfa9057536f7fd313600d7ca63c6bf2820b8447b687711e",
+    "question": "下列何者對於「輕量化」農機設備的優勢敘述無關？",
+    "options": [
+      "綜觀來說，防水性及防塵性較好",
+      "綜觀來說，在耕地間操作靈敏性較好",
+      "綜觀來說，有降低土壤壓力、減少土地破壞的特性",
+      "綜觀來說，入手價格相對較低"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "綜觀來說，入手價格相對較低",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.030Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "479463a0e0e217a74650d3e8ddf8946d789b4117530be25cfb6bce54c7ce8372",
+    "question": "下列何者對於 ROS1/ROS2 技術特色上的敘述有誤？",
+    "options": [
+      "ROS2 架構下每個機器人只要設定一個自身的領域 Domain ID，即可以互相通訊",
+      "ROS1 架構在遇到主節點 (master node) 失效情況下，整體系統不會受到影響",
+      "ROS2 架構使用資料分布服務 DDS（Data Distribution Service）",
+      "(4 )ROS1 架構藉由主節點 (master node) 連結其他節點，使節點之間可以溝通交換資料"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ROS1 架構在遇到主節點 (master node) 失效情況下，整體系統不會受到影響",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.034Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ab565a49c7ccfd9f6490c15ee6bd5de4c49f3177ed00fb4f202aadacea364dce",
+    "question": "以下的系統導航技術配置，比較偏向室內導航會採取的方式？",
+    "options": [
+      "Autoware + 3D LiDAR",
+      "Ardupilot + RTK/GNSS",
+      "2D LiDAR + Navigation2"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2D LiDAR + Navigation2",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.035Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b75992fb18eb90e3d5ff1dfeac0bb38f7ad0d3441d91a52e48f0902f236c0fcf",
+    "question": "關於定位相關技術敘述，請問下列何者正確？",
+    "options": [
+      "2D LiDAR 建立平面空間資訊",
+      "3D LiDAR 建立三維空間資訊",
+      "RTK 實時動態技術，為修正 GNSS 定位並提升準確度之技術",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.036Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ecdeb41d59006d7f9806ad146b0dfeaac1778173e5e4adda1c9d6cb9b5701071",
+    "question": "下列何者為選擇 ROS2 架構的優點？",
+    "options": [
+      "在未來考慮多台機器人的協作情況下，ROS2可以更好達成",
+      "在網路環境糟糕的情況下，仍可確保通訊品質",
+      "擁有即時通訊的能力",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.036Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b6e87e2bc3360c273d810d5fa4fdd104d8a870d0a4ad396918ffee8510773d4b",
+    "question": "農機千萬種，農地千百變。為了有效切分智慧農機的市場，我們應該在全方面在軟、硬體規劃都做出區隔性，差異化越高越好。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.037Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6ae842176055d8b8058a562e320720c529f65d67f29fe5a7d4107a697d06836b",
+    "question": "自2023 臺灣「農業減碳農民汰舊燃油農機」計畫推出後，相關智慧農業補助計畫限制雖限制了「燃油型」機具，但「油電混合型」機具還是可以獲得補助。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.038Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4fe04a94a8d6fea499decff310243f6c173c1e4d5fcb7794b36f28894aa15b34",
+    "question": "下列何者不是台灣110年提出的「臺灣全面推動農糧產業省工機械化及設備現代化計畫(111 年至 114 年)」中，對於未來環境預測的敘述？",
+    "options": [
+      "農機共享經濟發揮農業機械效益，為未來趨勢",
+      "基礎建設不足的偏僻地區，可能會影響智慧農機的發展",
+      "利用自動化農機作為耕作輔具為必然趨勢，且為智慧農業發展基礎",
+      "農業生產以季節性缺工為多，難以導入勞動力予以解決"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "農業生產以季節性缺工為多，難以導入勞動力予以解決",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.038Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "637f584ea367e8b66b73d2947c17f2b7ad217b6221e5cb242971b1061b9db0c7",
+    "question": "下列對於「模組化」的概念何者有誤？",
+    "options": [
+      "每個程式都可獨立開發，可增加開發效率",
+      "因可重複使用的特色，可減少重複程式開發",
+      "模組化的概念通常僅限於描述硬體設備，軟體規劃並不在此範疇",
+      "因新增需求時只需要加入新模組，可減少整體開發來增加擴充效率"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "模組化的概念通常僅限於描述硬體設備，軟體規劃並不在此範疇",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.039Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d4391bd265abe2d37d1117f10976a93da433571e4ba48ff7dfab22f10bdc01a",
+    "question": "下列關於ROS 相關技術的敘述何者錯誤？",
+    "options": [
+      "Node為ROS系統組成中的最基本單位",
+      "SLAM 為一種 AMR 自主移動機器人建立環境地圖技術",
+      "ROS 中 Topic 處理服務請求，類似 client / server 架構",
+      "Node 之間可藉由 Topic 通訊方式，分為 publisher 和 subscriber 角色，處理連續資料流"
+    ],
+    "type": "單選",
+    "course": "新世代智慧農機與服務設計",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ROS 中 Topic 處理服務請求，類似 client / server 架構",
+    "source": "ai_unverified",
+    "created_at": "2026-09-26T16:20:54.040Z",
+    "review_state": "candidate_ready"
+  }
+]
