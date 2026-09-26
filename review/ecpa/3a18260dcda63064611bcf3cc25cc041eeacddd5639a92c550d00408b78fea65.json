@@ -85,7 +85,11 @@
     "candidate_answer": "協助家長管理孩子的數位學習與使用時間",
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T03:19:44.101Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bb1cc9ef71c492249060b35f83adc010a3eb5607ead0dad9b389f5e3a896282c",
