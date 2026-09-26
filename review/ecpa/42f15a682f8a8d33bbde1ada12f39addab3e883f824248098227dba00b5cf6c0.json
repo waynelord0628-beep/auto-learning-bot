@@ -79,7 +79,11 @@
     "candidate_answer": "Microsoft 365 (Office) 系列",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.892Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T07:20:13.988Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6c0c581ecb2e7a5442d7c7eb55b5a73b253b24e4de072024401cb3d93e92284d",
