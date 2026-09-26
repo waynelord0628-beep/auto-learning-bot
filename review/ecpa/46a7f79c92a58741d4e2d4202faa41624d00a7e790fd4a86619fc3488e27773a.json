@@ -88,7 +88,11 @@
     "candidate_answer": "Starch",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.168Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-03T10:20:09.281Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b4458526ab029fb167afcc1ee0a746f1f8936c9b137983bf401dc07c303b1041",
