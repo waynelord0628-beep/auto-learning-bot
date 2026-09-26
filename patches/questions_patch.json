@@ -57129,5 +57129,28 @@
       "model": null,
       "checked_at": "2026-09-26T08:19:43.797Z"
     }
+  },
+  {
+    "question": "AI應用效果有限，大多數企業不會導入AI進行自動化作業。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生成式AI工具入門(二)",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-26T08:19:50.969Z"
+    }
   }
 ]
