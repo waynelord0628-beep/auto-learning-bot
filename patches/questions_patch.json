@@ -57593,5 +57593,28 @@
       "model": null,
       "checked_at": "2026-09-27T15:19:52.828Z"
     }
+  },
+  {
+    "question": "人工智慧並非用來取代醫療人員而是利用人工智慧科技來輔助醫療人員",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "醫療資訊系統及人工智慧在臺大醫院的發展與應用",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_11.html",
+          "title": "「醫療資訊系統及人工智慧在臺大醫院的發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T15:20:02.137Z"
+    }
   }
 ]
