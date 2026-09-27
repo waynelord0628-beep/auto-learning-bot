@@ -85,7 +85,11 @@
     "candidate_answer": "尋求依附的過程受到阻礙",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.418Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T08:19:54.007Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5145d51b9507669d6aafc2492ccd3dc563074b9db12d249439b0d71244302bbd",
