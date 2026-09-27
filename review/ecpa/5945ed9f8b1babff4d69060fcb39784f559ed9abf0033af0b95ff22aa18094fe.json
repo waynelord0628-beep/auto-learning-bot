@@ -193,7 +193,11 @@
     "candidate_answer": "為不同應用場景制定針對性規範",
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.012Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T05:20:01.014Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dd7f8993e1b27d44fd1034c2483123c24a0048d3496025b1916f1fb2cba14e4e",
