@@ -79,13 +79,30 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確認需求以及技術缺口",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T07:20:07.069Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確認需求以及技術缺口",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T07:20:06.370Z"
+    },
+    "resolved_answer": "確認需求以及技術缺口"
   },
   {
     "id": "a5a66800e38d165153650c051008866eb338129a6e1bbee16f956738490f76d9",
