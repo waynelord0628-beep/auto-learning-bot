@@ -16,7 +16,11 @@
     "candidate_answer": "27條",
     "source": "ai_unverified",
     "created_at": "2026-09-21T11:22:42.567Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T09:22:00.701Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2d421fc771a605911e82005f6ac2ea8a8fe94156283457a18ecd7502d82f32b9",
