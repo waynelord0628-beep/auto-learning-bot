@@ -161,7 +161,11 @@
     "candidate_answer": "資料清理與整理",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:16:43.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T06:19:54.908Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d51a9b96497cdc6bd4691003cfb860bffaea477bb261450db3f3fd249af413d1",
