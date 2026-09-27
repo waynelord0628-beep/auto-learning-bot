@@ -62,7 +62,11 @@
     "candidate_answer": "對抗、壓抑或批判自己",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.417Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T08:19:49.105Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "affcd2e9a88f09483097cc30303d3800bcd5c36a015c81d7924891f4a6ee6612",
