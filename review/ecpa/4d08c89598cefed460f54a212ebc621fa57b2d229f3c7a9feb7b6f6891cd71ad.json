@@ -105,13 +105,30 @@
     ],
     "type": "單選",
     "course": "黑鮪魚身價的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "NT$1,000",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T14:08:38.780Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T00:19:58.307Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "NT$10,000",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_871.html",
+          "title": "「黑鮪魚身價的秘密【看紀錄片學英語 尋寶福爾摩沙】」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T00:19:57.605Z"
+    },
+    "resolved_answer": "NT$10,000"
   },
   {
     "id": "23245308a159994adfe9376205ac702a5bcdc97058c1f7f5869196cbb8ffc61e",
