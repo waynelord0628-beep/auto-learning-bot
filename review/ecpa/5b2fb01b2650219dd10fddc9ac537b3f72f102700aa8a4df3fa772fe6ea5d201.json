@@ -37,7 +37,11 @@
     "candidate_answer": "投資失利者",
     "source": "ai_unverified",
     "created_at": "2026-09-21T15:11:10.092Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T09:21:54.278Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ba6684acd7a538bf4f262f1f6051c092910e0c4477f4cde8881530020236b870",
