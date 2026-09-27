@@ -57473,5 +57473,29 @@
       "model": null,
       "checked_at": "2026-09-27T00:19:57.605Z"
     }
+  },
+  {
+    "question": "進行研發時，所擬開發出之技術如何認定能夠產生價值？",
+    "type": "單選",
+    "options": [
+      "只要是最夯的技術，一定能夠產生價值",
+      "只要是牽扯到AI以及智慧醫療，就能夠產生價值",
+      "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin"
+    ],
+    "course": "讓智慧機器人成為長照復健的得力助手",
+    "answer": "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T07:19:46.694Z"
+    }
   }
 ]

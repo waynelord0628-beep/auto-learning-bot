@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T07:19:47.778Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T07:19:46.694Z"
+    },
+    "resolved_answer": "先確認擬開發出之技術是否能夠滿足unmet needs，所研發之技術是否能夠拉大technology gaps，以及所衍生的價值是否能夠造成大於40% gross margin"
   },
   {
     "id": "0bb3d1dfcd8857b2db3859138521d89d3d73e6cdf8508c87f59bdb930d2442b4",
