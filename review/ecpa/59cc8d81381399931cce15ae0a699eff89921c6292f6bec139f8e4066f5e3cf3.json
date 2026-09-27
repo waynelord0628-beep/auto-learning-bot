@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Vision-Passion-Action",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.943Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-04T07:19:57.714Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Vision-Passion-Action",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T07:19:57.015Z"
+    },
+    "resolved_answer": "Vision-Passion-Action"
   },
   {
     "id": "9b9c652af86bd0c1cf4ec28bd3dd99e427060089a0c92832ba9c88fc066e5295",

@@ -57497,5 +57497,29 @@
       "model": null,
       "checked_at": "2026-09-27T07:19:46.694Z"
     }
+  },
+  {
+    "question": "進行進行跨領域技術研發在做法上，以下哪個順序才是正確的？",
+    "type": "單選",
+    "options": [
+      "Action- Vision-Passion",
+      "Passion-Action-Vision",
+      "Vision-Passion-Action"
+    ],
+    "course": "讓智慧機器人成為長照復健的得力助手",
+    "answer": "Vision-Passion-Action",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Vision-Passion-Action",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-27T07:19:57.015Z"
+    }
   }
 ]
