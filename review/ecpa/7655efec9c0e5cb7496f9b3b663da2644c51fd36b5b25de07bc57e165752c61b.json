@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "打造智慧無縫的照護環境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "元創電子長者觀測&緊急救援服務",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:46:41.346Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T11:20:07.486Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一線通R平安鐘服務",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T11:20:06.416Z"
+    },
+    "resolved_answer": "一線通R平安鐘服務"
   },
   {
     "id": "0754bdb0e6249fdca03af3d1a9a756ec6d3811dba4198c4bba8350d97399ef40",

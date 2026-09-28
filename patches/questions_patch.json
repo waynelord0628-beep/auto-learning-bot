@@ -58027,5 +58027,30 @@
       "model": null,
       "checked_at": "2026-09-28T11:19:57.347Z"
     }
+  },
+  {
+    "question": "以下哪一個不是台灣獨居長者照護系統？",
+    "type": "單選",
+    "options": [
+      "中興保全獨居長者緊急救援系統",
+      "一線通R平安鐘服務",
+      "新光保全獨居老人緊急救援通報服務",
+      "元創電子長者觀測&緊急救援服務"
+    ],
+    "course": "打造智慧無縫的照護環境",
+    "answer": "一線通R平安鐘服務",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "一線通R平安鐘服務",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T11:20:06.416Z"
+    }
   }
 ]
