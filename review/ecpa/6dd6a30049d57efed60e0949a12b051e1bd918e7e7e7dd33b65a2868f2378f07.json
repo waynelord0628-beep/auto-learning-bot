@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "進入蚵仔王國 - 認識布袋漁港的養蚵產業",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "You need to use one hand to cut the rope and the other to bring the oyster up.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T07:57:08.214Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T04:19:48.919Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "You need to use one hand to cut the rope and the other to bring the oyster up.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020257",
+          "title": "進入蚵仔王國 - 認識布袋漁港的養蚵產業《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T04:19:48.268Z"
+    },
+    "resolved_answer": "You need to use one hand to cut the rope and the other to bring the oyster up."
   },
   {
     "id": "a7a1c142af6ab3314512d90c8cdeb3539f70aad631fb0ad8b3327f9036088259",
