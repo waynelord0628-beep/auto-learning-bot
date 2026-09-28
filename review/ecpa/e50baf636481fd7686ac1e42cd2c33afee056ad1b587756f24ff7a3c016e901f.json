@@ -246,5 +246,62 @@
     "source": "ai_unverified",
     "created_at": "2026-09-28T17:48:33.058Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a3ba582a6be434d12f74e1ac71885d9fb09a25c138ad71024a65dc01b0ec7808",
+    "question": "ICERD第1條第2項明文規定，本公約不適用於締約國對下列何者間所作之區別、排斥、限制或優惠？",
+    "options": [
+      "公民與非公民",
+      "不同膚色者",
+      "不同原屬國者",
+      "不同民族本源者"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "公民與非公民",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:49:06.370Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "98d49b209b2705c0c5b8bd556c3a39b68929e948c751bdd07b547242a27cd141",
+    "question": "中華民國（臺灣）在何年簽署ICERD？",
+    "options": [
+      "1976年",
+      "1966年",
+      "1956年",
+      "1946年"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1976年",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:49:06.373Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1874ea5c8a78f972dbbb84659c6fe92c5b6fce6b2c40a536e519dfd2acc2811d",
+    "question": "依據ICERD前言，有必要讓人人在法律上悉屬平等並有權享受下列何種規範之平等保護，以防止任何歧視及任何煽動歧視之行為？",
+    "options": [
+      "法律",
+      "命令",
+      "契約",
+      "宗教"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "法律",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:49:06.375Z",
+    "review_state": "candidate_ready"
   }
 ]
