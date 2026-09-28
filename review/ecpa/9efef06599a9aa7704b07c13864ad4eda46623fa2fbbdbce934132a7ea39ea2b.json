@@ -192,5 +192,119 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.296Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1a3bed1212574e6acf1e5cab4a59aa70fbe02fecfdadd77d9f604b81aaf9df9a",
+    "question": "下列何者是「惡意附件」最常偽裝的話術與檔案格式？",
+    "options": [
+      "朋友聚餐照片 (.jpg)",
+      "系統更新檔 (.iso)",
+      "遊戲安裝包 (.apk)",
+      "發票、合約或薪資表 (.doc, .zip)"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "發票、合約或薪資表 (.doc, .zip)",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.989Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "deae8e93bf4565cdf8429995eeb135ef2276497edb6f9a397f566a0ee7b22f67",
+    "question": "惡意附件中的「隱形追蹤代碼 (Pixel Tracking)」主要作用是什麼？",
+    "options": [
+      "癱瘓使用者的防毒軟體",
+      "綁架電腦內的所有檔案",
+      "一旦被預覽或讀取，即回傳 IP 給駭客，確認這是一個「活人」的有效信箱",
+      "竊取電腦上的圖片檔案"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一旦被預覽或讀取，即回傳 IP 給駭客，確認這是一個「活人」的有效信箱",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.990Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9b72d73842811565bd43ea4e484bd96edf747b09e828bbd7ba7b615bf38dbddf",
+    "question": "BEC（內部信件詐騙）的核心手法為何？",
+    "options": [
+      "散佈電腦病毒",
+      "偽裝成單位的主管或同事，利用信任關係要求匯款或提供機敏資料",
+      "攻擊對外的官方網站",
+      "攔截網路封包"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "偽裝成單位的主管或同事，利用信任關係要求匯款或提供機敏資料",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.992Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0fdaef8258f22227814dbace48216381d5b13e8af54254acff30aa63da8c88d3",
+    "question": "釣魚網站故意顯示「密碼錯誤，請重新輸入」的心理魔術，目的是什麼？",
+    "options": [
+      "測試使用者的網路穩定度",
+      "為了觸發手機驗證碼發送",
+      "強制對比兩次結果，確保騙到的密碼 100% 正確",
+      "讓使用者覺得網站很安全"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "強制對比兩次結果，確保騙到的密碼 100% 正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.993Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "438f4d003560e96c4e11b1155bd605061e9861b7189a2c6d5cf34e0c438b10f7",
+    "question": "進行公務信件語意檢查時，出現以下哪種詞彙通常為假冒信件？",
+    "options": [
+      "附件、報表",
+      "啟動、打印、軟體包",
+      "系統升級、密碼重設",
+      "會議記錄、行程表"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "系統升級、密碼重設",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.994Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a2f9acda01d11a416cca2ae9f832ce42ff5e6816ed4db26361532b35eaf4c550",
+    "question": "若信件帶有強烈壓迫感的「要求立即處理」與假登入連結，通常屬於哪種攻擊？",
+    "options": [
+      "偽裝官方",
+      "惡意附件",
+      "BEC 內部信件詐騙",
+      "實體破壞"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "偽裝官方",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T10:12:27.996Z",
+    "review_state": "candidate_ready"
   }
 ]
