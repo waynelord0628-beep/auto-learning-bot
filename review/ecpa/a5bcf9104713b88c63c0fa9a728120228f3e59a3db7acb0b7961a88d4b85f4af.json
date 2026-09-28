@@ -308,5 +308,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:37:03.352Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b9996fffc636d931568fe83453fd14b3f85e907e4fbeca4885bbc94415b19e2b",
+    "question": "請問鸚鵡的籠舍應該選擇什麼樣的材質最安全堅固呢？",
+    "options": [
+      "鐵籠",
+      "烤漆籠",
+      "竹籠",
+      "白鐵籠"
+    ],
+    "type": "單選",
+    "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "白鐵籠",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T07:38:54.485Z",
+    "review_state": "candidate_ready"
   }
 ]
