@@ -16,7 +16,11 @@
     "candidate_answer": "Anxiety",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T06:19:44.970Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "db77ff53ee407a0ab07aa6853a6e00a269ffbdf3f2307816eb99196799653248",
