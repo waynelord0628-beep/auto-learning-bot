@@ -174,5 +174,77 @@
     "source": "ai_unverified",
     "created_at": "2026-09-28T17:47:53.187Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "83ccfcd83cc60c9c71a16ab61841d026134db64080511cff1676a149c2d8b6af",
+    "question": "總統府人權諮詢委員會於107年決議，ICERD國家報告於首次提出後，其後訂定原則上多久提出1次？",
+    "options": [
+      "每2年提出1次",
+      "每3年提出1次",
+      "每4年提出1次",
+      "每5年提出1次"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "每2年提出1次",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:48:33.052Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "16e05d73f1d378edb8aae643d065fd41f79502763bccaafe4aeee5c598ce0850",
+    "question": "依據ICERD第5條規定，關於締約國保證人人得享受權利，下列何者錯誤？",
+    "options": [
+      "在法庭上及其他一切司法裁判機關中平等待遇之權",
+      "人身安全及國家保護之權",
+      "依據普遍平等投票權參與選舉之權",
+      "無權離去任何國家"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "無權離去任何國家",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:48:33.053Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a9f21aec2326340f203d2b7d6c5e50fbdb799c04df2b9d8dc8cfd4418317fdd3",
+    "question": "ICERD之消除種族歧視委員會，是否由18位獨立專家組成，在1969年由締約國大會選舉產生？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:48:33.054Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "573e5d886c1ceb3186906e2ea5d26fe3c701b64983827b8181a487d841c8c613",
+    "question": "依課程所引最高行政法院112年度上字第572號判決，個案當事人經查具有印度國籍，無其他不能強制出國情形，且客觀上難認返回印度有生命、身體安全危險，於司法救濟程序結束後強制其出國，並不違反『不遣返原則』。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-28T17:48:33.058Z",
+    "review_state": "candidate_ready"
   }
 ]
