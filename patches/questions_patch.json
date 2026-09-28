@@ -57835,5 +57835,28 @@
       "model": null,
       "checked_at": "2026-09-28T05:19:45.311Z"
     }
+  },
+  {
+    "question": "即便AI能翻譯語言，卻無法取代人際關係在人際溝通中的關鍵角色。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生成式AI工具入門(一)",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/aiee.html",
+          "title": "「生成式AI工具入門(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T05:19:54.088Z"
+    }
   }
 ]
