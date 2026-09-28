@@ -76,13 +76,30 @@
     ],
     "type": "是非",
     "course": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T18:03:54.365Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T01:20:01.733Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T01:20:01.001Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9ff37da0796dd41744ba61b272dff136a3f01551343766643fdffd24f5891412",
