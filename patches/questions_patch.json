@@ -57810,5 +57810,30 @@
       "model": null,
       "checked_at": "2026-09-28T04:20:11.176Z"
     }
+  },
+  {
+    "question": "AI的聲音和音樂是如何產生？",
+    "type": "單選",
+    "options": [
+      "人類製作",
+      "合成製作",
+      "錄音製作",
+      "AI生成"
+    ],
+    "course": "生成式AI工具入門(一)",
+    "answer": "AI生成",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "AI生成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/aiee.html",
+          "title": "「生成式AI工具入門(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T05:19:45.311Z"
+    }
   }
 ]
