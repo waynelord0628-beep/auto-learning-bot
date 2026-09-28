@@ -108,6 +108,10 @@
     "candidate_answer": "struggle",
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:15:25.789Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T02:19:57.757Z",
+    "verification_status": "insufficient_sources"
   }
 ]
