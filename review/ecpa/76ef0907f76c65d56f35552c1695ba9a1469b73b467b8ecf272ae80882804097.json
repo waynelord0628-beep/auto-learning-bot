@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "種植",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.706Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T12:20:08.027Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "種植",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T12:20:07.029Z"
+    },
+    "resolved_answer": "種植"
   },
   {
     "id": "35234e054a6fb8385fe51ae5e6f46761531aa2152f4c56fd9a4276f6067ad0db",
