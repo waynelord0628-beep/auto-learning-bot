@@ -57710,5 +57710,30 @@
       "model": null,
       "checked_at": "2026-09-28T01:20:01.001Z"
     }
+  },
+  {
+    "question": "ICT導入智慧醫療發展推動原則?",
+    "type": "單選",
+    "options": [
+      "(1)安全與法規",
+      "(2)經費充足",
+      "(3)健保給付",
+      "(4)資通訊規格功能。"
+    ],
+    "course": "效率與安全兼具的智慧醫療新世代",
+    "answer": "(2)經費充足",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "(2)經費充足",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T03:20:00.358Z"
+    }
   }
 ]
