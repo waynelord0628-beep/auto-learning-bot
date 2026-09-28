@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.461Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T07:19:46.601Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T07:19:45.776Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d2f04b8640868bf91c0e2a37f192e87d99802970d0ff79c7a46e766a1f5591df",
