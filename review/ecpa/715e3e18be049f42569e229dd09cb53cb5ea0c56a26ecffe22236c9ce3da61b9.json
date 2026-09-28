@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "維繫婚育年齡女性離開職場",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.464Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-05T07:20:01.007Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "維繫婚育年齡女性離開職場",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T07:20:00.219Z"
+    },
+    "resolved_answer": "維繫婚育年齡女性離開職場"
   },
   {
     "id": "30fed2cd194d0d1c659130a3881affa43945e39ae8f16705aecc414f0273842c",
