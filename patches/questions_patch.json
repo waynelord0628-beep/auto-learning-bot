@@ -57616,5 +57616,30 @@
       "model": null,
       "checked_at": "2026-09-27T15:20:02.137Z"
     }
+  },
+  {
+    "question": "聯發科技公司(MediaTek)GAI模型如何處理企業財務報告？",
+    "type": "單選",
+    "options": [
+      "人工撰寫",
+      "美化財報數字",
+      "自動生成",
+      "增加數據輸入"
+    ],
+    "course": "利用生成式AI加速推動數位轉型及生產力提升",
+    "answer": "自動生成",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "自動生成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_88.html",
+          "title": "「利用生成式AI加速推動數位轉型及生產力提升」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T00:19:53.067Z"
+    }
   }
 ]
