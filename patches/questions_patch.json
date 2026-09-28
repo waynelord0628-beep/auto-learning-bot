@@ -58002,5 +58002,30 @@
       "model": null,
       "checked_at": "2026-09-28T11:19:47.051Z"
     }
+  },
+  {
+    "question": "請問台灣在哪一年會進入超高齡社會？",
+    "type": "單選",
+    "options": [
+      "2025年",
+      "2026年",
+      "2027年",
+      "2028年"
+    ],
+    "course": "打造智慧無縫的照護環境",
+    "answer": "2025年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "2025年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-28T11:19:57.347Z"
+    }
   }
 ]
