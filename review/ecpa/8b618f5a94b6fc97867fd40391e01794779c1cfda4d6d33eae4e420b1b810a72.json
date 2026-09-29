@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "若滿足公政公約第9條所規定之保障，則因不履行法律所規定之私法性質的義務時，允許其被剝奪自由",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T03:19:53.068Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公政公約第11條係禁止因人民無力償還公法及民事債務，而對其實施懲罰",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T03:19:52.459Z"
+    },
+    "resolved_answer": "公政公約第11條係禁止因人民無力償還公法及民事債務，而對其實施懲罰"
   },
   {
     "id": "791b015a6c901063ca2e8f32b356f4906b9e7b650ff9f8ae5a630d551cdf73c3",
