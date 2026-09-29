@@ -18,7 +18,11 @@
     "candidate_answer": "123 跳到沙發或床上睡覺、和飼主散步時走在飼主的前面",
     "source": "ai_unverified",
     "created_at": "2026-09-24T11:34:56.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T12:20:38.347Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2d567170f56de5152a6e65e1f4223299971e1739439f57858a9a2bb4b0dd04d7",
