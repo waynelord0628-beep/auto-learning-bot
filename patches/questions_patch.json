@@ -58148,5 +58148,28 @@
       "model": null,
       "checked_at": "2026-09-29T00:19:43.353Z"
     }
+  },
+  {
+    "question": "遠距醫療是未來趨勢。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T00:19:50.685Z"
+    }
   }
 ]
