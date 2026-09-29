@@ -339,5 +339,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T01:24:23.358Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d896d2a079728b269dee1e10755a02c91c6d37cbe8d347ddc908e08d5363c23",
+    "question": "關於ICERD條款之法院直接適用性，國際審查委員會在2024年結論性意見中，對臺灣政府與法院「ICERD不包含可直接適用條款」之評估持何種態度？",
+    "options": [
+      "完全贊同",
+      "並不同意",
+      "予以採納",
+      "無明確意見"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "並不同意",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T01:24:54.824Z",
+    "review_state": "candidate_ready"
   }
 ]
