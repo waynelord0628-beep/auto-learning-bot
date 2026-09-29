@@ -58388,5 +58388,29 @@
       "model": null,
       "checked_at": "2026-09-29T06:19:50.911Z"
     }
+  },
+  {
+    "question": "運動傷害評估的方式不包括？",
+    "type": "單選",
+    "options": [
+      "靜態評估",
+      "抑制肌肉",
+      "關節活動度評估"
+    ],
+    "course": "運動部專任運動教練線上課程_運動醫學快速上手",
+    "answer": "抑制肌肉",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "抑制肌肉",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T06:19:58.484Z"
+    }
   }
 ]

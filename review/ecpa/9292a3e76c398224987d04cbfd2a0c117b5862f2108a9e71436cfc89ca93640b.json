@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "抑制肌肉",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T06:19:59.132Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "抑制肌肉",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T06:19:58.484Z"
+    },
+    "resolved_answer": "抑制肌肉"
   },
   {
     "id": "b361c7b22712931b62fd85451e0dd3268fd17a5090e77bb11f00c7f9077e2f48",
