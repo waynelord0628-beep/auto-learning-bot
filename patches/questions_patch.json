@@ -58462,5 +58462,30 @@
       "model": null,
       "checked_at": "2026-09-29T07:20:01.365Z"
     }
+  },
+  {
+    "question": "台灣近年於北中南共興建11座再生水廠，供水給",
+    "type": "單選",
+    "options": [
+      "農業用戶",
+      "民生用戶",
+      "工業用戶",
+      "以上皆是"
+    ],
+    "course": "高科技產業節水、節能與循環經濟之應用",
+    "answer": "工業用戶",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "工業用戶",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_705.html",
+          "title": "「高科技產業節水、節能與循環經濟之應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T08:19:42.204Z"
+    }
   }
 ]
