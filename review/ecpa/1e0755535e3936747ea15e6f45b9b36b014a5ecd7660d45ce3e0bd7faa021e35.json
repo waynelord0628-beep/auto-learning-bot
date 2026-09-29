@@ -176,5 +176,43 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.359Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f27c2ba59a9ba3171d3b35954ec7a1a6251708d01700374e4d914177aaa54ed8",
+    "question": "將資料上傳 AI 工具前，下列哪一項做法最適當？",
+    "options": [
+      "保留所有姓名與聯絡方式",
+      "先移除個資及機密欄位",
+      "把檔案公開分享",
+      "不必查看檔案內容"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "先移除個資及機密欄位",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:48.974Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "609bf10c79894fa6f0285597c733933baa711dcb530020775c134b76fb7580a1",
+    "question": "如果匯入 Excel 的資料全部擠在 A 欄，最適合使用哪一項功能將資料拆開？",
+    "options": [
+      "拼字檢查",
+      "頁面配置",
+      "資料剖析",
+      "列印預覽"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資料剖析",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:48.983Z",
+    "review_state": "candidate_ready"
   }
 ]
