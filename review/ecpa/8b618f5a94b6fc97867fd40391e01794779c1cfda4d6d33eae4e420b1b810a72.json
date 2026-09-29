@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政執行法第10條規定，行政執行有國家賠償法所定國家應負賠償責任之情事者，受損害人得依法請求損害賠償，為國家賠償責任之提示性規定",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.615Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T03:20:00.279Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政執行法第10條規定，行政執行有國家賠償法所定國家應負賠償責任之情事者，受損害人得依法請求損害賠償，為國家賠償責任之提示性規定",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T03:19:59.609Z"
+    },
+    "resolved_answer": "行政執行法第10條規定，行政執行有國家賠償法所定國家應負賠償責任之情事者，受損害人得依法請求損害賠償，為國家賠償責任之提示性規定"
   },
   {
     "id": "c59e85f2a407872420e347138d170b5385ef0fdb99149a442fbf37dda4656919",
