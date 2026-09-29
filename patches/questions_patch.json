@@ -58437,5 +58437,30 @@
       "model": null,
       "checked_at": "2026-09-29T07:19:54.298Z"
     }
+  },
+  {
+    "question": "過去輔具評估報告書是用以下哪種方式來撰寫？",
+    "type": "單選",
+    "options": [
+      "捲尺",
+      "照片",
+      "筆電",
+      "以上皆是"
+    ],
+    "course": "輔具評估報告書Iphone取代筆電",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T07:20:01.365Z"
+    }
   }
 ]
