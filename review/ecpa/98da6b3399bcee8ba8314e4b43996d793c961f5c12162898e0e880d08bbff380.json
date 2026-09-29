@@ -76,13 +76,30 @@
     ],
     "type": "是非",
     "course": "醫院數位轉型的挑戰與機會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T06:44:39.808Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T10:20:07.784Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_73.html",
+          "title": "「醫院數位轉型的挑戰與機會」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T10:20:06.823Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b5a68852dc7e70a84152572e750642acf758b54e82f863586b68241bc90df925",
