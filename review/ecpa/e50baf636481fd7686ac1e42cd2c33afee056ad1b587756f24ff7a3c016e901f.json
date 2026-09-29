@@ -320,5 +320,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T01:23:43.065Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bc433b5804f3f06d68232f55c29320e0d95d0fa18180b1fa5fa3a2e64779d4f8",
+    "question": "依據ICERD前言，所有會員國均擔允達成下列何一組織之宗旨，即不分種族、性別、語言或宗教，增進並激勵對於全體人類之人權及基本自由之普遍尊重與遵守？",
+    "options": [
+      "聯合國",
+      "同盟國",
+      "軸心國",
+      "共和國"
+    ],
+    "type": "單選",
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "聯合國",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T01:24:23.358Z",
+    "review_state": "candidate_ready"
   }
 ]
