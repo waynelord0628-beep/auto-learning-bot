@@ -178,5 +178,56 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.056Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d573041d972035eebd80cd2fb56c8836a4a76c39fe34ddd21d5788ca89ff9c6d",
+    "question": "公務禮儀特別之處，是依職位高低定尊卑秩序，不以年長或性別為優先考量。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T16:46:32.350Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c27ae007231c92f3a47bed114e998a6b352d14f5f08213d1e0dc9000e437eae6",
+    "question": "合宜的服裝儀容，要掌握 T.O.P.原則，配合工作性質、年齡與身分，針對不同場合，選擇合適的服裝。其中P是People的縮寫。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T16:46:32.351Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "034660526e0d120575b4b438a3ed2352aced468d555d115074cd8d369d37b4d6",
+    "question": "你從門外往內看，會客室最上首有兩張沙發，此時主人應坐你看過去右邊那張沙發，主賓坐左邊那張沙發。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務禮儀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T16:46:32.352Z",
+    "review_state": "candidate_ready"
   }
 ]
