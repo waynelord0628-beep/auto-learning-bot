@@ -1,0 +1,180 @@
+[
+  {
+    "id": "e23dd97a4f69bf42d8018cf16143d08041a242fa782047c9ffa24e417226b552",
+    "question": "CSV 檔案完成樞紐分析後，直接以原本的 CSV 格式儲存，就一定能保留所有分析內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.349Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eaa0d326efb4aa4c4e1d3f2be8a05acf237582efb00e346ecfb7a4403e0d89f7",
+    "question": "使用 AI 協助 Excel 工作時，可以請 AI 提供資料篩選、轉換及最佳化的建議。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.351Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b88fdd55a6f4ab684be08ae8606096f1bc38af3b42e2ba2e11abde9d76880f25",
+    "question": "為了讓 AI 分析得更完整，可以直接上傳含有個人資料或機密公務內容的檔案。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.352Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "58c7121027bcb9ca0b6fe8a8d94ffaced6ae2f818991c01a16395325a8af3763",
+    "question": "如果想分析一項新指標，但現有資料不足，較適合請 AI 協助什麼？",
+    "options": [
+      "猜測缺少的數值",
+      "隱藏分析限制",
+      "建議還需要補充哪些欄位或條件",
+      "直接宣稱分析完成"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建議還需要補充哪些欄位或條件",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.355Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad6a1db2047e554355fb1adf9e73988f86477299e9565afb6f99d126fad965b9",
+    "question": "請 AI 協助撰寫 Excel 函數時，提供哪一項資訊最有幫助？",
+    "options": [
+      "使用者今天的心情",
+      "電腦桌布顏色",
+      "辦公室座位位置",
+      "Excel 版本、資料欄位及想完成的結果"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Excel 版本、資料欄位及想完成的結果",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.355Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "53a3a1217c37fe77d247194f41ed141d7fd9f4e6e21e4a4920324b320f26c0d5",
+    "question": "Excel 的「資料剖析」功能，可以依照逗號等分隔符號，將原本擠在同一欄的資料拆成不同欄位。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.356Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b2d79a06ad786e6019dee1ec95bab7456b8619cf9920118d376a65df1ca4e107",
+    "question": "下列哪一項最適合使用樞紐分析表進行統計？",
+    "options": [
+      "各類留言的筆數",
+      "一段評語背後的情緒原因",
+      "公文用字是否得體",
+      "一篇文章是否感人"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "各類留言的筆數",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.357Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d7b42345959381547a843b409b43d10930c5bb91679b65157f75941aa69bd0f1",
+    "question": "若想知道手上的資料還能做哪些分析，較適合怎麼詢問 AI？",
+    "options": [
+      "只說「幫我看一下」",
+      "說明現有欄位，請 AI 建議可分析的方向",
+      "不提供資料也不說明目的",
+      "要求 AI 隨意刪除欄位"
+    ],
+    "type": "單選",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "說明現有欄位，請 AI 建議可分析的方向",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.358Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "270666373d44c26258fde3fb2753a4910d29af7ad9d40e19c222ac6b9240704e",
+    "question": "Excel 樞紐分析表可以直接了解顧客留言的完整語意，不需要先整理或分類文字內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.358Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b8a8b99593441c2dda1f795e6870a6498d7a6d4cf39171a04c0f0879592b37cc",
+    "question": "把檔案交給 AI 分析後，可以先詢問 AI 看到了幾欄、幾列，以確認工具是否正確讀取資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI工具賦能-Excel X AI應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T07:29:11.359Z",
+    "review_state": "candidate_ready"
+  }
+]
