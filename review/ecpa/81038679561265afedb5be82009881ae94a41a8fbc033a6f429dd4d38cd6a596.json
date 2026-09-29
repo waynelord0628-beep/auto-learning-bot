@@ -16,7 +16,11 @@
     "candidate_answer": "高度危害",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.935Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T01:20:15.906Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f39541c6514a1ba31a3f7fd06c3ccb5027c0c00a3cdb4e5380f1e278f9240cf7",
