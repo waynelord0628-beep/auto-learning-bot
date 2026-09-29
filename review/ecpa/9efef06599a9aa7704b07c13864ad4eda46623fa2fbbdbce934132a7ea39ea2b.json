@@ -39,7 +39,11 @@
     "candidate_answer": "直接避開資安系統的攔截與防毒軟體過濾",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.291Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T15:19:47.695Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "04023b5ef58d787f811671fae74ff030549cd6ec165e0bb26bb11ba3fbabd53f",
