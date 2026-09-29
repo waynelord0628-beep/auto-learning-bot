@@ -169,5 +169,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.399Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "578fb3762e18df31bf43389a64a1bd7cf3b72697d043f222de4546cb4ebcfdfc",
+    "question": "李先生是一位研究助理，目前正撰寫一篇關於氣候變遷的學術論文，需要引用多篇期刊文獻作為佐證資料。他希望能快速搜尋相關文獻，並自動產生符合APA格式的引用內容。依據本單元介紹的AI工具，下列哪一項最適合協助他完成這項工作？？",
+    "options": [
+      "Grok AI",
+      "Claude",
+      "Copilot",
+      "Liner AI"
+    ],
+    "type": "單選",
+    "course": "好用必收AI實用技巧",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Liner AI",
+    "source": "ai_unverified",
+    "created_at": "2026-09-29T05:17:19.889Z",
+    "review_state": "candidate_ready"
   }
 ]
