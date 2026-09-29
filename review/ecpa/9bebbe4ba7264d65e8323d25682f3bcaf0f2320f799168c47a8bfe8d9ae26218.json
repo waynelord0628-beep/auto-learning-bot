@@ -16,7 +16,11 @@
     "candidate_answer": "ChatGPT 或 Replit",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T14:20:07.077Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0246bcea7642c6cfabdf98cd338810e8be53822051298c0350f475f85a7d81f2",
