@@ -62,7 +62,11 @@
     "candidate_answer": "應變計畫僅需包含生物安全事故情境，不需涵蓋生物保全事故",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.936Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T01:21:02.083Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d394b902bc54a2143d90215dfa7641b26dc978f8e9ef2ac14a7b4281f4bfdd43",
