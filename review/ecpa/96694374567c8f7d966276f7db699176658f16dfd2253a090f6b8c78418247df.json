@@ -188,13 +188,30 @@
     ],
     "type": "單選",
     "course": "驚險出航：驚濤駭浪中夜釣白帶魚【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The beltfish are really fresh.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:02:01.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T09:20:11.990Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The fishing crew gets a really good catch.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699745",
+          "title": "驚險出航：驚濤駭浪中夜釣白帶魚【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T09:20:11.033Z"
+    },
+    "resolved_answer": "The fishing crew gets a really good catch."
   },
   {
     "id": "9b479c1b7f2f3f16a4cf8f7dc6869bc9006483c5356f60656b9c8bf12acaec13",
