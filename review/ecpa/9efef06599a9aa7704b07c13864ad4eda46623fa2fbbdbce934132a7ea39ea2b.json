@@ -62,7 +62,11 @@
     "candidate_answer": "Sandbox (沙箱)",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.292Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T15:19:52.539Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9e61c3c8b0f7bb7550b65594c98ccbc32ff5c0a74df32f7dae990615d74cd1e0",
