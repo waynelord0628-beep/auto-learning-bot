@@ -44,13 +44,30 @@
     ],
     "type": "是非",
     "course": "高科技產業節水、節能與循環經濟之應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T08:35:35.353Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-06T08:19:48.987Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_705.html",
+          "title": "「高科技產業節水、節能與循環經濟之應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-29T08:19:48.347Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f515b7839f3dcad867d5b732c74cda9f16e59972a481fb3e897cfe30a7c5f3dc",
