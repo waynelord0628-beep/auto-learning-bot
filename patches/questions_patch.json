@@ -58851,5 +58851,28 @@
       "model": null,
       "checked_at": "2026-09-30T02:19:49.367Z"
     }
+  },
+  {
+    "question": "醫院的資訊人員最重要的任務為開發核心資訊系統，而非投入大數據資料整合來發展臨床研究及醫療決策優化",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T02:20:01.687Z"
+    }
   }
 ]
