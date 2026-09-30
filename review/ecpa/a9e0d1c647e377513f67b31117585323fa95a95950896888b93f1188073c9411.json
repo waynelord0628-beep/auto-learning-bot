@@ -150,15 +150,32 @@
     ],
     "type": "單選",
     "course": "(113年)性別平等工作法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高中學生在校園裡，受到老師性騷擾。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:35:56.578Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-23T08:19:37.855Z"
+    "retry_after": "2026-09-23T08:19:37.855Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-07T06:20:30.209Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "高中學生在校園裡，受到老師性騷擾。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022925",
+          "title": "(113年)性別平等工作法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T06:20:28.133Z"
+    },
+    "resolved_answer": "高中學生在校園裡，受到老師性騷擾。"
   },
   {
     "id": "692d07a03e3a90dfc7e13ac92cf38a03a7809d48d6eb5199e70fe6a0c34b3524",
