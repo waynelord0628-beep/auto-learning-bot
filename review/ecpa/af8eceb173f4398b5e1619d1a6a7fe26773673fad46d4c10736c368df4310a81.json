@@ -178,5 +178,39 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.076Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "810d894e5c948a4302192b694b96e46516b1f53993f91407a99772ce4365123a",
+    "question": "調查小組應於召開第一次會議之日起 6 個月內完成調查。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌申訴及處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:34:45.265Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5979d9e4dae46a0e44b243e8393beec86c36bb8745f94104ad66724e603f7768",
+    "question": "申訴人若撤回申訴，原則不得就同一事由再提出申訴。但機關認有必要者，得本於職權繼續調查處理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌申訴及處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:34:45.266Z",
+    "review_state": "candidate_ready"
   }
 ]
