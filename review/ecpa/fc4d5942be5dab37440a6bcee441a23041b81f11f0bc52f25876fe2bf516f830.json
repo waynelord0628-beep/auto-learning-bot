@@ -265,5 +265,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:32:26.175Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f4c3155156e829bd6cac3dcdbe0bf29818831fa7cbc90bcc203a1b0bf3d9e2e",
+    "question": "根據本課程內容，彭博公司使用AI技術提供什麼樣的服務？",
+    "options": [
+      "財務報表生成",
+      "金融數據分析和摘要內容的生成",
+      "客戶數據加密",
+      "電子商務管理"
+    ],
+    "type": "單選",
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "金融數據分析和摘要內容的生成",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:33:04.599Z",
+    "review_state": "candidate_ready"
   }
 ]
