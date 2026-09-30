@@ -114,13 +114,30 @@
     ],
     "type": "單選",
     "course": "次世代HIS系統發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T17:07:40.620Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-07T02:19:50.490Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T02:19:49.367Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "484cb7197233ea3a73ae545f9a1c60899c55045217e54378e94f709e791015ad",
