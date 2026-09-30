@@ -59069,5 +59069,30 @@
       "model": null,
       "checked_at": "2026-09-30T12:19:43.949Z"
     }
+  },
+  {
+    "question": "請問聯發科導入混合雲至數據中台內，可提供哪些服務模組化項目，給不同層級者進行彈性靈活運用及管控？",
+    "type": "單選",
+    "options": [
+      "Cloud MPP Data Warehoue",
+      "Cloud Data Pipeline",
+      "Cloud security",
+      "以上皆是"
+    ],
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T12:19:50.386Z"
+    }
   }
 ]
