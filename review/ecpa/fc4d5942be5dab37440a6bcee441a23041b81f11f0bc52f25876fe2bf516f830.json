@@ -189,5 +189,81 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:31:45.981Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d88ae78e9f4df8cdf41e7919a631075a28b85535e13070f9be19b8f15ed07026",
+    "question": "根據本課程，生成式AI在汽車保險的應用中，主要用來處理什麼？",
+    "options": [
+      "儲存數據",
+      "增加保險費用",
+      "增加警方查證事故時間",
+      "重建事故經過與理賠文本客製化生成"
+    ],
+    "type": "單選",
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "重建事故經過與理賠文本客製化生成",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:32:26.164Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad82934363f15dd05b1d06b2dc4b7e3c6e92c554b1c3b283cee38279d2bbb1b2",
+    "question": "根據本課程，生成式AI在汽車保險中的主要挑戰之一是什麼？",
+    "options": [
+      "需要處理大量事故影像數據並確保責任分析正確",
+      "減少事故數據使用",
+      "完全不需數據支援",
+      "需耗費大量人工處理"
+    ],
+    "type": "單選",
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "需要處理大量事故影像數據並確保責任分析正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:32:26.172Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5ed1fea04edaa95acb9babec402d992396216f274bc6e910ebca3b8bc25b5b8f",
+    "question": "根據本課程內容，「Embedded GenAI」是什麼概念？",
+    "options": [
+      "GenAI取代銀行員工",
+      "將GenAI整合於金融服務中",
+      "建置銀行客服APP",
+      "提供虛擬貨幣服務"
+    ],
+    "type": "單選",
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "將GenAI整合於金融服務中",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:32:26.173Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "545b15d7286438967a05c7f45c76ad537f4cd1dac55a1c3b4902a4cae6cffd73",
+    "question": "根據本課程內容，Cascading AI技術被用來幫助哪種金融服務？",
+    "options": [
+      "小型企業貸款申請流程優化",
+      "為顧客量身訂做資產管理",
+      "協助顧客投資策略分析",
+      "自動回覆顧客問題"
+    ],
+    "type": "單選",
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "小型企業貸款申請流程優化",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:32:26.175Z",
+    "review_state": "candidate_ready"
   }
 ]
