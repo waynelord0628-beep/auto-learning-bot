@@ -59094,5 +59094,29 @@
       "model": null,
       "checked_at": "2026-09-30T12:19:50.386Z"
     }
+  },
+  {
+    "question": "聯發科為世界第三大的IC設計公司，核心業務有哪些？",
+    "type": "單選",
+    "options": [
+      "行動通訊、智慧家庭、車用電子",
+      "行動通訊、智慧城市、車用電子",
+      "行動通訊、智慧家庭、智慧城市"
+    ],
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "answer": "行動通訊、智慧家庭、車用電子",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "行動通訊、智慧家庭、車用電子",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T12:19:57.126Z"
+    }
   }
 ]

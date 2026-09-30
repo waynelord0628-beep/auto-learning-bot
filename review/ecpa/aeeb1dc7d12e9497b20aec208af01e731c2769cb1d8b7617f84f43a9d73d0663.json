@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行動通訊、智慧家庭、車用電子",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.653Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-07T12:19:57.967Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行動通訊、智慧家庭、車用電子",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T12:19:57.126Z"
+    },
+    "resolved_answer": "行動通訊、智慧家庭、車用電子"
   },
   {
     "id": "c96fc66547eb6c961459caefe12266c49584472d161657f7d28b180c05d8d5fe",
