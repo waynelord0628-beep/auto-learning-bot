@@ -1,0 +1,190 @@
+[
+  {
+    "id": "caf8db97807fa323a0d81eb8cd44401860eace3e6045ac0f54f7340cd02bab89",
+    "question": "根據本課程內容，金管會發布AI指引中提到的核心原則不包括哪一項？",
+    "options": [
+      "公平性",
+      "透明性",
+      "隱私保護",
+      "減少監管"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "減少監管",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.990Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ca0541e59caa65526cc5d2c6ac0b9da4ebca484a385c16787284842839f8df1f",
+    "question": "金融機構運用AI技術時，兼顧永續發展之道為何？",
+    "options": [
+      "設備優化及虛擬化",
+      "增加重複運算",
+      "提高模型複雜度",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.991Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2b2cf12a674e8dfc95048b0ee84cfcc37573c4bf8d8d8a0e3fbfad0a76016f1c",
+    "question": "AI技術在金融業的應用應強調哪項重要性？",
+    "options": [
+      "減少數據存儲",
+      "增加人力需求",
+      "系統穩健性與安全性",
+      "減少風險控制"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "系統穩健性與安全性",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.991Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "29643ff385b95eb4f5fd78938705340ebd0f635757b1032663d27c300327e5bd",
+    "question": "根據本課程內容，金融機構在使用AI技術時應該如何保護隱私？",
+    "options": [
+      "避免數據加密",
+      "僅在外部服務中保護數據",
+      "採用資料加密並定期監控",
+      "完全依賴人工檢查"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "採用資料加密並定期監控",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.992Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7837d83c7dcbb553d6f08c5bfa4eef7fab57ed5c9a268ffe19443b76abf30c86",
+    "question": "根據本課程內容，銀行業者已經應用AI技術提供哪些金融服務？",
+    "options": [
+      "投資分析與決策建議",
+      "詐欺偵測與市場預測",
+      "貸款審核和信用評分",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.992Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2fc68acfd8d3bb6cc752615cc5e293f5bf1bcd70e1f3fc68a4ae45904a121e34",
+    "question": "根據本課程內容，AI在金融領域的主要挑戰之一是什麼？",
+    "options": [
+      "完全不需監管",
+      "過度依賴人工",
+      "數據安全與隱私問題",
+      "資料收集不易"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "數據安全與隱私問題",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.992Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "02e2f8eacf0875238835f3f54e0010d0c191ec65f27391df9bc47f980b34613a",
+    "question": "金融機構在使用AI技術時如何確保客戶隱私？",
+    "options": [
+      "減少數據使用",
+      "採取資料最小化與加密技術",
+      "完全依賴人工操作",
+      "完全不監控數據"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "採取資料最小化與加密技術",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.993Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "308eb57d3f70843cda0aa3fca31a425a8617720df9de6c904b0347729001e417",
+    "question": "金管會發布AI指引的主要目的為何？",
+    "options": [
+      "減少金融科技應用",
+      "強化負責任的創新與可信賴的AI應用",
+      "降低金融業自動化程度",
+      "減少風險管理需求"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "強化負責任的創新與可信賴的AI應用",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.993Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "be6e1b8966a07195e7113245d41b3eebbc0701de417dffd2983df3f177fcf8b6",
+    "question": "根據本課程內容，生成式AI所生成的資料都是完全正確的？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.994Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93e9b23f3e866e8e1863f16faa17dea9293cb110f2855b789d85111fb686a8b8",
+    "question": "根據本課程內容，金融機構的AI技術作業規範強調了什麼？",
+    "options": [
+      "加強隱私保護與系統安全性",
+      "增加人工數據處理",
+      "避免資料加密",
+      "減少風險管理機制"
+    ],
+    "type": "單選",
+    "course": "AI金融應用與資安管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "加強隱私保護與系統安全性",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T16:17:37.994Z",
+    "review_state": "candidate_ready"
+  }
+]
