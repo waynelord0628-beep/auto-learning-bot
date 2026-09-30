@@ -81,13 +81,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "澳洲彩虹吸蜜鸚鵡",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:35:27.806Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-07T01:19:59.876Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "澳洲彩虹吸蜜鸚鵡",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T01:19:59.169Z"
+    },
+    "resolved_answer": "澳洲彩虹吸蜜鸚鵡"
   },
   {
     "id": "6a980f9245dbf1af329da60c89032407a35b80fcd8ecf86fa23d4ad0782e5e3a",

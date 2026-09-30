@@ -58801,5 +58801,30 @@
       "model": null,
       "checked_at": "2026-09-30T01:19:50.641Z"
     }
+  },
+  {
+    "question": "請問以下哪種品種的鸚鵡，主食為果子、花粉、花蜜，有特化的舌頭，嘴喙並不擅長啃咬？",
+    "type": "單選",
+    "options": [
+      "玄鳳鸚鵡",
+      "橫斑鸚鵡",
+      "金太陽錐尾鸚鵡",
+      "澳洲彩虹吸蜜鸚鵡"
+    ],
+    "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
+    "answer": "澳洲彩虹吸蜜鸚鵡",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "澳洲彩虹吸蜜鸚鵡",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T01:19:59.169Z"
+    }
   }
 ]
