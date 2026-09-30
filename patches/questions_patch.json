@@ -58775,5 +58775,31 @@
       "model": null,
       "checked_at": "2026-09-30T01:19:42.993Z"
     }
+  },
+  {
+    "question": "下列何者不是鸚鵡的自然習性？",
+    "type": "單選",
+    "options": [
+      "好奇心強",
+      "喜歡獨居",
+      "喜歡攀爬",
+      "用叫聲溝通",
+      "隱藏自己的疾病"
+    ],
+    "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
+    "answer": "喜歡獨居",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "喜歡獨居",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T01:19:50.641Z"
+    }
   }
 ]
