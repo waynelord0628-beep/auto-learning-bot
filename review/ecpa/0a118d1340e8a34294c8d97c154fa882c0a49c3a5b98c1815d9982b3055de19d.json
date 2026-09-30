@@ -244,5 +244,41 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:51.816Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "976565c12786148c33655caa8fa44e60fc13ad167780c73078ecc68934f9c3f1",
+    "question": "研究發現數位時代是父親參與孩子教養的好時機。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:31:21.498Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "be4e4b7c67eccb6e835de8e7a91de7a487d8a1e2b4295a258e461da9a48a3ab9",
+    "question": "以下何者不是參與式學習的概念?",
+    "options": [
+      "認識子女所處數位環境",
+      "強化家人關係",
+      "重視個人與協同學習",
+      "提升家人凝聚力以不變應萬變"
+    ],
+    "type": "單選",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提升家人凝聚力以不變應萬變",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:31:21.499Z",
+    "review_state": "candidate_ready"
   }
 ]
