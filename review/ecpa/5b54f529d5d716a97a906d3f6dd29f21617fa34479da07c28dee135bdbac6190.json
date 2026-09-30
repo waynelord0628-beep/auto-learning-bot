@@ -13,10 +13,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "報上自己的單位",
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.037Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-01T16:19:59.127Z"
   },
   {
     "id": "ac5272016bd46f9e05dc0e41dc990bfede9f8628c491b5544acd66382c7655ab",
@@ -100,10 +102,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "以上皆不正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.049Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-01T16:19:59.127Z"
   },
   {
     "id": "ac2934f75a3e549f7ffeedbb0a9786be4082fdec0e830d711f9c6beb47954f1c",
@@ -136,10 +140,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "將個人介紹給團體。",
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.053Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-01T16:19:59.127Z"
   },
   {
     "id": "1139e6558ed6aea309e26f4f6a46c35340ac1ee943137005df14d20b82fbaa9e",
@@ -155,10 +161,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "A,B,C",
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.054Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-01T16:19:59.127Z"
   },
   {
     "id": "b29c48fafe52ee6504fe45a930121946d49c05b4d3b5e790c78ce8c781e5add6",
@@ -174,10 +182,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "A,B,C",
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.056Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-01T16:19:59.127Z"
   },
   {
     "id": "d573041d972035eebd80cd2fb56c8836a4a76c39fe34ddd21d5788ca89ff9c6d",
