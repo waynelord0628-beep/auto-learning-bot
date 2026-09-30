@@ -174,5 +174,75 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.968Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "935e7786a50cf418016691580d92c00b0fd571b8cbab524e715b330ee7c8d69e",
+    "question": "數位媒介的常見親職介入形式，以下何者正確?",
+    "options": [
+      "主動的共同使用",
+      "科技的限制",
+      "監看",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:30:51.812Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d933081c68483c2465a7b5fa166ff8f3a23ce73c33d90ab03823148be10bca07",
+    "question": "研究顯示豐富的家庭環境與提高假日親子互動時間，有助於降低幼兒使用螢幕時間。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:30:51.815Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c12eacebbd6fd9d6061d6bae4a002eaf9cd3121dd0e6d6a63d5d0a312106503a",
+    "question": "從台灣幼兒發展調查資料庫(KIT)的研究中，發現台灣孩童使用3C的年齡層逐漸下降。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:30:51.815Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "13a38123918a387de0a9430cd725c937be6bacc0b8312a34bac0fe302da6f303",
+    "question": "參與式學習重視數位時代下成長孩子的自我能力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "數位時代的親職",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:30:51.816Z",
+    "review_state": "candidate_ready"
   }
 ]
