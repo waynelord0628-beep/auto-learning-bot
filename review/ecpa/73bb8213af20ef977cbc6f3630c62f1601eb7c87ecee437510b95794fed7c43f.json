@@ -184,5 +184,117 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:43:42.403Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f6fedae6ce8f06afac2b88e84b6841d76ef8fedcb7742382c9489e326400c364",
+    "question": "下列對於臺灣身心障礙政策發展歷程的敘述何者正確?",
+    "options": [
+      "臺灣於1980年，完成第一版殘障福利法的立法工作。",
+      "1994 年身心障礙者保護法的修正案中，擴大原本法案適用的障礙範圍。",
+      "2000年至今是我國身心障礙福利政策與國際接軌的時期。",
+      "2007 年臺灣通過「身心障礙者權益保障法」納入 ICF。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.629Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "9411e0958b07adf26af6d58d44f489b7e97c07697697adcf98ef970401cc1af2",
+    "question": "下列有關CRPD批准流程的敘述何者正確?",
+    "options": [
+      "國家承諾公約是指讓公約的規範取得某種國內法的效力，或是透過立法轉化為國內法。",
+      "涉及公約批准單位的有部會、國會、法院、身心障礙者組織等。",
+      "大陸法系國家，透過行政法令批准，不需經過立法部門正式表決。",
+      "透過全國性會議廣泛的協商，凝聚各界的共識，可影響公約的批准。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.639Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "53ddc4bb5dedc3191cd5fe412c8fe72bfe52b5801a285d6715c7165626fecf1a",
+    "question": "下列有關CRPD執行與落實的敘述何者正確?",
+    "options": [
+      "國家層級的監督通常由政府獨立機制以及公民社會共同監測。",
+      "依據CRPD規定，國家報告在審議之後，需擬定結論性意見。",
+      "身心障礙者如果權利受到侵犯，可以以個人名義向聯合國身心障礙者權利委員會提出申訴。",
+      "締約國須採取所有適當措施，實施公約確認之權利。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.640Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "aaa9e8f2546838d12496840e6f6f36c6dfd7d9cb990ba93d13022e60c28fb813",
+    "question": "身心障礙是指個人生理或心理因素上受到了損傷，導致與外在環境互動上受到限制。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.642Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f26798b52d8c4f20ba6d22b653a8e3d4344746d8ebf0739e9d582a810fab99bc",
+    "question": "下列有關障礙產生的敘述，何者正確？",
+    "options": [
+      "環境不友善",
+      "身心障礙相關的制度設計不健全。",
+      "忽略身心障礙者權利。",
+      "障礙屬於個人問題，與社會環境無關。"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.643Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "c9d960bf23941db5aaef5c81bfc1050fc688d79eec9325c0f4aeb34187acb107",
+    "question": "下列哪幾項不是身心障礙者在公共教育場所合適的使用環境？",
+    "options": [
+      "教室內設置身心障礙升降桌",
+      "無障礙廁所於門檻處崁入止水墩",
+      "增設電梯語音報讀系統",
+      "校園內間距狹窄的路阻"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:17.644Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
