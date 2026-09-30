@@ -586,5 +586,41 @@
       "checked_at": "2026-09-18T02:42:30.865Z"
     },
     "verification_status": "source_supported"
+  },
+  {
+    "id": "91bf14cba5bbd1cc7fbf55d719ea6a25f04bc50092c10f38f28fbb250897df3a",
+    "question": "許多新的主意和構想都是源自於德國的設計，由其是在戰爭的武器發展上，此說明德國當時對於武器系統發展具有什麼特色?",
+    "options": [
+      "具有極佳的工程的能力",
+      "具有獨特的創見",
+      "具有極佳的仿製能力",
+      "具有雄厚的人力與物力"
+    ],
+    "type": "多選",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:03:07.836Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "79b1b5c920f5ecc47a48247244737327814e05ecae8a99b920342012a98629ac",
+    "question": "「雲豹甲車」為我國自主研發的陸軍戰鬥載具",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國防科技與國防自主",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T18:03:07.839Z",
+    "review_state": "candidate_ready"
   }
 ]
