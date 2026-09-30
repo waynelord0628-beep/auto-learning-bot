@@ -1,0 +1,192 @@
+[
+  {
+    "id": "8f74d5a221260cff04a1f1d3b44b5389fb4de1949855a6b5dcc9f815e983345c",
+    "question": "根據本課程業者實務案例，企業在採用混合式架構時，會面臨哪一個主要問題？",
+    "options": [
+      "安全風險增加",
+      "網路流量減少",
+      "應用程式數量減少",
+      "成本降低"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安全風險增加",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.183Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d9ead04a8840ef05a0bf70961927347bb4a47fcf9b9281ddf2c8cba7a1927196",
+    "question": "何者是多雲管理策略的重點？",
+    "options": [
+      "簡易性",
+      "可視化",
+      "自動化",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.202Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "df3786447eb8215406c3031e7232cb4659b6c0e6ff1c87676cfcef1bfb71220e",
+    "question": "根據本課程內容，FinOps是指什麼？",
+    "options": [
+      "金融科技",
+      "財務報表",
+      "純網銀平台",
+      "結合財務管理原則與雲端工程"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "結合財務管理原則與雲端工程",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.206Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5e703aee4f9b5c777b113cc79c47c58cd1a3bf5858cce5438237270285e113c1",
+    "question": "根據本課程業者實務案例，遊戲產業使用雲端服務可以帶來哪些好處？",
+    "options": [
+      "降低開發成本",
+      "提高開發效率",
+      "擴大發行範圍",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.240Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0bc140f1dce069a0d7bf6f465c34b32521dbeba5a8866635bb2e9deb52b264cd",
+    "question": "根據本課程業者實務案例，公司引進了哪個概念來協助降低雲端成本、提高資源利用率？",
+    "options": [
+      "DevOps",
+      "FinOps",
+      "SecOps",
+      "NetOps"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "FinOps",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.258Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1a6e51eba0ddcbe617b15e7f939c3e7af584fad0b90149e2780e94adb05a5a78",
+    "question": "何種方式能降低混合雲管理的複雜性？",
+    "options": [
+      "一站式管理",
+      "孤島式管理",
+      "走動式管理",
+      "敏捷式管理"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一站式管理",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.263Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6dd9fbe0a3d3bad6fc765720fa0cd625778daba5b113861b76eb805a43d0e63a",
+    "question": "根據本課程內容，FinOps的主要作用是什麼？",
+    "options": [
+      "取代傳統財務管理",
+      "提高雲端服務速度",
+      "做出配置和管理雲端成本的適當決策",
+      "減少資料中心數量"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "做出配置和管理雲端成本的適當決策",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.285Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2cdf983937d3318e5079d5a3ce1362a565cddacb6d47b0eca22560f9ef2864f9",
+    "question": "根據本課程內容，下列何者是混合雲環境中面臨的主要挑戰？",
+    "options": [
+      "管理成本降低",
+      "配置管理複雜性增加",
+      "資訊安全政策統一管理簡單",
+      "應用程式數量減少"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "配置管理複雜性增加",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.289Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "afc4ea3372619d3a9b68f10b0bda7bfaf3a228493a3c1c09774818d92d0ccd21",
+    "question": "根據本課程業者實務案例，混合式架構未來的主要安全挑戰是什麼？",
+    "options": [
+      "運維成本降低",
+      "安全配置簡單",
+      "雲供應商安全能力參差不齊",
+      "應用程式數量減少"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "雲供應商安全能力參差不齊",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.290Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5ad9e3310eac47c3ff0c16d99ca360643e2f1078d3fc9b12af7d3159346260fc",
+    "question": "根據本課程業者實務案例，公司委外雲端服務的潛在風險不包括？",
+    "options": [
+      "依賴第三方",
+      "安全風險",
+      "管理複雜性",
+      "硬體維護"
+    ],
+    "type": "單選",
+    "course": "洞見機遇-雲端管理與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "硬體維護",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T14:23:32.291Z",
+    "review_state": "candidate_ready"
+  }
+]
