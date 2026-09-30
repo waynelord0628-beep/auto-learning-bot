@@ -296,5 +296,58 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:44:17.644Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "8685194d9f5d6099a2cb1f2d789c63186a152785797b04923f49eb91cbcf32ed",
+    "question": "個人自由權利是指對各種不同程度與類別的障礙者，皆提供支持與服務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:47.765Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2cda76ce6fae8c7dc55008c4f69bc4fbf38ba110aa627f85958194fcb3a622c5",
+    "question": "歧視是因為人與人之間特質上的差異不被尊重所造成的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:47.768Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7fbc751eef977d3afbb46f7887103e2ec7d507d245c341bda99726a6e59ef218",
+    "question": "請選出和我們享有同樣基本人權的身心障礙者",
+    "options": [
+      "肢體障礙",
+      "智能障礙",
+      "精神障礙",
+      "感官障礙"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T20:44:47.772Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
