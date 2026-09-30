@@ -157,5 +157,60 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.189Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf55e87555a5e90ceb009e2463aca3721bf18dbc97ab98f0fdf4d0e097fb4718",
+    "question": "下列何者非屬兩公約的具體內容?",
+    "options": [
+      "禁止奴隸與強制勞動",
+      "承認人民享有擁槍權",
+      "接受公正裁判之權利",
+      "思想、良心和宗教自由"
+    ],
+    "type": "單選",
+    "course": "人權與國際公約",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "承認人民享有擁槍權",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T10:04:13.325Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8b1b0703e7c1b294ee335390ffbd59a77a25a2305264ca071dc4c9e7b77b10ef",
+    "question": "兒童權利公約(CRC)定義的兒童是指年齡20歲以下的每一個人。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "人權與國際公約",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T10:04:13.328Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d51b554cd1136e48fa6fd99a12a11705dcb27ae40c22164a33ae540964ff8141",
+    "question": "若人權保障得加以限制，其必須建立在以下哪項前提之下?",
+    "options": [
+      "確保對他人權利和自由的尊重",
+      "符合民主社會中道德與公共秩序",
+      "符合民主社會中普遍福利的正當需要",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "人權與國際公約",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T10:04:13.329Z",
+    "review_state": "candidate_ready"
   }
 ]
