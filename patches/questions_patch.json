@@ -58968,5 +58968,30 @@
       "model": null,
       "checked_at": "2026-09-30T06:20:50.520Z"
     }
+  },
+  {
+    "question": "臺北榮總為培養團隊的安全開發能力，採取下列何種做法？",
+    "type": "單選",
+    "options": [
+      "僱用資深工程師傳承經驗",
+      "建置訓練平台，提供課程培訓",
+      "委外開發測試",
+      "舉辦內部資安達人競賽"
+    ],
+    "course": "大型醫院的醫療資安經驗分享",
+    "answer": "建置訓練平台，提供課程培訓",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "建置訓練平台，提供課程培訓",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T11:19:46.362Z"
+    }
   }
 ]
