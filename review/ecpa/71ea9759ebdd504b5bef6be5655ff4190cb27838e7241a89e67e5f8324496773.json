@@ -334,5 +334,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:02:22.411Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9923df4b80ef355c4533de75b99c7e3a063b2340469eb4d27b0bf88a7f8ba08b",
+    "question": "當 AI 輔助診斷出現偏差時，根據倫理問責框架，誰仍然保有「最終決定權與臨床責任」？",
+    "options": [
+      "醫療 AI 開發軟體廠商",
+      "負責操作的醫學系實習學生",
+      "醫院的資訊室工程師",
+      "負責診斷的專業醫師"
+    ],
+    "type": "單選",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "負責診斷的專業醫師",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T06:24:22.731Z",
+    "review_state": "candidate_ready"
   }
 ]
