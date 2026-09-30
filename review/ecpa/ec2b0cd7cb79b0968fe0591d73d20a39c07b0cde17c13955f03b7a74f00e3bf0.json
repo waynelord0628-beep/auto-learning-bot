@@ -1,0 +1,193 @@
+[
+  {
+    "id": "7c239310a9f1d6e696597e41e69d85a4bdbc1c385620fd698db299ecd4359518",
+    "question": "根據本課程內容，企業採用多雲架構的主要原因是什麼？",
+    "options": [
+      "降低成本",
+      "減少人力成本",
+      "提高資源彈性和資料安全",
+      "提高網絡速度"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提高資源彈性和資料安全",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.334Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3d63b56b77712859ddb539bb7f672cd0f2ec7969b51c296244a3e7e7acb83c4d",
+    "question": "根據本課程內容，雲端服務商在安全管理中負責什麼？",
+    "options": [
+      "用戶密碼管理",
+      "所有安全事項",
+      "應用程式安全",
+      "底層基礎架構的安全"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "底層基礎架構的安全",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.337Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d7682623b4830c7119124126edf8b1c8c0dbd530e3726e22f3cfe8f21b576f2",
+    "question": "根據本課程內容，下列哪項不是推動雲端運算發展的主要因素？",
+    "options": [
+      "人工智慧/機器學習",
+      "邊緣運算",
+      "混合雲與多雲架構",
+      "區塊鏈技術"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "區塊鏈技術",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.337Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "52c2f78ca99d61635680c8287907eea616570f4266cc73f4a9b9464ba548542b",
+    "question": "根據本課程內容，雲端資訊安全的關鍵議題之一是什麼？",
+    "options": [
+      "雲端儲存容量",
+      "雲端平台流量",
+      "雲端運算速度",
+      "零信任原則"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "零信任原則",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.338Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "43d8f2cee70463117266f15304661634b32b6facf5406df9cc50deebbb1b4526",
+    "question": "根據本課程內容，CNAPP(雲端原生應用程式保護平台)最初由 Gartner提出，強調企業需要專注於雲端原生安全解決方案，為應用程式安全提供完整的生命週期方法。CNAPP的目標是將安全性\"左移\"到什麼階段？",
+    "options": [
+      "應用系統開發的早期階段",
+      "應用系統運行階段",
+      "應用系統測試階段",
+      "應用系統維護階段"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "應用系統開發的早期階段",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.338Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "df3786447eb8215406c3031e7232cb4659b6c0e6ff1c87676cfcef1bfb71220e",
+    "question": "根據本課程內容，FinOps是指什麼？",
+    "options": [
+      "金融科技",
+      "財務報表",
+      "純網銀平台",
+      "結合財務管理原則與雲端工程"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "結合財務管理原則與雲端工程",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.339Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bfadee27d8782011047c04b97309aedea034bc81a83ccf69190bf7d31b894a97",
+    "question": "根據本課程內容，邊緣運算主要應用在哪些情境？",
+    "options": [
+      "長期資料儲存",
+      "即時反饋與低延遲場景",
+      "文件檔案管理",
+      "資料異地備援"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "即時反饋與低延遲場景",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.339Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "513836015356a88e1e1a2ea9811eed9045929a62bad9b6918b8249a7352937cb",
+    "question": "根據本課程內容，FinOps的主要作用是什麼？",
+    "options": [
+      "取代傳統財務管理",
+      "提高雲端服務速度",
+      "做出配置和管理雲端成本的明智決策",
+      "減少資料中心數量"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "做出配置和管理雲端成本的明智決策",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.340Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "71f9c07e74f64a0b5dbb4b7d89a3459a3c3601cc059b9c55b4a5335f256b3cb7",
+    "question": "ISO/IEC 27001:2022標準主要針對什麼？",
+    "options": [
+      "雲端運算速度",
+      "雲端品質管理系統",
+      "雲端服務風險評估",
+      "資訊安全管理機制"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資訊安全管理機制",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.340Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2ce545d21c65688e75c5819d3aec41f168fc1c28044a1c244b3381159779cf7e",
+    "question": "根據影片說明，在雲端安全的共同分擔原則中，企業負責什麼？",
+    "options": [
+      "應用程式",
+      "資料和設定的安全",
+      "底層基礎架構安全",
+      "所有安全事項",
+      "僅負責應用程式安全"
+    ],
+    "type": "單選",
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資料和設定的安全",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T15:37:23.340Z",
+    "review_state": "candidate_ready"
+  }
+]
