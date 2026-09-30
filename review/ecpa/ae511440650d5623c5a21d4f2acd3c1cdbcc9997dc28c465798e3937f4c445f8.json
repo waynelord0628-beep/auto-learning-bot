@@ -154,13 +154,30 @@
     ],
     "type": "單選",
     "course": "大型醫院的醫療資安經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "網路零信任架構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T16:29:34.370Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-07T11:20:00.739Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "網路零信任架構",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-09-30T11:19:59.895Z"
+    },
+    "resolved_answer": "網路零信任架構"
   },
   {
     "id": "e069fc7c166b8a4cb3ce4254d9f4b6cdbacf1316d340a3691a6e94423c2a1aa5",
