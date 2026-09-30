@@ -340,5 +340,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:41:08.236Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ee4f486598fa7861bbecbfd478be29eedf3643121fc29010fc9123ffa1f376c",
+    "question": "下列何者是數位發展部推出的政府短網址服務?",
+    "options": [
+      "https://url-gov.com.tw",
+      "https://urlg0v.com.tw",
+      "https://url.com",
+      "https://url.gov.tw"
+    ],
+    "type": "單選",
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "https://url.gov.tw",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T17:22:23.753Z",
+    "review_state": "candidate_ready"
   }
 ]
