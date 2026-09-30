@@ -1,0 +1,193 @@
+[
+  {
+    "id": "031c34bc86f5f034b89cfba4b47845de11708815c34ee2446f0ce3de1f0ec1b2",
+    "question": "請問聯發科建置數據分析平台時所面臨的挑戰，除了對產品的體積、種類、研發速度外，還有哪些挑戰呢？",
+    "options": [
+      "數據孤島、業務需求的不確定性",
+      "區域擴展性、交貨週期長",
+      "前期營運高成本",
+      "安全性控制",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.650Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "976c091264c8db9e3aecdacb54a0589791164b59e445166f787f623118ce86ae",
+    "question": "請問聯發科導入混合雲至數據中台內，可提供哪些服務模組化項目，給不同層級者進行彈性靈活運用及管控？",
+    "options": [
+      "Cloud MPP Data Warehoue",
+      "Cloud Data Pipeline",
+      "Cloud security",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.652Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5902307f14837bbbce016d95de3f9481567c6f33c2b6a1db2d3e529246d87cfb",
+    "question": "聯發科為世界第三大的IC設計公司，核心業務有哪些？",
+    "options": [
+      "行動通訊、智慧家庭、車用電子",
+      "行動通訊、智慧城市、車用電子",
+      "行動通訊、智慧家庭、智慧城市"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "行動通訊、智慧家庭、車用電子",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.653Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c96fc66547eb6c961459caefe12266c49584472d161657f7d28b180c05d8d5fe",
+    "question": "聯發科以研發設計聞名，在自建雲架構下，引進合作夥伴的公有雲來建置混合雲環境，同時解決RD研發設計從前期電路設計、性能分析到產生晶片電路圖且可大量進行重覆的設計驗證，請問常使用什麼工具？",
+    "options": [
+      "數據分析",
+      "EDA工具",
+      "FMEA工具"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "EDA工具",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.657Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "66e952bef2f1cf536defca6bbb159517ee7473a5b90e3d77036c1f694f9bc368",
+    "question": "請問聯發科所建置的數據分析基礎架構內容，包含哪一些呢？",
+    "options": [
+      "數據體系",
+      "數據開發",
+      "數據治理",
+      "數據服務",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.659Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fa4e5308804788c9d11613d33c4b1667dfbefadb5ec7bb88da0c8b8cbaeb80e5",
+    "question": "聯發科的IT轉型工程中，建置何種平台，以強化模組化、數位化發展以雲端為骨幹、資料為血肉，推動組織從上到下擁抱Data-Driven思維？",
+    "options": [
+      "數據中台",
+      "業務前台",
+      "後台應用"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "數據中台",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.664Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "132b9dbcf5700719f096155265a683480b43be78330b21d9740c4263df22f30e",
+    "question": "聯發科建議導入雲計算架構，可為公司帶來哪些益處？",
+    "options": [
+      "提升營運的可擴展性和靈活性",
+      "專注基礎設施營運的價值",
+      "正確的雲安全設計及程序條件",
+      "結合雲供應鏈合作夥伴資源實現雲計算運用",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.685Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff1a7bab860c0d53c06ab2323047545b6f8782ed3c3cb2e7e40fe4f07ab83fdf",
+    "question": "請問聯發科建置數據分析平台時，所面對的能力挑戰，有哪些呢？",
+    "options": [
+      "單一事實來源、大容量的高效能",
+      "多數據來源及格式",
+      "快速靈活配置性",
+      "成本效益、安全性",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.690Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "08dae62a2525bfee0ca93933843ff8304115e771b4ae4269ece90af3483c74f5",
+    "question": "請問聯發科導入混合雲考量的關鍵性需求，有哪些呢？",
+    "options": [
+      "使用戶的體驗",
+      "數據傳輸速度",
+      "資源的效率性",
+      "數據的安全性",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.694Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8ae1df60033df35fb6f739158869473b5f01e23e5f864e291e35e38dab7cb7b3",
+    "question": "請問雲端計算服務模型，可分為哪三種？",
+    "options": [
+      "基礎架構即服務、平台即服務、軟體即服務",
+      "公有雲、私有雲、混合雲",
+      "雲端、混合、內部部署"
+    ],
+    "type": "單選",
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "基礎架構即服務、平台即服務、軟體即服務",
+    "source": "ai_unverified",
+    "created_at": "2026-09-30T04:49:42.711Z",
+    "review_state": "candidate_ready"
+  }
+]
