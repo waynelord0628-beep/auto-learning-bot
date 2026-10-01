@@ -59558,5 +59558,30 @@
       "model": null,
       "checked_at": "2026-10-01T11:19:59.810Z"
     }
+  },
+  {
+    "question": "生成式AI相較於分辨式AI，在醫療場域中更擅長？",
+    "type": "單選",
+    "options": [
+      "辨識影像資料",
+      "病患身份驗證",
+      "產生語意診斷報告",
+      "執行決策"
+    ],
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "answer": "產生語意診斷報告",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "產生語意診斷報告",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T12:19:49.617Z"
+    }
   }
 ]

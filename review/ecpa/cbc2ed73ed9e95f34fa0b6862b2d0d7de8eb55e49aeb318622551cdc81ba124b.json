@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "產生語意診斷報告",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-08T12:19:50.445Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "產生語意診斷報告",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T12:19:49.617Z"
+    },
+    "resolved_answer": "產生語意診斷報告"
   },
   {
     "id": "b7d54a8d3726574d771df810dd33b6bfdb7c0d3e0dba1a01313adc0cb2304086",
