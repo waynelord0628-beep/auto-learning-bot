@@ -19,5 +19,179 @@
     "verify_policy": "course_first_v1",
     "verify_after": "2026-10-01T08:19:52.904Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "2d35d2f6e97fcd8dbfc8e8718824cffe8cff16ed3a2489f6a4b377845bbb71e3",
+    "question": "雇主不得因員工揭弊而對其減薪或降調。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.147Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0904b11681da2b45a0f8e48e4dfe1bda0d1887b6d02cd755cb51c222335681fb",
+    "question": "揭弊者於原受理機關揭弊後，未於多久內獲受理調查通知，經促請仍未獲回應時，得向民意代表等再行揭弊？",
+    "options": [
+      "10日",
+      "20日",
+      "30日",
+      "40日"
+    ],
+    "type": "單選",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "30日",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.150Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "61655b6141a602e6992c2d06a2bffbbd780c2f3d4ad2312a6603ef855c3edc70",
+    "question": "公益揭弊者保護法之立法目的包含有效發現、防止及追究重大不法行為。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.151Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a4a53329bc30b710b24fb322d802c8891bb631d383cbbbb2bf3924d20688cb9f",
+    "question": "下列何者不是法定受理揭弊機關？",
+    "options": [
+      "檢察機關",
+      "司法警察機關",
+      "政風機構",
+      "一般私人企業"
+    ],
+    "type": "單選",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一般私人企業",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.152Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62a626676e093d3249d57947a7f95de95884a46a76d32f0c1b10a581bc53843c",
+    "question": "受理揭弊機關對揭弊內容依法負有保密義務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.153Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9570d449be35b2abc7253157e846506c57e6ffe52be5b5cbe50b05bff5fc0164",
+    "question": "公部門之政府機關（構）主管、首長或其指定單位、人員屬於本法規定之受理揭弊機關。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.154Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c37db66818173ca02c8f4b57c111cc428584cb851c7d2a60701e51f330dbbbbf",
+    "question": "受理揭弊機關認非其主管事項時，得逕予結案而無須移送。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a42729a0d7a6c21d1111521fba899daff1cb36eb263a70a06cd9145f9875fe4c",
+    "question": "違反政府採購法之行為，屬於本法所稱弊案範圍之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "76265d50dd7cde65dcc91cbf0613f96496a9dfcfdf12cc9ee006ea8131fe76b7",
+    "question": "如果已調任其他公務機關，能否揭發前機關弊案？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.158Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0faeb03e76bd65f3d74da5c8f8e9b7582c258f25a2872aa8f50305fe98cec440",
+    "question": "公務員故意洩漏揭弊者身分者，負刑事責任。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T15:10:09.170Z",
+    "review_state": "candidate_ready"
   }
 ]
