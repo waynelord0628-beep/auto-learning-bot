@@ -1,0 +1,192 @@
+[
+  {
+    "id": "a563e14a45f36d6f70bf8991068cd172c6863940bc9eb429263a801e2047586c",
+    "question": "為提高「憑證竊取」的成功率且不製造太多流量與紀錄（避免防禦機制發現），AI 建議駭客改用哪一種主動攻擊方法？",
+    "options": [
+      "PetitPotam 攻擊（強制伺服器進行身分驗證）",
+      "批量暴力破解密碼（Brute Force）",
+      "建立名稱誘人的虛假共享資料夾（被動等待）",
+      "直接利用 vulmap 腳本強行取得 Root 權限"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建立名稱誘人的虛假共享資料夾（被動等待）",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.141Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f1ec2dd09e607ae34ef64e22f776c0841969a4f0490316eee6468b69d42d937",
+    "question": "企業在將 AI 導入工作流程的「營運化階段」中，最可能面臨的資安挑戰與對應的防護措施為何？",
+    "options": [
+      "挑戰為資料外洩；防護措施為 API 閘道",
+      "挑戰為合規性落差；防護措施為防禦零日漏洞",
+      "挑戰為模型中毒與供應鏈風險；防護措施為保護模型與部署防護網",
+      "挑戰為複雜的攻擊；防護措施為持續監控與自動化回應"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "挑戰為模型中毒與供應鏈風險；防護措施為保護模型與部署防護網",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.143Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "122f51e5c6e7e99a4aa1d2df0e6343ebecf69ea90ba98244e3753705162cb40d",
+    "question": "當企業將 AI 整合至基礎架構，進入「企業規模應用階段」時，其面臨的主要挑戰與應採取的防護措施為何？",
+    "options": [
+      "挑戰為資料外洩；防護措施為安全資料 + API 閘道",
+      "挑戰為模型中毒；防護措施為保護模型 + 部署防護網",
+      "挑戰為進階漏洞利用與合規性落差；防護措施為防禦零日漏洞利用與保護使用者",
+      "挑戰為複雜的攻擊；防護措施為整體態勢管理與自動化回應"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "挑戰為進階漏洞利用與合規性落差；防護措施為防禦零日漏洞利用與保護使用者",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.145Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "418755887d7004047b0c191378eb34f8dac7d472b85eebca21ba404cc37d2178",
+    "question": "「智慧防禦新紀元」提到未來防禦的三大發展特徵，下列哪一項「不屬於」這三大特徵？",
+    "options": [
+      "自主化 Autonomous",
+      "主動化 Proactive",
+      "集中化 Centralized",
+      "客製化 Customizable"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "集中化 Centralized",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.146Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cc94c8a4eea85654070d9c47924843d9d3b06271fc8aa6b2f2bea11ee9864c1d",
+    "question": "真實駭侵案例中，駭客是如何欺騙 Claude 協助其連線至政府系統資料庫？",
+    "options": [
+      "駭客向 AI 提供了偽造的合法的授權文件合約",
+      "駭客聲稱自己是管理員並擁有帳密，欺騙 AI 正在進行政府授權的任務",
+      "駭客強行修改了 AI 的系統原始碼與安全設定值",
+      "駭客利用 SQL 注入漏洞繞過了 AI 的身分驗證"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "駭客聲稱自己是管理員並擁有帳密，欺騙 AI 正在進行政府授權的任務",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.147Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b81ac9c007cb5834dfca722e78f4c2da41edc687156bbbe23e77e6778646efcb",
+    "question": "在檢查程式碼時，出現何種特徵可能暗示該後門程式是由 AI 生成的？",
+    "options": [
+      "程式碼中包含大量的 SQL 查詢指令",
+      "程式碼中使用了 Emoji（表情符號）",
+      "程式碼完全沒有任何縮排與註解",
+      "程式碼長度超過 10,000 行以上"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "程式碼完全沒有任何縮排與註解",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.148Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "35b091075e15acc0f1228741654cfbcf4aa90536d1d3eaaa4b81d9b090da9ed3",
+    "question": "利用 AI 進行資安風險管理時，透過部署 Sensor 與 AI 自動關聯，可以做到「網路曝險管理」（Cyber Risk Exposure Management），其核心價值在於達到什麼效果？",
+    "options": [
+      "徹底消除企業所有的網路埠口與外部連接",
+      "看得到、可管理、有順序、可操作",
+      "能夠百分之百取代人類決策並自動開除不合規員工",
+      "限制並阻斷企業內部所有的 AI 應用實驗"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "看得到、可管理、有順序、可操作",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.150Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "317e5b036acc48bdf5fa8790b550153d9f946850e009dc59bc44a8e3c3ab98c2",
+    "question": "關於 AI 時代下的社交工程攻擊，其主要展現出何種新型威脅特徵？",
+    "options": [
+      "攻擊範圍更大但精準度降低",
+      "高度客製化與精準誘騙",
+      "僅能使用純文字進行欺騙",
+      "容易被傳統靜態特徵碼技術完全封鎖"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高度客製化與精準誘騙",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.151Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2719edbb70d70109ba490dd1f40eafaa77bc28e3ba7f6d89d367af79250cc7f1",
+    "question": "AI 自主攻擊代理（Autonomous Attack Agents）之所以強大，主要因為其具備何種自動化行為？",
+    "options": [
+      "必須完全依賴人類駭客逐字輸入攻擊指令",
+      "只能執行單一且固定的弱點掃描任務",
+      "能自主規劃攻擊步驟、持續測試與調整策略",
+      "僅能進行靜態分析而無法進行橫向移動"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "能自主規劃攻擊步驟、持續測試與調整策略",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.152Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9441e5d8e368106c3204b566fc79a5a361a31e09b1326a46a43bb2cf5046111b",
+    "question": "在 AI 賦能的資安平台中，「攻擊路徑預測（Attack Path Prediction）」的核心任務主要不包含下列何者？",
+    "options": [
+      "發掘攻擊路徑",
+      "判定優先順序",
+      "找出關鍵節點",
+      "自動替換企業內部所有的防火牆硬體"
+    ],
+    "type": "單選",
+    "course": "智慧防禦新紀元：建立「主動賦能、安全護欄」的AI資安防護網",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自動替換企業內部所有的防火牆硬體",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:21:20.153Z",
+    "review_state": "candidate_ready"
+  }
+]
