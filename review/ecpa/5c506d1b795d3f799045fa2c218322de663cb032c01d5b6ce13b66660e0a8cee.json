@@ -317,5 +317,63 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.570Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d6f87d718fdd457d44596934618b345e5374df3088143b8cd62bd73ee870265",
+    "question": "自1950年3月蔣中正「復行視事」起，統治臺灣長達25年，其大力培養長子蔣經國接班，是眾所皆知的事實。蔣經國1978年就任中華民國第六任總統之後，一般認為其原本有意由誰作為未來接班人？",
+    "options": [
+      "行政院長孫運璿",
+      "國防部總政戰部主任王昇",
+      "臺灣警備總司令汪敬煦",
+      "臺灣省主席李登輝",
+      "參謀總長郝柏村"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:44.336Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "77ffe647f1c5a27f434fae7e1d1386ca59eda96c8b24bff12abe12e543df1c98",
+    "question": "劉宜良之所以被中華民國情報局認定為叛徒，原因之一是撰寫出版了誰的傳記？",
+    "options": [
+      "蔣中正傳",
+      "蔣經國傳",
+      "宋美齡傳",
+      "李宗仁傳"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "李宗仁傳",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:44.337Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "269076b7703c7062d07767ea1c532d9fd7d20576d571c5ad2ecc70adc050f66c",
+    "question": "承上題，在1988年1月20日的國民黨中常會上，因為誰的退席抗議，使得推舉李登輝代理黨主席的提案得以順利提出？",
+    "options": [
+      "李煥",
+      "俞國華",
+      "宋楚瑜",
+      "連戰"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "李煥",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:44.338Z",
+    "review_state": "candidate_ready"
   }
 ]
