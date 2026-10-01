@@ -349,5 +349,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:44:47.772Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "332a38e18fa3f46cfed0535145898978f06956d4921d93fc46ca536d3a241965",
+    "question": "CRPD目的是確保所有身心障礙者享有所有人權與基本自由並尊重身心障礙者固有的尊嚴。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T10:16:05.304Z",
+    "review_state": "candidate_ready"
   }
 ]
