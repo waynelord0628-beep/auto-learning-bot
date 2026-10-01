@@ -116,13 +116,30 @@
     ],
     "type": "單選",
     "course": "快樂漁夫 夢想實現【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Leo will mark all the harbors he goes to in the future on this painting.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T14:45:32.415Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-08T03:19:56.265Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Leo will mark all the harbors he goes to in the future on this painting.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697801",
+          "title": "快樂漁夫 夢想實現【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T03:19:55.218Z"
+    },
+    "resolved_answer": "Leo will mark all the harbors he goes to in the future on this painting."
   },
   {
     "id": "65dbef4d0ea7b0f8c6a5d260ddd57821d665f5bcaa982e46ec054f8f95f9ec53",
