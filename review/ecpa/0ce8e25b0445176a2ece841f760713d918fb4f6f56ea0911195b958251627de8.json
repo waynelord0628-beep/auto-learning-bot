@@ -183,5 +183,138 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.958Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4810c30503159df033a2f096498e76b15185b571c440911f9da0155197382974",
+    "question": "食品原材料分裝後，應標示內容物、製造或分裝日期、有效期限等。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.026Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e877cf3a4df89747ac00e9f8ff26797be65846dc0496387a1d1181a695852cd9",
+    "question": "下列有關散裝食品之特性，何者為非?",
+    "options": [
+      "非以擴大銷售範圍為目的",
+      "不具啟封辨識性",
+      "可延長保存期限",
+      "非密封"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可延長保存期限",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.027Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c37e30a0053dc4036609981ade85fd1e4decfeaa37a5f74598e7f6fe5e6469bb",
+    "question": "食品從業人員健康檢查下列何者為非?",
+    "options": [
+      "傷寒",
+      "胸部X光",
+      "A型肝炎",
+      "B型肝炎",
+      "手部皮膚病"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "胸部X光",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.027Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dfa96be8a722f34301774d2ae4f4e5dc21b6f6018e5ac66005988e97bfa39d33",
+    "question": "有關食品業者應保存產品原材料、半成品及成品來源文件之規定，下列何者正確?",
+    "options": [
+      "業者僅能以書面方式保存文件",
+      "該文件應載明收貨日期或批號",
+      "收貨之原材料、半成品及成品之來源憑證或經供應者簽章紀錄等文件至少五年",
+      "所謂食品業者不包含食品器具、食品容器或包裝、食品用洗潔劑之製造業者",
+      "即使產品有效期限僅為1年或2年，來源文件仍應保存至少五年"
+    ],
+    "type": "多選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.028Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "9c437a410c1a76ca6bf8e980f55435e8db17202c0e83cf649bea286eacfda8aa",
+    "question": "下列有關包裝食品之特性，何者為非?&nbsp;",
+    "options": [
+      "非以擴大銷售範圍為目的",
+      "經拆封無法復原者",
+      "可延長保存期限",
+      "固定密封包裝"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "非以擴大銷售範圍為目的",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.029Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "61712587e4372fef23e8ac9183c0c0ca94496740a06df9ab0a428ff4c62f8418",
+    "question": "依據食品良好衛生規範準則第四條附表一之規範，工作或調理檯面，應至少保持多少米燭光以上?",
+    "options": [
+      "一百米燭光",
+      "二百米燭光",
+      "三百米燭光",
+      "四百米燭光"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "二百米燭光",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.030Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e8504e728f34fc8b5d7a9cd962ebb0e590085a57d3a2a996fd0ca0e66081610",
+    "question": "食品業者應落實自主管理，下列敘述何者為非?",
+    "options": [
+      "對產品之原材料、半成品或成品進行把關",
+      "應落實食品良好衛生規範(GHP)",
+      "發現產品可能有危害時應主動停止製造、加工、販賣及辦理回收，並通報主管機關",
+      "原材料來源與成品流向無須管理"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "原材料來源與成品流向無須管理",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:13:26.030Z",
+    "review_state": "candidate_ready"
   }
 ]
