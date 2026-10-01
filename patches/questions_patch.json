@@ -59262,5 +59262,30 @@
       "model": null,
       "checked_at": "2026-10-01T01:20:44.191Z"
     }
+  },
+  {
+    "question": "According to the picture, which adjective is the best one to describe the shape of the land?",
+    "type": "單選",
+    "options": [
+      "volcanic",
+      "rugged",
+      "glacial",
+      "deserted"
+    ],
+    "course": "穿越時光隧道 - 探秘大航海時代下的基隆",
+    "answer": "rugged",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "rugged",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T02:20:11.674Z"
+    }
   }
 ]
