@@ -93,5 +93,100 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:55:36.513Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "3bae66e3f6eb5bbefde43db83b69accb6f69f65c4ece6e2264a4efac8d7a0759",
+    "question": "「機敏資訊儲存或傳輸之加密管理措施，已訂定並落實檢視質化或量化衡量指標(如定期辦理機關內部抽查，確認加密管理措施之有效性與作業程序之合宜性等)，並檢視執行情形」，此選項之配分為幾分?",
+    "options": [
+      "1分",
+      "2分",
+      "3分",
+      "4分"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3分",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:56:24.153Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a3541ba2d4f5d4a8fdf3492b0f4623f06120e4394a71e4e8a0244cdaf85ade83",
+    "question": "依資通安全責任等級分級辦法，A、B級機關進行全部核心資通系統網站安全弱點掃描之頻率為何?",
+    "options": [
+      "A級每年四次;B級每年三次",
+      "A級每年三次;B級每年兩次",
+      "A級每年兩次;B級每年一次",
+      "A級每年一次;B級每年一次"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "A級每年四次;B級每年三次",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:56:24.154Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "030b264bcf5aebf10285cd6ebcdddc4ca3c035ee2b07cc5b976ecba5d831c3e8",
+    "question": "「針對○○○持續精進流程或執行方式」，指的是哪個成熟度等級的具體定義與實作描述?",
+    "options": [
+      "Level 2 符合法遵",
+      "Level 3 標準流程",
+      "Level 4 指標管理",
+      "Level 5 創新優化"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Level 3 標準流程",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:56:24.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "74e5375764636cba55cc10c685cdfe1e2183b1be4f21219f0bae10c1c4783fa1",
+    "question": "「資安風險評鑑及風險處理已訂定文件化程序規範，並落實執行」，此選項配分為幾分?",
+    "options": [
+      "2分",
+      "3分",
+      "4分",
+      "5分"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4分",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:56:24.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6cb8babcfa4470b3f9c9b9e4024a4aac8266710548ffc2f4ff0a8a818aa4e0ee",
+    "question": "「除正式作業環境已區隔，系統開發與測試環境亦已區隔，並檢討執行情形」，該選項配分為何?",
+    "options": [
+      "1分",
+      "2分",
+      "3分",
+      "4分"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2分",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:56:24.156Z",
+    "review_state": "candidate_ready"
   }
 ]
