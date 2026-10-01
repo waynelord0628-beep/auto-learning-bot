@@ -199,5 +199,123 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.042Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "fb0761d1ce3e551e02f85b09f0774c5db51f9979e14dcdf29681eb829ac8577c",
+    "question": "「黨禁」是臺灣威權統治時代的一道政治紅線，雖然沒有任何法律禁止組黨，但情治機關會以鎮壓手段阻止任何組黨之企圖。最著名的事例即是蔣中正執政時期的哪一個政治案件？",
+    "options": [
+      "孫立人案",
+      "泰源事件",
+      "臺大哲學系事件",
+      "雷震案"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "雷震案",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.565Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c2ac698187b727893b431fc3d945f8b8eea362396bdb9c411a73fd19618f1cfc",
+    "question": "中華民國政府自1949年起以涉及刑法內亂外患罪為由，嚴厲打擊中國共產黨之地下組織，史稱「白色恐怖」。在此期間，凡觸犯刑法內亂外患罪相關條文之涉嫌人，不論軍人或平民，一律送交軍事機關審判。此種違反憲法第九條之審判程序，係依據何種法律？（應選 3 項）",
+    "options": [
+      "戡亂時期檢肅匪諜條例",
+      "戒嚴法",
+      "陸海空軍刑法",
+      "國家總動員法",
+      "懲治叛亂條例"
+    ],
+    "type": "多選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.568Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e72f1d25be6cd58c1774d00a8dfd82223e89120b66b52ae4aac472d8f1094260",
+    "question": "1979年9月下旬《美麗島》雜誌即將出版第二期，為了協調各政府機關對此事之處理方式，由國民黨文化工作會(文工會)在該黨中央黨部召開「有關『美麗島』審處會議」，決議對該雜誌問題優先引用哪一項法律處理？",
+    "options": [
+      "著作權法",
+      "戒嚴法",
+      "懲治叛亂條例",
+      "出版法",
+      "集會遊行法"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "戒嚴法",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.568Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "54b058424f11f5f51ec44cabb7f000c8fd65fff948e7500bba8e29c96315c96f",
+    "question": "中華民國行憲後，僅有蔣中正總統連任三屆以上。請問蔣中正在何年連任第三任總統？",
+    "options": [
+      "民國48年",
+      "民國49年",
+      "民國50年",
+      "民國51年",
+      "民國52年"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民國50年",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.569Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3e908e485279a58ce66da5a82bda38e74df28c2b6e9876d2470ecbb129f3c631",
+    "question": "威權主義理論（Authoritarianism）於1960年代由美國政治學者Juan Linz所開創，其依據係哪一國家的歷史經驗？",
+    "options": [
+      "美國",
+      "阿根廷",
+      "西班牙",
+      "蘇聯"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "西班牙",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.569Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ac628c3e1a7b30fe2e1395a0f6bae92f8b20edcbc5904012bc69e500c9d9168",
+    "question": "中壢事件發生的背景是1977年11月的臺灣省各縣市長選舉。桃園縣由於何人脫黨參選該縣縣長，以至於選情緊繃？",
+    "options": [
+      "高玉樹",
+      "黃信介",
+      "林義雄",
+      "許信良",
+      "姚嘉文"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高玉樹",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:10:04.570Z",
+    "review_state": "candidate_ready"
   }
 ]
