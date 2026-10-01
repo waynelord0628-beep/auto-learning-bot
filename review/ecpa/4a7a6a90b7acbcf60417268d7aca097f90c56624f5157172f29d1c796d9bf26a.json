@@ -1,0 +1,97 @@
+[
+  {
+    "id": "00b5a8b4eb93fb1107b865f6164b0a359df63303023d438b3f4752b8a9c2f04f",
+    "question": "依資安責任等級分級辦法之應辦事項，資通安全責任等級B級公務機關，不須提交下列何項監控管理資料?",
+    "options": [
+      "進階持續性威脅攻擊措施",
+      "電子郵件過濾機制",
+      "入侵偵測及防禦機制",
+      "防毒軟體"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "進階持續性威脅攻擊措施",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:55:36.511Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5611a95a0fab5fe9e4e044acbe7710821b9515397644db9918d942b2711eb7f9",
+    "question": "知悉何種等級之資通安全事件後，由資通安全長召開會議研商相關事宜，並得請相關機關提供協助?",
+    "options": [
+      "第一級",
+      "第三級或第四級",
+      "第二級",
+      "第二級或第三級"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第三級或第四級",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:55:36.512Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9899ff91e638ed3cd4cc1478f539413ef12efb7eb022cdcf2879a9a11982f51e",
+    "question": "依據資通安全責任等級分級辦法，B級機關之資通安全專職人員，每年至少應有多少人接受多少小時的資通安全專業課程訓練或資通安全職能訓練?",
+    "options": [
+      "4名各3小時以上",
+      "4名各3小時以上",
+      "4名各12小時以上",
+      "2名各12小時以上"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:55:36.512Z",
+    "review_state": "awaiting_options"
+  },
+  {
+    "id": "ce561c4a2ab59c3372c55e914ccb9b76fe8e282bfc3ba3cae2af991de09aeb2c",
+    "question": "請問IT資安治理成熟度之架構，總共有幾個流程構面?",
+    "options": [
+      "9個",
+      "10個",
+      "11個",
+      "13個"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "10個",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:55:36.513Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c44ae5e76e1e7647c00744f2bb576dfd46c1d41ae684020ce1aa62e003e8b82f",
+    "question": "依資安責任等級分級辦法之應辦事項，資通安全健診包含下列何種項目?",
+    "options": [
+      "目錄服務系統設定",
+      "防火牆連線設定檢視",
+      "核心資通系統資料庫安全檢視",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:55:36.513Z",
+    "review_state": "candidate_ready"
+  }
+]
