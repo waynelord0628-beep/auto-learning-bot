@@ -16,7 +16,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-08T09:20:02.901Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "28de780fc2ffcc6419b7b91a9e6c2076bfc6ddfd60cd64d08ff93b7b4caa459b",
