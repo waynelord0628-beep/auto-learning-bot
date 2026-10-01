@@ -59583,5 +59583,30 @@
       "model": null,
       "checked_at": "2026-10-01T12:19:49.617Z"
     }
+  },
+  {
+    "question": "Vital NetZero主要用於什麼管理目的？",
+    "type": "單選",
+    "options": [
+      "物聯網醫材監控",
+      "財務報表",
+      "電子病歷系統",
+      "碳排放量與能源管理"
+    ],
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "answer": "碳排放量與能源管理",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "碳排放量與能源管理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T12:19:59.083Z"
+    }
   }
 ]
