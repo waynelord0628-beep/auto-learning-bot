@@ -152,13 +152,30 @@
     ],
     "type": "單選",
     "course": "深入走訪鰻魚養殖場，到底需要養多少隻鰻魚才能賺大錢呢？【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Baby eels often hide in the mud under the daylight.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:12:58.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-08T08:20:00.256Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Baby eels often hide in the mud under the daylight.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699721",
+          "title": "深入走訪鰻魚養殖場，到底需要養多少隻鰻魚才能賺大錢呢？【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T08:19:59.374Z"
+    },
+    "resolved_answer": "Baby eels often hide in the mud under the daylight."
   },
   {
     "id": "5b518a6f5de5b1c52a78d9e2ef2adeb48b77cb995fe52f1d1251b2b28dc95f3d",
