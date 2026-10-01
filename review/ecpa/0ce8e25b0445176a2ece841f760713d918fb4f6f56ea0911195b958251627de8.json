@@ -316,5 +316,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.030Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "38d682c0ed06fb7190027eb31ae41383a087535db192f2d9dfc9434608775964",
+    "question": "食品業者從事食品及其相關產品製造、加工、調配業務時建立之追溯追蹤系統，須包含之各管理項目，下列何者為非?",
+    "options": [
+      "原材料來源資訊",
+      "產品流向資訊",
+      "產品售價",
+      "具有效串聯產品來源及流向之必要性追溯追蹤管理資訊或紀錄"
+    ],
+    "type": "單選",
+    "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "產品售價",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T04:14:06.951Z",
+    "review_state": "candidate_ready"
   }
 ]
