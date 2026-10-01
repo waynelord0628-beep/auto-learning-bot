@@ -158,15 +158,32 @@
     ],
     "type": "單選",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "專業才能",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:54:43.233Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-24T11:19:38.469Z"
+    "retry_after": "2026-09-24T11:19:38.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-08T01:20:45.750Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "適才適用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-01T01:20:44.191Z"
+    },
+    "resolved_answer": "適才適用"
   },
   {
     "id": "47bc64b5bde15e28d21fdd80a44fcc77513a4486d5ca6a10e6f4a623114b7434",
