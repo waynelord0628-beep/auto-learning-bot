@@ -252,5 +252,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:51.964Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "63bc9c32b090278e145119e9f512be2933c62fc46cbf35345b6ef91ba1bd0c01",
+    "question": "關於前鎮區歷史上六大舊聚落的特色，哪一個舊聚落早期鄰近水岸，扮演港口物流鏈一環，並肩負著極具代表性的「船舶修繕與港務支援機能」？",
+    "options": [
+      "草衙",
+      "籬仔內",
+      "佛公",
+      "崗山仔"
+    ],
+    "type": "單選",
+    "course": "灣區智慧城-前鎮",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "佛公",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:45:37.708Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "abe10a79cffeaff78d78039a57f32eb2fb5eada4662f30c584cee9fd76b4f45c",
+    "question": "寬闊且綠意盎然的「時代大道」是以輕軌C4凱旋中華站為核心向外延伸，規劃有完善、友善的行人徒步環境，並常舉辦跨年晚會等大型活動。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "灣區智慧城-前鎮",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:45:37.709Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c033a7d6937036e84f15ea79b77c4a0f27a7b97be91f678cd4c323405c6a337f",
+    "question": "政府為了維護珍貴的國際級水岸景觀，特別規劃了寬達80至85公尺的帶狀水岸公園，這條綠帶如同「隱形護欄」，能嚴格管制並限制鄰近建築的高度與形式設計。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "灣區智慧城-前鎮",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T03:45:37.710Z",
+    "review_state": "candidate_ready"
   }
 ]
