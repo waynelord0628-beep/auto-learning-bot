@@ -188,5 +188,62 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.156Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "58596f9863d66df513723aeb9b3d5a5a81ecea511cc91571798d93370f99dd3f",
+    "question": "依資安責任等級分級辦法之應辦事項，資通安全責任等級A、B級機關，安全性檢測之「滲透測試」全部核心資通系統每隔多久應辦理幾次?",
+    "options": [
+      "A級每年兩次;B級每年一次",
+      "A級每年一次;B級每兩年一次",
+      "A級與B級皆每年一次",
+      "A級每半年一次;B級每年一次"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "A級每年兩次;B級每年一次",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:57:07.942Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bb2417651e509db930b26df9ab52a991ffbfefa9a659d86e97d9a7b2ccfb2d64",
+    "question": "依資安責任等級分級辦法之應辦事項，資通安全責任等級A、B級公務機關與關鍵基礎設施提供者，每年應辦理幾次內部資通安全稽核?",
+    "options": [
+      "A級每年一次;B級每年兩次",
+      "A級每年一次;B級每年一次",
+      "A級每年兩次;B級每年一次",
+      "A級每年一次;B級兩年一次"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "A級每年一次;B級每年一次",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:57:07.952Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9ae9089bad6e35665792a976d217d562f4ee0e8bdb5c49ebd15fca922b729c9d",
+    "question": "在系統發展生命週期中，資通系統上線前，至少應執行何項安全性測試?",
+    "options": [
+      "動態應用程式安全測試",
+      "紅隊演練",
+      "弱點掃描",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-01T01:57:07.964Z",
+    "review_state": "candidate_ready"
   }
 ]
