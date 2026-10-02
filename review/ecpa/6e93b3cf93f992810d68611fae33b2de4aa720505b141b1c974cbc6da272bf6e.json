@@ -102,5 +102,81 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T14:36:43.148Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f92bba2df2b64051d4331cae62642e1b7546d45ee6fb64cbb11e46fe66a82703",
+    "question": "機關電子媒體類檔案保存之溫度標準，以下何者正確？",
+    "options": [
+      "27℃以下",
+      "-4℃±1℃",
+      "20℃±2℃",
+      "10℃±1℃"
+    ],
+    "type": "單選",
+    "course": "B341紙質檔案複製與儲存",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "20℃±2℃",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T15:37:03.030Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9771602ca35e5e60d479670c841b23e53b2a06b798b064f7f5e70ee4b7e37959",
+    "question": "用接圖掃描相關注意事項，以下何者為非？",
+    "options": [
+      "檔案尺寸大於大圖掃描器的處理範圍",
+      "掃描內容須有部分重疊，掃描排列順序依次為由左至右、由下至上",
+      "以平台式掃描器區分數次掃描",
+      "紙質脆弱不適於大圖掃描器者"
+    ],
+    "type": "單選",
+    "course": "B341紙質檔案複製與儲存",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "檔案尺寸大於大圖掃描器的處理範圍",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T15:37:03.038Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0efd889737273aac90a7b192b7dc1ad9f1ad85a0af1557abce94c0b82d305eef",
+    "question": "機關執行檔案數位化，在衡量檔案重要性時，保存年限是重要考慮因素，以下何者不是應考量進行數位化的檔案？",
+    "options": [
+      "永久保存檔案",
+      "保存年限較長者",
+      "足以彰顯機關特色的檔案",
+      "保存年限為1年者"
+    ],
+    "type": "單選",
+    "course": "B341紙質檔案複製與儲存",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "保存年限為1年者",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T15:37:03.040Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9db4d8eca4d3d9c5b8976a98572efa855ccf4f84ba78006a4502d657c723657b",
+    "question": "各機關在進行檔案數位化前，必須評估檔案的主客觀條件，包括：",
+    "options": [
+      "檔案的重要性",
+      "檔案保存狀況",
+      "檔案使用需求",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "B341紙質檔案複製與儲存",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T15:37:03.043Z",
+    "review_state": "candidate_ready"
   }
 ]
