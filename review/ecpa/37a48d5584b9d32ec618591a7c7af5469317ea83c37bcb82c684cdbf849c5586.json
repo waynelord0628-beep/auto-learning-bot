@@ -161,5 +161,117 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.887Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "03527a063693bc10b099fba51cd02c96e85fe5a9a50e4d65cc47f0891f333f6f",
+    "question": "OT資產盤點除了OT設備外，也應包含IT與OT互連設備。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "96b792b1ee425b429933777a07a7b214eaa034921ffcb2286164397627f665aa",
+    "question": "下列何者不是OT資安治理成熟度評估的重要參考來源？",
+    "options": [
+      "C2M2",
+      "關鍵設施領域資安防護基準",
+      "政府資安治理成熟度評估",
+      "ISO 14001環境管理系統"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ISO 14001環境管理系統",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.940Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eaf6b0c122a935ce14dd377bd2c67369905f2dab6df3807ac2659fe1eeb44aa5",
+    "question": "下列何者最符合能力度等級4的特性？",
+    "options": [
+      "已開始執行檢核項目",
+      "已建立文件化程序",
+      "已建立衡量指標",
+      "已完全不需人工管理"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "已完全不需人工管理",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.940Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5788ae973021ce22fa7cc8d062efbd7cfdc3bf3a895fc3d772c03fa213d63af5",
+    "question": "下列何者最符合OT風險評鑑目的？",
+    "options": [
+      "提高廠區空間利用率",
+      "了解OT重要資產、威脅及風險程度",
+      "確認設備採購預算是否足夠",
+      "提升設備運作效能"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "了解OT重要資產、威脅及風險程度",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.941Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cd28f720ddc7e28f50f82116720e69e0f2484718447f890c92e532dc5c192253",
+    "question": "RPO主要是在描述下列何者？",
+    "options": [
+      "可接受多少時間範圍內的資料損失",
+      "系統最長可中斷時間",
+      "系統最大網路流量",
+      "備份檔案大小"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可接受多少時間範圍內的資料損失",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.941Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff40c4b39ae9529f37b84157b59a5b0b9a52b6b720445e535195568b97eecfaa",
+    "question": "下列何者最符合OT系統測試環境與營運環境區隔的主要目的？",
+    "options": [
+      "提升OT設備使用效率",
+      "避免測試影響正式營運",
+      "增加網路流量",
+      "縮短設備採購流程"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "避免測試影響正式營運",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:09:36.942Z",
+    "review_state": "candidate_ready"
   }
 ]
