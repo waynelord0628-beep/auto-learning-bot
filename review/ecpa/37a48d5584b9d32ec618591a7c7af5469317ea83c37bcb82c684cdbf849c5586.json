@@ -1,0 +1,165 @@
+[
+  {
+    "id": "17def2996a040f1dbf8cfa6310c19f0c23cfe91f4c2760707f02bfd38f505c6f",
+    "question": "若OT環境全面禁止遠端連線，則「遠距工作安全控制措施」可選擇「不適用」。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.875Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "12dd008983b99a756e9656f78e9235618e88384bba74354b8d62fe0780adcaeb",
+    "question": "下列何者最符合OT環境中「白名單機制」的主要目的？",
+    "options": [
+      "只允許授權程式執行",
+      "增加OT設備運作速度",
+      "提升系統操作便利性",
+      "降低系統維護成本"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "只允許授權程式執行",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.880Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d0456e4d7a74db85d6952c6fb9dd1bbed7d0d16492c9d012bdc8820f0fea8d56",
+    "question": "OT資安治理成熟度架構主要分為哪兩大面向？",
+    "options": [
+      "管理面與技術面",
+      "策略面與營運面",
+      "人員面與設備面",
+      "網路面與資料面"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "管理面與技術面",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.882Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "37ad1c2281e60d6e2d490f8430c860944656e3d93aaf1cfab2a2a290a50a624d",
+    "question": "課程中提到「無法保護不知道的東西」，主要是在強調哪項工作的重要性？",
+    "options": [
+      "教育訓練",
+      "資產盤點",
+      "預算管理",
+      "電力管理"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資產盤點",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.883Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2bbf7e4b6332f8033393b258cf05a8fa600fe63ee3577c649ee952861c688518",
+    "question": "OT人員每年完成多少小時以上資通安全通識教育訓練，並檢討執行情形，可符合「訓練OT人員應具備資安認知」能力度2要求？",
+    "options": [
+      "1小時",
+      "2小時",
+      "3小時",
+      "6小時"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3小時",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.884Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "85cbe43fe9471fbddb62c83cfc48f7107831a8b2efd76cd765a1c63ce8df0193",
+    "question": "OT人員審核機制之管理對象，主要為OT資通系統使用者，不包含OT管理相關職務者。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.885Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8e42f7d1c91f0c215e5a94532fe59d0b60d998f1dfd21a059fda1bf51d15ad34",
+    "question": "OT資安治理成熟度等級採累計制，要達到等級3，評估範圍為等級3對應之流程構面能力度。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.885Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "14bd2326a0b1ec20a940c562a8f354aea41c09a37aa5964251ca097d451e5330",
+    "question": "OT網路區隔的主要目的為何？",
+    "options": [
+      "降低設備耗電量",
+      "提升OT系統網路傳輸效能",
+      "增加OT設備對外連線便利性",
+      "降低攻擊橫向移動風險"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "降低攻擊橫向移動風險",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.886Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "152e6a83b6c1cb841188683a9b15c2954be45eecbd668689e6a6b288cc5e0fc2",
+    "question": "「業務持續運作監督管理」及「實體安全防護管理」，都是因應OT環境特性，而特別納入IT資安治理成熟度未涵蓋之重要流程構面。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T03:07:41.887Z",
+    "review_state": "candidate_ready"
+  }
+]
