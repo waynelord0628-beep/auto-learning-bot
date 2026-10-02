@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-09T02:19:59.711Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T02:19:58.838Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b1a330719127c74679706b47ffafb02bdd4d430883682b14bc776e5852e8b939",
