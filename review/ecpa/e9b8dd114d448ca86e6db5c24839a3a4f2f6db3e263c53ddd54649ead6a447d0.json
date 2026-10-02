@@ -159,5 +159,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:45:00.181Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "efd2cb626b88e4957d306c707e2f4a90f6ba661b1b17954f0eee1d36e777477e",
+    "question": "下列何者敘述不正確？",
+    "options": [
+      "相對溼度大於60%，黴菌就開始生長",
+      "黴菌會侵蝕基底層",
+      "黴菌不會造成磁粉脫落",
+      "黴菌會傳染給其他的錄影音帶"
+    ],
+    "type": "單選",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "黴菌不會造成磁粉脫落",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T17:18:47.063Z",
+    "review_state": "candidate_ready"
   }
 ]
