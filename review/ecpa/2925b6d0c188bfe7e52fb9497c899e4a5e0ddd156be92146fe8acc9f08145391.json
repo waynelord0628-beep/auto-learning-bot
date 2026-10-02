@@ -159,5 +159,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T22:03:03.902Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a6e3ae971f7d1129b664f177e5faabfe44861b358be75a2354dfabc1e5630dc1",
+    "question": "以下何者不是紙質檔案修護用紙的要求?",
+    "options": [
+      "纖維純淨，以保留木質素成分的紙張為佳",
+      "不含有害物質，例如漂白劑、螢光劑等",
+      "紙張呈中性或弱鹼性",
+      "紙性穩定且耐老化"
+    ],
+    "type": "單選",
+    "course": "B351紙質類檔案修護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "纖維純淨，以保留木質素成分的紙張為佳",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T22:04:14.282Z",
+    "review_state": "candidate_ready"
   }
 ]
