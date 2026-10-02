@@ -59755,5 +59755,30 @@
       "model": null,
       "checked_at": "2026-10-02T06:20:14.498Z"
     }
+  },
+  {
+    "question": "依據本課程內容，資安部門要如何說服其他業務部門合作？",
+    "type": "單選",
+    "options": [
+      "喊口號「資安即國安」",
+      "成立資安稽核單位強制執行",
+      "傾聽業務需求和融入情境",
+      "買最先進的防火牆"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "傾聽業務需求和融入情境",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "傾聽業務需求和融入情境",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T06:20:30.813Z"
+    }
   }
 ]
