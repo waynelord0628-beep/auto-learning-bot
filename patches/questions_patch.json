@@ -59730,5 +59730,30 @@
       "model": null,
       "checked_at": "2026-10-02T06:19:59.088Z"
     }
+  },
+  {
+    "question": "依據本課程內容，有關「資訊長」和「資安長」的敘述，何者正確？",
+    "type": "單選",
+    "options": [
+      "資訊長和資安長的職責無差異",
+      "資訊長重視IT效率化，資安長則較重視法遵、資安保護",
+      "資訊長和資安長的職責是完全衝突對立的",
+      "以上皆是"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "資訊長重視IT效率化，資安長則較重視法遵、資安保護",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "資訊長重視IT效率化，資安長則較重視法遵、資安保護",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T06:20:14.498Z"
+    }
   }
 ]

@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資訊長重視IT效率化，資安長則較重視法遵、資安保護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-09T06:20:15.559Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊長重視IT效率化，資安長則較重視法遵、資安保護",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T06:20:14.498Z"
+    },
+    "resolved_answer": "資訊長重視IT效率化，資安長則較重視法遵、資安保護"
   },
   {
     "id": "bda261b2de7de06161dc0d9f4d201350448c3db3e0401035716e01de84dc22b6",
