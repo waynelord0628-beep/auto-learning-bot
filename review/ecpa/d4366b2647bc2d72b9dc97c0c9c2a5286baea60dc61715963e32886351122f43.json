@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "親友自行攜帶水果禮盒與保健食品探望住院之病患",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-09T02:19:50.105Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "親友自行攜帶水果禮盒與保健食品探望住院之病患",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T02:19:48.862Z"
+    },
+    "resolved_answer": "親友自行攜帶水果禮盒與保健食品探望住院之病患"
   },
   {
     "id": "399dab4df8ecf969b8249152e827b25e69dbbd9b02fd596ce0bb357aa1928321",
