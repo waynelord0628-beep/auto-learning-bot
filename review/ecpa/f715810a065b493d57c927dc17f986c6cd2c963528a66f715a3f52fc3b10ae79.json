@@ -17,5 +17,168 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:40.231Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d9c0eb299f759a17b38b73d1c4a951a67166950c7bea49d4033898df54b931c3",
+    "question": "下列對於科學的敘述哪些是正確的？",
+    "options": [
+      "1.科學與男女無關，因此不可能產生性別歧視。",
+      "2.科學透過語言傳達解釋時可能產生偏差。",
+      "3.學者在論述科學知識時，也可能將既有的性別觀念透過傳達出來。",
+      "4.課本中的科學知識也有可能產生性別刻板印象。"
+    ],
+    "type": "多選",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.523Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ec94d1897e23da4436ceef9586e28209f29f85b32f658d50644a64a0e348d9bb",
+    "question": "請問下列對於親善型性別歧視的敘述何者正確？",
+    "options": [
+      "1.常使用尖銳的用詞。",
+      "2.常以保護之名行鞏固父權之實。",
+      "3.對女性採取放任的姿態。",
+      "4.其目的與敵意行性別歧視相反。"
+    ],
+    "type": "單選",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.526Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2fdbff75028ab80a00bd8fdabc066992e397180e0ad7e5acc6a562a3aa739f12",
+    "question": "女性的才華是否能有所發揮，除了受到時代的影響之外。身為既得利益者的男性是否願意與其分享其資源，及兩者間的關係發展，更是重要關鍵。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.527Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9b5950242c05b61b7a1070f71f336d2500bcf96f1934c81878f2abcd4e1834c5",
+    "question": "歐盟中男女性參與科學比例圖被比喻為剪刀圖，說明了在科學領域中，女性參與比例呈現逐年上升的狀態。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.527Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "02e7dbb9b3913b284ca38c0c5a48478d46d810c596d88a84656286cfb018b3b9",
+    "question": "科技領域中男多女少的差異並非天生，而是社會造成的結果。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.528Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d8aa6ddc582561e7641810626dc993dc8fe10bf1d1c05e84def4773a39f7c437",
+    "question": "女性主義指的是女性至上主義。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.528Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d648df184d2db69f5fe978497a30bb6da635a06a41702e0eb3229fc7ad075a30",
+    "question": "請問下列關於腦側化的敘述何者正確？",
+    "options": [
+      "1.腦側化越明顯表示越聰明。",
+      "2.腦側化越明顯表示進化越完全。",
+      "3.女性平均腦側化較為明顯。",
+      "4.男性平均腦側化較為明顯。"
+    ],
+    "type": "單選",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.529Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2c2318feaec6ec3e7c2438784c57e4a58cd898732fd2626050b93290029193e6",
+    "question": "下列關於19世紀顱骨學的敘述何者正確？",
+    "options": [
+      "1.以腦容量大小決定聰明程度。",
+      "2.思考素。",
+      "3.科學素養。",
+      "4.語言素養。"
+    ],
+    "type": "單選",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.529Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f690b9a59fe0e3b681f60a7f52ee3576969f82f3c3473c5edc8a18b1eb60f0a3",
+    "question": "請問傳統上對於科學期待的敘述哪些是正確的？",
+    "options": [
+      "1.科學需要理性。",
+      "2.科學需要感性。",
+      "3.與女性性別期待吻合。",
+      "4.與男性性別期待吻合。"
+    ],
+    "type": "多選",
+    "course": "性別與科技─性別平等引領科技創新",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T08:11:45.530Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
