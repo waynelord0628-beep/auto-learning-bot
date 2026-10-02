@@ -66,5 +66,98 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:36:58.660Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed93757f6b2be803164aca4fa4c50fc10d96332b0485499be23d13e99b6a749c",
+    "question": "錄音帶依錄音方式的不同，可區分為「類比錄音帶」與「數位錄音帶」兩大類。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T16:45:00.174Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f0ab37824056684c2f964ade2e79d823a36a865ba877c48bc743516d29c726b2",
+    "question": "下列有關乙酸綜合症的敘述何者不正確？",
+    "options": [
+      "1940年代中期至1950年代晚期製造的錄影音帶",
+      "磁帶基底層成分含有塑化劑，不易吸收空氣中的水分而形成酸化",
+      "磁粒子含有氧化鐵，氧化物會促進物質酸化",
+      "是一種自催化反應，一旦發生就無法停止或逆轉"
+    ],
+    "type": "單選",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1940年代中期至1950年代晚期製造的錄影音帶",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T16:45:00.175Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "97fd21c8798e651d3d03d1e7fbf58e081e9915f0d0a4e4c4b0cca33ab2f57d67",
+    "question": "下列何者不是環境因素造成影響錄影音帶的劣化？",
+    "options": [
+      "溼氣",
+      "灰塵",
+      "磁頭",
+      "磁場"
+    ],
+    "type": "單選",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "磁頭",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T16:45:00.176Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ced106e5762046c9e570a3e34e2a244f4b35103b95cc601f8b52f769bfe2d5b0",
+    "question": "下列何種情形不屬於錄影音帶類檔案物理性劣化？",
+    "options": [
+      "磁帶損壞變形",
+      "乙酸綜合症",
+      "自然耗損",
+      "灰塵聚集"
+    ],
+    "type": "單選",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "灰塵聚集",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T16:45:00.176Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ddb8fe3ef7be46a51eb751bf607de19fdd74b73a7063c55260e059730ece4276",
+    "question": "下列何者敘述不正確？",
+    "options": [
+      "保存錄影音帶的場所最好設有回溫室",
+      "在使用以極低溫保存的錄影音帶前，應該先放置於回溫室中",
+      "錄影音帶回溫時，應待溫度已回升適應至一般室溫後再行使用",
+      "不管各場所的溫度與溼度差距，皆可逕自從保存場所拿取錄影音帶至工作場所中使用"
+    ],
+    "type": "單選",
+    "course": "B353錄影音帶類檔案保存維護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不管各場所的溫度與溼度差距，皆可逕自從保存場所拿取錄影音帶至工作場所中使用",
+    "source": "ai_unverified",
+    "created_at": "2026-10-02T16:45:00.181Z",
+    "review_state": "candidate_ready"
   }
 ]
