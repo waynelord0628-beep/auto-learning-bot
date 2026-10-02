@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-09T06:20:00.132Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T06:19:59.088Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3202ec3dbf4afa23b21650cea20b25f5038664719a29a5a23faa4ea68d41dfbf",

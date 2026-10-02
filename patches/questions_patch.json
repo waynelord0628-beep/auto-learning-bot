@@ -59707,5 +59707,28 @@
       "model": null,
       "checked_at": "2026-10-02T02:20:08.516Z"
     }
+  },
+  {
+    "question": "依據本課程內容，資安長的職責是追求資安完全無弱點、無漏洞？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-02T06:19:59.088Z"
+    }
   }
 ]
