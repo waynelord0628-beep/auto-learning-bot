@@ -60020,5 +60020,30 @@
       "model": null,
       "checked_at": "2026-10-03T04:19:58.545Z"
     }
+  },
+  {
+    "question": "以帆宣系統科技公司數位轉型為例，電腦整合製造(CIM)的主要範圍不包括哪一項？",
+    "type": "單選",
+    "options": [
+      "設備控制與自動化",
+      "設備管理",
+      "市場行銷",
+      "製造執行系統"
+    ],
+    "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
+    "answer": "市場行銷",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "市場行銷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T09:19:44.499Z"
+    }
   }
 ]
