@@ -1,0 +1,190 @@
+[
+  {
+    "id": "bf96253774ec8ee7716fd2ad4de072bd07699186e6ee1b25e8d4f6997082cf9b",
+    "question": "請問金管會108年核准公告的純網路銀行業者為何？",
+    "options": [
+      "王道銀行",
+      "微眾銀行",
+      "將來銀行",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.326Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fc47cdef329ad2e5deccc22f8fed631b1dd2c82e8c893af27fc765fea0362371",
+    "question": "請問純網銀的特色是？",
+    "options": [
+      "無實體分行，無法提供實體服務，存戶皆透過線上申請各項金融業務",
+      "存戶仍有實體提款卡，但無實體存摺，透過專屬APP辦理金融相關業務",
+      "純網銀服務時間是上午9:00到下午3:30",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "無實體分行，無法提供實體服務，存戶皆透過線上申請各項金融業務",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.327Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "335a97bfe09903f39a2dc8f973c0cf6898e28d96593b5ada6c57cc0537e0371b",
+    "question": "依據本課程內容，將來銀行的雲架構系統為何，易於更新、開發及維運？",
+    "options": [
+      "大核心和大周邊",
+      "大核心和小周邊",
+      "小核心和大周邊",
+      "小核心和小周邊"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "小核心和小周邊",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.328Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "40dc19c1d70be0a501a034ce93ce1ef87f566b7443fca6ab3499727ce80dad7a",
+    "question": "依據本課程內容，將來銀行為何要選擇敏捷式的雲服務平台？",
+    "options": [
+      "分散式雲端服務讓企業依自身需求選擇部署，並滿足合規要求",
+      "提供工作流程自動化，拉高維運成本",
+      "整合應用系統，創建複雜的用戶體驗",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "分散式雲端服務讓企業依自身需求選擇部署，並滿足合規要求",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.329Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dbad1d13d79c235246e451cf499085d4d3ccbac1ba66b5b1e3293cede177dc31",
+    "question": "依據本課程內容，使用雲服務的優點為何？",
+    "options": [
+      "分散式數據安全",
+      "虛擬化的計算能力和可擴充性",
+      "低性價比和高成本",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "虛擬化的計算能力和可擴充性",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.330Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "459a8c572745f2d722e7434ac6641f909ee775925190ec0e2cfeab60061e3fcf",
+    "question": "依據本課程內容，將來銀行考量了哪些面向，推動業務中台API化？",
+    "options": [
+      "相同功能重複利用，變免疊床架屋",
+      "減少開發過程中除錯的問題",
+      "降低開發風險、易於管理",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.330Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "785cd1a520a036bbd226e04a335a236a2be52d1b327b8ae51f7cac696d8173d2",
+    "question": "依據本課程內容，將來銀行的全虛擬化的雲平台，其特色有哪些？",
+    "options": [
+      "敏捷且分散式維運",
+      "平台與部署人工作業",
+      "資源彈性擴充",
+      "無異地備援"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "敏捷且分散式維運",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.331Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "acf0fd91524079fbe3c9284d91cbd9a3af46ea822dfa3bc5f25949a5cc607f6f",
+    "question": "請問什麼是純網銀？",
+    "options": [
+      "傳統實體銀行的分行延伸，提供多種基本的金融服務，如轉帳、繳費、外匯買賣等",
+      "銀行帳戶業務數位化，業務能以專屬APP完成",
+      "傳統銀行櫃檯可進行的業務，都能在純網銀申辦",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "銀行帳戶業務數位化，業務能以專屬APP完成",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.332Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "63f8d70b56cdf3487b29d31c8df06e6c26627cbb880c402be5266ef2a8e70048",
+    "question": "依據本課程內容，將來銀行之未來發展藍圖，包含輕量化前台、應用中台、敏捷式後台、虛擬化的雲平台？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.332Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "24a54cf751e6e80a4056842e94ba86ba97521fa667cdcca49264ebadf846f797",
+    "question": "依據本課程內容，面對快速變化的金融業務需求，將來銀行IT願景有哪些？",
+    "options": [
+      "業務彈性",
+      "安全合規",
+      "穩定維運",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "雲架構對純網銀的現在與未來",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T11:06:50.333Z",
+    "review_state": "candidate_ready"
+  }
+]
