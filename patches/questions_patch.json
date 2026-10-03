@@ -60195,5 +60195,30 @@
       "model": null,
       "checked_at": "2026-10-03T12:19:41.687Z"
     }
+  },
+  {
+    "question": "下列何者對於 ROS1/ROS2 技術特色上的敘述有誤？",
+    "type": "單選",
+    "options": [
+      "ROS2 架構下每個機器人只要設定一個自身的領域 Domain ID，即可以互相通訊",
+      "ROS1 架構在遇到主節點 (master node) 失效情況下，整體系統不會受到影響",
+      "ROS2 架構使用資料分布服務 DDS（Data Distribution Service）",
+      "(4 )ROS1 架構藉由主節點 (master node) 連結其他節點，使節點之間可以溝通交換資料"
+    ],
+    "course": "新世代智慧農機與服務設計",
+    "answer": "ROS1 架構在遇到主節點 (master node) 失效情況下，整體系統不會受到影響",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "ROS1 架構在遇到主節點 (master node) 失效情況下，整體系統不會受到影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T12:19:47.190Z"
+    }
   }
 ]
