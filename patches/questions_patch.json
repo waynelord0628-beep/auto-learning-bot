@@ -60145,5 +60145,30 @@
       "model": null,
       "checked_at": "2026-10-03T10:19:57.727Z"
     }
+  },
+  {
+    "question": "根據本課程內容，下列哪項不是推動雲端運算發展的主要因素？",
+    "type": "單選",
+    "options": [
+      "人工智慧/機器學習",
+      "邊緣運算",
+      "混合雲與多雲架構",
+      "區塊鏈技術"
+    ],
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "answer": "區塊鏈技術",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "區塊鏈技術",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_845.html",
+          "title": "「從雲端運算發展趨勢看企業雲端策略規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T10:20:09.543Z"
+    }
   }
 ]
