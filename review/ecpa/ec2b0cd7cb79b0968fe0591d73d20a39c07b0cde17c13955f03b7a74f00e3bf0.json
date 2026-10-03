@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "從雲端運算發展趨勢看企業雲端策略規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提高資源彈性和資料安全",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T15:37:23.334Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T10:19:49.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提高資源彈性和資料安全",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_845.html",
+          "title": "「從雲端運算發展趨勢看企業雲端策略規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T10:19:47.889Z"
+    },
+    "resolved_answer": "提高資源彈性和資料安全"
   },
   {
     "id": "3d63b56b77712859ddb539bb7f672cd0f2ec7969b51c296244a3e7e7acb83c4d",
