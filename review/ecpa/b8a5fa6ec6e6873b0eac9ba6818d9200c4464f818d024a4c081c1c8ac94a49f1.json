@@ -1,0 +1,173 @@
+[
+  {
+    "id": "edfaf3bdb50267e208b646e954327bc93d3c5ab7f3e6b37478d2c53e3c1a8018",
+    "question": "區塊鏈中的公有鏈，何者敘述「錯誤」?",
+    "options": [
+      "大部分應用都是虛擬貨幣",
+      "由幾個組織所運作",
+      "任何個人或組織都可建立與參與",
+      "不可竄改區塊鏈上的資料"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "由幾個組織所運作",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.911Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3156ff2a4cc16dfe948b2d5779233bd94c9432a6778a215ce8792e15b18fa0eb",
+    "question": "如果錢包地址是0x開頭，「無法」使用下列哪一個平台查詢?",
+    "options": [
+      "Misttrack",
+      "Tronscan",
+      "OKLink",
+      "Etherscan"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Tronscan",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.916Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "299eddda2392c16a2d99c823693d1a81a2bf376718e46aea732c5f8db11e63c8",
+    "question": "有關波場鏈的授權，下列敘述何者「錯誤」?",
+    "options": [
+      "點擊釣魚連結造成權限變更",
+      "他人釣魚故意泄露私鑰，導致轉入資金無法取回",
+      "用戶私鑰泄露，導致被駭客設定多重簽名",
+      "用戶主動設置多重簽名，會導致自己陷入被駭的風險"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "用戶主動設置多重簽名，會導致自己陷入被駭的風險",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.918Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c80337c0d97c02721d7ea1c0c50cc6ba5b47ca48504ed288a8f696b53d08944f",
+    "question": "請問下列哪一個選項是TRC20 - USDT的智慧合約?",
+    "options": [
+      "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "TNrumsZ9k7iKqh6As4Nq1w91rnLwgM7pfP",
+      "TSTUZhn9bob12snTZGA96mdwZ97oDKsyU2",
+      "TYe7HWaVqQb8XYM3MwToQgyqdbDQ8ZihCC"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "TYe7HWaVqQb8XYM3MwToQgyqdbDQ8ZihCC",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.919Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff30a5879c30e599afa909b5faa32e0335d19726ef30913c6680ccf26123f7bf",
+    "question": "請問下列哪一個選項是零價值轉移釣魚攻擊與小額代幣轉移釣魚攻擊的「主要區別」?",
+    "options": [
+      "零價值轉移釣魚攻擊指的是價值為零的交易",
+      "小額代幣轉移釣魚攻擊也涉及大額代幣轉移",
+      "小額代幣轉移釣魚攻擊主要針對新用戶",
+      "零價值轉移釣魚攻擊主要針對高額的交易"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "小額代幣轉移釣魚攻擊也涉及大額代幣轉移",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.920Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "049bca99c9123248f8d92d43a162ec93dd3b5e6612577fc702371b8bc66a791c",
+    "question": "請問以下哪一個平台只要設定日期、幣種、層數，即可快速查看整體幣流狀況?",
+    "options": [
+      "MistTrack",
+      "OKLink",
+      "Tronscan",
+      "Bitquery"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "MistTrack",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.921Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "87ee3bace054d720bc81d85de092a86169a332b07a3d572a1393ddbb46fb5ee5",
+    "question": "關於熱錢包何者敘述錯誤?",
+    "options": [
+      "多半是實體設備，使用時需自行連網",
+      "可透過助記詞還原錢包",
+      "有些熱錢包之私鑰保管可由用戶本地儲存",
+      "資安風險非常高"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "多半是實體設備，使用時需自行連網",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.922Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "598b00279988827c79abe55b1239d686a3baf748af4979925e46bb9d4ac52aa6",
+    "question": "請問如果錢包地址是T開頭，可以使用下列哪一個平台做子字串比對?",
+    "options": [
+      "MistTrack",
+      "OKLink",
+      "BSCscan",
+      "Tronscan"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Tronscan",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.923Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d9997b6b719cf7bb2366772c081cd92566a6be247d31987ffb9b535aa3d4b6ca",
+    "question": "請問可以使用下列哪一個公開帳本平臺查看BNB交易?",
+    "options": [
+      "Tronscan",
+      "Tonscan",
+      "BTC.com",
+      "BSCscan"
+    ],
+    "type": "單選",
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "BSCscan",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T01:55:33.924Z",
+    "review_state": "candidate_ready"
+  }
+]
