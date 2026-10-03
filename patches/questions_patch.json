@@ -60244,5 +60244,28 @@
       "model": null,
       "checked_at": "2026-10-03T12:19:52.528Z"
     }
+  },
+  {
+    "question": "大P著重的是在溝通、協作的每個程序中應該進行的方式，像是會議主持人怎麼主持、如何選定、通知參與者等。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "開放、參與、溝通的實與虛",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_248.html",
+          "title": "「開放、參與、溝通的實與虛」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T13:20:05.178Z"
+    }
   }
 ]
