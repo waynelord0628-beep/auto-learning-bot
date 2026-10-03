@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(3)急、重、難症優先",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.007Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T15:19:55.997Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)急、重、難症優先",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T15:19:55.297Z"
+    },
+    "resolved_answer": "(3)急、重、難症優先"
   },
   {
     "id": "da3f9219cb638fe2e91987869475f6754895d09304d52bc4f133ded11cee35d3",
