@@ -60220,5 +60220,29 @@
       "model": null,
       "checked_at": "2026-10-03T12:19:47.190Z"
     }
+  },
+  {
+    "question": "以下的系統導航技術配置，比較偏向室內導航會採取的方式？",
+    "type": "單選",
+    "options": [
+      "Autoware + 3D LiDAR",
+      "Ardupilot + RTK/GNSS",
+      "2D LiDAR + Navigation2"
+    ],
+    "course": "新世代智慧農機與服務設計",
+    "answer": "2D LiDAR + Navigation2",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "2D LiDAR + Navigation2",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T12:19:52.528Z"
+    }
   }
 ]
