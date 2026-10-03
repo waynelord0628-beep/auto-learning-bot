@@ -87,5 +87,96 @@
     "source": "ai_unverified",
     "created_at": "2026-10-03T05:50:12.290Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5e2243dcb9d81e3958b9ade5f1ef7b3c3d7876bd811ddfb7d94ac6b882c2258d",
+    "question": "在小型檔案管理系統中，下列哪項功能可產生銷毀批號?",
+    "options": [
+      "D.清理-D.2銷毀–D.2.1銷毀申請",
+      "D.清理-D.2銷毀–D.2.2續存作業",
+      "D.清理-D.2銷毀–D.2.3銷毀註記",
+      "以上皆可"
+    ],
+    "type": "單選",
+    "course": "B522小型檔案管理系統",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "D.清理-D.2銷毀–D.2.1銷毀申請",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:50:18.821Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "faf6053f941f10b9ddf75b857f9f919491d81c538243eaff75d8f728801a8e59",
+    "question": "在小型檔案管理系統中，下列哪項功能可轉出彙送檔案目錄?",
+    "options": [
+      "D.清理",
+      "B.保管功能",
+      "A.建檔功能",
+      "C.檢調功能"
+    ],
+    "type": "單選",
+    "course": "B522小型檔案管理系統",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "B.保管功能",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:50:18.823Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e940861eaad94c28ec266315b6d9d6ab15dcbb41735e022b7b56bd3a14d76b7",
+    "question": "小型檔案管理系統可轉出符合現行文書及檔案管理電腦化作業規範之檔案目錄彙送格式。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "B522小型檔案管理系統",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:50:18.824Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bc57b9223f24ff76117345d5f2ec7047820bde3f539da42cc79e0bce0a87c4f5",
+    "question": "小型檔案管理系統係為小型機關（檔案管理人員在5人以內）開發設計之軟體系統。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "B522小型檔案管理系統",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:50:18.825Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4842b753065e1f585c2f5261fd3fe2b06d550b7d6d73291389a8deeea14e6400",
+    "question": "在小型檔案管理系統中，下列哪項功能可建置案卷層級檔案目錄?",
+    "options": [
+      "D.清理",
+      "B.保管功能",
+      "A.建檔功能",
+      "C.檢調功能"
+    ],
+    "type": "單選",
+    "course": "B522小型檔案管理系統",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "A.建檔功能",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:50:18.826Z",
+    "review_state": "candidate_ready"
   }
 ]
