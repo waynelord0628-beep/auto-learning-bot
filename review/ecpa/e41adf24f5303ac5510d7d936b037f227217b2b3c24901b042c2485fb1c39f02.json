@@ -39,7 +39,11 @@
     "candidate_answer": "約6萬盞",
     "source": "ai_unverified",
     "created_at": "2026-09-22T05:34:13.042Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T00:19:54.401Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cae063fd7281efb3e9fa4ad3d4fa95975e5be08785a04af39bae169ce0bfb9ea",
