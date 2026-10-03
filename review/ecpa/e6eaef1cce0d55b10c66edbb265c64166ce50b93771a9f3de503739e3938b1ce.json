@@ -113,13 +113,34 @@
     ],
     "type": "單選",
     "course": "香蕉王國的秘密：揭秘台灣香蕉產業的發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Custard apple is also called pomelo and is recognized for its smooth texture and sweet flavor.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T15:52:29.562Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T04:19:59.437Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Custard apple is also called pomelo and is recognized for its smooth texture and sweet flavor.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100345",
+          "title": "香蕉王國的秘密：揭秘台灣香蕉產業的發展《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_274.html",
+          "title": "「香蕉王國的秘密：揭秘台灣香蕉產業的發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T04:19:58.545Z"
+    },
+    "resolved_answer": "Custard apple is also called pomelo and is recognized for its smooth texture and sweet flavor."
   },
   {
     "id": "b6ab4effb8abc69ce056b25d0f594f94b6df703ff7881c5cc3e95552e056e382",
