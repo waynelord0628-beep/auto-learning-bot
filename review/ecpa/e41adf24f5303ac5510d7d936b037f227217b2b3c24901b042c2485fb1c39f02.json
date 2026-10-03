@@ -62,7 +62,11 @@
     "candidate_answer": "大幅增加採購流程",
     "source": "ai_unverified",
     "created_at": "2026-09-22T05:34:13.043Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T00:20:03.221Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "be47f7cc65d50d835b5c3e0b1d1ce647c224b57f2874f3bb2c1acd2a14e83ad8",
