@@ -237,5 +237,24 @@
     "verify_policy": "course_first_v1",
     "verify_after": "2026-09-30T07:20:02.942Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "060a78d42b9d0ff2b6f2d22f12dab0c7680e563e1c2c2400e57837d56185c27b",
+    "question": "簽核文書應確保完整性及真實性，下列何者為應詳實記載之事項？",
+    "options": [
+      "文書時效性",
+      "各會簽意見",
+      "文件簽章人",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "B511文書及檔案管理電腦化作業規範簡介",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T05:16:12.874Z",
+    "review_state": "candidate_ready"
   }
 ]
