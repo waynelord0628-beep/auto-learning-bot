@@ -1,0 +1,181 @@
+[
+  {
+    "id": "03372bd07bc7325e3401289aae010403c9da5791252d02256ed33e69ff3f93c7",
+    "question": "傳統的銀行系統是以產品綁定運作，隨著服務與使用場景越來越多元，會有成本過高及效率過低的問題產生。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.123Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "acf0c4e79a2d85902386b64e7d04d4ed25d3f9c85bf0ee2baecd89784f3dcfbb",
+    "question": "企業建置中台的效益包含縮短產品上線時程，以及發揮敏捷開發的效益提升IT生產力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.130Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bb01946b93cbcf859f500739cb05946303f0e7cd4a34cf13ccc56a5b11fcad5f",
+    "question": "在資訊服務中台上建置微服務應涵蓋哪些面向？",
+    "options": [
+      "容器化（Containers）",
+      "持續性整合與部署（CI/CD）",
+      "自動擴展（Scalable Infrastructure）",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.131Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ccd572f1e332b5751af0532cfffcfaac55d403eb459e9960dc216eec406ceab2",
+    "question": "下列何者可能是導入銀行中台所能帶來的改變?",
+    "options": [
+      "減少新舊系統更新產生的瑕疵",
+      "解決各部門各自為政的穀倉效應",
+      "提升系統的服務量能",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.132Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "78cff4653fd068a4b0cb8499383095c05791a5ffaeb9a97ad28f5a8466ebc3c1",
+    "question": "在中台系統中，強調的是組織專業分工，雖然可以成立中台發展部門，但原技術、業務、資訊等單位並不需要知道彼此的業務狀態。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.133Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "385be5f7880369dede6cea9e3d9071ec3bfcd1f58a32ddd12cb9b9bf40debf2f",
+    "question": "關於DevSecOps過程結合雲原生之後的描述何者錯誤?",
+    "options": [
+      "程式開發時安全掃描中IaC代碼",
+      "K8清單都是以前地端所沒有的",
+      "IaC的設定問題是上雲時主要的問題",
+      "若Image不是從官方取得而是從Docker Hub，必須要特別注意如何去做掃描等資安工程",
+      "CI/CD建構服務中並不包含單元測試與壓力測試"
+    ],
+    "type": "單選",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "CI/CD建構服務中並不包含單元測試與壓力測試",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.135Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6ebba03744fae8ee719dd8d7c2d22ab2943c5fa18655ae910de41a46976d92f6",
+    "question": "DevSecOps是DevOps演進版本，主要是在開發與營運的過程中加入安全性的部分。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.137Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "92f31073387b570d106c98c49b8b9de309883eb5d1b6e8780917d32d1b752c00",
+    "question": "DevSecOps度量指標中包含交付效率、交付品質、交付能力與交付安全，其中可從交付安全先著手進行，可以最快取得專案成效並確保安全問題。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.138Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2661555ad89cc137418b187f04b872a1e2dc8934ac363464c57c02e7efb010ec",
+    "question": "關於銀行中台的分層架構描述，何者正確?",
+    "options": [
+      "可參考EIP(企業整合模式)建立中台架構",
+      "Gateway Layer目的為整合通路需求，並提供單一介面的串聯",
+      "Base Layer與後台系統串接提供數據資料庫",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.138Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f5a20794cbf42aaeac4723f47d01a2cf9828ca1149cf86615172e851d360bac3",
+    "question": "在銀行中台的建置中，需要提高對後台的依賴程度，讓後台扮演主導的工作。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T14:05:58.139Z",
+    "review_state": "candidate_ready"
+  }
+]
