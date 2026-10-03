@@ -60390,5 +60390,30 @@
       "model": null,
       "checked_at": "2026-10-03T15:19:55.297Z"
     }
+  },
+  {
+    "question": "元宇宙技術提供使用者沈浸式的體驗，應用在醫療上可以協助醫生進行手術教學、手術評估。今(2022)年北醫運用微軟什麼技術，開發脊椎及內視鏡手術解決方案？",
+    "type": "單選",
+    "options": [
+      "(1)AR擴增實境",
+      "(2)VR虛擬實境",
+      "(3)MR混合實境",
+      "(4)以上皆是。"
+    ],
+    "course": "AIoT助力醫療與照護的數位轉型",
+    "answer": "(3)MR混合實境",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "(3)MR混合實境",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T15:20:03.712Z"
+    }
   }
 ]
