@@ -1,0 +1,192 @@
+[
+  {
+    "id": "556f9c0e61054dbccc11a26a03eab7480e05478a99564fdad97ab6301fb137ae",
+    "question": "請問加密貨幣助記詞主要用於什麼目的?",
+    "options": [
+      "增加交易速度",
+      "高加密貨幣的匿名性",
+      "簡化私鑰的管理和備份",
+      "儲存加密貨幣的市場價格"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "簡化私鑰的管理和備份",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.301Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f36833c2f940f4cd3b731f10eacfeb7cda365b743d8ca2db8959f890d6388949",
+    "question": "請問冷錢包和熱錢包的差異，下列敘述何者正確?",
+    "options": [
+      "冷錢包多半為網路服務",
+      "熱錢包多半是實體設備，使用時需自行連網",
+      "冷錢包的常見類型是硬體錢包",
+      "熱錢包私鑰保管在硬體錢包內"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "冷錢包的常見類型是硬體錢包",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.304Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "44f1b1ca37c4dc3f5e32c686ed88f455610bb29572d3241c2b79399f747e24c0",
+    "question": "假如當初創建的錢包私鑰遺失時，如有做好防範的措施，可以透過以下哪一個選項來還原錢包?",
+    "options": [
+      "助記詞",
+      "公鑰",
+      "聯絡該品牌的冷錢包客服",
+      "交易序號"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "助記詞",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.305Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "407f5ade57ba7bf224b897e3e198358ed99c2d02ccf1a41f09cb7b9edc4e9d05",
+    "question": "關於CoinMarketCap，下列哪一個選項是網站中「有提供」的功能?",
+    "options": [
+      "加密貨幣錢包管理",
+      "加密貨幣即時新聞",
+      "加密貨幣交易平台",
+      "加密貨幣貸款服務"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "加密貨幣即時新聞",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.306Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5e90a243847fe48ef5703115a6adc0cf78e54893be4226c2200a8b87e3b7d07f",
+    "question": "關於冷錢包的敘述，下列何者「錯誤」?",
+    "options": [
+      "多半是實體設備，使用時需自行連網",
+      "常見類型有硬體錢包及紙錢包等",
+      "將私鑰保管在硬體錢包內",
+      "線上的資安風險比熱錢包還要高"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "多半是實體設備，使用時需自行連網",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.308Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a6c9c72548b236dcb8ae0f8a12d010312be4e40e91ad5bc2233fe8623c611fce",
+    "question": "當進行幣流追查時，請問以下敘述何者有誤?",
+    "options": [
+      "中心化交易所可能會有用戶的個資和交易資訊",
+      "縱使是放在冷錢包的加密貨幣也有可能被凍結",
+      "只要拿到助記詞，就有機會可以轉移錢包的加密貨幣",
+      "Trust Wallet無法還原冷錢包的地址"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Trust Wallet無法還原冷錢包的地址",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.309Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c8e97c2cbe02c3aefd07e0685c5f11af924111cfedaac7514a5f533351568044",
+    "question": "在CoinMarketCap網站上，請問可以查詢下列哪些加密貨幣的相關資訊?",
+    "options": [
+      "只有比特幣和以太幣",
+      "只有市值前十名的加密貨幣",
+      "所有主要和次要的加密貨幣",
+      "只有ERC-20代幣"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "所有主要和次要的加密貨幣",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.310Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9c511b0b1bbfa1618bb3aae9775516e70987bb7dc93805c9bcc706daf405977b",
+    "question": "有關使用CoinMarketCap網站的描述，請問以下何者敘述「錯誤」?",
+    "options": [
+      "網站提供各種加密貨幣交易所的列表",
+      "可查看特定的加密貨幣歷史價格",
+      "可查詢購買加密貨幣的用戶資料",
+      "網站提供數千種加密貨幣的名稱及符號"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可查詢購買加密貨幣的用戶資料",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.311Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4b4d878c8add4893a9a2b94527451e31fced216f82b4d17dd73be5d4d6647f04",
+    "question": "我們發現一張紙，上面寫著12個英文單字，彼此之間看似沒有意義，請問以下敘述何者正確?",
+    "options": [
+      "疑似是電子錢包的助記詞，可嘗試透過12個英文單字還原錢包地址",
+      "隨意寫下的無關的資訊，不需理會",
+      "與加密貨幣無太大關聯",
+      "縱使掌握電子錢包的助記詞，仍無法還原錢包地址"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "疑似是電子錢包的助記詞，可嘗試透過12個英文單字還原錢包地址",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.312Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "886735f7e9ffd16e3b4f8e3fa24e31bd5f04bad36f135af3479a832d37af34df",
+    "question": "請問下列哪一個選項「不是」生成冷錢包的助記詞組數?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "type": "單選",
+    "course": "加密貨幣和區塊鏈產業現況與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "30",
+    "source": "ai_unverified",
+    "created_at": "2026-10-03T02:41:16.315Z",
+    "review_state": "candidate_ready"
+  }
+]
