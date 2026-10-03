@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "區塊鏈串聯未來世界！圖靈證書的創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "愛沙尼亞eID",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T07:47:32.468Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T14:19:42.139Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "愛沙尼亞eID",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_480.html",
+          "title": "「區塊鏈串聯未來世界！圖靈證書的創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T14:19:41.484Z"
+    },
+    "resolved_answer": "愛沙尼亞eID"
   },
   {
     "id": "7d9c219fb483312ce84d15d7e0d607c434250e87e4d97197a9c6c537705eb475",
