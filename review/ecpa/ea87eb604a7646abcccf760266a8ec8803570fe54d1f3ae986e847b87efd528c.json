@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提供生產過程的預診斷",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.737Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-10T09:20:00.207Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供生產過程的預診斷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-03T09:19:59.240Z"
+    },
+    "resolved_answer": "提供生產過程的預診斷"
   },
   {
     "id": "2bc3fffd9beaad8ce4384e56f77235f102cb01978ee7b3245a26fcf30afe02b8",
