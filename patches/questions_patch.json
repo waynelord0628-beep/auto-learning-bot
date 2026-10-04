@@ -60973,5 +60973,28 @@
       "model": null,
       "checked_at": "2026-10-04T11:19:58.919Z"
     }
+  },
+  {
+    "question": "一般性騷擾是指針對陌生人在任何地方的騷擾。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性平意識解析、性騷擾迷思解構及因應作為",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T13:19:58.929Z"
+    }
   }
 ]

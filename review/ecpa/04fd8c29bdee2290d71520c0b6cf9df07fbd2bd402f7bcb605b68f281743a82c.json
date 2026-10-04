@@ -78,13 +78,30 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.118Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T13:19:59.628Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T13:19:58.929Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "e716fb32b1574763fd6242a7ea0505c32b6f82076c2776ca441d3089e0920866",
