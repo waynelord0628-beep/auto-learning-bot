@@ -60660,5 +60660,30 @@
       "model": null,
       "checked_at": "2026-10-04T07:19:43.232Z"
     }
+  },
+  {
+    "question": "根據Gartner全球CEO大調查，Gartner預測2026年多少企業將在其軟體中嵌入生成式AI功能？",
+    "type": "單選",
+    "options": [
+      "0%",
+      "50%",
+      "80%",
+      "100%"
+    ],
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "answer": "80%",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "80%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-ee_12.html",
+          "title": "「AI 金融服務之趨勢與案例(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T07:19:49.152Z"
+    }
   }
 ]

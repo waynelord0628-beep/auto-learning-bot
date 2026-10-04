@@ -47,13 +47,30 @@
     ],
     "type": "單選",
     "course": "AI 金融服務之趨勢與案例(組合課程)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "80%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:31:45.973Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T07:19:50.041Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "80%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-ee_12.html",
+          "title": "「AI 金融服務之趨勢與案例(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T07:19:49.152Z"
+    },
+    "resolved_answer": "80%"
   },
   {
     "id": "0e9ca3d78c0b12788b5382dbc039d40d188d0d1484b3d8d098b02e04cca8df07",
