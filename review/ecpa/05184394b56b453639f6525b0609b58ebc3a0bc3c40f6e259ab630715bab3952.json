@@ -62,7 +62,11 @@
     "candidate_answer": "助記詞",
     "source": "ai_unverified",
     "created_at": "2026-10-03T02:41:16.305Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T14:19:53.041Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "407f5ade57ba7bf224b897e3e198358ed99c2d02ccf1a41f09cb7b9edc4e9d05",
