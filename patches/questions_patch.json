@@ -60735,5 +60735,28 @@
       "model": null,
       "checked_at": "2026-10-04T08:20:41.777Z"
     }
+  },
+  {
+    "question": "企業雲端化需經過系統集中與整合、建立雲生態系與數據中台、數據驅動等步驟",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "傳產更需要上雲-走向數據驅動",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_516.html",
+          "title": "「傳產更需要上雲-走向數據驅動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T08:21:24.990Z"
+    }
   }
 ]

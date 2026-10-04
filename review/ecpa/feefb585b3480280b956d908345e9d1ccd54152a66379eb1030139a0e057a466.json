@@ -44,13 +44,30 @@
     ],
     "type": "是非",
     "course": "傳產更需要上雲-走向數據驅動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:13:34.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T08:21:27.224Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_516.html",
+          "title": "「傳產更需要上雲-走向數據驅動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T08:21:24.990Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "4343bd9bfe934da6a8c32a0e32ed87dfa779115bf6536711c83121be99c6ef5f",
