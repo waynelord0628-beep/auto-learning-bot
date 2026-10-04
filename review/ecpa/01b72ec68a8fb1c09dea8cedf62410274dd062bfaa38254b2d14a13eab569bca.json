@@ -42,13 +42,30 @@
     ],
     "type": "是非",
     "course": "航太智慧製造與AI應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:49:11.733Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T10:19:50.923Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_32.html",
+          "title": "「航太智慧製造與AI應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T10:19:50.290Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "60af325f4dae62fe339c0bebbaa14250ed4a541f80bd6fd34f17e3b17038d577",
