@@ -73,15 +73,32 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.838Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:43.002Z"
+    "retry_after": "2026-09-25T19:19:43.002Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T02:19:55.209Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T02:19:54.598Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f0ec057405d547548d5c09ea539147d55df1e7457fe7e541c0e0cbc80bb7910c",
