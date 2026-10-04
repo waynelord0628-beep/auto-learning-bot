@@ -118,13 +118,30 @@
     ],
     "type": "是非",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.527Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T01:21:01.442Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T01:20:59.720Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "02e7dbb9b3913b284ca38c0c5a48478d46d810c596d88a84656286cfb018b3b9",
