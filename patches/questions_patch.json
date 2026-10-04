@@ -60559,5 +60559,30 @@
       "model": null,
       "checked_at": "2026-10-04T01:20:59.720Z"
     }
+  },
+  {
+    "question": "智慧醫院規劃分為短、中、長期，請問短期的推動重點為何？",
+    "type": "單選",
+    "options": [
+      "建立完整的醫療生態系(Ecosystem)",
+      "完備資通訊基礎建設",
+      "建置無牆化醫院、社區健康照護網",
+      "以上皆是"
+    ],
+    "course": "從AI到智慧醫療落地",
+    "answer": "完備資通訊基礎建設",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "完備資通訊基礎建設",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T02:19:48.576Z"
+    }
   }
 ]
