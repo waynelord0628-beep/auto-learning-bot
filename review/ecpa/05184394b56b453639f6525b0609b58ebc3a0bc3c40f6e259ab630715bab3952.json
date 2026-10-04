@@ -16,7 +16,11 @@
     "candidate_answer": "簡化私鑰的管理和備份",
     "source": "ai_unverified",
     "created_at": "2026-10-03T02:41:16.301Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T14:19:42.950Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f36833c2f940f4cd3b731f10eacfeb7cda365b743d8ca2db8959f890d6388949",
