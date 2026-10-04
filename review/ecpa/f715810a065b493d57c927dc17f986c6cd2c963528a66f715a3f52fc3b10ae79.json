@@ -48,15 +48,32 @@
     ],
     "type": "單選",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.526Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-03T22:19:44.914Z"
+    "retry_after": "2026-10-03T22:19:44.914Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T01:20:09.710Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.常以保護之名行鞏固父權之實。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T01:20:07.364Z"
+    },
+    "resolved_answer": "2.常以保護之名行鞏固父權之實。"
   },
   {
     "id": "2fdbff75028ab80a00bd8fdabc066992e397180e0ad7e5acc6a562a3aa739f12",
