@@ -60685,5 +60685,30 @@
       "model": null,
       "checked_at": "2026-10-04T07:19:49.152Z"
     }
+  },
+  {
+    "question": "根據本課程，生成式AI在汽車事故中如何使用數據？",
+    "type": "單選",
+    "options": [
+      "依賴人工判斷",
+      "完全忽略事故數據",
+      "利用行車記錄器影像和GPS數據重建事故經過",
+      "僅依賴紙本報告"
+    ],
+    "course": "AI 金融服務之趨勢與案例(組合課程)",
+    "answer": "利用行車記錄器影像和GPS數據重建事故經過",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "利用行車記錄器影像和GPS數據重建事故經過",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-ee_12.html",
+          "title": "「AI 金融服務之趨勢與案例(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T07:19:56.005Z"
+    }
   }
 ]

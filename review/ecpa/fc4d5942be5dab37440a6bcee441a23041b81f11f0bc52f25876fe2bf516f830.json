@@ -83,13 +83,30 @@
     ],
     "type": "單選",
     "course": "AI 金融服務之趨勢與案例(組合課程)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "利用行車記錄器影像和GPS數據重建事故經過",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:31:45.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T07:19:56.775Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "利用行車記錄器影像和GPS數據重建事故經過",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-ee_12.html",
+          "title": "「AI 金融服務之趨勢與案例(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T07:19:56.005Z"
+    },
+    "resolved_answer": "利用行車記錄器影像和GPS數據重建事故經過"
   },
   {
     "id": "3c685ee874f2d083f1b174e321d53bd6c7bc673b0a52ff69e4c0ccbce975f397",
