@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.161Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T00:20:10.578Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T00:20:07.219Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "c8e2081b10623d8eed4b404d2df5588d9bf236be84781b22a05729debf9deb35",
