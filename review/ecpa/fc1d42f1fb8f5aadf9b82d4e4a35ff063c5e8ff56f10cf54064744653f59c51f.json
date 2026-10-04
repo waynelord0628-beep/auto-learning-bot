@@ -16,7 +16,11 @@
     "candidate_answer": "抽蓄式水力明潭發電廠",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.013Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-11T06:19:41.843Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "75985e473870b92cd7665470d1758e0361054e2e5529badf872c168816a134ed",
