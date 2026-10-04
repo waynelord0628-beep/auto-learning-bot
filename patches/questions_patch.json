@@ -60877,5 +60877,30 @@
       "model": null,
       "checked_at": "2026-10-04T10:19:50.290Z"
     }
+  },
+  {
+    "question": "下列何者並不是航太智慧化管理所帶來的效益？",
+    "type": "單選",
+    "options": [
+      "犧牲良率但大幅提升生產效率",
+      "可針對現場狀況遠端監控",
+      "即時回饋生產線狀況",
+      "在混線生產時建立排程指揮"
+    ],
+    "course": "航太智慧製造與AI應用",
+    "answer": "犧牲良率但大幅提升生產效率",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "犧牲良率但大幅提升生產效率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_32.html",
+          "title": "「航太智慧製造與AI應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-04T10:19:57.214Z"
+    }
   }
 ]
