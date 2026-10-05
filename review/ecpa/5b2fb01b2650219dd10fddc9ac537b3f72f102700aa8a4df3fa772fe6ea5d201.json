@@ -99,5 +99,79 @@
     "source": "reported_question",
     "created_at": "2026-09-21T15:11:10.115Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "cf3e88cc60102cabcbcfad5d85d6db0be78d913a14e01f93502027712df8ef8b",
+    "question": "橘逾淮為枳的故事提醒我們，在引用新知時，要注意它的什麼？",
+    "options": [
+      "背景",
+      "脈絡",
+      "適用性",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T01:15:31.636Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d6f48a3ef9b2a5eaf0ef07cb86e8e3963f239b83e12be5345cc26d9531328983",
+    "question": "下列何者不是社會救助法近年修法方向？",
+    "options": [
+      "放寬資格",
+      "急難救助",
+      "自立脫貧",
+      "協助致富"
+    ],
+    "type": "單選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "協助致富",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T01:15:31.638Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "496486ae3a2600e9b13d1014b11e7958098dcbc6869cd095ef2ad1c0fc5364b7",
+    "question": "食物銀行首見於1967年美國的聖瑪莉食物銀行。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T01:15:31.640Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cf27b6ced79892f883d5b413526ee9178d25dde6a9df2813ea97156c048ca897",
+    "question": "美國的食物銀行體系，大致可分為哪三大類？",
+    "options": [
+      "食物銀行",
+      "社區型食物銀行",
+      "賑濟美國",
+      "慈善廚房"
+    ],
+    "type": "多選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T01:15:31.641Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
