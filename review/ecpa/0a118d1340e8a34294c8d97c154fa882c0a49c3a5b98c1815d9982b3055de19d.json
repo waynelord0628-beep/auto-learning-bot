@@ -65,13 +65,30 @@
     ],
     "type": "單選",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.953Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T03:20:02.235Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T03:20:01.514Z"
+    },
+    "resolved_answer": "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象"
   },
   {
     "id": "68d732c6c7db7f1c80dec7ee14b2259e6926a22eedef9b14ffb6df20b101c9f4",

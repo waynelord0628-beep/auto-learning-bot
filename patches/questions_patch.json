@@ -61136,5 +61136,30 @@
       "model": null,
       "checked_at": "2026-10-05T03:19:43.114Z"
     }
+  },
+  {
+    "question": "根據台灣幼兒發展調查資料庫顯示，以下何者敘述有誤?",
+    "type": "單選",
+    "options": [
+      "2歲幼兒每天用3C逾1小時恐對情緒發展不利",
+      "常用3C會影響幼兒到青少年大腦",
+      "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象",
+      "發現小一生使用3C時間長，運動量較不足"
+    ],
+    "course": "數位時代的親職",
+    "answer": "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "幼兒使用3C時間雖長，尚不至於出現「3C保母」現象",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T03:20:01.514Z"
+    }
   }
 ]
