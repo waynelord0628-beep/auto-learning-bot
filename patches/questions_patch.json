@@ -61257,5 +61257,28 @@
       "model": null,
       "checked_at": "2026-10-05T05:20:04.807Z"
     }
+  },
+  {
+    "question": "東元電機的OA/Flow使用SaaS服務（軟體即服務）與地端服務是不同的。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "雲端轉型策略與實踐-以BI及OA/Flow系統為例",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/bioaflowee.html",
+          "title": "「雲端轉型策略與實踐-以BI及OA/Flow系統為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T06:19:54.425Z"
+    }
   }
 ]
