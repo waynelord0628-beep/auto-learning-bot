@@ -58,7 +58,11 @@
     "candidate_answer": "C.檢調功能",
     "source": "ai_unverified",
     "created_at": "2026-10-03T05:50:12.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T02:20:03.555Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6c4158ddb27c295e65a76938970364e08dc18d46b54f0b7761fa262ff03ef339",
