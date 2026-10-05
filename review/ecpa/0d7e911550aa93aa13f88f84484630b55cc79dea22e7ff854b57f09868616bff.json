@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "雲端轉型策略與實踐-以BI及OA/Flow系統為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "發展雲原生應用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T13:40:27.535Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T06:20:03.727Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "發展雲原生應用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/bioaflowee.html",
+          "title": "「雲端轉型策略與實踐-以BI及OA/Flow系統為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T06:20:03.001Z"
+    },
+    "resolved_answer": "發展雲原生應用"
   },
   {
     "id": "3a35b1356dba49bec8ad2eb0552e183a6ab6d185c6525ffbb4f68960dbfb48ea",
