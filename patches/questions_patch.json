@@ -61305,5 +61305,28 @@
       "model": null,
       "checked_at": "2026-10-05T06:20:03.001Z"
     }
+  },
+  {
+    "question": "Canva可以透過應用程式產生QR-Code。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "Canva速成大師班",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/canvaee.html",
+          "title": "「Canva速成大師班」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T08:19:47.840Z"
+    }
   }
 ]
