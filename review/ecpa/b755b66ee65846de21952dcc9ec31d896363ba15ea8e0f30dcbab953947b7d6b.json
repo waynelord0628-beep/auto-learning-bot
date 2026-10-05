@@ -21,5 +21,24 @@
     "verify_policy": "course_first_v1",
     "verify_after": "2026-10-08T00:19:51.113Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "04e552df1481b075c72c37514c80cef86952850da07465bbf250cb0b5d6b57bb",
+    "question": "下列何者屬於機構能為社工們在軟體部分所做的預防？",
+    "options": [
+      "機構就服務的特性成立安全小組因應",
+      "機構提供服務者安全相關繼續教育訓練",
+      "製作危機處理手冊",
+      "如何在開案時得知個案的暴力歷史"
+    ],
+    "type": "多選",
+    "course": "社工人身安全正確觀念(一)-社工危機事件處理及復原",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T03:00:00.718Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
