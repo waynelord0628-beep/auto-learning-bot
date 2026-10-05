@@ -127,5 +127,24 @@
     "source": "reported_question",
     "created_at": "2026-10-05T12:07:10.899Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "680cbc9da0981e8769e175d55c3d75b558877f7f301a18199a4a24ff7396039f",
+    "question": "Select the phrase that best completes the sentence.",
+    "options": [
+      "flying fish roe",
+      "squid",
+      "whitebait",
+      "cherry shrimp"
+    ],
+    "type": "單選",
+    "course": "探索台灣最東邊的漁村：馬崗漁港",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-05T12:07:43.175Z",
+    "review_state": "awaiting_evidence"
   }
 ]
