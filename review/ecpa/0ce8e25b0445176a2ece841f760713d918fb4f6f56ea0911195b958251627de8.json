@@ -44,13 +44,30 @@
     ],
     "type": "是非",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.951Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T05:20:05.497Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T05:20:04.807Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9e707aba97f2bcc8526a606c6c9776be54a701f55ac492f137fbb41ecb996161",
