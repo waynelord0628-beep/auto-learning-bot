@@ -139,15 +139,32 @@
     ],
     "type": "單選",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.706Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-25T21:19:39.745Z"
+    "retry_after": "2026-09-25T21:19:39.745Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T00:20:02.655Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "美國要求食品接觸面的接縫無須維持平滑以減少食物顆粒，污垢和有機物質的積聚，減少微生物生長和過敏原交叉接觸的機會。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T00:20:01.746Z"
+    },
+    "resolved_answer": "美國要求食品接觸面的接縫無須維持平滑以減少食物顆粒，污垢和有機物質的積聚，減少微生物生長和過敏原交叉接觸的機會。"
   },
   {
     "id": "1be3739c2cb07d33ca733854dca54aa7eb1d87baf3bb0e854fb86326422b9e98",
