@@ -61185,5 +61185,29 @@
       "model": null,
       "checked_at": "2026-10-05T04:19:51.059Z"
     }
+  },
+  {
+    "question": "行政院於2023年針對AI的應用範圍曾制定以下哪一個重要規範？",
+    "type": "單選",
+    "options": [
+      "資訊公開法",
+      "人工智慧科研發展指引",
+      "行政院及所屬機關(構)使用生成式AI參考指引"
+    ],
+    "course": "生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心",
+    "answer": "行政院及所屬機關(構)使用生成式AI參考指引",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "行政院及所屬機關(構)使用生成式AI參考指引",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-eu-artificial-intelligence-actee.html",
+          "title": "「生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T04:19:57.868Z"
+    }
   }
 ]

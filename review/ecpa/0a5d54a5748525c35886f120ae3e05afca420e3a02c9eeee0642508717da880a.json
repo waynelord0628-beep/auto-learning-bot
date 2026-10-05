@@ -66,13 +66,30 @@
     ],
     "type": "單選",
     "course": "生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政院及所屬機關(構)使用生成式AI參考指引",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-28T05:55:59.618Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T04:19:58.527Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政院及所屬機關(構)使用生成式AI參考指引",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-eu-artificial-intelligence-actee.html",
+          "title": "「生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T04:19:57.868Z"
+    },
+    "resolved_answer": "行政院及所屬機關(構)使用生成式AI參考指引"
   },
   {
     "id": "965ae38b2a698716288c857e55dea915187245f399c607365f99a3429c660206",
