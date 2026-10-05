@@ -546,5 +546,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:10.430Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2ff7633f865226af80a28dd773ec70713e2ef183ab2bf82a9cceb1cabb65ca31",
+    "question": "監護人之權利與義務為何？",
+    "options": [
+      "法定代理人",
+      "開具財產清冊義務",
+      "善良管理人注意義務",
+      "對受監護人財產處分之限制"
+    ],
+    "type": "多選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:09:15.571Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "2d99728cc7704a5d75744f5dd649d40dd758ec08e9c00d5d914610ab04b52d73",
+    "question": "依據家事事件法第175條第1項，受輔助宣告之人不可以變更為監護宣告。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:09:15.574Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7ba7cac4daf855c170251faa618de5b9d31acc056fd82032aacf43e88c4d0d2f",
+    "question": "家事事件法、刑事訴訟法是屬於實體法。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:09:15.575Z",
+    "review_state": "candidate_ready"
   }
 ]
