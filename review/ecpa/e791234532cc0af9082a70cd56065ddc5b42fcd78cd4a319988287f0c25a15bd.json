@@ -133,5 +133,113 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:05:14.723Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cf46337e81fdfd41890f56479cae046b2f44d39cecbe9fc1de6aaf8326db8dbe",
+    "question": "以下何者非監護人之權利與義務？",
+    "options": [
+      "法定代理人",
+      "開具財產清冊義務",
+      "善良管理人注意義務",
+      "處理受監護人之家族大小事務"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "法定代理人",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.216Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "aa4d5ebfce912b8bd506882f667fc339b56e28a0cf8567a6bb4acd633976f31a",
+    "question": "監護人經法院許可，即可以受監護人之財產為投資。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.218Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f92b2aedb59c121c3cc2e56020f37b16bfb9a3a2a7876ef6545173053d462b9b",
+    "question": "監護人不用經法院許可，即可代理受監護人購置或處分不動產。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.218Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "724f192eda44af61765a0dd37046daad91d264ef7dd172f016f81e94fdc7e20f",
+    "question": "身為監護人或輔助人，所要支出的勞力與時間成本很高，依法可以請求報酬。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.219Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "162f5a4870e31e0fc6c317878919d389ea56185d72db4ce42b54ef5fba6986d5",
+    "question": "以下何者不是社工人員於成年監護或輔助宣告事件中可能扮演的角色？",
+    "options": [
+      "聲請人",
+      "特別代理人",
+      "會同開具財產清冊之人",
+      "鑑定人"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "特別代理人",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.221Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2cf6b663d4bcdbd8d598dcfe646fb7ddb419acdc7ccc327c95d49879229c3a21",
+    "question": "提出聲請時，應準備哪些文件？",
+    "options": [
+      "聲請狀",
+      "診斷證明書或身心障礙證明",
+      "財力證明",
+      "戶籍謄本（記事欄不省略）"
+    ],
+    "type": "多選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:07:47.222Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
