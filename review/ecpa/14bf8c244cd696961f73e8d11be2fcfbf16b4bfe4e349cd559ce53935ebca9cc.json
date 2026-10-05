@@ -37,7 +37,11 @@
     "candidate_answer": "私人社群中的私人恩怨爭吵",
     "source": "ai_unverified",
     "created_at": "2026-09-29T14:07:00.613Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T10:20:04.369Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "44b13bd6e5a8690905e788f4962f935de82f86b91bfbbdd67f727698127b8cdb",
