@@ -389,5 +389,41 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:31.820Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e35f360bfc78483b144d3085ee4b156527ba7ddd310d556af57a6c21dfdb2de0",
+    "question": "照護受監護宣告之人之法人或機構及其代表人、負責人，或與該法人或機構有僱傭、委任或其他類似關係之人，不得為該受監護宣告之人之監護人。但為該受監護宣告之人之配偶、四親等內之血親或二親等內之姻親者，不在此限。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:37.730Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3d2cb906c889bcede3499fb4188c623edaf4d6f276f2245cafbc690e36171599",
+    "question": "實現實體法律(包含如何運用或施行實體法）的法律，亦即規定行使權利、履行義務、確定責任、效果及範圍等的方法指的是？",
+    "options": [
+      "家事事件法",
+      "民事訴訟法",
+      "程序法",
+      "實體法"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "程序法",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:37.731Z",
+    "review_state": "candidate_ready"
   }
 ]
