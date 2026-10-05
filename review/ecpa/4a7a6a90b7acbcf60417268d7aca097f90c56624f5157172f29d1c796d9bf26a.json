@@ -245,5 +245,43 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:57:07.964Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2047051ec41d30db2d926cf995dd51499c3dd993186e7f1221ebfeee35e7b30b",
+    "question": "請問哪一個非IT資安治理成熟度架構之面向?",
+    "options": [
+      "技術面",
+      "法遵面",
+      "管理面",
+      "策略面"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "法遵面",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T00:03:01.403Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4bd603e132614ac45f3eed33d8a72b635cd0f71d2ecf4d21899da6a655e49485",
+    "question": "目錄服務系統與核心資通系統之日誌紀錄，至少應保存多久?",
+    "options": [
+      "兩個月",
+      "四個月",
+      "六個月",
+      "三個月"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "六個月",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T00:03:01.405Z",
+    "review_state": "candidate_ready"
   }
 ]
