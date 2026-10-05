@@ -423,5 +423,39 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T12:13:08.514Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5212dd0078bc74a543428a22e736f8d0e00655a538e1e8e4770fea7a92811482",
+    "question": "體育教學或運動訓練上，對學生而言，教師或教練是居於保證人地位，去建構其應有之法律上義務與責任",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部專任運動教練線上課程_法律義務與責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T12:14:15.437Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ecaf8d054d99f92e65d19834a993cf8b6d8276fb4135c9b01f29a2b13b56e324",
+    "question": "在訓練實施上，教練得考量訓練強度之要求，課予運動員可能過度負擔的訓練內容，並無傷害之故意，無任何法律責任可言。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部專任運動教練線上課程_法律義務與責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T12:14:15.440Z",
+    "review_state": "candidate_ready"
   }
 ]
