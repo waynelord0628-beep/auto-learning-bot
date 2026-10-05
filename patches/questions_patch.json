@@ -61161,5 +61161,29 @@
       "model": null,
       "checked_at": "2026-10-05T03:20:01.514Z"
     }
+  },
+  {
+    "question": "以下何者不是ChatGPT對人類可能產生的風險？",
+    "type": "單選",
+    "options": [
+      "隱私和安全",
+      "造成過度依賴",
+      "違反道德規範"
+    ],
+    "course": "生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心",
+    "answer": "違反道德規範",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "違反道德規範",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ai-eu-artificial-intelligence-actee.html",
+          "title": "「生成式AI之智慧治理與風險管控-以歐盟人工智慧法案（EU Artificial Intelligence Act）為中心」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T04:19:51.059Z"
+    }
   }
 ]
