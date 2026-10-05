@@ -42,13 +42,30 @@
     ],
     "type": "是非",
     "course": "111年追溯追蹤說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T06:06:46.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T01:19:50.208Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343005805",
+          "title": "111年追溯追蹤說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T01:19:49.559Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "db487721ed2ce08b3e794ba1e7b3664a7f1fc033f1f2568be4307a18bca49ae4",

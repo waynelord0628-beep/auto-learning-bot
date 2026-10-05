@@ -61067,5 +61067,28 @@
       "model": null,
       "checked_at": "2026-10-05T01:19:42.398Z"
     }
+  },
+  {
+    "question": "我司擁有兩項產品，分別為黑胡椒冷凍豬肉片(300g/盒)與沙茶冷凍豬肉片(300g/盒)，由於皆為相同規格的豬肉片，故可使用相同的「產品自編碼」。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "111年追溯追蹤說明會",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343005805",
+          "title": "111年追溯追蹤說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T01:19:49.559Z"
+    }
   }
 ]
