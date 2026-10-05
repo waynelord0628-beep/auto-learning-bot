@@ -283,5 +283,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:03:01.405Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1f887d61f0f517adb485c06455c5b039d6ada8a62513c4ec0705e470356e6906",
+    "question": "依資通安全責任等級分級辦法之應辦事項，資安責任等級A級與B級之公務機關與關鍵基礎設施提供者，每隔多久應辦理一次資安治理成熟度評估?",
+    "options": [
+      "每季辦理一次",
+      "每半年辦理一次",
+      "每年辦理一次",
+      "兩年辦理一次"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "每年辦理一次",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T00:03:07.125Z",
+    "review_state": "candidate_ready"
   }
 ]
