@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.950Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T05:19:56.389Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "食品添加物使用應符合「食品添加物使用範圍及限量暨規格標準」",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T05:19:55.748Z"
+    },
+    "resolved_answer": "食品添加物使用應符合「食品添加物使用範圍及限量暨規格標準」"
   },
   {
     "id": "d26b0fee9b70a860fb357da0d2abc487a7d1d8088052622bcd01db05f1bb9188",
