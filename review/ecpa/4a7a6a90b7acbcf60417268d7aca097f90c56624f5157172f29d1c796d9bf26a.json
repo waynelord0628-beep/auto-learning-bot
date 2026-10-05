@@ -302,5 +302,62 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:03:07.125Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f65792fffc69a0bad5722e5d3be3ce343e67aa7211e956762a8aaca4412819c",
+    "question": "某機關於「M3資安認知與教育訓練」流程構面4題問項分數分別為3、4、2、5，請問該機關之M3流程構面能力度為第幾級?",
+    "options": [
+      "第3級",
+      "第2級",
+      "第5級",
+      "第4級"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第4級",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T17:27:04.899Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d170167f2588555df7e92ba5d98aa0103a9f2a5581e041cbfca3966338deae20",
+    "question": "一般使用者與主管，每人每年應接受幾小時以上之資通安全通識教育訓練?",
+    "options": [
+      "2小時",
+      "3小時",
+      "4小時",
+      "6小時"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2小時",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T17:27:04.900Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6dd1a01b6d866ecd906233fb427b8487cda31795f8d3bd07f22ab5faadee341c",
+    "question": "關於資安治理成熟度評估的能力度與成熟度等級，下列敘述何者正確？",
+    "options": [
+      "成熟度等級分為5級;能力度等級分為4級",
+      "能力度等級分為4級;成熟度等級分為5級",
+      "能力度等級用於描繪組織的整體狀態;成熟度等級用於描繪組織流程於特定流程構面中的狀態",
+      "能力度等級用於描繪組織流程於特定流程構面中的狀態;成熟度等級用於描繪組織的整體狀態"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "能力度等級分為4級;成熟度等級分為5級",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T17:27:04.901Z",
+    "review_state": "candidate_ready"
   }
 ]
