@@ -110,13 +110,30 @@
     ],
     "type": "是非",
     "course": "Canva速成大師班",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:48:35.292Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-12T08:20:03.695Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/canvaee.html",
+          "title": "「Canva速成大師班」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-05T08:20:03.028Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3fd1fa8e510fc11c14d59be28a580ea42e00791b875a8abbf12e2186a8b7f6d2",
