@@ -377,5 +377,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:44.338Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c1bee5f9c54e4351562d5e682cd61b556317c6bf93dd96232cc6325916c0602a",
+    "question": "承上題，台灣在威權統治時代政府之重大決策，如若涉及跨部門之協調作業，往往由執政黨相關部門邀集各政府機關召開協調會議，此種以黨領政之模式，可以政治學上何種概念稱呼之？",
+    "options": [
+      "蘇丹主義(Sultanism)",
+      "黨國體制(Party-State regime)",
+      "強人政治(Caudillismo)",
+      "極權主義(Totalitarianism)"
+    ],
+    "type": "單選",
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "黨國體制(Party-State regime)",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T00:05:48.835Z",
+    "review_state": "candidate_ready"
   }
 ]
