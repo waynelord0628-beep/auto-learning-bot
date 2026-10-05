@@ -241,5 +241,153 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:07:47.222Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e00fdaaf8225f7c6bbdd450a2ba48b054415bb1ff69c2fd7b32ec191e9a52946",
+    "question": "提出聲請時，應向管轄法院，即專屬應受監護、輔助宣告之人之住所地或居所地法院管轄。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.817Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93304bb04463840f9192707c755d1700766754f5e78f5adf50a4bc993ee79881",
+    "question": "以下哪些為監護人之權利與義務？",
+    "options": [
+      "善良管理人注意義務",
+      "受讓財產之禁止",
+      "報酬請求權",
+      "損害賠償責任"
+    ],
+    "type": "多選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.818Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "5c260a894f1523d5108250a00aded1a815df0164323b656186df288e173da16e",
+    "question": "規範法律關係內容之法律，即規定權利義務、法律效果之範圍，指的是？",
+    "options": [
+      "家事事件法",
+      "民事訴訟法",
+      "程序法",
+      "實體法"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "實體法",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.818Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f3a1b63aefde7c16c96855c4ee742f06ecaa7c30f9f60a3f56c5d9a45e4c36f7",
+    "question": "什麼情況下監護人可代理受監護人購置或處分不動產？",
+    "options": [
+      "受監護人急需用錢時",
+      "經法院許可",
+      "為了受監護人家人的利益",
+      "幫受監護人投資"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "經法院許可",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.818Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f4127751b2df6b80ed3a26bc82c765b48c1f28a4d7e8c1943f410eefc81d3be3",
+    "question": "關於意定監護，下列敘述何者為非？",
+    "options": [
+      "本人得隨時撤回意定監護契約",
+      "意定監護契約可以約定報酬",
+      "意定監護契約需要經過公證",
+      "法院不得依職權判斷意定監護受任人是否有不利本人或顯不適任之狀況"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "意定監護契約需要經過公證",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.819Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c1d0e05d61433cb25801dca2015d6144c3aea634640b94d8bac9708a0f04e4d2",
+    "question": "阿明雖然才18歲，但已經開始工作，且有能力照護失智的奶奶，社工師可建議其聲請成為奶奶的監護人。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.819Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8a1b878ab1243e33b87fc3bde0e256bafc1e26a10abcb2adb10b7d15352fc1a2",
+    "question": "以下何者為社工人員於成年監護或輔助宣告事件中可能扮演的角色？",
+    "options": [
+      "聲請人",
+      "擔任監護人或輔助人",
+      "會同開具財產清冊之人",
+      "程序監理人"
+    ],
+    "type": "多選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.819Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0be1297cfee88285e4662d67e06768f0f1ea991c9243d87289d7527083ba22dc",
+    "question": "一位已聲請監護宣告的老爺爺某天突然從植物人狀態甦醒，但其意思表示顯有不足，仍有輔助之必要，此時法院得依民法第十五條之一第一項規定，將其變更為什麼？",
+    "options": [
+      "身心障礙",
+      "長照補助",
+      "監護宣告",
+      "輔助宣告"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "輔助宣告",
+    "source": "ai_unverified",
+    "created_at": "2026-10-05T04:08:31.820Z",
+    "review_state": "candidate_ready"
   }
 ]
