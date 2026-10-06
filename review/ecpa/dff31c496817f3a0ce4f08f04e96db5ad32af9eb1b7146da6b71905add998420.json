@@ -318,5 +318,75 @@
       "checked_at": "2026-09-18T02:42:31.720Z"
     },
     "verification_status": "source_supported"
+  },
+  {
+    "id": "52fd4593b3a0a87221f891e48a60c00eb5fc3ace5ca426d20bfe7df97fe2141d",
+    "question": "資訊安全防範對策有哪些？",
+    "options": [
+      "社交工程",
+      "郵件安全設定",
+      "釣魚網站",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "資訊安全威脅與防護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T13:38:33.918Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "04c46c37ba4dd3feb7b5da62ca906cc07c0e456184fcabcf5284451ecf44d689",
+    "question": "2021 年末資安界最大的新聞莫過於 Log4j 的漏洞，甚至被一些人形容為「核彈級漏洞」。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "資訊安全威脅與防護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T13:38:33.920Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fb1b2b0422f686bcee499c8237b33601d2f8463fcb9afb786e6350feb4b2c842",
+    "question": "使用網路銀行要小心，詐騙集團會用假的表單引您上當。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "資訊安全威脅與防護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T13:38:33.921Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b62778a4d5effe9630f897507d9bb2317cbecce88579ec6fee312bb8739815a9",
+    "question": "駭客透過手機簡訊釣魚取得用戶網路銀行個資。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "資訊安全威脅與防護",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T13:38:33.921Z",
+    "review_state": "candidate_ready"
   }
 ]
