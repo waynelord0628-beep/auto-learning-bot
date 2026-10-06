@@ -9645,5 +9645,60 @@
     "opt2": "",
     "opt3": "",
     "updated_at": "2026-10-06T21:31:05.514Z"
+  },
+  {
+    "course_id": 5637,
+    "q_key": "Cầnrửataytrướckhichếbiếnthựcph",
+    "q_text": "Cần rửa tay trước khi chế biến thực phẩm, và dung dịch sát khuẩn tay chứa cồn có thể thay thể hoàn toàn việc rửa tay bằng nước và xà phòng.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-10-06T22:36:29.002Z"
+  },
+  {
+    "course_id": 5637,
+    "q_key": "Thựcphẩmđượcđónggóibằngtúinhựa",
+    "q_text": "Thực phẩm được đóng gói bằng túi nhựa có thể đặt trực tiếp trên sàn mà không cần sử dụng pallet hoặc kệ chứa hàng.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-10-06T22:36:29.003Z"
+  },
+  {
+    "course_id": 5637,
+    "q_key": "Saladtrứngdocơsởkinhdoanhănuốn",
+    "q_text": "Salad trứng do cơ sở kinh doanh ăn uống chế biến lúc 1 giờ chiều, sau đó được bảo quản trong tủ trưng bày lạnh tối đa 6 giờ, nếu chưa bán hết thì có thể tiếp tục bảo quản lạnh và bán lại vào ngày hôm sau.",
+    "val": "0",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-10-06T22:36:29.003Z"
+  },
+  {
+    "course_id": 5637,
+    "q_key": "Khuvựclàmviệccầnluônduytrìngăn",
+    "q_text": "Khu vực làm việc cần luôn duy trì ngăn nắp, gọn gàng, sạch sẽ, đủ ánh sáng và được khử trùng định kỳ.",
+    "val": "1",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-10-06T22:36:29.003Z"
+  },
+  {
+    "course_id": 5637,
+    "q_key": "Hànghóacầnđượcphânloạivàđượcbả",
+    "q_text": "Hàng hóa cần được phân loại và được bảo quản riêng trên pallet, kệ hoặc bằng các biện pháp hiệu quả khác, đồng thời duy trì sạch sẽ. Không được đặt trực tiếp xuống sàn nhà hoặc xếp chồng gần cửa kho làm ảnh hưởng đến việc xuất nhập hàng hóa.",
+    "val": "1",
+    "opt0": "非",
+    "opt1": "是",
+    "opt2": "",
+    "opt3": "",
+    "updated_at": "2026-10-06T22:36:29.003Z"
   }
 ]
