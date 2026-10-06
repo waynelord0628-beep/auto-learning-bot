@@ -1,0 +1,192 @@
+[
+  {
+    "id": "115655f9ffb286f34f618a840aa697663b8bf7fd3716aaea36feea88a1f84060",
+    "question": "當金融機構委外使用雲端服務時，對雲端服務業者負有的最終義務？",
+    "options": [
+      "保密義務",
+      "監督義務",
+      "支付義務",
+      "報告義務"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "監督義務",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.649Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "66d0b8518df216e9259e638fa6882a0b836548713efb11f16df0108650dc248d",
+    "question": "當金融機構資料上雲，如何保護客戶資料？",
+    "options": [
+      "無須特別保護，以提高效率",
+      "僅需告知客戶資料可能被使用",
+      "由客戶自行負責資料安全",
+      "應建立嚴格的資料保護措施"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "應建立嚴格的資料保護措施",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.651Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8fa7b9802e48ec69aa02e5af16edcccc11bd1e3f95a93ea6a6456e06e8027b0e",
+    "question": "金融機構在進行雲端服務的風險評估時，建議優先考量什麼？",
+    "options": [
+      "雲端服務的使用模式與情境",
+      "雲端服務價格",
+      "雲端服務業者的品牌",
+      "雲端資料空間和處理速度"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "雲端服務的使用模式與情境",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.652Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0c5807fe3df1716084c163e7074d3823201cc4f685c52c619b49e0667c74fc9e",
+    "question": "金融機構對於雲端服務業者處理的資料應保有？",
+    "options": [
+      "完整所有權",
+      "部分所有權",
+      "無所有權",
+      "共同所有權"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "完整所有權",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.652Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "95ae54de60ab1536f00bdb4aeb99369afea7b76308b948584d34f0805534a5d6",
+    "question": "根據本課程內容，金融機構強化重要核心資料保全機制有哪些？",
+    "options": [
+      "資料加密",
+      "資料分持",
+      "資料備份儲存於第三地或雲端",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.653Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed435a1d58170677d7419435a57df1ff96596c18e54421f1b30efa4d368d6be9",
+    "question": "根據本課程內容，請問資料備份「321原則」中的\"1\"代表什麼？",
+    "options": [
+      "每天進行1次備份",
+      "備份1個檔案副本",
+      "使用1種備份方法",
+      "將1個備份副本存放在異地"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "將1個備份副本存放在異地",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.653Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4375144c081438feb42bb78267ccb59d6a578bcdfd88b05b4c6c68b39710a96d",
+    "question": "金融機構委外雲端服務，應如何管理？",
+    "options": [
+      "應建立完整的委外管理機制",
+      "無須特別管理",
+      "僅需定期審查合約",
+      "全權委託外部廠商處理"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "應建立完整的委外管理機制",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.654Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fe7ff318afef66bd1884118151618679cbc16bf0f37838e765a0b80f9299dfc4",
+    "question": "為什麼金融機構要進行資料備份？",
+    "options": [
+      "降低成本",
+      "減少人力成本",
+      "確保資料安全和可恢復性",
+      "節省資料儲存空間"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "確保資料安全和可恢復性",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.654Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "00f52b24f871d917302e3c7dc1ac8d2dfc179922305ce8fa0ae2b378b46b65e6",
+    "question": "為確保資安管控，金融機構使用雲端服務，應建立哪種管理機制？",
+    "options": [
+      "人力資源管理機制",
+      "資訊安全事件通報與管理機制",
+      "財務管理機制",
+      "客戶關係管理機制"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資訊安全事件通報與管理機制",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.655Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b1a88cceaff509993146a71c968e56b9969bd0993caad43105f6cf7a0a998113",
+    "question": "駭客組織經常利用哪些手段來竊取金融機構的敏感數據？",
+    "options": [
+      "暗網購買帳號密碼",
+      "社交工程",
+      "離職員工帳號",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "金融上雲應注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T06:56:45.655Z",
+    "review_state": "candidate_ready"
+  }
+]
