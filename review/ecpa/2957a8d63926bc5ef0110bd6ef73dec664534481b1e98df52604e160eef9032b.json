@@ -184,13 +184,30 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "大數據、人工智慧、物聯網",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.255Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T11:20:15.867Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "大數據、人工智慧、物聯網",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T11:20:13.705Z"
+    },
+    "resolved_answer": "大數據、人工智慧、物聯網"
   },
   {
     "id": "f9cc5802fdddeed4db8bb5d040ef86e1726862c929d4d6b7ff015b5c899ab403",
