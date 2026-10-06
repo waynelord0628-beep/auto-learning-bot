@@ -115,13 +115,30 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.252Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T11:19:54.295Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "通過《美國健康保險流通與責任法（HIPAA）》合規性驗證，以確保醫療資訊的應用、交換機制及保護規範符合資安接軌國際，助醫院安心加速導入",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T11:19:53.396Z"
+    },
+    "resolved_answer": "通過《美國健康保險流通與責任法（HIPAA）》合規性驗證，以確保醫療資訊的應用、交換機制及保護規範符合資安接軌國際，助醫院安心加速導入"
   },
   {
     "id": "fb3fc8e41768a73858b121067cab391136b03100cb6a6e4d406b0342b371face",
