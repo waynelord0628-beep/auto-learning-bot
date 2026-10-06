@@ -190,13 +190,30 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減少醫療疏失與溝通誤會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T06:19:59.046Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "減少醫療疏失與溝通誤會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T06:19:58.365Z"
+    },
+    "resolved_answer": "減少醫療疏失與溝通誤會"
   },
   {
     "id": "26b6bb1066da75ed534fef63078d4f821b26c0b4915333c8720d4bd6ba312b7e",
