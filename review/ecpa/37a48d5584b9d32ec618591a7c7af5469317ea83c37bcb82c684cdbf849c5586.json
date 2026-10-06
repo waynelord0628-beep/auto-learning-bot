@@ -330,5 +330,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T01:27:39.089Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b2daf9b2252ae4c8c823218878793ed7029f1d01d01ea07488451aa369972efc",
+    "question": "下列何者較適合作為OT設備故障管理之衡量指標？",
+    "options": [
+      "服務水準協議(SLA)",
+      "OT設備採購預算",
+      "OT設備能源耗用量",
+      "OT設備使用部門數量"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "服務水準協議(SLA)",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T01:28:34.306Z",
+    "review_state": "candidate_ready"
   }
 ]
