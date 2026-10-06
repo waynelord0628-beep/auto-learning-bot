@@ -1,0 +1,182 @@
+[
+  {
+    "id": "84637a959bc2e6172efcca85ed2520b0dfe01c7bcda4bad1593a2cbafab98e5f",
+    "question": "http 或 https 協定僅代表網頁版本的不同，在資安方面沒有什麼差別。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.668Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a2c5c3813789a2fa6352c4d92f43089a1fb07519a1f22943cec8ce2c0ae8a9eb",
+    "question": "使用ChatGPT時仍須謹慎，應去隱私化後再將資料上傳以降低機敏資料外洩風險。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.670Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5b8c2cdf0ba639c2bdd6f9dc3101ce00c499c548d58a426d9457769dad55af47",
+    "question": "郵件信箱與 VPN 服務建議搭配多因子驗證 (MFA)，以進一步提升安全等級。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.670Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4758566cb1f6dbfbe13811d626e8f653890effdec7528ae97e1e4d7910c579e6",
+    "question": "出國在外如何提升與加強電腦安全？",
+    "options": [
+      "不使用來路不明的USB硬體或設備",
+      "硬體或USB都使用加密功能",
+      "使用自己的充電器",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.671Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1b2d5a236d0e17c0ac44bcd8681709ca112b7019e0ca114bfe1ffd02905825d1",
+    "question": "依行政院秘書長函規定，公務用之資通訊設備不得使用大陸廠牌，以避免公務及機敏資料遭不當竊取。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.672Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "10f4028a511f152add2a07e9a55f3d3dd823ef5f15bd0040aad7d46a97d9e805",
+    "question": "下列何者不是建置資安 PDCA 的一環？",
+    "options": [
+      "Plan",
+      "Check",
+      "Error",
+      "Action"
+    ],
+    "type": "單選",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Error",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.674Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "92e273770d9875cdf55be387cc72ceb48735c8f9fe764c433414253a1b0358c1",
+    "question": "咖啡廳或餐廳牆上貼有 WiFi 的帳號與密碼，因為有加密，使用上無資安疑慮。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.674Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ef8c932cb4f6288f6373315958877ebab4d8059067a9862a904e43f7ed5463c2",
+    "question": "按照目前資安法規定，何者不是電腦安全應有的基本要求與保護？",
+    "options": [
+      "端點偵測與回應",
+      "不輕易更換密碼",
+      "防毒軟體",
+      "政府組織基準"
+    ],
+    "type": "單選",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不輕易更換密碼",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.675Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93cd108d74663e8c83e1451f7aa10b38a68b73ab6548287d7da3be4983a65d3f",
+    "question": "何者不是提升密碼安全的建議？",
+    "options": [
+      "使用不規則的英數組合字串",
+      "不同系統避免使用相同密碼",
+      "搭配多因子驗證(MFA)",
+      "避免使用太長密碼以免忘記"
+    ],
+    "type": "單選",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "避免使用太長密碼以免忘記",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.676Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1598f075699622ac722cf98c8c99de41c0991857fcf6f1b4fb53d56cb5a041c6",
+    "question": "何者是達到資安所需的條件？",
+    "options": [
+      "與時俱進的資安技術",
+      "嚴謹的追蹤管考",
+      "資安的警覺意識",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "【資安通識】如何安全地使用電腦",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T15:04:03.677Z",
+    "review_state": "candidate_ready"
+  }
+]
