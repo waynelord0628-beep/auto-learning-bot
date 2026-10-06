@@ -148,13 +148,30 @@
     ],
     "type": "是非",
     "course": "我國性別平等政策綱領與重要議題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T00:29:12.848Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T07:19:49.379Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_57.html",
+          "title": "「我國性別平等政策綱領與重要議題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T07:19:48.637Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "be717ea5d3a25dd1f4105363fb01e8482e99e448ad958efb2c87ce46323d404f",
