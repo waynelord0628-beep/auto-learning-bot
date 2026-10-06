@@ -245,5 +245,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:57.831Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ca8a20bfcb1501693fce4272f4347fe5b5d3d3ef349da12898e3c7cbb68ab1db",
+    "question": "公營事業/財團法人經核定為下列何者應優先適用「資通安全管理法」之規定？",
+    "options": [
+      "關鍵基礎設施(CI)提供者",
+      "公營事業",
+      "政府捐助之財團法人",
+      "公務機關"
+    ],
+    "type": "單選",
+    "course": "資訊安全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "關鍵基礎設施(CI)提供者",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:24:28.074Z",
+    "review_state": "candidate_ready"
   }
 ]
