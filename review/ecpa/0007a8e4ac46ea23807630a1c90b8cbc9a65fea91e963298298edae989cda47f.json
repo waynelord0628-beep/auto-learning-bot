@@ -188,5 +188,62 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.052Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0e7a9c331ba68dd470517a1bc16f159b271670a4c5286f540de0a8a5bdcd0767",
+    "question": "發現電腦被勒索軟體時第一時間要如何進行緊急處理？",
+    "options": [
+      "中斷網路連線",
+      "電腦關機",
+      "電腦重灌",
+      "啟動備份"
+    ],
+    "type": "單選",
+    "course": "資訊安全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "中斷網路連線",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:23:57.820Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "192ee4d101a54d4904b7eff31fcdaa3f981893f29fb84624db34c9930eb801da",
+    "question": "下列何者非「國家資安發展方案(110年至113年)」之「策略二：推動公私協同治理 提升關鍵設施韌性」之具體措施？",
+    "options": [
+      "擴大國際參與及深化跨國情資分享",
+      "建立各領域公私協同治理運作機制",
+      "增強人員資安意識與能力建構",
+      "公私合作深化平時情資交流與應變演練"
+    ],
+    "type": "單選",
+    "course": "資訊安全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "增強人員資安意識與能力建構",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:23:57.826Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f479339f3755e30e1ee7f9d02e8ac5d7a234dda21d8d0ff89546b00eb02508a7",
+    "question": "下列機關對於廠商系統遠端維護應採：",
+    "options": [
+      "「原則開放、例外禁止」",
+      "「原則禁止、例外允許」",
+      "「原則允許、例外禁止」",
+      "「原則開放、例外允許」"
+    ],
+    "type": "單選",
+    "course": "資訊安全",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "「原則允許、例外禁止」",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:23:57.831Z",
+    "review_state": "candidate_ready"
   }
 ]
