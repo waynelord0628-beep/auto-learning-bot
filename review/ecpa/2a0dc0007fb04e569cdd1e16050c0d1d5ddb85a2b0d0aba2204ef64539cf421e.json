@@ -62,7 +62,11 @@
     "candidate_answer": "Dall E模型",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.394Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T12:20:25.867Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a9ec6f6550eedd89cfc616ec81a617b544fc13249cc96a7e37f184b8a721f785",
