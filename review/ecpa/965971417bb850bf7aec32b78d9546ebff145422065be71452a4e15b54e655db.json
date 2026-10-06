@@ -178,5 +178,41 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.583Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c29bafbc8d4cc53cadd25d819dc2da3eb2620ed59d9d8924f7b47e59f76fdcc7",
+    "question": "使用 Gem 產生公文草稿後，只要文字看起來完整，就可以直接作為正式公文發出，不必再檢查。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "點石成Gem-打造你的AI工作搭檔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T02:55:11.172Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "60419d3e2ce3bb53e6a5a3dca83a9d595fad893506bab9c480cc7d456cc91caf",
+    "question": "如果想利用 Gem 協助草擬公文，下列哪一種做法較符合課程所介紹的觀念？",
+    "options": [
+      "不提供任何資料，要求 AI 自行猜測公文內容",
+      "產出後不經檢查直接發文",
+      "將所有機密資料全部上傳",
+      "提供適當的原始資料，由 Gem 協助轉換成公文草稿，再進行檢視與優化"
+    ],
+    "type": "單選",
+    "course": "點石成Gem-打造你的AI工作搭檔",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提供適當的原始資料，由 Gem 協助轉換成公文草稿，再進行檢視與優化",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T02:55:11.173Z",
+    "review_state": "candidate_ready"
   }
 ]
