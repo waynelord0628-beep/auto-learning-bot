@@ -359,5 +359,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T17:27:04.901Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cd2e99272469900b8f4f2f157b38056f0c58a9e0df6d6cafabdc518d8b7eff49",
+    "question": "「該流程可透過衡量結果，了解執行成效」；「該流程已被量化管理」，指的是哪個能力度等級的定義?",
+    "options": [
+      "Level 4 可預測流程",
+      "Level 3 標準化流程",
+      "Level 2 已管理流程",
+      "Level 1 已執行流程"
+    ],
+    "type": "單選",
+    "course": "IT資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Level 3 標準化流程",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T23:58:45.473Z",
+    "review_state": "candidate_ready"
   }
 ]
