@@ -16,7 +16,11 @@
     "candidate_answer": "社群媒體管理",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.389Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T12:19:58.907Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0927135b6301ec9c16591a8566712bbf46822201e68d2b0a1af221bf482c7634",
