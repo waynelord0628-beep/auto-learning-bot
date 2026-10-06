@@ -61755,5 +61755,30 @@
       "model": null,
       "checked_at": "2026-10-06T11:20:13.705Z"
     }
+  },
+  {
+    "question": "根據本課程內容，花蓮慈濟醫院為何要建置大數據資料庫？",
+    "type": "單選",
+    "options": [
+      "維護病患隱私",
+      "作為AI模型訓練基礎",
+      "符合法規要求",
+      "以上皆是"
+    ],
+    "course": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享",
+    "answer": "作為AI模型訓練基礎",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "作為AI模型訓練基礎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170461",
+          "title": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T14:19:50.835Z"
+    }
   }
 ]

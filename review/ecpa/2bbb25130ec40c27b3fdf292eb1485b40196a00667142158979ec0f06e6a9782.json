@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T11:23:16.122Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T14:19:51.916Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "作為AI模型訓練基礎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170461",
+          "title": "邁向AI與雲端：花蓮慈濟醫院數位轉型多重宇宙經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T14:19:50.835Z"
+    },
+    "resolved_answer": "作為AI模型訓練基礎"
   },
   {
     "id": "9843e3ab699265b45890448ac4f751b64516ef88e9bb6c2c184a233f8cb26114",
