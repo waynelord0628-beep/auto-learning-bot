@@ -39,7 +39,11 @@
     "candidate_answer": "上傳音檔並進行逐字稿分析",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.393Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T12:20:13.019Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "79e772d1eb9247d125897c8fb961d1444981bc267df513ad16a05b9a1fd7080a",
