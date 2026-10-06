@@ -273,5 +273,62 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.942Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "801337c097dca1dd121ad0d671d5c81d86b0db3fc827c8c441331c0978f96d88",
+    "question": "若機關已建立「評估委外廠商資安能力」之作業程序規範，並落實執行，可對應哪一能力度層次？",
+    "options": [
+      "能力度等級1",
+      "能力度等級2",
+      "能力度等級3",
+      "能力度等級4"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "能力度等級2",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T01:27:39.085Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "580803b6dc61cf9659de40f5baa45238931c45d9e2c547e92f20cfbbadc71a86",
+    "question": "下列哪些可作為OT人員完成教育訓練之佐證資料？",
+    "options": [
+      "教育訓練證書",
+      "測驗結果",
+      "訓練計畫",
+      "課程宣導資料"
+    ],
+    "type": "多選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T01:27:39.087Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b3946a5a70354c950297bb297c864acf5df93d4a9caa9c0d4f0d643c70d393e7",
+    "question": "在OT資安治理成熟度評估中，「能力度」主要是在描述下列何者？",
+    "options": [
+      "特定流程構面的執行情況",
+      "整體OT資安治理做到的程度",
+      "OT設備採購數量",
+      "機關人力配置情況"
+    ],
+    "type": "單選",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "整體OT資安治理做到的程度",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T01:27:39.089Z",
+    "review_state": "candidate_ready"
   }
 ]
