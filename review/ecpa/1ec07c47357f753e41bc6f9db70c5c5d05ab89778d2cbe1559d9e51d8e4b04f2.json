@@ -60,7 +60,11 @@
     "candidate_answer": "國際勞工組織第188號《漁業工作公約》",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.597Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T03:20:00.295Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "09ced3ae45c855e0d97b4820aae4f81350e2ea21ebf6d3a18bba2b5a9e3443d5",
