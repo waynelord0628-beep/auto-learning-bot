@@ -317,5 +317,41 @@
     "source": "reported_question",
     "created_at": "2026-09-25T05:04:52.198Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "720312e2a9ecb9e38209dbaf57d7c3341ee08ff7a6a2816e01ba381ec666ca14",
+    "question": "減少二氧化碳的排放主要可從能源部門與土地利用部門著手。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T10:30:53.111Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e83fb2d592096fca36acf5aebf4728d9a2e6736bb035a194baa4bfedd9ab1a9f",
+    "question": "SDG 7(可負擔的乾淨能源）,，SDG 8（經濟發展與尊嚴就業），SDG 13（氣候行動）三者的交集所產生的共同利益，最有可能是下列何者？",
+    "options": [
+      "資源回收再利用",
+      "發展再生能源",
+      "蔬食減碳愛地球",
+      "隨手關燈節約用電"
+    ],
+    "type": "單選",
+    "course": "2050淨零路徑與城市責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "發展再生能源",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T10:30:53.115Z",
+    "review_state": "candidate_ready"
   }
 ]
