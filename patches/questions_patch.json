@@ -61420,5 +61420,30 @@
       "model": null,
       "checked_at": "2026-10-06T00:20:03.524Z"
     }
+  },
+  {
+    "question": "奇美醫院透過何種方式減輕藥師負擔？",
+    "type": "單選",
+    "options": [
+      "增加藥師人數",
+      "導入智能化療調配機器手臂",
+      "簡化藥單格式",
+      "減少處方種類"
+    ],
+    "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
+    "answer": "導入智能化療調配機器手臂",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "導入智能化療調配機器手臂",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T06:19:43.167Z"
+    }
   }
 ]
