@@ -42,13 +42,30 @@
     ],
     "type": "是非",
     "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:05:54.091Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T00:20:04.161Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T00:20:03.524Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "2077a214393f1cc7fdd1d5c7b4dd3e424f0ecb5aa9294b9110145f9bda5f792a",

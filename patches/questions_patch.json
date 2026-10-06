@@ -61397,5 +61397,28 @@
       "model": null,
       "checked_at": "2026-10-06T00:19:54.966Z"
     }
+  },
+  {
+    "question": "為避免過度關懷同事，應盡量避免關懷同事嗎?",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T00:20:03.524Z"
+    }
   }
 ]
