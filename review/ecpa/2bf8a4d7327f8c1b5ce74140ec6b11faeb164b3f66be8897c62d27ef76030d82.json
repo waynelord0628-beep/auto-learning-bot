@@ -105,13 +105,30 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The boat does not meet his expectations.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.822Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T15:20:00.402Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The boat does not meet his expectations.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T15:19:59.007Z"
+    },
+    "resolved_answer": "The boat does not meet his expectations."
   },
   {
     "id": "63bf77d773c391486babee7d011786745554029f994e586f9c61278244b1567a",
