@@ -16,7 +16,11 @@
     "candidate_answer": "涵蓋「卸貨、拍賣、包裝、運輸、銷售」的全程",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.596Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T03:19:47.013Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7a35792118820cc02f231e449e4c3074a8360a5eaf762a9d3fa1a4f2b641bc68",
