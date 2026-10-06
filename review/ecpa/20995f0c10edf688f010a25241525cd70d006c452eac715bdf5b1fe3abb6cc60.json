@@ -180,5 +180,92 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T16:54:02.218Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "496efa18fb0925aed31fde6af904c343421b5c5dc3feff78795c9012d0f57340",
+    "question": "目前大部分企畫書中的計畫架構裡，會把「WHO：目標對象、組織架構/外部協力」的放置順序改成至「WHY：展覽緣起/目的」之下。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T08:11:21.464Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "611c2a4378b39e55b7803c88ba20fdeb8cd58cac7d8e8398ae7694a5c5fb1ed1",
+    "question": "專業設計師在進行展覽主視覺設計前，需先理解策展論述與理念，以作為設計發展的依據。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T08:11:21.465Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "88907bf03145e30bd31373eb1372d3c13e0eb9ae00ffa26c82c88df3ca2be590",
+    "question": "策展與行銷具體來說有哪三個要素？",
+    "options": [
+      "內容建構(文本)",
+      "情境營造(空間)",
+      "脈落分析(行銷)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T08:11:21.467Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c79bc5b75209df74fa30d68712fac2f8081183519f787e3ceef739fc898d5d8a",
+    "question": "在展覽籌備前，講者不建議製作展覽製作清單(check list)以進行規劃與管理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T08:11:21.467Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d2ef1feb1e2d37ca0fcd45d9be0f5600e08896378aacf9b1aab0ea580fdd23f",
+    "question": "&nbsp;撰寫策展類計畫書之前，通常不需要先對展覽主題與內容進行一定程度的研究與理解。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T08:11:21.468Z",
+    "review_state": "candidate_ready"
   }
 ]
