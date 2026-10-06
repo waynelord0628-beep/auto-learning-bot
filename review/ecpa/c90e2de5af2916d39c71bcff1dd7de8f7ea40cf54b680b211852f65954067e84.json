@@ -188,5 +188,63 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.919Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d14bee754223bc4dbdb19856767434d1c71e0d9066ac5c984c8108e2ff1a1bba",
+    "question": "摩根大通銀行因為有許多的跨境交易，所以導入那些轉型策略?",
+    "options": [
+      "數位代幣",
+      "區塊鏈技術",
+      "銀行間訊息網路",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:49:47.032Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "030a68cad1205397fd788637a3fa5387558a6cf3954142ac55036685523547bc",
+    "question": "我們可預見金融業的未來，將會有那些重點?",
+    "options": [
+      "共用平台",
+      "數位轉型",
+      "",
+      "生態圈",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:49:47.036Z",
+    "review_state": "awaiting_options"
+  },
+  {
+    "id": "4fbfe3ed75ede5baa8ec622b64e5e09289a7a28070d96b143d3f78f5ca3ef733",
+    "question": "Rocket Dollar為了讓投資人在退休後可以有更多元的投資，降低手市場波棟及稅收的影響，故提出什麼創新的方式達到此目標?",
+    "options": [
+      "免手續費帳戶",
+      "多元投資帳戶",
+      "自我導向帳戶",
+      "高利率存款帳戶"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "自我導向帳戶",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:49:47.037Z",
+    "review_state": "candidate_ready"
   }
 ]
