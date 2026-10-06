@@ -149,13 +149,30 @@
     ],
     "type": "是非",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.253Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T11:20:04.480Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-06T11:20:03.528Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0e1cf3891232dbc10e0e0d36fe6f72e5b39144fde54c0db22633a0ac68262359",
