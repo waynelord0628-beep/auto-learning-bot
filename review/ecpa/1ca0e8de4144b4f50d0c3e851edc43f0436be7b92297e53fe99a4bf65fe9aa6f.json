@@ -96,7 +96,11 @@
     "candidate_answer": "emerge",
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.571Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T01:20:14.258Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "839583941aa6171b87b39e466270131d72745823ad6d1f3dd79429fc37f16a43",
