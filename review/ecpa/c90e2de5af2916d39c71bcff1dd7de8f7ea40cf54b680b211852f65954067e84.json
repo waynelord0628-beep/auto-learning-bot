@@ -246,5 +246,81 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:47.037Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "fd792e19bed5b5e326c5775cb36184515f78d08d10f4d7116bce3a2b72be596a",
+    "question": "不論金融服務與電信業、科技業、媒體業等，皆可透過金融科技來提升產品及服務，除此之外，還有什麼優點?",
+    "options": [
+      "提高執行效率",
+      "降低成本",
+      "加強客戶體驗",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:50:25.730Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "67a895ecf6da7d53b265b3d2f37aab395a8e126f85e835e2ed0fb1195fec2a28",
+    "question": "金融業有很高的人事成本，若要做到數位轉型、降低成本，可以善加利用何項技術?",
+    "options": [
+      "Chatbot",
+      "API",
+      "ML",
+      "DS"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Chatbot",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:50:25.732Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0862f2d4a0794d6c91c8915f96604eddd6a9a6a7e8facedb8022d22ccd980b9",
+    "question": "任何公司投入數位轉型時，要能順利推展下去，最先面臨且關鍵部分為何?",
+    "options": [
+      "資安",
+      "人才",
+      "資料庫",
+      "產品數量"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "人才",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:50:25.734Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d993af2b8e5da5ff9832ba8de3b3e43da99ac882be089137a50ca2dd84acbdd",
+    "question": "一項商品或服務應用方面的創新，對於產業現有的運作方式，產生劇烈影響，什至「破壞」了遊戲規則，進而取代存在已久的競爭對手，可稱為?",
+    "options": [
+      "服務模式創新",
+      "破壞式創新",
+      "商業模式創新",
+      "產品模式創新"
+    ],
+    "type": "單選",
+    "course": "金融科技與數位轉型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "破壞式創新",
+    "source": "ai_unverified",
+    "created_at": "2026-10-06T09:50:25.735Z",
+    "review_state": "candidate_ready"
   }
 ]
