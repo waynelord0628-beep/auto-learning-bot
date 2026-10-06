@@ -18,7 +18,11 @@
     "created_at": "2026-10-02T22:03:03.898Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-10-07T08:19:43.891Z"
+    "retry_after": "2026-10-07T08:19:43.891Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-13T10:19:49.867Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fd3ae9d007a93b732c40ed066e2e7f245e4a3547ca9f3d8d4c1f0d76c2a7e22c",
