@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2030年及2050年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.684Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T10:19:50.145Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2040年及2050年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T10:19:49.091Z"
+    },
+    "resolved_answer": "2040年及2050年"
   },
   {
     "id": "31614160e0ed91fc88ead25abb82d8e08a33330b934e4abca7750d19fd6ce42f",
