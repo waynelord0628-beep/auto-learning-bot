@@ -197,13 +197,30 @@
     ],
     "type": "是非",
     "course": "犬貓認領養之程序與法律",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T15:01:53.283Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T15:20:34.569Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0941140370.html",
+          "title": "「犬貓認領養之程序與法律」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T15:20:32.582Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d20cae2b9d307b40b7997cae0e2e9c998bb9c6d01e71506f9e681b6c8d811717",
