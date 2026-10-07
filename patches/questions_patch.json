@@ -62226,5 +62226,28 @@
       "model": null,
       "checked_at": "2026-10-07T11:20:40.568Z"
     }
+  },
+  {
+    "question": "對於區域型醫院來說，在資源有限的情況下，設備採購比起「高級」更應以「救命」為優先考量",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "智慧醫療的現況與願景",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_65.html",
+          "title": "「智慧醫療的現況與願景」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T13:20:50.297Z"
+    }
   }
 ]
