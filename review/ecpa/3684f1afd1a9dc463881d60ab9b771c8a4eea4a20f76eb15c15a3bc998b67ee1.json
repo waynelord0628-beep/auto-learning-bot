@@ -182,13 +182,30 @@
     ],
     "type": "單選",
     "course": "智慧醫療的現況與願景",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:03:21.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T13:21:09.140Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_65.html",
+          "title": "「智慧醫療的現況與願景」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T13:21:08.209Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "9e57644630ad017e59f8c7ced2bdd72952a6e1063edc557dd632300543568ae4",
