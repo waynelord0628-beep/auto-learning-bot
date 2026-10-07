@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.688Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T10:20:04.371Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T10:20:02.502Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "08f1a023197022ac23bb17f33088cae32b47ecf78e38a74628867b4c8dd86b02",
