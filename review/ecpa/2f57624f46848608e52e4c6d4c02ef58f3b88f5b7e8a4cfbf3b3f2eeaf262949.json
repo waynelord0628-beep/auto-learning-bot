@@ -150,13 +150,30 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "salted water",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.390Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T05:20:05.654Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "salted water",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T05:20:04.888Z"
+    },
+    "resolved_answer": "salted water"
   },
   {
     "id": "a047a6b52b2137ede7e9b23ffe7d554e2a2daf75446ee25463326d64c90de4d1",
