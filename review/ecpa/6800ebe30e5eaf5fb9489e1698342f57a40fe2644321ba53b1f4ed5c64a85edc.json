@@ -180,5 +180,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:18:41.467Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3dd48faf6fcf128263cb6093d29ce064396164e94f274e5cb28d3768089e75d",
+    "question": "「負碳排(carbon negative)」簡單定義就是「碳清除量」遠超過「碳排放量」；根據本課程內容，下列何者為負碳排技術？",
+    "options": [
+      "生質能加上碳捕獲封存再利用(BECCSU)",
+      "直接空氣捕獲封存再利用(DACCSU)",
+      "大規模造林(Massive Afforestation) 及加速風化(Enhanced Weathering)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "二氧化碳捕獲封存及再利用(CCSU)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T07:19:23.940Z",
+    "review_state": "candidate_ready"
   }
 ]
