@@ -282,5 +282,42 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:38:53.964Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d53235edf87ecfcfdf6a5a50b5d863a07254e8bff7787aa8ea1f71f7e9e21cbe",
+    "question": "以下何者為銀行業目前已開放的API項目?",
+    "options": [
+      "信貸",
+      "存款",
+      "交易",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T05:50:40.258Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4cf8d00d661a9a09709dcdf19fc64584e4143644bafdec8caf77a62860f6d98c",
+    "question": "有關開放銀行推動類型，在強制規範下有嚴整的資料交換格式和應該遵守的法規，稱之為?",
+    "options": [
+      "法規強制",
+      "法規促進",
+      "市場導向"
+    ],
+    "type": "單選",
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "法規強制",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T05:50:40.263Z",
+    "review_state": "candidate_ready"
   }
 ]
