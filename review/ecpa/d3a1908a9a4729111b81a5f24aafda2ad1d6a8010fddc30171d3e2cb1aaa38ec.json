@@ -335,5 +335,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:30:34.078Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "140987130c72b51ad71874a444972ef05f0e3f21b5adfcd36c9f44d76e31a439",
+    "question": "下列關於電子材料的敘述何者錯誤？",
+    "options": [
+      "電子材料範疇包含半導體材料、IC構裝材料、太陽光電材料等",
+      "電池材料的的特性與轉換效率有關",
+      "電子材料的技術發展已進入瓶頸",
+      "半導體材料包含製程使用的晶片及有機或無機化學品耗材"
+    ],
+    "type": "單選",
+    "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "電子材料的技術發展已進入瓶頸",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T10:37:38.504Z",
+    "review_state": "candidate_ready"
   }
 ]
