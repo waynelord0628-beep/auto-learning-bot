@@ -338,5 +338,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T05:51:15.749Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7de16d5e4b14b94240aa167b955ffde6e435fd6a3d39a3f88f782507efc55bbf",
+    "question": "在開放銀行基礎下，建立金融機構與第三方服務提供者TSP（Third-Party Service Provider）是金管會希望強化和解決開放銀行面臨的關鍵問題?",
+    "options": [
+      "消費者賦權",
+      "身分認證",
+      "合作關係",
+      "資料交換"
+    ],
+    "type": "單選",
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "合作關係",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T10:32:11.843Z",
+    "review_state": "candidate_ready"
   }
 ]
