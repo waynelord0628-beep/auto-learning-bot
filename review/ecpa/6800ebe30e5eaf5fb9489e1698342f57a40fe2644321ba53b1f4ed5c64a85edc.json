@@ -160,5 +160,25 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.729Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "716cc510f42da48be19bd9df53a32bd83175ea028a8af26870d39dd597ddcda0",
+    "question": "國際因應氣候變化策略的「減緩策略」，著重於削減造成氣候變遷的原因，推動內容有哪些?",
+    "options": [
+      "節約能源、提高能源效率",
+      "開發新興與再生能源",
+      "開發溫室氣體減量技術",
+      "推動循環經濟",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "二氧化碳捕獲封存及再利用(CCSU)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T07:18:41.467Z",
+    "review_state": "candidate_ready"
   }
 ]
