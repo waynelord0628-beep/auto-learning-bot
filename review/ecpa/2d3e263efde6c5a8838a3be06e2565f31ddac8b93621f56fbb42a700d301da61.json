@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T00:20:47.159Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料生態系統(data ecosystem) 早期採用者發現，雲端的端到端預整合資料生態系統無法滿足他們當前迫切的需求，這驅使他們採取混合方法(blendedapproaches)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T00:20:44.676Z"
+    },
+    "resolved_answer": "資料生態系統(data ecosystem) 早期採用者發現，雲端的端到端預整合資料生態系統無法滿足他們當前迫切的需求，這驅使他們採取混合方法(blendedapproaches)"
   },
   {
     "id": "2b738e0dd15f5daae7928baac7a19298cda5fda094a3ed40c08b922bd48b535a",

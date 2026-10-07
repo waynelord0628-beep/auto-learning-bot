@@ -61903,5 +61903,30 @@
       "model": null,
       "checked_at": "2026-10-07T00:20:08.647Z"
     }
+  },
+  {
+    "question": "有關資料?態系統的敘述，何者正確？",
+    "type": "單選",
+    "options": [
+      "資料生態系統(data ecosystem) 早期採用者發現，雲端的端到端預整合資料生態系統無法滿足他們當前迫切的需求，這驅使他們採取混合方法(blendedapproaches)",
+      "元資料(metadata)治理將驅動資料生態系統交付風格",
+      "資料重力(data gravity)是資料生態系統的基礎，驅使大家關注資料織物(data fabric) 設計",
+      "以上皆是"
+    ],
+    "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
+    "answer": "資料生態系統(data ecosystem) 早期採用者發現，雲端的端到端預整合資料生態系統無法滿足他們當前迫切的需求，這驅使他們採取混合方法(blendedapproaches)",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "資料生態系統(data ecosystem) 早期採用者發現，雲端的端到端預整合資料生態系統無法滿足他們當前迫切的需求，這驅使他們採取混合方法(blendedapproaches)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T00:20:44.676Z"
+    }
   }
 ]
