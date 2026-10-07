@@ -282,5 +282,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.547Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4405c65ac92924ef34a1e6eff973fa1bf3820bc739c4ab26f0f7684ebf3cd90e",
+    "question": "下列哪些因素可能會影響各國對於關鍵電子材料的儲備的作為？",
+    "options": [
+      "供應鏈風險",
+      "經濟重要性",
+      "環境衝擊程度",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T06:30:34.073Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a12c68246ea8e403036d22608f07315cb540bbd674a02477a5dcb2b3a46bb179",
+    "question": "我國如要發展綠能產業，關鍵材料的需求包含風電使用的稀土永磁材料，及製備氫能燃料電池的貴金屬材料",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T06:30:34.077Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "933a11d85e3b3ee0f416bf3bc7382170a88b213b573f5b320ebea46fc6ae9dc8",
+    "question": "台灣在電子材料需求相當仰賴國外進口，若進口受阻，製程的關鍵原料如前驅物、蝕刻材料、清潔用氣體等便可能有斷鏈的風險",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T06:30:34.078Z",
+    "review_state": "candidate_ready"
   }
 ]
