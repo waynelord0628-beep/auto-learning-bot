@@ -474,5 +474,39 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T00:02:45.034Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff66e748354eb11b5134a38def4498947a431b3b96dd495470b71f93b79c9128",
+    "question": "體育教學或運動訓練上，尊重學生的身體人格之整全性，屬於教師或教練法律上之附隨義務",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部專任運動教練線上課程_法律義務與責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T00:14:25.221Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a039f309a8d13c9cdf4119dbc2906183cdd9a8f442689efa32e66e0a0c0dbdf1",
+    "question": "在注意義務與法律責任的認定上，足球運動，性質上屬於非真正的平行運動",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部專任運動教練線上課程_法律義務與責任",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T00:14:25.223Z",
+    "review_state": "candidate_ready"
   }
 ]
