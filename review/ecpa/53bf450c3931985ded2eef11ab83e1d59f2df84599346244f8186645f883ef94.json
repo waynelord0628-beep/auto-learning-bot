@@ -376,5 +376,23 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T10:33:25.623Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ba8660826f6c4b737026f5421a18a9da9f244ad0f2b0162d9f9eb70e9c306da5",
+    "question": "尊重市場走向以各個組織自行推動，再由政府審核，是屬於哪種開放銀行推動類型?",
+    "options": [
+      "法規強制",
+      "法規促進",
+      "市場導向"
+    ],
+    "type": "單選",
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "市場導向",
+    "source": "ai_unverified",
+    "created_at": "2026-10-07T13:32:42.631Z",
+    "review_state": "candidate_ready"
   }
 ]
