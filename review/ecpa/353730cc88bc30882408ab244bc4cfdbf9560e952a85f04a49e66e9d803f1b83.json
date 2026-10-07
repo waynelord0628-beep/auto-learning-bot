@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "企業智慧化進行式：英業達實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:12:10.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T11:20:03.191Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_248.html",
+          "title": "「企業智慧化進行式：英業達實務案例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T11:20:01.347Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "072ab0e54706ea0dfd9196258d11e9730cac245dffcdc4b04461868397f8199a",
