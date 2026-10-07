@@ -61928,5 +61928,30 @@
       "model": null,
       "checked_at": "2026-10-07T00:20:44.676Z"
     }
+  },
+  {
+    "question": "資料生態系統的核心是什麼？",
+    "type": "單選",
+    "options": [
+      "元資料治理",
+      "人工智慧",
+      "大數據存儲空間大小",
+      "邊緣運算"
+    ],
+    "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
+    "answer": "元資料治理",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "元資料治理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T00:21:24.657Z"
+    }
   }
 ]

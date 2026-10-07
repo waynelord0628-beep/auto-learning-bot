@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "元資料治理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.422Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T00:21:28.895Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "元資料治理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T00:21:24.657Z"
+    },
+    "resolved_answer": "元資料治理"
   },
   {
     "id": "bea29d3741117299a2420fd45254b6aa1dd77d3f1194056457ef3ccc06050e91",
