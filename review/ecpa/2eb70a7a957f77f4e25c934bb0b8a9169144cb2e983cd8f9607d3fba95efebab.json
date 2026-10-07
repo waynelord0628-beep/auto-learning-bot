@@ -52,7 +52,11 @@
     "candidate_answer": "必須包含英文字母大小寫、數字、特殊字元等複雜度4種",
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T02:19:58.224Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6c439f6e80b3d2c51d5909be517802ef85552854bafeccc0595280b6998d7906",
