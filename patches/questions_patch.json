@@ -61953,5 +61953,30 @@
       "model": null,
       "checked_at": "2026-10-07T00:21:24.657Z"
     }
+  },
+  {
+    "question": "台積電公司資安風險評估作業為何？",
+    "type": "單選",
+    "options": [
+      "僅內部自我評鑑",
+      "僅僅委託第三方風險評鑑",
+      "自我評鑑且委託第三方評鑑",
+      "不進行風險評估"
+    ],
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "answer": "自我評鑑且委託第三方評鑑",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "自我評鑑且委託第三方評鑑",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T02:19:47.307Z"
+    }
   }
 ]

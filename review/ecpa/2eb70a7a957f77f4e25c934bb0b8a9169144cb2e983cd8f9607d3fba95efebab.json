@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自我評鑑且委託第三方評鑑",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.763Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T02:19:48.104Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自我評鑑且委託第三方評鑑",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T02:19:47.307Z"
+    },
+    "resolved_answer": "自我評鑑且委託第三方評鑑"
   },
   {
     "id": "3fe30746eb9f9aeb6e4af1d44508dd56394c27894b81c5efe95a1b1200413f96",
