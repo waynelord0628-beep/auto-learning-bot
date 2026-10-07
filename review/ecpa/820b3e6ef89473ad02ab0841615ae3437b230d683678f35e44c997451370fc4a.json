@@ -110,5 +110,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-07T08:58:15.105Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "47ba64fd73dd8850d9e29466ecf250bdc7d85a1843dbdd2b325f039d66b9a362",
+    "question": "Please read the conversation below and choose the correct option to fill in the blanks.",
+    "options": [
+      "sushi; sashimi; cherry; slicing",
+      "teppanyaki; sashimi; apple; cutting",
+      "sushi; sashimi; cherry; peeling",
+      "teppanyaki; sashimi; apple; slicing"
+    ],
+    "type": "單選",
+    "course": "黑鮪魚文化觀光季：東港美食與文化體驗",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. airplane; helicopter; glider",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-07T10:27:15.087Z",
+    "review_state": "awaiting_evidence"
   }
 ]
