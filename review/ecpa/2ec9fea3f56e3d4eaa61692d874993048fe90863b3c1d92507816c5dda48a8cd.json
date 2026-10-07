@@ -60,7 +60,11 @@
     "candidate_answer": "以跨教育階段辦理為原則，遇障礙或需求改變時得提出。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.848Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T03:19:54.116Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c5596ee53475af08e38d9b1de9a45bc813f8aa6f28794cdfc4abd7879292e95c",
