@@ -69,13 +69,30 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "隔離上網",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-14T02:20:06.412Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "隔離上網",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T02:20:05.614Z"
+    },
+    "resolved_answer": "隔離上網"
   },
   {
     "id": "5faceac91b77018decdc0476497b584abc9acd6aafe4dae0198e63d4a20989e1",

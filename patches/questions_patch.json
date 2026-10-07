@@ -61978,5 +61978,30 @@
       "model": null,
       "checked_at": "2026-10-07T02:19:47.307Z"
     }
+  },
+  {
+    "question": "台積電員工必須透過什麼方式，讓上網瀏覽更安全？",
+    "type": "單選",
+    "options": [
+      "手機上網",
+      "無痕上網",
+      "無法上網",
+      "隔離上網"
+    ],
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "answer": "隔離上網",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "隔離上網",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-07T02:20:05.614Z"
+    }
   }
 ]
