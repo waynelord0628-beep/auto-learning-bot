@@ -60,7 +60,11 @@
     "candidate_answer": "管理面與技術面",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.882Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T00:19:54.596Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "37ad1c2281e60d6e2d490f8430c860944656e3d93aaf1cfab2a2a290a50a624d",
