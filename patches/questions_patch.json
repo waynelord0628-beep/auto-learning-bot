@@ -62736,5 +62736,30 @@
       "model": null,
       "checked_at": "2026-10-08T13:20:04.582Z"
     }
+  },
+  {
+    "question": "AI醫療是從1960年代「專家系統」開始發展起，其特色為何？",
+    "type": "單選",
+    "options": [
+      "專家系統是一種「知識庫系統」，處理大量人類專業知識的複雜主題",
+      "一個有用的專家系統必須展現高效率及高度可靠性",
+      "專家系統必須能提出合理化解決策略與建議",
+      "以上皆是"
+    ],
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822029",
+          "title": "人工智慧在疾病檢測及健康風險預測之創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T16:19:45.114Z"
+    }
   }
 ]
