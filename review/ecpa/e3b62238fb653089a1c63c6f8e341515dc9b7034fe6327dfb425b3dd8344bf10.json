@@ -302,5 +302,43 @@
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "9c3ad1f9fac294f73694139f86e9203b0d66cf9689e0cbee5bb295d0189f2b92",
+    "question": "深度學習中的『深』是指什麼？",
+    "options": [
+      "能處理深層語義的能力",
+      "神經網路中隱藏層的層數很多",
+      "需要長時間訓練",
+      "模型架構高度複雜"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "神經網路中隱藏層的層數很多",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:06:04.635Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1eb144d36e4b668ca99cad413aeeccecdb3b54f51fc12241ed538f693fc9e369",
+    "question": "AI 所產生的『幻覺現象』是指什麼？",
+    "options": [
+      "AI 生成內容看似合理但實際錯誤",
+      "AI 模型出現當機或錯誤",
+      "AI 模仿人類行為過度逼真",
+      "AI 無法處理情緒相關問題"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI 生成內容看似合理但實際錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:06:04.635Z",
+    "review_state": "candidate_ready"
   }
 ]
