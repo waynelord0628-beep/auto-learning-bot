@@ -1,0 +1,195 @@
+[
+  {
+    "id": "177441ba16037e0a8a61a6e14f91ce32602d09ab66193f387849ef47028c2c85",
+    "question": "AI bot波特人六層技術架構包含其中哪一個？",
+    "options": [
+      "資料收集 Data Collection",
+      "資料清理 Data Cleaning",
+      "特徵選取 Feature Selection",
+      "檢索增強RAG plus",
+      "部署與維護 Deployment and Maintenance"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "資料收集 Data Collection",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.915Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1429ce2f7a76f65534af9b51a0f2ad08c901af649bdaecee3727d0c44da96e71",
+    "question": "AI bot可以做哪些事情呢？",
+    "options": [
+      "寫公文",
+      "研究法規",
+      "繪製污染地圖",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.916Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1b71db9fb37e710031fa4c3efffc960eefe2b2074f235460dc2c021ee0bf1cf8",
+    "question": "生成式AI與工作上的關係，請選擇正確答案：",
+    "options": [
+      "生成式AI：會取代人類 幫不上什麼忙輔助不了什麼服務效能",
+      "生成式AI 即學即用，但常常會忘記事情",
+      "專業領域生成式AI輔助，目前仍然不可行",
+      "生成式AI是可以做到隱私不外洩的",
+      "生成式AI的答案，人類完全不用介入"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.918Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b9b7082f4687e5331c11600202f97b0261b683f56297b0b6e005be41e61ad6e5",
+    "question": "做完了卻不好用，可以怎麼改善這個陷阱？",
+    "options": [
+      "讓專家使用後評分，透過評分法追問哪些地方需要改進",
+      "生命會找到出路，一定可以有能用的替代方案或步驟可以達成",
+      "專案直接廢棄不用",
+      "已經開案了，沒辦法改善",
+      "用資安弱掃來嘗試改善"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "讓專家使用後評分，透過評分法追問哪些地方需要改進",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.919Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "499c8ee7011b6615c408630782c76eda457f8d837ce8a1c70c25c6f1b3061bcb",
+    "question": "在本課程中，目前在AI bot的導入，已經有哪些成功案例了？",
+    "options": [
+      "SQL程式碼自動生成",
+      "協助審議計畫",
+      "政策研究擬答",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.919Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cc89f86ee1e7a6021a721855c4cb63343e543aa077579d6bb442eed81038cc38",
+    "question": "行政院及所屬機關（構）使用生成式AI參考指引主要涵蓋哪些面向重點？",
+    "options": [
+      "養成對生成式AI的正確觀念、界定技術/工具運用的責任、建立必要的安全與內控機制",
+      "生成式AI的數學邏輯、爭議與挑戰、成功案例",
+      "創造生成式AI演算法、訓練數據的選擇與清洗、模型的最佳化及性能測試"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "養成對生成式AI的正確觀念、界定技術/工具運用的責任、建立必要的安全與內控機制",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.920Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fad4e6d0ae787c868999ad3861a96b21785aeff03d0923a8355aa1226600bbc7",
+    "question": "以下有哪些是屬於提升AI素養的5階段？",
+    "options": [
+      "知道：知道AI什麼不好做、什麼優先做",
+      "用到：實際運用AI在日常工作業務",
+      "創造：製作自己部門業務專屬AI波特人",
+      "跨域：不同領域擴散合作",
+      "跨國：結合多國文化力量推展AI與人類共同成長",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.921Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e79467093ddb10407eec8e475e4f3349387c85fccb007ece8c60f34cae98b846",
+    "question": "導入AI創新之路常見的3大陷阱有哪些？",
+    "options": [
+      "缺乏足夠數據、無法找到合適人才、無法確定預算",
+      "技術更新太快、無法確保數據安全、難以建立協作文化",
+      "為了AI而AI沒有受眾、過度期待一步到位、做完了卻不好用",
+      "缺乏市場研究、團隊溝通不暢、技術選擇錯誤"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "為了AI而AI沒有受眾、過度期待一步到位、做完了卻不好用",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.922Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "639a1257e40152d64f0a032f651d9018296a843031bbf6753d91e51c8d2f5fb7",
+    "question": "為了AI而AI卻沒有受眾，可以怎麼改善這個陷阱？",
+    "options": [
+      "透過體驗設計活動讓大家充分表達意見",
+      "達成共識",
+      "花錢買關鍵字廣告",
+      "發公文給所有的單位，請大家多多使用"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "透過體驗設計活動讓大家充分表達意見",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.923Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "13b69ce8fb2a353fb8021f26df992d1797822aca39d24055f6d5323fa737e550",
+    "question": "過度期待一步到位，可以怎麼改善這個陷阱？",
+    "options": [
+      "找專家來一起拆解工作流程，釐清所有步驟",
+      "把專案分成三期驗收",
+      "請廠商跟我說，有分成哪些階段製作"
+    ],
+    "type": "單選",
+    "course": "苦差事，生成式AI波特人能幫我做嗎",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "把專案分成三期驗收",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T05:14:51.924Z",
+    "review_state": "candidate_ready"
+  }
+]
