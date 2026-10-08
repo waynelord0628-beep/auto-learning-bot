@@ -154,13 +154,30 @@
     ],
     "type": "單選",
     "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2021年1 月 12 日美國食藥署(FDA)正式發表人工智慧醫療器材獨立軟體行動計畫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:07:16.057Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T16:19:54.652Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2021年1 月 12 日美國食藥署(FDA)正式發表人工智慧醫療器材獨立軟體行動計畫",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822029",
+          "title": "人工智慧在疾病檢測及健康風險預測之創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T16:19:53.945Z"
+    },
+    "resolved_answer": "2021年1 月 12 日美國食藥署(FDA)正式發表人工智慧醫療器材獨立軟體行動計畫"
   },
   {
     "id": "29069726837ad304ddf4bbc1049c36b9059c72a879a2d106ee1b0ea64e046bf3",
