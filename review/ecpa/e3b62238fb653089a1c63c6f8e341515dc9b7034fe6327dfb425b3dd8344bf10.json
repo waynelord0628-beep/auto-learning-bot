@@ -188,5 +188,119 @@
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:04:56.481Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2a0113dc4e584849d037a3211088af48d37da3174f9a1255e4897563048e8014",
+    "question": "政府導入生成式 AI 時，何者為必要原則？",
+    "options": [
+      "完全仰賴 AI 判斷結果",
+      "讓 AI 處理所有公文發送",
+      "所有生成內容應由人工複核",
+      "不需說明 AI 使用方式"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "所有生成內容應由人工複核",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.965Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d6e75c19872ec083314b843f0e1fa7da85fbff47cbf1e3e306f7c573dca56933",
+    "question": "下列何者最可能使用生成對抗網路（GAN）技術？",
+    "options": [
+      "撰寫新聞稿初稿",
+      "生成政策摘要",
+      "回答民眾常見問題",
+      "製作災害情境模擬圖像"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "製作災害情境模擬圖像",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.966Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7d033a9319842d771260ee7f7cbf8ad1283025cfeb309d1c67cb2492bf580c27",
+    "question": "下列何者最能描述生成式 AI 的基本運作方式？",
+    "options": [
+      "理解語言意義後推理回答",
+      "預測最有可能出現的字詞或句子",
+      "依賴人工設定固定回應",
+      "由感測器即時輸入指令"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "預測最有可能出現的字詞或句子",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.966Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d396f7f3aef7241524816bfd9e79ff6823637441e01db9dc0748968c5b7bcb5",
+    "question": "以下哪項不屬於深度學習技術擅長的任務？",
+    "options": [
+      "圖像分類",
+      "稅收政策設計",
+      "語音辨識",
+      "自然語言理解"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "稅收政策設計",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.967Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7a3f7f83581278dcda8a95b093fe62496e91eb6e7721e0854c0121c4bab15b04",
+    "question": "專家系統的主要限制之一是什麼？",
+    "options": [
+      "學習能力太強",
+      "執行速度過快",
+      "容易情緒化",
+      "缺乏靈活應對未知情境的能力"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "缺乏靈活應對未知情境的能力",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.967Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "728217626a2b87833b96f95ea95a5ace9b3c1c11ef8383a3aafefe4e6c693b54",
+    "question": "以下哪項敘述最能區分 LLM 和 GAN 的生成內容？",
+    "options": [
+      "LLM 擅長圖像生成，GAN 擅長文字生成",
+      "LLM 使用感測器學習，GAN 使用統計預測",
+      "LLM 產生文字，GAN 產生圖像或影音",
+      "LLM 負責訓練 GAN 的判別器"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "LLM 產生文字，GAN 產生圖像或影音",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:05:33.967Z",
+    "review_state": "candidate_ready"
   }
 ]
