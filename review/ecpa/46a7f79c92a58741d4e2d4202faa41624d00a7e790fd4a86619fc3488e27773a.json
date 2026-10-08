@@ -105,13 +105,30 @@
     ],
     "type": "單選",
     "course": "穿越變化莫測的海 - 前進嘉義布袋",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "A yacht harbor offers berthing and unloading services for recreational boats and luxury vessels, meeting the needs of leisure sailors.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.169Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T13:20:05.430Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Yacht harbors often include restaurants, shops, and clubs for leisure and entertainment, less applicable in fishing ports.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055909",
+          "title": "穿越變化莫測的海 - 前進嘉義布袋《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T13:20:04.582Z"
+    },
+    "resolved_answer": "Yacht harbors often include restaurants, shops, and clubs for leisure and entertainment, less applicable in fishing ports."
   },
   {
     "id": "5e55eab7a63563a3a21f8d6df602ce8c90ab2dad586ba356b805c7b77f00b7a5",
