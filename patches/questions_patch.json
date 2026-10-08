@@ -62786,5 +62786,30 @@
       "model": null,
       "checked_at": "2026-10-08T16:19:53.945Z"
     }
+  },
+  {
+    "question": "「iDeepCare」計畫是由學界與國內醫療機構跨域合作，蒐集各種生醫原始資料，建立AI模型，運用於疾病檢測及健康風險預測。請問下列何者可作為訓練AI模型的資料來源？",
+    "type": "單選",
+    "options": [
+      "醫療影像",
+      "生理訊號",
+      "病歷醫囑",
+      "以上皆是"
+    ],
+    "course": "人工智慧在疾病檢測及健康風險預測之創新應用",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822029",
+          "title": "人工智慧在疾病檢測及健康風險預測之創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T16:20:02.426Z"
+    }
   }
 ]
