@@ -1,0 +1,192 @@
+[
+  {
+    "id": "90eaf4d3c314ccc42a8762fd14fcce97e6209d1072ee9a94a134cc02cd7cbc81",
+    "question": "關於公部門導入 AI 的角色認知，下列敘述何者正確？",
+    "options": [
+      "AI 是高級輔助工具，最終判斷仍需由人類負責",
+      "AI 可獨立執行政策決策",
+      "AI 具法律效力可直接取代公文審核",
+      "AI 可自動規劃施政藍圖"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AI 是高級輔助工具，最終判斷仍需由人類負責",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.475Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e3357922c4db0beaa923c2bf175004a79f82a084b3242c1785d3b8679a7be801",
+    "question": "哪一場會議被公認為人工智慧研究領域的起點？",
+    "options": [
+      "辛辛那提會議",
+      "達特茅斯會議",
+      "華盛頓技術峰會",
+      "牛津前沿科技會議"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "達特茅斯會議",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.476Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "264257ff3bdaac1e06ef1236a5ec7715a0774c1b0170aa0439f19e4a276e80b2",
+    "question": "哪一項是深度學習的顯著優勢？",
+    "options": [
+      "能從複雜資料中自動學習特徵",
+      "能即時處理任何問題",
+      "不需使用訓練資料",
+      "只需人工設定即可運作"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "能從複雜資料中自動學習特徵",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.476Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "baa03f067a3ff9827d211145ef7f4da037ad00b83fdb80d358732ac75fe1b374",
+    "question": "若任務需處理法規條文或研究計畫等長篇結構化資料，應優先考慮使用：",
+    "options": [
+      "RNN",
+      "PaLM",
+      "Claude",
+      "DALL·E"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "RNN",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.477Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "27b6db7b0ef0a45336f40857994e18e5f0b785fb5ab3717f454ee598230607ae",
+    "question": "Claude 相對其他模型，在下列哪方面表現更為穩定？",
+    "options": [
+      "聲音辨識",
+      "語音生成",
+      "影片生成",
+      "邏輯結構與資訊安全"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "邏輯結構與資訊安全",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.478Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1eb4bd2306c10cde749325ec4674fc1ce1d2a1eee76456cc9e7777246dc48a6f",
+    "question": "生成式 AI 最適合應用於下列哪一種任務？",
+    "options": [
+      "直接生成具法律效力之公文",
+      "撰寫會議紀錄初稿供人工潤飾",
+      "替代決策委員會討論過程",
+      "處理機密文件最終定稿"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "撰寫會議紀錄初稿供人工潤飾",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.478Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "00b1cad491540a5a78f13ac1bb9fe7e617498791558e2b39865503c4674ceb4d",
+    "question": "機器學習的主要特色是什麼？",
+    "options": [
+      "依照明確規則執行任務",
+      "模仿人類大腦運作",
+      "從資料中自動找出規律並學習",
+      "以程式語言撰寫所有邏輯"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "從資料中自動找出規律並學習",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.479Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a0d997549741b5bb36bfe892eda2424e43d4a22e403a521d1b265633b8b0959d",
+    "question": "生成式 AI 真正進入主流關注是在以下哪項技術之後？",
+    "options": [
+      "AlphaZero",
+      "ResNet 推出",
+      "GPT-3 語言模型問世",
+      "Transformer 發表"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "GPT-3 語言模型問世",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.480Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8c4e7b52c1230f11260fd02c79d7581b611a17faa36bb56380589ead3723a86f",
+    "question": "生成對抗網路（GAN）的運作核心為何？",
+    "options": [
+      "單一網路生成內容",
+      "生成器與判別器互相競爭學習",
+      "使用預設模組快速合成影像",
+      "透過資料清洗自動修正內容"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "生成器與判別器互相競爭學習",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.480Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e19a41499135c90bf2b05819bace6c7cac0c0228ee6122c4dcaec8ac1e59b2d",
+    "question": "選擇 AI 模型時，以下哪一項是正確的策略觀念？",
+    "options": [
+      "選效能最高者即可",
+      "避免使用開放平台",
+      "依據任務需求選擇合適模型",
+      "盡量同時使用多款模型"
+    ],
+    "type": "單選",
+    "course": "生成式 AI 基礎入門",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "依據任務需求選擇合適模型",
+    "source": "ai_unverified",
+    "created_at": "2026-10-08T04:04:56.481Z",
+    "review_state": "candidate_ready"
+  }
+]
