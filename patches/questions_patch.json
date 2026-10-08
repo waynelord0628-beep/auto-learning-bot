@@ -62640,5 +62640,30 @@
       "model": null,
       "checked_at": "2026-10-08T09:20:20.211Z"
     }
+  },
+  {
+    "question": "AI的發展會讓哪些人力需求將大幅減少？",
+    "type": "單選",
+    "options": [
+      "客服人員",
+      "櫃檯人員",
+      "書記人員",
+      "以上皆是"
+    ],
+    "course": "生成式AI工具入門(二)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T11:20:21.855Z"
+    }
   }
 ]
