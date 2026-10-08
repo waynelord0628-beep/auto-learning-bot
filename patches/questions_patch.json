@@ -62688,5 +62688,28 @@
       "model": null,
       "checked_at": "2026-10-08T11:20:57.562Z"
     }
+  },
+  {
+    "question": "AI逐步改變的是人們的工作技能需求，而非整個產業本身。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生成式AI工具入門(二)",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T11:21:34.061Z"
+    }
   }
 ]
