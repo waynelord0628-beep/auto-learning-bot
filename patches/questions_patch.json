@@ -62615,5 +62615,30 @@
       "model": null,
       "checked_at": "2026-10-08T09:20:09.073Z"
     }
+  },
+  {
+    "question": "兒童四大基本權利，以下何者有誤?",
+    "type": "單選",
+    "options": [
+      "生存權",
+      "受保護權",
+      "發展權",
+      "參政權"
+    ],
+    "course": "人權與國際公約",
+    "answer": "參政權",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "參政權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T09:20:20.211Z"
+    }
   }
 ]

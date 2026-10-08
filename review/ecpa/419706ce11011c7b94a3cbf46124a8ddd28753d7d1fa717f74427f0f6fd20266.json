@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "參政權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.177Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T09:20:21.295Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "參政權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T09:20:20.211Z"
+    },
+    "resolved_answer": "參政權"
   },
   {
     "id": "67e40f46c79a7bec5c4e25637766588fb72ff56bd7e6a9f038e9b21939e2822c",
