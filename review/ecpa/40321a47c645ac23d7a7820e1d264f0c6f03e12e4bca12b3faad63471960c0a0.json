@@ -148,13 +148,30 @@
     ],
     "type": "單選",
     "course": "「性別影響評估」─看見性別、回應性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "當缺乏相關性別統計及性別分析資料時，無需將「建立性別統計與性別分析」列入本計畫之性別目標",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T22:09:08.312Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T08:19:52.360Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "當缺乏相關性別統計及性別分析資料時，無需將「建立性別統計與性別分析」列入本計畫之性別目標",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326162322",
+          "title": "「性別影響評估」─看見性別、回應性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-08T08:19:51.691Z"
+    },
+    "resolved_answer": "當缺乏相關性別統計及性別分析資料時，無需將「建立性別統計與性別分析」列入本計畫之性別目標"
   },
   {
     "id": "c80ea5a372217a317806f3e0d86e2fde7cb54f5ae1cd8d4b18f73c38f8086a31",
