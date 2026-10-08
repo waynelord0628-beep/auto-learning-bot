@@ -37,7 +37,11 @@
     "candidate_answer": "只允許授權程式執行",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.880Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-15T00:19:49.132Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d0456e4d7a74db85d6952c6fb9dd1bbed7d0d16492c9d012bdc8820f0fea8d56",
