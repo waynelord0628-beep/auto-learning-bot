@@ -71,10 +71,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(5)以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.320Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-09T17:19:40.794Z"
   },
   {
     "id": "7be44bb391f69c6144ea5081f0a1f104daacb8446a018e7eb92acfd578835037",
@@ -131,7 +133,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.329Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-09T17:19:40.794Z"
   },
   {
     "id": "111d882b7c92c0dd1096ff903f09330122a203a9036ca1a7fc74def573f48cd9",
@@ -169,7 +173,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.334Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-09T17:19:40.794Z"
   },
   {
     "id": "0ecf70719aff7da59f1864dd792f7d202326aefe3d05360d42b1831805a09880",
@@ -185,9 +191,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "(4)以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.337Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-09T17:19:40.794Z"
   }
 ]
