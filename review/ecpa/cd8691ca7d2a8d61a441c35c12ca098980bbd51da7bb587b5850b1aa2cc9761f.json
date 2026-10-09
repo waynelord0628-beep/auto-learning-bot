@@ -306,5 +306,24 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.298Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c8ad9c4de667f7a75233cd0174451ca34a3922d4bf58203c397f22fe30d28073",
+    "question": "以下關於化學品管理的做法，何者錯誤？",
+    "options": [
+      "對於具有危害性之化學品，應予標示、製備清單。",
+      "安全資料表，內容僅需列出化學品基本資料即可。",
+      "雇主應確保勞工之危害暴露低於標準值。",
+      "雇主對於中央機關指定之管制性化學品，不得製造、輸出、供應或供工作者使用。"
+    ],
+    "type": "單選",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安全資料表，內容僅需列出化學品基本資料即可。",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:19:34.349Z",
+    "review_state": "candidate_ready"
   }
 ]
