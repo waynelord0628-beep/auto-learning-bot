@@ -182,5 +182,157 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.175Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bebb7b8aff6c420567d5ab52c48d456a5294cd5df47d3994ca05c11fd437d814",
+    "question": "《閱讀的女人危險》這本書，可讓我們理解女人為何而讀，以下關於女人的閱讀，何者為非?(單選題)",
+    "options": [
+      "由書中學習到崇拜、服從男性的思維",
+      "女人懂得如何享受純粹個人的閱讀樂趣，她們還非常善於獨處。",
+      "可以產生自信，有了自信就能夠培養出獨立思考的勇氣。",
+      "喜歡追問，而追問之後就會打破根深蒂固的成規舊章。"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "由書中學習到崇拜、服從男性的思維",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.382Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "16624848bc1102675685fd6738cfddd8ff7b47cd78de9c9c887d10351b807b2d",
+    "question": "為了重視女孩、投資女孩、培力女孩，我國訂哪一天為「臺灣女孩日」？(單選題)",
+    "options": [
+      "4月23日",
+      "6月24日",
+      "10月11日",
+      "11月29日"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "10月11日",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.383Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62efad0b3f8a75b9d13d46786aff61a9e82ad4e5e36d3724efd819c014cda938",
+    "question": "下列何者為關於說故事活動的刻板印象？(單選題)",
+    "options": [
+      "與孩子同享共讀是媽媽的責任",
+      "爸爸不適合裝出小動物般的叫聲逗小孩笑",
+      "圖書館裡只能有「故事媽媽」，不能有「故事爸爸」",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.383Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "46631615ec86c6cef71f4ea8483c6c901244e38db69cecee1b1bda030d906497",
+    "question": "哪些性別歧視的文化習俗應該被翻轉？(單選題)",
+    "options": [
+      "月事來不能進廟宇",
+      "女兒結婚要潑水",
+      "大年初一不能回娘家",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.383Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a79f053e08a9fd99f13f4824a27006f05551c99dc559efb54fe66944b2736ad2",
+    "question": "根據文化部調查，下列哪一國家民眾閱讀量最低?(單選題)",
+    "options": [
+      "韓國",
+      "臺灣",
+      "日本",
+      "新加坡"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "臺灣",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.384Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c8c2377d085203d56002c0608cc46b25afee5d956d82f8ca84a8752f298867d3",
+    "question": "以下關於高雄旗津「25淑女墓」的故事，何者為是?(單選題)",
+    "options": [
+      "是描述為了改善家庭經濟而外出當女工，卻不幸死於船難的少女們的故事",
+      "突顯單身女性過世後，不能列入祖先牌位，被迫在陰間流離的埋葬與祭祀文化",
+      "她們的安息之處正名為勞動女性紀念公園。",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.384Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "35a47050c7446978617ca251be4f7e0dc0655b8800a3cc0462a0f88df4791603",
+    "question": "根據2013年文化部調查，國人每人每年的閱讀量，約為幾本書？(單選題)",
+    "options": [
+      "9.2本",
+      "8.4本",
+      "10.8本",
+      "4.8本"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "8.4本",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.384Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7b96c703ad0d9fbb076551c14f0a629099b47d819f4e0d8c5ddd2f6b70a4f63b",
+    "question": "下列何者非「平等成家」的組成概念?(單選題)",
+    "options": [
+      "獨立互助",
+      "協商溝通",
+      "男主外女主內",
+      "兩情相悅"
+    ],
+    "type": "單選",
+    "course": "閱讀中遇見性別",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "男主外女主內",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T10:51:24.385Z",
+    "review_state": "candidate_ready"
   }
 ]
