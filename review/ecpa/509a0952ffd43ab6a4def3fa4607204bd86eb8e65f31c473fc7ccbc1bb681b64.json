@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T09:19:47.460Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T09:19:46.479Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "67b06b1ab151291e097d9278f43fc4075228999ef21cb76bd96d6dd0b6448439",
