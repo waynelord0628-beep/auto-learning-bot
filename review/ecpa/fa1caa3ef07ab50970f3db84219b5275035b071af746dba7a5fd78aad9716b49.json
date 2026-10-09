@@ -186,5 +186,92 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:18:55.606Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "49af8e6869d55b0e4280ae47bcff9974f71d5d799d79bc7021940dd307d668ef",
+    "question": "聯合國永續發展目標 (SDGs) 的目標11強調公共空間的安全與包容性，也攸關女性權益。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:19:00.843Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "93e440e491178466bc2c44db4c6f3c1b4f6a769f7229c332d6da18bb4cceaec2",
+    "question": "通用設計是指針對特定需求群體進行專門設計的理念。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:19:00.844Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "ec29b4f406e2be2a49c7237548603745edc05bb94e7205faa05db5481f9db3fd",
+    "question": "差異論關注男女差異，因為男女差異是天生且難以改變的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:19:00.846Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5ce40a554902570df0a04c7d7577433d5fa60668eb4174d957df0918c7d5fa80",
+    "question": "下列敘述何者錯誤？",
+    "options": [
+      "空間可以是物理的、心理的、社會的或文化的，它可以被測量、定義和描述。",
+      "空間是中立的，與階級或性別無關。",
+      "地方是有形的、具體的，是人們生活、工作和交流的場所。",
+      "環境是周圍的自然和人造條件，包括生態系統、氣候、地形、建築物等。"
+    ],
+    "type": "單選",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "性別目標不需要訂定對應的績效指標，也不用納入管考作業",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:19:00.847Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "78db0a2bcee27d1d95bfc67a29aa1e9cf397600768a2407430ee72ab2396186c",
+    "question": "性別友善應當以平等為前提。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:19:00.848Z",
+    "review_state": "awaiting_evidence"
   }
 ]
