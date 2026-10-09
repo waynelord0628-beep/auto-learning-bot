@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "做事與做人都重要",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.009Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T14:20:03.250Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "做事與做人都重要",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T14:20:02.231Z"
+    },
+    "resolved_answer": "做事與做人都重要"
   },
   {
     "id": "dd83239d7b1f94f73b181df4a34bd2e2750fc210975402e9921721d64c525fe7",
