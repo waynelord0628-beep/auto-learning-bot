@@ -37,7 +37,11 @@
     "candidate_answer": "飛越 12,000 公里，把臺灣味端上南非餐桌！你最想念哪一道家鄉菜？",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.075Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T16:20:03.338Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1101f27dcac2768307dde0a99c9dff888b792d23f48b9f85c9f5596a3739b9c4",
