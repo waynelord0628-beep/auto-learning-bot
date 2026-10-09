@@ -554,5 +554,24 @@
       "checked_at": "2026-09-18T02:42:30.436Z"
     },
     "verification_status": "source_supported"
+  },
+  {
+    "id": "9e7213878f8f80d1716ada01191b710fcb9490c7d738a63bd35acc1c9a634582",
+    "question": "請問以下哪些行動者，是落實族群主流化政策的關鍵行動者？",
+    "options": [
+      "政府首長",
+      "文官同仁",
+      "社會大眾",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "族群主流化概念介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T20:45:09.457Z",
+    "review_state": "candidate_ready"
   }
 ]
