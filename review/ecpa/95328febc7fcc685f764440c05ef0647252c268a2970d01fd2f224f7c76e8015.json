@@ -227,5 +227,60 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:02.450Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "3f8d49e5e30d0a4f0fcfb71a8cadc1e1b59ffd310e7c93bfc9f6b8ee5feeeffe",
+    "question": "新北市人口數為全國之最，為讓問題得以即時反應、迅速解決，於是建立什麼平台？",
+    "options": [
+      "市府與社區單向互動平台",
+      "市府與社區雙向互動平台",
+      "市府與社區智能平台",
+      "市府與社區智慧型平台"
+    ],
+    "type": "單選",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "市府與社區雙向互動平台",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:32.491Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c0da01d9b00a4520bcb1a2bbc2f7a5b90e132873d82b2ab2949e8def7ebb619b",
+    "question": "義大利佛羅倫斯108年建立「智慧城市控制中心」，主要監控城市哪些事件管理？",
+    "options": [
+      "能源",
+      "交通",
+      "環境",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:32.492Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "00126c9be4cee49cc9a8895314831f6869c470c24e0d02bbc9bae9fe07b58e6f",
+    "question": "空氣品質監測還可以透過天氣的溼度、風速做資料蒐集輔助。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:32.492Z",
+    "review_state": "candidate_ready"
   }
 ]
