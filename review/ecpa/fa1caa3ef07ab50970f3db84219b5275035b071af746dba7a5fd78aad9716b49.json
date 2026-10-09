@@ -148,5 +148,43 @@
     "source": "reported_question",
     "created_at": "2026-10-09T07:18:31.408Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "b9ac7995b118209407fba1bfa85990fd75582ca97f49808d9959c16c2c143bd1",
+    "question": "根據西班牙出版《宜居城市》一書，以下選項何者不屬於「被關照的環境」？",
+    "options": [
+      "促進居民和功能的多樣性",
+      "設計建築物和空間，使其視覺上相互連接",
+      "提高空間能見度",
+      "使用中性和多樣化標誌"
+    ],
+    "type": "單選",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用中性和多樣化標誌",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T07:18:55.605Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6764b257cb7bb2c8912d546b496e6ba13e155c2ca2cc402865157cf6fec2b346",
+    "question": "SDGs的哪一個目標專門強調性別平等與女性賦權？",
+    "options": [
+      "目標3",
+      "目標5",
+      "目標7",
+      "目標11"
+    ],
+    "type": "單選",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "目標5",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T07:18:55.606Z",
+    "review_state": "candidate_ready"
   }
 ]
