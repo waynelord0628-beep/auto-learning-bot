@@ -62886,5 +62886,30 @@
       "model": null,
       "checked_at": "2026-10-09T05:20:06.164Z"
     }
+  },
+  {
+    "question": "請問金管會108年核准公告的純網路銀行業者為何？",
+    "type": "單選",
+    "options": [
+      "王道銀行",
+      "微眾銀行",
+      "將來銀行",
+      "以上皆是"
+    ],
+    "course": "雲架構對純網銀的現在與未來",
+    "answer": "將來銀行",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "將來銀行",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T06:19:44.461Z"
+    }
   }
 ]
