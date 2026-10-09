@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T12:19:54.864Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T12:19:54.019Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e504f7cf67aa9e7c2daf6e5e4eeb7a5c8792056f799b83deaa05a68ab59e1cff",

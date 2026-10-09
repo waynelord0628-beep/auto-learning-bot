@@ -63101,5 +63101,30 @@
       "model": null,
       "checked_at": "2026-10-09T09:20:05.812Z"
     }
+  },
+  {
+    "question": "「Gamma」在生成簡報上有以下哪幾個方式？",
+    "type": "單選",
+    "options": [
+      "AI功能從無到有新建簡報",
+      "自行匯入現有文件並轉成簡報",
+      "從頭開始建立新簡報",
+      "以上皆是"
+    ],
+    "course": "生成式AI應用-簡報設計",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T12:19:54.019Z"
+    }
   }
 ]
