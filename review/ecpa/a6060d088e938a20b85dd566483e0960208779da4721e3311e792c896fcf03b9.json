@@ -74,5 +74,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:01:32.203Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2c03a336a29913cebc62fb3b5425f0e3a1343cabf2bd9c0a8f8c9ff215843d8c",
+    "question": "當標章檢測結果為限期改善，期限到期但尚未完成改善時，可以怎麼做？",
+    "options": [
+      "先回復完成，以求時效",
+      "重新申請",
+      "聯絡客服小組協助延長期限",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "無障礙認證標章申請與注意事項",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "聯絡客服小組協助延長期限",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T09:02:05.694Z",
+    "review_state": "candidate_ready"
   }
 ]
