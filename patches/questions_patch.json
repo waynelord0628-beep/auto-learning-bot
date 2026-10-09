@@ -63224,5 +63224,30 @@
       "model": null,
       "checked_at": "2026-10-09T13:20:08.779Z"
     }
+  },
+  {
+    "question": "台灣開放銀行現行至第幾階段?",
+    "type": "單選",
+    "options": [
+      "第一階段",
+      "第二階段",
+      "第三階段",
+      "第四階段"
+    ],
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "answer": "第二階段",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "第二階段",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/open-banking-20apiee.html",
+          "title": "「Open Banking 2.0及API經濟在金融產業之應用發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T13:20:16.709Z"
+    }
   }
 ]
