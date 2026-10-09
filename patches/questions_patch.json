@@ -63174,5 +63174,30 @@
       "model": null,
       "checked_at": "2026-10-09T12:20:20.782Z"
     }
+  },
+  {
+    "question": "面對目前台灣銀行的API痛點，解決方案有?",
+    "type": "單選",
+    "options": [
+      "自營",
+      "委外",
+      "增資",
+      "數位化"
+    ],
+    "course": "Open Banking 2.0及API經濟在金融產業之應用發展",
+    "answer": "委外",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "委外",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/open-banking-20apiee.html",
+          "title": "「Open Banking 2.0及API經濟在金融產業之應用發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T13:19:58.966Z"
+    }
   }
 ]
