@@ -63149,5 +63149,30 @@
       "model": null,
       "checked_at": "2026-10-09T12:20:04.639Z"
     }
+  },
+  {
+    "question": "「Gamma」中的簡報製作完成後，想將簡報分享給他人觀看時，可使用「分享」中的哪個功能產生出網址連結？",
+    "type": "單選",
+    "options": [
+      "合作",
+      "分享",
+      "匯出",
+      "內嵌"
+    ],
+    "course": "生成式AI應用-簡報設計",
+    "answer": "分享",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "分享",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T12:20:20.782Z"
+    }
   }
 ]
