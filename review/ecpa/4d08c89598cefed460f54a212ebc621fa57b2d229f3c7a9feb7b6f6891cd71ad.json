@@ -147,7 +147,11 @@
     "candidate_answer": "cutting off the tuna",
     "source": "ai_unverified",
     "created_at": "2026-09-20T14:08:38.781Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T05:19:58.090Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "41c1a6ca96ffc61377f957eb2691df823ef9e8365adc046ff0b6204d34543460",
