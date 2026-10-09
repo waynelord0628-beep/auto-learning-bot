@@ -1,0 +1,78 @@
+[
+  {
+    "id": "e0af0e52783a99239e2a5c09bbc8e83a9fa63258df9e212862b48bbbd760de09",
+    "question": "網站上有一張「租屋補助申請流程圖表」的圖片，根據 WCAG 的可感知原則，其替代文字的最佳寫法應為下列何者？",
+    "options": [
+      "image001.jpg",
+      "留空，因為圖片內容複雜，無法用單純文字描述",
+      "租屋補助申請示意圖",
+      "詳細講述每一項申請步驟的說明文字"
+    ],
+    "type": "單選",
+    "course": "認識網站無障礙",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "租屋補助申請示意圖",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T08:21:44.789Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d2a5651ae4c2dcaa443ceddac3fbf59c696bc4651ad1b9c561a3bed8dcf1cc7c",
+    "question": "臺灣推動網站無障礙法規最主要的法源依據，是哪一條法律中增訂了政府機關網站應取得無障礙認證標章的規定？",
+    "options": [
+      "《電子化政府推動方案》",
+      "《個人資料保護法》",
+      "《政府網站服務管理規範》",
+      "《身心障礙者權益保障法》"
+    ],
+    "type": "單選",
+    "course": "認識網站無障礙",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T08:21:44.790Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "53bd34f5df76811a80bb32234f4abb336c0594dda6150444c582b0b40274be44",
+    "question": "以下哪一項不屬於WCAG四大原則？",
+    "options": [
+      "可辨識",
+      "可理解",
+      "一致性",
+      "穩健性"
+    ],
+    "type": "單選",
+    "course": "認識網站無障礙",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一致性",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T08:21:44.790Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3859e2c0a0a3c8571ca5bcbddb12754d9335cf3ba2cbec4e1c552253f6892a32",
+    "question": "臺灣網站無障礙規範目前是與哪一個國際標準接軌？",
+    "options": [
+      "ISO-9001",
+      "WCAG",
+      "HTTP",
+      "JI-SX-8341-3"
+    ],
+    "type": "單選",
+    "course": "認識網站無障礙",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "WCAG",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T08:21:44.791Z",
+    "review_state": "candidate_ready"
+  }
+]
