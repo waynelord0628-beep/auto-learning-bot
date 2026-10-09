@@ -124,7 +124,11 @@
     "candidate_answer": "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.762Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T01:20:02.919Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5b9832824a0b76a5cb414c705a52696834673cbd6e65b0b22e0a250e72afa5ec",
