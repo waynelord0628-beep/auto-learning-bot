@@ -93,5 +93,43 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.153Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "61ec6d0e974d93130d41edebd2d6795ed1e210732ad966b507e2ff6c6bceb6d4",
+    "question": "下列關於「空間規劃」的敘述，何者錯誤？",
+    "options": [
+      "規劃是一門專業，因此是價值與利益中立的。",
+      "對大範圍地區進行系統性和綜合性的規劃。",
+      "目的是管理土地使用和發展。",
+      "土地分區使用、交通運輸、基礎設施是空間規劃的範圍。"
+    ],
+    "type": "單選",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "規劃是一門專業，因此是價值與利益中立的。",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T07:18:25.386Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1634cd4bb5e4f1c11cc17b33314b3fc99a6b12772f8c727a81e151723eed80ab",
+    "question": "下列哪一項是性別化空間的主要特點？",
+    "options": [
+      "空間規劃擴大貧富差距。",
+      "空間反映並維繫了性別不平等關係。",
+      "空間主要反映個人偏好。",
+      "空間的設計應基於經濟效率考量。"
+    ],
+    "type": "單選",
+    "course": "性別與空間",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "空間反映並維繫了性別不平等關係。",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T07:18:25.386Z",
+    "review_state": "candidate_ready"
   }
 ]
