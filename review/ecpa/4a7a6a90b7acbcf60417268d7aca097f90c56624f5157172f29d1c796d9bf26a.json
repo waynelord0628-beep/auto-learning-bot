@@ -81,7 +81,11 @@
     "candidate_answer": "10個",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:55:36.513Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T00:20:27.393Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c44ae5e76e1e7647c00744f2bb576dfd46c1d41ae684020ce1aa62e003e8b82f",
