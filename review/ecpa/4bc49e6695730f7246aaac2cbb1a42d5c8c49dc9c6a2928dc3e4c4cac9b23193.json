@@ -143,7 +143,11 @@
     "candidate_answer": "tuna / hairtail / mahi mahi / squid",
     "source": "ai_unverified",
     "created_at": "2026-09-20T07:23:33.245Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T02:20:22.596Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d9afe2f1689ce15843192c0bc1cf216901399f712cd5987d7da1c012c682aa97",
