@@ -63053,5 +63053,30 @@
       "model": null,
       "checked_at": "2026-10-09T09:19:46.479Z"
     }
+  },
+  {
+    "question": "列關於台灣針對循環容器的政策何者正確？",
+    "type": "單選",
+    "options": [
+      "在連鎖飲料店購買飲料且自備容器的消費者可享有至少5元優惠",
+      "2023年起，連鎖便利商店與連鎖速食業者必須提供循環杯租借服務",
+      "台北市於2022年12月起即全面禁用一次性塑膠飲料杯",
+      "以上皆是"
+    ],
+    "course": "循環杯-啟動減塑新未來",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T09:19:55.888Z"
+    }
   }
 ]
