@@ -62936,5 +62936,30 @@
       "model": null,
       "checked_at": "2026-10-09T06:19:53.201Z"
     }
+  },
+  {
+    "question": "依據本課程內容，將來銀行的雲架構系統為何，易於更新、開發及維運？",
+    "type": "單選",
+    "options": [
+      "大核心和大周邊",
+      "大核心和小周邊",
+      "小核心和大周邊",
+      "小核心和小周邊"
+    ],
+    "course": "雲架構對純網銀的現在與未來",
+    "answer": "小核心和大周邊",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "小核心和大周邊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T06:20:00.390Z"
+    }
   }
 ]
