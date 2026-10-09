@@ -162,5 +162,23 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:55:57.502Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ced66a2ce2ff283ab279e0bc8cec1059db719f2e19b5a3bd03bfd32678ffe521",
+    "question": "下列敘述何者錯誤？",
+    "options": [
+      "太陽能屬於再生能源的一種",
+      "天然氣不屬於化石能源",
+      "液化石油氣屬於化石能源"
+    ],
+    "type": "單選",
+    "course": "能源與我們─Energy and Women",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "性別目標不需要訂定對應的績效指標，也不用納入管考作業",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-09T07:57:11.261Z",
+    "review_state": "awaiting_evidence"
   }
 ]
