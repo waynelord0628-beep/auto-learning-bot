@@ -174,5 +174,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.904Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "27dd8d33007d9fe02ec0078b01542696750179130f14d9e1b68fd32e87dc3193",
+    "question": "高速公路是會影響空氣品質是PM2.5。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:02.444Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2a5c10bd1ea8c71608ab7507d54bfcd4c3279b104fd27b7bef61c11e417ae9e9",
+    "question": "哪個城市採用智慧經濟概念，透過地鐵站的虛擬商店消費，直接將貨品送到指定地點。",
+    "options": [
+      "東京",
+      "高雄",
+      "首爾",
+      "倫敦"
+    ],
+    "type": "單選",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "首爾",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:02.447Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f7ac99fb254b04c64f00bdcb6868e8faffefd6bfc23b90991ef2325dad1e54a8",
+    "question": "芝加哥AI透過Tweet資料分析整合，推薦民眾安全路線。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-09T15:54:02.450Z",
+    "review_state": "candidate_ready"
   }
 ]
