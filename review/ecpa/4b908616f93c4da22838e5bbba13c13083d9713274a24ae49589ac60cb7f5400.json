@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提高資訊安全",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.756Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-16T01:19:55.141Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提高資訊安全",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T01:19:54.284Z"
+    },
+    "resolved_answer": "提高資訊安全"
   },
   {
     "id": "39c2edb37241925a2e048c6cba6acd3df15dfcf979249f2c166c5acb6fec4c53",

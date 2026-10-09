@@ -62811,5 +62811,30 @@
       "model": null,
       "checked_at": "2026-10-08T16:20:02.426Z"
     }
+  },
+  {
+    "question": "依據本課程內容，新光醫院以Azure Active Directory取代Secure VPN之目的是？",
+    "type": "單選",
+    "options": [
+      "提高資訊安全",
+      "易於資料交換",
+      "高風險預警",
+      "彈性部署"
+    ],
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "answer": "提高資訊安全",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提高資訊安全",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-09T01:19:54.284Z"
+    }
   }
 ]
