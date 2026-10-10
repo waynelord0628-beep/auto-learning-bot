@@ -80,13 +80,30 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.044Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-17T06:20:08.838Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T06:20:07.657Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a406824cdd612c41c8c1b91d822df9555fedf12cd4ca15ad941b0191fc88eaab",
