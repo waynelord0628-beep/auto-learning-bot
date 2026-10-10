@@ -63520,5 +63520,30 @@
       "model": null,
       "checked_at": "2026-10-10T15:19:44.330Z"
     }
+  },
+  {
+    "question": "在照明光源的選用上，為何選用LED燈越多，節省電力越多？",
+    "type": "單選",
+    "options": [
+      "光源發光效率高",
+      "可進行調光控制",
+      "可搭配智慧照明燈控節電",
+      "以上皆是"
+    ],
+    "course": "室內照明節能的主角-全面認識LED燈",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ledee.html",
+          "title": "「室內照明節能的主角-全面認識LED燈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T15:19:53.891Z"
+    }
   }
 ]
