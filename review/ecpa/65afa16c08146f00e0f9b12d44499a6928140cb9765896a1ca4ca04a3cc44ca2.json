@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "室內照明節能的主角-全面認識LED燈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T13:47:17.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-17T15:19:45.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ledee.html",
+          "title": "「室內照明節能的主角-全面認識LED燈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T15:19:44.330Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "6484b69c7ea2c9c0be03d52768307dcb3d12e6643488f13bb4c8099354e0885d",
