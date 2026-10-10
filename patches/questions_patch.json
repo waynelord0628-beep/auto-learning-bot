@@ -63545,5 +63545,30 @@
       "model": null,
       "checked_at": "2026-10-10T15:19:53.891Z"
     }
+  },
+  {
+    "question": "國際照明委員會依據場所類別，規範不同的照度標準與眩光指數規範，我國亦有制定國家照明標準。請教下列哪一個標準是我國室內工作場所照明國家標準？",
+    "type": "單選",
+    "options": [
+      "CNS12111",
+      "CNS12112",
+      "CNS12113",
+      "CNS12114"
+    ],
+    "course": "室內照明節能的主角-全面認識LED燈",
+    "answer": "CNS12112",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "CNS12112",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ledee.html",
+          "title": "「室內照明節能的主角-全面認識LED燈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T15:20:00.906Z"
+    }
   }
 ]
