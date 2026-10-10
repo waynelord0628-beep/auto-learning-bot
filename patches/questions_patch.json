@@ -63298,5 +63298,29 @@
       "model": null,
       "checked_at": "2026-10-10T03:20:20.622Z"
     }
+  },
+  {
+    "question": "智慧化是什麼？",
+    "type": "單選",
+    "options": [
+      "就是AI",
+      "只需要資工的AI模型，任何事物經AI演算就能夠有智慧",
+      "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合"
+    ],
+    "course": "讓智慧機器人成為長照復健的得力助手",
+    "answer": "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T03:20:40.018Z"
+    }
   }
 ]

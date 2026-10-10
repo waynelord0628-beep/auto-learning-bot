@@ -171,13 +171,30 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.963Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-17T03:20:41.829Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-10T03:20:40.018Z"
+    },
+    "resolved_answer": "先將過往智慧數位化後，利用AI進行數據驅動(data-driven)，並與數位化的理論模型整合"
   },
   {
     "id": "ad6ee2c77a9c1182a72b54c4c578b2a1a57de9cd36138000b40a30121eb10ed3",
