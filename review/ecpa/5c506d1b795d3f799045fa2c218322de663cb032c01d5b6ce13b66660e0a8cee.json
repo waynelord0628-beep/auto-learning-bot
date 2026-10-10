@@ -64,7 +64,11 @@
     "candidate_answer": "解除戒嚴",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.036Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-17T07:20:26.487Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6751db83a9a788b270bc6795bf81c6fe5a2b4fca0bcf3e1211415ac268022716",
