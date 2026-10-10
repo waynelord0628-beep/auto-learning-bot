@@ -40,7 +40,11 @@
     "candidate_answer": "汪希苓",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.035Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-17T07:20:14.593Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cf70d710ee6e4bf9d08e3e521bb83845cc80099205f1855a938298a0d5d4f399",
