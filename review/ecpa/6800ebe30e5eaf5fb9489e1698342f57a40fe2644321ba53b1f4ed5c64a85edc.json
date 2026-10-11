@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.722Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T01:20:06.403Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T01:20:05.159Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2581da16e8bb590b407d6da0de839856ba908378870420881eafa5e55843ce28",
