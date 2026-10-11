@@ -44,14 +44,31 @@
     ],
     "type": "單選",
     "course": "職場溝通與壓力調適",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T14:55:29.540Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-11T07:19:49.980Z"
+    "retry_after": "2026-10-11T07:19:49.980Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T15:20:44.795Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是 。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/07/ee.html",
+          "title": "「職場溝通與壓力調適」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T15:20:43.091Z"
+    },
+    "resolved_answer": "以上皆是 。"
   }
 ]
