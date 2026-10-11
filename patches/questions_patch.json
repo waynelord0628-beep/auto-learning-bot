@@ -63570,5 +63570,28 @@
       "model": null,
       "checked_at": "2026-10-10T15:20:00.906Z"
     }
+  },
+  {
+    "question": "聯發科技公司(MediaTek)的生成式AI平臺是自行研發的。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "利用生成式AI加速推動數位轉型及生產力提升",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_88.html",
+          "title": "「利用生成式AI加速推動數位轉型及生產力提升」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T00:19:52.936Z"
+    }
   }
 ]
