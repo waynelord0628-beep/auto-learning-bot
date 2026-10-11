@@ -63733,5 +63733,30 @@
       "model": null,
       "checked_at": "2026-10-11T02:20:06.561Z"
     }
+  },
+  {
+    "question": "安麗公司在導入雲端科技後，哪一項成為其管理團隊的主要優勢？",
+    "type": "單選",
+    "options": [
+      "減少IT支出",
+      "提高產品研發速度",
+      "雲端遠端管理和零接觸部署",
+      "增加人力需求"
+    ],
+    "course": "Cloud Adoption JourneyAmway Taiwan",
+    "answer": "雲端遠端管理和零接觸部署",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "雲端遠端管理和零接觸部署",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137165",
+          "title": "Cloud Adoption JourneyAmway Taiwan《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T03:19:43.762Z"
+    }
   }
 ]
