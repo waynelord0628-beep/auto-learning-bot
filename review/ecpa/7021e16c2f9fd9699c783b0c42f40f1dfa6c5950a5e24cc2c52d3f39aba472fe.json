@@ -39,7 +39,11 @@
     "candidate_answer": "可在不同平台之間通行",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.659Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T12:19:51.409Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0edec09013bcfb690a2bfebc599a34f07ff794b7b122bc7c961970c399ce49d6",
