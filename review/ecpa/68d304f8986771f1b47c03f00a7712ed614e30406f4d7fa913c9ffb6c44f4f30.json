@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "Cloud Adoption JourneyAmway Taiwan",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "雲端監控工具",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T15:00:28.646Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T03:19:52.539Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "雲端監控工具",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137165",
+          "title": "Cloud Adoption JourneyAmway Taiwan《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T03:19:51.898Z"
+    },
+    "resolved_answer": "雲端監控工具"
   },
   {
     "id": "f2729c5bc102209192d20c301c4493a7d33fbb96c0f85693fac49a5ae81817ee",
