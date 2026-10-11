@@ -63877,5 +63877,29 @@
       "model": null,
       "checked_at": "2026-10-11T05:19:54.331Z"
     }
+  },
+  {
+    "question": "內視鏡手術、4K影像手術、3D手術，都會需要用到「視頻螢幕/顯示器螢幕」，請問醫療等級的顯示器螢幕需要什麼規格?",
+    "type": "單選",
+    "options": [
+      "(1)不易造成手術室溫度上升",
+      "(2) 與一般家用或電腦用顯示器即可",
+      "(3) 需要100吋以上尺寸。"
+    ],
+    "course": "效率與安全兼具的智慧醫療新世代",
+    "answer": "(1)不易造成手術室溫度上升",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "(1)不易造成手術室溫度上升",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T07:19:56.901Z"
+    }
   }
 ]

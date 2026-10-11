@@ -45,13 +45,30 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(1)不易造成手術室溫度上升",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.522Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T07:19:57.703Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(1)不易造成手術室溫度上升",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T07:19:56.901Z"
+    },
+    "resolved_answer": "(1)不易造成手術室溫度上升"
   },
   {
     "id": "2d7a4f45ccc0d9c91cd52968e386fc32fd480df1daf68bb8e6969ad3b9dd9c74",
