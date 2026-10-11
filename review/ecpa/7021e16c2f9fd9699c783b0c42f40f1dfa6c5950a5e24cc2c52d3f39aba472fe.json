@@ -16,7 +16,11 @@
     "candidate_answer": "結合實體經濟和虛擬市場",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.656Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T12:19:45.251Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fb23c45fb50169877b3ef72bc582c425c1c61f01ef9bc84005e089dbb9ec395c",
