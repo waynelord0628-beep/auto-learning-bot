@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:43:42.374Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T15:21:18.474Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T15:21:16.156Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "83878c3d19b93832cb98f2aab66d48a0a87485a88b2fced9058d3a09d132139b",
