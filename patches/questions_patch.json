@@ -63616,5 +63616,30 @@
       "model": null,
       "checked_at": "2026-10-11T01:20:05.159Z"
     }
+  },
+  {
+    "question": "下列何者是溫室氣體?",
+    "type": "單選",
+    "options": [
+      "二氧化碳(CO2)",
+      "甲烷(CH4)",
+      "氧化亞氮(N2O)",
+      "以上皆是"
+    ],
+    "course": "二氧化碳捕獲封存及再利用(CCSU)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T01:20:19.585Z"
+    }
   }
 ]
