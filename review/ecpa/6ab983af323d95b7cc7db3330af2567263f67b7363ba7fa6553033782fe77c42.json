@@ -42,13 +42,30 @@
     ],
     "type": "是非",
     "course": "運動部專任運動教練線上課程_法律義務與責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T03:20:56.556Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-18T05:19:48.448Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_0339410620.html",
+          "title": "「運動部專任運動教練線上課程_法律義務與責任」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T05:19:47.777Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "720dde5ff72f58e1d11f390afcc6e9efcc34a4aa2a2ed3bbf3c639ad5caf699b",
