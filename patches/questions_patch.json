@@ -63926,5 +63926,28 @@
       "model": null,
       "checked_at": "2026-10-11T09:19:49.149Z"
     }
+  },
+  {
+    "question": "一般人必須理解AI的技術原理，才有辦法使用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生成式AI工具入門(一)",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/aiee.html",
+          "title": "「生成式AI工具入門(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T10:19:42.940Z"
+    }
   }
 ]
