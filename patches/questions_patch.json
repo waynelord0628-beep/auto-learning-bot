@@ -63783,5 +63783,30 @@
       "model": null,
       "checked_at": "2026-10-11T03:19:51.898Z"
     }
+  },
+  {
+    "question": "安麗公司進行雲端轉型過程中，最重要的成功關鍵因素是什麼？",
+    "type": "單選",
+    "options": [
+      "採用標準化和自動化來加速轉型",
+      "獨立開發所有雲服務",
+      "減少數據儲存空間",
+      "擴編人力"
+    ],
+    "course": "Cloud Adoption JourneyAmway Taiwan",
+    "answer": "採用標準化和自動化來加速轉型",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "採用標準化和自動化來加速轉型",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137165",
+          "title": "Cloud Adoption JourneyAmway Taiwan《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-11T03:20:00.896Z"
+    }
   }
 ]
