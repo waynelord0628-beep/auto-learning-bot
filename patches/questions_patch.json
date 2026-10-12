@@ -64270,5 +64270,30 @@
       "model": null,
       "checked_at": "2026-10-12T03:20:11.885Z"
     }
+  },
+  {
+    "question": "請問行政院在哪一年公告高齡社會白皮書？",
+    "type": "單選",
+    "options": [
+      "2020年",
+      "2021年",
+      "2022年",
+      "2023年"
+    ],
+    "course": "打造智慧無縫的照護環境",
+    "answer": "2021年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "2021年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T03:20:28.130Z"
+    }
   }
 ]
