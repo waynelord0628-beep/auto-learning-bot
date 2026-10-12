@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "增加金融產品價格",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.743Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T12:20:07.888Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "增加金融產品價格",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T12:20:07.212Z"
+    },
+    "resolved_answer": "增加金融產品價格"
   },
   {
     "id": "8e4d180a3f032b80c418fbe07ae6999f43e4e9efc123ae3ba9653a440ddb9adc",

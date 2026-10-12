@@ -64641,5 +64641,30 @@
       "model": null,
       "checked_at": "2026-10-12T12:19:58.330Z"
     }
+  },
+  {
+    "question": "金融機構推動金融科技，例如：AI、Big Data、Cloud…等，其核心目標不包括下列哪一項？",
+    "type": "單選",
+    "options": [
+      "提升效率",
+      "網路安全",
+      "保護消費者和投資者",
+      "增加金融產品價格"
+    ],
+    "course": "金融科技發展與應用",
+    "answer": "增加金融產品價格",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "增加金融產品價格",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T12:20:07.212Z"
+    }
   }
 ]
