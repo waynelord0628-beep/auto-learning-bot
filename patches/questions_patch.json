@@ -64468,5 +64468,30 @@
       "model": null,
       "checked_at": "2026-10-12T08:19:43.450Z"
     }
+  },
+  {
+    "question": "金融機構運用AI技術時，兼顧永續發展之道為何？",
+    "type": "單選",
+    "options": [
+      "設備優化及虛擬化",
+      "增加重複運算",
+      "提高模型複雜度",
+      "以上皆是"
+    ],
+    "course": "AI金融應用與資安管理",
+    "answer": "設備優化及虛擬化",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "設備優化及虛擬化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_12.html",
+          "title": "「AI金融應用與資安管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T08:19:50.397Z"
+    }
   }
 ]
