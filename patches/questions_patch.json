@@ -64566,5 +64566,30 @@
       "model": null,
       "checked_at": "2026-10-12T11:20:37.786Z"
     }
+  },
+  {
+    "question": "消費者使用永續的金融支付方案可以達成哪些作為？",
+    "type": "單選",
+    "options": [
+      "在消費後選擇贊助碳抵換計畫來中和此次消費碳排放",
+      "瞭解每一筆消費帶來的碳衝擊",
+      "透過行動銀行App的個人化建議，瞭解如何減少碳足跡",
+      "以上皆是"
+    ],
+    "course": "永續與帳本(組合課程)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_445.html",
+          "title": "「永續與帳本(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T11:20:57.729Z"
+    }
   }
 ]
