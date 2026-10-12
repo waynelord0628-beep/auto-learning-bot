@@ -112,13 +112,30 @@
     ],
     "type": "是非",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.707Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T04:19:46.533Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T04:19:45.909Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3bab49a0e7565d75d4eb84c057e441def5fcfa1f6c1c63b83aa9fe36433ce5b6",
