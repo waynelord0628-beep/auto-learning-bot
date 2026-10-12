@@ -64393,5 +64393,30 @@
       "model": null,
       "checked_at": "2026-10-12T05:20:03.452Z"
     }
+  },
+  {
+    "question": "當金融機構資料上雲，如何保護客戶資料？",
+    "type": "單選",
+    "options": [
+      "無須特別保護，以提高效率",
+      "僅需告知客戶資料可能被使用",
+      "由客戶自行負責資料安全",
+      "應建立嚴格的資料保護措施"
+    ],
+    "course": "金融上雲應注意事項",
+    "answer": "應建立嚴格的資料保護措施",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "應建立嚴格的資料保護措施",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T05:20:25.438Z"
+    }
   }
 ]
