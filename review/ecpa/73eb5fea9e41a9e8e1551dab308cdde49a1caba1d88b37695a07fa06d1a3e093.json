@@ -10,13 +10,34 @@
     ],
     "type": "單選",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "10項",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T00:20:19.598Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "12項",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T00:20:17.150Z"
+    },
+    "resolved_answer": "12項"
   },
   {
     "id": "2f239536457c5caade4285d8f1c06eb17677aef2a9aa1dd1b91074d46f7f20c4",
