@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "永續與帳本(組合課程)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T05:12:42.637Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T11:20:16.237Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_445.html",
+          "title": "「永續與帳本(組合課程)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T11:20:13.215Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "06e10ca74d89e1962ba88e1469fb75bdb01acb080b83ef58a1b91bbca14d23c6",
