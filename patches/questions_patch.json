@@ -64418,5 +64418,30 @@
       "model": null,
       "checked_at": "2026-10-12T05:20:25.438Z"
     }
+  },
+  {
+    "question": "金融機構在進行雲端服務的風險評估時，建議優先考量什麼？",
+    "type": "單選",
+    "options": [
+      "雲端服務的使用模式與情境",
+      "雲端服務價格",
+      "雲端服務業者的品牌",
+      "雲端資料空間和處理速度"
+    ],
+    "course": "金融上雲應注意事項",
+    "answer": "雲端服務的使用模式與情境",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "雲端服務的使用模式與情境",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T05:20:39.036Z"
+    }
   }
 ]
