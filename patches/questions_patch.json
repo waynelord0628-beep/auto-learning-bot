@@ -64245,5 +64245,30 @@
       "model": null,
       "checked_at": "2026-10-12T03:19:54.544Z"
     }
+  },
+  {
+    "question": "根據民國111年行政院統計的照顧服務員人數約為多少人？",
+    "type": "單選",
+    "options": [
+      "15萬人",
+      "10萬人",
+      "9萬人",
+      "8萬人"
+    ],
+    "course": "打造智慧無縫的照護環境",
+    "answer": "9萬人",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "9萬人",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T03:20:11.885Z"
+    }
   }
 ]
