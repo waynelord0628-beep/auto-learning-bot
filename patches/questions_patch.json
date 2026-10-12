@@ -64368,5 +64368,30 @@
       "model": null,
       "checked_at": "2026-10-12T04:20:02.352Z"
     }
+  },
+  {
+    "question": "當金融機構委外使用雲端服務時，對雲端服務業者負有的最終義務？",
+    "type": "單選",
+    "options": [
+      "保密義務",
+      "監督義務",
+      "支付義務",
+      "報告義務"
+    ],
+    "course": "金融上雲應注意事項",
+    "answer": "監督義務",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "監督義務",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T05:20:03.452Z"
+    }
   }
 ]
