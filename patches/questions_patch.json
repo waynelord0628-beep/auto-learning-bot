@@ -64716,5 +64716,30 @@
       "model": null,
       "checked_at": "2026-10-12T13:19:49.887Z"
     }
+  },
+  {
+    "question": "請問台灣醫院的HIS系統是屬於哪一種架構較多？",
+    "type": "單選",
+    "options": [
+      "微服務架構",
+      "Client/Server 架構",
+      "SOA架構",
+      "N-Tier架構"
+    ],
+    "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
+    "answer": "Client/Server 架構",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Client/Server 架構",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T13:19:57.346Z"
+    }
   }
 ]
