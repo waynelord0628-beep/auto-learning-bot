@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(1) 努力讓人為造成的溫室氣體排放極小化，再用負碳技術、森林碳匯等方法抵消，達到淨零排放。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.313Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T16:19:58.788Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(1) 努力讓人為造成的溫室氣體排放極小化，再用負碳技術、森林碳匯等方法抵消，達到淨零排放。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T16:19:58.070Z"
+    },
+    "resolved_answer": "(1) 努力讓人為造成的溫室氣體排放極小化，再用負碳技術、森林碳匯等方法抵消，達到淨零排放。"
   },
   {
     "id": "3943ec892ad2260a1f8cb747e2f93656c7f7951088919ffc32e542843694a2fd",
