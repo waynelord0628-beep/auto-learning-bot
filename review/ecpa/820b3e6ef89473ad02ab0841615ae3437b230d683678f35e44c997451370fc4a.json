@@ -98,7 +98,11 @@
     "candidate_answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
     "source": "ai_unverified",
     "created_at": "2026-10-07T08:58:15.102Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T15:20:48.145Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f6f5ed59b86beafe5696b371f6119691045b6cc4d35ed72cdfa2a32effb21959",
