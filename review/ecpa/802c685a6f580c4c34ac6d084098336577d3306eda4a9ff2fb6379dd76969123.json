@@ -114,13 +114,30 @@
     ],
     "type": "單選",
     "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:11:07.795Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T13:19:44.105Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T13:19:43.376Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4d1e249e3bbfc8537148b15132f2b1d149fd11767f55ae36f75e3db12d59cf60",

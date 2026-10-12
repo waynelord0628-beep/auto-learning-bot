@@ -64666,5 +64666,30 @@
       "model": null,
       "checked_at": "2026-10-12T12:20:07.212Z"
     }
+  },
+  {
+    "question": "請問微服務架構的主要優點為何？",
+    "type": "單選",
+    "options": [
+      "高可維護性",
+      "高彈性伸縮",
+      "高復原力",
+      "以上皆是"
+    ],
+    "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T13:19:43.376Z"
+    }
   }
 ]
