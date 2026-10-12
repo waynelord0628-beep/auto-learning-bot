@@ -33,13 +33,34 @@
     ],
     "type": "單選",
     "course": "黑鮪魚文化觀光季：東港美食與文化體驗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "There are no specific criteria for identifying Pingtung's first bluefin tuna; any tuna caught in the surrounding waters of Taiwan can be considered the first bluefin tuna.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T08:58:15.100Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T15:20:33.506Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "There are no specific criteria for identifying Pingtung's first bluefin tuna; any tuna caught in the surrounding waters of Taiwan can be considered the first bluefin tuna.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347100249",
+          "title": "黑鮪魚文化觀光季：東港美食與文化體驗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_788.html",
+          "title": "「黑鮪魚文化觀光季：東港美食與文化體驗」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T15:20:31.815Z"
+    },
+    "resolved_answer": "There are no specific criteria for identifying Pingtung's first bluefin tuna; any tuna caught in the surrounding waters of Taiwan can be considered the first bluefin tuna."
   },
   {
     "id": "50ec336bcedee062cc2f4bad97a758ea8675c77fa1246aa45578979961321586",
