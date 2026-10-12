@@ -64493,5 +64493,30 @@
       "model": null,
       "checked_at": "2026-10-12T08:19:50.397Z"
     }
+  },
+  {
+    "question": "AI技術在金融業的應用應強調哪項重要性？",
+    "type": "單選",
+    "options": [
+      "減少數據存儲",
+      "增加人力需求",
+      "系統穩健性與安全性",
+      "減少風險控制"
+    ],
+    "course": "AI金融應用與資安管理",
+    "answer": "系統穩健性與安全性",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "系統穩健性與安全性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_12.html",
+          "title": "「AI金融應用與資安管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T08:19:58.023Z"
+    }
   }
 ]

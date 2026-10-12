@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "AI金融應用與資安管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "系統穩健性與安全性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:17:37.991Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T08:19:58.882Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "系統穩健性與安全性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_12.html",
+          "title": "「AI金融應用與資安管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T08:19:58.023Z"
+    },
+    "resolved_answer": "系統穩健性與安全性"
   },
   {
     "id": "29643ff385b95eb4f5fd78938705340ebd0f635757b1032663d27c300327e5bd",
