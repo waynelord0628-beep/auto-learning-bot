@@ -64220,5 +64220,30 @@
       "model": null,
       "checked_at": "2026-10-12T00:21:17.431Z"
     }
+  },
+  {
+    "question": "依據影片說明，請問台灣老人臨終前平均臥床時間多久？",
+    "type": "單選",
+    "options": [
+      "3~4年",
+      "5~6年",
+      "7~8年",
+      "9~10年"
+    ],
+    "course": "打造智慧無縫的照護環境",
+    "answer": "7~8年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "7~8年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T03:19:54.544Z"
+    }
   }
 ]
