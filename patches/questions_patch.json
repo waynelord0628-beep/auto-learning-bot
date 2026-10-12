@@ -64770,5 +64770,30 @@
       "model": null,
       "checked_at": "2026-10-12T15:20:31.815Z"
     }
+  },
+  {
+    "question": "台灣預計2021年4月22日宣示台灣目標將在何時達到淨零轉型?",
+    "type": "單選",
+    "options": [
+      "(1) 2050年",
+      "(2) 2025年",
+      "(3) 2035年",
+      "(4) 2030年。"
+    ],
+    "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
+    "answer": "(1) 2050年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "(1) 2050年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T16:19:47.408Z"
+    }
   }
 ]
