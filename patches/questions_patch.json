@@ -64443,5 +64443,30 @@
       "model": null,
       "checked_at": "2026-10-12T05:20:39.036Z"
     }
+  },
+  {
+    "question": "根據本課程內容，金管會發布AI指引中提到的核心原則不包括哪一項？",
+    "type": "單選",
+    "options": [
+      "公平性",
+      "透明性",
+      "隱私保護",
+      "減少監管"
+    ],
+    "course": "AI金融應用與資安管理",
+    "answer": "減少監管",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "減少監管",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/aiee_12.html",
+          "title": "「AI金融應用與資安管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T08:19:43.450Z"
+    }
   }
 ]
