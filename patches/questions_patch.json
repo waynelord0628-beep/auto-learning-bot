@@ -64591,5 +64591,30 @@
       "model": null,
       "checked_at": "2026-10-12T11:20:57.729Z"
     }
+  },
+  {
+    "question": "根據本課程，下列哪一項是金融科技(Fintech)的應用？",
+    "type": "單選",
+    "options": [
+      "無線電廣播",
+      "紙本票據",
+      "電視購物",
+      "手機支付系統"
+    ],
+    "course": "金融科技發展與應用",
+    "answer": "手機支付系統",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "手機支付系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T12:19:46.881Z"
+    }
   }
 ]
