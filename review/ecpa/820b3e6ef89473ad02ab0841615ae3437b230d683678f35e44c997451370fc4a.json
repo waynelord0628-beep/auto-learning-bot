@@ -16,7 +16,11 @@
     "candidate_answer": "Sergestid Shrimp is called a national treasure because of its high-fat content.",
     "source": "ai_unverified",
     "created_at": "2026-10-07T08:58:15.099Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T15:20:14.140Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3e2d174c80e86ded1c83aa7d232a0d7f5dc3b522b2ef3da50f2b8d48ccc7ac21",
