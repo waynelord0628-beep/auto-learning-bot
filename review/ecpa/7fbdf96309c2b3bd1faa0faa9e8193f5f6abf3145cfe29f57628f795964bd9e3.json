@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確保法規與市場發展保持一致",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.741Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-19T12:19:59.013Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確保法規與市場發展保持一致",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T12:19:58.330Z"
+    },
+    "resolved_answer": "確保法規與市場發展保持一致"
   },
   {
     "id": "8219413a653a04072aabfbd2c746d58c1f297a51ad9a0e5a827623a8afe329e8",

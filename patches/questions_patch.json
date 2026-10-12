@@ -64616,5 +64616,30 @@
       "model": null,
       "checked_at": "2026-10-12T12:19:46.881Z"
     }
+  },
+  {
+    "question": "金管會的金融科技法規調適平台的主要目的是什麼？",
+    "type": "單選",
+    "options": [
+      "增加監管強度",
+      "確保法規與市場發展保持一致",
+      "減少金融創新",
+      "提高金融產品價格"
+    ],
+    "course": "金融科技發展與應用",
+    "answer": "確保法規與市場發展保持一致",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "確保法規與市場發展保持一致",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T12:19:58.330Z"
+    }
   }
 ]
