@@ -64820,5 +64820,30 @@
       "model": null,
       "checked_at": "2026-10-12T16:19:58.070Z"
     }
+  },
+  {
+    "question": "農電共生申請過程中需要哪幾個條件?",
+    "type": "單選",
+    "options": [
+      "(1) 需有種植事實",
+      "(2) 申請台電饋線",
+      "(3)申請使建照",
+      "(4) 以上皆是。"
+    ],
+    "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
+    "answer": "(4) 以上皆是。",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "(4) 以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T16:20:08.976Z"
+    }
   }
 ]
