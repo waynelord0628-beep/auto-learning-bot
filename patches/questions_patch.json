@@ -64691,5 +64691,30 @@
       "model": null,
       "checked_at": "2026-10-12T13:19:43.376Z"
     }
+  },
+  {
+    "question": "HIS系統在打造更具靈活性的應變能力與不確定性的韌性方面，未採用的方法是？",
+    "type": "單選",
+    "options": [
+      "容器化",
+      "集中化",
+      "混合雲架構",
+      "微服務架構"
+    ],
+    "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
+    "answer": "集中化",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "集中化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-12T13:19:49.887Z"
+    }
   }
 ]
