@@ -118,13 +118,30 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生存權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.616Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T02:19:52.850Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "工作權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T02:19:51.823Z"
+    },
+    "resolved_answer": "工作權"
   },
   {
     "id": "ce24f5a8a995ac11be3afed818deb51a07de631f6f2f3b0372664fc3257af47c",
