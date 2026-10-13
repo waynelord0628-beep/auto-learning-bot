@@ -64920,5 +64920,29 @@
       "model": null,
       "checked_at": "2026-10-13T02:20:19.442Z"
     }
+  },
+  {
+    "question": "綠藤生機最大的碳排來源屬於哪一個範疇？",
+    "type": "單選",
+    "options": [
+      "範疇一",
+      "範疇二",
+      "範疇三"
+    ],
+    "course": "中小企業如何與淨零策略結合-以B型企業為例",
+    "answer": "範疇三",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "範疇三",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/bee.html",
+          "title": "「中小企業如何與淨零策略結合-以B型企業為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T03:19:43.681Z"
+    }
   }
 ]
