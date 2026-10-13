@@ -65353,5 +65353,28 @@
       "model": null,
       "checked_at": "2026-10-13T12:20:35.726Z"
     }
+  },
+  {
+    "question": "AI協助城市的方法，不需要大量資料就可以精確找出問題點。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T12:22:04.761Z"
+    }
   }
 ]
