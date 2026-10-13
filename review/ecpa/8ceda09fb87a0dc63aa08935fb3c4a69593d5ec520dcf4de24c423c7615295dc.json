@@ -48,15 +48,32 @@
     ],
     "type": "單選",
     "course": "疫情後金融科技關鍵發展策略",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T07:09:08.585Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-06T11:19:43.175Z"
+    "retry_after": "2026-10-06T11:19:43.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T06:20:26.659Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以友善環境為目標，而創建的金融商品或服務，包括貸款、債務機制、保險和投資等",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_46.html",
+          "title": "「疫情後金融科技關鍵發展策略」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T06:20:24.891Z"
+    },
+    "resolved_answer": "以友善環境為目標，而創建的金融商品或服務，包括貸款、債務機制、保險和投資等"
   },
   {
     "id": "cbdabcacf04126a8b3d3e29128694639e4a74c7fe4901b640a13e0e89cdde607",
