@@ -64969,5 +64969,31 @@
       "model": null,
       "checked_at": "2026-10-13T03:19:52.871Z"
     }
+  },
+  {
+    "question": "企業淨零可有哪些方式？",
+    "type": "單選",
+    "options": [
+      "進行碳盤查與查證",
+      "更新使用節能設備",
+      "碳稅成本內部化",
+      "使用再生能源",
+      "以上皆是"
+    ],
+    "course": "中小企業如何與淨零策略結合-以B型企業為例",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/bee.html",
+          "title": "「中小企業如何與淨零策略結合-以B型企業為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T03:20:00.846Z"
+    }
   }
 ]
