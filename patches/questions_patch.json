@@ -65280,5 +65280,28 @@
       "model": null,
       "checked_at": "2026-10-13T11:19:49.367Z"
     }
+  },
+  {
+    "question": "台灣年降雨量豐沛，無缺水之虞",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "高科技產業節水、節能與循環經濟之應用",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_705.html",
+          "title": "「高科技產業節水、節能與循環經濟之應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T11:19:59.901Z"
+    }
   }
 ]
