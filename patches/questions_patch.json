@@ -65114,5 +65114,30 @@
       "model": null,
       "checked_at": "2026-10-13T06:20:24.891Z"
     }
+  },
+  {
+    "question": "根據Worldpay 2021年報告指出，全球消費者最常使用之支付方式為何？",
+    "type": "單選",
+    "options": [
+      "現金",
+      "信用卡",
+      "行動支付",
+      "虛擬貨幣"
+    ],
+    "course": "疫情後金融科技關鍵發展策略",
+    "answer": "行動支付",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "行動支付",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_46.html",
+          "title": "「疫情後金融科技關鍵發展策略」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T06:20:48.451Z"
+    }
   }
 ]
