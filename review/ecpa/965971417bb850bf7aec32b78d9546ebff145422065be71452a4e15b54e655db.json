@@ -60,7 +60,11 @@
     "candidate_answer": "經常重複辦理，而且處理方式與格式相對固定的工作",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T14:20:00.595Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "23f3ec7404ca485d9d6da3b320ba7fa9cf99558da9c616b4794dfc80fc23c142",
