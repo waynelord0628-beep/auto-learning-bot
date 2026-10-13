@@ -65526,5 +65526,30 @@
       "model": null,
       "checked_at": "2026-10-13T15:20:52.033Z"
     }
+  },
+  {
+    "question": "下列何者為智慧醫院可帶來的效益？",
+    "type": "單選",
+    "options": [
+      "搭載能源管理系統，降低整體電力支出費用",
+      "生產即時報表以精準調動醫院人力",
+      "提高整體運作效能，提升醫病溝通品質",
+      "以上皆是"
+    ],
+    "course": "醫院數位轉型的挑戰與機會",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_73.html",
+          "title": "「醫院數位轉型的挑戰與機會」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T16:19:45.705Z"
+    }
   }
 ]
