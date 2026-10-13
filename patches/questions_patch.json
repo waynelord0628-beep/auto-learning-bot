@@ -65255,5 +65255,30 @@
       "model": null,
       "checked_at": "2026-10-13T10:24:12.641Z"
     }
+  },
+  {
+    "question": "根據本課程講座說明，冷氣設定每提高一度約可節省電力多少？",
+    "type": "單選",
+    "options": [
+      "1%",
+      "2%",
+      "3%",
+      "4%"
+    ],
+    "course": "高科技產業節水、節能與循環經濟之應用",
+    "answer": "3%",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "3%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_705.html",
+          "title": "「高科技產業節水、節能與循環經濟之應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T11:19:49.367Z"
+    }
   }
 ]
