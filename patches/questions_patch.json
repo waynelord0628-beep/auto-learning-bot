@@ -65574,5 +65574,30 @@
       "model": null,
       "checked_at": "2026-10-13T16:19:54.327Z"
     }
+  },
+  {
+    "question": "下列關於醫院進行數位轉型可能面臨的挑戰有哪些？",
+    "type": "單選",
+    "options": [
+      "醫院員工心態調適",
+      "更新軟硬體的財務負擔",
+      "隨著科技進步要頻繁更換硬體設備",
+      "以上皆是"
+    ],
+    "course": "醫院數位轉型的挑戰與機會",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_73.html",
+          "title": "「醫院數位轉型的挑戰與機會」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T16:20:01.460Z"
+    }
   }
 ]
