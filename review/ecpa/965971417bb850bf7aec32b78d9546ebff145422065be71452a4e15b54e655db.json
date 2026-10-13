@@ -16,7 +16,11 @@
     "candidate_answer": "根據實際使用結果持續調整及優化指令",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T14:19:46.255Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "87dfa48c546d373854e1436e7337391a24c8074b11e3eaa12b25fb3d4f1cee91",
