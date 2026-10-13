@@ -65401,5 +65401,30 @@
       "model": null,
       "checked_at": "2026-10-13T13:19:54.738Z"
     }
+  },
+  {
+    "question": "何者是多雲管理策略的重點？",
+    "type": "單選",
+    "options": [
+      "簡易性",
+      "可視化",
+      "自動化",
+      "以上皆是"
+    ],
+    "course": "洞見機遇-雲端管理與實務",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T13:20:04.665Z"
+    }
   }
 ]
