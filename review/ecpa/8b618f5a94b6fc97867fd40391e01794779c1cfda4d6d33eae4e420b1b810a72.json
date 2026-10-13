@@ -190,13 +190,30 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.617Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T02:20:20.577Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T02:20:19.442Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "423d1b83bf6bcedb3b8a9fe1e7f87825e3d2f7ca8ad0efcb65b1a1a79b1fcbec",
