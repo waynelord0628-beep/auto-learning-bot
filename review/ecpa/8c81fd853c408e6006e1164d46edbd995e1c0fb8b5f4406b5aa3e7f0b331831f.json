@@ -144,13 +144,30 @@
     ],
     "type": "是非",
     "course": "「緊急精神醫療處置機制」初階教育訓練數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T07:59:59.381Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T05:20:06.932Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01183121391.html",
+          "title": "「「緊急精神醫療處置機制」初階教育訓練數位課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T05:20:05.672Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a9cd180026f99b72dc0277d6bebdd1cd981bd2511cff0d56b0ada8c7ed2f572f",
