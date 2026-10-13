@@ -188,5 +188,43 @@
     "created_at": "2026-10-13T07:44:08.196Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "83b57ca0d5c11d2eef3777012bf7fe36a52d950ac441c0352b6d87d03130ac8b",
+    "question": "以下各項說明，哪個有誤？",
+    "options": [
+      "棉花與亞麻是經濟作物",
+      "鳳梨葉是鳳梨果實的副產物",
+      "芭蕉的假莖是經濟作物"
+    ],
+    "type": "單選",
+    "course": "屬於台灣的天然纖維：鳳梨葉纖維",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-13T07:44:54.627Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "8aceff0123b036e98a76e9afd2f2232a284ef4cce92594f2c77f015890e184ee",
+    "question": "以下哪一個選項不是台灣紡織業面臨的潛在問題？",
+    "options": [
+      "台灣紡織業就業人口老化問題",
+      "台灣環保要求高，很多染廠已經不再生產",
+      "台灣有很多豐富的在地天然纖維"
+    ],
+    "type": "單選",
+    "course": "屬於台灣的天然纖維：鳳梨葉纖維",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-13T07:44:54.628Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
