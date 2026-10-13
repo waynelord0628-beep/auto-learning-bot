@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "安全風險增加",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T13:19:55.601Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "安全風險增加",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T13:19:54.738Z"
+    },
+    "resolved_answer": "安全風險增加"
   },
   {
     "id": "d9ead04a8840ef05a0bf70961927347bb4a47fcf9b9281ddf2c8cba7a1927196",

@@ -65376,5 +65376,30 @@
       "model": null,
       "checked_at": "2026-10-13T12:22:04.761Z"
     }
+  },
+  {
+    "question": "根據本課程業者實務案例，企業在採用混合式架構時，會面臨哪一個主要問題？",
+    "type": "單選",
+    "options": [
+      "安全風險增加",
+      "網路流量減少",
+      "應用程式數量減少",
+      "成本降低"
+    ],
+    "course": "洞見機遇-雲端管理與實務",
+    "answer": "安全風險增加",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "安全風險增加",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T13:19:54.738Z"
+    }
   }
 ]
