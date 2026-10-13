@@ -65139,5 +65139,28 @@
       "model": null,
       "checked_at": "2026-10-13T06:20:48.451Z"
     }
+  },
+  {
+    "question": "常見急性疼痛原因包括運動傷害、扭傷、拉傷等",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "運動部專任運動教練線上課程_運動醫學快速上手",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T09:19:44.089Z"
+    }
   }
 ]
