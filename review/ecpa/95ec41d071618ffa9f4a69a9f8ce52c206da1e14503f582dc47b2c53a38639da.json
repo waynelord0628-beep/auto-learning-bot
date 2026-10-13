@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "結合財務管理原則與雲端工程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.206Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-20T13:20:18.114Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "結合財務管理原則與雲端工程",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-13T13:20:15.451Z"
+    },
+    "resolved_answer": "結合財務管理原則與雲端工程"
   },
   {
     "id": "5e703aee4f9b5c777b113cc79c47c58cd1a3bf5858cce5438237270285e113c1",
