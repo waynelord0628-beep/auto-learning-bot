@@ -128,7 +128,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.021Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "767b005dce3c4ebe17aaad3c71769a1ab664338b4032991d16d0e1dfcbd771d6",
@@ -148,7 +150,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.022Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "d58b76ce932c21eed3f618011558a5a88252d10ec7729b808544e905cf081db9",
@@ -166,7 +170,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.022Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "6e8921897bdc205f7ab28140fb7449c4e35bb1588299729ea783946a611419e6",
@@ -186,7 +192,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.024Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "a097279313ecfae8b223f36963f6eecc8e2de60915380e853268e0fcd3fb0365",
@@ -205,7 +213,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.024Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "4f39e6697abbcaa28074afa77a294d8c4dfb5447ef409175f5ede77a3b6f6e0a",
@@ -225,7 +235,9 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.025Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   },
   {
     "id": "ab980646469e81a26f140ced4f2dd13bc6ab60497cec034065ac422f7cb3e4d3",
@@ -244,6 +256,8 @@
     "source": "reported_question",
     "created_at": "2026-10-12T15:25:40.025Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T02:19:42.160Z"
   }
 ]
