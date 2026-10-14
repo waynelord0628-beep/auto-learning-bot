@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "無障礙認證標章申請與注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確保平等近用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:01:32.202Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-21T11:20:32.402Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確保平等近用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01246225008.html",
+          "title": "「無障礙認證標章申請與注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T11:20:31.473Z"
+    },
+    "resolved_answer": "確保平等近用"
   },
   {
     "id": "0e560723afd29f0d3404b075f733be37ce7134e653c5758ddd536b0a42ab60ba",

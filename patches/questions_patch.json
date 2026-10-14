@@ -65934,5 +65934,30 @@
       "model": null,
       "checked_at": "2026-10-14T11:20:11.064Z"
     }
+  },
+  {
+    "question": "網站無障礙設計的主要目的，何者正確？",
+    "type": "單選",
+    "options": [
+      "增強視覺效果",
+      "確保平等近用",
+      "增加網頁速度",
+      "提高網站排名"
+    ],
+    "course": "無障礙認證標章申請與注意事項",
+    "answer": "確保平等近用",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "確保平等近用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01246225008.html",
+          "title": "「無障礙認證標章申請與注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T11:20:31.473Z"
+    }
   }
 ]
