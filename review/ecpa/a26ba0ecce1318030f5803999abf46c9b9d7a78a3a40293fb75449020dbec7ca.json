@@ -18,7 +18,10 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:55:57.495Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-10-15T05:19:43.168Z",
+    "ai_error": "generation_failed"
   },
   {
     "id": "83b685166ec7cf972f1e67337bd7061a5084676abdcf4d99f87f030eb427f3b6",
