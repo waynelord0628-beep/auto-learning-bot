@@ -65792,5 +65792,28 @@
       "model": null,
       "checked_at": "2026-10-14T09:19:50.370Z"
     }
+  },
+  {
+    "question": "郵件信箱與 VPN 服務建議搭配多因子驗證 (MFA)，以進一步提升安全等級。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【資安通識】如何安全地使用電腦",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T09:20:11.851Z"
+    }
   }
 ]

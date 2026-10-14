@@ -63,13 +63,30 @@
     ],
     "type": "是非",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.670Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-21T09:20:13.757Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T09:20:11.851Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "4758566cb1f6dbfbe13811d626e8f653890effdec7528ae97e1e4d7910c579e6",
