@@ -65672,5 +65672,30 @@
       "model": null,
       "checked_at": "2026-10-14T06:19:46.221Z"
     }
+  },
+  {
+    "question": "根據課程，使用穿戴裝置對提高身體活動量具有哪些效益？",
+    "type": "單選",
+    "options": [
+      "增加步數和活動時間",
+      "降低久坐時間",
+      "增強自我效能",
+      "以上皆是"
+    ],
+    "course": "穿戴式裝置在智慧醫療的創新發展",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_46.html",
+          "title": "「穿戴式裝置在智慧醫療的創新發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T06:19:55.961Z"
+    }
   }
 ]
