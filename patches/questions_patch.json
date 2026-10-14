@@ -65722,5 +65722,29 @@
       "model": null,
       "checked_at": "2026-10-14T06:20:07.499Z"
     }
+  },
+  {
+    "question": "以下哪項不是臺灣女性關心或參與能源議題的方式？",
+    "type": "單選",
+    "options": [
+      "參與公民團體來對能源政策表達關心",
+      "具體於生活中實踐",
+      "用金錢誘發民眾參與"
+    ],
+    "course": "能源與我們─Energy and Women",
+    "answer": "用金錢誘發民眾參與",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "用金錢誘發民眾參與",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/energy-and-womenee.html",
+          "title": "「能源與我們─Energy and Women」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T08:20:03.106Z"
+    }
   }
 ]
