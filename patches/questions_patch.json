@@ -65647,5 +65647,30 @@
       "model": null,
       "checked_at": "2026-10-14T03:20:39.855Z"
     }
+  },
+  {
+    "question": "根據課程，下列何者是目前穿戴式裝置最大的課題？",
+    "type": "單選",
+    "options": [
+      "提高準確度",
+      "保護使用者隱私",
+      "鼓勵使用者主動穿戴裝置",
+      "以上皆是"
+    ],
+    "course": "穿戴式裝置在智慧醫療的創新發展",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_46.html",
+          "title": "「穿戴式裝置在智慧醫療的創新發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T06:19:46.221Z"
+    }
   }
 ]
