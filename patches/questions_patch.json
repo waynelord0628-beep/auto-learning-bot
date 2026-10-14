@@ -65909,5 +65909,30 @@
       "model": null,
       "checked_at": "2026-10-14T11:19:56.806Z"
     }
+  },
+  {
+    "question": "FreeGo報告上傳編號的有效期限為幾天？",
+    "type": "單選",
+    "options": [
+      "7個工作天",
+      "5個工作天",
+      "10個工作天",
+      "4個工作天"
+    ],
+    "course": "無障礙認證標章申請與注意事項",
+    "answer": "7個工作天",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "7個工作天",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01246225008.html",
+          "title": "「無障礙認證標章申請與注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T11:20:11.064Z"
+    }
   }
 ]
