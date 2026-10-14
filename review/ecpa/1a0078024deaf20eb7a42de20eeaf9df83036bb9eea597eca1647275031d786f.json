@@ -78,5 +78,107 @@
     "created_at": "2026-10-14T13:49:21.091Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "43b9c188444f3824cbcbffa581d57806e5f35b4789577cc00e3c8823f7868017",
+    "question": "各機關均有採購電腦主機採之需求，因此可由1機關出面依政府採購法第93條規定與廠商簽訂共同供應契約。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.169Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "0cc99db7e342336fe40d6aab6b42ef82bd013a458e2931cd47954b61933dd7b9",
+    "question": "個案採購是否屬查核金額以上之採購，係以預算金額於招標前認定之。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.173Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "d7652e47e828c3533ed97ed412a980f213f00fff7284bd99ad3bfae710125eae",
+    "question": "機關辦理財物變賣，屬收入性之案件，亦應適用政府採購法規定之程序辦理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.176Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "0ac4336bb189cb6c397fcb147a310845561f9cbfe16cc1a3cb7865f5dd264f78",
+    "question": "機關辦理第1次公開招標，須3家以上合格廠商投標方能開標。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.180Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "6e384c7f1dfe4d38734659dfd1c08290ab54bc0cd9a0206b137ed4eb7cdd633e",
+    "question": "政府機關之現職人員，不得擔任其他招標機關之採購評選委員。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.182Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "7fc9d7e718f07d8117caee1ae290903e23917bde7038068b9f73175074eb2eae",
+    "question": "轉包是政府採購法之禁止行為；分包是合法的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "政府採購法",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T13:49:28.183Z",
+    "review_state": "awaiting_evidence"
   }
 ]
