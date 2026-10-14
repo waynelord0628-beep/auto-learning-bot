@@ -66005,5 +66005,30 @@
       "model": null,
       "checked_at": "2026-10-14T13:19:52.415Z"
     }
+  },
+  {
+    "question": "次世代的醫療資訊系統HIS)應具備哪些條件？",
+    "type": "單選",
+    "options": [
+      "系統應具備普遍性的功能模組及客製調整的彈性",
+      "系統應能銜接與串聯不同的硬體與系統，用以滿足資訊交換的需求",
+      "系統應能融入醫院既有的管理流程",
+      "以上皆是"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T13:20:02.177Z"
+    }
   }
 ]
