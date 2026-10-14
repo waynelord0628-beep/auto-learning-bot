@@ -71,13 +71,30 @@
     ],
     "type": "是非",
     "course": "能源與我們─Energy and Women",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:55:57.497Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-21T08:20:17.201Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/energy-and-womenee.html",
+          "title": "「能源與我們─Energy and Women」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T08:20:16.121Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bb6296a40dd104ae5a8e663784edb2534504202bb32361fbd30db025f6ae9850",
