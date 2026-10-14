@@ -65697,5 +65697,30 @@
       "model": null,
       "checked_at": "2026-10-14T06:19:55.961Z"
     }
+  },
+  {
+    "question": "根據課程，下列何者「非」目前常見的血糖管理裝置？",
+    "type": "單選",
+    "options": [
+      "Dexcom G7",
+      "Abbott FreeStyle",
+      "Medtronic Guardian Connect",
+      "隱形眼鏡型血糖監測"
+    ],
+    "course": "穿戴式裝置在智慧醫療的創新發展",
+    "answer": "隱形眼鏡型血糖監測",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "隱形眼鏡型血糖監測",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_46.html",
+          "title": "「穿戴式裝置在智慧醫療的創新發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T06:20:07.499Z"
+    }
   }
 ]
