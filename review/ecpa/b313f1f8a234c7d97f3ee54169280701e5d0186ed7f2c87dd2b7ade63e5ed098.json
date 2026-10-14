@@ -1,0 +1,198 @@
+[
+  {
+    "id": "31f65806b450fd0d39806df52c519eba287566d8f965ae7acabac01460eab284",
+    "question": "根據本課程內容，透過聯邦式學習可以將所有醫院電子病歷集中到雲端進行訓練產出AI模型，可以解決目前各家醫院電子病歷格式不一致的問題。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.583Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b287071e075682d18729b2eb2988e873cdd8533c23850667e98c4f3dd63ca3c2",
+    "question": "根據本課程內容，目前衛福部推動跨醫院間電子病歷交換與串聯，面臨最大的挑戰為何？",
+    "options": [
+      "無法克服技術瓶頸",
+      "醫護人員資訊能力不足",
+      "各醫院資訊系統資料格式不一致",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.585Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "565f6e6983e9c79379f14f05e6a4a02ef055e4982ca7e9558c20235ef583495a",
+    "question": "根據本課程內容，衛福部次世代電子病歷藍圖的願景為？",
+    "options": [
+      "建置醫療AI生態系統",
+      "數位化醫院評鑑、個人健康紀錄串聯",
+      "智慧臨床試驗平台、實證醫療資料庫",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.586Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "e55d33642d2cc4820ec40deb352b1e3ee4c8c8b0bb7b7588bfa16e952d522973",
+    "question": "電子病歷是指以電子文件方式做製作儲存病患的個人資料、病程紀錄、藥物使用記錄，檢查資料與報告(含影像診斷學報告) ，但不包含家族史、旅遊史及預防接種等紀錄",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.589Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7852ab9c237ddd58032715187bbd455a225396a343f62d693cf734502dc340fa",
+    "question": "根據本課程內容，衛福部次世代電子病歷藍圖有三大推動主軸，請問何者正確？",
+    "options": [
+      "FHIR",
+      "GAI",
+      "Rule of thumb",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.590Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bbd8f9af93eadae04a5cf43b9c3bb8f7174df9bf8361e1944b3e857c5697049e",
+    "question": "符合FHIR（Findable Accessible Interoperable Reusable）標準的資料，其特色為？",
+    "options": [
+      "不可尋找的",
+      "不可存取的",
+      "不可互通",
+      "可重複使用"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.592Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7d3a80ddcc2f6cfcfc616f15687f3c9beee73cc5a53c21dc641b134769ea0168",
+    "question": "根據本課程內容，為什麼SMART (Substitutable Medical Apps，Reusable Technologies)對於FHIR很重要？",
+    "options": [
+      "允許一個應用程式與另一個應用程式整合",
+      "避免需要為每個應用程式的整合進行客製化",
+      "允許提供者在工作流程中存取數據",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.593Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b78d8a8484afb408972dd90b1eb82c9e6016f06acdaa3987d3ab3fc2c434ba2f",
+    "question": "根據本課程內容，衛福部推動次世代電子病歷的關鍵之一是FHIR（Findable Accessible Interoperable Reusable）。請問FHIR是什麼？",
+    "options": [
+      "國際醫療資料交換標準",
+      "醫療資訊系統",
+      "個人健康紀錄",
+      "台灣精準醫療計畫"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.594Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "1c0d803a609fecdf41252acd023455b1080bcc6199434623f8bd74b40e29e630",
+    "question": "請問病患可以依個人需求申請跨醫院調閱電子病歷嗎？",
+    "options": [
+      "不可以，會有個資外洩的問題",
+      "可以，衛福部已經建置電子病歷交換中心平台",
+      "不一定，病患必須簽署電子病歷跨院互通同意書，且必須要有病人健保卡與醫師卡共同施用",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.595Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "946d1e9fbe8b432d744fc6de61efaa77b5ab5aaedbf230da8d1a5837345d1e67",
+    "question": "根據本課程內容，請問下列何者「不是」推動醫院AI落地辦法？",
+    "options": [
+      "資訊安全",
+      "病患隱私資料不外洩",
+      "影響HIS效能",
+      "確效機制與定期監測"
+    ],
+    "type": "單選",
+    "course": "次世代電子病歷：藍圖與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-14T14:15:12.595Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
