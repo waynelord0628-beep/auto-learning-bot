@@ -65959,5 +65959,28 @@
       "model": null,
       "checked_at": "2026-10-14T11:20:31.473Z"
     }
+  },
+  {
+    "question": "醫院在評估醫療資訊系統(HIS)建置時，只要是創新、前瞻的功能都應不計成本代價的投入開發",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "次世代HIS系統發展趨勢",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/hisee.html",
+          "title": "「次世代HIS系統發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-14T13:19:44.449Z"
+    }
   }
 ]
