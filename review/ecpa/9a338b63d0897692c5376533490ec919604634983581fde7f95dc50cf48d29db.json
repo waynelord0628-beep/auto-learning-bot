@@ -47,7 +47,11 @@
     "candidate_answer": "12345 觀察犬隻的行為，並紀錄牠的行為及詳細說明問題的所在",
     "source": "ai_unverified",
     "created_at": "2026-09-24T11:34:56.333Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-21T01:19:55.891Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d65e3f6e56c0e058bbf0644b1b7fd8f41a22c88e7235f0c1565b9c8a49658938",
