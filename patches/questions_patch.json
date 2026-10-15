@@ -66416,5 +66416,29 @@
       "model": null,
       "checked_at": "2026-10-15T12:20:10.488Z"
     }
+  },
+  {
+    "question": "在咖啡個案中，我們使用的氫能源系統，轉換效率約多少%?",
+    "type": "單選",
+    "options": [
+      "大於90%",
+      "小於 60%",
+      "小於40%(約台灣火力發電的轉換效率)"
+    ],
+    "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
+    "answer": "大於90%",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "大於90%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_35.html",
+          "title": "「從淨零策略打造一杯冠軍的永續台灣咖啡」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T12:20:27.598Z"
+    }
   }
 ]
