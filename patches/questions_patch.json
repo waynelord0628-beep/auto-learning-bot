@@ -66099,5 +66099,28 @@
       "model": null,
       "checked_at": "2026-10-15T01:21:30.589Z"
     }
+  },
+  {
+    "question": "根據我國推動的2050淨零轉型關鍵戰略，在轉型策略方面包含四大策略，在治理基礎方面包含科技研發與氣候法制。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "淨零排放與永續發展",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0539444793.html",
+          "title": "「淨零排放與永續發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T03:20:01.697Z"
+    }
   }
 ]
