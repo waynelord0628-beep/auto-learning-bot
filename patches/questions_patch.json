@@ -66440,5 +66440,30 @@
       "model": null,
       "checked_at": "2026-10-15T12:20:27.598Z"
     }
+  },
+  {
+    "question": "因應環境變遷，全球ESG意識覺醒，何人日漸重視氣候變遷議題？",
+    "type": "單選",
+    "options": [
+      "企業",
+      "消費者",
+      "投資人",
+      "以上皆是"
+    ],
+    "course": "我國永續金融相關政策",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T13:19:51.990Z"
+    }
   }
 ]
