@@ -1,0 +1,140 @@
+[
+  {
+    "id": "3b53504b3556192fad16e3ba437301a198e45bba59dc46ac29b9691a9ec730bf",
+    "question": "下列為MyData平臺在「資料面」改善機關未積極提供民眾個人化資料介接作法，請依序填入之步驟：（1）上級長官的支持、（2）持續擴增資料、（3）提供技術諮詢、(4)強化機關信任",
+    "options": [
+      "2431",
+      "1423",
+      "3124",
+      "3421"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.380Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c5d467df63a61cfae82557bce358545dc98df316d974aaec8ecd43cd7b0a9d3f",
+    "question": "有關MyData平臺創新作為，下列敘述何者錯誤？",
+    "options": [
+      "經當事人同意",
+      "保存民眾個人化資料",
+      "加強個人化資料保護",
+      "掌握個人化資料運用流向"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.385Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d6bf51ca340a8bef021dfbe780cd5bc5e38de51fdab8ef703fb02cd03d99a1cf",
+    "question": "MyData的服務典範案例中，高中職學生學雜費減免服務的特色為何？",
+    "options": [
+      "學生可於線上完成申辦學雜費減免手續，但仍需至公所繳交完成文件",
+      "透過MyData機制，經由身分驗證與線上同意，單次即時傳輸所需證明至教育部助學系統",
+      "透過MyData平臺申請，減免額度可再增加50%。",
+      "學生僅申請一次後，取得學籍期間皆可免再次申請"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.388Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0efbdcbf39211a272d75ccee7fcf6dbcc9159fee2fca605f822dd3d9bff06588",
+    "question": "MyData平臺可永久保存民眾申請之個人資料，俾利民眾隨時查詢使用紀錄。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.390Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f8ef18cd773bda83f455407ea0671dacf6576d74cc5b2e78712a3571db0e3d79",
+    "question": "下列何者非MyData平臺所建立的標竿價值？",
+    "options": [
+      "帶動公私服務流程改造，建立服務典範案例",
+      "提供公務機關基於業務職掌取得民眾個人化資料",
+      "打破公私服務籓籬，讓民營機構主動爭取擔任服務提供者",
+      "減少資料介接成本與責任，讓政府機關有意願擔任資料提供者"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.391Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "1ca89f99301474287afcb942ce72031971180d2554c73341274048d292f990a1",
+    "question": "依據MyData平臺流程安全設計，下列敘述何者錯誤？",
+    "options": [
+      "「身分驗證與授權管理機制」係獨立於資料提供機關（DP）與MyData平臺之外",
+      "MyData平臺提供資料給服務提供者（SP）前，會先向使用者（民眾）詢問是否確定傳送此個人資料",
+      "資料提供機關（DP）提供資料給MyData平臺前，會先向「身分驗證與授權管理機制」確認MyData平臺給DP的token是否仍有效",
+      "若資料提供機關（DP）發生異常， MyData平臺應暫存資料需求及token，並於DP異常排除後，再次將資料需求及token發送給DP"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.393Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f3832d4e3be015bfcb737f15c3b619a4ebf57b9fb8b4b28827a30fc2e463efb8",
+    "question": "MyData的核心精神，下列敘述何者正確？",
+    "options": [
+      "民眾可以自主運用保存於政府機關的個人化資料。",
+      "機關可自行取得個人化資料，以提供個人化服務。",
+      "機關應自主分析跨機關民眾資料，以提供民眾主動式服務。",
+      "機關應運用智慧，代替民眾評估如何使用個人資料，以達到最佳效益。"
+    ],
+    "type": "單選",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:48:32.394Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
