@@ -9,16 +9,33 @@
     ],
     "type": "單選",
     "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:57:15.074Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T08:19:43.634Z"
+    "retry_after": "2026-10-15T08:19:43.634Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T12:19:59.372Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "碳匯、生物炭、農碳法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_35.html",
+          "title": "「從淨零策略打造一杯冠軍的永續台灣咖啡」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T12:19:57.705Z"
+    },
+    "resolved_answer": "碳匯、生物炭、農碳法"
   },
   {
     "id": "b1bd21b08487621bbad84357fde2dcfa78554dfbe3cd89ff00d891d0614fbaba",
