@@ -66293,5 +66293,30 @@
       "model": null,
       "checked_at": "2026-10-15T10:19:45.291Z"
     }
+  },
+  {
+    "question": "根據本課程內容，目前衛福部推動跨醫院間電子病歷交換與串聯，面臨最大的挑戰為何？",
+    "type": "單選",
+    "options": [
+      "無法克服技術瓶頸",
+      "醫護人員資訊能力不足",
+      "各醫院資訊系統資料格式不一致",
+      "以上皆是"
+    ],
+    "course": "次世代電子病歷：藍圖與實踐",
+    "answer": "各醫院資訊系統資料格式不一致",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "各醫院資訊系統資料格式不一致",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01352114600.html",
+          "title": "「次世代電子病歷：藍圖與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T10:19:52.719Z"
+    }
   }
 ]
