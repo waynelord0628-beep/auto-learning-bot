@@ -136,5 +136,41 @@
     "created_at": "2026-10-15T14:48:32.394Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "23293b2077cc07b237073b83d6ddabd27d998fb23bf7c5e48aaa59ffa48d7ea4",
+    "question": "民眾於MyData平臺自主同意資料使用或下載，僅適用於當次同意，非永久同意取用其個人化資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:49:12.987Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c7076dc38983c6b4c26b3ae3e3a1b46a626ccf2484a170681103643a9d6a3c8a",
+    "question": "MyData平臺為保護民眾個人權益，並無儲存個人化資料使用紀錄。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-15T14:49:12.991Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
