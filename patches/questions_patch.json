@@ -66122,5 +66122,29 @@
       "model": null,
       "checked_at": "2026-10-15T03:20:01.697Z"
     }
+  },
+  {
+    "question": "請問下列哪一項不屬於臺北榮總資安預算的用途？",
+    "type": "單選",
+    "options": [
+      "資安課程辦理",
+      "系統開發測試 網路監控",
+      "源碼掃描"
+    ],
+    "course": "大型醫院的醫療資安經驗分享",
+    "answer": "系統開發測試 網路監控",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "系統開發測試 網路監控",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T06:20:24.644Z"
+    }
   }
 ]
