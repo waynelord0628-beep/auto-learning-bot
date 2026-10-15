@@ -297,13 +297,30 @@
     ],
     "type": "單選",
     "course": "大型醫院的醫療資安經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全院資訊應用服務規劃",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T16:29:34.374Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T06:20:42.756Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫護人員培訓",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T06:20:41.917Z"
+    },
+    "resolved_answer": "醫護人員培訓"
   },
   {
     "id": "621d6162865e5bc112526342ef448e188ea3646d86e9ae66d280d3fcacc8f856",
