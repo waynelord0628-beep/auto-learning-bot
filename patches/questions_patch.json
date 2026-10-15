@@ -66220,5 +66220,31 @@
       "model": null,
       "checked_at": "2026-10-15T07:19:47.352Z"
     }
+  },
+  {
+    "question": "請問聯發科所建置的數據分析基礎架構內容，包含哪一些呢？",
+    "type": "單選",
+    "options": [
+      "數據體系",
+      "數據開發",
+      "數據治理",
+      "數據服務",
+      "以上皆是"
+    ],
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T07:20:08.892Z"
+    }
   }
 ]
