@@ -66146,5 +66146,30 @@
       "model": null,
       "checked_at": "2026-10-15T06:20:24.644Z"
     }
+  },
+  {
+    "question": "下列何者不屬於臺北榮總培養安全開發能力的訓練流程？",
+    "type": "單選",
+    "options": [
+      "安全能力健檢",
+      "資安教練課程",
+      "外部委託訓練",
+      "完成指定漏洞課程"
+    ],
+    "course": "大型醫院的醫療資安經驗分享",
+    "answer": "外部委託訓練",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "外部委託訓練",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T06:20:32.647Z"
+    }
   }
 ]

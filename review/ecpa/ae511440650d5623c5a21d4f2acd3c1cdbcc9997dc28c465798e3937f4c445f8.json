@@ -261,13 +261,30 @@
     ],
     "type": "單選",
     "course": "大型醫院的醫療資安經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "安全能力健檢",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T16:29:34.372Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T06:20:33.405Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "外部委託訓練",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347176209",
+          "title": "大型醫院的醫療資安經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T06:20:32.647Z"
+    },
+    "resolved_answer": "外部委託訓練"
   },
   {
     "id": "9205d5517c7fac8136a66eec4c0ebd6d38a68da5e4cb87045d026e6c1209267a",
