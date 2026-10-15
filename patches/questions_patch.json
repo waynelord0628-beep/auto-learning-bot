@@ -66270,5 +66270,28 @@
       "model": null,
       "checked_at": "2026-10-15T07:20:22.440Z"
     }
+  },
+  {
+    "question": "根據本課程內容，透過聯邦式學習可以將所有醫院電子病歷集中到雲端進行訓練產出AI模型，可以解決目前各家醫院電子病歷格式不一致的問題。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "次世代電子病歷：藍圖與實踐",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01352114600.html",
+          "title": "「次世代電子病歷：藍圖與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T10:19:45.291Z"
+    }
   }
 ]
