@@ -110,13 +110,30 @@
     ],
     "type": "是非",
     "course": "客家族群媒體與文化傳播",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T23:10:46.061Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T14:19:58.905Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_440.html",
+          "title": "「客家族群媒體與文化傳播」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T14:19:58.219Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "838ff47261cc5f6b5741c34015937a16dad6c8df4c03c309bd1d91a61b5a321a",
