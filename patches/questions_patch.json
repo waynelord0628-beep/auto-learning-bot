@@ -66392,5 +66392,29 @@
       "model": null,
       "checked_at": "2026-10-15T12:19:57.705Z"
     }
+  },
+  {
+    "question": "氫能是這幾年重要的綠能之一，下列何種氫能為技術成熟、成本相對便宜，但依然含有二氧化碳排放?",
+    "type": "單選",
+    "options": [
+      "灰氫",
+      "藍氫",
+      "綠氫"
+    ],
+    "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
+    "answer": "灰氫",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "灰氫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_35.html",
+          "title": "「從淨零策略打造一杯冠軍的永續台灣咖啡」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T12:20:10.488Z"
+    }
   }
 ]

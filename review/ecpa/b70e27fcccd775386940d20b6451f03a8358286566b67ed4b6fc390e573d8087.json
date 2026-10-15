@@ -47,16 +47,33 @@
     ],
     "type": "單選",
     "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:57:15.075Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T08:19:43.634Z"
+    "retry_after": "2026-10-15T08:19:43.634Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T12:20:11.247Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "灰氫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_35.html",
+          "title": "「從淨零策略打造一杯冠軍的永續台灣咖啡」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T12:20:10.488Z"
+    },
+    "resolved_answer": "灰氫"
   },
   {
     "id": "406e17b8c766ca2af64b0ed2663f22d47342f3542fa476067df371184d2a4817",
