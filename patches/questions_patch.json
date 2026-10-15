@@ -66196,5 +66196,29 @@
       "model": null,
       "checked_at": "2026-10-15T06:20:41.917Z"
     }
+  },
+  {
+    "question": "聯發科以研發設計聞名，在自建雲架構下，引進合作夥伴的公有雲來建置混合雲環境，同時解決RD研發設計從前期電路設計、性能分析到產生晶片電路圖且可大量進行重覆的設計驗證，請問常使用什麼工具？",
+    "type": "單選",
+    "options": [
+      "數據分析",
+      "EDA工具",
+      "FMEA工具"
+    ],
+    "course": "雲端賦能-提升營運的可擴展性和靈活性",
+    "answer": "EDA工具",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "EDA工具",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T07:19:47.352Z"
+    }
   }
 ]
