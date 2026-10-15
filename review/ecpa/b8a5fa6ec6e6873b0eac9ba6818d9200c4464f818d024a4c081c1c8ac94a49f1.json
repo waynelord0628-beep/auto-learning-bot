@@ -39,7 +39,11 @@
     "candidate_answer": "Tronscan",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.916Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T15:19:59.035Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "299eddda2392c16a2d99c823693d1a81a2bf376718e46aea732c5f8db11e63c8",
