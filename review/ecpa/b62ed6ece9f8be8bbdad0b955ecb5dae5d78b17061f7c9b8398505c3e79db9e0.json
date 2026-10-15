@@ -128,13 +128,30 @@
     ],
     "type": "單選",
     "course": "走進溫馨小漁村 - 一同見證火燒蝦的魅力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T09:23:54.980Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T11:20:09.797Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020237",
+          "title": "走進溫馨小漁村 - 一同見證火燒蝦的魅力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T11:20:07.911Z"
+    },
+    "resolved_answer": "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp"
   },
   {
     "id": "c8bfa1d2640b2f8ca57c82ae09c52baf854501528dac232d736235f0b92224f1",

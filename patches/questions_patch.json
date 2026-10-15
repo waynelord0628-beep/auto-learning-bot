@@ -66343,5 +66343,30 @@
       "model": null,
       "checked_at": "2026-10-15T10:19:59.404Z"
     }
+  },
+  {
+    "question": "At the end of the video, Mrs. Wu prepared two dishes featuring velvet shrimp for Leo to taste, as shown in the images. What are the names of the two dishes in the pictures?",
+    "type": "單選",
+    "options": [
+      "Whiskered velvet shrimp rice; Whiskered velvet shrimp with fresh fish soup",
+      "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp",
+      "Whiskered velvet shrimp meatballs; Steamed fish with whiskered velvet shrimp porridge",
+      "Shrimp stir-fried with water spinach; Whiskerd velvet shrimp stir-fried noodles"
+    ],
+    "course": "走進溫馨小漁村 - 一同見證火燒蝦的魅力",
+    "answer": "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "Spicy fried whiskered velvet shrimp; Loofah vermicelli with whiskered velvet shrimp",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020237",
+          "title": "走進溫馨小漁村 - 一同見證火燒蝦的魅力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T11:20:07.911Z"
+    }
   }
 ]
