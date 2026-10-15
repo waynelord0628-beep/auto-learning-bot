@@ -39,7 +39,11 @@
     "candidate_answer": "10 日內。",
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.050Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T09:21:10.768Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "168b0f5579f8153bb637afe263c2964076978c281de1eb5ccc1f3c37efd5f40c",
