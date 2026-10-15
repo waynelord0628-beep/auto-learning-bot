@@ -62,7 +62,11 @@
     "candidate_answer": "用戶主動設置多重簽名，會導致自己陷入被駭的風險",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.918Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T15:20:10.398Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c80337c0d97c02721d7ea1c0c50cc6ba5b47ca48504ed288a8f696b53d08944f",
