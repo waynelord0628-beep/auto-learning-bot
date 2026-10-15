@@ -189,13 +189,30 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數據中台",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.664Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-22T07:20:23.939Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數據中台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-15T07:20:22.440Z"
+    },
+    "resolved_answer": "數據中台"
   },
   {
     "id": "132b9dbcf5700719f096155265a683480b43be78330b21d9740c4263df22f30e",
