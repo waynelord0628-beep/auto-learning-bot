@@ -67043,5 +67043,30 @@
       "model": null,
       "checked_at": "2026-10-16T12:20:06.708Z"
     }
+  },
+  {
+    "question": "從投資的角度，哪一個檢視角度最符合我們投資一間公司是否可帶來社會永續發展?",
+    "type": "單選",
+    "options": [
+      "純看獲利能力",
+      "看EPS獲利能力，也要同時檢驗企業的ESG評分，並檢視企業社會責任的落實",
+      "國際移動能力",
+      "市場占有率最高"
+    ],
+    "course": "大勢所趨的ESG與淨零之因應策略",
+    "answer": "看EPS獲利能力，也要同時檢驗企業的ESG評分，並檢視企業社會責任的落實",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "看EPS獲利能力，也要同時檢驗企業的ESG評分，並檢視企業社會責任的落實",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee_7.html",
+          "title": "「大勢所趨的ESG與淨零之因應策略」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T12:20:16.842Z"
+    }
   }
 ]
