@@ -62,7 +62,11 @@
     "candidate_answer": "每個人都有權利決定誰可以接觸自己的身體，並學習明確表達「不」",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.854Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T15:20:11.700Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d651290de2411768fd369c721a4e170988a85426578e6da3b0f54961c907307f",
