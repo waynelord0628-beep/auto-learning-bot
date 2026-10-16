@@ -10,14 +10,31 @@
     ],
     "type": "單選",
     "course": "大勢所趨的ESG與淨零之因應策略",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T03:36:04.836Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T12:19:51.190Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee_7.html",
+          "title": "「大勢所趨的ESG與淨零之因應策略」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T12:19:50.235Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "44c524e1cac6316e0744a0d30fdba3999910d9186ab162fa289d91488e8a18c8",
