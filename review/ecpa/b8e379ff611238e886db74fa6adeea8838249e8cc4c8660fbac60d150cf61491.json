@@ -194,13 +194,30 @@
     ],
     "type": "是非",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:54:43.254Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T00:19:48.658Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T00:19:47.957Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d487a7b07cb6d1ebbc35712192757aa66e3f13ac78949bbd65bb2c149c4ae396",
