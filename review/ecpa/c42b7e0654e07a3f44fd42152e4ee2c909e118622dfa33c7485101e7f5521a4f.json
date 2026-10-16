@@ -16,7 +16,11 @@
     "candidate_answer": "在學校提供免費且取得便利的生理用品，並將月經視為自然的生理現象",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.853Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T15:19:50.987Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "958843c9f441ea568ca7766b75541a4e9d81bc3425911cff55610be66199ad5f",
