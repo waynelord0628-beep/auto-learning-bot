@@ -224,13 +224,30 @@
     ],
     "type": "單選",
     "course": "快樂漁夫 夢想實現【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "pineapple cake",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T14:45:32.418Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T03:22:25.860Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "suncake",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697801",
+          "title": "快樂漁夫 夢想實現【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T03:22:24.323Z"
+    },
+    "resolved_answer": "suncake"
   },
   {
     "id": "3e21aa47696593c16bff0ddc93d2f1aa0161b392930af92816d16cee6fc7edd4",
