@@ -258,5 +258,105 @@
     "created_at": "2026-10-16T11:14:48.172Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "8cfa4c4077e32f753c0e73e07505b7bded79f30c9e1c6a364b22ea36acc44622",
+    "question": "Agentic Automation 的核心概念是？",
+    "options": [
+      "只做單純流程自動化",
+      "僅限於財務應用",
+      "沒有 AI 的傳統自動化",
+      "結合 AI、RPA 與代理協作技術"
+    ],
+    "type": "單選",
+    "course": "AI導入製造現場，營運進入智慧時代",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-16T11:15:20.816Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "a132c5eb6ccdf3361de6d75b3e5825cf57662e7b5f5a59ac03e50a8c760478e7",
+    "question": "iKala 的服務範圍包含哪些產業？",
+    "options": [
+      "僅金融業",
+      "僅電商",
+      "遊戲、媒體、零售、製造、金融等",
+      "農業、漁業"
+    ],
+    "type": "單選",
+    "course": "AI導入製造現場，營運進入智慧時代",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-16T11:15:20.817Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "efb93d51d0f20dd95c9ee72a7895425a478723e35633efd8f165a7e8f7f32d60",
+    "question": "iKala TaaS (Technicians as a Service) 的目的在於？",
+    "options": [
+      "行銷廣告投放",
+      "遊戲測試",
+      "金融交易分析",
+      "提供全方位 IT 支援與數位轉型協助"
+    ],
+    "type": "單選",
+    "course": "AI導入製造現場，營運進入智慧時代",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-16T11:15:20.818Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "904e8fb2660f33be537664aba227672863783fb64e9a5855c129158c0efa01db",
+    "question": "在 UiPath 定義中，Agents 的特性是？",
+    "options": [
+      "基於規則",
+      "基於目標、自主行動並能即時決策",
+      "完全靜態",
+      "只負責硬體維護"
+    ],
+    "type": "單選",
+    "course": "AI導入製造現場，營運進入智慧時代",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-16T11:15:20.819Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "8be316393bb2233c5cb7b4345cc0d430ba809256dd746edc6a2062805992fc6f",
+    "question": "企業選擇 iKala Cloud 的原因之一是？",
+    "options": [
+      "提供完整 IT 架構生命週期支援",
+      "僅做社群平台服務",
+      "只專注於遊戲產業",
+      "不涉及雲端方案"
+    ],
+    "type": "單選",
+    "course": "AI導入製造現場，營運進入智慧時代",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-16T11:15:20.819Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
