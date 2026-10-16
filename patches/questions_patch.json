@@ -66651,5 +66651,30 @@
       "model": null,
       "checked_at": "2026-10-16T00:20:02.522Z"
     }
+  },
+  {
+    "question": "What is Keelung Harbor famous for in the present day?",
+    "type": "單選",
+    "options": [
+      "Cargo transportation",
+      "The cruise industry",
+      "Electronics manufacturing services",
+      "The fishing industry"
+    ],
+    "course": "穿越時光隧道 - 探秘大航海時代下的基隆",
+    "answer": "The cruise industry",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "The cruise industry",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T01:20:07.571Z"
+    }
   }
 ]
