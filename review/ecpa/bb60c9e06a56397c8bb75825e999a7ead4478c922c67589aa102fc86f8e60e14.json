@@ -230,7 +230,11 @@
     "candidate_answer": "subway / boat / airplane / train",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:49:54.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T05:20:04.562Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "06117c5dc25dfadeb6aa3388b31f5aef3cf86de67585e1a13d09a373c2ca5bcf",
