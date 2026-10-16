@@ -67068,5 +67068,30 @@
       "model": null,
       "checked_at": "2026-10-16T12:20:16.842Z"
     }
+  },
+  {
+    "question": "以下對國合會的說明何者有誤？",
+    "type": "單選",
+    "options": [
+      "國合會於1996年由海合會及海外會合併成立",
+      "國合會目前援助的國家僅有我國邦交國",
+      "國合會訂定之績效指標可呼應聯合國永續發展目標",
+      "國合會主要業務執行方式包括技術合作、國際教育訓練、投融資、人道援助及人才交流"
+    ],
+    "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
+    "answer": "國合會目前援助的國家僅有我國邦交國",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "國合會目前援助的國家僅有我國邦交國",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T13:19:56.938Z"
+    }
   }
 ]

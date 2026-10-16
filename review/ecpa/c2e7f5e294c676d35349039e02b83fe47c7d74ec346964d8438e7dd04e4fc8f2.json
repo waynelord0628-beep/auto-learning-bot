@@ -34,14 +34,31 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.511Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-23T13:19:58.156Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "國合會目前援助的國家僅有我國邦交國",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-16T13:19:56.938Z"
+    },
+    "resolved_answer": "國合會目前援助的國家僅有我國邦交國"
   },
   {
     "id": "72e492a2bab30d5a3488fad43de5a5f03380267e88703cb9f5f4ee84e0033f14",
