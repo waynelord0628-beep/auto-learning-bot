@@ -288,13 +288,30 @@
     ],
     "type": "單選",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」業者說明會(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "HACCP 系統驗證僅需在初次設計時進行，無需後續檢驗和更新",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T21:18:39.117Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T00:20:04.447Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "HACCP 系統驗證僅需在初次設計時進行，無需後續檢驗和更新",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/113ee.html",
+          "title": "「113年度「推動食品外銷暨國際管理研析計畫」業者說明會(二)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T00:20:03.680Z"
+    },
+    "resolved_answer": "HACCP 系統驗證僅需在初次設計時進行，無需後續檢驗和更新"
   },
   {
     "id": "02b9355a5369148881f89bd62658dce69204b925c2aa34ab814c49a69e0f2d6f",
