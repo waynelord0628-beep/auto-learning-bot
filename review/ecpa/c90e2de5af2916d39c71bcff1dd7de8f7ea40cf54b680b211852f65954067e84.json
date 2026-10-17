@@ -90,13 +90,34 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.906Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T05:20:03.389Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T05:20:02.582Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ad7e7ff5183a779a57b5e916d99e274711a3c220afb64b41b2a50017801baabc",
