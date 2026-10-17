@@ -82,13 +82,30 @@
     ],
     "type": "單選",
     "course": "以區塊鏈技術建構安全的資料交換模式",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:54:53.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T08:20:13.705Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_32.html",
+          "title": "「以區塊鏈技術建構安全的資料交換模式」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T08:20:12.993Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "42140ed77ba0beca0291b6b5ebf90d11b18313eb270e1993071ec3c4209490b5",
