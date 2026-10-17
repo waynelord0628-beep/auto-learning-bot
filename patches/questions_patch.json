@@ -67543,5 +67543,30 @@
       "model": null,
       "checked_at": "2026-10-17T07:19:45.206Z"
     }
+  },
+  {
+    "question": "Vitals ESP平台的主要應用是？",
+    "type": "單選",
+    "options": [
+      "病患生理監測",
+      "知識管理與無紙化作業",
+      "藥品分析",
+      "電力管理"
+    ],
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "answer": "知識管理與無紙化作業",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "知識管理與無紙化作業",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T07:19:53.596Z"
+    }
   }
 ]
