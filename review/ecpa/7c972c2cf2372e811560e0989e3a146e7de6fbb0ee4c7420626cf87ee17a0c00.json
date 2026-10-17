@@ -198,5 +198,65 @@
     "created_at": "2026-10-17T13:01:37.150Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3ff1ead49889f4f2b2d8de5622064dc70acd88016ffb71dde14d2f2f5520af2a",
+    "question": "下列人員何者非屬《行政程序法》第16條所稱之「行政委託」？",
+    "options": [
+      "汽車駕駛人違規停車，由民間拖吊業者充任交通助理人員執行之。",
+      "公路主管機關將汽車定期檢驗業務，委由民間汽車修理業者辦理。",
+      "標準檢驗局將檢驗業務及檢驗合格證書之核發，委由民間機構辦理。",
+      "動物主管機關將寵物登記業務，委由民間團體辦理。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:03.652Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7905e17c6de3d34d921120b6fbf90a8ad2fd404a7a0ced55520f3fa6bb890296",
+    "question": "若該鄰、里之疫情未達急迫程度，衛生局強制進入住宅的作法，有違下列何種原則？",
+    "options": [
+      "明確性原則",
+      "比例原則",
+      "誠實信用原則",
+      "信賴保護原則"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:03.652Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c88b844114bf65997eafaff1569c03207c16bae148b666318785e087a70c4ca7",
+    "question": "外國人甲君依《國籍法》第3條規定申請歸化，經主管機關核准歸化後，取得中華民國國籍。下列敍述何者有誤？",
+    "options": [
+      "歸化處分一經送達，對原處分機關即發生拘束力。",
+      "其它行政機關應受此一處分之拘束，此即歸化處分之構成要件效力。",
+      "歸化處分對訴願管轄機關，不發生構成要件效力。",
+      "歸化處分具執行力。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:03.653Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
