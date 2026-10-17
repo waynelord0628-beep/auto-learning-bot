@@ -67768,5 +67768,30 @@
       "model": null,
       "checked_at": "2026-10-17T14:19:50.977Z"
     }
+  },
+  {
+    "question": "請問，財政部是以何者為基礎來發展財政數位治理？",
+    "type": "單選",
+    "options": [
+      "資料",
+      "資本",
+      "資金",
+      "以上皆是"
+    ],
+    "course": "以資料為基礎，發展財政數位治理",
+    "answer": "資料",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "資料",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_433.html",
+          "title": "「以資料為基礎，發展財政數位治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T14:19:58.498Z"
+    }
   }
 ]
