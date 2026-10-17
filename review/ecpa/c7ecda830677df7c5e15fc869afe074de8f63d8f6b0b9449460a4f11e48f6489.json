@@ -16,7 +16,11 @@
     "candidate_answer": "AI 可能在缺乏資料時以統計機率補全答案，需經查證",
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T03:19:56.769Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "64755c3a4f7aaf88f922f6fe3c6eef4c1db4f56846133f776bafb0a4b5156c70",
