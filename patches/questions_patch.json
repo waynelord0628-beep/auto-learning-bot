@@ -67743,5 +67743,30 @@
       "model": null,
       "checked_at": "2026-10-17T11:20:05.664Z"
     }
+  },
+  {
+    "question": "請問下列何者為電子發票之優點？",
+    "type": "單選",
+    "options": [
+      "節能減碳、無紙化",
+      "方便民眾兌獎",
+      "可加值應用於食品溯源、物價分析等",
+      "以上皆是"
+    ],
+    "course": "以資料為基礎，發展財政數位治理",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_433.html",
+          "title": "「以資料為基礎，發展財政數位治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T14:19:50.977Z"
+    }
   }
 ]
