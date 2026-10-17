@@ -118,13 +118,30 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "硬體製造",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T07:19:46.008Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "硬體製造",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T07:19:45.206Z"
+    },
+    "resolved_answer": "硬體製造"
   },
   {
     "id": "ddbb6f2df54586f1db9bd9b8c685454c900ed89dd3bb9d1e4b4a87ec8c5f5006",

@@ -67518,5 +67518,30 @@
       "model": null,
       "checked_at": "2026-10-17T06:20:06.673Z"
     }
+  },
+  {
+    "question": "AI Agent 的關鍵能力不包含下列哪一項？",
+    "type": "單選",
+    "options": [
+      "資料整合",
+      "任務協調",
+      "硬體製造",
+      "回饋學習"
+    ],
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "answer": "硬體製造",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "硬體製造",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T07:19:45.206Z"
+    }
   }
 ]
