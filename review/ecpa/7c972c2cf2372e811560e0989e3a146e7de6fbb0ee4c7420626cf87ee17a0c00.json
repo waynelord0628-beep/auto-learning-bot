@@ -258,5 +258,65 @@
     "created_at": "2026-10-17T13:02:03.653Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c845138763899c9fbab1b8531eef204e8e49df1e41618e1c82318434f00c0386",
+    "question": "下列關於行政處分「附款」之敍述，何者有誤？",
+    "options": [
+      "主管機關核發外籍勞工居留許可，附記「如日後無受雇於任何雇主時，則廢止該居留許可」，此屬「保留廢止權」之附款。",
+      "智慧財產局核准商標登記，附註「商標自註冊公告當日起，其專用期間為十年」，此屬「附期限」之處分。",
+      "主管機關核准工廠排放廢污水，附註「如經兩次水質抽查檢測不合格，將廢止排放許可」，此屬「附條件」之處分。",
+      "受益處分之相對人須為特定作為、不作為義務之附款，此屬「附負擔」之處分。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:34.830Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0f4e671fbf07632c45e2aff3e13024f77f2e904e174ad20670008326eb51e492",
+    "question": "下列何者非屬「行政契約」？",
+    "options": [
+      "縣政府因風災受創，災後為添購辦公桌椅，與傢俱業者成立之買賣契約；復為租用辦公廳舍，與出租人成立之租賃契約。",
+      "中央健康保險署與特約醫事服務機構，締結全民健康保險特約醫事服務機構之合約。",
+      "交通部為辦理車輛安全審驗事宜與汽車修理業者成立之委託契約。",
+      "主管教育行政機關與師資培育公費生之間締結之公費契約。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:34.832Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "62e9619d655a6a416f1f4a23b2dc7a32921e94c9f61225f92bec81d4700f9693",
+    "question": "乙君向地方政府建築主管機關陳情，主張該大樓建案，恐有侵害其日照權之虞；並認為核發建造執照之公務員對其態度不佳，存心刁難，偏袒建商，向該公務員所屬機關申請迴避。下列敍述何者有誤？",
+    "options": [
+      "乙君應舉其原因及事實，並應為適當之釋明。",
+      "被申請迴避之公務員，對於該申請得提出意見書。",
+      "乙君不服行政機關之決定者，得於10日內提請上級機關覆決。",
+      "受理機關除有正當理由外，應於10日內為適當處置。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T13:02:34.832Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
