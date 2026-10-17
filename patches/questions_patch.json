@@ -67593,5 +67593,30 @@
       "model": null,
       "checked_at": "2026-10-17T07:20:02.323Z"
     }
+  },
+  {
+    "question": "區塊鏈技術中的五大特性，何者正確?",
+    "type": "單選",
+    "options": [
+      "集中但資料同步",
+      "中心化的管理",
+      "內容不可竄改",
+      "以上皆是"
+    ],
+    "course": "以區塊鏈技術建構安全的資料交換模式",
+    "answer": "內容不可竄改",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "內容不可竄改",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_32.html",
+          "title": "「以區塊鏈技術建構安全的資料交換模式」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T08:19:49.234Z"
+    }
   }
 ]
