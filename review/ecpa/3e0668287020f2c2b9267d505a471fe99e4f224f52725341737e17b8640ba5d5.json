@@ -16,8 +16,8 @@
     "created_at": "2026-10-14T17:15:45.255Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-16T09:20:49.778Z"
+    "retry_count": 2,
+    "retry_after": "2026-10-18T08:19:41.208Z"
   },
   {
     "id": "86ac03da68bf60a56d4522d4d0695a01ec5c6ce1c9b6e3ea6dabdd69120b4f0f",
@@ -36,8 +36,8 @@
     "created_at": "2026-10-14T17:15:45.257Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-16T09:20:49.778Z"
+    "retry_count": 2,
+    "retry_after": "2026-10-18T08:19:41.208Z"
   },
   {
     "id": "331036f98c73bed2f7deb5dd42d03af9acfe750355de18d7077a02f8fc631f8b",
@@ -58,8 +58,8 @@
     "created_at": "2026-10-14T17:15:45.257Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-16T09:20:49.778Z"
+    "retry_count": 2,
+    "retry_after": "2026-10-18T08:19:41.208Z"
   },
   {
     "id": "5166eb956eba475dfad19ce2d828070724d78e978b2c0edff181c554f9094776",
@@ -78,8 +78,8 @@
     "created_at": "2026-10-14T17:15:45.258Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-16T09:20:49.778Z"
+    "retry_count": 2,
+    "retry_after": "2026-10-18T08:19:41.208Z"
   },
   {
     "id": "ac2a37ea0dc3aad46d3a55bb0ece526358c3a3f9df67b8bc9bffa3d557c59242",
@@ -100,7 +100,7 @@
     "created_at": "2026-10-14T17:15:45.258Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-16T09:20:49.778Z"
+    "retry_count": 2,
+    "retry_after": "2026-10-18T08:19:41.208Z"
   }
 ]
