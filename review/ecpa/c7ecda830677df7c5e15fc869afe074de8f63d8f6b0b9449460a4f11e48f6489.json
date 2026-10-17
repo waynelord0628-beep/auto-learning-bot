@@ -39,7 +39,11 @@
     "candidate_answer": "因為 AI 是根據當下語境與機率運算重新組合內容，具有靈活性",
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T03:20:09.904Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ca6ba71fac0304d5e3d2afe6a259e6e552d4a8498923117aa59e09d26fde5b0a",
