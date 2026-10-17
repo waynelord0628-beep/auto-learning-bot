@@ -198,5 +198,85 @@
     "created_at": "2026-10-17T07:55:25.542Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7446b8f7f4076a11e550737baa232145bf5950dfc8b21ed639b40f9e8ced7f59",
+    "question": "倘丙君疏未將罰鍰處分書轉交，亦未繳納罰鍰，致救濟期間經過後，乙君始得知裁處罰鍰一事。下列敍述何者有誤？",
+    "options": [
+      "乙君向主管機關主張送達不合法，為有理由。",
+      "主管機關向乙君之法定代理人送達，此屬補充送達。",
+      "法定代理人有數人時，送達得僅向其中一人為之。",
+      "法定代理人疏未將文書轉交當事人，對已生送達之效力不生影響。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:01.769Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "e0680f420cfa9b037ed431d4bcc2293905782de54cf250fc9ed82cedf446d916",
+    "question": "該公告事項何時發生送達效力？",
+    "options": [
+      "公告日起。",
+      "公告日起 10 日。",
+      "公告日起 20 日。",
+      "公告日起 30 日。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:01.770Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c88b844114bf65997eafaff1569c03207c16bae148b666318785e087a70c4ca7",
+    "question": "外國人甲君依《國籍法》第3條規定申請歸化，經主管機關核准歸化後，取得中華民國國籍。下列敍述何者有誤？",
+    "options": [
+      "歸化處分一經送達，對原處分機關即發生拘束力。",
+      "其它行政機關應受此一處分之拘束，此即歸化處分之構成要件效力。",
+      "歸化處分對訴願管轄機關，不發生構成要件效力。",
+      "歸化處分具執行力。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:01.770Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3fbe4e997c42d0095cd16070b22acd0a93ceafe83ca62ca08a0881fc1e7013a1",
+    "question": "甲君取得我國國籍後旅居國外，稅捐機關各類繳款書每年均遭駐外單位以住址無法送達而退回，稅捐機關亦無法查知其確實之國外住所地。下列有關送達之敍述何者有誤？",
+    "options": [
+      "稅捐機關對甲君定期開徵之稅單，得依職權命為公示送達。",
+      "對甲君開徵稅單之公示送達，應於行政機關公告欄黏貼公告；至於 將文書「刊登政府公報或新聞紙」則非必備方式。",
+      "日後對甲君開徵稅單之公示送達，自公告之日起 60 日發生效力。",
+      "於公告之日起經 20 日，甲君之救濟期間即開始計算。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:01.770Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
