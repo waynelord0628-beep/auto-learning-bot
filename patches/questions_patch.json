@@ -67266,5 +67266,30 @@
       "model": null,
       "checked_at": "2026-10-17T00:20:03.680Z"
     }
+  },
+  {
+    "question": "造成海洋污染的原因不包含以下哪一項？",
+    "type": "單選",
+    "options": [
+      "沈積物",
+      "重金屬",
+      "劃設海洋保護區",
+      "垃圾"
+    ],
+    "course": "海洋生物多樣性及其保育",
+    "answer": "劃設海洋保護區",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "劃設海洋保護區",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329223975",
+          "title": "海洋生物多樣性及其保育《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T01:20:01.000Z"
+    }
   }
 ]
