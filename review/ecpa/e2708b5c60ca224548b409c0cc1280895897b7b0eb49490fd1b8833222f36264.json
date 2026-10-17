@@ -278,5 +278,45 @@
     "created_at": "2026-10-17T07:56:01.770Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "dc20d53b5f912167dc9fa14be0fd877ec807660350729f879edcb508cdade263",
+    "question": "某人力仲介公司因「非法容留外國人從事工作」，遭主管機關以違反《就業服務法》第 44 條規定裁處罰鍰。於送達裁處書時，發現該公司營 業處所已人去樓空，大門深鎖；惟公司代表人及其住居所並未變更。此時，行政機關正確之送達方式為何？",
+    "options": [
+      "以留置送達方式，留置裁處書於該事務所。",
+      "以公示送達方式，將裁處書黏貼於行政機關公告欄。",
+      "以該公司之代表人之住居所為送達。",
+      "以寄存送達方式，將裁處書寄存於當地警察機關。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:33.182Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0f4e671fbf07632c45e2aff3e13024f77f2e904e174ad20670008326eb51e492",
+    "question": "下列何者非屬「行政契約」？",
+    "options": [
+      "縣政府因風災受創，災後為添購辦公桌椅，與傢俱業者成立之買賣契約；復為租用辦公廳舍，與出租人成立之租賃契約。",
+      "中央健康保險署與特約醫事服務機構，締結全民健康保險特約醫事服務機構之合約。",
+      "交通部為辦理車輛安全審驗事宜與汽車修理業者成立之委託契約。",
+      "主管教育行政機關與師資培育公費生之間締結之公費契約。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-17T07:56:33.182Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
