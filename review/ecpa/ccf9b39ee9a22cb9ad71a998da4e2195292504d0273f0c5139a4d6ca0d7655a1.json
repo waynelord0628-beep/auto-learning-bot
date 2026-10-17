@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約CRPD核心概念簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆非",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T14:40:41.149Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T11:19:47.903Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "身心障礙者權利公約(CRPD)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/crpdee.html",
+          "title": "「身心障礙者權利公約CRPD核心概念簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T11:19:47.133Z"
+    },
+    "resolved_answer": "身心障礙者權利公約(CRPD)"
   },
   {
     "id": "1168d6ab8bd11ab18e439ee2428310042415394f8f35a7497d06a25f68381d35",
