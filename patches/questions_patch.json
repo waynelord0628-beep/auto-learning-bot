@@ -67618,5 +67618,30 @@
       "model": null,
       "checked_at": "2026-10-17T08:19:49.234Z"
     }
+  },
+  {
+    "question": "關於區塊鏈技術以下何者敘述正確?",
+    "type": "單選",
+    "options": [
+      "防偽",
+      "可竄改",
+      "在鏈上的資料是安全的",
+      "實質物品無法上鏈"
+    ],
+    "course": "以區塊鏈技術建構安全的資料交換模式",
+    "answer": "在鏈上的資料是安全的",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在鏈上的資料是安全的",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_32.html",
+          "title": "「以區塊鏈技術建構安全的資料交換模式」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T08:20:01.290Z"
+    }
   }
 ]
