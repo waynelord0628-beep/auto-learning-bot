@@ -190,13 +190,30 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "部門協作佳",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-24T07:20:03.068Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "部門協作佳",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T07:20:02.323Z"
+    },
+    "resolved_answer": "部門協作佳"
   },
   {
     "id": "f542a78aa50edd75822959d8d447adb7cfe41d24ae6d1cb2c392b1c2b617c5ac",

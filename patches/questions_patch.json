@@ -67568,5 +67568,30 @@
       "model": null,
       "checked_at": "2026-10-17T07:19:53.596Z"
     }
+  },
+  {
+    "question": "企業AI專案失敗常見原因不包含下列哪一項？",
+    "type": "單選",
+    "options": [
+      "忽視使用者需求",
+      "部門協作佳",
+      "資料品質差",
+      "期望落差大"
+    ],
+    "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
+    "answer": "部門協作佳",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "部門協作佳",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-17T07:20:02.323Z"
+    }
   }
 ]
