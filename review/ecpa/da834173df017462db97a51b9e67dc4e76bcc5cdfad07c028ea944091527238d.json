@@ -188,13 +188,30 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資安融入業務流程中",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.946Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T09:19:58.374Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資安融入業務流程中",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T09:19:57.694Z"
+    },
+    "resolved_answer": "資安融入業務流程中"
   },
   {
     "id": "13a88b906e738c4b836ad887ef0b74e26a89335580500326d0c84b53ccaca9f7",

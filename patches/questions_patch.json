@@ -68278,5 +68278,30 @@
       "model": null,
       "checked_at": "2026-10-18T09:19:50.462Z"
     }
+  },
+  {
+    "question": "依據本課程內容，科技進步很快，但人的行為改變很慢，要如何讓資安融入企業文化DNA中？",
+    "type": "單選",
+    "options": [
+      "資安融入業務流程中",
+      "賞罰分明",
+      "導入ISO 27001",
+      "提高資安長層級"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "資安融入業務流程中",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "資安融入業務流程中",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T09:19:57.694Z"
+    }
   }
 ]
