@@ -68132,5 +68132,30 @@
       "model": null,
       "checked_at": "2026-10-18T04:19:58.999Z"
     }
+  },
+  {
+    "question": "由於智慧一詞難以被定義，因此科學家在 1950 年代提出了一種測試機器是否有智慧的方式：若機器所表現的行為能不被辨識出其身分，則稱這台機器具有智慧。此測試的名稱為下列哪一項？",
+    "type": "單選",
+    "options": [
+      "尤拉（Euler）測試",
+      "圖靈（Turing）測試",
+      "高斯（Gauss）測試",
+      "范紐曼（Von Neumann）測試"
+    ],
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "answer": "圖靈（Turing）測試",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "圖靈（Turing）測試",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T04:20:07.134Z"
+    }
   }
 ]
