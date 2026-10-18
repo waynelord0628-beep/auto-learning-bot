@@ -198,5 +198,85 @@
     "created_at": "2026-10-18T19:42:17.897Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0b7db7cdcb9775793cbd1f25e09de2f2879d28b30b0133ab7675f31ce15e3d83",
+    "question": "英國政府成立科學、創新與技術部（DSIT）的主要目的是什麼？",
+    "options": [
+      "專責統籌 AI 政策並協調各單位之間的應對作法",
+      "完全禁止 AI 技術的發展",
+      "僅關注 AI 技術在軍事上的應用",
+      "將所有政府部門的 AI 決策權集中在該部門"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T19:42:55.245Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bef98a39bb442450beb6d02b90d71f29f7521a59d77e9cd16351e0340e0318a0",
+    "question": "根據教案內容，AI 技術在政府功能重塑上，最不可能做到以下哪一點？",
+    "options": [
+      "大幅提升行政效率與優化營運模式",
+      "強化公民服務品質與優化參與機制",
+      "提升公共衛生服務與促進社會照護",
+      "完全取代政府所有決策，並由 AI 自行運作"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T19:42:55.246Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "cc67cdc10acbe25bb49dc09194fac42ef095252ca764aa6c378d3acf1fc3e8b4",
+    "question": "台灣在 AI 發展上的潛在願景是什麼？",
+    "options": [
+      "成為全球 AI 治理創新試驗場",
+      "成為全球最大的 AI 後勤工廠",
+      "僅發展硬體製造",
+      "完全依賴國外技術"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T19:42:55.247Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3b898937b8712d8ff7dfe8704fbea9f5bace0945de2a18b9e3b5d6c690e0b22b",
+    "question": "英國的捍衛民主任務小組（DDT）的主要任務是什麼？",
+    "options": [
+      "開發 AI 武器",
+      "防止生成式 AI 被用來大規模製造或散佈假訊息",
+      "限制公民的言論自由",
+      "完全禁止選舉廣告"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T19:42:55.247Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
