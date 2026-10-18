@@ -68157,5 +68157,28 @@
       "model": null,
       "checked_at": "2026-10-18T04:20:07.134Z"
     }
+  },
+  {
+    "question": "對台灣而言，氫能是未來重要進口零碳能源",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "氫能技術發展與淨零",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T06:19:42.500Z"
+    }
   }
 ]
