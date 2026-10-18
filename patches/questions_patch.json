@@ -68228,5 +68228,30 @@
       "model": null,
       "checked_at": "2026-10-18T06:19:58.516Z"
     }
+  },
+  {
+    "question": "依據本課程內容，鴻海資安治理組織中，哪一個單位負責各事業群資安情報的流通、交流和教育訓練？",
+    "type": "單選",
+    "options": [
+      "資安治理工作小組",
+      "資安維運工作小組",
+      "秘書處",
+      "資安情資分享聯盟"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "資安情資分享聯盟",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "資安情資分享聯盟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T09:19:44.566Z"
+    }
   }
 ]

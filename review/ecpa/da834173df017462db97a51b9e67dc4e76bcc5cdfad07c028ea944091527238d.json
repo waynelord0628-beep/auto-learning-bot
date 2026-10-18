@@ -116,13 +116,30 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資安治理工作小組",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.942Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T09:19:45.230Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資安情資分享聯盟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T09:19:44.566Z"
+    },
+    "resolved_answer": "資安情資分享聯盟"
   },
   {
     "id": "b2dd96de2d0abb54dd9812dcf254f8170a224277584824e52b8312ed863d3ed0",
