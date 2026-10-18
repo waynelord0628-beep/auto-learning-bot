@@ -398,5 +398,25 @@
     "created_at": "2026-10-18T04:28:43.836Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2222d96f0246704c0745e410e5504ed422d89ce3f80d67b52be1025d0428e8f9",
+    "question": "下列何種事項，適用《行政程序法》之「程序規定」？",
+    "options": [
+      "因勞資爭議事件主管機關之行政裁決程序。",
+      "少年矯正學校為達教育目的所為之編班、排課行為。",
+      "外國人按國籍法申請歸化，主管機關所為之准駁。",
+      "考試院有關考選命題及評分之行為。"
+    ],
+    "type": "單選",
+    "course": "行政程序法（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T04:29:13.677Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
