@@ -44,13 +44,30 @@
     ],
     "type": "單選",
     "course": "從農田到餐桌的減碳策略：再生農法與永續食材",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減少土壤碳積存",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T14:23:28.992Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T01:19:53.629Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "減少土壤碳積存",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_865.html",
+          "title": "「從農田到餐桌的減碳策略：再生農法與永續食材」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T01:19:52.992Z"
+    },
+    "resolved_answer": "減少土壤碳積存"
   },
   {
     "id": "f115ae074a63edf13cf20e85bf9548e113c035bed2b41765e686fcba149a206d",
