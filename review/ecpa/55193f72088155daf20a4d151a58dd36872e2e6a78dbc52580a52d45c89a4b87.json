@@ -184,5 +184,65 @@
     "created_at": "2026-10-18T09:03:59.775Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0db44f032e527997b60d3a3bd100bdee7ded62074f81ebf52bc43089afb33302",
+    "question": "《兒童權利公約》哪一項原則在確保每個兒童都有權在一個能夠促進其身心健康、全面發展的環境中成長？",
+    "options": [
+      "1.不歧視原則(Non-discrimination)",
+      "2.兒童最佳利益原則(Best interests of the child)",
+      "3.生存與發展權(Right to life, survival, and development)",
+      "4.尊重/傾聽兒童表意權(Respect for the views of the child)"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T09:04:27.422Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ba34d8542c91ea7c1e950bbd30ea1b190ccfc44ef00cb37dab7e83ee1a40d2c4",
+    "question": "「兒童權利公約」中所指的「兒童」之年紀為？",
+    "options": [
+      "1.未滿12歲之人",
+      "2.未滿18歲之人",
+      "3.未滿6歲之人",
+      "4.未滿20歲之人"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T09:04:27.423Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2374b31fcda08f0c043ea8d7f147b3993e4ee9dfc59221d1f5a6fb6d989f0d7a",
+    "question": "「所有兒童，不論其種族、膚色、性別、語言、宗教、政治或其他見解、國籍、族裔或社會出身、財產、障礙、出生或其他身份，都應享有CRC所規定的所有權利」上述說明符合《兒童權利公約》哪一項原則？",
+    "options": [
+      "1.不歧視原則(Non-discrimination)",
+      "2.兒童最佳利益原則(Best interests of the child)",
+      "3.生存與發展權(Right to life, survival, and development)",
+      "4.尊重/傾聽兒童表意權(Respect for the views of the child)"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T09:04:27.424Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
