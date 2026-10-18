@@ -68253,5 +68253,30 @@
       "model": null,
       "checked_at": "2026-10-18T09:19:44.566Z"
     }
+  },
+  {
+    "question": "依據本課程內容，資安人面對環境的挑戰VUCA有哪些？",
+    "type": "單選",
+    "options": [
+      "波動Volatility",
+      "不確定性Uncertainty",
+      "合規Compliance",
+      "含糊Ambiguity"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "合規Compliance",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "合規Compliance",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T09:19:50.462Z"
+    }
   }
 ]
