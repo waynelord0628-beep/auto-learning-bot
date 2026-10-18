@@ -188,5 +188,101 @@
     "created_at": "2026-10-18T20:50:25.176Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "67fb2750880e696cae6c36933ea79785860fd45dac104dfc8479a8e87213d76e",
+    "question": "下列何者較適用於email的結尾？",
+    "options": [
+      "In closing,",
+      "In conclusion,",
+      "Concentrately,",
+      "以上皆可"
+    ],
+    "type": "單選",
+    "course": "輕鬆搞定英語公務書信(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T20:51:02.566Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "4f733b8f3abc74db3e8b0a8d025a9107d14a0e22979f52f4fa1051e22164ffee",
+    "question": "當表達「可能」時，應用下列何者？",
+    "options": [
+      "could",
+      "might",
+      "should",
+      "以上皆可"
+    ],
+    "type": "單選",
+    "course": "輕鬆搞定英語公務書信(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T20:51:02.569Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "7fee99f58e9e23928542c56abd1c355e2ac0f6f993d21a8a29e2087bfe701381",
+    "question": "My father spends a lot of money 「」magazines. 「」應使用下列何者介系詞？",
+    "options": [
+      "in",
+      "on",
+      "by",
+      "at"
+    ],
+    "type": "單選",
+    "course": "輕鬆搞定英語公務書信(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T20:51:02.569Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "41d35cb337ae0cf8f390b5ed31b7a1f82621b47ad961fe5ccf7a5a288d8088ec",
+    "question": "Cost 當動詞時，通常以“物品”為主詞，來說明該物品的價值？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "輕鬆搞定英語公務書信(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T20:51:02.570Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "f13be092097b5296bb1f065a4df510d101317c597f4b9beca269d260be9c10b2",
+    "question": "Forecast的意思是指遭受壓力?",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "輕鬆搞定英語公務書信(下)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T20:51:02.571Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
