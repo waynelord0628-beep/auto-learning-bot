@@ -67866,5 +67866,28 @@
       "model": null,
       "checked_at": "2026-10-18T00:19:52.807Z"
     }
+  },
+  {
+    "question": "智慧電力管理系統中有關電力使用資訊收集可藉由台電電錶取得",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "智慧校園用電監測與管理平台",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T00:20:01.639Z"
+    }
   }
 ]
