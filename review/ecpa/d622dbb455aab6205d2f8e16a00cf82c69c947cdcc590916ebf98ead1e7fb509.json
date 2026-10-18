@@ -45,7 +45,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 1,
-    "retry_after": "2026-10-17T12:19:41.266Z"
+    "retry_after": "2026-10-17T12:19:41.266Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T05:19:59.157Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cf85e276ecbc59d1f2ec1f622e4b037dc13b363361c346d4ed1a7e1142e3348f",
