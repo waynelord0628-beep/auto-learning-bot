@@ -278,5 +278,45 @@
     "created_at": "2026-10-18T06:41:38.595Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "31baa485e76c17567a154a783cd565c9ba73dbbe68e4704c4086e5e4dd9c811c",
+    "question": "按《行政程序法》規定，下列關於期日、期間之敍述，何者有誤？",
+    "options": [
+      "因天災或其它不應歸責於申請人之事由，致基於法規之申請不能於法定期間內提出者，得於其原因消滅後10日內申請回復原狀。",
+      "基於法規之申請，如申請人以掛號郵寄方式向行政機關提出者，採「發信主義」，以交寄當日之郵戳為準。",
+      "基於法規之申請，如申請人以平信方式寄送者，採「到達主義」，以行政機關收訖當事人之申請為準。",
+      "若法規未規定，而行政機關亦未規定，則行政機關受理人民申請案件之處理期間一個月。"
+    ],
+    "type": "單選",
+    "course": "行政程序法概論（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T06:42:09.815Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "67b03f71b63ea3224b514bb3803568253cd153b887922fdb8f92cb20b7241da8",
+    "question": "按《行政程序法》規定，於應送達處所不獲會晤應受送達人時，不得將送達文書付與下列何者代為簽收？",
+    "options": [
+      "利害關係相反之受雇人。",
+      "有辨別事理能力但尚未成年之同居人。",
+      "經本人指定之送達代收人。",
+      "應送達處所之接收郵件人員。"
+    ],
+    "type": "單選",
+    "course": "行政程序法概論（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T06:42:09.816Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
