@@ -1,0 +1,202 @@
+[
+  {
+    "id": "541f2d8881ff59b2509c704492d3b12c2e3bf9d2b5b4c446901b06cf62f93445",
+    "question": "「多代理協作 (Multi-Agent)」的主要優點是什麼？",
+    "options": [
+      "節省電力",
+      "讓單一模型處理所有事",
+      "透過分工處理複雜工作流",
+      "減少對 LLM 的依賴"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.520Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c61b63b0facf3cede4ce9c8a74b8825a7976f4186fe94b4d9848e735ee9c3051",
+    "question": "大語言模型（LLM）運作的核心機制主要是基於什麼？",
+    "options": [
+      "邏輯推理規律",
+      "文字出現機率的預測",
+      "預設的對話劇本",
+      "資料庫的精準檢索"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.522Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "52270ef023661c5b8deb7176cb6a5b3f2d3ddf0fd29949b8665d1c0b972abfb3",
+    "question": "下列哪一個工具是專門用於提升大型模型回答準確度，並減少「幻覺」的技術？",
+    "options": [
+      "CPU",
+      "RAM",
+      "RAG (檢索增強生成)",
+      "ROM"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.523Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "5a4d6fef8e81ef67520f704f562e861845fe3267aa80dc2d6a8b9bd825038789",
+    "question": "AI Agent 的「短期記憶」通常是指什麼？",
+    "options": [
+      "外部資料庫",
+      "Context Window (上下文視窗)",
+      "硬碟空間",
+      "向量資料庫"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.524Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b342abcd447047bbab1ccad453d1f2860688a8885d0557abcca26836db27ce27",
+    "question": "何者「不屬於」AI Agent 運作架構中的四大核心組成？",
+    "options": [
+      "控制中心 (Brain)",
+      "感知能力 (Perception)",
+      "實體硬體 (Hardware)",
+      "工具集 (Tools)"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.525Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "36026fa9b3e286d61d520c7e0b35fc28cf6ecefe50e7a82ce753a9bffaebe9e5",
+    "question": "在影片中提到的「Deep Research」屬於哪一類型的 Agent？",
+    "options": [
+      "學習助理型",
+      "工程師型",
+      "研究型",
+      "萬事助理型"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.526Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b1e1f580bd411e5ecf879d8b610bf2748ae86c8842fe7cd48a94c10ce12c4dba",
+    "question": "「RAG 技術」中的「G」代表什麼意思？",
+    "options": [
+      "Global (全球)",
+      "Generation (生成)",
+      "Graphic (圖形)",
+      "Ground (地面)"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.527Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3db7c20ddbadc8c0857c628b30cc46a949b5c6d0c51ec163188beef59d5c9ccd",
+    "question": "針對 AI 風險，建議採取的應對原則為何？",
+    "options": [
+      "全面禁止使用 AI",
+      "負責任的 AI 開發與透明度",
+      "讓 AI 完全自主運作",
+      "只在離線環境使用 AI"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.528Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "555012bf150e327e6f630251f95589e928b08cc1e1f472280808e9efbc679804",
+    "question": "在「規劃 (Planning)」階段，哪種技術可以讓 Agent 進行自我批評並改進？",
+    "options": [
+      "單步執行",
+      "反思與改進 (Reflection and Refinement)",
+      "隨機生成",
+      "暴力破解"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.529Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "a8ae6d8b022bc150d8db428333934ece8f04cc6c03d38776a42ae1cc63d913b8",
+    "question": "根據影片，AI Agent 就像是企業中的哪一種角色？",
+    "options": [
+      "硬體設備",
+      "數位員工",
+      "伺服器",
+      "程式碼庫"
+    ],
+    "type": "單選",
+    "course": "AI Agent時代來了：預見未來的智慧革命",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:20:59.530Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
