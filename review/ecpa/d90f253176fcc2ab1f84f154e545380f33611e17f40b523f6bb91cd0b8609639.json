@@ -274,5 +274,23 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:38.431Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "57ac137b9b1430a5cb24eaf8bf5eb0a7fddab8f2353fe1075873781b261ba19d",
+    "question": "Netflix、Disney+、YouTube都是屬於雲端服務的一種",
+    "options": [
+      "是",
+      "否"
+    ],
+    "type": "單選",
+    "course": "雲端應用安全實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T11:58:22.618Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
