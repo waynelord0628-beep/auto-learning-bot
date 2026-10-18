@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "半導體廢棄化學品中佔比最少的是硫酸與氫氟酸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T02:19:51.805Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "半導體廢棄化學品中佔比最少的是硫酸與氫氟酸",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T02:19:51.023Z"
+    },
+    "resolved_answer": "半導體廢棄化學品中佔比最少的是硫酸與氫氟酸"
   },
   {
     "id": "ec8adab6f5c0183d21bfadc18a5bf9e824358ef8a30a2116277a20faf5bb975d",
