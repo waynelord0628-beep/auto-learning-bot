@@ -1,0 +1,202 @@
+[
+  {
+    "id": "e97c5cd3bd8621df6c2057760025e343dcaa1926cc2945dafb7583eb32005645",
+    "question": "什麼是 Prompt Object？",
+    "options": [
+      "對資料庫進行視覺化操作",
+      "一種資料備份方式",
+      "可直接與儲存資料對話的 API",
+      "與雲端硬體無關的部署架構"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.071Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "21b8042a9640fe9a0b51a2c1b827a3cf969bea3471ddf67b7ac1447ced76b3aa",
+    "question": "以下哪一項是 AI 導入風險的具體表現？",
+    "options": [
+      "資料整理成本過低",
+      "模型回應太快",
+      "隱私洩露與模型偏誤",
+      "使用者太熟悉系統"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.074Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "9ca49f22847934e2b4a3c9fd66498fcd4c4bf071db087e4a35638d6b1af97231",
+    "question": "根據 Red Hat 的簡報，企業導入 AI 需考慮哪三大關鍵支柱？",
+    "options": [
+      "成本控制、工具選型、資料治理",
+      "演算法、資料來源、GPU 效能",
+      "導入成熟度、平台準備度、風險管理",
+      "預算、人力、供應鏈協同"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.075Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "540814fb27852440045854991d71a3d9dc104be7893424fb04ba85844ac59e5a",
+    "question": "Red Hat 提出的 MVP 是指？",
+    "options": [
+      "最大視覺處理量",
+      "模型驗證過程",
+      "最小可行產品",
+      "資料視覺化平台"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.075Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d9ad17d15f566e1f111be97952dc6bd3e854c315acae40e9b20b49ce0305ccee",
+    "question": "下列哪一項不是 MinIO AIStor 的特點？",
+    "options": [
+      "快速部署",
+      "與 Kubernetes 不相容",
+      "開箱即用的 AI 整合",
+      "雲原生設計"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.076Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d681b44185b29962a2b6a05d3723e85e87aec008782abc5c661666a4de5bd2cf",
+    "question": "為何建議使用自有 AI 模型處理敏感資料？",
+    "options": [
+      "比較酷",
+      "較容易實作",
+      "可離線執行，避免資料外洩",
+      "雲端會更快"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.077Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "dd926daa97ea9abdff4a74a7820613ce08598723c27750aa32895be11f9bb681",
+    "question": "根據 Red Hat 分類，將外部模型整合進內部流程的方式稱為？",
+    "options": [
+      "Taker",
+      "Shaper",
+      "Maker",
+      "Coder"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.078Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "8166be2a1f8633f456029e2e475daa40fa9608daf895a3836cf94ec9cb4372b0",
+    "question": "Red Hat 平台如何進行模型監控與解釋？",
+    "options": [
+      "使用 Google Analytics",
+      "TrustyAI 工具組",
+      "內建防火牆 API",
+      "SSH 指令列控制台"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.079Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b2ad9b3c46419e583b565f527e3b6bbbe32e9c0221fa3c48fcc6d0305e978f52",
+    "question": "Hare Runtime 是一種什麼樣的元件？",
+    "options": [
+      "圖像渲染器",
+      "SQL 儲存引擎",
+      "雲端儲存設備",
+      "運算與查詢執行平台"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.079Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bff137176f47545eedfc8af5a7e493515583202f146304bbea3dee93f584e5b7",
+    "question": "Red Hat 提供哪一項服務協助企業建立 AI 平台？",
+    "options": [
+      "SaaS 技術監控",
+      "AI 加速服務（AI Accelerator）",
+      "免費 GPU 租賃計畫",
+      "區塊鏈部署工具"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:11:41.080Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
