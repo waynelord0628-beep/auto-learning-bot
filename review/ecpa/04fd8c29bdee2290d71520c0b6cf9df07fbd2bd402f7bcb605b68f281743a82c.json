@@ -293,5 +293,61 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:59:18.275Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "773fdaf31553a65df7a37083d78066e2e4f3258e126785bdf70b70e788517787",
+    "question": "雙方交往時，若有造成追求心儀對象困擾之不宜行為，有可能構成性騷擾。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性平意識解析、性騷擾迷思解構及因應作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T14:54:27.575Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "0ec31b1c8dc19e0b18c499340043ce060478660a1bc234ec37acc12e94ef5934",
+    "question": "哪些行為構成跟蹤騷擾行為？",
+    "options": [
+      "反覆、持續",
+      "違反意願",
+      "使被害人心生畏怖",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "性平意識解析、性騷擾迷思解構及因應作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T14:54:27.577Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ebd8890e9f6e7ee8b92b7465f58417356129c52f7ca8b52368ae8bfa1300563d",
+    "question": "依「性騷擾防治法」的規定，機構成立性騷擾調查小組時，女性成員不得少於1/2。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性平意識解析、性騷擾迷思解構及因應作為",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T14:54:27.577Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
