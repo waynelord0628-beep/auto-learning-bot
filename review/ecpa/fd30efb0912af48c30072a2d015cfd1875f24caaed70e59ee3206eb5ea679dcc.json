@@ -1,0 +1,202 @@
+[
+  {
+    "id": "6e814bf72c52dbed68c64320098d9d1b1ab2a3ee5f59f1c3410e6b75439765e3",
+    "question": "下列何者不是生成式AI(GAI)的應用？",
+    "options": [
+      "ChatGPT",
+      "Pokemon Go",
+      "客服機器人",
+      "Midjourney"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.235Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b746465931d67db7837a7d0fcbfd193538b497e1ab8d981bd650580487f179ae",
+    "question": "以下哪個因素是全球AI生成內容(AIGC)市場的機會之一？",
+    "options": [
+      "機敏資料外洩的風險",
+      "生成內容偏差及不正確",
+      "資料獲取的版權問題",
+      "數位內容需求的快速增長"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.236Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c0413bf9a0c0dd81c54d317886092c887d1483c54e4ac246f1f32d06c7c788d7",
+    "question": "運用大語言模型進行生成式AI應用時，應該考慮的倫理問題包括哪些？",
+    "options": [
+      "訓練數據的品質",
+      "模型的運算效能",
+      "生成內容的不當使用風險",
+      "模型的學習率"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.236Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "6c0023822092b1468575e39d7890732a77edcbce7e01f3fc51c214ff471072d9",
+    "question": "運用大語言模型進行生成式AI時，如何防範生成內容的風險？",
+    "options": [
+      "過濾輸入剃除不當意圖",
+      "挑選可靠的大語言模型",
+      "檢驗輸出確保無不當內容",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.237Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d0521b46d3aa5587801959730d590ec04ed8b670aa912841350d00e2c5e7299c",
+    "question": "彌補大語言模型欠缺企業專業知識的方法，下列何者不適合一般企業？",
+    "options": [
+      "以企業資料進行微調訓練",
+      "以企業資料進行檢索生成(RAG)",
+      "以企業資料訓練全新的大語言模型",
+      "將相關企業資料手動帶入提示(few-shot prompting)"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.237Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "50e943ea73c6702662c488800fda064c63b08857728f809968bcd15e6a675cc7",
+    "question": "下列何者是生成式AI(GAI)的特色？",
+    "options": [
+      "無法客製化",
+      "多領域應用",
+      "不斷退步",
+      "無法提供創意和靈感"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.238Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "43fbb769505496fc37d00abc85582b8e998cdfcac2d1ec62e340d3f06623a52f",
+    "question": "如何控制大語言模型生成文本的風格和主題？",
+    "options": [
+      "調整模型的學習率",
+      "在生成過程中手動指定(prompt)風格和主題",
+      "使用更多預訓練的模型",
+      "增加模型的深度"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.238Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "6794dcb0abfeed7cddbe0cb922b5fe9d47ba5f6d065cc527e82b60c121af4f92",
+    "question": "生成式對話系統的主要目標為何？",
+    "options": [
+      "辨識對話中的情感和意圖",
+      "分析大量對話資料以提取模式和特徵",
+      "生成與人類對話相似的內容",
+      "分析對話資料以提取模式和特徵以及辨識對話中的情感和意圖"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.239Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "a06c5717b78da1a5042d58c32923d8a57f23e7cde7ccba35849db12adb051036",
+    "question": "AI生成內容(AIGC)的出現對數位內容產業的影響為何？",
+    "options": [
+      "使得內容生成的門檻降低、效率明顯提升",
+      "使得內容品質普遍下降",
+      "使得內容產業規模縮小",
+      "使得內容產業壟斷加劇"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.239Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "921a9cfcd8c049f52d7ffcc81911a69e8a748d570be4e51c4ae2c4e618e94bc7",
+    "question": "以下哪個選項是生成式AI的例子？",
+    "options": [
+      "Microsoft Word",
+      "Photoshop",
+      "Google Sheets",
+      "ChatGPT"
+    ],
+    "type": "單選",
+    "course": "數位大躍進：生成式AI",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T18:29:46.239Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
