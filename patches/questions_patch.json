@@ -68083,5 +68083,29 @@
       "model": null,
       "checked_at": "2026-10-18T03:21:22.166Z"
     }
+  },
+  {
+    "question": "下列哪一項是人工智慧應用於醫療之成功因素？",
+    "type": "單選",
+    "options": [
+      "醫生應該鑽研AI提升醫療品質，將病人數據無私分享給廠商，加速廠商開發AI軟體",
+      "病人應該將自己的病歷妥善保管，不可以提供給任何人，保護自己的隱私",
+      "廠商應該強化醫療軟硬體發展，協助專家學者能夠統整AI"
+    ],
+    "course": "應用於智慧醫療的醫療器材發展現況與展望",
+    "answer": "廠商應該強化醫療軟硬體發展，協助專家學者能夠統整AI",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "廠商應該強化醫療軟硬體發展，協助專家學者能夠統整AI",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T04:19:49.661Z"
+    }
   }
 ]
