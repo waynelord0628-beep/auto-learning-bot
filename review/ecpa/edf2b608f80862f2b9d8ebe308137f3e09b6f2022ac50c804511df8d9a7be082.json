@@ -1,0 +1,202 @@
+[
+  {
+    "id": "89bb6a3a7f1559733e3c85fec6a4fad3d29ae90c42709190dd51e37b2124ffe5",
+    "question": "最低營運持續目標（MBCO）的特性為何？",
+    "options": [
+      "必須達到恢復原運作狀態（100%）。",
+      "由組織的資訊部門技術主管訂定。",
+      "是指組織在中斷期間為實現其業務目標而可接受的服務或產品的最低能力或水準。",
+      "只能是提供查詢服務或人工處理。"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.365Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "01465bfd0cf7d4997f33f5fcd74f4509b0df41dc2d13d996ce94b863b700d3be",
+    "question": "根據演練的安排原則，若演練時間大於 RTO，則在演練後應進行哪一項工作？",
+    "options": [
+      "降低下一年度的演練規模",
+      "重新修訂 BCP",
+      "進行問題分析並有解決方案及實施時間表",
+      "將演練頻率改為低於年度"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.366Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ace2475eb2f1c5830e6e416467eccc081fa08661278525a688024d02ed03d4c9",
+    "question": "根據韌性框架，韌性的四個主要階段（能力）包括規劃和準備、吸收、復原，以及下列何者？",
+    "options": [
+      "限制 (Constrain)",
+      "冗餘 (Redundancy)",
+      "適應 (Adapt)",
+      "了解 (Understand)"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.367Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "fd0d845497923ada8a65520aea4cc6e459217d36c890b67b1b282a6ab825c2b8",
+    "question": "營運持續策略中的「人員」策略方向，包括關鍵活動程序文件化、多重技能訓練，以及下列哪一項？",
+    "options": [
+      "集中關鍵技能",
+      "增加第三方服務的使用",
+      "知識的留存與管理",
+      "僅專注於正式員工"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.367Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "12b0ea9f82943ebec5fd3a9ad6d26aa23e0fb752aef766d89cb0ce2cdcd9295c",
+    "question": "業務衝擊分析（BIA）的主要目的為何？",
+    "options": [
+      "計算最低營運持續目標（MBCO）的實施成本",
+      "識別所有潛在威脅發生的可能性",
+      "將中斷時優先活動找出，因為若未能及時恢復，可能導致不可接受的不利影響",
+      "執行災害復原（DR）程序"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.367Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3f810b1ddb5656235d279fde71e762ca11e5abc9da72ed5f4df1bd57cb2af2f4",
+    "question": "韌性的五大組成中，「指吸收和抵抗干擾和危機的能力，包含了可靠性的概念」指的是哪一項？",
+    "options": [
+      "冗餘性 (Redundancy)",
+      "資源豐富性 (Resourcefulness)",
+      "堅韌性 (Robustness)",
+      "應變 (Response)"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.368Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3db8597ae4902cded493b98433bf947eb87f736ace0da9078494056bd67c7a0d",
+    "question": "根據ISO 22300:2021對「韌性」（Resilience）的定義，下列何者最符合？",
+    "options": [
+      "確保業務所需要的資源能夠得以回復的程序",
+      "在中斷發生時維持核心功能的運作",
+      "在變動環境中吸收與適應的能力",
+      "規劃因應破壞性事故的策略"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.368Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "be6f1183d9b4bca886415e7e888da1ef5a8e048c41f8ace710da64f7d02b7427",
+    "question": "根據影片所示，2024年7月19日發生的CrowdStrike安全防護軟體更新出錯事件，導致全球約850萬台Windows崩潰，請問這次事故的主因是什麼？",
+    "options": [
+      "偵測引擎過期未更新",
+      "Falcon Sensor更新程式出現問題",
+      "客戶沒有安裝EDR/MDR",
+      "資料庫更新測試不足"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.369Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3c038bf9b6c558df681be391f152500ba249f7d0cfddff155b1dac2f898461a5",
+    "question": "關於熱備援站點（Hot site）的敘述，下列何者正確？",
+    "options": [
+      "異地備援端備有同樣之系統，事件發生時在可接受的時間內恢復啟用。",
+      "備援站點與主站點的資料都一樣。",
+      "只有場地沒有設備。",
+      "有提供基本設備，但仍須自行安裝系統。"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.369Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "54806dfb0731f2ffc6832761a9ffed20f9d5beabab8d311938208875478c5f1c",
+    "question": "韌性的五大組成中，強調「擁有過剩的能力和備用系統」以「在干擾發生時可維持核心功能」的是哪一項？",
+    "options": [
+      "堅韌性 (Robustness)",
+      "資源豐富性 (Resourcefulness)",
+      "恢復 (Recovery)",
+      "冗餘性 (Redundancy)"
+    ],
+    "type": "單選",
+    "course": "政府營運數位韌性建構指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T13:15:46.370Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  }
+]
