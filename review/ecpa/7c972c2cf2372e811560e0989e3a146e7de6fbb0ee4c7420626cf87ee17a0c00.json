@@ -398,5 +398,45 @@
     "created_at": "2026-10-18T04:29:44.041Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "52dbda08d23d7aa48155b1fb51860d4b5bd565f2a0a4a6c1b65a3c798caaf60c",
+    "question": "按《行政程序法》規定，公務員因「身分關係」應自行迴避者，不包括下列何者？",
+    "options": [
+      "六親等的表姐弟",
+      "三親等的姑嫂",
+      "已再婚的前配偶",
+      "養父母及養子女"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T04:30:14.235Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "82acbe89fea836c071995f957a556f75bf3c73a511dea812be202b0ad1a8841a",
+    "question": "主管機關於核准建造執照後，發現甲君所提供資料虛偽不實，而原承辦人於核發建造執照時亦未確實查勘，有違前開《建築技術規則》關於日照權規定，應為如何之處置？",
+    "options": [
+      "撤銷原處分。",
+      "廢止原處分，並給予合理之補償。",
+      "維持原處分，要求補正正確資料。",
+      "更正原處分。"
+    ],
+    "type": "單選",
+    "course": "行政程序法與案例解析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T04:30:14.239Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
