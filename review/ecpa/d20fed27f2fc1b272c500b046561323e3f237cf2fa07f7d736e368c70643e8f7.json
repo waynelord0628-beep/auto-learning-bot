@@ -45,14 +45,31 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.252Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T00:19:53.646Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T00:19:52.807Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "229b88b1f0f06dca9b1154b9d57abd94aa36322b567262ccb3ac3548dd8102cf",
