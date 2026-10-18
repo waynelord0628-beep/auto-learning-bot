@@ -68203,5 +68203,30 @@
       "model": null,
       "checked_at": "2026-10-18T06:19:50.411Z"
     }
+  },
+  {
+    "question": "發展氫能達成淨零路徑，有哪些策略？",
+    "type": "單選",
+    "options": [
+      "使用氫能達成製程設備的電氣化",
+      "發展氫能運具",
+      "供熱系統以氫能取代天然氣",
+      "以上皆是"
+    ],
+    "course": "氫能技術發展與淨零",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T06:19:58.516Z"
+    }
   }
 ]

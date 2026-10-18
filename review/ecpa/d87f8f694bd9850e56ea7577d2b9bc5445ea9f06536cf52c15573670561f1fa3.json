@@ -78,13 +78,30 @@
     ],
     "type": "單選",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.529Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-25T06:19:59.128Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-18T06:19:58.516Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "2cadca35760f0e791b2a346d67bb02e2ae214f9c8e89a6202997190da1725cf7",
