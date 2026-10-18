@@ -198,5 +198,105 @@
     "created_at": "2026-10-18T17:11:41.080Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3c87172787f8aad25131bd2e4a12bf176e8768a6312b0ced6e6efdf85dedb92d",
+    "question": "在資料查詢效能上，Trino 相較於 MSSQL 的改善幅度為？",
+    "options": [
+      "大致相同",
+      "效能下降",
+      "約 90% 提升以上",
+      "僅適用於小型資料集"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:12:17.666Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3b04aec390503d9c49550e4c439e33f59898448a3de3e5c1b8aa1caa346e65df",
+    "question": "Red Hat 建議在導入 AI 時應如何避免供應商鎖定？",
+    "options": [
+      "完全使用 SaaS 模型",
+      "選擇閉源架構",
+      "建立雲端無關的開放平台",
+      "關閉資料日誌記錄"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:12:17.667Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "9d75c875e552f995c3db71c0474a0703a2296f623db0773b96d7aebce217e942",
+    "question": "MinIO AIStor 提供哪一種儲存技術？",
+    "options": [
+      "區塊儲存",
+      "檔案儲存",
+      "S3 相容的物件儲存",
+      "傳統 HDD 儲存"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:12:17.668Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "59984ae9dc382d99a49f77d9cae515def09a55ca6642f767dcacd75586ce1297",
+    "question": "下列哪一項不是 AI 平台應該具備的能力？",
+    "options": [
+      "模型推理運行時",
+      "資料遺失模擬器",
+      "模型效能監控",
+      "模型偏誤偵測"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:12:17.669Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "96043ff8d91a8d9d1f2a9a5ad7b8ec7d2cdab8595b2f9cd0cd18a1e05f30dfa0",
+    "question": "下列何者是「生成式 AI」的主要特徵？",
+    "options": [
+      "僅能識別輸入資料",
+      "能生成全新內容",
+      "無需訓練即可使用",
+      "適合處理結構化數據"
+    ],
+    "type": "單選",
+    "course": "AI基礎建設與平台選型",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-18T17:12:17.670Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
