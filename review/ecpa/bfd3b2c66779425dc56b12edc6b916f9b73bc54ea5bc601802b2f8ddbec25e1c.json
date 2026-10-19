@@ -179,5 +179,96 @@
     "created_at": "2026-10-19T03:13:27.409Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3d0e92d378f4a4b8cbb49e00b0be8b31457b09fc6de8b80f86e50776e2548098",
+    "question": "禁止歧視原則係指社會不必因為兒少及其父母的地位與種族身分而給予平等的待遇。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約-各項權利分析(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T03:14:08.309Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bfda6d8b51ec2768d79b7b66f7f68a3f3e9681e795ecdba21264e04b05aedc86",
+    "question": "下列何者非CRC一般性原則？",
+    "options": [
+      "禁止歧視原則",
+      "兒少最佳利益原則",
+      "信賴保護原則"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約-各項權利分析(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T03:14:08.309Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "25d975f6c4c18babe12abcbc1924508e6e1748a1a315c6d9de0c77e4a42bec5a",
+    "question": "兒少生存及發展權係指在決策的過程中，應針對兒少的利益為優先且最佳的考量。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約-各項權利分析(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T03:14:08.310Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b729f2c05f22fbdb58192c9ceaea75b08c5040cc4b150b0349510464a806cfcd",
+    "question": "兒少最佳利益原則可分為權利、原則、程序三個面向。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約-各項權利分析(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T03:14:08.310Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2f3f0ff1cc9762d16a7c837463d1880a80537f47b5aa0042559ffbf1678b987a",
+    "question": "兒少生存及發展權係指政府不能侵害兒少的生命權，並應積極保護他們相關生存的權利。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約-各項權利分析(一)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T03:14:08.311Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
