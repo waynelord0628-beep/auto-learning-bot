@@ -186,5 +186,61 @@
     "created_at": "2026-10-19T06:35:30.367Z",
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "8907d65ad483e7832ee436d4fc13d818b13df74ad405ab09e9df8e3297907c30",
+    "question": "實行跟蹤騷擾行為者，攜帶凶器或其他危險物品犯前項之罪者，須告訴乃論。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公民與政治權利國際公約專題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T06:36:55.368Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c0b2a902efc1d0bbd0b6fc99d6d720165a55b680914ca3c250a50c68a9c670bd",
+    "question": "國家刑罰權之有無及其範圍為目的之有關行為程序有哪些？",
+    "options": [
+      "偵查",
+      "起訴",
+      "審判",
+      "執行"
+    ],
+    "type": "多選",
+    "course": "公民與政治權利國際公約專題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T06:36:55.371Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ee081444f64073389b531ca47672e41190644c70a2a360e60a8766a8da91c8a4",
+    "question": "檢察官於偵查中，應貫徹「偵查公開」原則。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公民與政治權利國際公約專題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-10-19T06:36:55.372Z",
+    "ai_error": "generation_failed",
+    "review_state": "awaiting_candidate"
   }
 ]
