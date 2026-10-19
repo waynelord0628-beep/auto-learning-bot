@@ -68670,5 +68670,31 @@
       "model": null,
       "checked_at": "2026-10-19T06:20:14.321Z"
     }
+  },
+  {
+    "question": "根據本課程內容，國內製造業客製化生產系統的主要特性是什麼？",
+    "type": "單選",
+    "options": [
+      "提高大規模生產效率",
+      "實現小批量",
+      "多品種的生產需求",
+      "降低生產成本",
+      "增加產品標準化"
+    ],
+    "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
+    "answer": "實現小批量",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "實現小批量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T14:20:11.906Z"
+    }
   }
 ]
