@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "共享電動運具創新商業服務模式",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:54:18.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T15:19:52.035Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_808.html",
+          "title": "「共享電動運具創新商業服務模式」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T15:19:51.102Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ba0d21d1c83bc3095810041355803d280bbcdda6d1f6c86c5fcae505d42b8673",
