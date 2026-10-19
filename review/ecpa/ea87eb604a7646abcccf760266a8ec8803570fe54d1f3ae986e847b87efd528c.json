@@ -191,13 +191,30 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位素養",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.744Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T14:20:57.339Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位素養",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T14:20:53.599Z"
+    },
+    "resolved_answer": "數位素養"
   },
   {
     "id": "7ab68ce0e05e70eb16a1efdc074f4decbb97c64ebb651db642b5d8ca143c8ca9",
