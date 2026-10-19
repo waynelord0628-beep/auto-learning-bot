@@ -16,7 +16,11 @@
     "candidate_answer": "AI 是高級輔助工具，最終判斷仍需由人類負責",
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:04:56.475Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T03:19:59.678Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e3357922c4db0beaa923c2bf175004a79f82a084b3242c1785d3b8679a7be801",
