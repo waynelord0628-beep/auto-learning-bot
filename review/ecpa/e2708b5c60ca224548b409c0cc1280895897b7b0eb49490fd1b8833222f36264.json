@@ -88,16 +88,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.538Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T02:20:10.245Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "利害關係相反之受雇人。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T02:20:09.541Z"
+    },
+    "resolved_answer": "利害關係相反之受雇人。"
   },
   {
     "id": "c845138763899c9fbab1b8531eef204e8e49df1e41618e1c82318434f00c0386",
