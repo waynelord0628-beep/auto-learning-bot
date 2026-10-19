@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "共享電動運具創新商業服務模式",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可直接沿用現行產業別分類，產業規模比起其他的產業別更容易評估",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:54:18.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T15:20:02.846Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可直接沿用現行產業別分類，產業規模比起其他的產業別更容易評估",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_808.html",
+          "title": "「共享電動運具創新商業服務模式」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T15:20:01.882Z"
+    },
+    "resolved_answer": "可直接沿用現行產業別分類，產業規模比起其他的產業別更容易評估"
   },
   {
     "id": "1d31077a8b3a43121b4b7a0e6aa59048e9bbb9bedb7e81e19278e7f2655aeaf7",
