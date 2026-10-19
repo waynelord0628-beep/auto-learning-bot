@@ -10,16 +10,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.537Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-26T02:19:49.406Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "汽車駕駛人違規停車，由民間拖吊業者充任交通助理人員執行之。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-19T02:19:48.640Z"
+    },
+    "resolved_answer": "汽車駕駛人違規停車，由民間拖吊業者充任交通助理人員執行之。"
   },
   {
     "id": "013895bbbfef56a5b721b6b062d0fc84929e1ed36fb0356ef779a70e54d0c5da",
