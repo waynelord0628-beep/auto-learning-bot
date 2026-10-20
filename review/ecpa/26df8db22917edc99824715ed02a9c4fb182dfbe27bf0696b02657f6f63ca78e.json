@@ -113,13 +113,34 @@
     ],
     "type": "單選",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高效率紙塑處理系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.208Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.934Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "高效率淋膜紙處理系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.544Z"
+    },
+    "resolved_answer": "高效率淋膜紙處理系統"
   },
   {
     "id": "78a3fce5f0066a5e807b1609c514af5a851675c4893b7bf9393deead1a66714c",
@@ -131,13 +152,34 @@
     ],
     "type": "單選",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Thermo-compressor熱壓縮(熱泵)蒸汽系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.208Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.970Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Thermo-compressor熱壓縮(熱泵)蒸汽系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.544Z"
+    },
+    "resolved_answer": "Thermo-compressor熱壓縮(熱泵)蒸汽系統"
   },
   {
     "id": "184900da29bd64dd8a087bbf07e879f804f9e284b75388395f26aba4d7a6ad61",
@@ -148,13 +190,34 @@
     ],
     "type": "是非",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.209Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.004Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.545Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "261aeb05df35dc41d169686ac45c1a58a12fe8496befecfeb73753b901f90cbc",
@@ -166,13 +229,34 @@
     ],
     "type": "單選",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "智慧生產系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.209Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.046Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "智慧建模系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.545Z"
+    },
+    "resolved_answer": "智慧建模系統"
   },
   {
     "id": "ae43a973494bbf07a4f8bc170c6faae9abbbfb9a920de32387d61325255e99a7",
@@ -184,13 +268,34 @@
     ],
     "type": "單選",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "籌辦產業低碳科技應用大會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.210Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.083Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "辦理供應商ESG大會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.545Z"
+    },
+    "resolved_answer": "辦理供應商ESG大會"
   },
   {
     "id": "8be7003ed1fce1cd581c5e928ca2be411dff42698d995f6a61fae456dac3be8d",
@@ -201,13 +306,34 @@
     ],
     "type": "是非",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.210Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.118Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.547Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "02cc472b1cff1b4fb9db7a5f48e0052e18b810018e57f73a808830c89e7bdf6d",
@@ -219,12 +345,33 @@
     ],
     "type": "單選",
     "course": "正隆SMART智紙建構永續韌性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI辨識系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:14:59.211Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.153Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AI檢測水分儀",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/smartee.html",
+          "title": "「正隆SMART智紙建構永續韌性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137257",
+          "title": "正隆SMART智紙建構永續韌性《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.547Z"
+    },
+    "resolved_answer": "AI檢測水分儀"
   }
 ]

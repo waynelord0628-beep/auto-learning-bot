@@ -116,13 +116,38 @@
     ],
     "type": "單選",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.521Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.588Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b48ca9a13fa877d5524e0b0f0483ac8a0d744cdf63f88b9c95e70ea7a9118a1f",
@@ -133,13 +158,38 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.548Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.588Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "7705df036ef76b1411db9f251c4cbb4f80318f5c59e2641862d8f56975e4a790",
@@ -150,13 +200,38 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.387Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.573Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.588Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "be809337bdf9a7ed6b393ca021220b76a6a7649c0dcfb32c4fc27e5b4fea8959",
@@ -167,13 +242,38 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.387Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.599Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.588Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "266bfc611380a9fd4cf36e82dd90e78d409727365abfa1eb9a7a9e55a0d0e1a3",
@@ -184,13 +284,38 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.624Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.588Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b80e001f65f13fd0cc791d1a09571f6cf2b4eaeff6544ba1e842725366696630",
@@ -201,13 +326,38 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.589Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "215c17622fe9aa218eaea761cfd5607bc5bcbd5b54245fe255d64fa38765fc21",
@@ -218,12 +368,37 @@
     ],
     "type": "是非",
     "course": "生成式AI應用-簡報設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:07:00.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:40.683Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee_20.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ai-ee.html",
+          "title": "「生成式AI應用-簡報設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346771169",
+          "title": "生成式AI應用-簡報設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:18.589Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

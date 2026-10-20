@@ -117,13 +117,34 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.036Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.149Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.436Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ecdeb41d59006d7f9806ad146b0dfeaac1778173e5e4adda1c9d6cb9b5701071",
@@ -136,13 +157,34 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.036Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.168Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.437Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b6e87e2bc3360c273d810d5fa4fdd104d8a870d0a4ad396918ffee8510773d4b",
@@ -153,13 +195,34 @@
     ],
     "type": "是非",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.186Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.437Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "6ae842176055d8b8058a562e320720c529f65d67f29fe5a7d4107a697d06836b",
@@ -170,13 +233,34 @@
     ],
     "type": "是非",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.038Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.206Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.437Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4fe04a94a8d6fea499decff310243f6c173c1e4d5fcb7794b36f28894aa15b34",
@@ -189,13 +273,34 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "農業生產以季節性缺工為多，難以導入勞動力予以解決",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.038Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.227Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "基礎建設不足的偏僻地區，可能會影響智慧農機的發展",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.438Z"
+    },
+    "resolved_answer": "基礎建設不足的偏僻地區，可能會影響智慧農機的發展"
   },
   {
     "id": "637f584ea367e8b66b73d2947c17f2b7ad217b6221e5cb242971b1061b9db0c7",
@@ -208,13 +313,34 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "模組化的概念通常僅限於描述硬體設備，軟體規劃並不在此範疇",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.247Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "模組化的概念通常僅限於描述硬體設備，軟體規劃並不在此範疇",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.438Z"
+    },
+    "resolved_answer": "模組化的概念通常僅限於描述硬體設備，軟體規劃並不在此範疇"
   },
   {
     "id": "1d4391bd265abe2d37d1117f10976a93da433571e4ba48ff7dfab22f10bdc01a",
@@ -227,13 +353,34 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ROS 中 Topic 處理服務請求，類似 client / server 架構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:20:54.040Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.265Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ROS 中 Topic 處理服務請求，類似 client / server 架構",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.438Z"
+    },
+    "resolved_answer": "ROS 中 Topic 處理服務請求，類似 client / server 架構"
   },
   {
     "id": "576d29b5ccb118391fbe10e0295a3c99b38f8db64ae0a9f576a4cc178bc6f239",
@@ -246,15 +393,36 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:21:37.225Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-01T00:19:48.830Z"
+    "retry_after": "2026-10-01T00:19:48.830Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.287Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "農機僅針對機具做開發，缺乏相應的軟體規劃",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.439Z"
+    },
+    "resolved_answer": "農機僅針對機具做開發，缺乏相應的軟體規劃"
   },
   {
     "id": "209a3cbeee8b1cc7a9b93c971056a1e9a4c6cab5917d94c03d8ee95998352d5f",
@@ -266,14 +434,35 @@
     ],
     "type": "單選",
     "course": "新世代智慧農機與服務設計",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T16:21:37.230Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-01T00:19:48.830Z"
+    "retry_after": "2026-10-01T00:19:48.830Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.307Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以雷射掃描空間資訊建立空間地圖",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_800.html",
+          "title": "「新世代智慧農機與服務設計」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137205",
+          "title": "新世代智慧農機與服務設計《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:16.439Z"
+    },
+    "resolved_answer": "以雷射掃描空間資訊建立空間地圖"
   }
 ]

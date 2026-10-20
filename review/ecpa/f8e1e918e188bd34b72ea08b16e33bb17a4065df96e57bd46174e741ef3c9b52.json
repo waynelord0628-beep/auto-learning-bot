@@ -10,19 +10,32 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "懂得使用AI的醫師，會取代不懂得使用AI的醫師",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.835Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
     "retry_after": "2026-09-25T19:19:43.002Z",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T02:19:44.106Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.697Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "懂得使用AI的醫師，會取代不懂得使用AI的醫師",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.538Z"
+    },
+    "resolved_answer": "懂得使用AI的醫師，會取代不懂得使用AI的醫師"
   },
   {
     "id": "ac41abd031c199403f0ad294ba1daf872540b7595e952c872637427cc5f9c92e",
@@ -111,15 +124,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.839Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:43.002Z"
+    "retry_after": "2026-09-25T19:19:43.002Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.726Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.538Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "10c774a4a654e0309515360f75da001d4161d59155c5e5c23513c341d9bd2796",
@@ -132,15 +166,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可信任的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.839Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.751Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可信任的",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.538Z"
+    },
+    "resolved_answer": "可信任的"
   },
   {
     "id": "891437cafc2f82bbf29b1168aec0e821419bad8b9c8f03fcdf25316244dc3149",
@@ -153,15 +208,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫療影像辨識與診斷",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.840Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.779Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫療影像辨識與診斷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.539Z"
+    },
+    "resolved_answer": "醫療影像辨識與診斷"
   },
   {
     "id": "3ca11ba4ad5a8272375f000962099f1d8b5102bf6f69d6cc4aa38d46f82ad514",
@@ -174,15 +250,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.840Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.808Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可以快速預測罹患 COVID-19 風險",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.539Z"
+    },
+    "resolved_answer": "可以快速預測罹患 COVID-19 風險"
   },
   {
     "id": "e0e60cf54515ee55bbc8c1658c615bd2eefd9034e3e1e4653f0b34a7183b18d7",
@@ -195,15 +292,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "隨身裝置600T",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.841Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.840Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "隨身裝置600T",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.539Z"
+    },
+    "resolved_answer": "隨身裝置600T"
   },
   {
     "id": "f4d714c9c9573ba7487305a5cb67681304ee7b772cddc54e1ed635c4cc6bddbd",
@@ -216,15 +334,36 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.841Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.864Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_87.html",
+          "title": "「從AI到智慧醫療落地」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.539Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4bd9562f448dd2dfbf4d8cc5b2ef1709f348516a44b9f51124498f1db8176dec",
@@ -237,14 +376,31 @@
     ],
     "type": "單選",
     "course": "從AI到智慧醫療落地",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI曾經有過期待幻滅的谷底",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:44:23.842Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-27T01:19:51.368Z"
+    "retry_after": "2026-09-27T01:19:51.368Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.886Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AI曾經有過期待幻滅的谷底",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337822065",
+          "title": "從AI到智慧醫療落地《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.539Z"
+    },
+    "resolved_answer": "AI曾經有過期待幻滅的谷底"
   }
 ]

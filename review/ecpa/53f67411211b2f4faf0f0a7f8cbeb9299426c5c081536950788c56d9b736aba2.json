@@ -46,13 +46,34 @@
     ],
     "type": "單選",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.010Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.953Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.209Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "6b9c6330d729e0af43a27f31856bca0cf28e179c4af0976fe830d1875f8deda0",
@@ -63,13 +84,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.010Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.972Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.209Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0f7b67a112ef8e79ae3544df088687927ed681c3167c987f9794957487c6c94c",
@@ -80,13 +122,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.010Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.992Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.209Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6f92b51429dcd8b485e1e9fb02852c5758263d2dfa0e4afd01ecb3521f906c88",
@@ -97,13 +160,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.011Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.013Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.209Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4cb6b310d1d3e73f6b56875f4e913f91b74eba2c12776ff9a9253ae85a93e99a",
@@ -114,13 +198,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.011Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.032Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.209Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "739b05f6c06848025b3177a98a7d5f07c274ccab193d7cb8ed1b812618671a8f",
@@ -131,13 +236,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.012Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.051Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.210Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "62edf20f74786e90a7ddd3481b0147bb9901c84551d5ef8903791af273ea684c",
@@ -167,13 +293,34 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.013Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.069Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.211Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a77d04ca422830028ba3bf3d98933c9999d6d477c1e79f26ccc82a16dff85e75",
@@ -184,12 +331,33 @@
     ],
     "type": "是非",
     "course": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T22:03:20.013Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.089Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/3-ee.html",
+          "title": "「友善健康職場音頻課程【幸福柑仔店】3-職場人際互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337787269",
+          "title": "友善健康職場音頻課程【幸福柑仔店】3-職場人際互動《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:48.211Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

@@ -99,13 +99,34 @@
     ],
     "type": "單選",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.671Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.569Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "1b2d5a236d0e17c0ac44bcd8681709ca112b7019e0ca114bfe1ffd02905825d1",
@@ -116,13 +137,34 @@
     ],
     "type": "是非",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.672Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.601Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "10f4028a511f152add2a07e9a55f3d3dd823ef5f15bd0040aad7d46a97d9e805",
@@ -135,13 +177,30 @@
     ],
     "type": "單選",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Error",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.674Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.635Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Error",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "Error"
   },
   {
     "id": "92e273770d9875cdf55be387cc72ceb48735c8f9fe764c433414253a1b0358c1",
@@ -152,13 +211,34 @@
     ],
     "type": "是非",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.674Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.658Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "ef8c932cb4f6288f6373315958877ebab4d8059067a9862a904e43f7ed5463c2",
@@ -171,13 +251,34 @@
     ],
     "type": "單選",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不輕易更換密碼",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.675Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.685Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不輕易更換密碼",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "不輕易更換密碼"
   },
   {
     "id": "93cd108d74663e8c83e1451f7aa10b38a68b73ab6548287d7da3be4983a65d3f",
@@ -190,13 +291,34 @@
     ],
     "type": "單選",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "避免使用太長密碼以免忘記",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.676Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.710Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "避免使用太長密碼以免忘記",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "避免使用太長密碼以免忘記"
   },
   {
     "id": "1598f075699622ac722cf98c8c99de41c0991857fcf6f1b4fb53d56cb5a041c6",
@@ -209,12 +331,33 @@
     ],
     "type": "單選",
     "course": "【資安通識】如何安全地使用電腦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:04:03.677Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.735Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_68.html",
+          "title": "「【資安通識】如何安全地使用電腦」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340354137",
+          "title": "【資安通識】如何安全地使用電腦《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.582Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

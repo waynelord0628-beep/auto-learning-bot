@@ -224,13 +224,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "深度學習",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.943Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.609Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "深度學習",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.388Z"
+    },
+    "resolved_answer": "深度學習"
   },
   {
     "id": "4f197ea989ab39b8d0093b5ab2f263d65a949b6f4a60b8a07cf64d44029e07d5",
@@ -243,13 +264,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "經 濟成長帶來生育率的提升",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.944Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.634Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "經 濟成長帶來生育率的提升",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.390Z"
+    },
+    "resolved_answer": "經 濟成長帶來生育率的提升"
   },
   {
     "id": "2d229702607e79db7b0394b1c18d95e3d604307c6bed80080a56a2f3525d2316",
@@ -261,13 +303,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫療設備業者著重推動醫療設備結合AI或行動化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.944Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.658Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫療設備業者著重推動醫療設備結合AI或行動化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.390Z"
+    },
+    "resolved_answer": "醫療設備業者著重推動醫療設備結合AI或行動化"
   },
   {
     "id": "bfca3323a7956b96a103a4027cfd8fcb136e076d498f096ae3f9ef6a7f58b064",
@@ -280,13 +343,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "物聯網於健康照護之應用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:11:46.945Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.690Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "物聯網於健康照護之應用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.391Z"
+    },
+    "resolved_answer": "物聯網於健康照護之應用"
   },
   {
     "id": "a96d4925116e61c0145dddbab921ad21972bc6507a38b85a2f70f10d713014fb",
@@ -299,13 +383,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "電腦輔助設計，縮短醫材開發時間",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:12:29.476Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.718Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "電腦輔助設計，縮短醫材開發時間",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.392Z"
+    },
+    "resolved_answer": "電腦輔助設計，縮短醫材開發時間"
   },
   {
     "id": "f492127652c108ce29a0643a623d69bd80b20efb1d7a0d2d3a1c22198865643d",
@@ -318,13 +423,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "即時分析",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:12:29.479Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.745Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊流通",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.394Z"
+    },
+    "resolved_answer": "資訊流通"
   },
   {
     "id": "894b67a326c8a6fa02d3a73b518271dc4d9d1d61fc96d4cceaf5a4ede4ec228a",
@@ -337,13 +463,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "病人可利用眼壓感測隱形眼鏡來改善近視",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:12:29.479Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.771Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "病人可利用眼壓感測隱形眼鏡來改善近視",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.394Z"
+    },
+    "resolved_answer": "病人可利用眼壓感測隱形眼鏡來改善近視"
   },
   {
     "id": "9fb08357b7acf1dfa4e960d65af3e8dfc19f33edcb7c1690fdefb29a4fe391e0",
@@ -355,13 +502,34 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "隱私及數據安全方面有保障",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T03:12:29.480Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.801Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "隱私及數據安全方面有保障",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.396Z"
+    },
+    "resolved_answer": "隱私及數據安全方面有保障"
   },
   {
     "id": "d0aba536d1388f2463c093bbc96fa2cba0a7f6d66e2484c02a0eb47f3a39354b",
@@ -374,12 +542,33 @@
     ],
     "type": "單選",
     "course": "應用於智慧醫療的醫療器材發展現況與展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "若有突發狀況發生，老年人僅能透過自行回報的方式將需求告知醫護人員",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:01:47.998Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.829Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "若有突發狀況發生，老年人僅能透過自行回報的方式將需求告知醫護人員",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_77.html",
+          "title": "「應用於智慧醫療的醫療器材發展現況與展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170437",
+          "title": "應用於智慧醫療的醫療器材發展現況與展望《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.397Z"
+    },
+    "resolved_answer": "若有突發狀況發生，老年人僅能透過自行回報的方式將需求告知醫護人員"
   }
 ]

@@ -8,16 +8,37 @@
     ],
     "type": "是非",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.407Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.170Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.244Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d393686a7c0ca6f8c229b27aad0e70fe678a16130af9c43e917b3a5c64e819fb",
@@ -28,16 +49,37 @@
     ],
     "type": "是非",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.409Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.191Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.246Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "45041c799e4170302f5aba9cf547e1db725b616af9a312d8ebaf7596a191cfb2",
@@ -50,16 +92,37 @@
     ],
     "type": "單選",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.410Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生物固碳",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.246Z"
+    },
+    "resolved_answer": "生物固碳"
   },
   {
     "id": "397e698a9a840a4f5cee3c987e93dea67fa925148ebb0b716e58091185d05d32",
@@ -72,16 +135,37 @@
     ],
     "type": "單選",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.411Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.232Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.246Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "5183ce5700fd64ef4009ffbe9be342eddd8f99eab06fcb8d1f0dc005984ee9ab",
@@ -92,16 +176,37 @@
     ],
     "type": "是非",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.415Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.254Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.250Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9a8c848e5ec9c6ea645a1fd5c7dc48e3471662e5af56a0d0a67b8660f30cfee3",
@@ -114,16 +219,37 @@
     ],
     "type": "單選",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.416Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.277Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.250Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "8c2ef27eab665f3c60a014973ec9f6e595e401ce89f75f82176468277f6d0fa8",
@@ -134,16 +260,37 @@
     ],
     "type": "是非",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.418Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.302Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.253Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0df95393eaeb71659617795f069f537d63ee1c12ea5f9c8aedcb6b3b01bad885",
@@ -154,16 +301,37 @@
     ],
     "type": "是非",
     "course": "台灣2050淨零碳排路徑及負碳技術簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T11:15:53.419Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T14:19:51.959Z"
+    "retry_after": "2026-10-20T14:19:51.959Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:33.326Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050ee.html",
+          "title": "「台灣2050淨零碳排路徑及負碳技術簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187893",
+          "title": "台灣2050淨零碳排路徑及負碳技術簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:30:59.253Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "1e58cf04ca9b060bcee889259b8f25143565f79939a111a768903363f0c57573",

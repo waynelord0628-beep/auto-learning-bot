@@ -140,13 +140,34 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(1) 35%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.321Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.450Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(2) 40%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742873",
+          "title": "以人為本、農為源落實現代農業永續發展發揮國家暖實力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:15.335Z"
+    },
+    "resolved_answer": "(2) 40%"
   },
   {
     "id": "8d46df95407b29e8ca7becf12a89a6944e86382f74f3085333f0958406c6e12d",
@@ -178,16 +199,37 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.329Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-13T05:19:47.010Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.478Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)17項。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742873",
+          "title": "以人為本、農為源落實現代農業永續發展發揮國家暖實力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:15.335Z"
+    },
+    "resolved_answer": "(4)17項。"
   },
   {
     "id": "111d882b7c92c0dd1096ff903f09330122a203a9036ca1a7fc74def573f48cd9",
@@ -200,13 +242,34 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4) 以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.503Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4) 以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742873",
+          "title": "以人為本、農為源落實現代農業永續發展發揮國家暖實力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:15.335Z"
+    },
+    "resolved_answer": "(4) 以上皆是。"
   },
   {
     "id": "470360c43971df3b6d0b6b2ca5a2648bf6a49a9ea0f36c42fc5d2e640ffc2c67",
@@ -219,16 +282,37 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.334Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-13T05:19:47.010Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.533Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742873",
+          "title": "以人為本、農為源落實現代農業永續發展發揮國家暖實力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:15.335Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "0ecf70719aff7da59f1864dd792f7d202326aefe3d05360d42b1831805a09880",
@@ -241,14 +325,35 @@
     ],
     "type": "單選",
     "course": "以人為本、農為源落實現代農業永續發展發揮國家暖實力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.337Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-09T17:19:40.794Z"
+    "retry_after": "2026-10-09T17:19:40.794Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:39.570Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_78.html",
+          "title": "「以人為本、農為源落實現代農業永續發展發揮國家暖實力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742873",
+          "title": "以人為本、農為源落實現代農業永續發展發揮國家暖實力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:15.335Z"
+    },
+    "resolved_answer": "(4)以上皆是"
   }
 ]

@@ -82,13 +82,34 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(3)雷達技術",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.009Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.810Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(2)近紅外光感知技術",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.135Z"
+    },
+    "resolved_answer": "(2)近紅外光感知技術"
   },
   {
     "id": "8c92c4e935fb150271f87e7b6cd5a31a82bade3debfac08baf3a5b44d1a4479a",
@@ -101,15 +122,36 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.009Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:40.756Z"
+    "retry_after": "2026-09-25T19:19:40.756Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.835Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.135Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "2d8ddbfc47bc5dee8e96447d0747cc698ba7ec976188093f7ff728aa36679e0c",
@@ -122,15 +164,36 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.010Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:40.756Z"
+    "retry_after": "2026-09-25T19:19:40.756Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.855Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.135Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "c7e9398b976315fbe462bfb560d879be631821066b81e10784418bd5dfcc31b9",
@@ -143,15 +206,36 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.010Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:40.756Z"
+    "retry_after": "2026-09-25T19:19:40.756Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.880Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.135Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "05ba190ab45509396c1a082eef9030457c3500fa6caae8218cc8a8dc5097c2e6",
@@ -164,13 +248,34 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(2)手術安全查核",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.012Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.907Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(2)手術安全查核",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.136Z"
+    },
+    "resolved_answer": "(2)手術安全查核"
   },
   {
     "id": "1fcabba12589be4ad2477cfeaa57963b15f8d66f0113bce158039bbeee9d20eb",
@@ -183,15 +288,36 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.012Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:40.756Z"
+    "retry_after": "2026-09-25T19:19:40.756Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.939Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.136Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "15b2f111f7d368135aa262a052825af99461b12431b3f7fc10c1db71940c36b4",
@@ -204,15 +330,36 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.013Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-25T19:19:40.756Z"
+    "retry_after": "2026-09-25T19:19:40.756Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.966Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.136Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "2cd6c5ababda1f058ad0d4b0f1500469add7b800cc3128e11648bcc54af908f7",
@@ -225,12 +372,33 @@
     ],
     "type": "單選",
     "course": "AIoT助力醫療與照護的數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(3)Covid-19",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T08:06:17.014Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.996Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)Covid-19",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiotee.html",
+          "title": "「AIoT助力醫療與照護的數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337704425",
+          "title": "AIoT助力醫療與照護的數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:03.136Z"
+    },
+    "resolved_answer": "(3)Covid-19"
   }
 ]

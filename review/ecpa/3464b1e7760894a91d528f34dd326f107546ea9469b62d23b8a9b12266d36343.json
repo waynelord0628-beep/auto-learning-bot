@@ -81,13 +81,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位治理團隊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.691Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.140Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位治理團隊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.510Z"
+    },
+    "resolved_answer": "數位治理團隊"
   },
   {
     "id": "f22ab1d561699ffd92355383ce4b6d02d7a2266a73129eb28661fddba1b7db44",
@@ -99,13 +120,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "納入年度績效考核項目",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.692Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.163Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "納入年度績效考核項目",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.510Z"
+    },
+    "resolved_answer": "納入年度績效考核項目"
   },
   {
     "id": "c493b67a0838adac3bd0e1ed47ead4056b6daf7d276c7e812d6bcd2b6bf08cc1",
@@ -118,13 +160,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.693Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.186Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.511Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "398a18f8ab5fc0f1c045ec542cf83ea09371c3e3b0747b254e904af53315c3dc",
@@ -137,13 +200,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.694Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.215Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.511Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "79314fb9b6f613d1a1ac36d35bb738647ae937b007c85dfc6a0a040ea5e92986",
@@ -156,13 +240,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位素養",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.694Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.243Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位素養",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.511Z"
+    },
+    "resolved_answer": "數位素養"
   },
   {
     "id": "4a08f1704d5dd359da4bbc39289a7a3a26de8740b8b6aef6fa39843187b01cb9",
@@ -175,13 +280,34 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.695Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.272Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數據賦能",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.512Z"
+    },
+    "resolved_answer": "數據賦能"
   },
   {
     "id": "1fee6243da9a910612dc88bf4101b5d5c5a8b349392145703fa6929123a3252f",
@@ -192,13 +318,34 @@
     ],
     "type": "是非",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.695Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.300Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.512Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "60cda2421cb9e88197ebdb8d30989149e34a86b2304b0b28532de66eeb2feb5a",
@@ -211,12 +358,33 @@
     ],
     "type": "單選",
     "course": "美律數位賦能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位賦能",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T03:36:19.696Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.325Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "策略驅動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_760.html",
+          "title": "「美律數位賦能」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137189",
+          "title": "美律數位賦能《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.512Z"
+    },
+    "resolved_answer": "策略驅動"
   }
 ]

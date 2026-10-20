@@ -110,16 +110,45 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.516Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T07:19:40.075Z"
+    "retry_after": "2026-10-19T07:19:40.075Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.675Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "全球各國製造的環境汙染不同，但受氣候變遷影響的程度相同",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/odaee_6.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742309",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.496Z"
+    },
+    "resolved_answer": "全球各國製造的環境汙染不同，但受氣候變遷影響的程度相同"
   },
   {
     "id": "3ac2085a4c1b8ffd4f0fae5346541af8165b2b121db3d52974ec00c9ddaedf75",
@@ -154,14 +183,43 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.519Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.708Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "增加政府投入、主導氣候行動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/odaee_6.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742309",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.500Z"
+    },
+    "resolved_answer": "增加政府投入、主導氣候行動"
   },
   {
     "id": "f077bc85b4c9909bfd73ebd5e0d6cc5c65e84542b7ba08a8265d071ce365603a",
@@ -174,14 +232,43 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.521Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.734Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "中南美洲各國環境氣候調適資金取得容易，可挹注氣候調適所需造成顯著影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/odaee_6.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742309",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.500Z"
+    },
+    "resolved_answer": "中南美洲各國環境氣候調適資金取得容易，可挹注氣候調適所需造成顯著影響"
   },
   {
     "id": "f123804bf81122dba08c02b26cea92a60fde8d93d16b157a88646358b968fab0",
@@ -194,14 +281,43 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.522Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.754Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "因應氣候變遷及早談判移居處所",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/odaee_6.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742309",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.500Z"
+    },
+    "resolved_answer": "因應氣候變遷及早談判移居處所"
   },
   {
     "id": "29b1d4956752057e949fda7241049670756e09a2562a01a98479408c376d17ce",
@@ -214,14 +330,43 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.551Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.782Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆對",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/odaee_6.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742309",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.501Z"
+    },
+    "resolved_answer": "以上皆對"
   },
   {
     "id": "64910bbe2eb9b5d89d6436c7246d5c12d74a41d584bfe859e0ec219a86964eae",
@@ -234,13 +379,34 @@
     ],
     "type": "單選",
     "course": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T13:58:29.553Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.803Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "巴黎協定要求締約方一起努力將全球升溫控制在1.5至2 °C以內",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/odaee.html",
+          "title": "「我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169065",
+          "title": "我國政府開發援助(ODA)協助全球面臨氣候變遷下之永續挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.501Z"
+    },
+    "resolved_answer": "巴黎協定要求締約方一起努力將全球升溫控制在1.5至2 °C以內"
   }
 ]

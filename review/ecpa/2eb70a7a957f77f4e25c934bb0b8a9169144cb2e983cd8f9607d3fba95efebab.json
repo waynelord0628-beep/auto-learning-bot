@@ -105,13 +105,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對使用者零影響，對端點設備零影響",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.898Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "對使用者零影響，對端點設備零影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.622Z"
+    },
+    "resolved_answer": "對使用者零影響，對端點設備零影響"
   },
   {
     "id": "44d0f2a94684ff772241bd01255768fdcfc7270043951b08143ff6d8b0560a85",
@@ -124,13 +145,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "軟體供應鏈攻擊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.926Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "軟體供應鏈攻擊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.623Z"
+    },
+    "resolved_answer": "軟體供應鏈攻擊"
   },
   {
     "id": "aae7670164676c47875579ae61ee64c40eec4bebad97a2ca5250b3942410bc19",
@@ -143,13 +185,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "分享資安經驗和威脅情資",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.768Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.955Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "分享資安經驗和威脅情資",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.624Z"
+    },
+    "resolved_answer": "分享資安經驗和威脅情資"
   },
   {
     "id": "cd77d7de69be34bdaf2ef3884e8d9fb8aaa86d48f5d67c08c6c84b87408fe17c",
@@ -162,13 +225,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提高供應商審查和監控",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.769Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.977Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提高供應商審查和監控",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.624Z"
+    },
+    "resolved_answer": "提高供應商審查和監控"
   },
   {
     "id": "9aa424100af08115c25333cf1386366c803805adcbde259e7b7aa008f9735f40",
@@ -181,13 +265,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.769Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.005Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.624Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "fea245c4334b7cfa451cd14d3070c7da9116ae6afef115be8bdf5fdff66cc2ab",
@@ -200,13 +305,34 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "晶圓設備資安標準",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.770Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.028Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "晶圓設備資安標準",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.624Z"
+    },
+    "resolved_answer": "晶圓設備資安標準"
   },
   {
     "id": "1347e9ea35feb36c115a0cf142b445ec64463cf742f69fd691a76fe836bb77f4",
@@ -219,12 +345,33 @@
     ],
     "type": "單選",
     "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提供專業訓練和證照補助",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:48:43.770Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.056Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "外包資安工作",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:55.624Z"
+    },
+    "resolved_answer": "外包資安工作"
   }
 ]

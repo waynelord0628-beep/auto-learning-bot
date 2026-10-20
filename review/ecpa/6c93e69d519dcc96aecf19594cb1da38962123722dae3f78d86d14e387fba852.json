@@ -81,15 +81,36 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.522Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-26T10:19:47.511Z"
+    "retry_after": "2026-09-26T10:19:47.511Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.423Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.523Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "9b22c6336c93caa751b740a9607c0792b54e5927a45be95ca8ed6f69ab9daf48",
@@ -102,15 +123,36 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.523Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-26T10:19:47.511Z"
+    "retry_after": "2026-09-26T10:19:47.511Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.448Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.523Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "c60e23cac6878959612568216827e03ef356b38d05183e6f496ec4b20e4570ef",
@@ -123,13 +165,34 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(2)效率與安全",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.523Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.474Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(2)效率與安全",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.523Z"
+    },
+    "resolved_answer": "(2)效率與安全"
   },
   {
     "id": "af15ddf727b93c6062f2207fc9db220e9b6b2c591497dedf2bb68fd6a4796524",
@@ -142,13 +205,34 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(1)人工智慧AI科技",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.500Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)人的智慧Human Intelligence。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.523Z"
+    },
+    "resolved_answer": "(3)人的智慧Human Intelligence。"
   },
   {
     "id": "00c8a32ecf987b50278978d042526222c4cfd626116f82ae8e95c19f52532df8",
@@ -162,15 +246,36 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(5)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.524Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-26T10:19:47.511Z"
+    "retry_after": "2026-09-26T10:19:47.511Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.527Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(5)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.524Z"
+    },
+    "resolved_answer": "(5)以上皆是。"
   },
   {
     "id": "41260dea84c5a44fc45274f935c7a7d5ba35e7eaefcd13b735d68b3da2ba465a",
@@ -183,15 +288,36 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(4)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.525Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-26T10:19:47.511Z"
+    "retry_after": "2026-09-26T10:19:47.511Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.557Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.525Z"
+    },
+    "resolved_answer": "(4)以上皆是。"
   },
   {
     "id": "0983b24e5a9132594cf652664bf678698379513858145c1030333764b091957c",
@@ -205,15 +331,36 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(5)以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.525Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-09-26T10:19:47.511Z"
+    "retry_after": "2026-09-26T10:19:47.511Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.584Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(1) 手機",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.525Z"
+    },
+    "resolved_answer": "(1) 手機"
   },
   {
     "id": "95263890107da083a695b3e9756716497024208135783fb158bab2ef3ce82233",
@@ -226,12 +373,33 @@
     ],
     "type": "單選",
     "course": "效率與安全兼具的智慧醫療新世代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(3) AI科技應用可先大量分析與篩選醫療影像，協助醫師及病理師精準篩選重要醫療影像",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T06:36:54.526Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.614Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3) AI科技應用可先大量分析與篩選醫療影像，協助醫師及病理師精準篩選重要醫療影像",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_96.html",
+          "title": "「效率與安全兼具的智慧醫療新世代」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734681",
+          "title": "效率與安全兼具的智慧醫療新世代《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.525Z"
+    },
+    "resolved_answer": "(3) AI科技應用可先大量分析與篩選醫療影像，協助醫師及病理師精準篩選重要醫療影像"
   }
 ]

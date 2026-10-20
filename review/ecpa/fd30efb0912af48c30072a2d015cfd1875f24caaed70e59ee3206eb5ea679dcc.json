@@ -10,14 +10,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.235Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.587Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Pokemon Go",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.314Z"
+    },
+    "resolved_answer": "Pokemon Go"
   },
   {
     "id": "b746465931d67db7837a7d0fcbfd193538b497e1ab8d981bd650580487f179ae",
@@ -30,14 +51,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.236Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.661Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位內容需求的快速增長",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.317Z"
+    },
+    "resolved_answer": "數位內容需求的快速增長"
   },
   {
     "id": "c0413bf9a0c0dd81c54d317886092c887d1483c54e4ac246f1f32d06c7c788d7",
@@ -70,14 +112,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.237Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.680Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.320Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d0521b46d3aa5587801959730d590ec04ed8b670aa912841350d00e2c5e7299c",
@@ -90,14 +153,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.237Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.701Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以企業資料訓練全新的大語言模型",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.321Z"
+    },
+    "resolved_answer": "以企業資料訓練全新的大語言模型"
   },
   {
     "id": "50e943ea73c6702662c488800fda064c63b08857728f809968bcd15e6a675cc7",
@@ -110,14 +194,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.238Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.721Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "多領域應用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.323Z"
+    },
+    "resolved_answer": "多領域應用"
   },
   {
     "id": "43fbb769505496fc37d00abc85582b8e998cdfcac2d1ec62e340d3f06623a52f",
@@ -130,14 +235,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.238Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.740Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在生成過程中手動指定(prompt)風格和主題",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.325Z"
+    },
+    "resolved_answer": "在生成過程中手動指定(prompt)風格和主題"
   },
   {
     "id": "6794dcb0abfeed7cddbe0cb922b5fe9d47ba5f6d065cc527e82b60c121af4f92",
@@ -150,14 +276,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.239Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.762Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生成與人類對話相似的內容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.327Z"
+    },
+    "resolved_answer": "生成與人類對話相似的內容"
   },
   {
     "id": "a06c5717b78da1a5042d58c32923d8a57f23e7cde7ccba35849db12adb051036",
@@ -170,14 +317,35 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.239Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.781Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "使得內容生成的門檻降低、效率明顯提升",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.328Z"
+    },
+    "resolved_answer": "使得內容生成的門檻降低、效率明顯提升"
   },
   {
     "id": "921a9cfcd8c049f52d7ffcc81911a69e8a748d570be4e51c4ae2c4e618e94bc7",
@@ -190,13 +358,34 @@
     ],
     "type": "單選",
     "course": "數位大躍進：生成式AI",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T18:29:46.239Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:32.804Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ChatGPT",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/aiee_23.html",
+          "title": "「數位大躍進：生成式AI」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346022513",
+          "title": "數位大躍進：生成式AI《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:29:56.329Z"
+    },
+    "resolved_answer": "ChatGPT"
   }
 ]

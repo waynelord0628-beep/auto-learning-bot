@@ -123,16 +123,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.643Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.391Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.072Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "44dcf3f965a5e416674e34e6ff5518f12aebb1d09d2281e31094f633da969101",
@@ -143,16 +164,37 @@
     ],
     "type": "是非",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.644Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.416Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.073Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d6090a9682e3eeabbb757cb3da91da8c8f504790982cfaf4b537b8d6f6f24f21",
@@ -163,16 +205,37 @@
     ],
     "type": "是非",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.644Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.449Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_727.html",
+          "title": "「自然碳匯之碳權效益面面觀(下)-森林碳匯轉碳權、機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679269",
+          "title": "自然碳匯之碳權效益面面觀(下)-森林碳匯轉碳權、機會與挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.073Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ffda5a800e9ed5ed27275b8a285b37e9d738d0c35f970cbc3209f65b64c0902a",
@@ -183,16 +246,37 @@
     ],
     "type": "是非",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.645Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.478Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_555.html",
+          "title": "「自然碳匯之碳權效益面面觀(中)-碳匯及碳權交易」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679249",
+          "title": "自然碳匯之碳權效益面面觀(中)-碳匯及碳權交易《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.073Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "bcda4f761b26add3a8cf337a87c97b7df23fcaf28f5c5cdd137d57597327bfb9",
@@ -203,16 +287,37 @@
     ],
     "type": "是非",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.645Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.509Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_727.html",
+          "title": "「自然碳匯之碳權效益面面觀(下)-森林碳匯轉碳權、機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679269",
+          "title": "自然碳匯之碳權效益面面觀(下)-森林碳匯轉碳權、機會與挑戰《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.073Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "193a0c82681e9333771986dc482c381701b73bd522b2cfc7b7f45fcdca362a90",
@@ -245,15 +350,36 @@
     ],
     "type": "單選",
     "course": "自然碳匯之碳權效益面面觀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T09:57:52.646Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:41.540Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337679233",
+          "title": "自然碳匯之碳權效益面面觀(上)-基礎概念及個案介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:27.073Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

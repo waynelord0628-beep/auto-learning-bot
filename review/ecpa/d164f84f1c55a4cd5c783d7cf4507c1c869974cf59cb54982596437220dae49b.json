@@ -47,16 +47,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.079Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.920Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "制定並公開宣導零容忍職場霸凌政策",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.406Z"
+    },
+    "resolved_answer": "制定並公開宣導零容忍職場霸凌政策"
   },
   {
     "id": "e1a908657a663e2ec2ab944e427e28fe0830c25afeaabd0766da15c6ad27a287",
@@ -69,16 +90,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.080Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.946Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "合理的工作指示",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.406Z"
+    },
+    "resolved_answer": "合理的工作指示"
   },
   {
     "id": "c8ec7f65a2b205516c2bc068acefef1ee381897adabc6454137581ff4d691528",
@@ -91,16 +133,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.081Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.971Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "情緒健康受損及社會疏離",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.408Z"
+    },
+    "resolved_answer": "情緒健康受損及社會疏離"
   },
   {
     "id": "dd3ee84e585907a7beafbfbf6ce0925b8c63ac5e693b506117aac07c0aef753b",
@@ -113,16 +176,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.081Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:34.996Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "持續性且由權力濫用引起的身心傷害",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.410Z"
+    },
+    "resolved_answer": "持續性且由權力濫用引起的身心傷害"
   },
   {
     "id": "71264a2b37eac03887e81bcbb27ecce8d622dfed1e1d9a1f47b804452bfce9a3",
@@ -135,16 +219,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.082Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.023Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錄音公開會議中遭受言語霸凌",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.410Z"
+    },
+    "resolved_answer": "錄音公開會議中遭受言語霸凌"
   },
   {
     "id": "f27d7d34eada1ae4326cd9c296fbefa9e80bf57c11d756a9180905103b10e8a7",
@@ -157,16 +262,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.083Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.050Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行為結束後五年內",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.411Z"
+    },
+    "resolved_answer": "行為結束後五年內"
   },
   {
     "id": "904b0318e2bd6efcd68fbf4ca7bfeef5648d6c3486eefc0ffe23bc0bb965ca16",
@@ -201,16 +327,37 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.085Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.080Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "採取預防措施及建立處理程序",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.411Z"
+    },
+    "resolved_answer": "採取預防措施及建立處理程序"
   },
   {
     "id": "86dc09451af9a7a6e555e4eb65c26ca810cd98bb614b165c234ea5c6bae91952",
@@ -223,15 +370,36 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.085Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.101Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "制定反霸凌規範並設立申訴機制",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347735909",
+          "title": "職場霸凌案例及處理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:35.411Z"
+    },
+    "resolved_answer": "制定反霸凌規範並設立申訴機制"
   }
 ]

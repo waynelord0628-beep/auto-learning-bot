@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.860Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T08:19:42.775Z"
+    "retry_after": "2026-10-18T08:19:42.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.395Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.472Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "2921e30faeb5c6c7dbcd274052c8e05ecd60a5c33c10ea0d26b148c5f2de4a23",
@@ -30,16 +51,37 @@
     ],
     "type": "是非",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.879Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T08:19:42.775Z"
+    "retry_after": "2026-10-18T08:19:42.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.420Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.472Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c06df9285fdad0f67edff6fdb0790f4501a453cc9782fa6712593fe1e82177d8",
@@ -50,16 +92,37 @@
     ],
     "type": "是非",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.880Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T08:19:42.775Z"
+    "retry_after": "2026-10-18T08:19:42.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.449Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d72f069962b7ad99bd566941aa6564e964021deafe09f4d70f279aa2a30205c0",
@@ -72,16 +135,37 @@
     ],
     "type": "單選",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.884Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T08:19:42.775Z"
+    "retry_after": "2026-10-18T08:19:42.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.476Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ce75321a52a0e6472b33c6ba1f1963b260721b794867179164ee8b978c0e0684",
@@ -94,16 +178,37 @@
     ],
     "type": "單選",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.887Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T08:19:42.775Z"
+    "retry_after": "2026-10-18T08:19:42.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.503Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "c9c305042210990b690daaa3d4b210c9bae266e4833f35223f15e4f1c1824491",
@@ -114,16 +219,37 @@
     ],
     "type": "是非",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.897Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-14T13:19:43.361Z"
+    "retry_after": "2026-10-14T13:19:43.361Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.531Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d7654a9b0dcecea671347a004ca8503dfd44eb3ecec7fb583596dad484868d48",
@@ -136,16 +262,37 @@
     ],
     "type": "單選",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.907Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-14T13:19:43.361Z"
+    "retry_after": "2026-10-14T13:19:43.361Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.556Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "持續在土壤中添加有機資材以維持有機碳含量水準",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_212.html",
+          "title": "「台灣的土壤碳匯發展機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "持續在土壤中添加有機資材以維持有機碳含量水準"
   },
   {
     "id": "d1d812835c8949c58bcc35e2b4275eced7ef6fcb414648efb1e00b2eb52202bf",
@@ -156,15 +303,32 @@
     ],
     "type": "是非",
     "course": "台灣的土壤碳匯發展機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T07:45:01.918Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-14T13:19:43.361Z"
+    "retry_after": "2026-10-14T13:19:43.361Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:35.584Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187901",
+          "title": "台灣的土壤碳匯發展機會與策略建議《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:51.474Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

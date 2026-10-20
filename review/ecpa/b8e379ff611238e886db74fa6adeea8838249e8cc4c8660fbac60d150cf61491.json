@@ -298,15 +298,36 @@
     ],
     "type": "單選",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "從創新到外包",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:54:43.264Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-24T11:19:38.469Z"
+    "retry_after": "2026-09-24T11:19:38.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:36.980Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "從創新到外包",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.552Z"
+    },
+    "resolved_answer": "從創新到外包"
   },
   {
     "id": "c8f525cddb905499249d23e90556d18254adf94d358356021feb6dc61322b60f",
@@ -317,13 +338,34 @@
     ],
     "type": "是非",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:54:43.265Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.015Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.552Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8cb69c74396023cf0f3b13f94bfc70235cb8d82631776b86c50e0456d7d452ff",
@@ -336,15 +378,36 @@
     ],
     "type": "單選",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人力培訓脫離不了智慧資本（intellectual capital）的理念。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:30.615Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-24T11:19:38.469Z"
+    "retry_after": "2026-09-24T11:19:38.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.044Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊人力應與資訊服務相關的業務承辦人員，各自進行作業流程的重新設計，更有效率地提供良好的使用者體驗。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.553Z"
+    },
+    "resolved_answer": "資訊人力應與資訊服務相關的業務承辦人員，各自進行作業流程的重新設計，更有效率地提供良好的使用者體驗。"
   },
   {
     "id": "29635964cdb2c0d126d9801407d16380e79feabf6e514bc7d179d6e1bb880eb1",
@@ -357,15 +420,36 @@
     ],
     "type": "單選",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "領導面向─成熟期階段，沒關注也無知能。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:30.660Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-09-24T11:19:38.469Z"
+    "retry_after": "2026-09-24T11:19:38.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.067Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "領導面向─成熟期階段，沒關注也無知能。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.553Z"
+    },
+    "resolved_answer": "領導面向─成熟期階段，沒關注也無知能。"
   },
   {
     "id": "f262907a0938b5a96175cfd6bccd179201b145c4c03448438aee068a023d526d",
@@ -378,13 +462,34 @@
     ],
     "type": "單選",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位服務：資料治理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:55.783Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.100Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位建設：資料治理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.554Z"
+    },
+    "resolved_answer": "數位建設：資料治理"
   },
   {
     "id": "fe06cf42384d5419750c6793353071d325948b237df72a973be2f5f486606a47",
@@ -395,13 +500,34 @@
     ],
     "type": "是非",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:55.814Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.122Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.554Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b36effb588c5cb74e4939467d99792b7d2d0b3e989d376640e660f5ced02bca2",
@@ -412,13 +538,34 @@
     ],
     "type": "是非",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:55.819Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.145Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.554Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "911d8c9ad38c29641752b559563f434eeecfb83e5d8aff59b96cd91587d8779f",
@@ -429,12 +576,33 @@
     ],
     "type": "是非",
     "course": "智慧政府與數位創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T06:55:55.824Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:32:37.168Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_310.html",
+          "title": "「智慧政府與數位創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15333250528",
+          "title": "智慧政府與數位創新《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:31:58.554Z"
+    },
+    "resolved_answer": "正確"
   }
 ]
