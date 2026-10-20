@@ -1044,7 +1044,7 @@ function ecpaCourseSourceAllowed(url) {
 function ecpaCoursePlain(s) {
   return ecpaSourceText(String(s).replace(/&(lt|gt);/gi,(_,n)=>n.toLowerCase()==='lt'?'&#60;':'&#62;')
     .replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(Math.min(parseInt(n,16),1114111))))
-    .replace(/&apos;|&#39;/g,"'");
+    .replace(/&apos;|&#39;/g,"'").replace(/^&#(?:12295|x3007);?$/i,'〇');
 }
 function ecpaCourseQuestion(s) {
   return ecpaText(String(s).replace(/^[\d０-９]+[.．、。）)\s]+/,''));
@@ -1134,6 +1134,18 @@ function ecpaReadCourseAnswers(url) {
   const parsed=page?{url:page.url,title:ecpaCoursePlain((page.html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)||[])[1]||''),rows:ecpaCoursePageRows(page.html,page.url)}:null;
   ecpaCourseMemo.pages.set(url,parsed);return parsed;
 }
+function ecpaCourseMatchedAnswer(options,answers,expected) {
+  if(answers.length!==1 || options.length!==expected.length)return null;
+  // Strip displayed numbering only when the complete source list is sequential.
+  const numbered=options.every((o,i)=>new RegExp('^\\('+(i+1)+'\\)\\s+').test(o));
+  const plain=o=>numbered?o.replace(/^\(\d+\)\s+/,''):o;
+  const key=o=>ecpaText(o).replace(/。$/,'').replace(/(?<=\p{Script=Han})\s+(?=\p{Script=Han})/gu,'');
+  const source=options.map(o=>key(plain(o))),target=expected.map(key);
+  if(new Set(source).size!==source.length || new Set(target).size!==target.length)return null;
+  if(JSON.stringify(source.slice().sort())!==JSON.stringify(target.slice().sort()))return null;
+  const answer=key(plain(answers[0]));
+  return source.includes(answer)?expected[target.indexOf(answer)]:null;
+}
 function ecpaVerifyCourseAnswer(q,lookupOnly) {
   const courseKey=ecpaCourseKey(q.course),cacheKey=typeof CacheService!=='undefined'?'ecpa_course_urls_'+ecpaHash(courseKey):'';
   if(typeof CacheService!=='undefined'&&!ecpaCourseMemo.searched.has(courseKey)) {
@@ -1150,11 +1162,11 @@ function ecpaVerifyCourseAnswer(q,lookupOnly) {
     if(!course || !ecpaCourseTitleMatches(title,q.course))return;
     for(const item of page.rows) {
       if(item.question!==ecpaCourseQuestion(q.question))continue;
-      const convert=o=>q.type==='是非' ? ({'O':'正確','○':'正確','是':'正確','對':'正確','X':'錯誤','╳':'錯誤','否':'錯誤','錯':'錯誤'}[o]||o):o;
+      const convert=o=>q.type==='是非' ? ({'O':'正確','○':'正確','〇':'正確','是':'正確','對':'正確','X':'錯誤','╳':'錯誤','否':'錯誤','錯':'錯誤'}[o]||o):o;
       const options=item.options.map(convert),answers=item.answers.map(convert),expected=ecpaReviewOptions(q);
-      if(new Set(options).size!==options.length || JSON.stringify(options.slice().sort())!==JSON.stringify(expected.slice().sort()))continue;
-      if(answers.length!==1 || !expected.includes(answers[0]))continue;
-      found.push({answer:answers[0],url:page.url,title});
+      const answer=ecpaCourseMatchedAnswer(options,answers,expected);
+      if(answer===null)continue;
+      found.push({answer,url:page.url,title});
     }
   };
   urls.forEach(inspect);

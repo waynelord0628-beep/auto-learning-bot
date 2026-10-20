@@ -52,4 +52,15 @@ vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx)
 ctx.ecpaFetchCoursePage=url=>({url,html:rodi.replace('Question?','Question?').replace('✓','&#10003').replace('<table>','<title>台灣公約《解答》</title><table>')});
 ctx.ecpaCourseSourceUrls=()=>['https://www.rodiyer.idv.tw/marker'];
 assert.equal(ctx.ecpaVerifyCourseAnswer({...q,course:'臺灣公約'},true).answer,'B');
+
+assert.equal(ctx.ecpaCoursePlain('&#12295'),'〇');
+assert.equal(ctx.ecpaCoursePlain('&#12295x'),'&#12295x');
+assert.equal(ctx.ecpaCourseMatchedAnswer(['(1) 環保','(2) 以上皆是。'],['(2) 以上皆是。'],['以上皆是','環保']),'以上皆是');
+assert.equal(ctx.ecpaCourseMatchedAnswer(['機關、民間 企業','民眾'],['機關、民間 企業'],['民眾','機關、民間企業']),'機關、民間企業');
+assert.equal(ctx.ecpaCourseMatchedAnswer(['(1) 環保','(3) 以上皆是'],['(3) 以上皆是'],['以上皆是','環保']),null);
+assert.equal(ctx.ecpaCourseMatchedAnswer(['3.14','3.1'],['3.14'],['3.1','314']),null);
+assert.equal(ctx.ecpaCourseMatchedAnswer(['是','否'],['是'],['不是','否']),null);
+assert.equal(ctx.ecpaCourseMatchedAnswer(['A B','AB'],['A B'],['AB','AB']),null);
+assert.equal(ctx.ecpaCourseMatchedAnswer(['甲','甲。'],['甲'],['甲','甲。']),null);
+assert.equal(ctx.ecpaCourseMatchedAnswer(['甲','乙'],['甲','乙'],['甲','乙']),null);
 console.log('PASS: exact source formats, one parse per course page, all course questions, retry-backoff reuse, no paid bulk calls, conflicts and redirect restrictions');
