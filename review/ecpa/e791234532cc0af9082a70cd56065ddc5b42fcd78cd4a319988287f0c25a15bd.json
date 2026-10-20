@@ -52,17 +52,30 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:05:14.720Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-10T05:20:02.491Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:06:24.949Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010048",
+          "quote": "未成年人、受監護或輔助宣告之人，表達意願或陳述意見時，必要者，法院應通知直轄市、縣（市）主管機關指派社會工作人員或其他適當人員陪同在場，並得陳述意見。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:05:50.068Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8d593751dc3223cc99874bf14ca330f27b1f09fb933ae21da6ddb271dbdbc39e",
@@ -255,13 +268,30 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:31.817Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:06:25.024Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/lp-1303-1-12-20.html",
+          "quote": "監護宣告要向應受監護宣告人住所地或居所地的法院聲請。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:05:57.941Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "93304bb04463840f9192707c755d1700766754f5e78f5adf50a4bc993ee79881",
@@ -312,13 +342,30 @@
     ],
     "type": "單選",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "經法院許可",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:31.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:06:25.047Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "經法院許可",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-107-58173-364a9-1.html",
+          "quote": "監護人不可拿受監護宣告人的財產去投資股票、基金等；如果要處分受監護宣告人的不動產，要另外向法院聲請許可。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:05:57.941Z"
+    },
+    "resolved_answer": "經法院許可"
   },
   {
     "id": "f4127751b2df6b80ed3a26bc82c765b48c1f28a4d7e8c1943f410eefc81d3be3",
@@ -331,13 +378,30 @@
     ],
     "type": "單選",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "意定監護契約需要經過公證",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:31.819Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:06:25.068Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "法院不得依職權判斷意定監護受任人是否有不利本人或顯不適任之狀況",
+      "sources": [
+        {
+          "url": "https://www.moj.gov.tw/2204/2795/2796/58710/post",
+          "quote": "但有事實足認意定監護受任人不利於本人，或有顯不適任之情事，法院得依職權選定監護人，不受意定監護契約之限制。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:05:57.941Z"
+    },
+    "resolved_answer": "法院不得依職權判斷意定監護受任人是否有不利本人或顯不適任之狀況"
   },
   {
     "id": "c1d0e05d61433cb25801dca2015d6144c3aea634640b94d8bac9708a0f04e4d2",
@@ -511,13 +575,30 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:10.428Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:06:25.091Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%AE%B6%E4%BA%8B&pcode=B0010048",
+          "quote": "第 166 條 聲請人為監護宣告之聲請時，宜提出診斷書。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:06:04.003Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a22d33497813c1bce27226d6989f0289c891c5f7bee481455913173214c855d3",
