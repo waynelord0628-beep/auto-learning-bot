@@ -2186,8 +2186,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-10-20T12:31:03.430Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.412Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5609,
@@ -2198,8 +2199,9 @@
     "opt1": "2. 兩性平等教育法草案。",
     "opt2": "3. 兩性工作平等法草案。",
     "opt3": "4. 學校成立性侵犯及性騷擾處理委員會。",
-    "updated_at": "2026-10-20T12:31:03.431Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.413Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5609,
@@ -2210,8 +2212,9 @@
     "opt1": "2. 法官。",
     "opt2": "3. 旁觀者。",
     "opt3": "4. 受騷擾者。",
-    "updated_at": "2026-10-20T12:31:03.430Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.413Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5609,
@@ -2222,8 +2225,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-10-20T12:31:03.431Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.412Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5609,
@@ -2234,8 +2238,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-10-20T12:31:03.430Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.413Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5609,
@@ -2246,8 +2251,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-10-20T12:31:03.430Z",
-    "verification_status": "platform_confirmed"
+    "updated_at": "2026-10-20T13:12:02.413Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": "5025",
@@ -9706,5 +9712,57 @@
     "opt2": "",
     "opt3": "",
     "updated_at": "2026-10-06T22:36:29.003Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5609,
+    "q_key": "哪些合乎性交犯罪行為？",
+    "q_text": "哪些合乎性交犯罪行為？",
+    "val": "[\"0\",\"1\",\"2\",\"3\"]",
+    "opt0": "1. 用其他物品進入別人的性器官。",
+    "opt1": "2. 自己的性器官進入別人的性器官。",
+    "opt2": "3. 自己的性器官放到別人的口腔。",
+    "opt3": "4. 自己的身體部位進入別人的性器官。",
+    "updated_at": "2026-10-20T13:12:02.412Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5609,
+    "q_key": "性別工作平等法內容涵蓋哪些？",
+    "q_text": "性別工作平等法內容涵蓋哪些？",
+    "val": "[\"0\",\"1\",\"2\"]",
+    "opt0": "1. 聘雇。",
+    "opt1": "2. 工作環境。",
+    "opt2": "3. 性騷擾。",
+    "opt3": "4. 員工年齡。",
+    "updated_at": "2026-10-20T13:12:02.412Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5609,
+    "q_key": "臺北市政府目前修訂了哪些新的做法？",
+    "q_text": "臺北市政府目前修訂了哪些新的做法？",
+    "val": "[\"0\",\"1\",\"2\",\"3\"]",
+    "opt0": "1. 與民間團體合作成立申訴專線，透過專線單一窗口直接申訴。",
+    "opt1": "2. 申訴處理委員會的組成 委員至少要有三分之二 為外部的專家學者，成立調查小組成員不得為機關人員，而且也要三分之二以上是外部的專家學者。",
+    "opt2": "3. 提高嚴懲的標準，視情節，核予記過以上的處分，以及考績考績丙等。",
+    "opt3": "4. 請各局處首長了解我們相關申訴的程序，並且持續的安排相關的課程。",
+    "updated_at": "2026-10-20T13:12:02.413Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5609,
+    "q_key": "哪些關係可能會形成無法拒絕的權勢性交？",
+    "q_text": "哪些關係可能會形成無法拒絕的權勢性交？",
+    "val": "[\"0\",\"1\",\"2\",\"3\"]",
+    "opt0": "1. 監護關係。",
+    "opt1": "2. 救濟關係。",
+    "opt2": "3. 醫療關係。",
+    "opt3": "4. 親屬。",
+    "updated_at": "2026-10-20T13:12:02.413Z"
   }
 ]
