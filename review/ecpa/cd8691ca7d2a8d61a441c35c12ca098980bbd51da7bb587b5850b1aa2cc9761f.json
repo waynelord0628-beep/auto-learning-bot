@@ -180,7 +180,11 @@
     "candidate_answer": "化學品價格。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.675Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.977Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cb703296a00cba8008cc1524cb74105caf0c754b146b253a95c7ad263e255241",

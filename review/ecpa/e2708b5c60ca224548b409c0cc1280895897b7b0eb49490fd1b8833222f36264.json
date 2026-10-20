@@ -127,16 +127,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.539Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.769Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "智慧財產局核准商標登記，附註「商標自註冊公告當日起，其專用期間為十年」，此屬「附期限」之處分。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.902Z"
+    },
+    "resolved_answer": "智慧財產局核准商標登記，附註「商標自註冊公告當日起，其專用期間為十年」，此屬「附期限」之處分。"
   },
   {
     "id": "1e937a7e32fd0664228b2b92902421edfe9fda7e607875d59fa332fe3008b507",
@@ -149,16 +166,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.540Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.583Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "發現處分作成前未及調查之「新證據」。但如經斟酌，非屬可受較有利益處分之變更者。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.856Z"
+    },
+    "resolved_answer": "發現處分作成前未及調查之「新證據」。但如經斟酌，非屬可受較有利益處分之變更者。"
   },
   {
     "id": "20930205f77dea722e81325837aab1595826ff9afe665bc72cdc3be351de3ba4",
@@ -171,16 +205,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.540Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.600Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "有效。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.862Z"
+    },
+    "resolved_answer": "有效。"
   },
   {
     "id": "4a42be48ac482cfc8d4f934a13fc35aee224cf0f61124f5b24bb95bba96b7961",
@@ -193,16 +244,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.541Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自行政機關知悉有撤銷原因時起 2 年以內。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.873Z"
+    },
+    "resolved_answer": "自行政機關知悉有撤銷原因時起 2 年以內。"
   },
   {
     "id": "4f181ec73d5ca9bbcd31a4f675d0ba858b3090bd6d33c44349218de7e98d4560",
@@ -215,16 +283,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.541Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.667Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一般處分。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.880Z"
+    },
+    "resolved_answer": "一般處分。"
   },
   {
     "id": "839ed6c8c2ada70772ac8aa0e2d84452bc620490b360161719789e2b9ddf3692",
@@ -237,16 +322,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.542Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.729Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "比例原則。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.893Z"
+    },
+    "resolved_answer": "比例原則。"
   },
   {
     "id": "82acbe89fea836c071995f957a556f75bf3c73a511dea812be202b0ad1a8841a",
@@ -259,16 +361,33 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:55:25.542Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T13:19:38.659Z"
+    "retry_after": "2026-10-19T13:19:38.659Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.712Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "撤銷原處分。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.889Z"
+    },
+    "resolved_answer": "撤銷原處分。"
   },
   {
     "id": "7446b8f7f4076a11e550737baa232145bf5950dfc8b21ed639b40f9e8ced7f59",
@@ -281,14 +400,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:01.769Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.695Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "乙君向主管機關主張送達不合法，為有理由。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.887Z"
+    },
+    "resolved_answer": "乙君向主管機關主張送達不合法，為有理由。"
   },
   {
     "id": "e0680f420cfa9b037ed431d4bcc2293905782de54cf250fc9ed82cedf446d916",
@@ -301,14 +437,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:01.770Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.824Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公告日起。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.916Z"
+    },
+    "resolved_answer": "公告日起。"
   },
   {
     "id": "c88b844114bf65997eafaff1569c03207c16bae148b666318785e087a70c4ca7",
@@ -321,14 +474,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:01.770Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.789Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "歸化處分具執行力。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.910Z"
+    },
+    "resolved_answer": "歸化處分具執行力。"
   },
   {
     "id": "3fbe4e997c42d0095cd16070b22acd0a93ceafe83ca62ca08a0881fc1e7013a1",
@@ -341,14 +511,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:01.770Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.713Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "日後對甲君開徵稅單之公示送達，自公告之日起 60 日發生效力。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:59:56.029Z"
+    },
+    "resolved_answer": "日後對甲君開徵稅單之公示送達，自公告之日起 60 日發生效力。"
   },
   {
     "id": "dc20d53b5f912167dc9fa14be0fd877ec807660350729f879edcb508cdade263",
@@ -361,14 +548,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:33.182Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.804Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以該公司之代表人之住居所為送達。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.913Z"
+    },
+    "resolved_answer": "以該公司之代表人之住居所為送達。"
   },
   {
     "id": "0f4e671fbf07632c45e2aff3e13024f77f2e904e174ad20670008326eb51e492",
@@ -381,14 +585,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T07:56:33.182Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.566Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "縣政府因風災受創，災後為添購辦公桌椅，與傢俱業者成立之買賣契約；復為租用辦公廳舍，與出租人成立之租賃契約。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.849Z"
+    },
+    "resolved_answer": "縣政府因風災受創，災後為添購辦公桌椅，與傢俱業者成立之買賣契約；復為租用辦公廳舍，與出租人成立之租賃契約。"
   },
   {
     "id": "eb241522db7808bd5ce9bd4c5515e707adafd6e1e7dceb1897f81d6c2816bb5b",
@@ -401,14 +622,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T04:28:13.629Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.837Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政規則。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.919Z"
+    },
+    "resolved_answer": "行政規則。"
   },
   {
     "id": "5c42955a6876f85e797a8e870849c119f628725eba7972d52a1811de0c2a9751",
@@ -421,14 +659,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T04:28:13.634Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.680Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "乙君不服行政機關之決定者，得於 10 日內提請上級機關覆決。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.883Z"
+    },
+    "resolved_answer": "乙君不服行政機關之決定者，得於 10 日內提請上級機關覆決。"
   },
   {
     "id": "421d1163037c7443014b9fdae4ec92577f8aa860a7ffbd9ff4e10a3a848417a5",
@@ -441,14 +696,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T04:28:43.835Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.632Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "內政部依第 2 項規定訂定之「辦法」屬於具體授權之法規命令。內政部亦得轉委任，由所屬機關移民署訂定之。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.869Z"
+    },
+    "resolved_answer": "內政部依第 2 項規定訂定之「辦法」屬於具體授權之法規命令。內政部亦得轉委任，由所屬機關移民署訂定之。"
   },
   {
     "id": "97fc0064f607bb57edf613304885e92020258b952920b47f68c0d5767ecc546f",
@@ -461,14 +733,31 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T04:28:43.836Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.746Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "主管機關不得於通知書記載「未於期限內陳述意見，視為放棄陳述 之機會」。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.898Z"
+    },
+    "resolved_answer": "主管機關不得於通知書記載「未於期限內陳述意見，視為放棄陳述 之機會」。"
   },
   {
     "id": "2222d96f0246704c0745e410e5504ed422d89ce3f80d67b52be1025d0428e8f9",
@@ -481,13 +770,30 @@
     ],
     "type": "單選",
     "course": "行政程序法（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T04:29:13.677Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.617Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "外國人按國籍法申請歸化，主管機關所為之准駁。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_501.html",
+          "title": "「行政程序法（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.867Z"
+    },
+    "resolved_answer": "外國人按國籍法申請歸化，主管機關所為之准駁。"
   }
 ]

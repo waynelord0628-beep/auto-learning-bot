@@ -177,15 +177,32 @@
     ],
     "type": "單選",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.706Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-25T21:19:39.745Z"
+    "retry_after": "2026-09-25T21:19:39.745Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.741Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "符合經高溫滅菌罐製要件之產品：所用原料肉需來自我國主管機關權管之屠宰場，但不限定須為SFA核可屠宰場。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.506Z"
+    },
+    "resolved_answer": "符合經高溫滅菌罐製要件之產品：所用原料肉需來自我國主管機關權管之屠宰場，但不限定須為SFA核可屠宰場。"
   },
   {
     "id": "8453dd16be7b8e8ed026a6c2be64a6dd558c6516a5bafa8c318ae4afc65b7c16",
@@ -196,13 +213,30 @@
     ],
     "type": "是非",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.707Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.758Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.517Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "599e995b4a97b95eacfb58dbff8c2d2b5078ea4b495369f8faa4ed23510cb0ba",
@@ -213,13 +247,30 @@
     ],
     "type": "是非",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.708Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.629Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:56:47.009Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9db97505305cd7e21fb5437c6af718a1566dcabb8ee9472b649f0deaf0c5cd2a",
@@ -232,15 +283,32 @@
     ],
     "type": "單選",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.709Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-25T21:19:39.745Z"
+    "retry_after": "2026-09-25T21:19:39.745Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.780Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "現場作業人員未戴手套。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.522Z"
+    },
+    "resolved_answer": "現場作業人員未戴手套。"
   },
   {
     "id": "137c878e2a082d295ee4ced8df5be88c8890cbcea25d75f6e66fc06bc6737717",
@@ -251,12 +319,29 @@
     ],
     "type": "是非",
     "course": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T13:23:35.710Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.722Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347317105",
+          "title": "113年度「推動食品外銷暨國際管理研析計畫」衛生機關教育訓練(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.503Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

@@ -112,16 +112,33 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:48:57.964Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.122Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:06.501Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d290fd70d6279bab3ab522fa7c2ae8d7d9f8d61a4445d2cdd0e1f59f541e1fd2",
@@ -134,16 +151,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:48:57.965Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.476Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "浴室扶手",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.133Z"
+    },
+    "resolved_answer": "浴室扶手"
   },
   {
     "id": "85c4da2eaff6918404e1d63d2859a66fd73506b31d124d89460c8c872a8a86c3",
@@ -156,16 +190,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:48:57.966Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.454Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "該法目前只是草案尚未通過",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.128Z"
+    },
+    "resolved_answer": "該法目前只是草案尚未通過"
   },
   {
     "id": "56c511acd363420a18d9374d67f876f078e59bc739937f72636df6163421c835",
@@ -178,16 +229,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:49:34.088Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.403Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "身心障礙者同工不同酬",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.099Z"
+    },
+    "resolved_answer": "身心障礙者同工不同酬"
   },
   {
     "id": "5fe5bb2f82c84bc5119977bae8a1a73727b5aeb9215c1b90accb567d30c4d43a",
@@ -200,16 +268,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:49:34.090Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.437Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "犯罪豁免權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.112Z"
+    },
+    "resolved_answer": "犯罪豁免權"
   },
   {
     "id": "571aa5da4db621190340dfc470ffaa0d9aa040ff015f4f5ab5017c84324558dd",
@@ -222,16 +307,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:49:34.090Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.421Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "同工不同酬為間接歧視",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.105Z"
+    },
+    "resolved_answer": "同工不同酬為間接歧視"
   },
   {
     "id": "10a2ce0d0b1f2a55237290d32608e3e63010204acad51850dc70a2d29cfd7940",
@@ -244,15 +346,32 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利保障",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T08:49:34.093Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T15:19:42.364Z"
+    "retry_after": "2026-10-19T15:19:42.364Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.385Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫療模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_995.html",
+          "title": "「身心障礙者權利保障」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.094Z"
+    },
+    "resolved_answer": "醫療模式"
   }
 ]

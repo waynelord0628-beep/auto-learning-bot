@@ -10,16 +10,33 @@
     ],
     "type": "單選",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.357Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.512Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.129Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "9445cf6711d475ce218fe77864d1e8c35c5ce8abe9a93b834f9a305750882b3c",
@@ -30,16 +47,33 @@
     ],
     "type": "是非",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.358Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.463Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.117Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "41c68305bc5405a28037487c72d41987102c0966ea5067f4a98cc066c5907f16",
@@ -50,16 +84,33 @@
     ],
     "type": "是非",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.359Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.433Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.106Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e26ce592a4632e014db2e5c0e8d40b5e5e8f8c98cface9e7e31bd078bc53c8e7",
@@ -72,16 +123,33 @@
     ],
     "type": "單選",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.359Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.625Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:24.248Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4907d582c5d0d7f1752062092f381a32dec4d56c64fbde2f1e9cd6fbc2b9dad1",
@@ -94,16 +162,33 @@
     ],
     "type": "單選",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.359Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.449Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "物質流分析結果為一次性用途，並無法在製程改善後再進行改善成效分析",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.112Z"
+    },
+    "resolved_answer": "物質流分析結果為一次性用途，並無法在製程改善後再進行改善成效分析"
   },
   {
     "id": "e6f68890f0b9272ee7261128a04172ea7cc81c1677f51ba7a9251a96838c0562",
@@ -114,16 +199,33 @@
     ],
     "type": "是非",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.360Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.496Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.125Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "170855e34e42342ca5e2e8e54f6a896417a05f167221f33d2a03027a8dbda684",
@@ -134,16 +236,33 @@
     ],
     "type": "是非",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.360Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.403Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.097Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b5742c800a88cd8e4ae5c95bd72c4d200df0bc4c83e7919a8fbb1064feea62b3",
@@ -154,16 +273,33 @@
     ],
     "type": "是非",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.361Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.479Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.122Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "fd230be8d8feeb396c551fdb2446a825203b4da69e7040cae30deb9e235a906c",
@@ -198,15 +334,32 @@
     ],
     "type": "單選",
     "course": "循環經濟與物質流分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T04:19:38.361Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T11:19:40.789Z"
+    "retry_after": "2026-10-18T11:19:40.789Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.419Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "物質流成本會計目前尚未有一套明確且標準化的執行方法論",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_263.html",
+          "title": "「循環經濟與物質流分析」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.100Z"
+    },
+    "resolved_answer": "物質流成本會計目前尚未有一套明確且標準化的執行方法論"
   }
 ]

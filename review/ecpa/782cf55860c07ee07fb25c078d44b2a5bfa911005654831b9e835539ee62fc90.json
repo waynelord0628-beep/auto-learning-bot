@@ -118,13 +118,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "完整所有權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.652Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.047Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "完整所有權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.353Z"
+    },
+    "resolved_answer": "完整所有權"
   },
   {
     "id": "95ae54de60ab1536f00bdb4aeb99369afea7b76308b948584d34f0805534a5d6",
@@ -137,13 +154,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.653Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.075Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.375Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ed435a1d58170677d7419435a57df1ff96596c18e54421f1b30efa4d368d6be9",
@@ -156,13 +190,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "將1個備份副本存放在異地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.653Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.091Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "將1個備份副本存放在異地",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.380Z"
+    },
+    "resolved_answer": "將1個備份副本存放在異地"
   },
   {
     "id": "4375144c081438feb42bb78267ccb59d6a578bcdfd88b05b4c6c68b39710a96d",
@@ -175,13 +226,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "應建立完整的委外管理機制",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.654Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.060Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "應建立完整的委外管理機制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.367Z"
+    },
+    "resolved_answer": "應建立完整的委外管理機制"
   },
   {
     "id": "fe7ff318afef66bd1884118151618679cbc16bf0f37838e765a0b80f9299dfc4",
@@ -194,13 +262,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確保資料安全和可恢復性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.654Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.110Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確保資料安全和可恢復性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.384Z"
+    },
+    "resolved_answer": "確保資料安全和可恢復性"
   },
   {
     "id": "00f52b24f871d917302e3c7dc1ac8d2dfc179922305ce8fa0ae2b378b46b65e6",
@@ -213,13 +298,30 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資訊安全事件通報與管理機制",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.655Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.027Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊安全事件通報與管理機制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.349Z"
+    },
+    "resolved_answer": "資訊安全事件通報與管理機制"
   },
   {
     "id": "b1a88cceaff509993146a71c968e56b9969bd0993caad43105f6cf7a0a998113",
@@ -232,12 +334,29 @@
     ],
     "type": "單選",
     "course": "金融上雲應注意事項",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T06:56:45.655Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.503Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_557.html",
+          "title": "「金融上雲應注意事項」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:12.239Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

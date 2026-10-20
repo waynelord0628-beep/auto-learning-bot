@@ -116,13 +116,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.081Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.200Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.024Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "4bc7e61bcc6f0260b30d375be53918d5d614891d5ec52c6236cb77b984e73983",
@@ -133,13 +150,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.082Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.149Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.011Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "72a79ddab418e92c274728a328582262e6e86e38894032c1724630b462e97bb6",
@@ -152,13 +186,30 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.082Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.216Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.029Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3cdc7f18e79e8590a178b4ed0f4fa0d5a62b021a158d954795f134a14e7de77b",
@@ -169,13 +220,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.083Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.133Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.003Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9ff0768e895429e908a4231d1822578f34979f369e71e839bb89ba6fdeaaaee7",
@@ -186,13 +254,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.083Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.278Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.048Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6d90e101448726d47d6269876f9bc42bb789ed81bbd41cd602cd664da6cd46fd",
@@ -203,13 +288,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.084Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.183Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.019Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "1e6c625347bbe1c324b2e07e8c8bc506a03613f09318e25704dad9b0bbfb8662",
@@ -222,13 +324,30 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "尺寸增加",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:06.084Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.104Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "尺寸增加",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.993Z"
+    },
+    "resolved_answer": "尺寸增加"
   },
   {
     "id": "65ac467b1cb6651ecc967e20a5b937adf02d339bb1af804794de282ffb9c7fdb",
@@ -239,13 +358,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.542Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.167Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.014Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "820e0b154c285172699f26df78f5f11e20183b226b88c3d173051d4122d29aaa",
@@ -256,13 +392,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.543Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.232Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.037Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "eda67b255c99aafa169fc876699da11f4d3c82b13e69971179f80fd5cbae316f",
@@ -273,13 +426,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.308Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.062Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "391e228aa5d5557b12492ae4b7a24ee869f1e9fdccb8bb4877e116246e655b00",
@@ -292,13 +462,30 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.119Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.997Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b9f85f9d67b17b1a64826f93bd9ac2c47b86939d28c29d9466f94ab3db8c4a30",
@@ -309,13 +496,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.546Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.293Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.058Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "89a9b66a29e9dcaa27587ea11f56f54097445c68323b4a716f9a1db543c3d21e",
@@ -326,13 +530,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:29:52.547Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.249Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.041Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4405c65ac92924ef34a1e6eff973fa1bf3820bc739c4ab26f0f7684ebf3cd90e",
@@ -345,13 +566,30 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:30:34.073Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.470Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:22.099Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "a12c68246ea8e403036d22608f07315cb540bbd674a02477a5dcb2b3a46bb179",
@@ -379,13 +617,30 @@
     ],
     "type": "是非",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T06:30:34.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.264Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.045Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "140987130c72b51ad71874a444972ef05f0e3f21b5adfcd36c9f44d76e31a439",
@@ -398,12 +653,29 @@
     ],
     "type": "單選",
     "course": "淨零永續趨勢下，台灣電子材料機會與策略建議",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "電子材料的技術發展已進入瓶頸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T10:37:38.504Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.087Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "電子材料的技術發展已進入瓶頸",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_25.html",
+          "title": "「淨零永續趨勢下，台灣電子材料機會與策略建議」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.990Z"
+    },
+    "resolved_answer": "電子材料的技術發展已進入瓶頸"
   }
 ]

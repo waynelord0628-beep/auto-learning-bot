@@ -151,7 +151,11 @@
     "candidate_answer": "法定代理人",
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:07:47.216Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.603Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "aa4d5ebfce912b8bd506882f667fc339b56e28a0cf8567a6bb4acd633976f31a",
@@ -399,13 +403,30 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:37.730Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.551Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_64.html",
+          "title": "「成年監護及輔助宣告職務執行」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.578Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3d2cb906c889bcede3499fb4188c623edaf4d6f276f2245cafbc690e36171599",
@@ -418,13 +439,30 @@
     ],
     "type": "單選",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "程序法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:37.731Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.518Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "程序法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_64.html",
+          "title": "「成年監護及輔助宣告職務執行」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.500Z"
+    },
+    "resolved_answer": "程序法"
   },
   {
     "id": "a1d8c7816b95047f78723dd349ea802adfa23ea520ff3d07efbfbcbccd6c3068",
@@ -458,7 +496,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:10.427Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.600Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ead9a8da4d81d8c9cb3ce6c1edb67fc4921314fef43814af3fd2ad2250ee6e95",
@@ -528,7 +570,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:10.429Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.595Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "46b6475232f1d317cbbf02e8fd92072c4478141dc7579c4cf9685dddb2b484c7",
@@ -575,13 +621,30 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:15.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.500Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_64.html",
+          "title": "「成年監護及輔助宣告職務執行」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.492Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "7ba7cac4daf855c170251faa618de5b9d31acc056fd82032aacf43e88c4d0d2f",
@@ -592,12 +655,29 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:15.575Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.537Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_64.html",
+          "title": "「成年監護及輔助宣告職務執行」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.529Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

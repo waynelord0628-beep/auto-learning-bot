@@ -329,7 +329,11 @@
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.817Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.210Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "efb93d51d0f20dd95c9ee72a7895425a478723e35633efd8f165a7e8f7f32d60",

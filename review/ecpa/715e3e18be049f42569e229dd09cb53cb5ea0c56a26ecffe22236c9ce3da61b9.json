@@ -216,13 +216,30 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "支持模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.469Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.155Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "支持模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.056Z"
+    },
+    "resolved_answer": "支持模式"
   },
   {
     "id": "a25132ad0dd9fdbc4805eca933007a2d9edc74035516f636edc6253e595e2210",
@@ -254,13 +271,30 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "引領模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.472Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.103Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "類競爭模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.041Z"
+    },
+    "resolved_answer": "類競爭模式"
   },
   {
     "id": "e24deff36fe03e0e848d1d718a2758861dbe9b5aac73c1f1ad026c9485535236",
@@ -271,13 +305,30 @@
     ],
     "type": "是非",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:59:06.473Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.170Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.059Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "73cf3ea83af021e07f1f725d792e508207529b3397a4f1acd57ee2d556913bdd",
@@ -290,13 +341,30 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "引領模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.141Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "引領模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.050Z"
+    },
+    "resolved_answer": "引領模式"
   },
   {
     "id": "2f40f94cfc384ae4dfbde77dca503595ddaed7bb980b0b7faa76e77c7d14206a",
@@ -307,13 +375,30 @@
     ],
     "type": "是非",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.966Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.087Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.033Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d82400fd84992a6100c55ff066d87cad3d6fb2bd5f9b28aeafb7d8fc9eca886d",
@@ -324,13 +409,30 @@
     ],
     "type": "是非",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.968Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.095Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:58:01.682Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5006ef7b9dfd630b28d860d6c5dcd53778e0a0f969ba9a2c2c4f4fa963e857c0",
@@ -341,13 +443,30 @@
     ],
     "type": "是非",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.969Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.124Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.045Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "e9c4354afa6032587b002bbcb2a8fb9eab8c6e0848690de106eae7d2aa4a0024",
@@ -379,13 +498,30 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性別平等工作法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.072Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "性別平等工作法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.029Z"
+    },
+    "resolved_answer": "性別平等工作法"
   },
   {
     "id": "ff32122842ede8cc078a5f3545336209c814d06db8382f5cfc5ac308dcc2663c",
@@ -398,12 +534,29 @@
     ],
     "type": "單選",
     "course": "公私協力性平得力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "DEI",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:29:14.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.186Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "DEI",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_99.html",
+          "title": "「公私協力性平得力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.065Z"
+    },
+    "resolved_answer": "DEI"
   }
 ]

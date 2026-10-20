@@ -180,7 +180,11 @@
     "candidate_answer": "重複輸入同樣的關鍵字，並期待 AI 給出不同答案",
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.156Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "aa858349f6a5dc87c86ab2abc2f843e2059a0410dd375f7b2f1abf664cfa2f31",

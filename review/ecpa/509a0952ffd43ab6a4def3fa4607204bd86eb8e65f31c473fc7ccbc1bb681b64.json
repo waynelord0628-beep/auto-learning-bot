@@ -112,13 +112,30 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.324Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.070Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "70a227745adac934f2edeb5508ba5aed0bbaad7817b1f05943c0fced7c8eb6d2",
@@ -129,13 +146,30 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.452Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.371Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.084Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "7d3f8ddc0d9cb40b90f1dec84f37eec8baaafe323cfae17a4cbfb7efbf190adb",
@@ -146,13 +180,30 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.452Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.543Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:23.253Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "fa1ebd30365cf5b3c52dba57a31eb13c4998f278e4859ebd9d884a11bbc09350",
@@ -165,13 +216,30 @@
     ],
     "type": "單選",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "社會設計的重點為提出最完美的解方",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.386Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "社會設計的重點為提出最完美的解方",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.091Z"
+    },
+    "resolved_answer": "社會設計的重點為提出最完美的解方"
   },
   {
     "id": "4d9450f31292c197e9cd7d78c859fa28f9c62a10891eaca1d7a50cc4b7060759",
@@ -182,13 +250,30 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.354Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.077Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9a24cfafd7b57f0a11e21428d60b6ac274dea3331ceaf49c881a91c35ecfd2dd",
@@ -218,12 +303,29 @@
     ],
     "type": "是非",
     "course": "循環杯-啟動減塑新未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T11:57:41.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.338Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_279.html",
+          "title": "「循環杯-啟動減塑新未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.074Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

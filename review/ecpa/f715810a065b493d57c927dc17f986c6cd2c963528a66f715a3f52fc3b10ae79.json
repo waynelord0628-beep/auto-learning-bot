@@ -152,13 +152,30 @@
     ],
     "type": "是非",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.528Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.975Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.336Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d8aa6ddc582561e7641810626dc993dc8fe10bf1d1c05e84def4773a39f7c437",
@@ -169,13 +186,30 @@
     ],
     "type": "是非",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.528Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.007Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.343Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d648df184d2db69f5fe978497a30bb6da635a06a41702e0eb3229fc7ad075a30",
@@ -188,15 +222,32 @@
     ],
     "type": "單選",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.529Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-07T01:19:46.170Z"
+    "retry_after": "2026-10-07T01:19:46.170Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.440Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4.男性平均腦側化較為明顯。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:11.103Z"
+    },
+    "resolved_answer": "4.男性平均腦側化較為明顯。"
   },
   {
     "id": "2c2318feaec6ec3e7c2438784c57e4a58cd898732fd2626050b93290029193e6",
@@ -209,15 +260,32 @@
     ],
     "type": "單選",
     "course": "性別與科技─性別平等引領科技創新",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T08:11:45.529Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-07T01:19:46.170Z"
+    "retry_after": "2026-10-07T01:19:46.170Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.991Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.思考素。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_0430733394.html",
+          "title": "「性別與科技─性別平等引領科技創新」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.339Z"
+    },
+    "resolved_answer": "2.思考素。"
   },
   {
     "id": "f690b9a59fe0e3b681f60a7f52ee3576969f82f3c3473c5edc8a18b1eb60f0a3",

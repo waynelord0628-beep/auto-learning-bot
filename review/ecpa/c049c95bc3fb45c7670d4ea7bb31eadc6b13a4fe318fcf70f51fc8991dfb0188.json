@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生產(production)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.687Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生產(production)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.839Z"
+    },
+    "resolved_answer": "生產(production)"
   },
   {
     "id": "dfa5655a66a47833ac58ce29d4323c416f60a7ef5c391bf26adc1b2fdf7deb58",
@@ -52,13 +69,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "產品SBOM",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.107Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.158Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "產品SBOM",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:16.634Z"
+    },
+    "resolved_answer": "產品SBOM"
   },
   {
     "id": "1908ee87452f9978653805dcc157bbdfc641a8469f292a8b4fcc4ddbde250d34",
@@ -71,13 +105,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "源碼竄改",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.107Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建構組件",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.825Z"
+    },
+    "resolved_answer": "建構組件"
   },
   {
     "id": "0f0f2e61e46bb574913e559701c83969df59838428117e886cc330123533cdd1",
@@ -90,13 +141,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "軟體從設計到交付使用者所經歷的所有過程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.617Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "軟體從設計到交付使用者所經歷的所有過程",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.813Z"
+    },
+    "resolved_answer": "軟體從設計到交付使用者所經歷的所有過程"
   },
   {
     "id": "188e05ae55bdc3f918c273378e22d831e53638d83c221f6f89f5adc37def90de",
@@ -109,13 +177,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "源碼竄改",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.632Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "源碼竄改",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.821Z"
+    },
+    "resolved_answer": "源碼竄改"
   },
   {
     "id": "5093755e2c4ef6ba65678de40bf20ef8c80664495e8b1484b13570d44019c329",
@@ -128,13 +213,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.708Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.854Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ab47b190e2fcd32e39fc8a0ac0ad34717327e99fa515a2047526eaff8d435bb4",
@@ -147,13 +249,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.109Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.727Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.859Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e72ad1a92405a64704d7c5badb9cb98fa119f5d52605f9d859cad13016b8e0c8",
@@ -166,13 +285,30 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.109Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.748Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.863Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "1a5fab0b058c39027bc66456c783073b87518593b2fff474de3da0cc3f37a059",
@@ -185,12 +321,29 @@
     ],
     "type": "單選",
     "course": "強化軟體供應鏈安全韌性SBOM管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:09:08.110Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.665Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/sbomee.html",
+          "title": "「強化軟體供應鏈安全韌性SBOM管理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.833Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

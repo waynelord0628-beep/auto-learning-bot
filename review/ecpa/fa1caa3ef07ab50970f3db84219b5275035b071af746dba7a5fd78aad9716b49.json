@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "相同論",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.131Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.959Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "轉化論",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.328Z"
+    },
+    "resolved_answer": "轉化論"
   },
   {
     "id": "726bbda11b45f7f50c8ac882bec6178b8606c16557aca7e05fafb1f949bb852c",
@@ -48,13 +65,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.142Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.863Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.301Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "c3abeb2acc132d845e4583f48e05cde7107a609a843b820e1c8dab574fb6f683",
@@ -67,13 +101,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "創造所有人都可以方便使用的設計",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.151Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.943Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "創造所有人都可以方便使用的設計",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.323Z"
+    },
+    "resolved_answer": "創造所有人都可以方便使用的設計"
   },
   {
     "id": "2055e527675f22d1663f0eb877568c8740daea28b1126d496364f4e22fa219c1",
@@ -86,16 +137,33 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.153Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T20:19:40.771Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.892Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "相同論最能實現性別的「實質平等」。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.310Z"
+    },
+    "resolved_answer": "相同論最能實現性別的「實質平等」。"
   },
   {
     "id": "61ec6d0e974d93130d41edebd2d6795ed1e210732ad966b507e2ff6c6bceb6d4",
@@ -108,13 +176,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "規劃是一門專業，因此是價值與利益中立的。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:18:25.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.910Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "規劃是一門專業，因此是價值與利益中立的。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.313Z"
+    },
+    "resolved_answer": "規劃是一門專業，因此是價值與利益中立的。"
   },
   {
     "id": "1634cd4bb5e4f1c11cc17b33314b3fc99a6b12772f8c727a81e151723eed80ab",
@@ -127,13 +212,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "空間反映並維繫了性別不平等關係。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:18:25.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.877Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "空間反映並維繫了性別不平等關係。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.305Z"
+    },
+    "resolved_answer": "空間反映並維繫了性別不平等關係。"
   },
   {
     "id": "c383daa0be21d88314b90aae30001cb533971a2b9004b6e29112797a6ac4ca9b",
@@ -163,13 +265,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用中性和多樣化標誌",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:18:55.605Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.370Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "使用中性和多樣化標誌",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:09.899Z"
+    },
+    "resolved_answer": "使用中性和多樣化標誌"
   },
   {
     "id": "6764b257cb7bb2c8912d546b496e6ba13e155c2ca2cc402865157cf6fec2b346",
@@ -182,13 +301,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "目標5",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:18:55.606Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.926Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "目標5",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_85.html",
+          "title": "「性別與空間」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.316Z"
+    },
+    "resolved_answer": "目標5"
   },
   {
     "id": "49af8e6869d55b0e4280ae47bcff9974f71d5d799d79bc7021940dd307d668ef",

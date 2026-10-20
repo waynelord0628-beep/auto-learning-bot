@@ -206,13 +206,30 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.965Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.130Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.571Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "47c890f46a7d8825a3c0e9a74e3dce5cd31bcd603fe616857d68b4e4f974f652",
@@ -241,15 +258,32 @@
     ],
     "type": "是非",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.969Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-09-28T23:19:37.286Z"
+    "retry_after": "2026-09-28T23:19:37.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.039Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "需要有量化指標，並依EVT",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:05:39.335Z"
+    },
+    "resolved_answer": "需要有量化指標，並依EVT"
   },
   {
     "id": "455b8e790a7065bc62d0f7c1347434d22dbbb7781a1b335bd9dd785f3114e9e9",
@@ -261,12 +295,29 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不僅僅只是工程相關之研發，過程中必須先經過IRB之審查與核准始可進行研發。最終產品則需要獲得如ISO、TFDA等認證和許可才可販售",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.970Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.115Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不僅僅只是工程相關之研發，過程中必須先經過IRB之審查與核准始可進行研發。最終產品則需要獲得如ISO、TFDA等認證和許可才可販售",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_3.html",
+          "title": "「讓智慧機器人成為長照復健的得力助手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.555Z"
+    },
+    "resolved_answer": "不僅僅只是工程相關之研發，過程中必須先經過IRB之審查與核准始可進行研發。最終產品則需要獲得如ISO、TFDA等認證和許可才可販售"
   }
 ]

@@ -8,14 +8,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.796Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.804Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.283Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9b77976d263b625952be646618204261735f1ef935cacbcb4c9b8ff33dccd2e2",
@@ -26,14 +43,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.796Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.276Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:08.932Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "1725e4ffd7ec171704ac25238c03fb6c9477ce887ba5a24fce2ab80743317219",
@@ -62,14 +96,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.798Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.758Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.273Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f57b4d72a909d86092f977eb2c1c754f472fa7ad0cbc31f0d59533707ad913ca",
@@ -80,14 +131,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.799Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.846Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.295Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a9f5c3611f5ae4b83548e1d69d8418378ff4f62921beacd3b06cf926307349ca",
@@ -98,14 +166,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.800Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.832Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.289Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5a1c60847573e5cae3e764b84679b0bd46528749f3f00c9d846abc3138f608d5",
@@ -134,14 +219,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.801Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.773Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.276Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8b451d9fd52c4e3848ac7298a45c195c2b57eac120de1bf581c18f619309ff95",
@@ -152,14 +254,31 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.801Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.788Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.279Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9d3769ba27f88d5b7e0e2b0c5d91cf3efe973aef55bae345940b19b093583e65",
@@ -170,13 +289,30 @@
     ],
     "type": "是非",
     "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T23:44:26.802Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.818Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_42.html",
+          "title": "「兩公約兒童權利課程：人權搜查客Ⅱ」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.286Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

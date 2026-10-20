@@ -117,16 +117,33 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.267Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:40.415Z"
+    "retry_after": "2026-10-19T10:19:40.415Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.527Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.191Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "add1b8c36d59560f49b5f5805f2c0962426c9ba54e60c843816714eddd97280d",
@@ -139,14 +156,31 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.269Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.763Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:37.294Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "7fc2166c4d081c9e87fd700c9526de6649f82e66c648c46cf9d912945303a271",
@@ -159,14 +193,31 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.273Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.560Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.198Z"
+    },
+    "resolved_answer": "1"
   },
   {
     "id": "e39f1c9534497e934082a50ecf91770042a254c65bea4311e39717da31f89e39",
@@ -177,14 +228,31 @@
     ],
     "type": "是非",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.274Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.615Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.210Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8d96f5c55453f6929da8bcd07c068ba1e5a40d612aad290ae81f0e87ed65bcbe",
@@ -197,14 +265,31 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.277Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.591Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "風力發電",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.206Z"
+    },
+    "resolved_answer": "風力發電"
   },
   {
     "id": "858959b9b008a9f9222f1810983536fb540de24190a39ddff2dd1b931462ffd0",
@@ -217,14 +302,31 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.278Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.575Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.201Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3ed40bb821969fd564e457f3aff60fd7bbdd677a9147eb740430a7537d00e86c",
@@ -237,13 +339,30 @@
     ],
     "type": "單選",
     "course": "智慧校園用電監測與管理平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T17:30:14.279Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.544Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "SDG 7 可負擔的潔淨能源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_22.html",
+          "title": "「智慧校園用電監測與管理平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.194Z"
+    },
+    "resolved_answer": "SDG 7 可負擔的潔淨能源"
   }
 ]

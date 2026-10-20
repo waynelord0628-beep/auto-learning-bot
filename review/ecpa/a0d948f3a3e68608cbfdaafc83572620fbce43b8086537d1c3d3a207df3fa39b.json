@@ -8,15 +8,32 @@
     ],
     "type": "是非",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.054Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.997Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.403Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8678663dae36537d262ee12a113a97b6c872b9bfc5f67cb7d3d1ede91736ebb4",
@@ -27,15 +44,32 @@
     ],
     "type": "是非",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.055Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.030Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.422Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d77161f8208c74e650dae6bce50fc11d29f984577542a950fab762a47dd30fd5",
@@ -48,15 +82,32 @@
     ],
     "type": "單選",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "鑒於系統駭客猖獗，醫院不應將服務連上雲端避免遭受攻擊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.056Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.061Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "鑒於系統駭客猖獗，醫院不應將服務連上雲端避免遭受攻擊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.434Z"
+    },
+    "resolved_answer": "鑒於系統駭客猖獗，醫院不應將服務連上雲端避免遭受攻擊"
   },
   {
     "id": "6b02594e2ba77dbe60147c905e3c51122d262de48584ece28a36d2cd1ccfffa0",
@@ -69,15 +120,32 @@
     ],
     "type": "單選",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由於相關資訊業者皆符合主管機關資安標準驗證與文件，所以無須再經過任何第三方驗證資安狀況",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.057Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.012Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "由於相關資訊業者皆符合主管機關資安標準驗證與文件，所以無須再經過任何第三方驗證資安狀況",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.412Z"
+    },
+    "resolved_answer": "由於相關資訊業者皆符合主管機關資安標準驗證與文件，所以無須再經過任何第三方驗證資安狀況"
   },
   {
     "id": "5728dffb9b1e9aa039fdaee79fd273847218e4850feb09f86fd0bfab6a8ee7bb",
@@ -90,15 +158,32 @@
     ],
     "type": "單選",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "完全消除資安風險",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.058Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.983Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "完全消除資安風險",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.398Z"
+    },
+    "resolved_answer": "完全消除資安風險"
   },
   {
     "id": "eec94f637d08a039e7d89ad630f4355a2a90530d086617d4f32e9f6a6a548d95",
@@ -109,15 +194,32 @@
     ],
     "type": "是非",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.059Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.092Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.448Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e83085c3bf72a76caa0d985c426b2fc9f0e087ea1e6125421f6083cbe1eaef6b",
@@ -128,15 +230,32 @@
     ],
     "type": "是非",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.060Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.442Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b79f5b6e0a2cbf7344e95b6a8709afc8a911cf3eb92af35310d170f1fb1d134c",
@@ -149,15 +268,32 @@
     ],
     "type": "單選",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫療器材的資訊安全防護為醫院維護資安的重要環節",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.061Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.047Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "無法產生稽核標準",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.426Z"
+    },
+    "resolved_answer": "無法產生稽核標準"
   },
   {
     "id": "116aa2e33211477822750c8bc99bf4e72ea822c87a111daa421bd9be1d2ae3fb",
@@ -168,15 +304,32 @@
     ],
     "type": "是非",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.062Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.966Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.390Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8b2835bfa721c20b6da0d99c9453bb008b38477f4a17aca54bd333db62ce9a69",
@@ -189,14 +342,31 @@
     ],
     "type": "單選",
     "course": "醫療上雲與資安：數位轉型的機會與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "合作資安演練成本近乎為零，可成為常態訓練項目",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-14T13:37:54.063Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-21T02:19:39.544Z"
+    "retry_after": "2026-10-21T02:19:39.544Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.928Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "合作資安演練成本近乎為零，可成為常態訓練項目",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_12.html",
+          "title": "「醫療上雲與資安：數位轉型的機會與挑戰」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:05:23.276Z"
+    },
+    "resolved_answer": "合作資安演練成本近乎為零，可成為常態訓練項目"
   }
 ]

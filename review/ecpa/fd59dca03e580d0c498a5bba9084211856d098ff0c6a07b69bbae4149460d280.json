@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.059Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.841Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.266Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b9cb932426cd54dfab6a434c3b71aafa0617ceacb5aff62db8ea69a38ec0fe26",
@@ -25,13 +42,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.060Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.897Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.283Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4704ecf8895d2c8759e95f86767c4632c710cafae5dbbefe36f17fe043513d4a",
@@ -42,13 +76,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.060Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.821Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.259Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f9792d708dc70c2ee23081c34493660a1d3b30b81c5dbf3957c1b9bfd698be78",
@@ -59,13 +110,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.061Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.951Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.301Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0f4342abbfe05bfbaa7bd417b4f8af7d5b3367483808dce5b66052f5d57f035f",
@@ -76,13 +144,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.062Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.803Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.255Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bdf06089d7007ef85bbb4b08ca97e66065f6dfac5d02f10e34333bff5113f333",
@@ -95,13 +180,30 @@
     ],
     "type": "單選",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在發現家中堪用的茶具有茶垢後便立即丟棄",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.062Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在發現家中堪用的茶具有茶垢後便立即丟棄",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.287Z"
+    },
+    "resolved_answer": "在發現家中堪用的茶具有茶垢後便立即丟棄"
   },
   {
     "id": "7e1334a08f816e33a9916f0dc9f1260350eb1dea874e604cde2473281211b2b5",
@@ -114,13 +216,30 @@
     ],
     "type": "單選",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.063Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.864Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.271Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "dbdd11bcd7e545e3fdcb7a4223c0269771139ae41bb4fd03f3a9d5af47a4fbba",
@@ -133,13 +252,30 @@
     ],
     "type": "單選",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.063Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.936Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.294Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "a56a57335681de204e5d03f16940bc0aae6b6ae5ca611be82243c24813312900",
@@ -150,13 +286,30 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.064Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.811Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:05:08.305Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8997ce56d5370f1cd53b15fe6bc36c4476dce86a2e112a6d56d3cf85e41f9089",
@@ -167,12 +320,29 @@
     ],
     "type": "是非",
     "course": "環保共享，賦予物品新價值：線上物資交流平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T13:12:16.064Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.880Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_438.html",
+          "title": "「環保共享，賦予物品新價值：線上物資交流平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.278Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

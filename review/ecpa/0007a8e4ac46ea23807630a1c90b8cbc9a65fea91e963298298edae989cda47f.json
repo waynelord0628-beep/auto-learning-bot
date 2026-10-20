@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "網路架構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.046Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.036Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "網路架構",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.615Z"
+    },
+    "resolved_answer": "網路架構"
   },
   {
     "id": "f691c5a7a9370cd1e03758e9b001a1861a1cde8d3a8618d1114539dfd915011d",
@@ -29,13 +46,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "科技發展造成負面影響",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.047Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.174Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "科技發展造成負面影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.672Z"
+    },
+    "resolved_answer": "科技發展造成負面影響"
   },
   {
     "id": "9d30a103e722b35d2078411af141a3aae39d0996bd743eaa235fec48902d39b0",
@@ -48,13 +82,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高科技園區",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.047Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.095Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.635Z"
+    },
+    "resolved_answer": "資訊"
   },
   {
     "id": "4656d4b550f55c71e03e61d64eb90402c2aac77bc9e5f054209a3452da7aa0f3",
@@ -67,13 +118,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第二期",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.048Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.052Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "第一期",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.622Z"
+    },
+    "resolved_answer": "第一期"
   },
   {
     "id": "cfaa74ac401a00ba7f56b96355dc1549e2ddfa2cbfc418f2f91f5979096fce92",
@@ -86,13 +154,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公法人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.049Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.298Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公法人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:02:43.877Z"
+    },
+    "resolved_answer": "公法人"
   },
   {
     "id": "693ff7feed390c29cfba608ea1394c261829dcc6f35fe9618119d074d3d52672",
@@ -105,13 +190,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資料備份與加密防護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.049Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.066Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料備份與加密防護",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.626Z"
+    },
+    "resolved_answer": "資料備份與加密防護"
   },
   {
     "id": "f14691e3b082524dd46524e957053017af4765976caef47c4a10464cb010430d",
@@ -124,13 +226,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "技術能力",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.050Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.140Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "技術能力",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.653Z"
+    },
+    "resolved_answer": "技術能力"
   },
   {
     "id": "35981beab3026d41febe797ea37eb82bf5ab385634ba45a8140e1968fd6cb34c",
@@ -143,13 +262,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "打造安全可信賴的數位國家",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.050Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.015Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "打造堅韌安全之智慧國家",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.608Z"
+    },
+    "resolved_answer": "打造堅韌安全之智慧國家"
   },
   {
     "id": "94aa251dcb72ca630d2f4537054af8d976a6a424cce6448c58ff404e24274eff",
@@ -162,13 +298,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "備份資料加密",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.051Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.081Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "備份資料加密",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.630Z"
+    },
+    "resolved_answer": "備份資料加密"
   },
   {
     "id": "b5a0a1a45d83af61af8eae2572b12988b806c873769f3c0166806f66315bb4eb",
@@ -181,13 +334,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "輔導企業強化數位轉型之資安防護能量",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:28.052Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.109Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "輔導企業強化數位轉型之資安防護能量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.639Z"
+    },
+    "resolved_answer": "輔導企業強化數位轉型之資安防護能量"
   },
   {
     "id": "0e7a9c331ba68dd470517a1bc16f159b271670a4c5286f540de0a8a5bdcd0767",
@@ -200,13 +370,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "中斷網路連線",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:57.820Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.980Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "中斷網路連線",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.599Z"
+    },
+    "resolved_answer": "中斷網路連線"
   },
   {
     "id": "192ee4d101a54d4904b7eff31fcdaa3f981893f29fb84624db34c9930eb801da",
@@ -219,13 +406,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "增強人員資安意識與能力建構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:57.826Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.994Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "擴大國際參與及深化跨國情資分享",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.604Z"
+    },
+    "resolved_answer": "擴大國際參與及深化跨國情資分享"
   },
   {
     "id": "f479339f3755e30e1ee7f9d02e8ac5d7a234dda21d8d0ff89546b00eb02508a7",
@@ -238,13 +442,30 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "「原則允許、例外禁止」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:23:57.831Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.158Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "「原則禁止、例外允許」",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.664Z"
+    },
+    "resolved_answer": "「原則禁止、例外允許」"
   },
   {
     "id": "ca8a20bfcb1501693fce4272f4347fe5b5d3d3ef349da12898e3c7cbb68ab1db",
@@ -257,12 +478,29 @@
     ],
     "type": "單選",
     "course": "資訊安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "關鍵基礎設施(CI)提供者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:24:28.074Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.126Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "關鍵基礎設施(CI)提供者",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_926.html",
+          "title": "「資訊安全」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.645Z"
+    },
+    "resolved_answer": "關鍵基礎設施(CI)提供者"
   }
 ]

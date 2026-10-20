@@ -132,13 +132,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "To show how difficult and exhausting catching eels can be",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.572Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.315Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "To show how difficult and exhausting catching eels can be",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_963.html",
+          "title": "「桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.470Z"
+    },
+    "resolved_answer": "To show how difficult and exhausting catching eels can be"
   },
   {
     "id": "5a5d72a6cb690d14f5a226e492659e47140ff102b690dc45a1e824b748e16774",
@@ -195,7 +212,11 @@
     "candidate_answer": "marinated",
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.765Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b64a750c629cc5855e503a3f9b45d814f3be024504f319903a1c8ba03b5757bc",
@@ -208,12 +229,29 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "stir-fry",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.575Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.331Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "stir-fry",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_963.html",
+          "title": "「桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.505Z"
+    },
+    "resolved_answer": "stir-fry"
   }
 ]

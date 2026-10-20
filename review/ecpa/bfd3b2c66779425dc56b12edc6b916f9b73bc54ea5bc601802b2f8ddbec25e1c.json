@@ -8,14 +8,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.402Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.198Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:07.496Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "fd878a7cc01e1ac93486a6f5bdce74d3b23b1275259df2c37cecfadeca201e32",
@@ -26,14 +43,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.403Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.744Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.217Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "967d5b03c1601841aee6c2af6b837b0a2743a4ebdd990577049af936385dcca0",
@@ -44,14 +78,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.405Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.663Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.189Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "7187db005aa444995d93d7539bc13af7ceb429115f8ed132010cee4dd9c56348",
@@ -62,14 +113,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.406Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.594Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.171Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e880fd4fb803905c0aed73396e07c564ffb68d130d56af08165ce739a5a43c06",
@@ -80,14 +148,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.406Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.726Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.212Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8395766fa2073cb94d9477a7543501fe4a972e278bd57cba9912a2dabefc0a53",
@@ -98,14 +183,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.407Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.628Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.180Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b02a4bbb46e64aafd4cbc6fa5c1f6628e72eb8ef8bb9bc861e62198da375e3ef",
@@ -116,14 +218,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.408Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.677Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.198Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "790c84df54628a068ebea8360e7bb834a1af123d1e4db97db25e12fc49343aad",
@@ -134,14 +253,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.408Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.610Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.175Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "55c1b7573bcdf0bf3233e804bb3cc700259abca27e6b0503ee799c9abdd2998e",
@@ -152,14 +288,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.409Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.562Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.160Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "03e68ee5a9f2fdaaf8eedd2f615bd6c4e7505400f0d27bf8bed5e865e6637da3",
@@ -171,14 +324,31 @@
     ],
     "type": "單選",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:13:27.409Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.493Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.142Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3d0e92d378f4a4b8cbb49e00b0be8b31457b09fc6de8b80f86e50776e2548098",
@@ -189,14 +359,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:08.309Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.545Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.157Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bfda6d8b51ec2768d79b7b66f7f68a3f3e9681e795ecdba21264e04b05aedc86",
@@ -208,14 +395,31 @@
     ],
     "type": "單選",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:08.309Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.709Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "信賴保護原則",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.209Z"
+    },
+    "resolved_answer": "信賴保護原則"
   },
   {
     "id": "25d975f6c4c18babe12abcbc1924508e6e1748a1a315c6d9de0c77e4a42bec5a",
@@ -226,14 +430,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:08.310Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.509Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.149Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b729f2c05f22fbdb58192c9ceaea75b08c5040cc4b150b0349510464a806cfcd",
@@ -244,14 +465,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:08.310Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.693Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.202Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2f3f0ff1cc9762d16a7c837463d1880a80537f47b5aa0042559ffbf1678b987a",
@@ -262,14 +500,31 @@
     ],
     "type": "是非",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:08.311Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.529Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.153Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "582c4e297e057e4a3c61b74e020e418a097477ef4ce7aa9764417a562dc85344",
@@ -281,14 +536,31 @@
     ],
     "type": "單選",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:44.260Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.578Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.165Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "9330c4eba1e265c94ab440b05691b83d023af27bf171073d3d3d94ff531c2d0e",
@@ -300,13 +572,30 @@
     ],
     "type": "單選",
     "course": "兒童權利公約-各項權利分析(一)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T03:14:44.261Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.645Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)(1)(2)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_1.html",
+          "title": "「兒童權利公約-各項權利分析(一)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.185Z"
+    },
+    "resolved_answer": "(3)(1)(2)"
   }
 ]

@@ -80,13 +80,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.622Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "委託公司是否具病媒防治業許可執照",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.377Z"
+    },
+    "resolved_answer": "委託公司是否具病媒防治業許可執照"
   },
   {
     "id": "79fcc03df5ee83845327785090c4f15f5934cf8562a07710a46eb61bc19ff64e",
@@ -118,13 +139,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "水流應由清潔度高流向清潔度低之區域",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.954Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.579Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "物流(食品)應由清潔度高流向清潔度低之區域",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.356Z"
+    },
+    "resolved_answer": "物流(食品)應由清潔度高流向清潔度低之區域"
   },
   {
     "id": "dd77f4a7fdcd873cc4717b4458e2ce38febf94a1e77722506be70fbf8df51c16",
@@ -137,13 +179,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "飲用水與非飲用水之管路可為同一管路",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.652Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "蓄水塔設置場所應距離汙染源(如化糞池)3公尺以上",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.388Z"
+    },
+    "resolved_answer": "蓄水塔設置場所應距離汙染源(如化糞池)3公尺以上"
   },
   {
     "id": "9ea40d56de544c6ce4db760837b784d4bdd704d298d327172b630317e1d34dc9",
@@ -163,7 +226,11 @@
     "candidate_answer": "油炸食用油總極性化合物含量達35%以上，不得再使用，應全部更換新油",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.462Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ee9f300893beb1317d02be3e6814d83b7471be6c3c9232da105dedc491c66834",
@@ -193,13 +260,34 @@
     ],
     "type": "是非",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.957Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.565Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.352Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "e836318a8c1e2c7952217b0f75318b6b95475753a85ca1c60ad7add52517a11e",
@@ -210,13 +298,34 @@
     ],
     "type": "是非",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.670Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.392Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4810c30503159df033a2f096498e76b15185b571c440911f9da0155197382974",
@@ -227,13 +336,34 @@
     ],
     "type": "是非",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.026Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.547Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.347Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e877cf3a4df89747ac00e9f8ff26797be65846dc0496387a1d1181a695852cd9",
@@ -246,13 +376,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可延長保存期限",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.027Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.689Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "非以擴大銷售範圍為目的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.396Z"
+    },
+    "resolved_answer": "非以擴大銷售範圍為目的"
   },
   {
     "id": "c37e30a0053dc4036609981ade85fd1e4decfeaa37a5f74598e7f6fe5e6469bb",
@@ -266,13 +417,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "胸部X光",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.027Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.635Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "胸部X光",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.383Z"
+    },
+    "resolved_answer": "胸部X光"
   },
   {
     "id": "dfa96be8a722f34301774d2ae4f4e5dc21b6f6018e5ac66005988e97bfa39d33",
@@ -324,13 +496,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "二百米燭光",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.030Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.591Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一百米燭光",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.364Z"
+    },
+    "resolved_answer": "一百米燭光"
   },
   {
     "id": "6e8504e728f34fc8b5d7a9cd962ebb0e590085a57d3a2a996fd0ca0e66081610",
@@ -343,13 +536,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "原材料來源與成品流向無須管理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.030Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.609Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "對產品之原材料、半成品或成品進行把關",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.369Z"
+    },
+    "resolved_answer": "對產品之原材料、半成品或成品進行把關"
   },
   {
     "id": "38d682c0ed06fb7190027eb31ae41383a087535db192f2d9dfc9434608775964",
@@ -362,13 +576,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "產品售價",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:14:06.951Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.526Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "原材料來源資訊",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.341Z"
+    },
+    "resolved_answer": "原材料來源資訊"
   },
   {
     "id": "eca07df254fecabb0e0981337c3aea92daf3fe8813329b4c56602ba90608e720",
@@ -379,13 +614,34 @@
     ],
     "type": "是非",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-04T01:06:32.119Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.704Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.402Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "409eaf4fc8f36abe3c43c42d1c6c75d631b1c487b05a5e8092b1dd55021fa3b3",

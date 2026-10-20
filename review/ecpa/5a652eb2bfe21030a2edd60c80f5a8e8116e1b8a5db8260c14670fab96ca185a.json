@@ -220,13 +220,30 @@
     ],
     "type": "單選",
     "course": "在家庭關係中修煉自己",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "討好他人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:47.306Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.448Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "討好他人",
+      "sources": [
+        {
+          "url": "https://counseling.sinica.edu.tw/posts/189016",
+          "quote": "有些人在人際關係中，習慣把對方放在很前面，甚至優先於自己。這樣的互動方式，常被形容為「討好」。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T02:58:54.434Z"
+    },
+    "resolved_answer": "討好他人"
   },
   {
     "id": "72d9afe1d02b2c0b3fd36d3a0695ea497ed44b66dbb7ebc34d4f783ece3d52d1",

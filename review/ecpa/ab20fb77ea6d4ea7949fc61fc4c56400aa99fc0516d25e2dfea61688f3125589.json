@@ -8,15 +8,32 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.604Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.281Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:22.056Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "808d1258e833fdf500be0051c60fa8f6bf7077b54d9d41efb770efa0c4a52fe9",
@@ -27,15 +44,32 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.605Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.301Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:22.070Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e18f07f177d88d3b54bee4144d140dad3b9e96b58bc89e30e1a094179ff4c08a",
@@ -46,15 +80,32 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.605Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.274Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:56:46.956Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ef79ef2abefc58376e9e6532e91758c609c5a883b480bdedb479f6dcf2d3f0c8",
@@ -73,7 +124,11 @@
     "created_at": "2026-10-18T13:52:23.606Z",
     "review_state": "candidate_ready",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.340Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dcc6fab87c4502671eab4a254b2c57eeb2f17f7657c7650d7d9a490a1f2b4fac",
@@ -84,15 +139,32 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.606Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.353Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.263Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "bb5bf654774712b3082bc587e45110a869c1b5b8e66b964d9e49793920f6808b",
@@ -103,15 +175,32 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.607Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.318Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:22.079Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a4727124aa20a1940fae1bfae221bd9d81dc979e7a269a4107389e556a71d852",
@@ -179,14 +268,31 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-18T13:52:23.609Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T02:34:17.389Z"
+    "retry_after": "2026-10-21T02:34:17.389Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.339Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359609",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：職場新人的煩惱《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.258Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

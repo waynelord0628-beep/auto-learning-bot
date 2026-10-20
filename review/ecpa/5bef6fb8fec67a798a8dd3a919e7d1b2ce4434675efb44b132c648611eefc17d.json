@@ -8,16 +8,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.011Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.824Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.889Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "943d18fc19c580db0bab5be67e5340f7e4ddb578c5b359fe47b9847332a28a32",
@@ -30,16 +47,33 @@
     ],
     "type": "單選",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.012Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.869Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "高科技出口百分比",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.902Z"
+    },
+    "resolved_answer": "高科技出口百分比"
   },
   {
     "id": "7511f8715aaa948c012b3539e07c284ee685ea5135103a20129543689e25751d",
@@ -50,16 +84,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.013Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.841Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.894Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "926cdf93a8edf19e7c0b082702cb5f6ef54b9c45395b0697ee4f3047af46faf3",
@@ -70,16 +121,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.013Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.855Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.898Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "574a78ca5468f5f46c45ee9242e0c147548b0d8db36217de5fc9c26ebd4b7356",
@@ -90,16 +158,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.014Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.239Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:17.686Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e707aa1c3d40fabdcfa0cb7d2d9a6bdf71c91f5034f72b65a17a861e219a4ef7",
@@ -110,16 +195,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.014Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.897Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.911Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "62c237620f3fd873c63ce827ecf3fee4ccfd661d6ae35a6f66071e673679c263",
@@ -130,16 +232,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.015Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.788Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.880Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "70de55a7eb56d618c7371d803bff68f44260e9c7188ef70f3f58c0475232e9bf",
@@ -150,16 +269,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.015Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.805Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.884Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3270f05f5957b14362096cb204a42424617760780b588aa9311ed6665eba9a97",
@@ -170,16 +306,33 @@
     ],
     "type": "是非",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.016Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.769Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.874Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c85dbc7e5d562a9e01da1c17e1a31915455308960fdd4f3f8bcd3b964c93cbe0",
@@ -192,15 +345,32 @@
     ],
     "type": "單選",
     "course": "從台灣數位產業發展願景-談智慧城鄉心應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T11:39:31.016Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T13:19:44.584Z"
+    "retry_after": "2026-10-20T13:19:44.584Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.883Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_71.html",
+          "title": "「從台灣數位產業發展願景-談智慧城鄉心應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.907Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

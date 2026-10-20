@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "舉報行為之禁止",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.176Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.853Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "舉報行為之禁止",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.352Z"
+    },
+    "resolved_answer": "舉報行為之禁止"
   },
   {
     "id": "a16dfd065b2220df941351e091c2e9eedc9c91c242ced7e64cbd054b6aafdb45",
@@ -27,13 +44,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.790Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.336Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8406315a220924be11fee3cc8dec4305a9f650da7a484e1b41535e0f81b9a829",
@@ -44,13 +78,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.916Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:53.087Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "31e03f09b8b5d3776f6caa95345f7a69ba19e518752256a8dfbb35a8f6ff0ea8",
@@ -61,13 +112,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.286Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8f5f681897519853ebd9403394061554688f0da8cc85e4b17a9db50bdb4fbc65",
@@ -80,13 +148,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "三親等",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.184Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.759Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "三親等",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.329Z"
+    },
+    "resolved_answer": "三親等"
   },
   {
     "id": "a0b8e328a468c2f2fd26a4c63109b12504d29f1440500ede64618fd83083d31d",
@@ -99,13 +184,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "無效",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.185Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.774Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "應回歸由各該相關法律判斷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.333Z"
+    },
+    "resolved_answer": "應回歸由各該相關法律判斷"
   },
   {
     "id": "7125c259931b1fe7a59b6194ecb4dea7191f7caac0cf820ea1891d5ac595aa27",
@@ -116,13 +218,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.187Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.710Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.313Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a4274a8323ed1bc33ab6190dba8acdb7fcc4343a3a62ceec6bd30e7b2372b9f1",
@@ -135,13 +254,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "侄子",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.807Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "侄子",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.339Z"
+    },
+    "resolved_answer": "侄子"
   },
   {
     "id": "ddce507a35cbe45e4efff140cc4a53f4ad735116bf23184006d0b9156221cd0a",
@@ -154,13 +290,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政程序之當事人亦得申請相關之公務員迴避",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.822Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政程序之當事人亦得申請相關之公務員迴避",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.343Z"
+    },
+    "resolved_answer": "行政程序之當事人亦得申請相關之公務員迴避"
   },
   {
     "id": "2b91ef4def068cc9a0d7f6cad3f1e68e04389a626f161f650085b3195bcd65bd",
@@ -173,13 +326,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "二親等以內親屬",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:18:05.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.629Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "二親等以內親屬",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.282Z"
+    },
+    "resolved_answer": "二親等以內親屬"
   },
   {
     "id": "588a0fa743699ca45243e1ba57863b4f4ec4e9dc7e9986eb36ef5b710398ac68",
@@ -190,13 +360,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.032Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.902Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:53.078Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "ebf107525315d0a18682de9c4667d3fee38ff8b41489daf9fe0707d8594e2c25",
@@ -207,13 +394,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.836Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.347Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "506b7fd7988337c28e1d38e40fbba6bdb758d333fc607d9d1c2517ab8af9297a",
@@ -226,13 +430,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "監察院",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.678Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "上級機關",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.295Z"
+    },
+    "resolved_answer": "上級機關"
   },
   {
     "id": "7eda77b3778f7c80b4457aef2b1235ab7cd4d21f20ed2e1f6467d09c1b8afe9d",
@@ -243,13 +464,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.744Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.324Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3de80b4f4bbc0859216442098c682813ce29ad775ccbbde0fcbaa6b42b8ceb7e",
@@ -260,13 +498,30 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.046Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.663Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.290Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "777ac00fa32539218bb8e1825735576a5de615d5e862e22c9add96cf2bb73296",
@@ -279,13 +534,30 @@
     ],
     "type": "單選",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "招待券",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.047Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.725Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "招待券",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.319Z"
+    },
+    "resolved_answer": "招待券"
   },
   {
     "id": "50956e77b02263e7ca9cc8366eb59647da73924de3d4e0b7afc48212313b37e0",
@@ -296,12 +568,29 @@
     ],
     "type": "是非",
     "course": "陽光法案—公職人員利益衝突迴避法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T06:21:55.050Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:11.692Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_916.html",
+          "title": "「陽光法案—公職人員利益衝突迴避法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.310Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

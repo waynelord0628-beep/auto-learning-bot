@@ -125,16 +125,37 @@
     ],
     "type": "單選",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.257Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-17T06:19:43.628Z"
+    "retry_after": "2026-10-17T06:19:43.628Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.214Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.024Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4d1cd79be60865935ef8669972426ffe44643034631626d2d35f2c585ddf9d5f",
@@ -147,16 +168,37 @@
     ],
     "type": "單選",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.258Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-17T06:19:43.628Z"
+    "retry_after": "2026-10-17T06:19:43.628Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.198Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "6項",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.014Z"
+    },
+    "resolved_answer": "6項"
   },
   {
     "id": "e28b2a42c057416c2a01c624a8580bfa841b7b345c00c38a84905274137c14fc",
@@ -169,16 +211,33 @@
     ],
     "type": "單選",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.258Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-17T06:19:43.628Z"
+    "retry_after": "2026-10-17T06:19:43.628Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.989Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:04.005Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "14e1d1a344f19192a587cdd5e1eeaf8b21d173e9537fcff2dda13116ab72ebbf",
@@ -189,16 +248,37 @@
     ],
     "type": "是非",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.259Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T09:19:39.994Z"
+    "retry_after": "2026-10-15T09:19:39.994Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.166Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.007Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4140b0c1aa4109053a7b6900c4f4cae27f921e5ea04127ba80f0fbed4e0a3dd7",
@@ -209,16 +289,37 @@
     ],
     "type": "是非",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.260Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T09:19:39.994Z"
+    "retry_after": "2026-10-15T09:19:39.994Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.183Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.012Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "c0ee720575968c7449e796a2159b29283b7978cb42c1220441467f05fe4641ad",
@@ -231,16 +332,37 @@
     ],
     "type": "單選",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.260Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T09:19:39.994Z"
+    "retry_after": "2026-10-15T09:19:39.994Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.242Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.036Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b5e899e6306e0fdeafda67f88d6601794708ee5762ce3f04fb3a74e9af0b043e",
@@ -251,15 +373,36 @@
     ],
     "type": "是非",
     "course": "我國永續金融相關政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T04:49:06.261Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-15T09:19:39.994Z"
+    "retry_after": "2026-10-15T09:19:39.994Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.227Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197961",
+          "title": "我國永續金融相關政策《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_50.html",
+          "title": "「我國永續金融相關政策」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.029Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

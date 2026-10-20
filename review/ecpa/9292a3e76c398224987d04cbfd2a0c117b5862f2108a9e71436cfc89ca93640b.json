@@ -146,13 +146,30 @@
     ],
     "type": "是非",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.450Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.396Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.860Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8a53aab23a6af27c23f5d94c980ba47c4dcc4811a1ffded9b3317f0781f6e0a6",
@@ -163,13 +180,30 @@
     ],
     "type": "是非",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.276Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.830Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "69ea25b8d6986a0398347a64cc820cc9a6b1f852f7b3310db73c6b9c5f9054b3",
@@ -182,13 +216,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "60%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.259Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "60%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.823Z"
+    },
+    "resolved_answer": "60%"
   },
   {
     "id": "91b5b2720063f9d2aab0147639bef1b743113e1595e8efa0667e80daba371f05",
@@ -201,13 +252,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "造成傷害",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.452Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.293Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "造成傷害",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.836Z"
+    },
+    "resolved_answer": "造成傷害"
   },
   {
     "id": "9a506356a7f01915c2291953519e9a6722a3525456790f5db8ae5360a2719139",
@@ -219,13 +287,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "比賽天氣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.317Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "比賽天氣",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.843Z"
+    },
+    "resolved_answer": "比賽天氣"
   },
   {
     "id": "25641aa90da2686c62f0c69eab199c577871a6745e4a5a55502d9ac67c692765",
@@ -238,13 +323,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "獲利",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.454Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.225Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "獲利",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.688Z"
+    },
+    "resolved_answer": "獲利"
   },
   {
     "id": "4f8abb207494f5fc84583d7d1493f698460b8a3dadbcec11fe7d423b1316f2b6",
@@ -255,13 +357,30 @@
     ],
     "type": "是非",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.243Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.693Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9bf0a4cb36e6e48d9929a6b01978a2a1067f64282de82a6d4bca7ec85c40dfb3",
@@ -273,13 +392,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "慢速計畫性轉向訓練",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.380Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "單腳原地90度轉向跳躍",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:02:45.107Z"
+    },
+    "resolved_answer": "單腳原地90度轉向跳躍"
   },
   {
     "id": "a0784dffbe204b86c65a5bfdc6162d67532b7334b92d877fd85cce8f654a129e",
@@ -290,13 +426,30 @@
     ],
     "type": "是非",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.357Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.851Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b2322a427f23e5d4fe38a3438034f4678e316cb4870b9a1b55414e32b73b8b2a",
@@ -309,13 +462,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.377Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.855Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "122cc0b06ee5403aed35be7b500f780896dea0e5abd2193f473aaf53dd791b9d",
@@ -327,13 +497,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "內部",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.192Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "內部",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.680Z"
+    },
+    "resolved_answer": "內部"
   },
   {
     "id": "9ae441270342be820453398672e919804f60b04f17375d1117fbd7b308da752c",
@@ -345,13 +532,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "關節沾粘",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.458Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.338Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "關節沾粘",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.847Z"
+    },
+    "resolved_answer": "關節沾粘"
   },
   {
     "id": "ec65c03072bc3edbfd8dd8938af4a40cc407dc4081c853ccd255a540cd2d2b75",
@@ -363,13 +567,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "120",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.459Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.427Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "120",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.871Z"
+    },
+    "resolved_answer": "120"
   },
   {
     "id": "20bc18cad293f8a8610fb0395bc7f116df932b67de636e73315231582d6e950f",
@@ -382,13 +603,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "出血",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.460Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.207Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "出血",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:29.684Z"
+    },
+    "resolved_answer": "出血"
   },
   {
     "id": "ec1b5f801b2d2b82f566d58038054760e6d0be40a268879583dd4a140ba24e0e",
@@ -400,13 +638,30 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "延遲性肌肉痠痛",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.461Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.410Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "延遲性肌肉痠痛",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.867Z"
+    },
+    "resolved_answer": "延遲性肌肉痠痛"
   },
   {
     "id": "8135d98e365359ec47b570677c3367c7c92f478769fb3254a7a47ea58b6a648c",
@@ -419,12 +674,29 @@
     ],
     "type": "單選",
     "course": "運動部專任運動教練線上課程_運動醫學快速上手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "PEACE & LOVE原則",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T11:48:13.462Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.366Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "PEACE & LOVE原則",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ee_094057698.html",
+          "title": "「運動部專任運動教練線上課程_運動醫學快速上手」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:02:45.100Z"
+    },
+    "resolved_answer": "PEACE & LOVE原則"
   }
 ]

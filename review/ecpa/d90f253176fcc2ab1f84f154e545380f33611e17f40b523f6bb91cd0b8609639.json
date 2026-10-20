@@ -199,7 +199,11 @@
     "candidate_answer": "儲存(Store)階段，資料通常被存放在低成本的儲存解決方案中，且不常被存取",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.593Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.989Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "054788ec420eb0bdaabe033379c9446b2ef65779c64d50ff38c180feec9cd532",

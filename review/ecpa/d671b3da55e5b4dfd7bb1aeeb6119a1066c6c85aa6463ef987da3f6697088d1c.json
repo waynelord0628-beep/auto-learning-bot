@@ -17,7 +17,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.570Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.530Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "3ff1ead49889f4f2b2d8de5622064dc70acd88016ffb71dde14d2f2f5520af2a",
@@ -37,7 +41,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.571Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.908Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "c845138763899c9fbab1b8531eef204e8e49df1e41618e1c82318434f00c0386",
@@ -57,7 +65,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.571Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.553Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "23550fa2ac8b26e19b5f11f434c42ae86e606d50402ea92673192d702de785bc",
@@ -77,7 +89,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.571Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.856Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "886272283d35aa4e33a0d4301561874a2ec253838b2243152cd0decb604d5452",
@@ -97,7 +113,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.571Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.981Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "7905e17c6de3d34d921120b6fbf90a8ad2fd404a7a0ced55520f3fa6bb890296",
@@ -117,7 +137,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.572Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.971Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "41b41c3d4f28a4da5ed39c2e3f1edb908423a1ea3434332a717cb27f8f799501",
@@ -137,7 +161,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.572Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.922Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "35e1c3ee293f942d2b2e3c0189fa3ef123bf59b8efd05c43fa7667b7280e6b68",
@@ -157,7 +185,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.572Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.900Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "62e9619d655a6a416f1f4a23b2dc7a32921e94c9f61225f92bec81d4700f9693",
@@ -170,14 +202,31 @@
     ],
     "type": "單選",
     "course": "行政程序法概論（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.572Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.930Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "乙君不服行政機關之決定者，得於10日內提請上級機關覆決。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_255.html",
+          "title": "「行政程序法概論（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.939Z"
+    },
+    "resolved_answer": "乙君不服行政機關之決定者，得於10日內提請上級機關覆決。"
   },
   {
     "id": "2abdcf2d614d70fa91efd2c0e4939d46c7e3ab7c956713624fbfd2c21ef3290e",
@@ -190,14 +239,31 @@
     ],
     "type": "單選",
     "course": "行政程序法概論（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:00.573Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.865Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "主管機關不得於通知書記載「未於期限內陳述意見，視為放棄陳述之機會」。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_255.html",
+          "title": "「行政程序法概論（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.924Z"
+    },
+    "resolved_answer": "主管機關不得於通知書記載「未於期限內陳述意見，視為放棄陳述之機會」。"
   },
   {
     "id": "e5abcd0cf0acb82bd922b61967356c709ba093c9929699ebeae2c0d2a316af59",
@@ -210,14 +276,31 @@
     ],
     "type": "單選",
     "course": "行政程序法概論（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:38.593Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.785Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "六親等的表姐弟。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_255.html",
+          "title": "「行政程序法概論（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:59:56.035Z"
+    },
+    "resolved_answer": "六親等的表姐弟。"
   },
   {
     "id": "7446b8f7f4076a11e550737baa232145bf5950dfc8b21ed639b40f9e8ced7f59",
@@ -237,7 +320,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:38.594Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.539Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "788447947490d56ddcd47d58f3461b627613d9eb2b805e40f00f6ace90c6dcba",
@@ -257,7 +344,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:38.594Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.960Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "c88b844114bf65997eafaff1569c03207c16bae148b666318785e087a70c4ca7",
@@ -277,7 +368,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:41:38.595Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:13.564Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "31baa485e76c17567a154a783cd565c9ba73dbbe68e4704c4086e5e4dd9c811c",
@@ -297,7 +392,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:42:09.815Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.887Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "67b03f71b63ea3224b514bb3803568253cd153b887922fdb8f92cb20b7241da8",
@@ -317,6 +416,10 @@
     "source": "reported_question",
     "created_at": "2026-10-18T06:42:09.816Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.950Z",
+    "verification_status": "existing_answer_requires_evidence"
   }
 ]

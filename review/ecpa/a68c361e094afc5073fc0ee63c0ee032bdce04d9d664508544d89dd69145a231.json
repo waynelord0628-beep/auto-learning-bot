@@ -142,7 +142,11 @@
     "candidate_answer": "看得到、可管理、有順序、可操作",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.150Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.703Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "317e5b036acc48bdf5fa8790b550153d9f946850e009dc59bc44a8e3c3ab98c2",

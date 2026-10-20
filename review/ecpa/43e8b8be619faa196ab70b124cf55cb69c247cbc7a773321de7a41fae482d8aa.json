@@ -309,7 +309,11 @@
     "candidate_answer": "事後若良心發現趕快抽換正確照片，仍無法免除已發生的刑事責任。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:27:06.464Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.177Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9674aa227366a4fc3503f7e191e97b2806579b611dca13641c74ea322c46b081",

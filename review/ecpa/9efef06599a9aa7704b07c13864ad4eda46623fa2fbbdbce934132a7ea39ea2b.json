@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.289Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T05:19:51.766Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.162Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -275,7 +275,11 @@
     "candidate_answer": "強制對比兩次結果，確保騙到的密碼 100% 正確",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.993Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.158Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "438f4d003560e96c4e11b1155bd605061e9861b7189a2c6d5cf34e0c438b10f7",

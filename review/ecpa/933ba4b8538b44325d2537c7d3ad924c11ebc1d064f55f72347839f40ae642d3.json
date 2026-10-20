@@ -150,13 +150,30 @@
     ],
     "type": "單選",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "最快從案家離開就可以完成",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.083Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.679Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "最快從案家離開就可以完成",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:03:42.166Z"
+    },
+    "resolved_answer": "最快從案家離開就可以完成"
   },
   {
     "id": "50404e10014dce3a289f31a06edd64ded35de9a380c10c88c69309aa6c74105f",
@@ -169,13 +186,30 @@
     ],
     "type": "單選",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.085Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.519Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.135Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "af44d8be09a3521df00dd762feee6f3661503b9b896c4cc65fa4d7cc0043d1b4",
@@ -186,13 +220,30 @@
     ],
     "type": "是非",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.086Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.538Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.140Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d61801377ef9b92ff3dcf210e7c610e3c1c0e545552900b91f4d1a41047fb94b",
@@ -205,13 +256,30 @@
     ],
     "type": "單選",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "IMAX電影",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.087Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.693Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "IMAX電影",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:03:42.173Z"
+    },
+    "resolved_answer": "IMAX電影"
   },
   {
     "id": "b582521f934ba735cff2b6e0c4175205e5b5627575c4a93e70a2e5a1d4874ad6",
@@ -224,13 +292,30 @@
     ],
     "type": "單選",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.088Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.553Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.145Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d16a2baf62ed7dfbe117895d64e5f611b7aa0b0e3fe9cb8c91784a95ea2be520",
@@ -241,12 +326,29 @@
     ],
     "type": "是非",
     "course": "輔具評估報告書Iphone取代筆電",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:08:46.089Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.569Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170453",
+          "title": "輔具評估報告書Iphone取代筆電《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:31.152Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-28T17:47:53.146Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T07:20:13.442Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.902Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -346,7 +346,11 @@
     "candidate_answer": "聯合國",
     "source": "ai_unverified",
     "created_at": "2026-09-29T01:24:23.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.908Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5d896d2a079728b269dee1e10755a02c91c6d37cbe8d347ddc908e08d5363c23",

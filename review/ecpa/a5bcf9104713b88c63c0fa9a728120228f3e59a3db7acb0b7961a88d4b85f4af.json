@@ -217,13 +217,30 @@
     ],
     "type": "是非",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:35:27.969Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.533Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.779Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "81b8bc846bd712cdd841b7182657626c0f1a1951d6e45efe9449d8a9ddf09824",
@@ -234,13 +251,30 @@
     ],
     "type": "是非",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:35:27.969Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.479Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.758Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b0ba48989f90b5648a2a6b61223764990db893de01ac62281e63cb3d971637c0",
@@ -253,13 +287,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用鸚鵡用的飛行衣、鉸鏈穿好、扣好，放在寵物用的外出提籠或後背包帶出門",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:35:27.971Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.553Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "使用鸚鵡用的飛行衣、鉸鏈穿好、扣好，放在寵物用的外出提籠或後背包帶出門",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.789Z"
+    },
+    "resolved_answer": "使用鸚鵡用的飛行衣、鉸鏈穿好、扣好，放在寵物用的外出提籠或後背包帶出門"
   },
   {
     "id": "87220bbb4bc2425e4eb2fe6e086cbdbdeb91eb4bcd21206cabff315411222d00",
@@ -272,13 +323,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "愛情鳥（小鸚）",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:35:27.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.501Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "折衷鸚鵡",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.765Z"
+    },
+    "resolved_answer": "折衷鸚鵡"
   },
   {
     "id": "c4a97bb857960e30d2f33c8ef4b09e4b31b8c305217e86d27bd318cc56419faa",
@@ -290,13 +358,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "圓周占鸚鵡的爪圍2/3~3/4",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.570Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "圓周占鸚鵡的爪圍2/3~3/4",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.793Z"
+    },
+    "resolved_answer": "圓周占鸚鵡的爪圍2/3~3/4"
   },
   {
     "id": "878a5fe9d24eb845b0b46d49dc63f2fd9784e000e458072494758354a33f02cc",
@@ -310,13 +395,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.554Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.516Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.770Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "20f069d1a72a9ce5fdc73291048b2368e68cddf4529bfeb47109457e34b2b91a",
@@ -327,13 +429,30 @@
     ],
     "type": "是非",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.555Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.462Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.754Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "efb6e4bb4bc41956ec441a7f1d91e3c6d689a55beee4c64f789efc3ac9a37879",
@@ -346,13 +465,30 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "暫時讓牠冷靜一下，不要餵奶",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.555Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.602Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "更少量多餐的餵奶並且提高泡奶的溫度",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.802Z"
+    },
+    "resolved_answer": "更少量多餐的餵奶並且提高泡奶的溫度"
   },
   {
     "id": "e0caa2dc14a411bdb3f7e1af8f795cf0e4ff70c76d0bb6ccd03f2668dd0b462a",
@@ -363,13 +499,30 @@
     ],
     "type": "是非",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:36:31.556Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.585Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.797Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8175ea3ec444c7a2f24a37ac88bde0a021f21e80610a43c32c489278c6f2c8f2",
@@ -422,12 +575,29 @@
     ],
     "type": "單選",
     "course": "常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "白鐵籠",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-28T07:38:54.485Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:05.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "白鐵籠",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/qa-ee.html",
+          "title": "「常見鳥類寵物飼養QA-讓獸醫師來告訴你-鸚鵡篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:01:15.451Z"
+    },
+    "resolved_answer": "白鐵籠"
   }
 ]

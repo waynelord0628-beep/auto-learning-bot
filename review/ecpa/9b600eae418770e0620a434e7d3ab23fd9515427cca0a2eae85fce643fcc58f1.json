@@ -49,16 +49,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.790Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.442Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "明確定義 AI 的角色為「專業會議記錄員」，並將活動紀要的撰寫拆解為「資料彙整（時間、地點、參與人員、討論重點、結論）」和「紀要生成與優化」兩個階段。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.308Z"
+    },
+    "resolved_answer": "明確定義 AI 的角色為「專業會議記錄員」，並將活動紀要的撰寫拆解為「資料彙整（時間、地點、參與人員、討論重點、結論）」和「紀要生成與優化」兩個階段。"
   },
   {
     "id": "80df8dcca539bdca9b4452cbe43a83dfea13d23c61cfdfa39d3299b6404e5aeb",
@@ -71,16 +88,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.791Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.462Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升 AI 決策的邏輯透明度。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.317Z"
+    },
+    "resolved_answer": "提升 AI 決策的邏輯透明度。"
   },
   {
     "id": "3a55100eab4dcd10d153dc23fac57760a2923213115a79d654449207ae05beff",
@@ -93,16 +127,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.792Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.422Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "設計一個階段，讓 AI 先探索並列出多種可能的技術路徑，然後在獲得更多資訊後，再引導 AI 選擇最合適的路徑並細化方案。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.301Z"
+    },
+    "resolved_answer": "設計一個階段，讓 AI 先探索並列出多種可能的技術路徑，然後在獲得更多資訊後，再引導 AI 選擇最合適的路徑並細化方案。"
   },
   {
     "id": "7604ecacb7aec0df1b2e4c418a4201d1565cab322ee5cad8303ce4af16bfd4c9",
@@ -115,16 +166,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.793Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.396Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "語句自然，上下文足以讓 AI 理解其操作意圖。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:56:46.970Z"
+    },
+    "resolved_answer": "語句自然，上下文足以讓 AI 理解其操作意圖。"
   },
   {
     "id": "8b32cf269be3d6bb44fcfccc3fa15d6360f7c7878671811d3ba5a55dba8c923f",
@@ -137,16 +205,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.794Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.486Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "明確限定資料的來源機構或發布時間。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.329Z"
+    },
+    "resolved_answer": "明確限定資料的來源機構或發布時間。"
   },
   {
     "id": "2dc89aa22bb6c269fe19103ba5de3a37c863f7573243e31cb18d04c83cc46c9a",
@@ -159,16 +244,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.795Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.400Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確保 AI 產出的內容格式標準化，提升其再利用性。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.293Z"
+    },
+    "resolved_answer": "確保 AI 產出的內容格式標準化，提升其再利用性。"
   },
   {
     "id": "2a5d70a250985ae159a5040c9d7c5da12bcea3efd608ac6bc891c25b4c8fa4e6",
@@ -181,16 +283,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.796Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.383Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "CSV 格式。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.289Z"
+    },
+    "resolved_answer": "CSV 格式。"
   },
   {
     "id": "c606a9df27a4b6bc75ae16482976db2174890adcaf067b11151a836d69ffdc99",
@@ -203,16 +322,33 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.797Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.504Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "維持 AI 的專業形象和服務邊界，同時避免產生錯誤資訊。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.332Z"
+    },
+    "resolved_answer": "維持 AI 的專業形象和服務邊界，同時避免產生錯誤資訊。"
   },
   {
     "id": "276075ac013838bef346e1a14674e597b0a043b92422b224eadcdf001e93177b",
@@ -225,15 +361,32 @@
     ],
     "type": "單選",
     "course": "《AI實務力：公務流程的應用技巧》",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T09:40:37.797Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-15T05:19:40.775Z",
-    "ai_error": "generation_failed"
+    "ai_error": "generation_failed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.369Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "明確告知 AI 只能查詢某城市的大眾運輸資訊，並設定超出範圍時的拒絕範例。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831425",
+          "title": "《AI實務力：公務流程的應用技巧》《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.282Z"
+    },
+    "resolved_answer": "明確告知 AI 只能查詢某城市的大眾運輸資訊，並設定超出範圍時的拒絕範例。"
   }
 ]

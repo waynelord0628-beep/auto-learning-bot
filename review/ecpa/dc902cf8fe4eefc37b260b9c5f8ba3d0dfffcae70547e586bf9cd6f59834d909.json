@@ -333,13 +333,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.717Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:04.706Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:00:23.866Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "08717c4eac466bf06adb3aa2f180d0669ccf51526e482e68f28214ddd3d8b72b",
@@ -350,13 +367,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.718Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.226Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.438Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "4c57104d6db2ae968acf569cd3b64f32d35a1dd8e9f4eeb49335f0baa211ea01",
@@ -367,13 +401,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.722Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.268Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.453Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "620b34e0926dc463f7112b94f0eb4ada0db28b95203a2c2b2fef8746b92b2ef2",
@@ -403,13 +454,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.285Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.457Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "149dd13c78fd50e8902b10bac7574cf1fce3f48d531975227210f10f35096d19",
@@ -420,13 +488,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:52:24.725Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.239Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.443Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5ce2d92ebab1cd996abe9c81c09379e646168191defce985dac126252912afed",
@@ -456,13 +541,30 @@
     ],
     "type": "是非",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:53:00.096Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.254Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.448Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "607bf9202f719aedef3a48006844d25b1eb5e3f093ac55959b391b03258c47ab",
@@ -475,12 +577,29 @@
     ],
     "type": "單選",
     "course": "突破厭女：你我可以做什麼",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "侵害財產權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:53:00.097Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:10.301Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "侵害財產權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_441.html",
+          "title": "「突破厭女：你我可以做什麼」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:28.460Z"
+    },
+    "resolved_answer": "侵害財產權"
   }
 ]

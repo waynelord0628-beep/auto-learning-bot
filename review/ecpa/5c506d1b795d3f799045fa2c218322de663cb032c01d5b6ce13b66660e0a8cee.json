@@ -269,7 +269,11 @@
     "candidate_answer": "戒嚴法",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.568Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.989Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "54b058424f11f5f51ec44cabb7f000c8fd65fff948e7500bba8e29c96315c96f",

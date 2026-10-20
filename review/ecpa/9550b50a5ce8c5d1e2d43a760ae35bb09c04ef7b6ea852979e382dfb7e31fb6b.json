@@ -8,16 +8,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.362Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.009Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.000Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5fa954dc97845846928030e55210ca75799ac958aaeb4086ae14f4e5a9886bfa",
@@ -30,16 +51,37 @@
     ],
     "type": "單選",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.363Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.982Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "歧視",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.991Z"
+    },
+    "resolved_answer": "歧視"
   },
   {
     "id": "2e9c15ba1700df5db5c91d1e1f1ccd3e557de4376913b060bde526791e5d5f10",
@@ -52,16 +94,37 @@
     ],
     "type": "單選",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.364Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.945Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國101年1月1日起施行",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.983Z"
+    },
+    "resolved_answer": "民國101年1月1日起施行"
   },
   {
     "id": "a983f6b80253a4b0dc18165442ae1efeb3807cd0390b7c2692d456bdeeb5614b",
@@ -72,16 +135,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.364Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.030Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.012Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "cd37c8111742a5abbb9117837cef67e71e1da8b72fcbfa06b097c97573a6e7b6",
@@ -92,16 +176,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.365Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.044Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.015Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "28c33790fd2ad144985a3af928bdf0ee524340b8febe6d56bd33747679aaf205",
@@ -112,16 +217,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.365Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.031Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:58:00.400Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "1ddfe873f8f6ccba86fe7872bc868accd72c949443681b050f411254080f5c4a",
@@ -152,16 +278,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.366Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.994Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.996Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3a2aebf1081117290a0cda312683f77d9d9cdd0a866681f731554ac88b0004fb",
@@ -174,16 +321,37 @@
     ],
     "type": "單選",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.966Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "跟蹤騷擾防制法",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.987Z"
+    },
+    "resolved_answer": "跟蹤騷擾防制法"
   },
   {
     "id": "20fd3f617cef241a70694c8ab4b7542b187b8fd4d56cdb2b5b8d87589001776f",
@@ -194,16 +362,37 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:35:30.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-21T00:19:40.508Z"
+    "retry_after": "2026-10-21T00:19:40.508Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.923Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.977Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8907d65ad483e7832ee436d4fc13d818b13df74ad405ab09e9df8e3297907c30",
@@ -254,14 +443,35 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:36:55.372Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.059Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.019Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "118024042a117e5f2f5308c81c10d128689b328ef5158368e8dcf915c77655c1",
@@ -272,14 +482,35 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:38:06.052Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.910Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.972Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0370b87191132a475f80f4b30535b8ab1b8279af12ab1f9874285839e7e80e9e",
@@ -290,14 +521,35 @@
     ],
     "type": "是非",
     "course": "公民與政治權利國際公約專題",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T06:38:06.053Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.890Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337013217",
+          "title": "公民與政治權利國際公約專題《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_890.html",
+          "title": "「公民與政治權利國際公約專題」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:24.969Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b62faa3e46badf08dd72c5091ec5ceb6e4c3b36427d80e78620c16fa7d128eb2",

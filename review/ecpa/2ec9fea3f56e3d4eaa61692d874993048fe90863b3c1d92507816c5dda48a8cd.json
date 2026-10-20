@@ -62,8 +62,8 @@
     "created_at": "2026-09-23T08:04:24.848Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T03:19:54.116Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.794Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -174,7 +174,11 @@
     "candidate_answer": "單科實施2種以上有效策略且累計介入12次以上，輔導時間涵蓋至少3個月。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.852Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.798Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fbc98cb4285a0c18fe6a7f4898461fc62ec425f5f6106e441eeb98f64b9153ad",

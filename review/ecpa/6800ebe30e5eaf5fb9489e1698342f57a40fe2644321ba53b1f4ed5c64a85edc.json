@@ -118,7 +118,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.725Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.861Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0a25dc73c87615d20d963430bdbb0bd5508118721a3d94c358aae12f52339f23",
@@ -129,13 +133,30 @@
     ],
     "type": "是非",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.806Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.658Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "07f43ecafa7a1f21c29a7596b6d064a3da3beb6a12381c3bd94a2d9af45e99e2",
@@ -146,13 +167,30 @@
     ],
     "type": "是非",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.794Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.656Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e443efa57cab9badc1dc94b86651d19e9170a4a1896a6206c71387f17adb49ed",
@@ -166,13 +204,30 @@
     ],
     "type": "單選",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.851Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.681Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f39237ee713fd373fdfc7761df5608ff25e83352077d646c1229ccefbddf3a43",
@@ -185,13 +240,30 @@
     ],
     "type": "單選",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.867Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.685Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "7337d71d48d2e0ab3dafc92a0dd4a1adc8ab9a5bb28ddcbb7791de46d3e0389b",
@@ -204,13 +276,30 @@
     ],
     "type": "單選",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1.5度C",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:17:53.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:02.849Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1.5度C",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:57:24.459Z"
+    },
+    "resolved_answer": "1.5度C"
   },
   {
     "id": "716cc510f42da48be19bd9df53a32bd83175ea028a8af26870d39dd597ddcda0",
@@ -224,13 +313,30 @@
     ],
     "type": "單選",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:18:41.467Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.823Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.661Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d3dd48faf6fcf128263cb6093d29ce064396164e94f274e5cb28d3768089e75d",
@@ -243,12 +349,29 @@
     ],
     "type": "單選",
     "course": "二氧化碳捕獲封存及再利用(CCSU)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:19:23.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:07.837Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ccsuee.html",
+          "title": "「二氧化碳捕獲封存及再利用(CCSU)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:23.666Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

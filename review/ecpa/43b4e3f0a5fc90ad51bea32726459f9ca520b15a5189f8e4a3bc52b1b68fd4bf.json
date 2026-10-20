@@ -214,13 +214,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:23:38.540Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.246Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.285Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b7555b95d14972dc675df542dec90e4dc6473dd645637c7be353d7127103e9a3",
@@ -231,13 +248,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:23:38.542Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.317Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.303Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "04a7d6050748beda71f8d0058c9b1eecfa63d7bdd005a02c96de6efbdd6f2fe5",
@@ -248,13 +282,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:23:38.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.200Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.274Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6ae1c54a54f4d5c2ed5e98cbcf229bc0110bd2d9c672b1d174703272c4d8cdf5",
@@ -267,13 +318,30 @@
     ],
     "type": "單選",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Memo AI",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:23:38.546Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.264Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Memo AI",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.290Z"
+    },
+    "resolved_answer": "Memo AI"
   },
   {
     "id": "faf84a8fa01a7e43cc4f1052b39e40f855a96d03f00a8ecfaf8d972dd1819a8d",
@@ -284,13 +352,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.326Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d51b939617fb8b05aa257fbd0bb87bd7dde40fdbc218e1e1809e522467746f56",
@@ -301,13 +386,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.782Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.346Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.312Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0c1d6cda10478317a78e1ce1c194a303170459fc1b2698a75090e39da6d7572e",
@@ -320,13 +422,30 @@
     ],
     "type": "單選",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.783Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.277Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "51d2de6c78774668e8f6d84248ea8e2c52ceb9c006e72205c5bae6d61fa33a40",
@@ -337,13 +456,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.784Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.326Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:58:39.309Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "25eda069927921ede2823a8f8d0bee2ee8abe56706dd16f383b1d59f918d5f73",
@@ -354,13 +490,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.785Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.232Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.280Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "edaadda02315553e8146842d66d5901ca84d4ec922b2ff77ac87093153bb3191",
@@ -371,13 +524,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.787Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.374Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.322Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b2edeff45f2eee915420cedc8b0dc21a21aa1993bf97825fa2f946d536743fea",
@@ -388,13 +558,30 @@
     ],
     "type": "是非",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:24:11.788Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.299Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.299Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ec7595490cc00f212e681e7970cb13cc584f2bab66e811f7dbcd756a5e6c2497",
@@ -407,13 +594,30 @@
     ],
     "type": "單選",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "寫一篇產品文案或商務報告",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T05:15:13.219Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.360Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "寫一篇產品文案或商務報告",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.315Z"
+    },
+    "resolved_answer": "寫一篇產品文案或商務報告"
   },
   {
     "id": "bc52a8382f31c84342f802f1227ff59545db5fb83ae5b5b2bb2af950634326b1",
@@ -426,13 +630,30 @@
     ],
     "type": "單選",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "辛頓 (Hinton)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T05:15:42.361Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.332Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "辛頓 (Hinton)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.309Z"
+    },
+    "resolved_answer": "辛頓 (Hinton)"
   },
   {
     "id": "8929371016601100fb3bc265433ab54efe128a0e7868f253b3a321e4da93a38e",
@@ -445,12 +666,29 @@
     ],
     "type": "單選",
     "course": "生成式AI工具入門(二)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "文字接龍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T05:15:42.364Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:08.284Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "文字接龍",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347500505",
+          "title": "生成式AI工具入門(二)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:25.294Z"
+    },
+    "resolved_answer": "文字接龍"
   }
 ]

@@ -155,13 +155,30 @@
     ],
     "type": "單選",
     "course": "好用必收AI實用技巧",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "插件功能",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.398Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.516Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "任務功能",
+      "sources": [
+        {
+          "url": "https://help.openai.com/zh-hans-cn/articles/10291617-scheduled-tasks-in-chatgpt",
+          "quote": "在功能可用时，ChatGPT 可以运行一次性或重复任务、监控变化并响应受支持的事件。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T02:59:05.792Z"
+    },
+    "resolved_answer": "任務功能"
   },
   {
     "id": "e8aa7aa0c24a323e396d27d1977fdf3a5602ac16f23ff404783f19402b5c4edd",
@@ -180,7 +197,11 @@
     "candidate_answer": "調整閱讀等級",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.399Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.535Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "578fb3762e18df31bf43389a64a1bd7cf3b72697d043f222de4546cb4ebcfdfc",

@@ -29,17 +29,34 @@
     ],
     "type": "是非",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.763Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T05:19:48.293Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:06.442Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.cca.gov.tw/affairs/cbam/regulations/25850.html",
+          "quote": "制度目前涵蓋鋼鐵、水泥、鋁、肥料、電力及氫氣等產品，進口商須依產品實際碳排放量購買CBAM憑證。"
+        },
+        {
+          "url": "https://www.sme.gov.tw/caas/article-caas-3064-14434",
+          "quote": "針對鋼鐵、水泥、鋁、化肥、電力、氫、特定條件下的間接排放和某些下游產品"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T03:02:57.019Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "354a38a07bc243da2c2ce146120d48a43d64a966b73fcf3eb157e1edd9b275a0",
@@ -88,13 +105,30 @@
     ],
     "type": "單選",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因中小企業無力負擔智慧製造的顧問費用，因此尚不需將數位及低碳轉型作為公司的策略方向",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.778Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.462Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "因中小企業無力負擔智慧製造的顧問費用，因此尚不需將數位及低碳轉型作為公司的策略方向",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_130.html",
+          "title": "「聚和國際推動數位轉型， 邁向淨零碳排的經驗分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.895Z"
+    },
+    "resolved_answer": "因中小企業無力負擔智慧製造的顧問費用，因此尚不需將數位及低碳轉型作為公司的策略方向"
   },
   {
     "id": "c5b7e50ab3d2a1b5649778b75a5bed98464472b18516bee3cf20cb8546c25be3",
@@ -107,13 +141,30 @@
     ],
     "type": "單選",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "僅考慮增聘更多員工",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.498Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "僅考慮增聘更多員工",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_130.html",
+          "title": "「聚和國際推動數位轉型， 邁向淨零碳排的經驗分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.912Z"
+    },
+    "resolved_answer": "僅考慮增聘更多員工"
   },
   {
     "id": "cd4c90a78e58cdd0b83ab6656b5889f79a6b839a7f1e13a7936c5d9b98749e8b",
@@ -145,13 +196,30 @@
     ],
     "type": "單選",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.783Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.481Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_130.html",
+          "title": "「聚和國際推動數位轉型， 邁向淨零碳排的經驗分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.901Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e4289c5afedef338453f36543c95efa8ca6ccc0731856d39552f2ae8e1e81874",
@@ -198,12 +266,29 @@
     ],
     "type": "單選",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資料的基礎工程不是很重要，可忽略",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.787Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:12.443Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料的基礎工程不是很重要，可忽略",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_130.html",
+          "title": "「聚和國際推動數位轉型， 邁向淨零碳排的經驗分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:30.889Z"
+    },
+    "resolved_answer": "資料的基礎工程不是很重要，可忽略"
   }
 ]

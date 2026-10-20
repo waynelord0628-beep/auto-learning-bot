@@ -148,13 +148,30 @@
     ],
     "type": "是非",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.897Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.136Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.994Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "59226484236060d16bca971c6c1a2ccd0f92eb8d3a387a7b08b400f1dd9c64d2",
@@ -167,13 +184,30 @@
     ],
     "type": "單選",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.898Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.107Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.988Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e13b947e0c84b8c503d8db795f0f1a9e7108ce1db29c9f7bee67e1fa2ae1b7ca",
@@ -186,13 +220,30 @@
     ],
     "type": "單選",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.898Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.121Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.992Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "148de355064ae833f83e1a92fa81fa5e7786e097a552e0b67620bebc7483fdd5",
@@ -205,13 +256,30 @@
     ],
     "type": "單選",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.090Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:26.984Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f5063318a86c09e7cea76946cfec33dc270237f422beba4333dbf0a53a599fec",
@@ -222,13 +290,30 @@
     ],
     "type": "是非",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:09.152Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:09:27.000Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b219b846ebbe78495437dcebd7e184dff7c842db02b86c6e4c069ce1bf869292",
@@ -239,12 +324,29 @@
     ],
     "type": "是非",
     "course": "利用AI的科技手法來提升環保稽核的能力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T11:46:08.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:12:03.922Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_54.html",
+          "title": "「利用AI的科技手法來提升環保稽核的能力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:59:58.383Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]
