@@ -196,7 +196,11 @@
     "candidate_answer": "結合財務管理原則與雲端工程",
     "source": "ai_unverified",
     "created_at": "2026-09-30T15:37:23.339Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v1",
+    "verify_after": "2026-10-27T00:20:12.785Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "bfadee27d8782011047c04b97309aedea034bc81a83ccf69190bf7d31b894a97",
