@@ -1,8 +1,8 @@
 """
 臺北e大 測驗自動作答模組
-- 查 GAS 題庫 → 命中直接答 → 送出
-- 未知題：呼叫 AI 分析答案 → 填答 → 送出 → 存 GAS
-- AI 失敗 fallback：猜 val=0 送出 → review 讀正解 → 存 GAS → 再考一次
+- 依答案文字比對當次選項，避免選項隨機排序造成錯位
+- 考後僅同步平台明確確認的正解；錯誤／未確認題下輪重新補答
+- 最多三次，AI 候選答案不直接當作正解入庫
 """
 
 import re, json, time, requests, difflib, threading
@@ -46,7 +46,7 @@ def _click_js(driver, el):
 def gas_fetch_bank(course_id):
     """
     從 GAS 取得該課程題庫。
-    回傳 dict: {normalize(q_text): val_str}
+    回傳 dict: {normalize(q_text): 原始題目／選項紀錄}
     支援兩種回傳格式：
       - 新格式：{status:'ok', data:[...]}
       - 舊/未支援：[] 或其他 list
@@ -69,7 +69,7 @@ def gas_fetch_bank(course_id):
             if not isinstance(row, dict): continue
             key = _normalize(row.get('q_text', ''))
             if key:
-                bank[key] = str(row.get('val', '0'))
+                bank[key] = dict(row)
         if bank:
             print(f'  [題庫] 從 GAS 載入 {len(bank)} 題（course_id={course_id}）')
         else:
@@ -88,6 +88,7 @@ def _taipei_question_payload(course_id, q):
         'opt1': opts.get('1', ''),
         'opt2': opts.get('2', ''),
         'opt3': opts.get('3', ''),
+        'rejected_answers': list(q.get('rejected_answers', [])),
     }
 
 def gas_report_missing_questions(course_id, questions, course_name='', username='', config=None):
@@ -121,7 +122,7 @@ def gas_report_missing_questions(course_id, questions, course_name='', username=
             r = requests.post(gas_url, json=payload, timeout=20)
             result = r.json()
             if result.get('status') == 'ok':
-                print(f'  [缺題] 已回報 GAS/TG（{len(missing)} 題，GAS新增 {result.get("added", 0)} 題）')
+                print(f'  [缺題] 已回報 GAS/TG（{len(missing)} 題，GAS新增 {result.get("added", 0)} 題、重新補答 {result.get("updated", 0)} 題）')
             else:
                 print(f'  [缺題] GAS 回傳異常: {result}')
         except Exception as e:
@@ -149,21 +150,50 @@ def gas_save_questions(course_id, questions_with_answers, course_name='', userna
         result = r.json()
         if result.get('status') == 'ok':
             print(f'  [題庫] 已同步共用題庫: added={result.get("added")}, updated={result.get("updated")}')
+            return True
         else:
             print(f'  [題庫] GAS 回傳異常: {result}')
     except Exception as e:
         print(f'  [題庫] GAS 存入失敗: {e}')
+    return False
 
-def lookup_bank(bank, q_text, threshold=0.75):
-    """在 bank 裡模糊查找 q_text，回傳 val str 或 None"""
+def _option_text(text):
+    """Ignore option labels, never the meaning of the answer."""
+    text = re.sub(r'^\s*(?:[a-zA-Z][.、)]\s*|\d+[.、)]\s+)', '', str(text or ''))
+    return re.sub(r'\s+', '', text).removesuffix('。')
+
+
+def _question_identity(q):
+    return (_normalize(q.get('qtext', '')),
+            tuple(sorted(_option_text(t) for t in q.get('options', {}).values())))
+
+
+def _answer_value(answer_text, options):
+    matches = [str(v) for v, text in options.items()
+               if _option_text(text) == _option_text(answer_text)]
+    return matches[0] if len(matches) == 1 else None
+
+
+def lookup_bank(bank, q_text, threshold=0.75, options=None):
+    """Match answer text back to current options; stored radio values may shuffle."""
     key = _normalize(q_text)
-    if key in bank:
-        return bank[key]
-    matches = difflib.get_close_matches(key, bank.keys(), n=1, cutoff=threshold)
-    if matches:
-        print(f'  [題庫] fuzzy: {matches[0][:20]}...')
-        return bank[matches[0]]
-    return None
+    if key not in bank:
+        matches = difflib.get_close_matches(key, bank.keys(), n=1, cutoff=threshold)
+        if not matches:
+            return None
+        key = matches[0]
+        print(f'  [題庫] fuzzy: {key[:20]}...')
+    entry = bank[key]
+    if not isinstance(entry, dict):
+        return str(entry) if options is None else None
+    val = str(entry.get('val', ''))
+    if options is None:
+        return val or None
+    stored = {str(i): entry.get('opt' + str(i), '') for i in range(4)}
+    stored = {v: text for v, text in stored.items() if text}
+    if val not in stored or sorted(map(_option_text, stored.values())) != sorted(map(_option_text, options.values())):
+        return None
+    return _answer_value(stored[val], options)
 
 
 # ── AI 分析答案 ──────────────────────────────────────
@@ -400,66 +430,63 @@ def _submit_quiz(driver, wait):
     print(f'  [測驗] review → {driver.current_url}')
     return driver.current_url
 
-def _read_correct_from_review(driver):
-    """
-    從 review 頁讀每題的正解 val。
-    策略：
-      1. 找 .answer div.correct 裡的 radio（Moodle 標示正確選項，需開啟顯示正解）
-      2. 若題目整體標示 .que.correct → checked radio = 正解
-      3. 若題目整體標示 .que.incorrect → 記錄題目是非題還是 MCQ
-         - 是非題 (options=2)：翻轉 checked val
-         - MCQ：無法判斷，回傳 None（後續 AI 重答）
-    回傳 {name: val}（確認正確的才加入）
-    """
-    result = driver.execute_script("""
-        var out = {};
-        document.querySelectorAll('.que').forEach(function(q) {
-            var name   = null;
-            var val    = null;
-            var radios = Array.from(q.querySelectorAll('input[type=radio]')).filter(
-                function(r){ return r.value !== '-1'; });
-            if (!radios.length) return;
+def _review_result(record):
+    """Promote only explicit platform feedback; an unchecked state proves nothing."""
+    options = record.get('options', {})
+    selected = record.get('selected')
+    correct = {str(v) for v in record.get('correct_values', []) if str(v) in options}
+    incorrect = {str(v) for v in record.get('incorrect_values', []) if str(v) in options}
+    state = str(record.get('state', '')).strip().lower()
+    classes = str(record.get('classes', '')).split()
+    wrong = (state in ('不正確', '錯誤', '答錯', 'incorrect') or 'incorrect' in classes
+             or selected in incorrect)
+    right = state in ('正確', '答對', 'correct') or 'correct' in classes
+    disclosed = re.sub(r'^(?:正確答案(?:是|為)?|the correct answer is)\s*[:：]?\s*',
+                       '', str(record.get('rightanswer', '')).strip(), flags=re.I)
+    if disclosed:
+        value = _answer_value(disclosed, options)
+        if value is not None:
+            correct.add(value)
+    value = None
+    if len(correct) == 1:
+        candidate = next(iter(correct))
+        if candidate not in incorrect and not (wrong and candidate == selected):
+            value = candidate
+    elif not correct and right and not wrong and selected in options:
+        value = selected
+    elif not correct and wrong and selected in options and len(options) == 2:
+        value = next(v for v in options if v != selected)
+    rejected = selected if selected in options and (wrong or (value is not None and value != selected)) else None
+    return {'correct_val': value, 'wrong_val': rejected}
 
-            // 1. 優先：.answer div.correct 裡有 radio（正解標示）
-            var correctDiv = q.querySelector(
-                '.answer .r0.correct, .answer .r1.correct, ' +
-                '.answer .r2.correct, .answer .r3.correct, ' +
-                '.answer div.correct');
-            if (correctDiv) {
-                var r = correctDiv.querySelector('input[type=radio]');
-                if (r && r.value !== '-1') { name = r.name; val = r.value; }
-            }
 
-            // 2. 題目本身標示 correct（我們答對了）
-            if (!name && q.classList.contains('correct')) {
-                radios.forEach(function(r){ if (r.checked) { name=r.name; val=r.value; } });
-            }
-
-            // 3. 題目本身標示 incorrect（答錯了）
-            var isIncorrect = q.classList.contains('incorrect');
-            if (!name && isIncorrect) {
-                var checked_r = null;
-                radios.forEach(function(r){ if (r.checked) checked_r = r; });
-                if (checked_r) {
-                    // 是非題 (2個選項)：翻轉
-                    if (radios.length === 2) {
-                        var other = radios.find(function(r){ return r !== checked_r; });
-                        if (other) { name = other.name; val = other.value; }
-                    }
-                    // MCQ：無法確定，跳過，避免把錯選項存回題庫
-                }
-            }
-
-            // 4. 最後 fallback：checked radio，只在頁面沒有標示 incorrect 時保底
-            if (!name && !isIncorrect) {
-                radios.forEach(function(r){ if (r.checked) { name=r.name; val=r.value; } });
-            }
-
-            if (name && val !== null) out[name] = val;
-        });
-        return out;
+def _read_review_feedback(driver):
+    records = driver.execute_script("""
+        function clean(s) { return (s || '').replace(/\\s+/g, ' ').trim(); }
+        return Array.from(document.querySelectorAll('.que')).map(function(q) {
+            var radios = Array.from(q.querySelectorAll('input[type=radio]')).filter(function(r) {return r.value !== '-1';});
+            if (!radios.length) return null;
+            var selected = radios.find(function(r) {return r.checked;}), options = {}, correct = [], incorrect = [];
+            radios.forEach(function(r) {
+                var label = document.getElementById(r.id + '_label') || q.querySelector('label[for="' + r.id + '"]');
+                var row = r.closest('.r0, .r1, .r2, .r3, .r4, .r5') || r.parentElement;
+                options[r.value] = clean(label ? label.textContent : (row ? row.textContent : ''));
+                if (row && (row.classList.contains('correct') || row.querySelector('.correct, .fa-check.text-success'))) correct.push(r.value);
+                if (row && (row.classList.contains('incorrect') || row.querySelector('.incorrect, .fa-times.text-danger'))) incorrect.push(r.value);
+            });
+            var state = q.querySelector('.state'), disclosed = q.querySelector('.rightanswer');
+            return {name:radios[0].name, options:options, selected:selected ? selected.value : null,
+                    correct_values:correct, incorrect_values:incorrect, classes:q.className,
+                    state:state ? clean(state.textContent) : '', rightanswer:disclosed ? clean(disclosed.textContent) : ''};
+        }).filter(Boolean);
     """)
-    return result
+    return {record['name']: _review_result(record) for record in records}
+
+
+def _read_correct_from_review(driver):
+    return {name: result['correct_val'] for name, result in _read_review_feedback(driver).items()
+            if result['correct_val'] is not None}
+
 
 def _get_score_from_review(driver):
     """從 review 頁讀成績，回傳 (score_text, is_100)"""
@@ -491,7 +518,7 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
     """
     臺北E大測驗流程：
     1. 第一次只用 GAS 題庫作答。
-    2. 不及格才第二次啟用本機 AI 補答。
+    2. 未滿分時重新檢查未確認／錯誤答案，第二、三次啟用本機 AI 補答。
     3. 若本機無 AI 或仍未通過，最多跑 3 次；缺題背景回報 GAS/TG，由 GAS 端 AI 補 JSON DB。
     回傳 (score_text, is_100: bool)
     """
@@ -508,11 +535,15 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
 
     best_score_text = ''
     best_is_100 = False
+    saved_answers = set()
     reported_missing_keys = set()
+    confirmed_answers = {}
+    rejected_answers = {}
+    needs_recheck = set()
 
     def _question_record(q, val):
         return {
-            'q_text': q['qtext'], 'val': val,
+            'q_text': q['qtext'], 'val': val, 'evidence': 'platform_feedback',
             'opt0': q['options'].get('0',''), 'opt1': q['options'].get('1',''),
             'opt2': q['options'].get('2',''), 'opt3': q['options'].get('3',''),
         }
@@ -523,20 +554,23 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
         deduped = []
         seen = set()
         for item in to_save:
-            key = _normalize(item.get('q_text', ''))
-            if not key or key in seen:
+            key = (_normalize(item.get('q_text', '')),
+                   tuple(sorted(_option_text(item.get('opt' + str(i), '')) for i in range(4))),
+                   _option_text(item.get('opt' + str(item.get('val', '')), '')))
+            if not key[0] or key in seen or key in saved_answers:
                 continue
             seen.add(key)
             deduped.append(item)
         if deduped:
-            gas_save_questions(course_id, deduped, course_name=course_name, username=username)
-            print(f'  [題庫] 本次同步共用題庫 {len(deduped)} 題')
+            if gas_save_questions(course_id, deduped, course_name=course_name, username=username):
+                saved_answers.update(seen)
+                print(f'  [題庫] 本次同步共用題庫 {len(deduped)} 題')
 
     def _report_missing_once(missing_qs):
         fresh = []
         for q in missing_qs:
-            key = _normalize(q.get('qtext', ''))
-            if not key or key in reported_missing_keys:
+            key = (_normalize(q.get('qtext', '')), tuple(sorted(map(_option_text, q.get('rejected_answers', [])))))
+            if not key[0] or key in reported_missing_keys:
                 continue
             reported_missing_keys.add(key)
             fresh.append(q)
@@ -569,34 +603,42 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
 
         answers = {}
         missing_qs = []
-        ai_answered = []
 
         for q in questions:
-            val = lookup_bank(bank, q['qtext'])
+            identity = _question_identity(q)
+            val = _answer_value(confirmed_answers.get(identity, ''), q['options']) if identity in confirmed_answers else None
+            if val is None and identity not in needs_recheck:
+                val = lookup_bank(bank, q['qtext'], options=q['options'])
+            rejected = rejected_answers.get(identity, set())
+            if val is not None and _option_text(q['options'].get(val)) in rejected:
+                val = None
             if val is not None:
                 answers[q['name']] = val
                 print(f'  ✓ [庫] {q["qtext"][:28]}... → val={val}')
                 continue
 
             if use_local_ai and has_local_ai:
-                val = ai_guess_answer(q['qtext'], q['options'], config)
-                if val is not None:
+                available = {v: t for v, t in q['options'].items() if _option_text(t) not in rejected}
+                val = ai_guess_answer(q['qtext'], available, config) if available else None
+                if val in available:
                     answers[q['name']] = val
-                    ai_answered.append((q, val))
                     print(f'  ✓ [AI] {q["qtext"][:28]}... → val={val}')
                     continue
 
-            answers[q['name']] = '0'
+            available = [v for v, text in q['options'].items() if _option_text(text) not in rejected]
+            if not available:
+                print('  [測驗] 所有選項均被平台否定，停止自動作答，請人工確認')
+                return '', False, {}, {}
+            answers[q['name']] = available[0]
             missing_qs.append(q)
-            print(f'  ? [猜] {q["qtext"][:28]}... → val=0')
-
-        _report_missing_once(missing_qs)
+            print(f'  ? [猜] {q["qtext"][:28]}... → val={answers[q["name"]]}')
 
         _fill_answers(driver, answers)
         _submit_quiz(driver, wait)
         time.sleep(2)
 
-        correct_by_name = _read_correct_from_review(driver)
+        feedback = _read_review_feedback(driver)
+        correct_by_name = {name: r['correct_val'] for name, r in feedback.items() if r['correct_val'] is not None}
         score_text = _get_score_from_review(driver)
         is_100 = _is_100(score_text)
         print(f'  [成績{attempt_no}] {score_text}  (100分: {is_100})')
@@ -610,14 +652,25 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
             if not q:
                 continue
             correct_by_text[q['qtext']] = val
+            confirmed_answers[_question_identity(q)] = q['options'][val]
+            needs_recheck.discard(_question_identity(q))
             to_save.append(_question_record(q, val))
 
-        for q, ai_val in ai_answered:
-            real_val = correct_by_name.get(q['name'])
-            if real_val and real_val != ai_val:
-                print(f'  [AI誤] {q["qtext"][:28]}... AI={ai_val} 正解={real_val}')
-            if not real_val:
-                to_save.append(_question_record(q, ai_val))
+        unconfirmed = []
+        for q in questions:
+            identity = _question_identity(q)
+            result = feedback.get(q['name'], {})
+            wrong_val = result.get('wrong_val')
+            if wrong_val in q['options']:
+                rejected_answers.setdefault(identity, set()).add(_option_text(q['options'][wrong_val]))
+                print(f'  [錯題] {q["qtext"][:28]}... 已排除：{q["options"][wrong_val]}')
+            if q['name'] not in correct_by_name and not is_100:
+                needs_recheck.add(identity)
+                unconfirmed.append(dict(q, rejected_answers=[text for text in q['options'].values()
+                    if _option_text(text) in rejected_answers.get(identity, set())]))
+        if unconfirmed:
+            print(f'  [測驗] {len(unconfirmed)} 題未獲平台正解確認，下輪重新補答；不存入正解題庫')
+        _report_missing_once(unconfirmed)
 
         _save_known_answers(to_save)
         return score_text, is_100, correct_by_text, answers
@@ -628,7 +681,7 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
     else:
         print('  [AI] 本機未設定 AI key，將用題庫/猜答最多跑 3 次，缺題交給 GAS 端 AI 補庫')
         attempt_plan.append(False)
-    attempt_plan.append(False)
+    attempt_plan.append(has_local_ai)
 
     for idx, use_ai in enumerate(attempt_plan, start=1):
         score_text, is_100, _, _ = _run_attempt(idx, use_ai)

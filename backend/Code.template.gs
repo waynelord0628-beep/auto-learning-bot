@@ -171,7 +171,7 @@ function openAIAnswerBatch(questions) {
 function openAITaipeiAnswerBatch(questions) {
   const items = questions.map((q, i) => {
     const opts = ["opt0", "opt1", "opt2", "opt3"]
-      .map((k, idx) => q[k] ? `${idx}. ${q[k]}` : "")
+      .map((k, idx) => q[k] && !taipeiRejectedAnswers(q).some(a => taipeiOptionKey(a) === taipeiOptionKey(q[k])) ? `${idx}. ${q[k]}` : "")
       .filter(Boolean)
       .join("\n");
     return `[${i}] course_id=${q.course_id || ""}\n題目：${q.q_text || ""}\n選項：\n${opts}`;
@@ -185,6 +185,15 @@ function openAITaipeiAnswerBatch(questions) {
     { role: "user", content: items }
   ]);
   return JSON.parse(stripJsonFence(raw));
+}
+
+function taipeiRejectedAnswers(q) {
+  return Array.isArray(q.rejected_answers) ? q.rejected_answers.filter(a => typeof a === "string") : [];
+}
+
+function taipeiOptionKey(text) {
+  return String(text || "").normalize("NFC").trim().replace(/^(?:[a-zA-Z][.、)]\s*|\d+[.、)]\s+)/, "")
+    .replace(/\s+/gu, "").replace(/。$/u, "");
 }
 
 function taipeiNormalizeKey(text) {
@@ -223,6 +232,7 @@ function handleTaipeiQuizSave(payload) {
   const sha = file.sha;
   let added = 0;
   let updated = 0;
+  let skipped = 0;
 
   (payload.questions || []).forEach(q => {
     const qkey = taipeiNormalizeKey(q.q_text);
@@ -230,11 +240,15 @@ function handleTaipeiQuizSave(payload) {
       String(r.course_id) === String(q.course_id) &&
       String(r.q_key) === qkey
     );
+    const val = String(q.val == null ? '' : q.val);
+    if (!['0','1','2','3'].includes(val) || !q['opt' + val]) { skipped++; return; }
+    if (idx >= 0 && bank[idx].verification_status === 'platform_confirmed' && q.evidence !== 'platform_feedback') { skipped++; return; }
     const entry = {
+      verification_status: q.evidence === 'platform_feedback' ? 'platform_confirmed' : 'legacy_unverified',
       course_id: q.course_id,
       q_key: qkey,
       q_text: cleanTaipeiQuestionText(q.q_text || ""),
-      val: String(q.val || ""),
+      val: val,
       opt0: q.opt0 || "",
       opt1: q.opt1 || "",
       opt2: q.opt2 || "",
@@ -253,7 +267,7 @@ function handleTaipeiQuizSave(payload) {
   if (added || updated) {
     githubPut(TAIPEI_QUIZ_PATH, bank, sha, `taipei_quiz: add ${added} update ${updated}`);
   }
-  return { ok: true, status: "ok", added, updated };
+  return { ok: true, status: "ok", added, updated, skipped };
 }
 
 function handleTaipeiQuizMissing(payload) {
@@ -268,14 +282,24 @@ function handleTaipeiQuizMissing(payload) {
   const file = githubGet(TAIPEI_QUIZ_PATH);
   const bank = Array.isArray(file.content) ? file.content : [];
   const sha = file.sha;
-  // Use the existing course/key identity, with a Set for batch deduplication.
   const keyFor = q => JSON.stringify([String(q.course_id), String(q.q_key)]);
-  const knownQuestions = new Set(bank.map(keyFor));
+  const knownQuestions = new Map(bank.map((q, i) => [keyFor(q), i]));
+  const seen = new Set(), targetIndices = [];
   const newQuestions = missing.filter(q => {
     if (!q || !cleanTaipeiQuestionText(q.q_text)) return false;
-    const key = keyFor({ course_id: q.course_id, q_key: taipeiNormalizeKey(q.q_text) });
-    if (knownQuestions.has(key)) return false;
-    knownQuestions.add(key);
+    const key = keyFor({course_id:q.course_id, q_key:taipeiNormalizeKey(q.q_text)});
+    if (seen.has(key)) return false;
+    seen.add(key);
+    const idx = knownQuestions.get(key);
+    if (idx !== undefined) {
+      const previous = bank[idx];
+      const opts = x => ['opt0','opt1','opt2','opt3'].map(k=>x[k]).filter(Boolean).map(taipeiOptionKey).sort();
+      const rejected = taipeiRejectedAnswers(q);
+      if (cleanTaipeiQuestionText(previous.q_text) !== cleanTaipeiQuestionText(q.q_text) ||
+          JSON.stringify(opts(previous)) !== JSON.stringify(opts(q)) ||
+          !rejected.some(a => taipeiOptionKey(a) === taipeiOptionKey(previous['opt' + previous.val]))) return false;
+    }
+    targetIndices.push(idx);
     return true;
   });
 
@@ -287,12 +311,14 @@ function handleTaipeiQuizMissing(payload) {
   const answerMap = {};
   answers.forEach(a => { answerMap[a.idx] = String(a.val); });
 
-  let added = 0;
+  let added = 0, updated = 0;
   const results = [];
   newQuestions.forEach((q, i) => {
     const val = answerMap[i];
-    if (val == null || val === "") return;
-    bank.push({
+    if (!["0","1","2","3"].includes(val) || !q["opt" + val] ||
+        taipeiRejectedAnswers(q).some(a=>taipeiOptionKey(a)===taipeiOptionKey(q["opt" + val]))) return;
+    const entry = {
+      verification_status: "ai_candidate",
       course_id: q.course_id,
       q_key: taipeiNormalizeKey(q.q_text),
       q_text: cleanTaipeiQuestionText(q.q_text || ""),
@@ -302,21 +328,22 @@ function handleTaipeiQuizMissing(payload) {
       opt2: q.opt2 || "",
       opt3: q.opt3 || "",
       updated_at: new Date().toISOString()
-    });
+    };
+    if (targetIndices[i] === undefined) {bank.push(entry); added++;}
+    else {bank[targetIndices[i]]=Object.assign({},bank[targetIndices[i]],entry); updated++;}
     results.push({ q: cleanTaipeiQuestionText(q.q_text || "").substring(0, 35), a: taipeiAnswerDisplay(q, val) });
-    added++;
   });
 
-  if (!added) {
+  if (!added && !updated) {
     tgSend(`臺北E大 OpenAI 未能補題\n使用者：${username}\n課程：${course}`);
     return { ok: false, status: "error", error: "no answers" };
   }
 
-  githubPut(TAIPEI_QUIZ_PATH, bank, sha, `taipei_quiz_missing: add ${added} questions from ${course}`);
+  githubPut(TAIPEI_QUIZ_PATH, bank, sha, `taipei_quiz_missing: add ${added} update ${updated} questions from ${course}`);
   const lines = results.map((r, i) => `Q${i + 1}: ${r.q}...\nA: ${r.a}`).join("\n\n");
-  tgSend(`臺北E大題庫已補題\n使用者：${username}\n課程：${course}\n新增：${added} 題\n\n${lines}`);
+  tgSend(`臺北E大題庫已補題\n使用者：${username}\n課程：${course}\n新增：${added} 題\n重新補答：${updated} 題\nAI 候選答案，待平台逐題確認\n\n${lines}`);
 
-  return { ok: true, status: "ok", added };
+  return { ok: true, status: "ok", added, updated };
 }
 
 function handleEcpaGetDb() {
