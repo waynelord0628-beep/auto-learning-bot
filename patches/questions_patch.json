@@ -68821,5 +68821,30 @@
       "model": null,
       "checked_at": "2026-10-19T15:20:14.129Z"
     }
+  },
+  {
+    "question": "根據本課程內容，雲端資訊安全的關鍵議題之一是什麼？",
+    "type": "單選",
+    "options": [
+      "雲端儲存容量",
+      "雲端平台流量",
+      "雲端運算速度",
+      "零信任原則"
+    ],
+    "course": "從雲端運算發展趨勢看企業雲端策略規劃",
+    "answer": "零信任原則",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "零信任原則",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_845.html",
+          "title": "「從雲端運算發展趨勢看企業雲端策略規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T00:19:50.622Z"
+    }
   }
 ]
