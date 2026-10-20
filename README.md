@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**開發版本 V2.1.10（準備發布）** | 數位研習輔助工具
+**版本 V2.1.10** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -210,7 +210,7 @@ V2.1.8 及更早版本仍使用 `main/version.txt` 的舊版提示流程，請�
 
 | 版本 | 內容 |
 |---|---|
-| V2.1.10（準備發布） | 支援 eCPA 五碼圖片驗證碼，改善登入速度、狀態確認與網站異常時的登入恢復。 |
+| V2.1.10 | 支援 eCPA 五碼圖片驗證碼，改善登入速度、狀態確認與網站異常時的登入恢復。 |
 | V2.1.9 | 新增入口一鍵更新與自動重新啟動，改善播放、操作及缺題通知穩定性。 |
 | V2.1.8 | 僅處理開放式課程，自動略過微學習/SPOC/專班等非開放式課程；課程清單低筆數時會同步 session 後重抓，降低漏課機率；同步調整帳號列表捲動與下拉箭頭顯示。 |
 | V2.1.7 | 修補 eCPA 多頁測驗/問卷流程，讓已達時數但仍需測驗或問卷的課程可繼續處理；改善課程 API 回傳異常時的重抓與續跑穩定性。 |
