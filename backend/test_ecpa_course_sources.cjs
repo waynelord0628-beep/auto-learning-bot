@@ -63,4 +63,7 @@ assert.equal(ctx.ecpaCourseMatchedAnswer(['是','否'],['是'],['不是','否'])
 assert.equal(ctx.ecpaCourseMatchedAnswer(['A B','AB'],['A B'],['AB','AB']),null);
 assert.equal(ctx.ecpaCourseMatchedAnswer(['甲','甲。'],['甲'],['甲','甲。']),null);
 assert.equal(ctx.ecpaCourseMatchedAnswer(['甲','乙'],['甲','乙'],['甲','乙']),null);
+
+assert.equal(ctx.ecpaCourseQuestion('She did not switch on the light &nbsp;&nbsp;disturb her daughter.'),'She did not switch on the light disturb her daughter.');
+assert.equal(ctx.ecpaCourseQuestion('x &lt; 5'),'x &lt; 5');
 console.log('PASS: exact source formats, one parse per course page, all course questions, retry-backoff reuse, no paid bulk calls, conflicts and redirect restrictions');

@@ -16,7 +16,7 @@ function ecpaCoursePlain(s) {
     .replace(/&apos;|&#39;/g,"'").replace(/^&#(?:12295|x3007);?$/i,'〇');
 }
 function ecpaCourseQuestion(s) {
-  return ecpaText(String(s).replace(/^[\d０-９]+[.．、。）)\s]+/,''));
+  return ecpaText(String(s).replace(/&nbsp;|&#160;|&#xa0;/gi,' ').replace(/^[\d０-９]+[.．、。）)\s]+/,''));
 }
 function ecpaCoursePageRows(html,url) {
   const rows=[];
