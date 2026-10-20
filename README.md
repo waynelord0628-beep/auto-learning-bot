@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.11** | 數位研習輔助工具
+**版本 V2.1.12** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -8,6 +8,12 @@
 協助處理公務數位研習流程，整合課程播放、測驗作答、問卷填寫、題庫同步與缺題回報，降低重複性操作時間。
 
 ---
+
+## V2.1.12 更新
+
+- 修正臺北E大複選題漏答與部分測驗重複錯答，改善補答及選項辨識。
+- 改善研習達標後的流程銜接及補題同步通知。
+- 沿用入口一鍵更新，保留原有帳號設定與本地題庫。
 
 ## V2.1.11 更新
 
@@ -170,7 +176,7 @@ python ui.py
 最小基準沿用舊版打包方式：
 
 ```cmd
-uv run pyinstaller --noconfirm "行政效能領航員_V2.1.11.spec"
+uv run pyinstaller --noconfirm "行政效能領航員_V2.1.12.spec"
 ```
 
 V2.1.2 因新增臺北E大，需要額外帶入：
@@ -184,7 +190,7 @@ V2.1.2 因新增臺北E大，需要額外帶入：
 - `db_version.txt`
 - `version.txt`
 
-目前建置設定為 `行政效能領航員_V2.1.11.spec`，輸出位於 `dist/`。爬蟲的 `scrapers/*_progress.json` 是本機續跑檔，不再提交到 Git；既有本機檔案可以繼續使用。
+目前建置設定為 `行政效能領航員_V2.1.12.spec`，輸出位於 `dist/`。爬蟲的 `scrapers/*_progress.json` 是本機續跑檔，不再提交到 Git；既有本機檔案可以繼續使用。
 
 ---
 
@@ -204,6 +210,7 @@ V2.1.8 及更早版本仍使用 `main/version.txt` 的舊版提示流程，請�
 
 | 版本 | 內容 |
 |---|---|
+| V2.1.12 | 修正臺北E大複選題漏答，改善測驗補答、選項辨識與題庫同步；沿用一鍵更新。 |
 | V2.1.11 | 修正臺北E大進度 100% 後停留問題，改善測驗與問卷銜接；沿用一鍵更新。 |
 | V2.1.10 | 支援 eCPA 五碼圖片驗證碼，改善登入速度、狀態確認與網站異常時的登入恢復。 |
 | V2.1.9 | 新增入口一鍵更新與自動重新啟動，改善播放、操作及缺題通知穩定性。 |

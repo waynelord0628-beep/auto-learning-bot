@@ -49,4 +49,26 @@ const raw={console};vm.createContext(raw);vm.runInContext(fs.readFileSync(__dirn
 raw.callOpenAI=messages=>{prompt=messages[1].content;return '[{"idx":0,"val":"0"}]';};
 raw.openAITaipeiAnswerBatch([shuffled]);
 assert.match(prompt,/0\. 乙/);assert.doesNotMatch(prompt,/1\. 甲/);
-console.log('PASS: Taipei correction, shuffled options, deduplication, invalid AI answers and legacy overwrite protection.');
+const multi={...question,type:'multiselect',q_text:'複選問題',opt3:'丁'};
+s=setup();
+for(const val of ['[]','["0","0"]','["4"]','0','[null]']) {
+  s.ctx.handleTaipeiQuizSave({questions:[{...multi,val,evidence:'platform_feedback'}]});
+}
+assert.equal(s.writes(),0,'malformed checkbox sets are never saved');
+s.ctx.handleTaipeiQuizSave({questions:[{...multi,val:[0,2],evidence:'platform_feedback'}]});
+assert.equal(s.bank()[0].val,'["0","2"]');
+assert.equal(s.bank()[0].type,'multiselect');
+assert.equal(s.bank()[0].verification_status,'platform_confirmed');
+const multiShuffled={...multi,opt0:'丙',opt1:'甲',opt2:'乙',rejected_combinations:[['甲','丙']]};
+s.ctx.openAITaipeiAnswerBatch=()=>[{idx:0,values:['1','2']}];
+result=s.ctx.handleTaipeiQuizMissing({missing:[multiShuffled]});
+assert.equal(result.updated,1,'a rejected set is rechecked even after option shuffle');
+assert.equal(s.bank()[0].val,'["1","2"]');
+assert.equal(s.bank()[0].verification_status,'ai_candidate');
+const writes=s.writes();
+s.ctx.handleTaipeiQuizMissing({missing:[multiShuffled]});
+assert.equal(s.writes(),writes,'new candidate is not repeatedly rewritten for an older rejected set');
+s=setup();s.ctx.openAITaipeiAnswerBatch=()=>[{idx:0,values:['0','1']}];
+result=s.ctx.handleTaipeiQuizMissing({missing:[{...multi,rejected_combinations:[['甲','乙']]}]});
+assert.equal(result.status,'error');assert.equal(s.writes(),0,'a proven bad whole combination is rejected');
+console.log('PASS: Taipei single/multiselect correction, shuffled options, deduplication, invalid AI answers and legacy overwrite protection.');

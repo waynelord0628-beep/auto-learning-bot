@@ -89,6 +89,8 @@ def _taipei_question_payload(course_id, q):
         'opt2': opts.get('2', ''),
         'opt3': opts.get('3', ''),
         'rejected_answers': list(q.get('rejected_answers', [])),
+        'rejected_combinations': list(q.get('rejected_combinations', [])),
+        'type': q.get('type', 'single'),
     }
 
 def gas_report_missing_questions(course_id, questions, course_name='', username='', config=None):
@@ -165,7 +167,8 @@ def _option_text(text):
 
 def _question_identity(q):
     return (_normalize(q.get('qtext', '')),
-            tuple(sorted(_option_text(t) for t in q.get('options', {}).values())))
+            tuple(sorted(_option_text(t) for t in q.get('options', {}).values())),
+            q.get('type') == 'multiselect')
 
 
 def _answer_value(answer_text, options):
@@ -174,7 +177,21 @@ def _answer_value(answer_text, options):
     return matches[0] if len(matches) == 1 else None
 
 
-def lookup_bank(bank, q_text, threshold=0.75, options=None):
+def _answer_values(texts, options, multiple=False):
+    if not multiple:
+        return _answer_value(texts, options)
+    if not isinstance(texts, list) or not texts:
+        return None
+    values = [_answer_value(t, options) for t in texts]
+    return sorted(values) if None not in values and len(set(values)) == len(values) else None
+
+
+def _choice_signature(q, value):
+    values = value if isinstance(value, list) else [value]
+    return tuple(sorted(_option_text(q['options'][v]) for v in values if v in q['options']))
+
+
+def lookup_bank(bank, q_text, threshold=0.75, options=None, multiple=False):
     """Match answer text back to current options; stored radio values may shuffle."""
     key = _normalize(q_text)
     if key not in bank:
@@ -191,14 +208,22 @@ def lookup_bank(bank, q_text, threshold=0.75, options=None):
         return val or None
     stored = {str(i): entry.get('opt' + str(i), '') for i in range(4)}
     stored = {v: text for v, text in stored.items() if text}
-    if val not in stored or sorted(map(_option_text, stored.values())) != sorted(map(_option_text, options.values())):
+    if sorted(map(_option_text, stored.values())) != sorted(map(_option_text, options.values())):
         return None
-    return _answer_value(stored[val], options)
+    if multiple:
+        try:
+            values = json.loads(val)
+        except (ValueError, TypeError):
+            return None
+        if not isinstance(values, list) or not values or any(v not in stored for v in values):
+            return None
+        return _answer_values([stored[v] for v in values], options, True)
+    return _answer_value(stored[val], options) if val in stored else None
 
 
 # ── AI 分析答案 ──────────────────────────────────────
 
-def ai_guess_answer(q_text, options, config):
+def ai_guess_answer(q_text, options, config, multiple=False, rejected_combinations=None):
     """
     呼叫 AI API（OpenAI-compatible 或 Claude）分析題目，回傳正確選項的 val str。
     config: {ai_provider, ai_keys:{Provider:key}, ai_base_url, ai_model}
@@ -217,7 +242,7 @@ def ai_guess_answer(q_text, options, config):
     # 建立選項文字清單（去掉編號前綴如 "1. "）
     opts_clean = {}
     for val, text in options.items():
-        clean = re.sub(r'^\d+\.\s*', '', text).strip()
+        clean = re.sub(r'^\s*(?:[a-zA-Z][.、)]\s*|\d+[.、)]\s+)', '', text).strip()
         opts_clean[val] = clean
 
     options_str = '\n'.join(f'{val}. {text}' for val, text in sorted(opts_clean.items()))
@@ -229,15 +254,21 @@ def ai_guess_answer(q_text, options, config):
         '正確答案：'
     )
 
+    if multiple:
+        prompt = ('這是複選題。選出所有正確選項，只回 JSON 字串陣列，每個元素須為完整選項文字，不回編號。\n'
+                  + f'題目：{q_text}\n選項：\n{options_str}\n'
+                  + '下列組合已被平台判定不是完整正解，但不代表其中每個選項都錯：'
+                  + json.dumps(rejected_combinations or [], ensure_ascii=False))
+
     try:
         if provider == 'Claude':
             resp = requests.post(
                 f'{base_url}/messages',
                 headers={'x-api-key': api_key, 'anthropic-version': '2023-06-01',
                          'Content-Type': 'application/json'},
-                json={'model': model, 'max_tokens': 150,
+                json={'model': model, 'max_tokens': 300 if multiple else 150,
                       'messages': [{'role': 'user', 'content': prompt}]},
-                timeout=20, verify=False)
+                timeout=20)
             resp.raise_for_status()
             ai_answer = resp.json()['content'][0]['text'].strip()
         else:
@@ -245,13 +276,21 @@ def ai_guess_answer(q_text, options, config):
                 f'{base_url}/chat/completions',
                 headers={'Authorization': f'Bearer {api_key}',
                          'Content-Type': 'application/json'},
-                json={'model': model, 'temperature': 0, 'max_tokens': 150,
+                json={'model': model, 'temperature': 0, 'max_tokens': 300 if multiple else 150,
                       'messages': [{'role': 'user', 'content': prompt}]},
-                timeout=20, verify=False)
+                timeout=20)
             resp.raise_for_status()
             ai_answer = resp.json()['choices'][0]['message']['content'].strip()
 
         print(f'  [AI] 回答: {ai_answer!r}')
+
+        if multiple:
+            raw = re.sub(r'^```(?:json)?\s*|\s*```$', '', ai_answer, flags=re.I).strip()
+            texts = json.loads(raw)
+            values = _answer_values(texts, opts_clean, True)
+            signature = tuple(sorted(_option_text(opts_clean[v]) for v in values)) if values else None
+            rejected = {tuple(sorted(map(_option_text, c))) for c in (rejected_combinations or [])}
+            return values if values and signature not in rejected else None
 
         # 去掉 AI 回答的編號前綴（如 "1. 是" → "是"）
         ai_clean = re.sub(r'^\d+[\.、\s]+', '', ai_answer).strip()
@@ -321,7 +360,7 @@ def _read_questions(driver):
     回傳 list of dict:
       { name, qtext, options: {val: text}, prefix }
     """
-    result = driver.execute_script("""
+    payload = driver.execute_script("""
         function clean(s) { return (s || '').replace(/\\s+/g, ' ').trim(); }
         var out = [];
         var blocks = document.querySelectorAll('.que, div[id^="question-"]');
@@ -339,9 +378,10 @@ def _read_questions(driver):
                     qtxt = clean(clone.textContent);
                 }
             }
-            var opts = {};
-            q.querySelectorAll('input[type=radio]').forEach(function(r) {
-                var val = r.value;
+            var opts = {}, inputNames = {};
+            var multiple = q.querySelector('input[type=checkbox]') !== null;
+            q.querySelectorAll(multiple ? 'input[type=checkbox]' : 'input[type=radio]').forEach(function(r, index) {
+                var val = multiple ? String(index) : r.value;
                 if (val === '-1') return;
                 var name = r.name;
                 var labelTxt = '';
@@ -357,13 +397,26 @@ def _read_questions(driver):
                 }
                 if (!opts._name) opts._name = name;
                 opts[val] = labelTxt;
+                inputNames[val] = r.name;
             });
             if (opts._name && qtxt) {
-                out.push({name: opts._name, qtext: qtxt, options: opts});
+                out.push({name: opts._name, qtext: qtxt, options: opts, type: multiple ? 'multiselect' : 'single', input_names:inputNames});
             }
         });
-        return out;
+        var coverage = Array.from(document.querySelectorAll('.que')).map(function(q) {
+            var text=q.querySelector('.qtext, .questiontext');
+            return {type:q.className, question:text ? clean(text.textContent) : '',
+                    radios:q.querySelectorAll('input[type=radio]').length,
+                    checkboxes:q.querySelectorAll('input[type=checkbox]').length,
+                    selects:q.querySelectorAll('select').length};
+        });
+        return {questions:out, coverage:coverage};
     """)
+    result = payload['questions']
+    coverage = payload['coverage']
+    if len(coverage) != len(result):
+        print('  [測驗檢查] 題塊與可處理題數不同：' + json.dumps(coverage, ensure_ascii=False))
+        raise ValueError('測驗包含尚未處理的題型，停止送出，保留作答以供確認')
     seen = set()
     deduped = []
     for q in result:
@@ -376,20 +429,26 @@ def _read_questions(driver):
         deduped.append(q)
     return deduped
 
-def _fill_answers(driver, answers):
-    """
-    填答：answers = {name: val}
-    """
+def _fill_answers(driver, answers, questions=None):
+    """Fill single choices or the complete checkbox set using actual input names."""
+    by_name = {q['name']: q for q in questions or []}
     for name, val in answers.items():
-        try:
-            r = driver.find_element(By.CSS_SELECTOR,
+        q = by_name.get(name, {})
+        if q.get('type') == 'multiselect':
+            if not isinstance(val, list) or not val or any(v not in q['options'] for v in val):
+                raise ValueError('複選答案不完整，停止送出')
+            for value, input_name in q['input_names'].items():
+                checkbox = driver.find_element(By.CSS_SELECTOR,
+                    f'input[type=checkbox][name="{input_name}"]')
+                if checkbox.is_selected() != (value in val):
+                    driver.execute_script("arguments[0].click();", checkbox)
+                if checkbox.is_selected() != (value in val):
+                    raise ValueError('複選題勾選未生效，停止送出')
+        else:
+            radio = driver.find_element(By.CSS_SELECTOR,
                 f'input[type=radio][name="{name}"][value="{val}"]')
-            driver.execute_script("arguments[0].click();", r)
-            driver.execute_script(
-                "arguments[0].checked=true;"
-                "arguments[0].dispatchEvent(new Event('change',{bubbles:true}));", r)
-        except Exception as e:
-            print(f'  [填答] ✗ {name}={val}: {e}')
+            driver.execute_script("arguments[0].click();", radio)
+
 
 def _submit_quiz(driver, wait):
     """點完成作答 → summary → 全部送出並結束 → modal confirm → review URL"""
@@ -430,6 +489,30 @@ def _submit_quiz(driver, wait):
     print(f'  [測驗] review → {driver.current_url}')
     return driver.current_url
 
+def _disclosed_multiple(text, options):
+    match = re.match(r'^(?:正確答案(?:是|為|有)?|the correct answers? (?:is|are))\s*[:：]\s*(.*)$',
+                     str(text or '').strip(), re.I | re.S)
+    if not match:
+        return None
+    body = re.sub(r'\s+', '', match.group(1))
+    words = {v: _option_text(t) for v, t in options.items()}
+    found = set()
+    def parse(rest, values):
+        if not rest:
+            if values:
+                found.add(tuple(sorted(values)))
+            return
+        for v, word in words.items():
+            if not word or v in values or not rest.startswith(word):
+                continue
+            tail = rest[len(word):]
+            if tail and tail[0] not in ',，、;；。':
+                continue
+            parse(tail.lstrip(',，、;；。'), values + [v])
+    parse(body, [])
+    return list(next(iter(found))) if len(found) == 1 else None
+
+
 def _review_result(record):
     """Promote only explicit platform feedback; an unchecked state proves nothing."""
     options = record.get('options', {})
@@ -441,6 +524,18 @@ def _review_result(record):
     wrong = (state in ('不正確', '錯誤', '答錯', 'incorrect') or 'incorrect' in classes
              or selected in incorrect)
     right = state in ('正確', '答對', 'correct') or 'correct' in classes
+    if record.get('multiple'):
+        selected_values = record.get('selected_values', [])
+        wrong = state in ('不正確', '錯誤', '答錯', 'incorrect') or 'incorrect' in classes or bool(incorrect.intersection(selected_values))
+        disclosed_values = _disclosed_multiple(record.get('rightanswer'), options)
+        value = None
+        if right and not wrong and selected_values and not incorrect.intersection(selected_values):
+            value = sorted(selected_values)
+        elif disclosed_values is not None and not (wrong and set(disclosed_values) == set(selected_values)):
+            value = disclosed_values
+        rejected = selected_values if selected_values and (wrong or (value and set(value) != set(selected_values))
+            or state in ('部分正確', '部分答對', 'partially correct') or 'partiallycorrect' in classes) else None
+        return {'correct_val': value, 'wrong_val': None, 'wrong_combination': rejected}
     disclosed = re.sub(r'^(?:正確答案(?:是|為)?|the correct answer is)\s*[:：]?\s*',
                        '', str(record.get('rightanswer', '')).strip(), flags=re.I)
     if disclosed:
@@ -464,18 +559,21 @@ def _read_review_feedback(driver):
     records = driver.execute_script("""
         function clean(s) { return (s || '').replace(/\\s+/g, ' ').trim(); }
         return Array.from(document.querySelectorAll('.que')).map(function(q) {
-            var radios = Array.from(q.querySelectorAll('input[type=radio]')).filter(function(r) {return r.value !== '-1';});
+            var multiple = q.querySelector('input[type=checkbox]') !== null;
+            var radios = Array.from(q.querySelectorAll(multiple ? 'input[type=checkbox]' : 'input[type=radio]')).filter(function(r) {return r.value !== '-1';});
             if (!radios.length) return null;
             var selected = radios.find(function(r) {return r.checked;}), options = {}, correct = [], incorrect = [];
-            radios.forEach(function(r) {
+            radios.forEach(function(r, index) {
+                var value = multiple ? String(index) : r.value;
                 var label = document.getElementById(r.id + '_label') || q.querySelector('label[for="' + r.id + '"]');
                 var row = r.closest('.r0, .r1, .r2, .r3, .r4, .r5') || r.parentElement;
-                options[r.value] = clean(label ? label.textContent : (row ? row.textContent : ''));
-                if (row && (row.classList.contains('correct') || row.querySelector('.correct, .fa-check.text-success'))) correct.push(r.value);
-                if (row && (row.classList.contains('incorrect') || row.querySelector('.incorrect, .fa-times.text-danger'))) incorrect.push(r.value);
+                options[value] = clean(label ? label.textContent : (row ? row.textContent : ''));
+                if (row && (row.classList.contains('correct') || row.querySelector('.correct, .fa-check.text-success'))) correct.push(value);
+                if (row && (row.classList.contains('incorrect') || row.querySelector('.incorrect, .fa-times.text-danger'))) incorrect.push(value);
             });
             var state = q.querySelector('.state'), disclosed = q.querySelector('.rightanswer');
-            return {name:radios[0].name, options:options, selected:selected ? selected.value : null,
+            return {name:radios[0].name, options:options, selected:selected ? selected.value : null, multiple:multiple,
+                    selected_values:radios.map(function(r,i){return r.checked ? String(i) : null;}).filter(function(v){return v!==null;}),
                     correct_values:correct, incorrect_values:incorrect, classes:q.className,
                     state:state ? clean(state.textContent) : '', rightanswer:disclosed ? clean(disclosed.textContent) : ''};
         }).filter(Boolean);
@@ -539,11 +637,13 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
     reported_missing_keys = set()
     confirmed_answers = {}
     rejected_answers = {}
+    rejected_combinations = {}
     needs_recheck = set()
 
     def _question_record(q, val):
         return {
-            'q_text': q['qtext'], 'val': val, 'evidence': 'platform_feedback',
+            'q_text': q['qtext'], 'val': json.dumps(val) if isinstance(val, list) else val,
+            'type': q.get('type', 'single'), 'evidence': 'platform_feedback',
             'opt0': q['options'].get('0',''), 'opt1': q['options'].get('1',''),
             'opt2': q['options'].get('2',''), 'opt3': q['options'].get('3',''),
         }
@@ -554,9 +654,10 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
         deduped = []
         seen = set()
         for item in to_save:
+            values = json.loads(item['val']) if item.get('type') == 'multiselect' else [item['val']]
             key = (_normalize(item.get('q_text', '')),
                    tuple(sorted(_option_text(item.get('opt' + str(i), '')) for i in range(4))),
-                   _option_text(item.get('opt' + str(item.get('val', '')), '')))
+                   tuple(sorted(_option_text(item.get('opt' + str(v), '')) for v in values)))
             if not key[0] or key in seen or key in saved_answers:
                 continue
             seen.add(key)
@@ -569,7 +670,8 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
     def _report_missing_once(missing_qs):
         fresh = []
         for q in missing_qs:
-            key = (_normalize(q.get('qtext', '')), tuple(sorted(map(_option_text, q.get('rejected_answers', [])))))
+            key = (_normalize(q.get('qtext', '')), tuple(sorted(map(_option_text, q.get('rejected_answers', [])))),
+                   tuple(sorted(tuple(sorted(map(_option_text, c))) for c in q.get('rejected_combinations', []))))
             if not key[0] or key in reported_missing_keys:
                 continue
             reported_missing_keys.add(key)
@@ -606,11 +708,15 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
 
         for q in questions:
             identity = _question_identity(q)
-            val = _answer_value(confirmed_answers.get(identity, ''), q['options']) if identity in confirmed_answers else None
-            if val is None and identity not in needs_recheck:
-                val = lookup_bank(bank, q['qtext'], options=q['options'])
+            multiple = q.get('type') == 'multiselect'
+            val = _answer_values(confirmed_answers.get(identity, ''), q['options'], multiple) if identity in confirmed_answers else None
+            candidate = bank.get(_normalize(q['qtext']), {})
+            if val is None and (identity not in needs_recheck or (isinstance(candidate, dict) and candidate.get('verification_status') == 'ai_candidate')):
+                val = lookup_bank(bank, q['qtext'], options=q['options'], multiple=multiple)
             rejected = rejected_answers.get(identity, set())
-            if val is not None and _option_text(q['options'].get(val)) in rejected:
+            bad_combos = rejected_combinations.get(identity, set())
+            if val is not None and ((multiple and _choice_signature(q, val) in bad_combos) or
+                    (not multiple and _option_text(q['options'].get(val)) in rejected)):
                 val = None
             if val is not None:
                 answers[q['name']] = val
@@ -619,8 +725,14 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
 
             if use_local_ai and has_local_ai:
                 available = {v: t for v, t in q['options'].items() if _option_text(t) not in rejected}
-                val = ai_guess_answer(q['qtext'], available, config) if available else None
-                if val in available:
+                if multiple:
+                    val = ai_guess_answer(q['qtext'], available, config, multiple=True,
+                        rejected_combinations=[list(c) for c in bad_combos]) if available else None
+                    valid = isinstance(val, list) and bool(val) and len(set(val)) == len(val) and all(v in available for v in val) and _choice_signature(q, val) not in bad_combos
+                else:
+                    val = ai_guess_answer(q['qtext'], available, config) if available else None
+                    valid = val in available
+                if valid:
                     answers[q['name']] = val
                     print(f'  ✓ [AI] {q["qtext"][:28]}... → val={val}')
                     continue
@@ -629,11 +741,17 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
             if not available:
                 print('  [測驗] 所有選項均被平台否定，停止自動作答，請人工確認')
                 return '', False, {}, {}
-            answers[q['name']] = available[0]
+            if multiple:
+                choices = [[v] for v in available if _choice_signature(q, [v]) not in bad_combos]
+                if not choices:
+                    raise ValueError('複選題缺少可核對的答案，請人工確認')
+                answers[q['name']] = choices[0]
+            else:
+                answers[q['name']] = available[0]
             missing_qs.append(q)
             print(f'  ? [猜] {q["qtext"][:28]}... → val={answers[q["name"]]}')
 
-        _fill_answers(driver, answers)
+        _fill_answers(driver, answers, questions=questions)
         _submit_quiz(driver, wait)
         time.sleep(2)
 
@@ -652,7 +770,7 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
             if not q:
                 continue
             correct_by_text[q['qtext']] = val
-            confirmed_answers[_question_identity(q)] = q['options'][val]
+            confirmed_answers[_question_identity(q)] = [q['options'][v] for v in val] if isinstance(val, list) else q['options'][val]
             needs_recheck.discard(_question_identity(q))
             to_save.append(_question_record(q, val))
 
@@ -661,13 +779,18 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
             identity = _question_identity(q)
             result = feedback.get(q['name'], {})
             wrong_val = result.get('wrong_val')
+            wrong_combo = result.get('wrong_combination')
+            if wrong_combo:
+                rejected_combinations.setdefault(identity, set()).add(_choice_signature(q, wrong_combo))
+                print(f'  [錯題] {q["qtext"][:28]}... 已排除前次複選組合，不排除個別選項')
             if wrong_val in q['options']:
                 rejected_answers.setdefault(identity, set()).add(_option_text(q['options'][wrong_val]))
                 print(f'  [錯題] {q["qtext"][:28]}... 已排除：{q["options"][wrong_val]}')
             if q['name'] not in correct_by_name and not is_100:
                 needs_recheck.add(identity)
                 unconfirmed.append(dict(q, rejected_answers=[text for text in q['options'].values()
-                    if _option_text(text) in rejected_answers.get(identity, set())]))
+                    if _option_text(text) in rejected_answers.get(identity, set())],
+                    rejected_combinations=[list(c) for c in rejected_combinations.get(identity, set())]))
         if unconfirmed:
             print(f'  [測驗] {len(unconfirmed)} 題未獲平台正解確認，下輪重新補答；不存入正解題庫')
         _report_missing_once(unconfirmed)

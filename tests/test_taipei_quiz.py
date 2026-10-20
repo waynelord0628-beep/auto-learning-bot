@@ -3,6 +3,7 @@ import ast
 import contextlib
 import difflib
 import io
+import json
 from pathlib import Path
 import re
 import types
@@ -14,7 +15,7 @@ SOURCE = Path(__file__).resolve().parents[1] / 'quiz_bank.py'
 
 
 def module_functions():
-    ns = {'re': re, 'difflib': difflib, 'time': types.SimpleNamespace(sleep=Mock())}
+    ns = {'re': re, 'json': json, 'difflib': difflib, 'time': types.SimpleNamespace(sleep=Mock())}
     tree = ast.parse(SOURCE.read_text(encoding='utf8'))
     functions = [n for n in tree.body if isinstance(n, ast.FunctionDef)]
     exec(compile(ast.Module(body=functions, type_ignores=[]), str(SOURCE), 'exec'), ns)
@@ -147,6 +148,74 @@ class TaipeiQuizTests(unittest.TestCase):
         result = self.setup_flow([[q]], [{}], ['得100分'], {})
         self.assertEqual(result, ('得100分', True))
         self.ns['gas_save_questions'].assert_not_called()
+
+    def test_multiselect_bank_maps_complete_set_after_shuffle(self):
+        stored = dict(entry(['甲', '乙', '丙', '丁'], '["0", "2"]'), type='multiselect')
+        lookup = self.ns['lookup_bank']
+        self.assertEqual(lookup({'問題': stored}, '問題', options={'0':'丙','1':'甲','2':'丁','3':'乙'}, multiple=True), ['0','1'])
+        stored['val'] = '["0", "0"]'
+        self.assertIsNone(lookup({'問題': stored}, '問題', options={'0':'甲','1':'乙','2':'丙','3':'丁'}, multiple=True))
+
+    def test_partial_multiselect_rejects_combination_without_inventing_correct_set(self):
+        result = self.review(multiple=True, selected_values=['0','1'], state='部分正確', correct_values=['0'])
+        self.assertEqual(result, {'correct_val':None, 'wrong_val':None, 'wrong_combination':['0','1']})
+        self.assertEqual(self.review(multiple=True, selected_values=['0','2'], state='正確')['correct_val'], ['0','2'])
+        self.assertIsNone(self.review(multiple=True, selected_values=['0'], state='正確', incorrect_values=['0'])['correct_val'])
+
+    def test_multiselect_disclosed_answer_requires_unambiguous_complete_text(self):
+        parse = self.ns['_disclosed_multiple']
+        self.assertEqual(parse('正確答案為：甲，乙, 丙', {'0':'甲，乙','1':'丙','2':'丁'}), ['0','1'])
+        self.assertIsNone(parse('正確答案為：甲，乙', {'0':'甲','1':'乙','2':'甲，乙'}))
+        self.assertIsNone(parse('甲, 丙', {'0':'甲','1':'丙'}))
+        result = self.review(multiple=True, selected_values=['0'], state='部分正確', rightanswer='正確答案是：甲, 丙')
+        self.assertEqual(result['correct_val'], ['0','2'])
+        self.assertEqual(result['wrong_combination'], ['0'])
+
+    def test_checkbox_fill_uses_unique_names_and_clears_old_choices(self):
+        self.ns['By'] = types.SimpleNamespace(CSS_SELECTOR='css')
+        boxes = {str(i):Mock() for i in range(3)}
+        selected = {'0':True,'1':True,'2':False}
+        for i, box in boxes.items():
+            box.is_selected.side_effect = lambda i=i: selected[i]
+        driver = Mock()
+        def find(by, selector):
+            self.assertEqual(by, 'css')
+            self.assertIn('input[type=checkbox]', selector)
+            return boxes[re.search(r'name="q(\d)"', selector)[1]]
+        def click(script, box):
+            i = next(i for i,b in boxes.items() if b is box)
+            selected[i] = not selected[i]
+        driver.find_element.side_effect = find
+        driver.execute_script.side_effect = click
+        q = dict(name='q0', type='multiselect', options={'0':'甲','1':'乙','2':'丙'}, input_names={str(i):'q'+str(i) for i in range(3)})
+        self.ns['_fill_answers'](driver, {'q0':['0','2']}, [q])
+        self.assertEqual([c.args[1] for c in driver.execute_script.call_args_list], [boxes['1'], boxes['2']])
+        self.assertEqual(selected, {'0':True,'1':False,'2':True})
+        driver.execute_script.side_effect = None
+        with self.assertRaises(ValueError):
+            self.ns['_fill_answers'](driver, {'q0':['1']}, [q])
+
+    def test_unsupported_question_blocks_stop_before_submission(self):
+        driver = Mock()
+        driver.execute_script.return_value = {'questions':[], 'coverage':[{'type':'essay'}]}
+        with contextlib.redirect_stdout(io.StringIO()), self.assertRaises(ValueError):
+            self.ns['_read_questions'](driver)
+
+    def test_multiselect_retry_keeps_individually_correct_options_and_saves_once(self):
+        q = dict(name='multi', qtext='複選問題', type='multiselect', options={'0':'甲','1':'乙','2':'丙'})
+        feedback = [
+            {'multi':{'correct_val':None, 'wrong_val':None, 'wrong_combination':['0']}},
+            {'multi':{'correct_val':['0','2'], 'wrong_val':None, 'wrong_combination':None}}]
+        def ai(text, options, config, **kw):
+            self.assertIn('甲', options.values())
+            self.assertEqual(kw['rejected_combinations'], [['甲']])
+            return ['0','2']
+        result = self.setup_flow([[q],[q]], feedback, ['得60分','得100分'], {}, ai, {'ai_api_key':'test-only'})
+        self.assertEqual(result, ('得100分', True))
+        saved = self.ns['gas_save_questions'].call_args.args[1]
+        self.assertEqual(len(saved), 1)
+        self.assertEqual(json.loads(saved[0]['val']), ['0','2'])
+        self.assertEqual(saved[0]['evidence'], 'platform_feedback')
 
 
 if __name__ == '__main__':

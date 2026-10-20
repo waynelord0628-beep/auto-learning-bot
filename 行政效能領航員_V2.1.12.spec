@@ -42,7 +42,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='行政效能領航員_V2.1.11',
+    name='行政效能領航員_V2.1.12',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

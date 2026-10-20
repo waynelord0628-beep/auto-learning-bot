@@ -86,11 +86,11 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.11"
+    VERSION = "V2.1.12"
     CHANGELOG = (
-        "• 支援 eCPA 新版五碼圖片驗證碼\n"
-        "• 改善登入速度與登入狀態確認\n"
-        "• 改善網站暫時異常時的提示與登入恢復"
+        "• 修正臺北E大複選題漏答及重複錯答\n"
+        "• 改善研習達標後的流程銜接與題庫同步\n"
+        "• 沿用入口一鍵更新，保留原有設定"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):

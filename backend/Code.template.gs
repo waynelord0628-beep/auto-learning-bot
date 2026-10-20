@@ -174,17 +174,38 @@ function openAITaipeiAnswerBatch(questions) {
       .map((k, idx) => q[k] && !taipeiRejectedAnswers(q).some(a => taipeiOptionKey(a) === taipeiOptionKey(q[k])) ? `${idx}. ${q[k]}` : "")
       .filter(Boolean)
       .join("\n");
-    return `[${i}] course_id=${q.course_id || ""}\n題目：${q.q_text || ""}\n選項：\n${opts}`;
+    return `[${i}] course_id=${q.course_id || ""} type=${q.type || "single"}\n已判錯的複選組合：${JSON.stringify(q.rejected_combinations || [])}\n題目：${q.q_text || ""}\n選項：\n${opts}`;
   }).join("\n\n");
 
   const raw = callOpenAI([
     {
       role: "system",
-      content: "請依題目與選項判斷答案，只回 JSON 陣列：[{\"idx\":0,\"val\":\"0\"}]。val 必須是選項 value，例如 0、1、2、3，不要解釋。"
+      content: "請依題目與選項判斷答案，只回 JSON 陣列：[{\"idx\":0,\"val\":\"0\"}]。單選 val 必須是選項 value，例如 0、1、2、3；type=multiselect 的複選題改回 {\"idx\":0,\"values\":[\"0\",\"2\"]}，values 為所有正確選項 value。不得重複已判錯的整個組合，但不應把組合內每個選項都排除。不要解釋。"
     },
     { role: "user", content: items }
   ]);
   return JSON.parse(stripJsonFence(raw));
+}
+
+function taipeiAnswerValues(q, raw) {
+  const multiple = q.type === 'multiselect';
+  let values;
+  if (multiple) {
+    try { values = Array.isArray(raw) ? raw : JSON.parse(raw); } catch (e) { return null; }
+    if (!Array.isArray(values) || !values.length) return null;
+    values = values.map(String);
+  } else {
+    if (Array.isArray(raw) || raw == null) return null;
+    values = [String(raw)];
+  }
+  if (new Set(values).size !== values.length || values.some(v => !['0','1','2','3'].includes(v) || !q['opt' + v])) return null;
+  return values.sort();
+}
+
+function taipeiRejectedCombination(q, values) {
+  const signature = list => JSON.stringify(list.map(taipeiOptionKey).sort());
+  return Array.isArray(q.rejected_combinations) && q.rejected_combinations.some(c =>
+    Array.isArray(c) && signature(c) === signature(values.map(v=>q['opt' + v])));
 }
 
 function taipeiRejectedAnswers(q) {
@@ -213,9 +234,8 @@ function cleanTaipeiQuestionText(text) {
 }
 
 function taipeiAnswerDisplay(q, val) {
-  const v = String(val || "");
-  const opt = q && q["opt" + v] ? String(q["opt" + v]) : "";
-  return opt ? `${v}（${opt}）` : v;
+  const values = taipeiAnswerValues(q, val);
+  return values ? values.map(v => `${v}（${q['opt' + v]}）`).join('、') : String(val || '');
 }
 
 function handleTaipeiQuizGet(e) {
@@ -240,11 +260,13 @@ function handleTaipeiQuizSave(payload) {
       String(r.course_id) === String(q.course_id) &&
       String(r.q_key) === qkey
     );
-    const val = String(q.val == null ? '' : q.val);
-    if (!['0','1','2','3'].includes(val) || !q['opt' + val]) { skipped++; return; }
+    const values = taipeiAnswerValues(q, q.val);
+    if (!values) { skipped++; return; }
+    const val = q.type === 'multiselect' ? JSON.stringify(values) : values[0];
     if (idx >= 0 && bank[idx].verification_status === 'platform_confirmed' && q.evidence !== 'platform_feedback') { skipped++; return; }
     const entry = {
       verification_status: q.evidence === 'platform_feedback' ? 'platform_confirmed' : 'legacy_unverified',
+      type: q.type === 'multiselect' ? 'multiselect' : 'single',
       course_id: q.course_id,
       q_key: qkey,
       q_text: cleanTaipeiQuestionText(q.q_text || ""),
@@ -295,9 +317,13 @@ function handleTaipeiQuizMissing(payload) {
       const previous = bank[idx];
       const opts = x => ['opt0','opt1','opt2','opt3'].map(k=>x[k]).filter(Boolean).map(taipeiOptionKey).sort();
       const rejected = taipeiRejectedAnswers(q);
-      if (cleanTaipeiQuestionText(previous.q_text) !== cleanTaipeiQuestionText(q.q_text) ||
+      const previousValues = taipeiAnswerValues(previous, previous.val);
+      const rejectedPrevious = q.type === 'multiselect'
+        ? previousValues && taipeiRejectedCombination(Object.assign({},q,...['opt0','opt1','opt2','opt3'].map(k=>({[k]:previous[k]}))),previousValues)
+        : rejected.some(a => taipeiOptionKey(a) === taipeiOptionKey(previous['opt' + previous.val]));
+      if ((previous.type || 'single') !== (q.type || 'single') || cleanTaipeiQuestionText(previous.q_text) !== cleanTaipeiQuestionText(q.q_text) ||
           JSON.stringify(opts(previous)) !== JSON.stringify(opts(q)) ||
-          !rejected.some(a => taipeiOptionKey(a) === taipeiOptionKey(previous['opt' + previous.val]))) return false;
+          !rejectedPrevious) return false;
     }
     targetIndices.push(idx);
     return true;
@@ -309,16 +335,18 @@ function handleTaipeiQuizMissing(payload) {
 
   const answers = openAITaipeiAnswerBatch(newQuestions);
   const answerMap = {};
-  answers.forEach(a => { answerMap[a.idx] = String(a.val); });
+  answers.forEach(a => { answerMap[a.idx] = a.values !== undefined ? a.values : a.val; });
 
   let added = 0, updated = 0;
   const results = [];
   newQuestions.forEach((q, i) => {
-    const val = answerMap[i];
-    if (!["0","1","2","3"].includes(val) || !q["opt" + val] ||
-        taipeiRejectedAnswers(q).some(a=>taipeiOptionKey(a)===taipeiOptionKey(q["opt" + val]))) return;
+    const values = taipeiAnswerValues(q, answerMap[i]);
+    if (!values || (q.type === 'multiselect' ? taipeiRejectedCombination(q,values) :
+        taipeiRejectedAnswers(q).some(a=>taipeiOptionKey(a)===taipeiOptionKey(q['opt' + values[0]])))) return;
+    const val = q.type === 'multiselect' ? JSON.stringify(values) : values[0];
     const entry = {
       verification_status: "ai_candidate",
+      type: q.type === "multiselect" ? "multiselect" : "single",
       course_id: q.course_id,
       q_key: taipeiNormalizeKey(q.q_text),
       q_text: cleanTaipeiQuestionText(q.q_text || ""),
