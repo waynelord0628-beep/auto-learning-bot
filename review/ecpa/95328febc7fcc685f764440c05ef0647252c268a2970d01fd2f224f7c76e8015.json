@@ -42,13 +42,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.162Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.197Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "49a3904f738ca52dcd431cde7ebceee4b2df9568dccda7e9ffb364489dc27a5e",
@@ -59,13 +80,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.190Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.216Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bbf3d13dd0f23fc0d49b0c1b8791423d1c02958390e0ce260605bcb5538be30f",
@@ -76,13 +118,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.214Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.231Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "691f41e83c83af00d9fafdd7950bb3728088646af147ab61abd9aca468caac90",
@@ -95,13 +158,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.244Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.246Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b80023033dceae99841a8d597aa75e4fbac0f749b636860bc2d81080f9ba2036",
@@ -114,13 +198,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "阿姆斯特丹",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.276Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "尼斯",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.260Z"
+    },
+    "resolved_answer": "尼斯"
   },
   {
     "id": "b622716bda83129e17aa8b38cef7b4a78559d33716ca3484a891d40c22959171",
@@ -131,13 +236,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.903Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.303Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.275Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9e4f5e01d8431a705a8d89af9b4d8e0871dbd428a519f134547797d2900cc76c",
@@ -148,13 +274,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.903Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.328Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.290Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "bcd79631f52b058510328c456a0fda19b5f6693378e840151b86e3852ea723de",
@@ -165,13 +312,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.904Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.357Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.306Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "32a708130104b1ce9e1f8d91a47b072c7277b377846d864715a21f519a5695d0",
@@ -184,13 +352,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:53:26.904Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "文字或語意分析",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.321Z"
+    },
+    "resolved_answer": "文字或語意分析"
   },
   {
     "id": "27dd8d33007d9fe02ec0078b01542696750179130f14d9e1b68fd32e87dc3193",
@@ -201,13 +390,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:02.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.412Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.337Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "2a5c10bd1ea8c71608ab7507d54bfcd4c3279b104fd27b7bef61c11e417ae9e9",
@@ -220,13 +430,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "首爾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:02.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.439Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "首爾",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.355Z"
+    },
+    "resolved_answer": "首爾"
   },
   {
     "id": "f7ac99fb254b04c64f00bdcb6868e8faffefd6bfc23b90991ef2325dad1e54a8",
@@ -237,13 +468,34 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:02.450Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.460Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.373Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3f8d49e5e30d0a4f0fcfb71a8cadc1e1b59ffd310e7c93bfc9f6b8ee5feeeffe",
@@ -256,13 +508,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "市府與社區雙向互動平台",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:32.491Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.484Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "市府與社區雙向互動平台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.396Z"
+    },
+    "resolved_answer": "市府與社區雙向互動平台"
   },
   {
     "id": "c0da01d9b00a4520bcb1a2bbc2f7a5b90e132873d82b2ab2949e8def7ebb619b",
@@ -275,13 +548,34 @@
     ],
     "type": "單選",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:32.492Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.509Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.416Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "00126c9be4cee49cc9a8895314831f6869c470c24e0d02bbc9bae9fe07b58e6f",
@@ -292,12 +586,33 @@
     ],
     "type": "是非",
     "course": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:54:32.492Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.535Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/aiee_10.html",
+          "title": "「市政數據叢林中的一線曙光-從『新』出發，用『AI』治理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15339796245",
+          "title": "市政數據叢林中的一線曙光-從『新』出發，用『AI』治理《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:09.439Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

@@ -226,13 +226,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "SNQ品質標章",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.022Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "SNQ品質標章",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:46.905Z"
+    },
+    "resolved_answer": "SNQ品質標章"
   },
   {
     "id": "220c1ef0ec65e7bcf51d8f5093b53950987efcac89bef3cf29441d3e31ffb2ce",
@@ -245,13 +266,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "蒐集資料",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.041Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Fine-tune",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:46.928Z"
+    },
+    "resolved_answer": "Fine-tune"
   },
   {
     "id": "1d86cd46d36ecc09adc3caf4df3dc8820e9d1e01f44402f11b2610a3d7defed5",
@@ -264,13 +306,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Nvidia",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.064Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Nvidia",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:46.954Z"
+    },
+    "resolved_answer": "Nvidia"
   },
   {
     "id": "8b9f7e422c3382dc430447a48858c3ddf1e4328433b9598f41e155bada64fed7",
@@ -283,13 +346,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫材監控",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:23:50.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.090Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "對話腳本設計",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:46.976Z"
+    },
+    "resolved_answer": "對話腳本設計"
   },
   {
     "id": "644866e543899285cacf7a35bfad8e4192331b363fdb199be7ca77fb44c39f46",
@@ -302,13 +386,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "語意理解與內容生成",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.195Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.114Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "語意理解與內容生成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:46.994Z"
+    },
+    "resolved_answer": "語意理解與內容生成"
   },
   {
     "id": "b811009ec622780c6fe7218bc3cbb45801f6873b802430a01e682026bfde1510",
@@ -321,13 +426,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "紙本傳遞",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.135Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "紙本傳遞",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.015Z"
+    },
+    "resolved_answer": "紙本傳遞"
   },
   {
     "id": "69912f9c23eeab7dcbecc5a286c416abb3aa4dc8774c8e7607d756b156b9f3b1",
@@ -340,13 +466,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Chatbot部署難度高",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.155Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Chatbot部署難度高",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.039Z"
+    },
+    "resolved_answer": "Chatbot部署難度高"
   },
   {
     "id": "86eb11fbc60021bd0a77cc8a5785a9873812eb8be4879b55f4919dc7794df27c",
@@ -359,13 +506,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "LINE Bot",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.178Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "LINE Bot",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.062Z"
+    },
+    "resolved_answer": "LINE Bot"
   },
   {
     "id": "98f154de40e9670640314b39d180f85083b75b060d29bcbb1a0157f6001ac6dd",
@@ -378,13 +546,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "即時叫號",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:24:38.201Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.194Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "即時叫號",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.078Z"
+    },
+    "resolved_answer": "即時叫號"
   },
   {
     "id": "11ac06910b6ca8b02477e7950fe9e800b5b69e17d4a0ad7de6077b3ce4eaeaee",
@@ -397,13 +586,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自動分析設備能耗",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:25:15.567Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.218Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自動分析設備能耗",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.104Z"
+    },
+    "resolved_answer": "自動分析設備能耗"
   },
   {
     "id": "ffc86c29dbf557fbf2d2fcd30cecfddc38910230f080b802444290403f24b550",
@@ -416,13 +626,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "語音辨識能力",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T09:25:15.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.240Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "語音辨識能力",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.125Z"
+    },
+    "resolved_answer": "語音辨識能力"
   },
   {
     "id": "e5c7638cdcdcc29197668d03dc91ae3d19a55007b6ba158e18145fa0e1ae271b",
@@ -435,13 +666,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "C.ai",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:40:55.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.267Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "C.ai",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.147Z"
+    },
+    "resolved_answer": "C.ai"
   },
   {
     "id": "2084b60b874057296bec7d90665849aad19d9b73d1ef77e7106c559b00121180",
@@ -454,13 +706,34 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "微調與醫療語料導入",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:40:55.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.287Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "微調與醫療語料導入",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.165Z"
+    },
+    "resolved_answer": "微調與醫療語料導入"
   },
   {
     "id": "862afc8f4a7467831d25216795240cbea416c4eab65e736d459f6aba3fe61bd2",
@@ -473,12 +746,33 @@
     ],
     "type": "單選",
     "course": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生成診斷報告",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T14:51:13.839Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.308Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生成診斷報告",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-ee_01260078371.html",
+          "title": "「從醫療到永續：生成式 AI 的跨場域實踐與創新應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637789",
+          "title": "從醫療到永續：生成式 AI 的跨場域實踐與創新應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:47.188Z"
+    },
+    "resolved_answer": "生成診斷報告"
   }
 ]

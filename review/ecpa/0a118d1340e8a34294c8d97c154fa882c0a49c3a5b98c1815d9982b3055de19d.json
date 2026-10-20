@@ -135,13 +135,30 @@
     ],
     "type": "單選",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "家庭教育專業人員該堅守價值不讓科技進入家庭",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.961Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.389Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "家庭教育專業人員該堅守價值不讓科技進入家庭",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.322Z"
+    },
+    "resolved_answer": "家庭教育專業人員該堅守價值不讓科技進入家庭"
   },
   {
     "id": "a1ba7073ee046ace5964c88c8287db1a3ddf4351b466170fccb208737224a967",
@@ -152,13 +169,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.414Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.345Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d12f0f0161a6b2c62bb65f3f07940617bcef17ad1b37f5330a6122e54e081de0",
@@ -171,13 +205,30 @@
     ],
     "type": "單選",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生活中沒有數位產品",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.966Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.440Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生活中沒有數位產品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.367Z"
+    },
+    "resolved_answer": "生活中沒有數位產品"
   },
   {
     "id": "5565450d9194b43b866377948919c9b9c3a795b90dd6e0fc3aa21e05a1c54d9c",
@@ -241,13 +292,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:51.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.461Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.457Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c12eacebbd6fd9d6061d6bae4a002eaf9cd3121dd0e6d6a63d5d0a312106503a",
@@ -275,13 +343,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:51.816Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.480Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.499Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "976565c12786148c33655caa8fa44e60fc13ad167780c73078ecc68934f9c3f1",
@@ -292,13 +377,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:31:21.498Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.497Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_2.html",
+          "title": "「數位時代的親職」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:49.526Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "be4e4b7c67eccb6e835de8e7a91de7a487d8a1e2b4295a258e461da9a48a3ab9",

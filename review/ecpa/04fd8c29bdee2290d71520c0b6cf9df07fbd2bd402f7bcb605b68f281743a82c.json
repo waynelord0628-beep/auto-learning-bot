@@ -129,13 +129,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.120Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.636Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.863Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "300409cb3ee470ab3dc1ea9a6331e4dfcd0a57eff0325143517a1ba298405708",
@@ -146,13 +167,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.120Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.666Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.889Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "7b5d0249178e4cc273ca0e650d2d7d94bbdbbe506ddef20e069c8712d2e3d7aa",
@@ -163,13 +205,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.121Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.694Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.916Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0a49854d4757490c50b71134dffab38886059aaebb0e2b3958270d579568b3bd",
@@ -182,13 +245,34 @@
     ],
     "type": "單選",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.121Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.729Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.944Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "04f720b6d2199439cde9590fa4f8b05f0019246786f8aa810ab2eea5153bdc47",
@@ -199,13 +283,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.122Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.753Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.965Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b6de072649f31a4f369b1e351f51a27f91c5aa7c1bc0e787b040137dd9fff532",
@@ -218,13 +323,34 @@
     ],
     "type": "單選",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "受騷擾者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:58:39.122Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.780Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "受騷擾者",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:38.985Z"
+    },
+    "resolved_answer": "受騷擾者"
   },
   {
     "id": "1cba74ba62a5873d7e0fafaa18d7d291836f11a1e6ffbc8c8b400c321ec48301",
@@ -235,13 +361,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:59:18.264Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.807Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.006Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ff33d2d6a51459842605573b00decbe325533051130e715187d9115ef7445d3a",
@@ -252,13 +399,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:59:18.273Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.828Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.028Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3d795f1e0eaa7f5f2d24e0a96bf6b44d5bb9df3c7a06b462658164c79a54a84a",
@@ -269,13 +437,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:59:18.274Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.857Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.047Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "607b56ea8680143e448ec0bfa7fac48db97bbb332e65b34ef497fb63717ea1b3",
@@ -286,13 +475,34 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T06:59:18.275Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.875Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.072Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "773fdaf31553a65df7a37083d78066e2e4f3258e126785bdf70b70e788517787",
@@ -303,16 +513,37 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T14:54:27.575Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T20:19:37.258Z"
+    "retry_after": "2026-10-19T20:19:37.258Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.897Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.092Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0ec31b1c8dc19e0b18c499340043ce060478660a1bc234ec37acc12e94ef5934",
@@ -325,16 +556,37 @@
     ],
     "type": "單選",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T14:54:27.577Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T20:19:37.258Z"
+    "retry_after": "2026-10-19T20:19:37.258Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.917Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.110Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ebd8890e9f6e7ee8b92b7465f58417356129c52f7ca8b52368ae8bfa1300563d",
@@ -345,15 +597,36 @@
     ],
     "type": "是非",
     "course": "性平意識解析、性騷擾迷思解構及因應作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T14:54:27.577Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T20:19:37.258Z"
+    "retry_after": "2026-10-19T20:19:37.258Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:19.936Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_51.html",
+          "title": "「性平意識解析、性騷擾迷思解構及因應作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342863337",
+          "title": "性平意識解析、性騷擾迷思解構及因應作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:39.127Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

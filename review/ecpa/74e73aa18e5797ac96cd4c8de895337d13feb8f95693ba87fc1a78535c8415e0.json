@@ -8,16 +8,37 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.164Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.430Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.270Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "903f35ed366a862abb329aaa7a791090c752a121f52c335880ced39687def2ea",
@@ -30,16 +51,37 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.165Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.500Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆可",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.287Z"
+    },
+    "resolved_answer": "以上皆可"
   },
   {
     "id": "2deac91ef76f8da9e89a55260596a18251947a537166149b37cd6a9516f6cd4d",
@@ -52,16 +94,37 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.167Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.517Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "predict to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.306Z"
+    },
+    "resolved_answer": "predict to"
   },
   {
     "id": "8b0de9adf84f2bf83cd7798267bdaf357aa86ed1190ac91f9cc7152169100789",
@@ -96,16 +159,37 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.169Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.536Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "I am pleasured to meet you.",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.346Z"
+    },
+    "resolved_answer": "I am pleasured to meet you."
   },
   {
     "id": "306de7ba7218021677ed857c6f6890e1d243c662bc77bd32ff7dfc9ddfb2ffc3",
@@ -136,16 +220,37 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.171Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.553Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.402Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "acbb2ecd043cb76305b813606382440750fa2f51cd6a16fa3f263f07c7697f41",
@@ -156,16 +261,37 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.173Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.570Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.426Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4b04207788f01017f0bc56441beb11715e15b0b5bb814aaa97133ae6503aa2ed",
@@ -178,16 +304,37 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.175Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.588Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.446Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "6e3413ef9c3e9318f4af778f16e717d35ddbc82f99b8769cf7759aca02ddce45",
@@ -198,16 +345,37 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:50:25.176Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.605Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.471Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "67fb2750880e696cae6c36933ea79785860fd45dac104dfc8479a8e87213d76e",
@@ -220,14 +388,35 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:02.566Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.632Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "In closing,",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.492Z"
+    },
+    "resolved_answer": "In closing,"
   },
   {
     "id": "4f733b8f3abc74db3e8b0a8d025a9107d14a0e22979f52f4fa1051e22164ffee",
@@ -240,14 +429,35 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:02.569Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "might",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.507Z"
+    },
+    "resolved_answer": "might"
   },
   {
     "id": "7fee99f58e9e23928542c56abd1c355e2ac0f6f993d21a8a29e2087bfe701381",
@@ -278,14 +488,35 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:02.570Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.666Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.550Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f13be092097b5296bb1f065a4df510d101317c597f4b9beca269d260be9c10b2",
@@ -296,14 +527,35 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:02.571Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.690Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.571Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "6f651e28faa925520cb033fa24da1ac0330f2f1b93dd4e0debbbbeaba42a1e7b",
@@ -314,14 +566,35 @@
     ],
     "type": "是非",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:33.188Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.711Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.594Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8e8fd40d4126bbc39e4192e0f273ebf11da7a1054b4993b0150e83fb2ef5b64a",
@@ -334,14 +607,35 @@
     ],
     "type": "單選",
     "course": "輕鬆搞定英語公務書信(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:33.191Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.735Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "remain",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_747.html",
+          "title": "「輕鬆搞定英語公務書信(下)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15270401656",
+          "title": "輕鬆搞定英語公務書信(下)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:09.622Z"
+    },
+    "resolved_answer": "remain"
   },
   {
     "id": "deb35f3c22286d1a3225e538250a7ff0eb9ef25ed6b0d561c89c20af84e2ed44",

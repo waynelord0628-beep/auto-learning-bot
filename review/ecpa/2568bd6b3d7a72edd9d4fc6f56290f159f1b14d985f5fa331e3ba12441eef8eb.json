@@ -226,13 +226,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民眾對遠距與在地照護需求提升",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.816Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.579Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民眾對遠距與在地照護需求提升",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.361Z"
+    },
+    "resolved_answer": "民眾對遠距與在地照護需求提升"
   },
   {
     "id": "e52bc429201f352d7d17691b9fa7ea255fa8e93a66d44cc06b0709b14bf1ac50",
@@ -245,13 +266,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Hospital in Cloud",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.602Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Hospital in Cloud",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.384Z"
+    },
+    "resolved_answer": "Hospital in Cloud"
   },
   {
     "id": "7f9c862260e6a58abcbf4bb4f4b86cd79df9dc9ee78ee833390c37dcd9fe7c62",
@@ -264,13 +306,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "打造民眾最信賴的醫療體系",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.819Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.630Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "打造民眾最信賴的醫療體系",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.410Z"
+    },
+    "resolved_answer": "打造民眾最信賴的醫療體系"
   },
   {
     "id": "4f6e0cddb3b78e375d9d639b596a17c173150437068562311cb283e48fb56789",
@@ -283,13 +346,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透過 AI 減輕行政負擔並輔助決策",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:45:14.820Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.663Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "透過 AI 減輕行政負擔並輔助決策",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.433Z"
+    },
+    "resolved_answer": "透過 AI 減輕行政負擔並輔助決策"
   },
   {
     "id": "2fcdf475165d0a204e6f0505567b0855e9b2373b10bdb2a4679c6876a56ea69b",
@@ -302,13 +386,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高階影像掃描",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:01.184Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.691Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "高階影像掃描",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.455Z"
+    },
+    "resolved_answer": "高階影像掃描"
   },
   {
     "id": "2b0c09e6c5540f16d7e0e414dd8c285275ffbc9031099c8949cfe3dfe58a65f7",
@@ -321,13 +426,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "輔助判斷與減少負擔",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:01.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.714Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "輔助判斷與減少負擔",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.484Z"
+    },
+    "resolved_answer": "輔助判斷與減少負擔"
   },
   {
     "id": "c7a3252495a7ad99a671eeca28fe05d92d743cce9eee231ca2c4fe141fe9e737",
@@ -340,13 +466,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "製作健康宣傳海報",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:01.191Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.737Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "製作健康宣傳海報",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.508Z"
+    },
+    "resolved_answer": "製作健康宣傳海報"
   },
   {
     "id": "784078b827b7af9ffc22712c6ea4e790a0e3ac7eabaa9305e9c63ad2f8f234fa",
@@ -359,13 +506,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "節省記錄時間與減少錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:01.195Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.759Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "節省記錄時間與減少錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.531Z"
+    },
+    "resolved_answer": "節省記錄時間與減少錯誤"
   },
   {
     "id": "c7c27a671644360304b809c3db8ff134c881bc691173104e917c272399ec069c",
@@ -378,13 +546,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高價檢查推銷",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:37.396Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.781Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "高價檢查推銷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.550Z"
+    },
+    "resolved_answer": "高價檢查推銷"
   },
   {
     "id": "3b7c2866a0e9228b7451e291952d361438c05f906a7923baaddd66f6faf67238",
@@ -397,13 +586,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "長期住院",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:37.398Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.805Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "長期住院",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.569Z"
+    },
+    "resolved_answer": "長期住院"
   },
   {
     "id": "b8f6a9c95cdc07f9109342424fdf3965dd3ca5de6d2cbe471c1cce510af6a59f",
@@ -416,13 +626,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提升醫護工作效率並強化溝通",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T10:46:37.399Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.827Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升醫護工作效率並強化溝通",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.589Z"
+    },
+    "resolved_answer": "提升醫護工作效率並強化溝通"
   },
   {
     "id": "a74c168e3b18ac4009be8daa00a06ed633358e5aa91fbbc07dc4d6d7275203d7",
@@ -435,13 +666,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "居家醫療與遠距照護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:44:32.070Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.850Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "居家醫療與遠距照護",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.609Z"
+    },
+    "resolved_answer": "居家醫療與遠距照護"
   },
   {
     "id": "fe7ece2189ec239d83258ee75d2d3848a667759c3fe8c84ee3efe86b060680ed",
@@ -454,13 +706,34 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "智慧醫療、全人照護、無牆醫院",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:44:32.075Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.872Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "智慧醫療、全人照護、無牆醫院",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.628Z"
+    },
+    "resolved_answer": "智慧醫療、全人照護、無牆醫院"
   },
   {
     "id": "c3e9cd37dbc8fe0ad3a121a14a08462aabebbaf6bd0ed8c9328825993efd9078",
@@ -473,12 +746,33 @@
     ],
     "type": "單選",
     "course": "AI Together以智慧醫療打造民眾最信賴的醫療體系",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "調劑效率與安全性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T00:44:32.076Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:20.892Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "調劑效率與安全性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/ai-togetheree.html",
+          "title": "「AI Together以智慧醫療打造民眾最信賴的醫療體系」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637757",
+          "title": "AI Together以智慧醫療打造民眾最信賴的醫療體系《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:21:58.649Z"
+    },
+    "resolved_answer": "調劑效率與安全性"
   }
 ]

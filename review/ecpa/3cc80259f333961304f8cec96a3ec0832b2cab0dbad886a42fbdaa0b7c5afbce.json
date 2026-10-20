@@ -32,16 +32,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.894Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.749Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在 2027 年前全面強化高中與技職體系的 AI 素養，建立全國性智慧教育生態圈",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.458Z"
+    },
+    "resolved_answer": "在 2027 年前全面強化高中與技職體系的 AI 素養，建立全國性智慧教育生態圈"
   },
   {
     "id": "9554449164f4d80497ed204c5f3426285419067a4badc12d4ca282004e42df04",
@@ -54,16 +71,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.894Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.781Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "我們是否願意學習並與 AI 協作",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.474Z"
+    },
+    "resolved_answer": "我們是否願意學習並與 AI 協作"
   },
   {
     "id": "daeea649b247377ec89e946057b4757e0c7ff5fc8f3cd1ccec8bfbe9fdcadd24",
@@ -164,16 +198,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.897Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.817Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "獨裁者",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.588Z"
+    },
+    "resolved_answer": "獨裁者"
   },
   {
     "id": "c6f812cbf8a1f9a42468ca637258cecaa66c68740deecde8cb38778651c4fb97",
@@ -186,16 +237,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.897Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.845Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "具備自然語言理解與溝通能力，使用者無需具備程式設計背景",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.610Z"
+    },
+    "resolved_answer": "具備自然語言理解與溝通能力，使用者無需具備程式設計背景"
   },
   {
     "id": "4002af55a5b271cce407d8b28d637912138dd2e7af57c468e3ddedc509289d81",
@@ -250,14 +318,31 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:55.246Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.875Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "完全取代政府所有決策，並由 AI 自行運作",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.689Z"
+    },
+    "resolved_answer": "完全取代政府所有決策，並由 AI 自行運作"
   },
   {
     "id": "cc67cdc10acbe25bb49dc09194fac42ef095252ca764aa6c378d3acf1fc3e8b4",
@@ -270,14 +355,31 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:55.247Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.902Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "成為全球 AI 治理創新試驗場",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.711Z"
+    },
+    "resolved_answer": "成為全球 AI 治理創新試驗場"
   },
   {
     "id": "3b898937b8712d8ff7dfe8704fbea9f5bace0945de2a18b9e3b5d6c690e0b22b",
@@ -330,13 +432,30 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:43:24.580Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.934Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "與政府合作建立「開放資料即服務」的文化與實務管道",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:44.773Z"
+    },
+    "resolved_answer": "與政府合作建立「開放資料即服務」的文化與實務管道"
   }
 ]

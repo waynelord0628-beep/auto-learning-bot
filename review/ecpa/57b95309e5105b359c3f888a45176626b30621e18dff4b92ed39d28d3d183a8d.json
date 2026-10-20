@@ -10,14 +10,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.071Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.827Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可直接與儲存資料對話的 API",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.456Z"
+    },
+    "resolved_answer": "可直接與儲存資料對話的 API"
   },
   {
     "id": "21b8042a9640fe9a0b51a2c1b827a3cf969bea3471ddf67b7ac1447ced76b3aa",
@@ -30,14 +51,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.074Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.846Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "隱私洩露與模型偏誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.472Z"
+    },
+    "resolved_answer": "隱私洩露與模型偏誤"
   },
   {
     "id": "9ca49f22847934e2b4a3c9fd66498fcd4c4bf071db087e4a35638d6b1af97231",
@@ -50,14 +92,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.075Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.865Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "導入成熟度、平台準備度、風險管理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.490Z"
+    },
+    "resolved_answer": "導入成熟度、平台準備度、風險管理"
   },
   {
     "id": "540814fb27852440045854991d71a3d9dc104be7893424fb04ba85844ac59e5a",
@@ -70,14 +133,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.075Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.884Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "最小可行產品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.505Z"
+    },
+    "resolved_answer": "最小可行產品"
   },
   {
     "id": "d9ad17d15f566e1f111be97952dc6bd3e854c315acae40e9b20b49ce0305ccee",
@@ -90,14 +174,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.076Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.904Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "與 Kubernetes 不相容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.521Z"
+    },
+    "resolved_answer": "與 Kubernetes 不相容"
   },
   {
     "id": "d681b44185b29962a2b6a05d3723e85e87aec008782abc5c661666a4de5bd2cf",
@@ -110,14 +215,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.077Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.927Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可離線執行，避免資料外洩",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.536Z"
+    },
+    "resolved_answer": "可離線執行，避免資料外洩"
   },
   {
     "id": "dd926daa97ea9abdff4a74a7820613ce08598723c27750aa32895be11f9bb681",
@@ -130,14 +256,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.078Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.945Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Shaper",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.554Z"
+    },
+    "resolved_answer": "Shaper"
   },
   {
     "id": "8166be2a1f8633f456029e2e475daa40fa9608daf895a3836cf94ec9cb4372b0",
@@ -150,14 +297,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.079Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.966Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "TrustyAI 工具組",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.570Z"
+    },
+    "resolved_answer": "TrustyAI 工具組"
   },
   {
     "id": "b2ad9b3c46419e583b565f527e3b6bbbe32e9c0221fa3c48fcc6d0305e978f52",
@@ -170,14 +338,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.079Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:17.983Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "運算與查詢執行平台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.588Z"
+    },
+    "resolved_answer": "運算與查詢執行平台"
   },
   {
     "id": "bff137176f47545eedfc8af5a7e493515583202f146304bbea3dee93f584e5b7",
@@ -190,14 +379,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:11:41.080Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.000Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AI 加速服務（AI Accelerator）",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.603Z"
+    },
+    "resolved_answer": "AI 加速服務（AI Accelerator）"
   },
   {
     "id": "3c87172787f8aad25131bd2e4a12bf176e8768a6312b0ced6e6efdf85dedb92d",
@@ -210,14 +420,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:17.666Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.024Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "約 90% 提升以上",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.618Z"
+    },
+    "resolved_answer": "約 90% 提升以上"
   },
   {
     "id": "3b04aec390503d9c49550e4c439e33f59898448a3de3e5c1b8aa1caa346e65df",
@@ -230,14 +461,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:17.667Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.045Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建立雲端無關的開放平台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.634Z"
+    },
+    "resolved_answer": "建立雲端無關的開放平台"
   },
   {
     "id": "9d75c875e552f995c3db71c0474a0703a2296f623db0773b96d7aebce217e942",
@@ -250,14 +502,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:17.668Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.065Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "S3 相容的物件儲存",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.651Z"
+    },
+    "resolved_answer": "S3 相容的物件儲存"
   },
   {
     "id": "59984ae9dc382d99a49f77d9cae515def09a55ca6642f767dcacd75586ce1297",
@@ -270,14 +543,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:17.669Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.085Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料遺失模擬器",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.666Z"
+    },
+    "resolved_answer": "資料遺失模擬器"
   },
   {
     "id": "96043ff8d91a8d9d1f2a9a5ad7b8ec7d2cdab8595b2f9cd0cd18a1e05f30dfa0",
@@ -290,14 +584,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:17.670Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.104Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "能生成全新內容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.681Z"
+    },
+    "resolved_answer": "能生成全新內容"
   },
   {
     "id": "fa923337aeae0c931b6ff845011cf582523e3a374749f959dcdb6810a3d9d08d",
@@ -310,14 +625,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:48.278Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.126Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "GPU 和 NVMe SSD",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.697Z"
+    },
+    "resolved_answer": "GPU 和 NVMe SSD"
   },
   {
     "id": "97958f4320b869831fa4bea95102b976f51e8a2b58a0a7acc63407390c1ae9bf",
@@ -330,14 +666,35 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:48.279Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.145Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "TBs 至 EB 級數據量，400-800GbE",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.715Z"
+    },
+    "resolved_answer": "TBs 至 EB 級數據量，400-800GbE"
   },
   {
     "id": "a4723ccab9d74ccc6a27d424dc9db18992d91a0693c4359da864343dc1f40ca2",
@@ -350,13 +707,34 @@
     ],
     "type": "單選",
     "course": "AI基礎建設與平台選型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T17:12:48.280Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:22:18.164Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "表格分析與未來預測",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/01/aiee_01707248827.html",
+          "title": "「AI基礎建設與平台選型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347637773",
+          "title": "AI基礎建設與平台選型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:20:17.731Z"
+    },
+    "resolved_answer": "表格分析與未來預測"
   }
 ]
