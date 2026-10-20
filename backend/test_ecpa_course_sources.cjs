@@ -26,4 +26,16 @@ rows=ctx.ecpaCoursePageRows(rodi,'https://www.rodiyer.idv.tw/a');assert.equal(ro
 vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx);
 let calls=0;ctx.UrlFetchApp={fetch:()=>{calls++;return {getResponseCode:()=>302,getAllHeaders:()=>({Location:'https://127.0.0.1/secret'})};}};
 assert.equal(ctx.ecpaFetchCoursePage('https://www.peigogo.com/test'),null);assert.equal(calls,1);
-console.log('PASS: three source formats, exact course/question/options, conflict retention, no API on indexed answer, redirect restrictions');
+// Parse a whole course once, including exact answers currently in paid retry backoff.
+vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx);
+let pages=0,paid=0;
+const both=table.replace('</table>','<tr><td>Q</td><td></td><td>Second question?</td></tr><tr><td>v</td><td></td><td>A</td></tr><tr><td></td><td></td><td>B</td></tr></table>');
+ctx.ecpaFetchCoursePage=url=>{pages++;return {url,html:both};};
+ctx.ecpaCourseSourceUrls=()=>['https://roddayeye.pixnet.net/course'];
+ctx.ecpaReviewApi=()=>{paid++;throw Error('Free course sweep must not call API');};
+const first={...q,id:'one',status:'pending',reason:'missing',review_state:'candidate_ready'};
+const second={...first,id:'two',question:'Second question?',verify_policy:'course_first_v2',verify_attempts:3,verify_after:'2999-01-01'};
+const batch=ctx.ecpaCourseBatchAnswers([first,second,{...second,id:'other',course:'Other course'},{...second,id:'bad-options',options:['A','C']}],q.course,Date.now()+5000);
+assert.equal(batch.length,2);assert.equal(pages,1);assert.equal(paid,0);
+assert.deepEqual(Array.from(batch,x=>x.verdict.answer),['B','A']);
+console.log('PASS: exact source formats, one parse per course page, all course questions, retry-backoff reuse, no paid bulk calls, conflicts and redirect restrictions');

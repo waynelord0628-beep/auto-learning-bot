@@ -124,13 +124,15 @@ function ecpaAutoVerifyBatch(deadline) {
   for (const path of ordered) {
     if (attempted>=3 || Date.now()>deadline) break;
     const queue = JSON.parse(ecpaReadAt(path,head,'[]'));
+    if(typeof ecpaPrimeCourseSources==='function')ecpaPrimeCourseSources(queue);
     for (const q of queue) {
       if (attempted>=3 || Date.now()>deadline) break;
       if (!ecpaCanAutoVerify(q,Date.now())) continue;
       attempted++;
       let verdict = null, error = false;
       try { verdict = ecpaVerifyFromSources(q); } catch(e) { error=true; errors++; }
-      const added=ecpaSaveSourceReview(path,q,verdict,error);
+      const courseAnswers=typeof ecpaCourseBatchAnswers==='function'?ecpaCourseBatchAnswers(queue,q.course,deadline):[];
+      const added=ecpaSaveSourceReview(path,q,verdict,error,courseAnswers);
       published += added;
       if(added) {
         const course=ecpaText(q.course || '未命名課程').slice(0,300);
@@ -152,14 +154,15 @@ function ecpaAutoVerifyBatch(deadline) {
     }
   }
 }
-function ecpaSaveSourceReview(path,original,verdict,error) {
+function ecpaSaveSourceReview(path,original,verdict,error,courseAnswers) {
   const lock=LockService.getScriptLock();
   if (!lock.tryLock(1000)) return 0;
   try {
     const head=ecpaGit('git/ref/heads/main').object.sha, commit=ecpaGit('git/commits/'+head);
     const queue=JSON.parse(ecpaReadAt(path,head,'[]'));
     const q=queue.find(x=>x.id===original.id && ecpaReviewIdentity(x)===ecpaReviewIdentity(original));
-    if (!ecpaCanAutoVerify(q,Date.now())) return 0;
+    if (!ecpaCanAutoVerify(q,Date.now()) && !(verdict&&verdict.method==='course_answer_exact_v1'&&
+      typeof ecpaCanUseCourseAnswer==='function'&&ecpaCanUseCourseAnswer(q))) return 0;
     // Service/quota failures are not completed evidence checks.
     q.verify_attempts=(q.verify_policy==='course_first_v2'?(q.verify_attempts||0):0)+(error?0:1);
     q.verify_policy='course_first_v2';
@@ -167,20 +170,29 @@ function ecpaSaveSourceReview(path,original,verdict,error) {
     q.verification_status=error?'service_error':(verdict?'source_supported':'insufficient_sources');
     const patches=JSON.parse(ecpaReadAt(ECPA_PATCH_PATH,head,'[]'));
     let published=0;
+    const reviews=[{original,verdict}].concat((courseAnswers||[]).filter(x=>x.original.id!==original.id));
     // Legacy clients identify patches by question text: do not overwrite any existing entry.
-    if (verdict && !patches.some(p=>ecpaText(p.question)===ecpaText(q.question))) {
-      q.source_review=verdict; q.status='resolved'; q.review_state='source_reviewed';
-      q.resolved_answer=verdict.answer; q.candidate_answer=null;
-      patches.push({question:q.question,type:q.type,options:q.options,course:q.course,
-        answer:verdict.answer,source:verdict.method==='course_answer_exact_v1'?'course_answer_page':'official_source_reviewed',source_review:verdict});
-      published=1;
-    } else if (verdict) q.verification_status='existing_answer_requires_evidence';
+    for(const review of reviews) {
+      const target=queue.find(x=>x.id===review.original.id&&ecpaReviewIdentity(x)===ecpaReviewIdentity(review.original));
+      const evidence=review.verdict;
+      if(!target||!evidence||evidence.conflict)continue;
+      if(target.id!==original.id && (typeof ecpaCanUseCourseAnswer!=='function'||!ecpaCanUseCourseAnswer(target)||
+        evidence.method!=='course_answer_exact_v1'||ecpaText(target.course)!==ecpaText(q.course)))continue;
+      if(patches.some(p=>ecpaText(p.question)===ecpaText(target.question))) {
+        target.verification_status='existing_answer_requires_evidence';continue;
+      }
+      target.source_review=evidence;target.status='resolved';target.review_state='source_reviewed';
+      target.resolved_answer=evidence.answer;target.candidate_answer=null;target.verification_status='source_supported';
+      patches.push({question:target.question,type:target.type,options:target.options,course:target.course,
+        answer:evidence.answer,source:evidence.method==='course_answer_exact_v1'?'course_answer_page':'official_source_reviewed',source_review:evidence});
+      published++;
+    }
     const files=[{path,mode:'100644',type:'blob',content:JSON.stringify(queue,null,2)}];
     if (published) {
       const version=ecpaReadAt(ECPA_VERSION_PATH,head,'0').trim();
       if (!/^\d+$/.test(version)) throw Error('Invalid bank version');
       files.push({path:ECPA_PATCH_PATH,mode:'100644',type:'blob',content:JSON.stringify(patches,null,2)},
-        {path:ECPA_VERSION_PATH,mode:'100644',type:'blob',content:String(Number(version)+1)});
+        {path:ECPA_VERSION_PATH,mode:'100644',type:'blob',content:String(Number(version)+published)});
     }
     const tree=ecpaGit('git/trees','post',{base_tree:commit.tree.sha,tree:files});
     const next=ecpaGit('git/commits','post',{message:published?'patch: add source-reviewed eCPA answer':'review: record automatic source check',tree:tree.sha,parents:[head]});
