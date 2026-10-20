@@ -9,16 +9,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.187Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.029Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "隨意丟棄",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.763Z"
+    },
+    "resolved_answer": "隨意丟棄"
   },
   {
     "id": "59d97e422384f2cf352d555c5851b910fb2dd00781d9aaa0acd6d49e6b2a7fa8",
@@ -30,16 +51,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.188Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.046Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "鳳梨葉纖維是經濟作物",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.779Z"
+    },
+    "resolved_answer": "鳳梨葉纖維是經濟作物"
   },
   {
     "id": "e936de2382ac9b6f42592f4ea6a5259926463a728d07cf8bef89adf3f0d54b0e",
@@ -51,16 +93,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.189Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.068Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "廢棄鳳梨葉纖維成本很低",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.796Z"
+    },
+    "resolved_answer": "廢棄鳳梨葉纖維成本很低"
   },
   {
     "id": "fe1f33ea6fdde97ed1b43e23b7325ed675b4148dad5535a39835ab2117a7f1ac",
@@ -72,16 +135,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.190Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.088Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "澳洲墨爾本",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.811Z"
+    },
+    "resolved_answer": "澳洲墨爾本"
   },
   {
     "id": "766c367802af0f401c053ad7ad26de77fd0537dd8a1baf58abe4f2bbbeca6c1a",
@@ -93,16 +177,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.191Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.105Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "鳳梨",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.834Z"
+    },
+    "resolved_answer": "鳳梨"
   },
   {
     "id": "c7818e8471ed3312a18815f843006337567cd0f34a4fbe31682db4ce888402a3",
@@ -114,16 +219,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.192Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.125Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "大約50萬公噸",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.859Z"
+    },
+    "resolved_answer": "大約50萬公噸"
   },
   {
     "id": "1127ccd022cd2066d7a9712aaa65310744582dd17c22f24d9e1068001d037e7a",
@@ -135,16 +261,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.192Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.147Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1.4公斤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.883Z"
+    },
+    "resolved_answer": "1.4公斤"
   },
   {
     "id": "5de3ef27430b66ebcb1182842b978c58ef2d96e9b5f1f39ccdfca75a97afa781",
@@ -156,16 +303,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.193Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.165Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "18個月",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.907Z"
+    },
+    "resolved_answer": "18個月"
   },
   {
     "id": "6ce3b131f5b8d5601701bc62a0381168fafbf8697abd2300591f164abcad6685",
@@ -177,16 +345,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.195Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.184Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "酵素",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.930Z"
+    },
+    "resolved_answer": "酵素"
   },
   {
     "id": "8be468227ec7117d248bbaae06595e3de5b823e77078accdebc09b281ad5a13d",
@@ -198,16 +387,37 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:08.196Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T11:19:47.550Z"
+    "retry_after": "2026-10-20T11:19:47.550Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.200Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "根部長出的葉子",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.950Z"
+    },
+    "resolved_answer": "根部長出的葉子"
   },
   {
     "id": "83b57ca0d5c11d2eef3777012bf7fe36a52d950ac441c0352b6d87d03130ac8b",
@@ -219,14 +429,35 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:54.627Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.219Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "芭蕉的假莖是經濟作物",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.974Z"
+    },
+    "resolved_answer": "芭蕉的假莖是經濟作物"
   },
   {
     "id": "8aceff0123b036e98a76e9afd2f2232a284ef4cce92594f2c77f015890e184ee",
@@ -238,13 +469,34 @@
     ],
     "type": "單選",
     "course": "屬於台灣的天然纖維：鳳梨葉纖維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T07:44:54.628Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.238Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "台灣有很多豐富的在地天然纖維",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_93.html",
+          "title": "「屬於台灣的天然纖維：鳳梨葉纖維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169033",
+          "title": "屬於台灣的天然纖維：鳳梨葉纖維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:59.990Z"
+    },
+    "resolved_answer": "台灣有很多豐富的在地天然纖維"
   }
 ]

@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.380Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.655Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2431",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.149Z"
+    },
+    "resolved_answer": "2431"
   },
   {
     "id": "c5d467df63a61cfae82557bce358545dc98df316d974aaec8ecd43cd7b0a9d3f",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.385Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.680Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "保存民眾個人化資料",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.165Z"
+    },
+    "resolved_answer": "保存民眾個人化資料"
   },
   {
     "id": "d6bf51ca340a8bef021dfbe780cd5bc5e38de51fdab8ef703fb02cd03d99a1cf",
@@ -54,16 +96,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.388Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.705Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "透過MyData機制，經由身分驗證與線上同意，單次即時傳輸所需證明至教育部助學系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.181Z"
+    },
+    "resolved_answer": "透過MyData機制，經由身分驗證與線上同意，單次即時傳輸所需證明至教育部助學系統"
   },
   {
     "id": "0efbdcbf39211a272d75ccee7fcf6dbcc9159fee2fca605f822dd3d9bff06588",
@@ -74,16 +137,37 @@
     ],
     "type": "是非",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.390Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.726Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.196Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "f8ef18cd773bda83f455407ea0671dacf6576d74cc5b2e78712a3571db0e3d79",
@@ -96,16 +180,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.391Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.750Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供公務機關基於業務職掌取得民眾個人化資料",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.215Z"
+    },
+    "resolved_answer": "提供公務機關基於業務職掌取得民眾個人化資料"
   },
   {
     "id": "1ca89f99301474287afcb942ce72031971180d2554c73341274048d292f990a1",
@@ -118,16 +223,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.393Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.772Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "若資料提供機關（DP）發生異常， MyData平臺應暫存資料需求及token，並於DP異常排除後，再次將資料需求及token發送給DP",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.235Z"
+    },
+    "resolved_answer": "若資料提供機關（DP）發生異常， MyData平臺應暫存資料需求及token，並於DP異常排除後，再次將資料需求及token發送給DP"
   },
   {
     "id": "f3832d4e3be015bfcb737f15c3b619a4ebf57b9fb8b4b28827a30fc2e463efb8",
@@ -140,16 +266,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:48:32.394Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.794Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民眾可以自主運用保存於政府機關的個人化資料。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.253Z"
+    },
+    "resolved_answer": "民眾可以自主運用保存於政府機關的個人化資料。"
   },
   {
     "id": "23293b2077cc07b237073b83d6ddabd27d998fb23bf7c5e48aaa59ffa48d7ea4",
@@ -160,16 +307,37 @@
     ],
     "type": "是非",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:49:12.987Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.817Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.269Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c7076dc38983c6b4c26b3ae3e3a1b46a626ccf2484a170681103643a9d6a3c8a",
@@ -180,16 +348,37 @@
     ],
     "type": "是非",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:49:12.991Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.837Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.289Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "89c77106c33c5d8369c4516f44a0baa9e6cd1233e6ae3fa2030e168f41572699",
@@ -202,16 +391,37 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:49:50.952Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T09:19:39.237Z"
+    "retry_after": "2026-10-20T09:19:39.237Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.857Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公務機關依個人資料保護法第20條，特定目的外之利用不需經當事人同意",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.312Z"
+    },
+    "resolved_answer": "公務機關依個人資料保護法第20條，特定目的外之利用不需經當事人同意"
   },
   {
     "id": "9a1d966117dd0a0d5989b7833e7b69dc37b5a193caa44371843eaa3ecd409fca",
@@ -223,13 +433,34 @@
     ],
     "type": "單選",
     "course": "賦權個人打造自主數位運用－MyData 我的資料，我做主！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T14:49:50.957Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:35.884Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "制度面：完備資料自主運用機制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/mydata-ee.html",
+          "title": "「賦權個人打造自主數位運用－MyData 我的資料，我做主！」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160501",
+          "title": "賦權個人打造自主數位運用－MyData 我的資料，我做主！《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:33.334Z"
+    },
+    "resolved_answer": "制度面：完備資料自主運用機制"
   }
 ]

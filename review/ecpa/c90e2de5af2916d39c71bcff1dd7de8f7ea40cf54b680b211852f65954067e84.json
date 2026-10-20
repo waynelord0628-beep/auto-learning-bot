@@ -130,13 +130,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "個人險",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.909Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.756Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "車險",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.490Z"
+    },
+    "resolved_answer": "車險"
   },
   {
     "id": "69e1d5d0b65b7ea430d54b4e879d556480a022596a4c17b24f48aa7c8f0aa126",
@@ -149,13 +174,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "網路銀行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.910Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.835Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "平台服務",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.515Z"
+    },
+    "resolved_answer": "平台服務"
   },
   {
     "id": "58eb519943944b400f0fade12fa01f24b3e686f0f4febe88110e96184f921e3a",
@@ -168,13 +218,34 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.915Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.855Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.543Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "86594188699fa8519c9735d39ec957322114913e2f2090a90f2a44596669cca2",
@@ -187,13 +258,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "進行大量API建置",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.915Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.875Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "進行大量API建置",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.571Z"
+    },
+    "resolved_answer": "進行大量API建置"
   },
   {
     "id": "ff3a087d4924701cd63ef2b36eced9f1652e33f0675cb9a41a12ac11babbed81",
@@ -206,13 +302,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.916Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.898Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.599Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "dd2ed313efccb1d61dd282fac166d6c7d560f5deab021ea713e19839dce9cd18",
@@ -225,13 +346,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "更安全的交易環境",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.917Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "更安全的交易環境",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.625Z"
+    },
+    "resolved_answer": "更安全的交易環境"
   },
   {
     "id": "9de0500f823d2fb407b4f8048ab2a1b50bb2602b5ff97518a8941c5642da924c",
@@ -244,13 +390,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:00.919Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.939Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.652Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d14bee754223bc4dbdb19856767434d1c71e0d9066ac5c984c8108e2ff1a1bba",
@@ -263,13 +434,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:47.032Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.958Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.674Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "030a68cad1205397fd788637a3fa5387558a6cf3954142ac55036685523547bc",
@@ -302,13 +498,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自我導向帳戶",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:49:47.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.977Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自我導向帳戶",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.703Z"
+    },
+    "resolved_answer": "自我導向帳戶"
   },
   {
     "id": "fd792e19bed5b5e326c5775cb36184515f78d08d10f4d7116bce3a2b72be596a",
@@ -321,13 +542,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:50:25.730Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:33.996Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.730Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "67a895ecf6da7d53b265b3d2f37aab395a8e126f85e835e2ed0fb1195fec2a28",
@@ -340,13 +586,34 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Chatbot",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:50:25.732Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.019Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Chatbot",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.750Z"
+    },
+    "resolved_answer": "Chatbot"
   },
   {
     "id": "b0862f2d4a0794d6c91c8915f96604eddd6a9a6a7e8facedb8022d22ccd980b9",
@@ -359,13 +626,38 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人才",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:50:25.734Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.038Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料庫",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.767Z"
+    },
+    "resolved_answer": "資料庫"
   },
   {
     "id": "5d993af2b8e5da5ff9832ba8de3b3e43da99ac882be089137a50ca2dd84acbdd",
@@ -378,12 +670,37 @@
     ],
     "type": "單選",
     "course": "金融科技與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "破壞式創新",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:50:25.735Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.056Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "破壞式創新",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_66.html",
+          "title": "「金融科技與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337734705",
+          "title": "金融科技與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:15.790Z"
+    },
+    "resolved_answer": "破壞式創新"
   }
 ]

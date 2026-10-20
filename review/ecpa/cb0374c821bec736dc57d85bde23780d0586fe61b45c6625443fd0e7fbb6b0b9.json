@@ -82,16 +82,37 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.471Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.473Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:30.972Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "aaa7bab3086af4f010ee8913190c384243afe45aa9ef83967e7b5fa989274d49",
@@ -104,16 +125,37 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.474Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.495Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "職位分析",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:30.988Z"
+    },
+    "resolved_answer": "職位分析"
   },
   {
     "id": "7d97197ce2a782d2bfcfd83b122a428f7596f45d903ac8fb717ce7f7f46bfa4b",
@@ -124,16 +166,37 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.483Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.516Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.007Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "22a02b81c8e48e66d7c3175d9b8da1f7ae7cdf62ed71b06db8df4f5615de6a46",
@@ -146,16 +209,37 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.491Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.536Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "22公斤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.031Z"
+    },
+    "resolved_answer": "22公斤"
   },
   {
     "id": "c135ed28c00c14daa6f937935cb7de9fd2945072e4993e18c51047a8af921bb6",
@@ -168,16 +252,37 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.494Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.557Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "工作者的生理功能評估",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.050Z"
+    },
+    "resolved_answer": "工作者的生理功能評估"
   },
   {
     "id": "e1dab457aa7517065e8a143d64eaac45c17d86f7b5951b75b3cc91991ef7d957",
@@ -188,16 +293,37 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.513Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.576Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.076Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "161acbc5f31ce041e35ea4ae00ae740abc66b975e6dcecd84b775bcdc2240e50",
@@ -208,16 +334,37 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.517Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-17T10:19:40.286Z"
+    "retry_after": "2026-10-17T10:19:40.286Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.595Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.104Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3bd5f6faa2bb6564ecfc5edad7331b0add049af1d9197008eec59e71845efddb",
@@ -250,14 +397,35 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.522Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.613Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.153Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2ef7d6d310201c9a4e422ccde5851c3f828503b76f08da3dba0674ff75fa0f54",
@@ -288,14 +456,35 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.528Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.634Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.198Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "482f154110ef5ac638e375d98fdaa9643d6cb2fc7b45409cf487a6b04d675cc2",
@@ -326,13 +515,34 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T20:13:00.545Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.655Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920113",
+          "title": "職能復健專業人員職前訓練-S4&S5工作模擬與工作試做理論與方法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:31.255Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

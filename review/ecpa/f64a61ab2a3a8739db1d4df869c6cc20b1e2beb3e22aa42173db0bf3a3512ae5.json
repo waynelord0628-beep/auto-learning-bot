@@ -116,13 +116,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "環保局承辦人員，收受廠商紅包，不告發工廠排放汙水之情事",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.165Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.735Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "核發駕駛執照人員，接受申請人之飲宴招待，而依法核發駕照",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.371Z"
+    },
+    "resolved_answer": "核發駕駛執照人員，接受申請人之飲宴招待，而依法核發駕照"
   },
   {
     "id": "fffa899946846063fcf4d7b0b09fea632d04c4c87afe888a34782927d49badd1",
@@ -133,13 +154,34 @@
     ],
     "type": "是非",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.165Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.754Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.398Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "72acd4e21e6d040c7a2d21ba47437c2418832d50fe384829e573e0067f45c1e2",
@@ -152,13 +194,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.166Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.774Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.427Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "27729cc90bb92869e2a82c6c0a5372a439153ad372fa68de166649921478faeb",
@@ -169,13 +232,34 @@
     ],
     "type": "是非",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.167Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.794Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.450Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6f8d2d3bfa8780e023bb3c4189450179fa47b4423af98aec14277c1c7ca4be39",
@@ -188,13 +272,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.167Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.813Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.474Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "89356ffdeae4c97f11796489128622d3920df691ab8003d2defad30d25b55a9c",
@@ -207,13 +312,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.834Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.496Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ed327024886afeea2165450168b71c459ecaeef73fe26162ec3c35fda02ccbfd",
@@ -226,13 +352,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "賑災時，協助災民勘查鑑定災害之受損程度，明知其不符合災害補助標準，仍准予發放救助款項",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:01.171Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.854Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "賑災時，協助災民勘查鑑定災害之受損程度，明知其不符合災害補助標準，仍准予發放救助款項",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.525Z"
+    },
+    "resolved_answer": "賑災時，協助災民勘查鑑定災害之受損程度，明知其不符合災害補助標準，仍准予發放救助款項"
   },
   {
     "id": "9e807b730562630373158e351dc6bf65e927eca927c650ca35e06f0a19a50641",
@@ -245,13 +392,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:30.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.873Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.562Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "44559c05f807f53fcc5d32cdac3eafb6ed1cb0cbe23f9c7de5500ce83f1effac",
@@ -264,13 +432,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:30.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.894Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.598Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3c65947e89b80e21917669aae3c0c46976031a668d77aa9ebbdd1da17b19c1fb",
@@ -281,13 +470,34 @@
     ],
     "type": "是非",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T16:04:30.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.913Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.632Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f024403e88a866a9bbb73a16de61db71252537162f93fb53e4b815456ba76a33",
@@ -300,13 +510,34 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為了給予人民利益或好處，可以違背法令",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T07:26:42.787Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.931Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為了給予人民利益或好處，可以違背法令",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.666Z"
+    },
+    "resolved_answer": "為了給予人民利益或好處，可以違背法令"
   },
   {
     "id": "652f93579db9ddb15aa20b939f66ae1f7f2a523180b7b55f454fced3e11e60c4",
@@ -319,12 +550,33 @@
     ],
     "type": "單選",
     "course": "公務員法律責任個案檢討及防弊作為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:57:48.723Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:34.949Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_183.html",
+          "title": "「公務員法律責任個案檢討及防弊作為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337306769",
+          "title": "公務員法律責任個案檢討及防弊作為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:22:37.701Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

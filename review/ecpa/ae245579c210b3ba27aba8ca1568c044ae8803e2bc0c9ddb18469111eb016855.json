@@ -8,17 +8,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.775Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T05:19:57.686Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:36.985Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:50.968Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "095ad1b0fb8824b48902920f02bf1423f8e1cf4926e381ef298e79b8bd5ce515",
@@ -29,17 +42,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.779Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T05:20:09.171Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.019Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:50.996Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "b90153d1f928e396454e6d4ff57cada668c5481441234653692ccaaa84b5f5ee",
@@ -50,17 +76,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.781Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T05:20:19.659Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.056Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.025Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "031d194d009f470832f0676684637821a50035478dea68c88cd6225bf9a96ffc",
@@ -71,13 +110,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.782Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.090Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.051Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0d473d786f29a5edf14d6f8da37f63ac09d044d87ec9fb61b6adf47f46dd2abd",
@@ -88,13 +144,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.784Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.126Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.077Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "f2441772ca9ae190dcfe4583e90715d6174bd140e02d079d2ef22ce2160b39eb",
@@ -105,13 +178,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.785Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.158Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.107Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3d713c8fffd7522a0b0c56ca8df9693bcf700d94f6031e2b161ae532c7ff3d20",
@@ -122,13 +212,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.787Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.190Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.136Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "fee56d0d3119786bd2f65101a34b023c18dd351a7c2eaed7151a47b27bd6d505",
@@ -139,13 +246,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.789Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.222Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.167Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "40f4d721d9360ce2159db2a9bdd14c697079bae4b7ea54516035fd924f00998f",
@@ -156,13 +280,30 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.790Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.254Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.197Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6eb2a91009ca8964b2ba95bf37f36d1f48584d91f845844c5f91b71a56ab1457",
@@ -173,12 +314,29 @@
     ],
     "type": "是非",
     "course": "114年度樹木修剪教育訓練課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:16:15.792Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:24:37.283Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347831389",
+          "title": "114年度樹木修剪教育訓練課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:23:51.224Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]
