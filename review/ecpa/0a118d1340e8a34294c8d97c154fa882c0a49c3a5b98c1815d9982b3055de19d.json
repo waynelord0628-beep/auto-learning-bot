@@ -413,12 +413,29 @@
     ],
     "type": "單選",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提升家人凝聚力以不變應萬變",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:31:21.499Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.288Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升家人凝聚力以不變應萬變",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.364Z"
+    },
+    "resolved_answer": "提升家人凝聚力以不變應萬變"
   }
 ]

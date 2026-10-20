@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 2022年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.000Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-09T13:19:46.101Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.733Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1. 2022年",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.059Z"
+    },
+    "resolved_answer": "1. 2022年"
   },
   {
     "id": "a5ed90f94e5060dcb9aac3cb7ef6c6a70dcf946b8c102d99a28c84d4a282eccb",
@@ -33,17 +46,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3. 海洋環境保護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.005Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T00:20:06.872Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.754Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4. 海洋空間規劃",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.059Z"
+    },
+    "resolved_answer": "4. 海洋空間規劃"
   },
   {
     "id": "928422611dcb23f8c41069f1fc30b2ebe4188578f28482777e8fdec302bfa29d",
@@ -56,17 +82,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋藍碳",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.008Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T00:22:06.895Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.773Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋藍碳",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.060Z"
+    },
+    "resolved_answer": "海洋藍碳"
   },
   {
     "id": "f76bde18fd66a60dd13b83fffecf4dce0c0fa69784b4d3a91ea55b6b57223d9e",
@@ -79,17 +118,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋礦資源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.015Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T00:22:14.353Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.793Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋礦資源",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.061Z"
+    },
+    "resolved_answer": "海洋礦資源"
   },
   {
     "id": "7ad3d30ab218ddffd727eb8c5142d1a0cf64bbecfc59e20f2e8975c2982d0ea8",
@@ -102,17 +154,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建構海洋資料庫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.021Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-26T07:19:54.160Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.813Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建構海洋資料庫",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.062Z"
+    },
+    "resolved_answer": "建構海洋資料庫"
   },
   {
     "id": "38527d1283740e8d142f9368e75e0e14c5b71962dfe68514bef8872cf49910d2",
@@ -125,17 +190,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 12",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.026Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-26T07:20:01.046Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.838Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4. 16",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.064Z"
+    },
+    "resolved_answer": "4. 16"
   },
   {
     "id": "78fcace1dff4ab5acae0e2cc7b1f5bce4fb53bb8acfb2bfacc171dcf5b84eb0b",
@@ -148,13 +226,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 2023年1月1日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.027Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.858Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3. 2024年1月1日",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.064Z"
+    },
+    "resolved_answer": "3. 2024年1月1日"
   },
   {
     "id": "ae8e17c555b2f0d9be83c287b4b9981a676ee81307e54b30768daf78abd6ce28",
@@ -167,13 +262,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1. 指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.031Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.879Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1. 指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.065Z"
+    },
+    "resolved_answer": "1. 指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。"
   },
   {
     "id": "1bad24a24c0ce8fa43dcd952344943597cb94f60c56802e19e5783e1d56c1f72",
@@ -186,13 +298,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "聯合國海洋法公約下國家管轄外區域海洋生物多樣性保育及永續利用協定",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:04:30.033Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.899Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "聯合國海洋法公約下國家管轄外區域海洋生物多樣性保育及永續利用協定",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.065Z"
+    },
+    "resolved_answer": "聯合國海洋法公約下國家管轄外區域海洋生物多樣性保育及永續利用協定"
   },
   {
     "id": "52adc27ce0fd67468f2ac68ad3cfb30d4e37d1b795d05df5163a15967631ad9a",
@@ -205,13 +334,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋漁業與養殖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.109Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.919Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋運輸及輔助",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.065Z"
+    },
+    "resolved_answer": "海洋運輸及輔助"
   },
   {
     "id": "91a01b754712161adc868ae7b54f4fbbd40aec849b9af22d6a1ee10c00ac53ea",
@@ -224,13 +370,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "5月20日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.117Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.942Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "6月8日",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.066Z"
+    },
+    "resolved_answer": "6月8日"
   },
   {
     "id": "7e4eb4270133430c726bc928df6c57bd5b091d97903889eba44a8676e55a5760",
@@ -243,13 +406,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "藍色經濟",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.122Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.962Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "藍色經濟",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.067Z"
+    },
+    "resolved_answer": "藍色經濟"
   },
   {
     "id": "d109288ad55cea9660eb930ea59ad79b3ac2f0040f35f4b81939dba06d06561f",
@@ -262,13 +442,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋運輸及輔助、海洋能源、海洋漁業與養殖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.123Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.984Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋運輸及輔助、海洋漁業與養殖、海洋遊艇及其他船舶載具",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.068Z"
+    },
+    "resolved_answer": "海洋運輸及輔助、海洋漁業與養殖、海洋遊艇及其他船舶載具"
   },
   {
     "id": "9008d21f57b52910262ec89e009901b4e6359105a7913f0e3e7a7775fd614cc4",
@@ -281,13 +478,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "經濟(Economical)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T12:05:04.124Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.006Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "效率(Efficiency)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.068Z"
+    },
+    "resolved_answer": "效率(Efficiency)"
   },
   {
     "id": "1c6094031f8cc4350eecebfaa1814ad441ca4ce30387e63bceeaf143a1ce890c",
@@ -300,13 +514,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自由平等",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:16:32.819Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.029Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自由平等",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.069Z"
+    },
+    "resolved_answer": "自由平等"
   },
   {
     "id": "51ed2d6ecf9c5355a989ce53ba20874a97cd996b8938cb73df154f0773ae5848",
@@ -319,13 +550,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 2020年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:16:32.820Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.049Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1. 2019年",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.069Z"
+    },
+    "resolved_answer": "1. 2019年"
   },
   {
     "id": "c1f56dee54b1a8192f3fb7a6bdd8c3d049b6b1df4fbb38b4496f5c4234ecda11",
@@ -338,13 +586,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2. 2倍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:16:32.820Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.069Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3. 2.5倍",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.069Z"
+    },
+    "resolved_answer": "3. 2.5倍"
   },
   {
     "id": "81cfd453310906299b19f27b3326cf0911df19ad78153509b85e90b6ee0e47e1",
@@ -357,13 +622,30 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋非生物資源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:16:32.824Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.089Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋非生物資源",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.070Z"
+    },
+    "resolved_answer": "海洋非生物資源"
   },
   {
     "id": "25df285fd91a8840d746926f88582dee91847457fef716a7281b6739d4018c72",
@@ -376,12 +658,29 @@
     ],
     "type": "單選",
     "course": "海洋產業-藍色經濟的永續發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "國家海洋政策綱領",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T00:17:35.531Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.110Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋基本法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_46.html",
+          "title": "【解答】海洋產業-藍色經濟的永續發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.070Z"
+    },
+    "resolved_answer": "海洋基本法"
   }
 ]

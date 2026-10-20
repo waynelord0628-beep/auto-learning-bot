@@ -30,16 +30,33 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.766Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.624Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.兒童最佳利益原則(Best interests of the child)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.082Z"
+    },
+    "resolved_answer": "2.兒童最佳利益原則(Best interests of the child)"
   },
   {
     "id": "9cbfbb7025b6a6c9af11f9ff8870ef8c41b11b211ac79caa5dcb85d44a3361e2",
@@ -132,16 +149,33 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.772Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.645Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.2014年",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.082Z"
+    },
+    "resolved_answer": "2.2014年"
   },
   {
     "id": "78bfd1599b0e3a897e95f2a4f0ff85cdbd8a704d84ba24cbc26d805bea4c8e84",
@@ -154,16 +188,33 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.773Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.668Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4.日內瓦兒童權利宣言",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.082Z"
+    },
+    "resolved_answer": "4.日內瓦兒童權利宣言"
   },
   {
     "id": "5e1d3e4b292b527d3ef2a2b8e6989209beb9a10d277c8dc64af8bf8e357e4f5b",
@@ -216,14 +267,31 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:04:27.422Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.691Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3.生存與發展權(Right to life, survival, and development)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.082Z"
+    },
+    "resolved_answer": "3.生存與發展權(Right to life, survival, and development)"
   },
   {
     "id": "ba34d8542c91ea7c1e950bbd30ea1b190ccfc44ef00cb37dab7e83ee1a40d2c4",
@@ -236,14 +304,31 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:04:27.423Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.712Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.未滿18歲之人",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.083Z"
+    },
+    "resolved_answer": "2.未滿18歲之人"
   },
   {
     "id": "2374b31fcda08f0c043ea8d7f147b3993e4ee9dfc59221d1f5a6fb6d989f0d7a",
@@ -256,13 +341,30 @@
     ],
     "type": "單選",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:04:27.424Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.734Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1.不歧視原則(Non-discrimination)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.083Z"
+    },
+    "resolved_answer": "1.不歧視原則(Non-discrimination)"
   }
 ]

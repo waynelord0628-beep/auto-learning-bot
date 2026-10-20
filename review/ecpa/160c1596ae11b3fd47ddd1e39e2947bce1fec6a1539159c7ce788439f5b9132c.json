@@ -10,16 +10,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.520Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.448Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "透過分工處理複雜工作流",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.459Z"
+    },
+    "resolved_answer": "透過分工處理複雜工作流"
   },
   {
     "id": "c61b63b0facf3cede4ce9c8a74b8825a7976f4186fe94b4d9848e735ee9c3051",
@@ -32,16 +49,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.522Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.477Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "文字出現機率的預測",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.459Z"
+    },
+    "resolved_answer": "文字出現機率的預測"
   },
   {
     "id": "52270ef023661c5b8deb7176cb6a5b3f2d3ddf0fd29949b8665d1c0b972abfb3",
@@ -54,16 +88,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.523Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.501Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "RAG (檢索增強生成)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.459Z"
+    },
+    "resolved_answer": "RAG (檢索增強生成)"
   },
   {
     "id": "5a4d6fef8e81ef67520f704f562e861845fe3267aa80dc2d6a8b9bd825038789",
@@ -76,16 +127,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.524Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.525Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Context Window (上下文視窗)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.459Z"
+    },
+    "resolved_answer": "Context Window (上下文視窗)"
   },
   {
     "id": "b342abcd447047bbab1ccad453d1f2860688a8885d0557abcca26836db27ce27",
@@ -98,16 +166,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.525Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.546Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "實體硬體 (Hardware)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.459Z"
+    },
+    "resolved_answer": "實體硬體 (Hardware)"
   },
   {
     "id": "36026fa9b3e286d61d520c7e0b35fc28cf6ecefe50e7a82ce753a9bffaebe9e5",
@@ -120,16 +205,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.526Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.571Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "研究型",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.460Z"
+    },
+    "resolved_answer": "研究型"
   },
   {
     "id": "b1e1f580bd411e5ecf879d8b610bf2748ae86c8842fe7cd48a94c10ce12c4dba",
@@ -142,16 +244,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.527Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.596Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Generation (生成)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.460Z"
+    },
+    "resolved_answer": "Generation (生成)"
   },
   {
     "id": "3db7c20ddbadc8c0857c628b30cc46a949b5c6d0c51ec163188beef59d5c9ccd",
@@ -164,16 +283,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.528Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.623Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "負責任的 AI 開發與透明度",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.460Z"
+    },
+    "resolved_answer": "負責任的 AI 開發與透明度"
   },
   {
     "id": "555012bf150e327e6f630251f95589e928b08cc1e1f472280808e9efbc679804",
@@ -186,16 +322,33 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.529Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.646Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "反思與改進 (Reflection and Refinement)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.460Z"
+    },
+    "resolved_answer": "反思與改進 (Reflection and Refinement)"
   },
   {
     "id": "a8ae6d8b022bc150d8db428333934ece8f04cc6c03d38776a42ae1cc63d913b8",
@@ -208,15 +361,32 @@
     ],
     "type": "單選",
     "course": "AI Agent時代來了：預見未來的智慧革命",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T11:20:59.530Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T23:19:38.770Z"
+    "retry_after": "2026-10-19T23:19:38.770Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.669Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位員工",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai-agent.html",
+          "title": "【解答】AI Agent時代來了：預見未來的智慧革命 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.460Z"
+    },
+    "resolved_answer": "數位員工"
   }
 ]

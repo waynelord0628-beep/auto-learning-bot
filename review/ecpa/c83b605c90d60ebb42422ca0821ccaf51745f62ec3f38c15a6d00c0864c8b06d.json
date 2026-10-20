@@ -10,20 +10,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.420Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T04:19:45.513Z",
-    "verification_status": "insufficient_sources",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.181Z",
+    "verification_status": "source_supported",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "source_review": {
+      "answer": "基於規則、可預測行動",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.548Z"
+    },
+    "resolved_answer": "基於規則、可預測行動"
   },
   {
     "id": "2584ee04dbfac1f68aada43e8d7a20df6f46230a46dd34ae321961dac5a87a3a",
@@ -36,20 +49,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.422Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T04:19:51.240Z",
-    "verification_status": "insufficient_sources",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.203Z",
+    "verification_status": "source_supported",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "source_review": {
+      "answer": "擁有專責 AI 資料科學團隊，協助導入 AI 模型",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.548Z"
+    },
+    "resolved_answer": "擁有專責 AI 資料科學團隊，協助導入 AI 模型"
   },
   {
     "id": "3eff3e5057842abc676347d133754486a7c9696db4f29bd867581cc2e4085856",
@@ -62,20 +88,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.422Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T04:19:56.602Z",
-    "verification_status": "insufficient_sources",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.226Z",
+    "verification_status": "source_supported",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "source_review": {
+      "answer": "AI 賦能，讓企業、組織與個人從 AI 獲益",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.548Z"
+    },
+    "resolved_answer": "AI 賦能，讓企業、組織與個人從 AI 獲益"
   },
   {
     "id": "a3908d03e1fcee6a12ab49bdf870989d7b1df910ce22db17b1ccd03873a7c9e3",
@@ -88,16 +127,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.423Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.247Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "打造多模態對話式 AI 平台",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.550Z"
+    },
+    "resolved_answer": "打造多模態對話式 AI 平台"
   },
   {
     "id": "19a039d754d28bbcb3212b6bbd1651a1b00b8d870a7a6ec4d55ae8980bfa4c76",
@@ -110,16 +166,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.424Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.278Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "即時回答員工或客戶的各類問題",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.550Z"
+    },
+    "resolved_answer": "即時回答員工或客戶的各類問題"
   },
   {
     "id": "4ed5fc395e9bde8170691bdf716ff16a2734242b2f152bdd8abf24645507d870",
@@ -132,16 +205,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.425Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.301Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自我思考、行動、文件與升級能力",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.550Z"
+    },
+    "resolved_answer": "自我思考、行動、文件與升級能力"
   },
   {
     "id": "a59b32a9f07092dd6fbb0a42fcd1145d90b9bc3db8bc11c376984ee2593d2d31",
@@ -154,16 +244,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.426Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.321Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "連結銷售、營運、客服等部門，提升效率",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "連結銷售、營運、客服等部門，提升效率"
   },
   {
     "id": "52ab596b119ced6058ca7839cdf4ee8a0d945811019921f0cc7fa910e7ff044e",
@@ -176,16 +283,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.427Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.342Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "多雲基礎設施與 AI 解決方案",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "多雲基礎設施與 AI 解決方案"
   },
   {
     "id": "70ad251aca2ff93916df2d76133c726e0c5ee4b20c7522ba8c9a9186d63c4ccc",
@@ -198,16 +322,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.428Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.362Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "優化人力配置並降低錯誤率",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "優化人力配置並降低錯誤率"
   },
   {
     "id": "74e1f8c7542a12045cd8b35ba911f9ed56a22e624e3940c96fd2b247d358c6ae",
@@ -220,16 +361,33 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:11.428Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T08:19:39.419Z"
+    "retry_after": "2026-10-19T08:19:39.419Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.383Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "需人工處理多餘溝通，效率低且容易出錯",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "需人工處理多餘溝通，效率低且容易出錯"
   },
   {
     "id": "0d4d2f976b4fab1ac80853bbdc7a7107e51c4b4184eb46c06b284ca9207c5107",
@@ -242,14 +400,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:48.168Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.404Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "兼顧規則可靠性與 AI 適應性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "兼顧規則可靠性與 AI 適應性"
   },
   {
     "id": "eb0662e8acc0633aa1338805cd01f77e1423c40c5de43d56dae69135165f63f2",
@@ -262,14 +437,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:48.171Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.426Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自動處理差異並可主動與供應商溝通",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.551Z"
+    },
+    "resolved_answer": "自動處理差異並可主動與供應商溝通"
   },
   {
     "id": "433212fee61a529484e54708d21b0013a6301873554d7c4db22bdc2e51b7ca0c",
@@ -282,14 +474,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:14:48.172Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.446Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "教育訓練、流程開發與治理建議",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.552Z"
+    },
+    "resolved_answer": "教育訓練、流程開發與治理建議"
   },
   {
     "id": "8cfa4c4077e32f753c0e73e07505b7bded79f30c9e1c6a364b22ea36acc44622",
@@ -302,14 +511,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.816Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.469Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "結合 AI、RPA 與代理協作技術",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.552Z"
+    },
+    "resolved_answer": "結合 AI、RPA 與代理協作技術"
   },
   {
     "id": "a132c5eb6ccdf3361de6d75b3e5825cf57662e7b5f5a59ac03e50a8c760478e7",
@@ -322,18 +548,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.817Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T03:12:07.210Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T03:54:55.489Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "遊戲、媒體、零售、製造、金融等",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.553Z"
+    },
+    "resolved_answer": "遊戲、媒體、零售、製造、金融等"
   },
   {
     "id": "efb93d51d0f20dd95c9ee72a7895425a478723e35633efd8f165a7e8f7f32d60",
@@ -346,14 +585,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.818Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.510Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供全方位 IT 支援與數位轉型協助",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.553Z"
+    },
+    "resolved_answer": "提供全方位 IT 支援與數位轉型協助"
   },
   {
     "id": "904e8fb2660f33be537664aba227672863783fb64e9a5855c129158c0efa01db",
@@ -366,14 +622,31 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.819Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.532Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "基於目標、自主行動並能即時決策",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.553Z"
+    },
+    "resolved_answer": "基於目標、自主行動並能即時決策"
   },
   {
     "id": "8be316393bb2233c5cb7b4345cc0d430ba809256dd746edc6a2062805992fc6f",
@@ -386,13 +659,30 @@
     ],
     "type": "單選",
     "course": "AI導入製造現場，營運進入智慧時代",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:15:20.819Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.554Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供完整 IT 架構生命週期支援",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_73.html",
+          "title": "【解答】AI導入製造現場，營運進入智慧時代 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:09.553Z"
+    },
+    "resolved_answer": "提供完整 IT 架構生命週期支援"
   }
 ]

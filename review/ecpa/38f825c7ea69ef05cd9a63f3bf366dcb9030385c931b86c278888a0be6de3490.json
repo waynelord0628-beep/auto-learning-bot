@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "自動撰寫出更逼真、更難辨識的詐騙郵件內容",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.735Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T04:19:45.146Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.434Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "自動撰寫出更逼真、更難辨識的詐騙郵件內容",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.892Z"
+    },
+    "resolved_answer": "自動撰寫出更逼真、更難辨識的詐騙郵件內容"
   },
   {
     "id": "a97957b8e958f7512aeda529129cdb16ee328f0697ab1c0682d1e31c88ed2a28",
@@ -117,13 +130,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.744Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.509Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.898Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "31ecd09a85b386ef6a2877c14492b5fac88d7391b7f7dbe9ba957f80368df9ca",
@@ -153,13 +183,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "零時差攻擊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.749Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.528Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "零時差攻擊",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.898Z"
+    },
+    "resolved_answer": "零時差攻擊"
   },
   {
     "id": "bcbc884fee5b2aa7a2a5b16ab954bf121e99be1ca45cd48ff4356adfee64125e",
@@ -223,13 +270,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "定期備份資料是應對勒索軟體威脅最有效的緩解措施之一",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.862Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.550Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "定期備份資料是應對勒索軟體威脅最有效的緩解措施之一",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.900Z"
+    },
+    "resolved_answer": "定期備份資料是應對勒索軟體威脅最有效的緩解措施之一"
   },
   {
     "id": "1d04d582e3c1f8e61358c6111f9cbe7e0c87eb0d610924510190493243343ec7",
@@ -242,13 +306,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用公共Wi-Fi傳送機密資料",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.862Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.571Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "使用公共Wi-Fi傳送機密資料",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.900Z"
+    },
+    "resolved_answer": "使用公共Wi-Fi傳送機密資料"
   },
   {
     "id": "5601e47e4c0952ca678fbc9cd38440b69a000828908269321de58d975d441d30",
@@ -261,13 +342,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.863Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.594Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.901Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "49df4cd9291bc106857abae3fd81ee8bf2efdeebb13e3cea35259aa9329e21d7",
@@ -280,13 +378,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "通報資訊安全單位",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.863Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.614Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "通報資訊安全單位",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.902Z"
+    },
+    "resolved_answer": "通報資訊安全單位"
   },
   {
     "id": "f8686ab3b84441fc30e4de52b6c92a604724c0f9200b347a5e9f5834ece91124",
@@ -333,13 +448,30 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提供廠商必要性最小權限且具合理時效性的帳號存取",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:41:08.236Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.634Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供廠商必要性最小權限且具合理時效性的帳號存取",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.904Z"
+    },
+    "resolved_answer": "提供廠商必要性最小權限且具合理時效性的帳號存取"
   },
   {
     "id": "1ee4f486598fa7861bbecbfd478be29eedf3643121fc29010fc9123ffa1f376c",
@@ -352,12 +484,29 @@
     ],
     "type": "單選",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "https://url.gov.tw",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:22:23.753Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:54.655Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "https://url.gov.tw",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:08.905Z"
+    },
+    "resolved_answer": "https://url.gov.tw"
   }
 ]

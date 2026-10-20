@@ -109,17 +109,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.738Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T09:19:54.537Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.810Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f120f0d9043da4291cca46ae9cfc3bbed2106e64bc3ce68b50d9a21ecd8559d4",
@@ -132,17 +145,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沙岸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.739Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T09:20:00.612Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.829Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "沙岸",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "沙岸"
   },
   {
     "id": "0c8530fd1b1715e46842e6c2e4af32cf6dc719577c8174a6373445d4d8944510",
@@ -155,17 +181,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沙岸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.739Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-25T08:20:21.861Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.850Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "礫石",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "礫石"
   },
   {
     "id": "dc34ef0645b2057a9873b9c69fc02072461c16bb2df0b79635fec79817f245e9",
@@ -178,17 +217,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建構碳酸鈣的環境棲地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.740Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T08:19:48.708Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.869Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "具有提供海洋生物食物的功能",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "具有提供海洋生物食物的功能"
   },
   {
     "id": "50c904ae0d2a7585a236417019b6d993bbcaf98aba04bfb4cfb625260ce05b0e",
@@ -201,19 +253,32 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:57:58.741Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-09-14T00:19:37.696Z",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T08:19:54.204Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.889Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "藻礁",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "藻礁"
   },
   {
     "id": "69d57687144a34209027f72eeef3a89c969a22fe7d921ff41c20d72ed166ea02",
@@ -226,13 +291,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "適應環境能力高",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:58:31.487Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.909Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "適應環境能力高",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "適應環境能力高"
   },
   {
     "id": "47cca9e659988dfca934086b32b6847ca03e06b7eb1abfb5f65ef35f7723bf76",
@@ -245,13 +327,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "物種多樣性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:58:31.490Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.933Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "基因多樣性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "基因多樣性"
   },
   {
     "id": "448b563de585ec787116b38506c13ccb7b7fc9c186e0409d0ad49b4ffca397c5",
@@ -264,13 +363,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "潟湖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:58:31.491Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.954Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "潟湖",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.394Z"
+    },
+    "resolved_answer": "潟湖"
   },
   {
     "id": "e3766d744a2287ef776295c6fe5f3963c7619a20af2e3a5c0ce5de8687cbab96",
@@ -283,13 +399,30 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "遺傳多樣性低",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:58:31.493Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.975Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "遺傳多樣性低",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.396Z"
+    },
+    "resolved_answer": "遺傳多樣性低"
   },
   {
     "id": "142559eeb7b8849e436168a938cef6a94060a30cf7e5cf63e35d12b002b4830e",
@@ -302,12 +435,29 @@
     ],
     "type": "單選",
     "course": "海洋保育-海洋生物多樣性與保育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沙岸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:59:02.067Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:55.996Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "沙岸",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_64.html",
+          "title": "【解答】海洋保育-海洋生物多樣性與保育 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.397Z"
+    },
+    "resolved_answer": "沙岸"
   }
 ]

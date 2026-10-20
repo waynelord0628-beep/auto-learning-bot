@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI 可能在缺乏資料時以統計機率補全答案，需經查證",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.899Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T03:19:56.769Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.842Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AI 可能在缺乏資料時以統計機率補全答案，需經查證",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "AI 可能在缺乏資料時以統計機率補全答案，需經查證"
   },
   {
     "id": "64755c3a4f7aaf88f922f6fe3c6eef4c1db4f56846133f776bafb0a4b5156c70",
@@ -33,17 +46,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因為 AI 是根據當下語境與機率運算重新組合內容，具有靈活性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.900Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T03:20:09.904Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.876Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "因為 AI 是根據當下語境與機率運算重新組合內容，具有靈活性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "因為 AI 是根據當下語境與機率運算重新組合內容，具有靈活性"
   },
   {
     "id": "ca6ba71fac0304d5e3d2afe6a259e6e552d4a8498923117aa59e09d26fde5b0a",
@@ -56,17 +82,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "利用自然語言進行文件摘要、資料整理或初步草擬",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.900Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T03:20:21.824Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.901Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "利用自然語言進行文件摘要、資料整理或初步草擬",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "利用自然語言進行文件摘要、資料整理或初步草擬"
   },
   {
     "id": "c78f41c3493c704d9b9ab5c3330e14c1de080b12b7afac031e71457319419d09",
@@ -79,13 +118,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "尚未公開的重大政策草案或包含同仁個資的清冊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.924Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "尚未公開的重大政策草案或包含同仁個資的清冊",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "尚未公開的重大政策草案或包含同仁個資的清冊"
   },
   {
     "id": "79ab6a943017cfc4d6be5f9c4968a60aa5c5abe074a5ab05acd8cbf6c72b0975",
@@ -98,13 +154,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "確立 AI 的語氣、語境與認知觀點，使回覆更聚焦且具一致性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.946Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "確立 AI 的語氣、語境與認知觀點，使回覆更聚焦且具一致性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "確立 AI 的語氣、語境與認知觀點，使回覆更聚焦且具一致性"
   },
   {
     "id": "05fcf534794315110bbafa8645ae4015259a0cd465e4fbe4304ff3c957691f01",
@@ -117,13 +190,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "輸入的資料結構越清晰（如使用標題階層），AI 產出的結果就越精準",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.970Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "輸入的資料結構越清晰（如使用標題階層），AI 產出的結果就越精準",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "輸入的資料結構越清晰（如使用標題階層），AI 產出的結果就越精準"
   },
   {
     "id": "ec2ac9232ddd4158687a218ee03da9f066c2b7eaef3f510b60b033258699d1f5",
@@ -136,13 +226,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "密碼 (Password)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.903Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.996Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "密碼 (Password)",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "密碼 (Password)"
   },
   {
     "id": "8ac809bd35623c3b6ee53cd24a9a5659cfb797de6bfe1a4fbb0fe58cb9e86efb",
@@ -155,13 +262,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "要求 AI 即時上網搜尋並附上資料來源連結與發布日期",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.904Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.024Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "要求 AI 即時上網搜尋並附上資料來源連結與發布日期",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "要求 AI 即時上網搜尋並附上資料來源連結與發布日期"
   },
   {
     "id": "4c2736eec3fda006316f5e9627751c64927c526a30af89a97ee565f99460d59d",
@@ -174,17 +298,30 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "重複輸入同樣的關鍵字，並期待 AI 給出不同答案",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.905Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T03:12:07.156Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T03:54:57.050Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "重複輸入同樣的關鍵字，並期待 AI 給出不同答案",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.366Z"
+    },
+    "resolved_answer": "重複輸入同樣的關鍵字，並期待 AI 給出不同答案"
   },
   {
     "id": "aa858349f6a5dc87c86ab2abc2f843e2059a0410dd375f7b2f1abf664cfa2f31",
@@ -197,12 +334,29 @@
     ],
     "type": "單選",
     "course": "AI互動起手式：從基礎到實戰應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "把 AI 當成協作夥伴，透過「追問」逐步修正結果",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T03:27:38.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:57.083Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "把 AI 當成協作夥伴，透過「追問」逐步修正結果",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/ai_27.html",
+          "title": "【解答】AI互動起手式：從基礎到實戰應用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:13.367Z"
+    },
+    "resolved_answer": "把 AI 當成協作夥伴，透過「追問」逐步修正結果"
   }
 ]

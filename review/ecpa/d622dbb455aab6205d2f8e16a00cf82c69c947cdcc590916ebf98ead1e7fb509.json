@@ -10,20 +10,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.425Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
     "retry_after": "2026-10-19T11:19:39.796Z",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T05:19:52.986Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.065Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "控制庫存與運輸環境的溫度穩定性，確保適當通風與濕度調控",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.477Z"
+    },
+    "resolved_answer": "控制庫存與運輸環境的溫度穩定性，確保適當通風與濕度調控"
   },
   {
     "id": "ad15f3847b47ed09dac8f415049e059abdd1c4dcd5036681db226fe710fff8b4",
@@ -36,20 +49,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.426Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
     "retry_after": "2026-10-19T11:19:39.796Z",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T05:19:59.157Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.085Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可避免食品黏連，保持個體分離",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.477Z"
+    },
+    "resolved_answer": "可避免食品黏連，保持個體分離"
   },
   {
     "id": "cf85e276ecbc59d1f2ec1f622e4b037dc13b363361c346d4ed1a7e1142e3348f",
@@ -62,16 +88,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.427Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.105Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可自動化與資訊整合作業",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.477Z"
+    },
+    "resolved_answer": "可自動化與資訊整合作業"
   },
   {
     "id": "705e38258d206e2909681e612a32a392bd55f996318e55f505f7efb4715f4d8b",
@@ -84,16 +127,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.428Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.124Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "二氧化碳（CO₂）",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "二氧化碳（CO₂）"
   },
   {
     "id": "e7cea0c213b9ab583eb08d5c9db50995661bb917190166ebc895fd35eb5da2f3",
@@ -106,16 +166,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.429Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.147Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "冷凍食品經包冰作業可以避免脫水",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "冷凍食品經包冰作業可以避免脫水"
   },
   {
     "id": "c9f0974644db5b3f5754b1457f96c48a89cbc88942bac602edb71c0641a06398",
@@ -128,16 +205,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.430Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.168Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海運冷鏈具長距離運輸優勢，但溫控連續性必須嚴格維持",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "海運冷鏈具長距離運輸優勢，但溫控連續性必須嚴格維持"
   },
   {
     "id": "0b874adda7461fbdf6d6f15e75336884a87f57dc6407209d45566dbaed79b3d6",
@@ -150,16 +244,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.432Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.191Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不同品項的蔬果混合存放，以最大化冷藏庫空間使用",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "不同品項的蔬果混合存放，以最大化冷藏庫空間使用"
   },
   {
     "id": "fe79d73f89377837486b7685bd15fb5538dcac7fa5fd636e06d81fc00acb3af3",
@@ -172,16 +283,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.433Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.215Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "食品添加物使用量",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "食品添加物使用量"
   },
   {
     "id": "f51a0c7a1f245ba05734d0b03c554572013c204fc6109d3ab32b604e45a7ca72",
@@ -194,16 +322,33 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.433Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.238Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "上架區、存儲區、揀貨區、出貨區",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "上架區、存儲區、揀貨區、出貨區"
   },
   {
     "id": "1e3c0a3790619cd902ba3f7c51d0a3a4f4ffdf445f9649290ddce40ad628e015",
@@ -216,15 +361,32 @@
     ],
     "type": "單選",
     "course": "114 年度物流冷鏈人才教育訓練系列線上課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T11:42:44.434Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-19T11:19:39.796Z"
+    "retry_after": "2026-10-19T11:19:39.796Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.262Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "氧化作用造成鐵離子由Fe²⁺變為Fe³⁺",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114_90.html",
+          "title": "【解答】114 年度物流冷鏈人才教育訓練系列線上課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:10.478Z"
+    },
+    "resolved_answer": "氧化作用造成鐵離子由Fe²⁺變為Fe³⁺"
   }
 ]

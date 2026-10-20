@@ -10,16 +10,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.893Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.009Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "作為企業與政府共同測試 AI 技術的試驗場域",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.237Z"
+    },
+    "resolved_answer": "作為企業與政府共同測試 AI 技術的試驗場域"
   },
   {
     "id": "a6f52edec7303e6c884f73b21517f3a6a42999fe2beaf793747b37f2958f136d",
@@ -110,16 +127,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.895Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.036Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "外聘「人工智慧顧問」協助專利審查，並建立標準化制度",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.237Z"
+    },
+    "resolved_answer": "外聘「人工智慧顧問」協助專利審查，並建立標準化制度"
   },
   {
     "id": "066e1c5a9a67fb1ce0282c76251d500066a694a0277d1caa8ca4676d98e4755e",
@@ -132,16 +166,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.895Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.063Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "內容審查、安全控管與教學場景最佳化功能，且不得將學生個資用於模型訓練",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.237Z"
+    },
+    "resolved_answer": "內容審查、安全控管與教學場景最佳化功能，且不得將學生個資用於模型訓練"
   },
   {
     "id": "4436e03bdedfae76a6e6b45c01257d6f3f446c9dc26c4613a37b4f415f2eb7b1",
@@ -154,16 +205,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.896Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.091Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "芬蘭",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.237Z"
+    },
+    "resolved_answer": "芬蘭"
   },
   {
     "id": "2f292c685bacfd2c9662068cc79796d698add2d92a3193865635245bcdb8a3b9",
@@ -176,16 +244,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.896Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.117Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一種能夠廣泛應用、跨越多個領域，並對社會與經濟產生深遠影響的基礎性技術",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.237Z"
+    },
+    "resolved_answer": "一種能夠廣泛應用、跨越多個領域，並對社會與經濟產生深遠影響的基礎性技術"
   },
   {
     "id": "49c87e34c2fb3bff0630449a2953333d163b8ed9a70b774a4a8532941b054e5a",
@@ -276,16 +361,33 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:17.897Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T07:19:42.287Z"
+    "retry_after": "2026-10-20T07:19:42.287Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.142Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為 AI 應用創造條件",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.238Z"
+    },
+    "resolved_answer": "為 AI 應用創造條件"
   },
   {
     "id": "0b7db7cdcb9775793cbd1f25e09de2f2879d28b30b0133ab7675f31ce15e3d83",
@@ -298,14 +400,31 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:55.245Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.165Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "專責統籌 AI 政策並協調各單位之間的應對作法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.238Z"
+    },
+    "resolved_answer": "專責統籌 AI 政策並協調各單位之間的應對作法"
   },
   {
     "id": "bef98a39bb442450beb6d02b90d71f29f7521a59d77e9cd16351e0340e0318a0",
@@ -392,14 +511,31 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:42:55.247Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.190Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "防止生成式 AI 被用來大規模製造或散佈假訊息",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.238Z"
+    },
+    "resolved_answer": "防止生成式 AI 被用來大規模製造或散佈假訊息"
   },
   {
     "id": "4de9aa786ecf000f4ab7f422c2b44d7bc9f748b6ab699510c0d000651044ac5f",
@@ -412,14 +548,31 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T19:43:24.580Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.214Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "第四次工業革命",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.238Z"
+    },
+    "resolved_answer": "第四次工業革命"
   },
   {
     "id": "6e44fb062c2eaedbf8268152d36cb090c951142c5a285aa36d5e53a1dfea3b2a",

@@ -10,16 +10,33 @@
     ],
     "type": "單選",
     "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T00:18:35.437Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T20:19:39.438Z"
+    "retry_after": "2026-10-20T20:19:39.438Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.376Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "檢視課程設計是否合理並與學習需求對應",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.703Z"
+    },
+    "resolved_answer": "檢視課程設計是否合理並與學習需求對應"
   },
   {
     "id": "97ace7986a4a2c681627efbdfe9aa1b887b5997afd9e37180b0440cbf3309d5d",
@@ -32,16 +49,33 @@
     ],
     "type": "單選",
     "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T00:18:35.438Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T20:19:39.438Z"
+    "retry_after": "2026-10-20T20:19:39.438Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.398Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "立即進行即時形成性評估，研擬調整作法。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.703Z"
+    },
+    "resolved_answer": "立即進行即時形成性評估，研擬調整作法。"
   },
   {
     "id": "3e0bb8d42a84b31270fd6a12ef8675129c3b764c1a9dd6c697d43ae2d82f500f",
@@ -74,16 +108,33 @@
     ],
     "type": "單選",
     "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T00:18:35.440Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T20:19:39.438Z"
+    "retry_after": "2026-10-20T20:19:39.438Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.421Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "形成性評估",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.703Z"
+    },
+    "resolved_answer": "形成性評估"
   },
   {
     "id": "a89db8f49fbdc73a65c33dd12f70dee29d7f96eb7a257bb1903d4f431df9279a",
@@ -136,16 +187,33 @@
     ],
     "type": "單選",
     "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T00:18:35.442Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T20:19:39.438Z"
+    "retry_after": "2026-10-20T20:19:39.438Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.449Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "了解學習者的背景與實際需求，以規劃合適課程",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.703Z"
+    },
+    "resolved_answer": "了解學習者的背景與實際需求，以規劃合適課程"
   },
   {
     "id": "fb21acd73857c0572c02d5750c30dda1f0c5d2e98dfae594e23b0646b28914ed",
@@ -198,16 +266,33 @@
     ],
     "type": "單選",
     "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T00:18:35.446Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T20:19:39.438Z"
+    "retry_after": "2026-10-20T20:19:39.438Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:58.470Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "評估學習者是否將所學應用於工作或生活中",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:14.703Z"
+    },
+    "resolved_answer": "評估學習者是否將所學應用於工作或生活中"
   },
   {
     "id": "7c403676129420fc45caee4a0eadab9f59a4d7698c0e78e13f169d7856dd6864",

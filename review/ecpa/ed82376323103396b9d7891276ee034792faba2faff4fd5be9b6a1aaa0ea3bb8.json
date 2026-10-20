@@ -73,13 +73,30 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由情治單位來主導整個偵察過程的進行，軍事檢察官反而居於配合的地位",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.827Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.624Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "由情治單位來主導整個偵察過程的進行，軍事檢察官反而居於配合的地位",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.578Z"
+    },
+    "resolved_answer": "由情治單位來主導整個偵察過程的進行，軍事檢察官反而居於配合的地位"
   },
   {
     "id": "03e1699266b0b083d6ecdb93763cd87342c6140a2eb4fcf1f60ca135a0eb7420",
@@ -92,13 +109,30 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政程序法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.828Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.646Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政程序法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.578Z"
+    },
+    "resolved_answer": "行政程序法"
   },
   {
     "id": "640a324bd2f5fa5e2b1c3b34b40bdb8c2e1965f5a0c62f7156d92c7d529a60a6",
@@ -111,13 +145,30 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "國家有打擊犯罪的責任",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.828Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.669Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "國家有打擊犯罪的責任",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.578Z"
+    },
+    "resolved_answer": "國家有打擊犯罪的責任"
   },
   {
     "id": "5609d42f43ec7591aaca617af4588a82b8f664d7d28e6deff7fd5ec8bec02bdb",
@@ -130,13 +181,30 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民國52年副總裁陳誠指示，「以現狀論，目前已可實施審檢分立。」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.829Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.697Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國52年副總裁陳誠指示，「以現狀論，目前已可實施審檢分立。」",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.579Z"
+    },
+    "resolved_answer": "民國52年副總裁陳誠指示，「以現狀論，目前已可實施審檢分立。」"
   },
   {
     "id": "9fe6468718c056b78f59cd068c445cc865c1d8ecb136076c3e65c9cd84774e4f",
@@ -149,13 +217,30 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "解嚴之後，動員戡亂時期國家安全法（1987）限制戒嚴時期，一般民眾受軍事審判的案件不得上訴或抗告",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.829Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.726Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在1980年之前，高等法院和地方法院的司法行政事項均歸司法院掌理",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.580Z"
+    },
+    "resolved_answer": "在1980年之前，高等法院和地方法院的司法行政事項均歸司法院掌理"
   },
   {
     "id": "88df8361031e1f303b59c6ed99a6ff2c0e465cce1f128a2c46f2a7534f54775a",
@@ -185,12 +270,29 @@
     ],
     "type": "單選",
     "course": "我國民主化與轉型正義發展現況",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "國家安全法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:36:53.830Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:54:56.755Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "國家安全法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:54:12.581Z"
+    },
+    "resolved_answer": "國家安全法"
   }
 ]
