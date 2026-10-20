@@ -31,7 +31,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:18:01.673Z"
+      "checked_at": "2026-10-20T08:18:01.673Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042888",
+          "quote": "課程亦將探討現行法規在應對生成式 AI 上的挑戰，並提出合規流程建置、使用紀錄保存與內部審查制度之初步建議。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:06.552Z"
+      }
     },
     "resolved_answer": "釐清用途、保留紀錄、建立人工審查"
   }

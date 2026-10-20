@@ -50,7 +50,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:37.507Z"
+      "checked_at": "2026-10-20T08:15:37.507Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047496",
+          "quote": "•數據前處理策略：依據 AI 建議進行數據篩選、轉換與最佳化"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:00.183Z"
+      }
     },
     "resolved_answer": "正確"
   },

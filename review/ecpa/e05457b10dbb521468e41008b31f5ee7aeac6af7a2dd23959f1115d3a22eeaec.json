@@ -33,7 +33,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:06.622Z"
+      "checked_at": "2026-10-20T08:09:06.622Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%85%92%E7%AB%A5&pcode=D0050193",
+          "quote": "第 2 條 公約所揭示保障及促進兒童及少年權利之規定，具有國內法律之效力。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     },
     "resolved_answer": "2014 年公布《兒童權利公約施行法》，明定 CRC 具國內法效力。"
   },
@@ -71,7 +83,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:06.622Z"
+      "checked_at": "2026-10-20T08:09:06.622Z",
+      "prior_sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "CRC保障的「兒童」，是指所有未滿18歲的兒童及少年。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     },
     "resolved_answer": "所有未滿 18歲之人。"
   },

@@ -185,7 +185,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:42.342Z"
+      "checked_at": "2026-10-20T08:09:42.342Z",
+      "prior_sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/023535d2-10e0-484e-a737-c98d24a3a2c4",
+          "quote": "特別關注原住民族、LGBTI（女同性戀者、男同性戀者、雙性戀者、跨性別者與雙性者）、遊民、外籍移工、老人、婦女、兒童、身心障礙者、難民等不利處境的群體，包含8大人權議題、154項行動方案"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     },
     "resolved_answer": "8大人權議題與154項行動方案"
   },
@@ -219,7 +231,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:42.342Z"
+      "checked_at": "2026-10-20T08:09:42.342Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194",
+          "quote": "行政院為推動本公約相關工作，應邀集學者專家、身心障礙團體（機構）及各政府機關代表，成立身心障礙者權益推動小組，定期召開會議，協調、研究、審議、諮詢並辦理下列事項"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     },
     "resolved_answer": "正確"
   },

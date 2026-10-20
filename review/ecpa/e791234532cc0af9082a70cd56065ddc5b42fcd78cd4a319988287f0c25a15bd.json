@@ -73,7 +73,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:50.068Z"
+      "checked_at": "2026-10-20T08:05:50.068Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010048",
+          "quote": "未成年人、受監護或輔助宣告之人，表達意願或陳述意見時，必要者，法院應通知直轄市、縣（市）主管機關指派社會工作人員或其他適當人員陪同在場，並得陳述意見。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     },
     "resolved_answer": "正確"
   },
@@ -289,7 +301,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/lp-1303-1-12-20.html",
+          "quote": "監護宣告要向應受監護宣告人住所地或居所地的法院聲請。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     },
     "resolved_answer": "正確"
   },
@@ -357,13 +381,26 @@
       "answer": "經法院許可",
       "sources": [
         {
-          "url": "https://www.judicial.gov.tw/tw/cp-107-58173-364a9-1.html",
-          "quote": "監護人不可拿受監護宣告人的財產去投資股票、基金等；如果要處分受監護宣告人的不動產，要另外向法院聲請許可。"
+          "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=1101",
+          "quote": "監護人為下列行為，非經法院許可，不生效力： 一、代理受監護人購置或處分不動產。 "
         }
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-107-58173-364a9-1.html",
+          "quote": "監護人不可拿受監護宣告人的財產去投資股票、基金等；如果要處分受監護宣告人的不動產，要另外向法院聲請許可。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z",
+        "format_recovered": true
+      }
     },
     "resolved_answer": "經法院許可"
   },
@@ -399,7 +436,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.moj.gov.tw/2204/2795/2796/58710/post",
+          "quote": "但有事實足認意定監護受任人不利於本人，或有顯不適任之情事，法院得依職權選定監護人，不受意定監護契約之限制。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     },
     "resolved_answer": "法院不得依職權判斷意定監護受任人是否有不利本人或顯不適任之狀況"
   },
@@ -596,7 +645,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:06:04.003Z"
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%AE%B6%E4%BA%8B&pcode=B0010048",
+          "quote": "第 166 條 聲請人為監護宣告之聲請時，宜提出診斷書。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     },
     "resolved_answer": "正確"
   },

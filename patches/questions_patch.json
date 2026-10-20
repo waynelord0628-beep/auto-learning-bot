@@ -115255,7 +115255,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:50.068Z"
+      "checked_at": "2026-10-20T08:05:50.068Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010048",
+          "quote": "未成年人、受監護或輔助宣告之人，表達意願或陳述意見時，必要者，法院應通知直轄市、縣（市）主管機關指派社會工作人員或其他適當人員陪同在場，並得陳述意見。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     }
   },
   {
@@ -115278,7 +115290,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/lp-1303-1-12-20.html",
+          "quote": "監護宣告要向應受監護宣告人住所地或居所地的法院聲請。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     }
   },
   {
@@ -115297,13 +115321,26 @@
       "answer": "經法院許可",
       "sources": [
         {
-          "url": "https://www.judicial.gov.tw/tw/cp-107-58173-364a9-1.html",
-          "quote": "監護人不可拿受監護宣告人的財產去投資股票、基金等；如果要處分受監護宣告人的不動產，要另外向法院聲請許可。"
+          "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=1101",
+          "quote": "監護人為下列行為，非經法院許可，不生效力： 一、代理受監護人購置或處分不動產。 "
         }
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-107-58173-364a9-1.html",
+          "quote": "監護人不可拿受監護宣告人的財產去投資股票、基金等；如果要處分受監護宣告人的不動產，要另外向法院聲請許可。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z",
+        "format_recovered": true
+      }
     }
   },
   {
@@ -115328,7 +115365,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:05:57.941Z"
+      "checked_at": "2026-10-20T08:05:57.941Z",
+      "prior_sources": [
+        {
+          "url": "https://www.moj.gov.tw/2204/2795/2796/58710/post",
+          "quote": "但有事實足認意定監護受任人不利於本人，或有顯不適任之情事，法院得依職權選定監護人，不受意定監護契約之限制。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     }
   },
   {
@@ -115351,7 +115400,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:06:04.003Z"
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%AE%B6%E4%BA%8B&pcode=B0010048",
+          "quote": "第 166 條 聲請人為監護宣告之聲請時，宜提出診斷書。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
     }
   },
   {
@@ -115376,7 +115437,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:00.982Z"
+      "checked_at": "2026-10-20T08:36:02.911Z",
+      "prior_sources": [
+        {
+          "url": "https://www.tph.moj.gov.tw/4421/4475/632364/1316668/",
+          "quote": "本法的適用範圍，現僅適用於公部門、國營事業及受政府控制的事業、團體或機構（即泛公部門），一般私部門或私人公司都不在法律適用範圍之列，"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
     }
   },
   {
@@ -115403,7 +115476,23 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:08.304Z"
+      "checked_at": "2026-10-20T08:08:08.304Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "五、違反政府採購法之行為。"
+        },
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL104574",
+          "quote": "五、違反政府採購法之行為。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     }
   },
   {
@@ -115426,7 +115515,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:08.304Z"
+      "checked_at": "2026-10-20T08:08:08.304Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "公務員無故洩漏揭弊者之身分者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以下罰金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     }
   },
   {
@@ -115451,7 +115552,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:06.622Z"
+      "checked_at": "2026-10-20T08:09:06.622Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%85%92%E7%AB%A5&pcode=D0050193",
+          "quote": "第 2 條 公約所揭示保障及促進兒童及少年權利之規定，具有國內法律之效力。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     }
   },
   {
@@ -115476,7 +115589,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:06.622Z"
+      "checked_at": "2026-10-20T08:09:06.622Z",
+      "prior_sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "CRC保障的「兒童」，是指所有未滿18歲的兒童及少年。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     }
   },
   {
@@ -115501,7 +115626,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:12:06.523Z"
+      "checked_at": "2026-10-20T08:12:06.523Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E7%A4%BE%E6%9C%83%E6%95%91%E5%8A%A9%E6%B3%95&pcode=D0050078",
+          "quote": "為照顧低收入戶、中低收入戶及救助遭受急難或災害者"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     }
   },
   {
@@ -115526,7 +115663,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:42.342Z"
+      "checked_at": "2026-10-20T08:09:42.342Z",
+      "prior_sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/023535d2-10e0-484e-a737-c98d24a3a2c4",
+          "quote": "特別關注原住民族、LGBTI（女同性戀者、男同性戀者、雙性戀者、跨性別者與雙性者）、遊民、外籍移工、老人、婦女、兒童、身心障礙者、難民等不利處境的群體，包含8大人權議題、154項行動方案"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     }
   },
   {
@@ -115549,7 +115698,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:42.342Z"
+      "checked_at": "2026-10-20T08:09:42.342Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194",
+          "quote": "行政院為推動本公約相關工作，應邀集學者專家、身心障礙團體（機構）及各政府機關代表，成立身心障礙者權益推動小組，定期召開會議，協調、研究、審議、諮詢並辦理下列事項"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     }
   },
   {
@@ -115566,6 +115727,15 @@
       "answer": "正確",
       "sources": [
         {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:55.287Z",
+      "prior_sources": [
+        {
           "url": "https://eeweb.mol.gov.tw/genderZone/harassment_1.html",
           "quote": "工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
         },
@@ -115574,9 +115744,12 @@
           "quote": "為保障工作權之性別平等，貫徹憲法消除性別歧視、促進性別地位實質平等之精神，爰制定本法。 工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:55.287Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     }
   },
   {
@@ -115595,15 +115768,27 @@
         {
           "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
           "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:10:12.222Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
         },
         {
           "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
           "quote": "第 36 條 雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:10:12.222Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     }
   },
   {
@@ -115626,7 +115811,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:13:04.465Z"
+      "checked_at": "2026-10-20T08:13:04.465Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Y0000038",
+          "quote": "第十二條 一 本公約締約國確認人人有權享受可能達到之最高標準之身體與精神健 康。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     }
   },
   {
@@ -115651,7 +115848,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:13:43.235Z"
+      "checked_at": "2026-10-20T08:13:43.235Z",
+      "prior_sources": [
+        {
+          "url": "https://www.wra.gov.tw/epaper/Article_Detail.aspx?n=30173&s=8939",
+          "quote": "該評估機制將資安治理分為三個面向：策略、管理和技術，並將其細分為11個流程構面。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     }
   },
   {
@@ -115676,7 +115885,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:01.953Z"
+      "checked_at": "2026-10-20T08:14:01.953Z",
+      "prior_sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "專案發起醫療機構可提出所需之去識別化病例數量"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     }
   },
   {
@@ -115699,7 +115920,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:18.961Z"
+      "checked_at": "2026-10-20T08:14:18.961Z",
+      "prior_sources": [
+        {
+          "url": "https://smartcity.kcg.gov.tw/cp.aspx?n=A2FBFAD8865A7F12&s=6A0224F17F5FA755",
+          "quote": "高雄攜手台灣人工智慧實驗室（Taiwan AI Labs）及高雄醫學大學附設中和紀念醫院、高雄長庚紀念醫院、高雄榮民總醫院、義大醫療財團法人義大醫院，共同成立「高雄聯合學習智慧醫療聯盟」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     }
   },
   {
@@ -115722,7 +115955,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:18.961Z"
+      "checked_at": "2026-10-20T08:14:18.961Z",
+      "prior_sources": [
+        {
+          "url": "https://taic.moda.gov.tw/datasets/6f46f7a8-5d19-41ec-a5d0-968d58cb1933",
+          "quote": "《隱私強化技術應用指引》說明如何在保障個人隱私的前提下，透過技術手段如差分隱私、合成資料、同態加密、聯合學習等，實現資料的安全使用與分享。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     }
   },
   {
@@ -115747,7 +115992,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "checked_at": "2026-10-20T08:36:08.423Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "協助學員釐清功能差異與選用原則"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     }
   },
   {
@@ -115772,7 +116029,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "checked_at": "2026-10-20T08:36:08.424Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     }
   },
   {
@@ -115797,82 +116066,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    }
-  },
-  {
-    "question": "以下哪項不屬於深度學習技術擅長的任務？",
-    "type": "單選",
-    "options": [
-      "圖像分類",
-      "稅收政策設計",
-      "語音辨識",
-      "自然語言理解"
-    ],
-    "course": "生成式 AI 基礎入門",
-    "answer": "稅收政策設計",
-    "source": "official_source_reviewed",
-    "source_review": {
-      "answer": "稅收政策設計",
-      "sources": [
-        {
-          "url": "https://elearn.hrd.gov.tw/info/10042887",
-          "quote": "介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
-        }
-      ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    }
-  },
-  {
-    "question": "專家系統的主要限制之一是什麼？",
-    "type": "單選",
-    "options": [
-      "學習能力太強",
-      "執行速度過快",
-      "容易情緒化",
-      "缺乏靈活應對未知情境的能力"
-    ],
-    "course": "生成式 AI 基礎入門",
-    "answer": "缺乏靈活應對未知情境的能力",
-    "source": "official_source_reviewed",
-    "source_review": {
-      "answer": "缺乏靈活應對未知情境的能力",
-      "sources": [
+      "checked_at": "2026-10-20T08:36:08.424Z",
+      "prior_sources": [
         {
           "url": "https://elearn.hrd.gov.tw/info/10042887",
           "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    }
-  },
-  {
-    "question": "以下哪項敘述最能區分 LLM 和 GAN 的生成內容？",
-    "type": "單選",
-    "options": [
-      "LLM 擅長圖像生成，GAN 擅長文字生成",
-      "LLM 使用感測器學習，GAN 使用統計預測",
-      "LLM 產生文字，GAN 產生圖像或影音",
-      "LLM 負責訓練 GAN 的判別器"
-    ],
-    "course": "生成式 AI 基礎入門",
-    "answer": "LLM 產生文字，GAN 產生圖像或影音",
-    "source": "official_source_reviewed",
-    "source_review": {
-      "answer": "LLM 產生文字，GAN 產生圖像或影音",
-      "sources": [
-        {
-          "url": "https://elearn.hrd.gov.tw/info/10042887",
-          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
-        }
-      ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     }
   },
   {
@@ -115895,7 +116101,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:37.507Z"
+      "checked_at": "2026-10-20T08:15:37.507Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047496",
+          "quote": "•數據前處理策略：依據 AI 建議進行數據篩選、轉換與最佳化"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:00.183Z"
+      }
     }
   },
   {
@@ -115920,32 +116138,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:16:40.402Z"
-    }
-  },
-  {
-    "question": "請問在DeFi中，交易驗證的主要技術是什麼?",
-    "type": "單選",
-    "options": [
-      "中心化伺服器",
-      "傳統銀行系統",
-      "簡訊動態密碼",
-      "區塊鏈技術"
-    ],
-    "course": "數位資產的經濟社會效益",
-    "answer": "區塊鏈技術",
-    "source": "official_source_reviewed",
-    "source_review": {
-      "answer": "區塊鏈技術",
-      "sources": [
+      "checked_at": "2026-10-20T08:36:12.225Z",
+      "prior_sources": [
         {
-          "url": "https://findit.sme.gov.tw/tw/Res/2195",
-          "quote": "透過區塊鏈帳本記載特定資產的權益"
+          "url": "https://www.exam.gov.tw/NHRF/News_EpaperContent.aspx?n=3778&s=49202&type=BD9B4A61760FEA3D",
+          "quote": "驗證者只需以免費的PDF檢視軟體或掃描證書上的QR code，即可驗證證書真偽"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:16:40.402Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:00.183Z"
+      }
     }
   },
   {
@@ -115970,7 +116175,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:18:01.673Z"
+      "checked_at": "2026-10-20T08:18:01.673Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042888",
+          "quote": "課程亦將探討現行法規在應對生成式 AI 上的挑戰，並提出合規流程建置、使用紀錄保存與內部審查制度之初步建議。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:06.552Z"
+      }
     }
   },
   {

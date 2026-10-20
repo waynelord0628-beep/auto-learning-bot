@@ -52,7 +52,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:12:06.523Z"
+      "checked_at": "2026-10-20T08:12:06.523Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E7%A4%BE%E6%9C%83%E6%95%91%E5%8A%A9%E6%B3%95&pcode=D0050078",
+          "quote": "為照顧低收入戶、中低收入戶及救助遭受急難或災害者"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     },
     "resolved_answer": "投資失利者"
   },

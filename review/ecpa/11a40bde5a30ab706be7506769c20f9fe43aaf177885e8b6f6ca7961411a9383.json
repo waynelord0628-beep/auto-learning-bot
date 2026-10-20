@@ -105,7 +105,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:00.982Z"
+      "checked_at": "2026-10-20T08:36:02.911Z",
+      "prior_sources": [
+        {
+          "url": "https://www.tph.moj.gov.tw/4421/4475/632364/1316668/",
+          "quote": "本法的適用範圍，現僅適用於公部門、國營事業及受政府控制的事業、團體或機構（即泛公部門），一般私部門或私人公司都不在法律適用範圍之列，"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
     },
     "resolved_answer": "一般私人企業"
   },
@@ -194,7 +206,23 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:08.304Z"
+      "checked_at": "2026-10-20T08:08:08.304Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "五、違反政府採購法之行為。"
+        },
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL104574",
+          "quote": "五、違反政府採購法之行為。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     },
     "resolved_answer": "正確"
   },
@@ -245,7 +273,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:08:08.304Z"
+      "checked_at": "2026-10-20T08:08:08.304Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "公務員無故洩漏揭弊者之身分者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以下罰金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
     },
     "resolved_answer": "正確"
   }

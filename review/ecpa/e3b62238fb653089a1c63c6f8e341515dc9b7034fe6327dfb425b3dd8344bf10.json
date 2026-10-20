@@ -210,7 +210,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "checked_at": "2026-10-20T08:36:08.423Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "協助學員釐清功能差異與選用原則"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     },
     "resolved_answer": "依據任務需求選擇合適模型"
   },
@@ -265,7 +277,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "checked_at": "2026-10-20T08:36:08.424Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     },
     "resolved_answer": "製作災害情境模擬圖像"
   },
@@ -301,7 +325,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
+      "checked_at": "2026-10-20T08:36:08.424Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     },
     "resolved_answer": "預測最有可能出現的字詞或句子"
   },
@@ -316,30 +352,33 @@
     ],
     "type": "單選",
     "course": "生成式 AI 基礎入門",
-    "status": "resolved",
+    "status": "pending",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
-    "review_state": "source_reviewed",
+    "review_state": "candidate_ready",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:18:33.562Z",
-    "verification_status": "source_supported",
-    "source_review": {
-      "answer": "稅收政策設計",
-      "sources": [
-        {
-          "url": "https://elearn.hrd.gov.tw/info/10042887",
-          "quote": "介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
-        }
-      ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    },
-    "resolved_answer": "稅收政策設計"
+    "verify_after": "2026-10-27T08:41:18.214Z",
+    "verification_status": "insufficient_sources",
+    "source_review_retracted": {
+      "evidence": {
+        "answer": "稅收政策設計",
+        "sources": [
+          {
+            "url": "https://elearn.hrd.gov.tw/info/10042887",
+            "quote": "介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+          }
+        ],
+        "method": "official_source_two_pass_v1",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:15:18.390Z"
+      },
+      "reason": "insufficient",
+      "checked_at": "2026-10-20T08:41:18.214Z"
+    }
   },
   {
     "id": "7a3f7f83581278dcda8a95b093fe62496e91eb6e7721e0854c0121c4bab15b04",
@@ -352,30 +391,33 @@
     ],
     "type": "單選",
     "course": "生成式 AI 基礎入門",
-    "status": "resolved",
+    "status": "pending",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
-    "review_state": "source_reviewed",
+    "review_state": "candidate_ready",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:18:33.584Z",
-    "verification_status": "source_supported",
-    "source_review": {
-      "answer": "缺乏靈活應對未知情境的能力",
-      "sources": [
-        {
-          "url": "https://elearn.hrd.gov.tw/info/10042887",
-          "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
-        }
-      ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    },
-    "resolved_answer": "缺乏靈活應對未知情境的能力"
+    "verify_after": "2026-10-27T08:41:18.215Z",
+    "verification_status": "insufficient_sources",
+    "source_review_retracted": {
+      "evidence": {
+        "answer": "缺乏靈活應對未知情境的能力",
+        "sources": [
+          {
+            "url": "https://elearn.hrd.gov.tw/info/10042887",
+            "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+          }
+        ],
+        "method": "official_source_two_pass_v1",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:15:18.390Z"
+      },
+      "reason": "insufficient",
+      "checked_at": "2026-10-20T08:41:18.215Z"
+    }
   },
   {
     "id": "728217626a2b87833b96f95ea95a5ace9b3c1c11ef8383a3aafefe4e6c693b54",
@@ -388,30 +430,33 @@
     ],
     "type": "單選",
     "course": "生成式 AI 基礎入門",
-    "status": "resolved",
+    "status": "pending",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
-    "review_state": "source_reviewed",
+    "review_state": "candidate_ready",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:18:33.610Z",
-    "verification_status": "source_supported",
-    "source_review": {
-      "answer": "LLM 產生文字，GAN 產生圖像或影音",
-      "sources": [
-        {
-          "url": "https://elearn.hrd.gov.tw/info/10042887",
-          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
-        }
-      ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:15:18.390Z"
-    },
-    "resolved_answer": "LLM 產生文字，GAN 產生圖像或影音"
+    "verify_after": "2026-10-27T08:41:18.215Z",
+    "verification_status": "insufficient_sources",
+    "source_review_retracted": {
+      "evidence": {
+        "answer": "LLM 產生文字，GAN 產生圖像或影音",
+        "sources": [
+          {
+            "url": "https://elearn.hrd.gov.tw/info/10042887",
+            "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
+          }
+        ],
+        "method": "official_source_two_pass_v1",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:15:18.390Z"
+      },
+      "reason": "insufficient",
+      "checked_at": "2026-10-20T08:41:18.215Z"
+    }
   },
   {
     "id": "9c3ad1f9fac294f73694139f86e9203b0d66cf9689e0cbee5bb295d0189f2b92",

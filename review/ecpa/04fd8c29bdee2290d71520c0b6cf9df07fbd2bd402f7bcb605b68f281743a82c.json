@@ -127,6 +127,15 @@
       "answer": "正確",
       "sources": [
         {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:55.287Z",
+      "prior_sources": [
+        {
           "url": "https://eeweb.mol.gov.tw/genderZone/harassment_1.html",
           "quote": "工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
         },
@@ -135,9 +144,12 @@
           "quote": "為保障工作權之性別平等，貫徹憲法消除性別歧視、促進性別地位實質平等之精神，爰制定本法。 工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:09:55.287Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
     },
     "resolved_answer": "正確"
   },

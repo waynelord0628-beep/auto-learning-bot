@@ -96,7 +96,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:13:43.235Z"
+      "checked_at": "2026-10-20T08:13:43.235Z",
+      "prior_sources": [
+        {
+          "url": "https://www.wra.gov.tw/epaper/Article_Detail.aspx?n=30173&s=8939",
+          "quote": "該評估機制將資安治理分為三個面向：策略、管理和技術，並將其細分為11個流程構面。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     },
     "resolved_answer": "11個"
   },

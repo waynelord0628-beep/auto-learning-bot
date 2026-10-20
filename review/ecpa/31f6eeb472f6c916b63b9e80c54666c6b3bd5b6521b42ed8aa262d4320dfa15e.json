@@ -46,15 +46,27 @@
         {
           "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
           "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:10:12.222Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
         },
         {
           "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
           "quote": "第 36 條 雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
         }
       ],
-      "method": "official_source_two_pass_v1",
-      "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:10:12.222Z"
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     },
     "resolved_answer": "正確"
   }

@@ -29,7 +29,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:13:04.465Z"
+      "checked_at": "2026-10-20T08:13:04.465Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Y0000038",
+          "quote": "第十二條 一 本公約締約國確認人人有權享受可能達到之最高標準之身體與精神健 康。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     },
     "resolved_answer": "正確"
   }

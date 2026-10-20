@@ -151,7 +151,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:01.953Z"
+      "checked_at": "2026-10-20T08:14:01.953Z",
+      "prior_sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "專案發起醫療機構可提出所需之去識別化病例數量"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
     },
     "resolved_answer": "去識別化技術"
   },
@@ -348,7 +360,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:18.961Z"
+      "checked_at": "2026-10-20T08:14:18.961Z",
+      "prior_sources": [
+        {
+          "url": "https://smartcity.kcg.gov.tw/cp.aspx?n=A2FBFAD8865A7F12&s=6A0224F17F5FA755",
+          "quote": "高雄攜手台灣人工智慧實驗室（Taiwan AI Labs）及高雄醫學大學附設中和紀念醫院、高雄長庚紀念醫院、高雄榮民總醫院、義大醫療財團法人義大醫院，共同成立「高雄聯合學習智慧醫療聯盟」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     },
     "resolved_answer": "正確"
   },
@@ -382,7 +406,19 @@
       ],
       "method": "official_source_two_pass_v1",
       "model": "gpt-4.1",
-      "checked_at": "2026-10-20T08:14:18.961Z"
+      "checked_at": "2026-10-20T08:14:18.961Z",
+      "prior_sources": [
+        {
+          "url": "https://taic.moda.gov.tw/datasets/6f46f7a8-5d19-41ec-a5d0-968d58cb1933",
+          "quote": "《隱私強化技術應用指引》說明如何在保障個人隱私的前提下，透過技術手段如差分隱私、合成資料、同態加密、聯合學習等，實現資料的安全使用與分享。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:56.700Z"
+      }
     },
     "resolved_answer": "錯誤"
   },
