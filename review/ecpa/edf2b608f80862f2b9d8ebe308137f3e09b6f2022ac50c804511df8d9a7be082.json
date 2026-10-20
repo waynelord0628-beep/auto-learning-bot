@@ -84,14 +84,31 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T02:34:50.466Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "適應 (Adapt)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:34:49.211Z"
+    },
+    "resolved_answer": "適應 (Adapt)"
   },
   {
     "id": "fd0d845497923ada8a65520aea4cc6e459217d36c890b67b1b282a6ab825c2b8",
