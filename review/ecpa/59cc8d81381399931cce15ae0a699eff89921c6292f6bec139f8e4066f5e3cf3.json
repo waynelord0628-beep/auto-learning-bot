@@ -241,13 +241,42 @@
     ],
     "type": "單選",
     "course": "讓智慧機器人成為長照復健的得力助手",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為國家創造機會與價值",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T04:33:10.967Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.870Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為國家創造機會與價值",
+      "sources": [
+        {
+          "url": "https://www.lit.edu.tw/wp-content/uploads/2026/01/115010000031_4_114E0P000785_115D2000010-01.pdf",
+          "quote": "強化在地化長期照護體系，減輕醫療 系統負擔，促成智慧醫療產業生態系發展，發展數位健康創新服務模式機 制，結合數位技術與大數據，打造醫療數據經濟新模式。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:27.705Z",
+      "prior_sources": [
+        {
+          "url": "https://www.lit.edu.tw/wp-content/uploads/2026/01/115010000031_4_114E0P000785_115D2000010-01.pdf",
+          "quote": "強化在地化長期照護體系，減輕醫療 系統負擔，促成智慧醫療產業生態系發展，發展數位健康創新服務模式機 制，結合數位技術與大數據，打造醫療數據經濟新模式。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    },
+    "resolved_answer": "為國家創造機會與價值"
   },
   {
     "id": "0b4630e3d1fa9fb3ea02041afc00659cf1089699de499ba9192988cef31c2c96",

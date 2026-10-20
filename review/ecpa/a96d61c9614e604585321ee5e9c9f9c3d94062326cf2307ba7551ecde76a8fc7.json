@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "1150624性平種子教師培訓",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以其與被害人互動時的身分來定其受調查身分",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.456Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T00:19:52.863Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.898Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以其與被害人互動時的身分來定其受調查身分",
+      "sources": [
+        {
+          "url": "https://gender.usc.edu.tw/var/file/57/1057/img/743635365.pdf",
+          "quote": "行為人於行為發生時，同時具有校長、教師、職員、工友或學生二種以上不同身分者，以其與被 害人互動時之身分，定其受調查之身分及事件管轄學校或機關。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:23.634Z",
+      "prior_sources": [
+        {
+          "url": "https://gender.usc.edu.tw/var/file/57/1057/img/743635365.pdf",
+          "quote": "行為人於行為發生時，同時具有校長、教師、職員、工友或學生二種以上不同身分者，以其與被 害人互動時之身分，定其受調查之身分及事件管轄學校或機關。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    },
+    "resolved_answer": "以其與被害人互動時的身分來定其受調查身分"
   },
   {
     "id": "abce98bd39920a86c5ee5037ee6807c4560eab5f6ed480def4738503118edcca",
@@ -174,13 +199,42 @@
     ],
     "type": "單選",
     "course": "1150624性平種子教師培訓",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.535Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.942Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫",
+      "sources": [
+        {
+          "url": "https://www.tc.edu.tw/cms-file/62f60e8b4ed2fc3e7f252a42.pdf",
+          "quote": "倘疑似被害人或其法定代理人簽復學校權益告知書，表明暫不提出申 請調查，且事件亦未涉及公益，學校將事件提經性平會討論當事人相 關輔導教育措施後，即得結案。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:33.778Z",
+      "prior_sources": [
+        {
+          "url": "https://www.tc.edu.tw/cms-file/62f60e8b4ed2fc3e7f252a42.pdf",
+          "quote": "倘疑似被害人或其法定代理人簽復學校權益告知書，表明暫不提出申 請調查，且事件亦未涉及公益，學校將事件提經性平會討論當事人相 關輔導教育措施後，即得結案。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    },
+    "resolved_answer": "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫"
   },
   {
     "id": "2ed1241f676aced2adcbc59dd953e31588819288805ce86eeece7ac4f668f228",
@@ -193,12 +247,49 @@
     ],
     "type": "單選",
     "course": "1150624性平種子教師培訓",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由導師或學務處先行要求學生撰寫自白書以釐清真相",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.546Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.921Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "由導師或學務處先行要求學生撰寫自白書以釐清真相",
+      "sources": [
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "學校或主管機關處理校園 性別 事件，應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制，違反者其調查無效。"
+        },
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:57.047Z",
+      "prior_sources": [
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "學校或主管機關處理校園 性別 事件，應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制，違反者其調查無效。"
+        },
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    },
+    "resolved_answer": "由導師或學務處先行要求學生撰寫自白書以釐清真相"
   }
 ]

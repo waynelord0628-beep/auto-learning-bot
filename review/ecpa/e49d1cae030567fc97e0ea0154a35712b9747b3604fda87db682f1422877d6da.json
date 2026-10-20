@@ -310,17 +310,42 @@
     ],
     "type": "單選",
     "course": "行政透明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T08:52:46.907Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T07:19:55.039Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.628Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070005",
+          "quote": "第 1 條 為端正政風，確立公職人員清廉之作為，特制定本法。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:21.461Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070005",
+          "quote": "第 1 條 為端正政風，確立公職人員清廉之作為，特制定本法。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:05.335Z"
+      }
+    },
+    "resolved_answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送"
   },
   {
     "id": "1104e3045e05a6dc2b0665f1b44a2b856d2f03046f143b4d5b77bc81ca32ce45",

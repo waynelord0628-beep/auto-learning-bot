@@ -31,17 +31,42 @@
     ],
     "type": "單選",
     "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "私人社群中的私人恩怨爭吵",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T14:07:00.613Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T10:20:04.369Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.232Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "私人社群中的私人恩怨爭吵",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "與執行職務無關的言行，例如非因工作衍生的言行衝突，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "行為發生在勞動場所，涵蓋工作場所及受雇主指示出差或外勤的場所，並且是執行職務的過程中發生，因此與執行職務無關的言行，例如非因工作衍生的言行衝突，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    },
+    "resolved_answer": "私人社群中的私人恩怨爭吵"
   },
   {
     "id": "44b13bd6e5a8690905e788f4962f935de82f86b91bfbbdd67f727698127b8cdb",
@@ -52,13 +77,43 @@
     ],
     "type": "是非",
     "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T14:07:00.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.253Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://orsd.wda.gov.tw/download?code=eyJpdiI6IkIxbFE4VzcrSGt6TER4a2NUSjMzbGc9PSIsInZhbHVlIjoiUERSQStXS0NXMDNaMGhkSWZDM1pSRno0TUpFMFdqaWhHSFFmZ09Za3FwZz0iLCJtYWMiOiI5ODBlNDMzNjA1YjBkMDhjMjExZGRhZGZjNDE2MDEzNGZiNzE0MjQ2YTNhMmNhM2IyZTA5ZjM2OWI4ZTc5NzlmIiwidGFnIjoiIn0%3D",
+          "quote": "責任承 擔方1應於接獲 障礙者依其障礙 需要提出合理調整請求時， 與其展開互動式對話、協商及提供合理調整 。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://orsd.wda.gov.tw/download?code=eyJpdiI6IkIxbFE4VzcrSGt6TER4a2NUSjMzbGc9PSIsInZhbHVlIjoiUERSQStXS0NXMDNaMGhkSWZDM1pSRno0TUpFMFdqaWhHSFFmZ09Za3FwZz0iLCJtYWMiOiI5ODBlNDMzNjA1YjBkMDhjMjExZGRhZGZjNDE2MDEzNGZiNzE0MjQ2YTNhMmNhM2IyZTA5ZjM2OWI4ZTc5NzlmIiwidGFnIjoiIn0%3D",
+          "quote": "責任承 擔方1應於接獲 障礙者依其障礙 需要提出合理調整請求時， 與其展開互動式對話、協商及提供合理調整 。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z",
+        "format_recovered": true
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b30ee44c1f47841a79043589ad626ed5e2b86e7b5c31459d5935e22f8f823a16",
@@ -86,13 +141,42 @@
     ],
     "type": "是非",
     "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T14:07:00.616Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.276Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "07e827b07e57a0a403f9df525b2f9bc4fb562972fcfdddae788f004b3f10cdcb",

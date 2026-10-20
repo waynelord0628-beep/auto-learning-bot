@@ -10,17 +10,50 @@
     ],
     "type": "單選",
     "course": "(115年)認識勞工退休相關制度",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "6%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:36:38.179Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T15:19:57.331Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.594Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "6%",
+      "sources": [
+        {
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=16&id=FL033689",
+          "quote": "雇主未為本條例第七條第一項人員申報提繳率或申報未達百分之六者，以 百分之六計算。"
+        },
+        {
+          "url": "https://www.bli.gov.tw/0012967.htm",
+          "quote": "雇主應負擔提繳之退休金，不得低於勞工每月工資6％。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:28:50.201Z",
+      "prior_sources": [
+        {
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=16&id=FL033689",
+          "quote": "雇主未為本條例第七條第一項人員申報提繳率或申報未達百分之六者，以 百分之六計算。"
+        },
+        {
+          "url": "https://www.bli.gov.tw/0012967.htm",
+          "quote": "雇主應負擔提繳之退休金，不得低於勞工每月工資6％。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    },
+    "resolved_answer": "6%"
   },
   {
     "id": "198e21dda38df1063463cf690eceda81efc6c90c77a9a8a00c10f54119b831fe",
@@ -33,17 +66,42 @@
     ],
     "type": "單選",
     "course": "(115年)認識勞工退休相關制度",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "94年7月1日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:37:19.079Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T15:20:09.294Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.615Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "94年7月1日",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/2282/2302/2316/86645/post",
+          "quote": "前開適用勞退新制之勞工，於勞退新制施行後（94年7月1日）請領退休金再繼續工作，雇主應依上開規定按月為其提繳退休金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:28:50.202Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/2282/2302/2316/86645/post",
+          "quote": "前開適用勞退新制之勞工，於勞退新制施行後（94年7月1日）請領退休金再繼續工作，雇主應依上開規定按月為其提繳退休金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    },
+    "resolved_answer": "94年7月1日"
   },
   {
     "id": "93e589c98ccf1ac5f2ba54aec5e079079edd76d2a0571a37d6eb4afd1694abc3",
@@ -56,16 +114,41 @@
     ],
     "type": "單選",
     "course": "(115年)認識勞工退休相關制度",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "10年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T05:37:19.080Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T15:20:17.954Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.636Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "15年",
+      "sources": [
+        {
+          "url": "https://www.gov.tw/News_Content_2_389546",
+          "quote": "(一) 勞工年滿60歲，工作年資滿15年以上者，選擇請領月退休金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:55.780Z",
+      "prior_sources": [
+        {
+          "url": "https://www.gov.tw/News_Content_2_389546",
+          "quote": "申辦資格 一、請領資格： (一) 勞工年滿60歲，工作年資滿15年以上者，選擇請領月退休金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    },
+    "resolved_answer": "15年"
   }
 ]

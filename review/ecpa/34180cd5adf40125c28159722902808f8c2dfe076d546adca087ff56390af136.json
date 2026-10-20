@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "行政裁量界線與常見違失案例解析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政行為之內容應明確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.717Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T09:19:46.624Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.344Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "行政行為之內容應明確",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    },
+    "resolved_answer": "行政行為之內容應明確"
   },
   {
     "id": "bd81a30c2878d1d7fbedd224db03b44e9d75be925d32f7bb99de0c7dd0e6d918",
@@ -33,17 +58,42 @@
     ],
     "type": "單選",
     "course": "行政裁量界線與常見違失案例解析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "比例原則",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.720Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T09:19:52.512Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.372Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "比例原則",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    },
+    "resolved_answer": "比例原則"
   },
   {
     "id": "012c273f44a24438fd6f33575fa90e595909e07e9a3381f6a1b1b7301d8ef8eb",
@@ -56,17 +106,42 @@
     ],
     "type": "單選",
     "course": "行政裁量界線與常見違失案例解析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "平等原則(行政自我拘束原則)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.721Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T09:19:58.457Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.394Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "平等原則(行政自我拘束原則)",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 6 條 行政行為，非有正當理由，不得為差別待遇。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 6 條 行政行為，非有正當理由，不得為差別待遇。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    },
+    "resolved_answer": "平等原則(行政自我拘束原則)"
   },
   {
     "id": "f5d376079f95b256fb9d65248d5466c7641b9357c595031d4abce2567e9a6760",

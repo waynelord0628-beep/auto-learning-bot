@@ -370,13 +370,42 @@
     ],
     "type": "單選",
     "course": "IT資安治理成熟度評估機制說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2小時",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T17:27:04.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.272Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3小時",
+      "sources": [
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg025160/ch01/type1/gov01/num1/images/AA.pdf",
+          "quote": "一般使用者及主 管 每人每年接受三小時以上之資通安全 通識教育訓練。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:56.125Z",
+      "prior_sources": [
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg025160/ch01/type1/gov01/num1/images/AA.pdf",
+          "quote": "一般使用者及主 管 每人每年接受三小時以上之資通安全 通識教育訓練。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
+    },
+    "resolved_answer": "3小時"
   },
   {
     "id": "6dd1a01b6d866ecd906233fb427b8487cda31795f8d3bd07f22ab5faadee341c",

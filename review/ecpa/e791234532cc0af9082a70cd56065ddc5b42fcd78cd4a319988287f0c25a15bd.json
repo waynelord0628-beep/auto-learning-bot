@@ -8,17 +8,42 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:05:14.717Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T09:20:05.219Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:27.741Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1113-5&media=print",
+          "quote": "法院為監護之宣告前，意定監護契約之本人或受任人得隨時撤回之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:45.578Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1113-5&media=print",
+          "quote": "法院為監護之宣告前，意定監護契約之本人或受任人得隨時撤回之。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "7df7523c99abd3e8aff38283e2e58624a17bf8253726c468f3ed85b4f069105c",
@@ -117,13 +142,42 @@
     ],
     "type": "單選",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2500",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T18:05:14.722Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:27.816Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1500",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-172-35-45ef0-1.html",
+          "quote": "非因財產權關係為聲請 家事事件法第97條準用非訟事件法第14條、家事事件審理細則第41條、家庭暴力防治法第10條第3項 因非財產權關係為聲請者 1,500元"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:45.578Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-172-35-45ef0-1.html",
+          "quote": "非因財產權關係為聲請 家事事件法第97條準用非訟事件法第14條、家事事件審理細則第41條、家庭暴力防治法第10條第3項 因非財產權關係為聲請者 1,500元"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    },
+    "resolved_answer": "1500"
   },
   {
     "id": "357f2d0284e78cf1b3fec9a315b9870e0e29964b5e824530cd173c1acf56e207",
@@ -499,13 +553,42 @@
     ],
     "type": "單選",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "輔助宣告",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:08:31.820Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:27.840Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "輔助宣告",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    },
+    "resolved_answer": "輔助宣告"
   },
   {
     "id": "e35f360bfc78483b144d3085ee4b156527ba7ddd310d556af57a6c21dfdb2de0",
@@ -586,13 +669,42 @@
     ],
     "type": "是非",
     "course": "成年監護及輔助宣告職務執行",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-05T04:09:10.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:27.864Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2014f551b4ce3724d05d00dcb0887c999e24d193731b7822206131a0e6b4ef1c",

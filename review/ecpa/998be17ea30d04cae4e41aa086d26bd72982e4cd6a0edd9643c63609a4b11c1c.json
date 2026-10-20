@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "115年實驗室生物安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.032Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T00:19:51.183Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.800Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因，強化學員之安全認知與誠實通報文化。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:31.954Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因，強化學員之安全認知與誠實通報文化。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    },
+    "resolved_answer": "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化"
   },
   {
     "id": "38033a22547778dedf21d68b0414b61284e982d77b70835cbce525678b62e100",
@@ -33,17 +58,42 @@
     ],
     "type": "單選",
     "course": "115年實驗室生物安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "瑞士乳酪模型 (Swiss Cheese Model)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.035Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T00:19:58.706Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.821Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "瑞士乳酪模型 (Swiss Cheese Model)",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:31.954Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    },
+    "resolved_answer": "瑞士乳酪模型 (Swiss Cheese Model)"
   },
   {
     "id": "55bf69fea6c1b74ae0741ffaf52964bdb40975a105f0060096ad866f66ba3df5",

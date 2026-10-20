@@ -185,13 +185,42 @@
     ],
     "type": "單選",
     "course": "115年新聞採編暨媒體經營教育訓練_新聞平面攝影",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "讀者不需閱讀額外的文字說明，就能明白故事重點 。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.371Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.641Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "讀者不需閱讀額外的文字說明，就能明白故事重點 。",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:54.999Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    },
+    "resolved_answer": "讀者不需閱讀額外的文字說明，就能明白故事重點 。"
   },
   {
     "id": "1e346327168d1a6867107511727d3e87fb619bb5e4c4cc0e542c5b61d8f4fcae",
@@ -204,12 +233,41 @@
     ],
     "type": "單選",
     "course": "115年新聞採編暨媒體經營教育訓練_新聞平面攝影",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.372Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.665Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:55.000Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    },
+    "resolved_answer": "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。"
   }
 ]

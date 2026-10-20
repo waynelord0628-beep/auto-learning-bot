@@ -71,13 +71,42 @@
     ],
     "type": "是非",
     "course": "國立成功大學-ICERD簡介-落實平權尊重多元",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T09:05:33.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.524Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://hre.pro.edu.tw/promotepapericerd/6",
+          "quote": "特別措施的概念是基於這樣一項原則，即為履行《公約》義務而通過和實施的法律、政策和慣例，在情況需要時，應輔之以暫行特別措施，以確保處境不利群體充分和平等享有人權和基本自由。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:27:53.573Z",
+      "prior_sources": [
+        {
+          "url": "https://hre.pro.edu.tw/promotepapericerd/6",
+          "quote": "特別措施的概念是基於這樣一項原則，即為履行《公約》義務而通過和實施的法律、政策和慣例，在情況需要時，應輔之以暫行特別措施，以確保處境不利群體充分和平等享有人權和基本自由。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5ddeb57ba74dd6255a4edd74f35a00b07b399705aa200e09dd37cb7c6a3287f6",

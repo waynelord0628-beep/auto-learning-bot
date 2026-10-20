@@ -258,13 +258,46 @@
     ],
     "type": "單選",
     "course": "智慧醫療的現況與願景",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:03:21.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.209Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "電子大廠投入建置系統整合方案，例如廣達(QOCA遠距醫療平台)、華碩(AICS智慧醫療解決方案)及仁寶(仁寶i照護系統、智復寶等)。"
+        },
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "諸多新創團隊切入臨床需求，如愛因斯坦人工智慧的腦出血輔助判讀系統、雲象科技的骨髓抹片判讀系統、宏碁智醫的VeriSee DR糖尿病視網膜病變輔助診斷系統"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:32:35.872Z",
+      "prior_sources": [
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "電子大廠投入建置系統整合方案，例如廣達(QOCA遠距醫療平台)、華碩(AICS智慧醫療解決方案)及仁寶(仁寶i照護系統、智復寶等)。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "0a21d51984479252a132b6005d4757d3604a68a43a09c96beabe352735ec27e9",

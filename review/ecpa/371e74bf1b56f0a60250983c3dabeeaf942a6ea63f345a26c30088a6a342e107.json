@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "協助受害人打官司",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.627Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T14:19:59.327Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.386Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "協助受害人打官司",
+      "sources": [
+        {
+          "url": "https://siarc.mohw.gov.tw/service.php",
+          "quote": "協助轉介至各直轄市、縣（市）政府、相關專業機構或性創傷復原中心，提供法律諮詢、心理諮商、社會福利、保護扶助及其他必要服務等協助。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:26.787Z",
+      "prior_sources": [
+        {
+          "url": "https://siarc.mohw.gov.tw/service.php",
+          "quote": "針對性影像案件被害人，本中心將依其實際需求與意願，協助轉介至各直轄市、縣（市）政府、相關專業機構或性創傷復原中心，提供法律諮詢、心理諮商、社會福利、保護扶助及其他必要服務等協助。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    },
+    "resolved_answer": "協助受害人打官司"
   },
   {
     "id": "a6f95fa00fac8527a0b6a2f4ca2256aa04f525cb639611f5917cf3b0e978e344",

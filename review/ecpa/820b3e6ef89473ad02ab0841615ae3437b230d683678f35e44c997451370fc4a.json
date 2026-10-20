@@ -92,17 +92,42 @@
     ],
     "type": "單選",
     "course": "黑鮪魚文化觀光季：東港美食與文化體驗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T08:58:15.102Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T15:20:48.145Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.936Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
+      "sources": [
+        {
+          "url": "https://www.dbnsa.gov.tw/zh-tw/Experience/articles?a=129",
+          "quote": "以往東港黑鮪魚貨交易以「外銷為主，內銷為輔」，主要外銷日本，市佔率曾高達8成。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:30.051Z",
+      "prior_sources": [
+        {
+          "url": "https://www.dbnsa.gov.tw/zh-tw/Experience/articles?a=129",
+          "quote": "以往東港黑鮪魚貨交易以「外銷為主，內銷為輔」，主要外銷日本，市佔率曾高達8成。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    },
+    "resolved_answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi."
   },
   {
     "id": "f6f5ed59b86beafe5696b371f6119691045b6cc4d35ed72cdfa2a32effb21959",

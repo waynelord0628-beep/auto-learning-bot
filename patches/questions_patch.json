@@ -116239,5 +116239,2742 @@
       "model": "gpt-4.1",
       "checked_at": "2026-10-20T08:20:25.859Z"
     }
+  },
+  {
+    "question": "意定監護契約簽訂後，本人不可再行撤回。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "成年監護及輔助宣告職務執行",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1113-5&media=print",
+          "quote": "法院為監護之宣告前，意定監護契約之本人或受任人得隨時撤回之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:45.578Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1113-5&media=print",
+          "quote": "法院為監護之宣告前，意定監護契約之本人或受任人得隨時撤回之。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:32.387Z"
+      }
+    }
+  },
+  {
+    "question": "依據家事事件法第97條準用非訟事件法第14條，聲請費用為新臺幣多少元？",
+    "type": "單選",
+    "options": [
+      "1500",
+      "2500",
+      "3500",
+      "4500"
+    ],
+    "course": "成年監護及輔助宣告職務執行",
+    "answer": "1500",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "1500",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-172-35-45ef0-1.html",
+          "quote": "非因財產權關係為聲請 家事事件法第97條準用非訟事件法第14條、家事事件審理細則第41條、家庭暴力防治法第10條第3項 因非財產權關係為聲請者 1,500元"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:45.578Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-172-35-45ef0-1.html",
+          "quote": "非因財產權關係為聲請 家事事件法第97條準用非訟事件法第14條、家事事件審理細則第41條、家庭暴力防治法第10條第3項 因非財產權關係為聲請者 1,500元"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    }
+  },
+  {
+    "question": "一位已聲請監護宣告的老爺爺某天突然從植物人狀態甦醒，但其意思表示顯有不足，仍有輔助之必要，此時法院得依民法第十五條之一第一項規定，將其變更為什麼？",
+    "type": "單選",
+    "options": [
+      "身心障礙",
+      "長照補助",
+      "監護宣告",
+      "輔助宣告"
+    ],
+    "course": "成年監護及輔助宣告職務執行",
+    "answer": "輔助宣告",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "輔助宣告",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    }
+  },
+  {
+    "question": "受監護之原因消滅，而仍有輔助之必要者，法院得依民法第十五條之一第一項規定，變更為輔助之宣告。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "成年監護及輔助宣告職務執行",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:59.527Z",
+      "prior_sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL001351&LawNo=96",
+          "quote": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項 規定，變更為輔助之宣告。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:36.743Z"
+      }
+    }
+  },
+  {
+    "question": "受理揭弊機關對揭弊內容依法負有保密義務。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "受理揭弊機關對揭弊內容，應依相關法令予以保密之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:50.170Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "受理揭弊機關對揭弊內容，應依相關法令予以保密之。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
+    }
+  },
+  {
+    "question": "CRC 四大一般性原則是公約的核心基礎，下列何者「不屬於」這四大原則？",
+    "type": "單選",
+    "options": [
+      "禁止歧視原則。",
+      "兒童最佳利益原則。",
+      "兒童優先救濟原則。",
+      "尊重兒童表意權。"
+    ],
+    "course": "新竹市115年兒童權利公約知能訓練-認識與落實《兒童權利公約》做個最有溫度的施政成績單",
+    "answer": "兒童優先救濟原則。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "兒童優先救濟原則。",
+      "sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "CRC為維護兒童的權利，提出四大原則： 禁止歧視原則。 兒童最佳利益為優先考量。 兒童的生存及發展權。 兒童有表達意見的權利。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:51.370Z",
+      "prior_sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "CRC為維護兒童的權利，提出四大原則： 禁止歧視原則。 兒童最佳利益為優先考量。 兒童的生存及發展權。 兒童有表達意見的權利。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
+    }
+  },
+  {
+    "question": "推動「社區公園與兒童遊戲場」改建計畫時，常面臨安全與發展的權衡。 從 CRC 的行政視角來看，下列哪一種規劃模式最為適當？",
+    "type": "單選",
+    "options": [
+      "基於國家賠償風險與後續養護成本的考量，全面採購標準化、低風險的「罐頭遊具」，是保護兒童免受傷害的最佳且唯一方式。",
+      "為求工程效率並兼顧民意，於規劃階段舉辦里民說明會，邀請成年居民與里長確認設計圖，以間接代表兒童需求。",
+      "於規劃初期透過工作坊等適合兒童的管道徵詢意見，並在符合國家安全規範的前提下，適度納入兒童期待的「具挑戰性」設施。",
+      "兒童因缺乏工程與安全專業，其意見僅能作為「遊戲區色彩或裝飾」的參考，遊具種類配置仍應由專業顧問公司獨立決定。"
+    ],
+    "course": "新竹市115年兒童權利公約知能訓練-認識與落實《兒童權利公約》做個最有溫度的施政成績單",
+    "answer": "於規劃初期透過工作坊等適合兒童的管道徵詢意見，並在符合國家安全規範的前提下，適度納入兒童期待的「具挑戰性」設施。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "於規劃初期透過工作坊等適合兒童的管道徵詢意見，並在符合國家安全規範的前提下，適度納入兒童期待的「具挑戰性」設施。",
+      "sources": [
+        {
+          "url": "https://crc.sfaa.gov.tw/Uploadfile/Document/35_20230517114938_9005018.pdf",
+          "quote": "遊 戲地帶的地點和設計納入充分保護，並且由兒童參與設計與建設；"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:04.184Z",
+      "prior_sources": [
+        {
+          "url": "https://crc.sfaa.gov.tw/Uploadfile/Document/35_20230517114938_9005018.pdf",
+          "quote": "遊 戲地帶的地點和設計納入充分保護，並且由兒童參與設計與建設；"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
+    }
+  },
+  {
+    "question": "張三參加公務人員考試筆試及格錄取，尚在學習訓練期間，其下列行為何者最符公務人員行政中立法之規定？",
+    "type": "單選",
+    "options": [
+      "不得在學習或訓練場所懸掛或標示競選旗幟",
+      "選舉期間，不得在學習或訓練場所懸掛或標示競選旗幟；非選舉期間，得在學習或訓練場所懸掛或標示競選旗幟",
+      "因尚未正式任用為公務人員，故無規範可言，由其自行決定",
+      "請示學習或訓練機構"
+    ],
+    "course": "公務人員行政中立法與實務",
+    "answer": "不得在學習或訓練場所懸掛或標示競選旗幟",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "不得在學習或訓練場所懸掛或標示競選旗幟",
+      "sources": [
+        {
+          "url": "https://www.cip.gov.tw/data/news/202310/T-26386107.pdf?c=40603D5C8B5CF1D752792C74FC8D05DD&fn=D981BADB0CBEFFAEB55BAA7181ADDE8EFB78F739982BB76E157168828B11383502D1DE3DCEB210BC&s=78AA7D6BE70305F5",
+          "quote": "公務人員不得在辦公 場所懸掛、張貼、穿戴或標示特定政黨、其他政治團體或公職候 選人之旗幟、徽章或服飾。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:05.312Z",
+      "prior_sources": [
+        {
+          "url": "https://www.cip.gov.tw/data/news/202310/T-26386107.pdf?c=40603D5C8B5CF1D752792C74FC8D05DD&fn=D981BADB0CBEFFAEB55BAA7181ADDE8EFB78F739982BB76E157168828B11383502D1DE3DCEB210BC&s=78AA7D6BE70305F5",
+          "quote": "公務人員不得在辦公 場所懸掛、張貼、穿戴或標示特定政黨、其他政治團體或公職候 選人之旗幟、徽章或服飾。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
+    }
+  },
+  {
+    "question": "一般使用者與主管，每人每年應接受幾小時以上之資通安全通識教育訓練?",
+    "type": "單選",
+    "options": [
+      "2小時",
+      "3小時",
+      "4小時",
+      "6小時"
+    ],
+    "course": "IT資安治理成熟度評估機制說明",
+    "answer": "3小時",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "3小時",
+      "sources": [
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg025160/ch01/type1/gov01/num1/images/AA.pdf",
+          "quote": "一般使用者及主 管 每人每年接受三小時以上之資通安全 通識教育訓練。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:56.125Z",
+      "prior_sources": [
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg025160/ch01/type1/gov01/num1/images/AA.pdf",
+          "quote": "一般使用者及主 管 每人每年接受三小時以上之資通安全 通識教育訓練。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
+    }
+  },
+  {
+    "question": "聯邦學習（Federated Learning）在運作時，各醫療機構只會將什麼數據上傳至中心伺服器進行整合？",
+    "type": "單選",
+    "options": [
+      "病患姓名與身分證字號",
+      "完整的去識別化病歷",
+      "電腦斷層掃描原始影像",
+      "本地訓練的模型參數"
+    ],
+    "course": "解碼高雄AI醫療",
+    "answer": "本地訓練的模型參數",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "本地訓練的模型參數",
+      "sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "聯邦學習（Federated Learning）技術為核心，透過「資料不離院、模型共享更新」之架構"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:58.318Z",
+      "prior_sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "本合作以聯邦學習（Federated Learning）技術為核心，透過「資料不離院、模型共享更新」之架構，串聯臺灣及泰國多家醫療機構，共同建立跨國醫療AI訓練環境。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
+    }
+  },
+  {
+    "question": "差異化教學希望達成的目標是什麼？",
+    "type": "單選",
+    "options": [
+      "所有學生都做一樣的作業",
+      "每個孩子在每堂課都有學習",
+      "增加考試次數",
+      "只提升高分學生能力"
+    ],
+    "course": "數位融入課中差異化教學與跨單位合作分享(2026年)",
+    "answer": "每個孩子在每堂課都有學習",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "每個孩子在每堂課都有學習",
+      "sources": [
+        {
+          "url": "https://service.tc.edu.tw/share-news/download/6836ced71507f524b5030e62",
+          "quote": "亮點教師分享：因材施教*數位 共融-讓每個孩子在每一堂課都 有學習"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:09.649Z",
+      "prior_sources": [
+        {
+          "url": "https://service.tc.edu.tw/share-news/download/6836ced71507f524b5030e62",
+          "quote": "亮點教師分享：因材施教*數位 共融-讓每個孩子在每一堂課都 有學習"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:00.183Z"
+      }
+    }
+  },
+  {
+    "question": "請問可以使用下列哪一個公開帳本平臺查看BNB交易?",
+    "type": "單選",
+    "options": [
+      "Tronscan",
+      "Tonscan",
+      "BTC.com",
+      "BSCscan"
+    ],
+    "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
+    "answer": "BSCscan",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "BSCscan",
+      "sources": [
+        {
+          "url": "https://ir.lib.cyut.edu.tw/bitstream/310901800/41226/1/110CYUT0396009-002.pdf",
+          "quote": "任何交易都可以使用區塊鏈瀏覽器查看，此處使用的PancakeSwap屬 於BSC上的應用程式，所以使用BSCscan（https://bscscan.com/）查看。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:13.101Z",
+      "prior_sources": [
+        {
+          "url": "https://ir.lib.cyut.edu.tw/bitstream/310901800/41226/1/110CYUT0396009-002.pdf",
+          "quote": "所以使用BSCscan（https://bscscan.com/）查看。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:06.552Z"
+      }
+    }
+  },
+  {
+    "question": "行政院組織改造中，蔡英文總統提出成立何種組織，以期有效統合我國數位國力的發展。",
+    "type": "單選",
+    "options": [
+      "數位科技發展委員會",
+      "數位科技部",
+      "數位發展部",
+      "國家數位發展部"
+    ],
+    "course": "談國家數位發展的策略方向",
+    "answer": "數位發展部",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "數位發展部",
+      "sources": [
+        {
+          "url": "https://www.president.gov.tw/File/Doc/5addba9a-0b38-44cf-92c5-7c5c76b3db46",
+          "quote": "行政院為促進全國通訊、資訊、資通安全、網路與傳播等數位產業發 展、統籌數位治理與數位基礎建設及協助公私部門數位轉型等相關業務， 特設數位發展部（以下簡稱本部）。 "
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:07.103Z",
+      "prior_sources": [
+        {
+          "url": "https://www.president.gov.tw/File/Doc/5addba9a-0b38-44cf-92c5-7c5c76b3db46",
+          "quote": "特設數位發展部（以下簡稱本部）。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:06.552Z",
+        "format_recovered": true
+      }
+    }
+  },
+  {
+    "question": "根據本課程內容，台灣火力發電如能結合負碳技術CCUS (Carbon capture, utilization, and sequestration)可有效貢獻除碳，規劃至2050年仍可保留20-27%，作為備載電力。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "台灣2050淨零碳排路徑及負碳技術簡介",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://service.cca.gov.tw/File/Get/cca/zh-tw/jg7ilE0SdMEnWHI",
+          "quote": "經濟部能源局依據國家發展委員會「 2050 年淨零排放路 徑」 ， 規劃於2050 年加裝 CCUS 設備之火力發電廠將提供占比 20-27%電力。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:10.791Z",
+      "prior_sources": [
+        {
+          "url": "https://service.cca.gov.tw/File/Get/cca/zh-tw/jg7ilE0SdMEnWHI",
+          "quote": "經濟部能源局依據國家發展委員會「 2050 年淨零排放路 徑」 ， 規劃於2050 年加裝 CCUS 設備之火力發電廠將提供占比 20-27%電力。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "運用大語言模型進行生成式AI應用時，應該考慮的倫理問題包括哪些？",
+    "type": "單選",
+    "options": [
+      "訓練數據的品質",
+      "模型的運算效能",
+      "生成內容的不當使用風險",
+      "模型的學習率"
+    ],
+    "course": "數位大躍進：生成式AI",
+    "answer": "生成內容的不當使用風險",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "生成內容的不當使用風險",
+      "sources": [
+        {
+          "url": "https://www.ntuh.gov.tw/ECRIS/FormData%21detail.action?af=167783",
+          "quote": "其可提升效率，亦可能帶來錯誤、虛構、偏見、隱私外洩、機密洩漏、智慧財產權爭議及責任歸屬不清等風險。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:18:43.393Z",
+      "prior_sources": [
+        {
+          "url": "https://www.ntuh.gov.tw/ECRIS/FormData%21detail.action?af=167783",
+          "quote": "其可提升效率，亦可能帶來錯誤、虛構、偏見、隱私外洩、機密洩漏、智慧財產權爭議及責任歸屬不清等風險。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "臺灣近年的自殺死亡數據顯示，不正確的是？",
+    "type": "單選",
+    "options": [
+      "青少年自殺率上升",
+      "老年人是自殺率最高年齡層",
+      "青中壯年仍嚴重",
+      "各年齡層皆下降"
+    ],
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "answer": "各年齡層皆下降",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "各年齡層皆下降",
+      "sources": [
+        {
+          "url": "https://www.mohw.gov.tw/dl-95360-6c98608e-b804-494b-902c-6d2d24d2e515.html",
+          "quote": "113 年0-14 歲 、 65 歲 以上自殺死 亡人數較 112年下降 ， 其餘年齡層 均呈上升"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:17.752Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mohw.gov.tw/dl-95360-6c98608e-b804-494b-902c-6d2d24d2e515.html",
+          "quote": "113 年0-14 歲 、 65 歲 以上自殺死 亡人數較 112年下降 ， 其餘年齡層 均呈上升"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "中華民國行憲後，僅有蔣中正總統連任三屆以上。請問蔣中正在何年連任第三任總統？",
+    "type": "單選",
+    "options": [
+      "民國48年",
+      "民國49年",
+      "民國50年",
+      "民國51年",
+      "民國52年"
+    ],
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "answer": "民國49年",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "民國49年",
+      "sources": [
+        {
+          "url": "https://www.president.gov.tw/Page/83",
+          "quote": "49年03月21日 當選連任中華民國第三任總統。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:11.367Z",
+      "prior_sources": [
+        {
+          "url": "https://www.president.gov.tw/Page/83",
+          "quote": "49年03月21日 當選連任中華民國第三任總統。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "在「設計與監造皆出問題」的案例中，技師負擔的是何種等級的法律注意義務？",
+    "type": "單選",
+    "options": [
+      "與處理自己事務相同注意義務。",
+      "只要不是故意犯錯，即可免責。",
+      "善良管理人注意義務。",
+      "重大過失注意義務，僅於明顯疏失時始負法律責任。"
+    ],
+    "course": "新北青年工程倫理廉政論談",
+    "answer": "善良管理人注意義務。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "善良管理人注意義務。",
+      "sources": [
+        {
+          "url": "https://www.pcc.gov.tw/content/index?eid=1166&lang=1&type=C",
+          "quote": "技師係屬專門職業及技術人員，其執行業務應本於專業知識，履行善良管理人之注意義務。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:55.624Z",
+      "prior_sources": [
+        {
+          "url": "https://www.pcc.gov.tw/content/index?eid=1166&lang=1&type=C",
+          "quote": "技師係屬專門職業及技術人員，其執行業務應本於專業知識，履行善良管理人之注意義務。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "關於職場霸凌調查小組的組成，下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "成員至少 2 人。",
+      "任一性別比例不得少於三分之一。",
+      "全部成員必須為機關內部人員。",
+      "調查小組不須包含外部專家。"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "任一性別比例不得少於三分之一。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "任一性別比例不得少於三分之一。",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    }
+  },
+  {
+    "question": "除被申訴對象屬於無上級機關之機關首長外之其他被申訴對象發生時，調查小組的外部成員（非機關內部人員）比例至少不得少於二分之一。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "關於霸凌事件的事後處置，下列何者正確？",
+    "type": "單選",
+    "options": [
+      "機關不應處分行為人，以免造成二度衝突。",
+      "申訴人應立即離職以策安全。",
+      "機關應採取糾正及補救措施，避免霸凌情形再度發生。",
+      "只要行為人道歉，機關就不須記錄在案。"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "機關應採取糾正及補救措施，避免霸凌情形再度發生。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "機關應採取糾正及補救措施，避免霸凌情形再度發生。",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部於知悉職場霸凌之情形，或至遲自申訴人提起申訴時起，應採取 下列立即有效之糾正及補救措施："
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部於知悉職場霸凌之情形，或至遲自申訴人提起申訴時起，應採取 下列立即有效之糾正及補救措施："
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "參與職場霸凌事件處理的人員負有保密義務，不得洩露當事人姓名或足以識別身分的資訊。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "調查人員及參與處理職場霸凌事件之人員就申訴人、被申訴人、協助 調查之人之姓名及其他足以辨識身分之資料，應予保密，違者按情節 輕重予以懲處。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "調查人員及參與處理職場霸凌事件之人員就申訴人、被申訴人、協助 調查之人之姓名及其他足以辨識身分之資料，應予保密，違者按情節 輕重予以懲處。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "機關在受理職場霸凌申訴後，應於 1 個月內組成調查小組展開調查。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部防護委員會受理申訴之日起，應於一個月內組成調查小組進行調 查。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部防護委員會受理申訴之日起，應於一個月內組成調查小組進行調 查。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "調查小組的成員人數沒有硬性規定，只要機關首長同意即可。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項調查小組成員至少三人，任一性別比例不得少於三分之一；外部 學者專家不得少於二分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:31.228Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項調查小組成員至少三人，任一性別比例不得少於三分之一；外部 學者專家不得少於二分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "申訴人若撤回申訴，原則不得就同一事由再提出申訴。但機關認有必要者，得本於職權繼續調查處理。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "職場霸凌申訴及處理",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項第六款之撤回申訴，本部認有必要者，得本於職權繼續調查處理。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:31.228Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項第六款之撤回申訴，本部認有必要者，得本於職權繼續調查處理。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    }
+  },
+  {
+    "question": "下列哪一種互動，原則上不屬於職場霸凌範圍？",
+    "type": "單選",
+    "options": [
+      "跨機關業務審查中的羞辱言詞",
+      "私人社群中的私人恩怨爭吵",
+      "主管在會議中公開貶低同仁人格",
+      "長期以業務為名進行不當指責"
+    ],
+    "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
+    "answer": "私人社群中的私人恩怨爭吵",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "私人社群中的私人恩怨爭吵",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "與執行職務無關的言行，例如非因工作衍生的言行衝突，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "行為發生在勞動場所，涵蓋工作場所及受雇主指示出差或外勤的場所，並且是執行職務的過程中發生，因此與執行職務無關的言行，例如非因工作衍生的言行衝突，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    }
+  },
+  {
+    "question": "有身心障礙的同仁，依 CRPD（身心障礙者權利公約）的精神，應先進行對話與合理調整。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://orsd.wda.gov.tw/download?code=eyJpdiI6IkIxbFE4VzcrSGt6TER4a2NUSjMzbGc9PSIsInZhbHVlIjoiUERSQStXS0NXMDNaMGhkSWZDM1pSRno0TUpFMFdqaWhHSFFmZ09Za3FwZz0iLCJtYWMiOiI5ODBlNDMzNjA1YjBkMDhjMjExZGRhZGZjNDE2MDEzNGZiNzE0MjQ2YTNhMmNhM2IyZTA5ZjM2OWI4ZTc5NzlmIiwidGFnIjoiIn0%3D",
+          "quote": "責任承 擔方1應於接獲 障礙者依其障礙 需要提出合理調整請求時， 與其展開互動式對話、協商及提供合理調整 。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://orsd.wda.gov.tw/download?code=eyJpdiI6IkIxbFE4VzcrSGt6TER4a2NUSjMzbGc9PSIsInZhbHVlIjoiUERSQStXS0NXMDNaMGhkSWZDM1pSRno0TUpFMFdqaWhHSFFmZ09Za3FwZz0iLCJtYWMiOiI5ODBlNDMzNjA1YjBkMDhjMjExZGRhZGZjNDE2MDEzNGZiNzE0MjQ2YTNhMmNhM2IyZTA5ZjM2OWI4ZTc5NzlmIiwidGFnIjoiIn0%3D",
+          "quote": "責任承 擔方1應於接獲 障礙者依其障礙 需要提出合理調整請求時， 與其展開互動式對話、協商及提供合理調整 。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z",
+        "format_recovered": true
+      }
+    }
+  },
+  {
+    "question": "情緒性發言必然構成職場霸凌。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "EAP：從衝突到共識-領導者高EQ溝通的藝術",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:30.824Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    }
+  },
+  {
+    "question": "下列何者非屬比例原則?",
+    "type": "單選",
+    "options": [
+      "採取之方法應有助於目的之達成。",
+      "有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。",
+      "採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。",
+      "行政行為之內容應明確"
+    ],
+    "course": "行政裁量界線與常見違失案例解析",
+    "answer": "行政行為之內容應明確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "行政行為之內容應明確",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:20.501Z"
+      }
+    }
+  },
+  {
+    "question": "依行政程序法第7條規定，行政行為應符合「有助於目的達成、選擇對人民權益損害最少之方法，且所造成之損害不得與欲達成之利益顯失均衡」等原則。上述規定係指下列何項原則？",
+    "type": "單選",
+    "options": [
+      "明確性原則",
+      "比例原則",
+      "平等原則",
+      "行政自我拘束原則"
+    ],
+    "course": "行政裁量界線與常見違失案例解析",
+    "answer": "比例原則",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "比例原則",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 7 條 行政行為，應依下列原則為之： 一、採取之方法應有助於目的之達成。 二、有多種同樣能達成目的之方法時，應選擇對人民權益損害最少者。 三、採取之方法所造成之損害不得與欲達成目的之利益顯失均衡。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "有關行政程序法第6條:行政行為，非有正當理由，不得為差別待遇。上述規定係指下列何項原則？",
+    "type": "單選",
+    "options": [
+      "依法行政原則",
+      "比例原則",
+      "明確性原則",
+      "平等原則(行政自我拘束原則)"
+    ],
+    "course": "行政裁量界線與常見違失案例解析",
+    "answer": "平等原則(行政自我拘束原則)",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "平等原則(行政自我拘束原則)",
+      "sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 6 條 行政行為，非有正當理由，不得為差別待遇。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:21.704Z",
+      "prior_sources": [
+        {
+          "url": "https://web.law.ntpc.gov.tw/Scripts/FLAWHIS02.aspx?rcode1=K99+%E8%A8%B4++++++++++++++1475+001&rcode2=&type=J2",
+          "quote": "第 6 條 行政行為，非有正當理由，不得為差別待遇。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "下列哪一項最符合課程所描述的「農耕隊外交」？",
+    "type": "單選",
+    "options": [
+      "主要透過軍事力量擴張臺灣在海外的影響力。",
+      "以農業技術援助及與當地居民共同工作，建立國際關係。",
+      "主要派遣外交官進行政治談判。",
+      "透過輸出農產品取代農業技術援助。"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "以農業技術援助及與當地居民共同工作，建立國際關係。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "以農業技術援助及與當地居民共同工作，建立國際關係。",
+      "sources": [
+        {
+          "url": "https://kmweb.moa.gov.tw/theme_data.php?id=13&theme=agri_story",
+          "quote": "台灣因此從1961年開始派遣農耕隊前往非洲國家，協助當地居民開墾、種植，教導農業技術。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:19.891Z",
+      "prior_sources": [
+        {
+          "url": "https://kmweb.moa.gov.tw/theme_data.php?id=13&theme=agri_story",
+          "quote": "台灣因此從1961年開始派遣農耕隊前往非洲國家，協助當地居民開墾、種植，教導農業技術。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "冷戰期間臺灣農耕隊派駐非洲的人數最多時曾高達1,200餘人，當時政府宣傳的口號為「外交下鄉，農業出洋」。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.moa.gov.tw/ws.php?id=2437",
+          "quote": "人數最多時曾高達1千2百餘人。"
+        },
+        {
+          "url": "https://www.hla.hlc.edu.tw/ischool/publish_page/11/?cid=3571",
+          "quote": "技術配合外交，爭取非洲國家的支持，這就是「外交下鄉、農業出洋」政策。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:19.891Z",
+      "prior_sources": [
+        {
+          "url": "https://www.moa.gov.tw/ws.php?id=2437",
+          "quote": "人數最多時曾高達1千2百餘人。"
+        },
+        {
+          "url": "https://www.hla.hlc.edu.tw/ischool/publish_page/11/?cid=3571",
+          "quote": "技術配合外交，爭取非洲國家的支持，這就是「外交下鄉、農業出洋」政策。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "戰後國際開發援助起源於1947年美國提出的哪一項重大國際計畫？",
+    "type": "單選",
+    "options": [
+      "道威斯計畫",
+      "哥倫布計畫",
+      "馬歇爾計畫",
+      "羅斯福新政"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "馬歇爾計畫",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "馬歇爾計畫",
+      "sources": [
+        {
+          "url": "https://www.cbc.gov.tw/tw/dl-196227-76a2d8572b814e93b5c1f776d43ad3c0.html",
+          "quote": "馬歇爾計畫係為美國國務卿喬治·馬歇爾(George C. Marshall)於 1947 年 6月 5日在哈佛大學發表演說，提出重建歐洲的大綱，其後付諸實施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:19.891Z",
+      "prior_sources": [
+        {
+          "url": "https://www.cbc.gov.tw/tw/dl-196227-76a2d8572b814e93b5c1f776d43ad3c0.html",
+          "quote": "美國於二戰後推出馬歇爾計畫，以協助重建歐洲"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "戰後國際開發援助起源於1947年美國提出的哪一項重大國際計畫？？",
+    "type": "單選",
+    "options": [
+      "道威斯計畫",
+      "哥倫布計畫",
+      "馬歇爾計畫",
+      "羅斯福新政"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "馬歇爾計畫",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "馬歇爾計畫",
+      "sources": [
+        {
+          "url": "https://www.cbc.gov.tw/tw/dl-196227-76a2d8572b814e93b5c1f776d43ad3c0.html",
+          "quote": "馬歇爾計畫係為美國國務卿喬治·馬歇爾(George C. Marshall)於 1947 年 6月 5日在哈佛大學發表演說，提出重建歐洲的大綱，其後付諸實施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:19.891Z",
+      "prior_sources": [
+        {
+          "url": "https://www.cbc.gov.tw/tw/dl-196227-76a2d8572b814e93b5c1f776d43ad3c0.html",
+          "quote": "美國於二戰後推出馬歇爾計畫，以協助重建歐洲"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:26.874Z"
+      }
+    }
+  },
+  {
+    "question": "根據法國社會學家莫里斯·哈爾布瓦克斯（Maurice Halbwachs）的理論，集體記憶的形成主要受到下列何者的影響？",
+    "type": "單選",
+    "options": [
+      "自然環境",
+      "個人的遺傳基因",
+      "完全依賴官方的書面歷史記載",
+      "受到社會框架的影響"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "受到社會框架的影響",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "受到社會框架的影響",
+      "sources": [
+        {
+          "url": "https://epaper.naer.edu.tw/edm?content_no=1702&edm_no=63",
+          "quote": "Maurice Halbwachs 對「集體記憶」（ collective memory ）的研究，強調人們的記憶通常受社會架構的約束；每一種記憶都有其社會的關連性、社會的脈絡，強調某種記憶要靠相關的社會群體的支撐，才可能存在或延續。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:44.115Z",
+      "prior_sources": [
+        {
+          "url": "https://epaper.naer.edu.tw/edm?content_no=1702&edm_no=63",
+          "quote": "強調人們的記憶通常受社會架構的約束；每一種記憶都有其社會的關連性、社會的脈絡，強調某種記憶要靠相關的社會群體的支撐，才可能存在或延續。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "推動非洲外交「先鋒案」（Operation Vanguard）的主要關鍵人物是哪一位被稱為「非洲先生」的外交官？",
+    "type": "單選",
+    "options": [
+      "吳廷琰",
+      "黃賢喜",
+      "楊西崑",
+      "劉曉鵬"
+    ],
+    "course": "土地、族群與記憶──農村集體記憶保存與臺灣農耕隊的故事",
+    "answer": "楊西崑",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "楊西崑",
+      "sources": [
+        {
+          "url": "https://www.drnh.gov.tw/p/404-1003-15870.php?Lang=zh-tw",
+          "quote": "外交資歷豐富，尤其熟悉非洲事務，有「非洲先生」美譽。渠在亞西司司長任內推動「先鋒計畫」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:44.115Z",
+      "prior_sources": [
+        {
+          "url": "https://www.drnh.gov.tw/p/404-1003-15870.php?Lang=zh-tw",
+          "quote": "外交資歷豐富，尤其熟悉非洲事務，有「非洲先生」美譽。渠在亞西司司長任內推動「先鋒計畫」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "好的新聞照片需要發揮「快速理解」的功能，其核心含意是什麼？",
+    "type": "單選",
+    "options": [
+      "照片畫素要夠高，才能在手機螢幕上快速載入。",
+      "攝影師必須在 3 秒內按下快門完成拍攝。",
+      "照片必須加上誇張的特效與標題文字來吸引注意。",
+      "讀者不需閱讀額外的文字說明，就能明白故事重點 。"
+    ],
+    "course": "115年新聞採編暨媒體經營教育訓練_新聞平面攝影",
+    "answer": "讀者不需閱讀額外的文字說明，就能明白故事重點 。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "讀者不需閱讀額外的文字說明，就能明白故事重點 。",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:54.999Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "好的新聞照片最重要的任務是什麼？",
+    "type": "單選",
+    "options": [
+      "拍得夠漂亮，讓人想收藏。",
+      "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。",
+      "使用最新的攝影器材與後製技術。",
+      "盡可能拍到名人或大人物。"
+    ],
+    "course": "115年新聞採編暨媒體經營教育訓練_新聞平面攝影",
+    "answer": "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "讓人看懂「發生了什麼事」，並傳達事件的核心訊息。",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:22:55.000Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047447",
+          "quote": "一張好的新聞照片，首要任務是讓讀者在最短時間內看懂「發生了什麼事」。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "專題報導中若涉及龐大或抽象的統計數字，應將其具象化轉換成讀者能理解的比例尺（例如：相當於三個大安森林公園）。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新聞採編暨媒體經營教育訓練_新聞採訪寫作及實務",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://nhecp.nttu.edu.tw/var/file/42/1042/img/1519/115037038.pdf",
+          "quote": "如果某個難以理解的龐大數字對故事很重要，作者可以提供一個 更容易想像的畫面，讓數字的意義變得更清楚。(《報導的技藝》，頁189)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:20.798Z",
+      "prior_sources": [
+        {
+          "url": "https://nhecp.nttu.edu.tw/var/file/42/1042/img/1519/115037038.pdf",
+          "quote": "• 如果某個難以理解的龐大數字對故事很重要，作者可以提供一個 更容易想像的畫面，讓數字的意義變得更清楚。(《報導的技藝》，頁189)"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "為防範實驗室感染意外，建立良好的安全制度與文化至關重要。下列哪一項是簡報總結中提倡的正確觀念？",
+    "type": "單選",
+    "options": [
+      "BSL-2 的病原體致病性低，常規操作時只要有戴手套就好，細節不需太講究",
+      "發生意外時因為怕被責怪，應私下解決並盡量隱瞞",
+      "實驗室簽名記錄只是應付行政單位的表面形式工作",
+      "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化"
+    ],
+    "course": "115年實驗室生物安全",
+    "answer": "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "不隱匿、不自作主張，事故發生時應立即通報，共同落實非懲罰性應變與誠實文化",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因，強化學員之安全認知與誠實通報文化。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:31.954Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因，強化學員之安全認知與誠實通報文化。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    }
+  },
+  {
+    "question": "2022 年發生的 BSL-2 實驗室傷寒感染事件，肇因於人員處理廢棄物不慎加上防護衣物污染等多重失誤。簡報中引用了哪一種模型，來說明事故發生往往是因為防護機制上的一連串漏洞（如主動失效與潛在條件）恰好貫穿所致？",
+    "type": "單選",
+    "options": [
+      "冰山模型 (Iceberg Model)",
+      "骨牌理論 (Domino Theory)",
+      "瑞士乳酪模型 (Swiss Cheese Model)",
+      "蝴蝶效應 (Butterfly Effect)"
+    ],
+    "course": "115年實驗室生物安全",
+    "answer": "瑞士乳酪模型 (Swiss Cheese Model)",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "瑞士乳酪模型 (Swiss Cheese Model)",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:31.954Z",
+      "prior_sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047318",
+          "quote": "結合瑞士乳酪模型說明事故成因"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "當校園性別事件的行為人同時具有「教職員」與「學生」兩種身分時，應如何決定調查管轄權？",
+    "type": "單選",
+    "options": [
+      "兩者身分均進行調查，並分別裁罰",
+      "一律以其較高的身分（如教師）進行調查",
+      "以其與被害人互動時的身分來定其受調查身分",
+      "由行為人自行選擇一種身分受調查"
+    ],
+    "course": "1150624性平種子教師培訓",
+    "answer": "以其與被害人互動時的身分來定其受調查身分",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "以其與被害人互動時的身分來定其受調查身分",
+      "sources": [
+        {
+          "url": "https://gender.usc.edu.tw/var/file/57/1057/img/743635365.pdf",
+          "quote": "行為人於行為發生時，同時具有校長、教師、職員、工友或學生二種以上不同身分者，以其與被 害人互動時之身分，定其受調查之身分及事件管轄學校或機關。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:23.634Z",
+      "prior_sources": [
+        {
+          "url": "https://gender.usc.edu.tw/var/file/57/1057/img/743635365.pdf",
+          "quote": "行為人於行為發生時，同時具有校長、教師、職員、工友或學生二種以上不同身分者，以其與被 害人互動時之身分，定其受調查之身分及事件管轄學校或機關。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "關於校園性別事件的處理流程，下列何種行為是「法律禁止」的？",
+    "type": "單選",
+    "options": [
+      "將事件交由學校所設之性別平等教育委員會調查",
+      "由導師或學務處先行要求學生撰寫自白書以釐清真相",
+      "對當事人的身分資料採取保密措施",
+      "在 24 小時內向主管機關進行通報"
+    ],
+    "course": "1150624性平種子教師培訓",
+    "answer": "由導師或學務處先行要求學生撰寫自白書以釐清真相",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "由導師或學務處先行要求學生撰寫自白書以釐清真相",
+      "sources": [
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "學校或主管機關處理校園 性別 事件，應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制，違反者其調查無效。"
+        },
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:23:57.047Z",
+      "prior_sources": [
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "學校或主管機關處理校園 性別 事件，應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制，違反者其調查無效。"
+        },
+        {
+          "url": "https://www.gender.edu.tw/web/index.php/m7/m7_01_02_index",
+          "quote": "應將該事件交由所設之性別平等教育委員會調查處理，任何人不得另設調查機制"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "當疑似事件「不涉及公益」且家長口頭表示暫時不申請調查時，學校應該如何處理？",
+    "type": "單選",
+    "options": [
+      "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫",
+      "強制家長簽署書面放棄調查聲明書",
+      "既然家長不告，就當作沒發生過，不需輔導",
+      "若行為人是教職員工，也可以因為家長不申請而不調查"
+    ],
+    "course": "1150624性平種子教師培訓",
+    "answer": "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "尊重意願不啟動調查，但仍須通報並啟動個案輔導計畫",
+      "sources": [
+        {
+          "url": "https://www.tc.edu.tw/cms-file/62f60e8b4ed2fc3e7f252a42.pdf",
+          "quote": "倘疑似被害人或其法定代理人簽復學校權益告知書，表明暫不提出申 請調查，且事件亦未涉及公益，學校將事件提經性平會討論當事人相 關輔導教育措施後，即得結案。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:33.778Z",
+      "prior_sources": [
+        {
+          "url": "https://www.tc.edu.tw/cms-file/62f60e8b4ed2fc3e7f252a42.pdf",
+          "quote": "倘疑似被害人或其法定代理人簽復學校權益告知書，表明暫不提出申 請調查，且事件亦未涉及公益，學校將事件提經性平會討論當事人相 關輔導教育措施後，即得結案。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "本專案約完成多少盞傳統燈具的汰換？",
+    "type": "單選",
+    "options": [
+      "約3萬盞",
+      "約6萬盞",
+      "約9萬盞",
+      "約12萬盞"
+    ],
+    "course": "臺南市教育局LED照明汰換專案履約維運保固說明",
+    "answer": "約9萬盞",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "約9萬盞",
+      "sources": [
+        {
+          "url": "https://info.tainan.gov.tw/News_Content.aspx?n=25742&s=8770592",
+          "quote": "合計超過9萬盞，完成大規模統一汰換並具長效照度及保固的節能典範。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:24:41.492Z",
+      "prior_sources": [
+        {
+          "url": "https://info.tainan.gov.tw/News_Content.aspx?n=25742&s=8770592",
+          "quote": "合計超過9萬盞，完成大規模統一汰換並具長效照度及保固的節能典範。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "以下何者不是紙質檔案修護用紙的要求?",
+    "type": "單選",
+    "options": [
+      "纖維純淨，以保留木質素成分的紙張為佳",
+      "不含有害物質，例如漂白劑、螢光劑等",
+      "紙張呈中性或弱鹼性",
+      "紙性穩定且耐老化"
+    ],
+    "course": "B351紙質類檔案修護",
+    "answer": "纖維純淨，以保留木質素成分的紙張為佳",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "纖維純淨，以保留木質素成分的紙張為佳",
+      "sources": [
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "修護用紙 指符合高保存性原則，且紙性為無酸（弱鹼或中性）、無紙瘤、纖維組成均勻之紙張，如楮皮紙或典具帖等。"
+        },
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "選擇之用紙應不含漂白劑、螢光劑、油、蠟、礬等 物質，且具備輕薄、柔軟、穩定、耐老化、親水性等特性， 其纖維應純淨、長度適宜、具韌性及強度。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:04.450Z",
+      "prior_sources": [
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "修護用紙 指符合高保存性原則，且紙性為無酸（弱鹼或中性）、無紙瘤、纖維組成均勻之紙張，如楮皮紙或典具帖等。"
+        },
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "選擇之用紙應不含漂白劑、螢光劑、油、蠟、礬等 物質，且具備輕薄、柔軟、穩定、耐老化、親水性等特性， 其纖維應純淨、長度適宜、具韌性及強度。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    }
+  },
+  {
+    "question": "高級中等以下學校為促進特殊教育發展及處理校內特殊教育學生之學習輔導等事宜，應成立特殊教育推行委員會。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "特教推行委員會執行秘書實務研習",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "學校為促進特殊教育發展及處理特殊教育學生之學習輔導等事宜，應成立特殊教育推行委員會"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:35.168Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "學校為促進特殊教育發展及處理特殊教育學生之學習輔導等事宜，應成立特殊教育推行委員會（以下簡稱本會）"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.666Z"
+      }
+    }
+  },
+  {
+    "question": "整合學校特殊教育資源及社區特殊教育支援體系也是校內特推會的任務。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "特教推行委員會執行秘書實務研習",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "七、整合特殊教育資源及社區特殊教育支援體系。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:35.168Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "七、整合特殊教育資源及社區特殊教育支援體系。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.667Z"
+      }
+    }
+  },
+  {
+    "question": "兒童及少年性剝削防制條例其原有的名稱為何？",
+    "type": "單選",
+    "options": [
+      "兒童及少年性侵害防制條例",
+      "兒童及少年性交易防制條例",
+      "兒童及少年性犯罪防制條例",
+      "兒童及少年性影像防制條例"
+    ],
+    "course": "認識兒童及少年性剝削防制(上)",
+    "answer": "兒童及少年性交易防制條例",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "兒童及少年性交易防制條例",
+      "sources": [
+        {
+          "url": "https://dep.mohw.gov.tw/DOPS/cp-1271-6913-105.html",
+          "quote": "兒童及少年性剝削防制條例(前身為兒童及少年性交易防制條例)於106年1月1日正式施行；"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:53.307Z",
+      "prior_sources": [
+        {
+          "url": "https://dep.mohw.gov.tw/DOPS/cp-1271-6913-105.html",
+          "quote": "兒童及少年性剝削防制條例(前身為兒童及少年性交易防制條例)於106年1月1日正式施行；"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.667Z"
+      }
+    }
+  },
+  {
+    "question": "當電子平台業者知道自己的平台中有與兒少性剝削犯罪有關的資料，業者應自律限制瀏覽或移除。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識兒童及少年性剝削防制(上)",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=d0050023",
+          "quote": "網路業者透過主管機關或其他機關，知有第四章犯罪嫌疑情事，應於二十四小時內限制瀏覽或移除與第四章犯罪有關之網頁資料。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:42.301Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=d0050023",
+          "quote": "網路業者透過主管機關或其他機關，知有第四章犯罪嫌疑情事，應於二十四小時內限制瀏覽或移除與第四章犯罪有關之網頁資料。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.667Z"
+      }
+    }
+  },
+  {
+    "question": "接獲兒少被害通報時，兒少會先進入緊急安置，緊急安置的時間為48小時。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識兒童及少年性剝削防制(上)",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=d0050023",
+          "quote": "直轄市、縣（市）主管機關依前條緊急安置被害人，應於安置起七十二小時內，評估有無繼續安置之必要"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:42.301Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=d0050023",
+          "quote": "直轄市、縣（市）主管機關依前條緊急安置被害人，應於安置起七十二小時內，評估有無繼續安置之必要"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.667Z"
+      }
+    }
+  },
+  {
+    "question": "以下選項符合兒少性剝削防制之精神？",
+    "type": "單選",
+    "options": [
+      "兒少是指所有未滿20歲之人",
+      "當發生性剝削事件，兒少只要同意，助人者就無法插手了。",
+      "無論兒少同意與否，都不影響兒少是被害人的事實。",
+      "性剝削只會發生在線下（offline）"
+    ],
+    "course": "認識兒童及少年性剝削防制(上)",
+    "answer": "無論兒少同意與否，都不影響兒少是被害人的事實。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "無論兒少同意與否，都不影響兒少是被害人的事實。",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-1454-1529209-06a3c-1.html",
+          "quote": "即使兒少係自願或主動聯繫行為人，其仍屬性剝削之被害人，行為人不得據此免責。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:26:00.135Z",
+      "prior_sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-1454-1529209-06a3c-1.html",
+          "quote": "即使兒少係自願或主動聯繫行為人，其仍屬性剝削之被害人，行為人不得據此免責。"
+        },
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050023",
+          "quote": "本條例所稱被害人，指遭受性剝削或疑似遭受性剝削之兒童或少年。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    }
+  },
+  {
+    "question": "以下何者不是性影像處理中心的主要服務內容？",
+    "type": "單選",
+    "options": [
+      "協助內容下架",
+      "協助受害人打官司",
+      "協助被害人蒐證",
+      "提供心理諮商轉介"
+    ],
+    "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
+    "answer": "協助受害人打官司",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "協助受害人打官司",
+      "sources": [
+        {
+          "url": "https://siarc.mohw.gov.tw/service.php",
+          "quote": "協助轉介至各直轄市、縣（市）政府、相關專業機構或性創傷復原中心，提供法律諮詢、心理諮商、社會福利、保護扶助及其他必要服務等協助。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:26.787Z",
+      "prior_sources": [
+        {
+          "url": "https://siarc.mohw.gov.tw/service.php",
+          "quote": "針對性影像案件被害人，本中心將依其實際需求與意願，協助轉介至各直轄市、縣（市）政府、相關專業機構或性創傷復原中心，提供法律諮詢、心理諮商、社會福利、保護扶助及其他必要服務等協助。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    }
+  },
+  {
+    "question": "本縣有三大願景，分別是文化、科技及智慧城。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "新竹縣政府110年度「與縣長的茶話時光-主管人員交流座談會」",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=245181",
+          "quote": "打造新竹縣的願景「文化、科技、智慧城」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:27:11.871Z",
+      "prior_sources": [
+        {
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=245181",
+          "quote": "打造新竹縣的願景「文化、科技、智慧城」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    }
+  },
+  {
+    "question": "國家為了保護特定需要幫助的種族、民族團體或個人，使其能充分發展並平等享受基本人權，所採取的「特別措施」（積極平權措施），在 ICERD 公約中不被視為種族歧視。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "國立成功大學-ICERD簡介-落實平權尊重多元",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://hre.pro.edu.tw/promotepapericerd/6",
+          "quote": "特別措施的概念是基於這樣一項原則，即為履行《公約》義務而通過和實施的法律、政策和慣例，在情況需要時，應輔之以暫行特別措施，以確保處境不利群體充分和平等享有人權和基本自由。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:27:53.573Z",
+      "prior_sources": [
+        {
+          "url": "https://hre.pro.edu.tw/promotepapericerd/6",
+          "quote": "特別措施的概念是基於這樣一項原則，即為履行《公約》義務而通過和實施的法律、政策和慣例，在情況需要時，應輔之以暫行特別措施，以確保處境不利群體充分和平等享有人權和基本自由。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    }
+  },
+  {
+    "question": "勞退新制雇主強制提繳率至少為     %？",
+    "type": "單選",
+    "options": [
+      "10%",
+      "8%",
+      "6%",
+      "5%"
+    ],
+    "course": "(115年)認識勞工退休相關制度",
+    "answer": "6%",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "6%",
+      "sources": [
+        {
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=16&id=FL033689",
+          "quote": "雇主未為本條例第七條第一項人員申報提繳率或申報未達百分之六者，以 百分之六計算。"
+        },
+        {
+          "url": "https://www.bli.gov.tw/0012967.htm",
+          "quote": "雇主應負擔提繳之退休金，不得低於勞工每月工資6％。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:28:50.201Z",
+      "prior_sources": [
+        {
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=16&id=FL033689",
+          "quote": "雇主未為本條例第七條第一項人員申報提繳率或申報未達百分之六者，以 百分之六計算。"
+        },
+        {
+          "url": "https://www.bli.gov.tw/0012967.htm",
+          "quote": "雇主應負擔提繳之退休金，不得低於勞工每月工資6％。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    }
+  },
+  {
+    "question": "勞退新制係於何時開始實施？",
+    "type": "單選",
+    "options": [
+      "94年7月1日",
+      "94年1月1日",
+      "95年7月1日",
+      "95年1月1日"
+    ],
+    "course": "(115年)認識勞工退休相關制度",
+    "answer": "94年7月1日",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "94年7月1日",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/2282/2302/2316/86645/post",
+          "quote": "前開適用勞退新制之勞工，於勞退新制施行後（94年7月1日）請領退休金再繼續工作，雇主應依上開規定按月為其提繳退休金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:28:50.202Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/2282/2302/2316/86645/post",
+          "quote": "前開適用勞退新制之勞工，於勞退新制施行後（94年7月1日）請領退休金再繼續工作，雇主應依上開規定按月為其提繳退休金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "勞工退休金如果想要選擇月領，提繳年資至少要滿幾年？",
+    "type": "單選",
+    "options": [
+      "10年",
+      "15年",
+      "20年",
+      "25年"
+    ],
+    "course": "(115年)認識勞工退休相關制度",
+    "answer": "15年",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "15年",
+      "sources": [
+        {
+          "url": "https://www.gov.tw/News_Content_2_389546",
+          "quote": "(一) 勞工年滿60歲，工作年資滿15年以上者，選擇請領月退休金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:55.780Z",
+      "prior_sources": [
+        {
+          "url": "https://www.gov.tw/News_Content_2_389546",
+          "quote": "申辦資格 一、請領資格： (一) 勞工年滿60歲，工作年資滿15年以上者，選擇請領月退休金。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "緊急收容期間：緊急臨時收容以二週為原則，最長不超過一個月，並於開設一週內由社工人員進行中長期安置需求調查統計，俾辦理後續配套措施規劃作業。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "災變社會工作",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/60/relfile/0/73219/f7c0d13c-ee81-4880-9642-092781e15de0.pdf",
+          "quote": "緊急臨時收容以 2 週為原則，最長不超過 1 個月。臨時收容所開設一 週時，由 社工人員進行災民中長期安置需求調查統計，俾辦理後續配套措施規劃作業。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:57.502Z",
+      "prior_sources": [
+        {
+          "url": "https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/60/relfile/0/73219/f7c0d13c-ee81-4880-9642-092781e15de0.pdf",
+          "quote": " 緊急收容期間 緊急臨時收容以 2 週為原則，最長不超過 1 個月。臨時收容所開設一 週時，由 社工人員進行災民中長期安置需求調查統計，俾辦理後續配套措施規劃作業。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "家畜類的紅肉在豆魚蛋肉類食物中碳排放量最低。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "低碳蔬食綠生活",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.mohw.gov.tw/cp-2704-19267-1.html",
+          "quote": "低碳攝取的排行則為：豆、白肉、蛋、魚、紅肉。因此建議民眾可選擇以豆類及白肉取代紅肉"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:29:29.918Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mohw.gov.tw/cp-2704-19267-1.html",
+          "quote": "低碳攝取的排行則為：豆、白肉、蛋、魚、紅肉。因此建議民眾可選擇以豆類及白肉取代紅肉"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "身體質量指數(BMI)的計算方式為:體重（公斤）除以身高（公尺）的平方",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "低碳蔬食綠生活",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://dca.moi.gov.tw/PhysicalStatus/AP/CalculatorDetail.aspx?p=1",
+          "quote": "身體質量指數(BMI值)之計算方式＝體重(公斤)÷身高(公尺)平方；計算至小數點第一位，餘以四捨五入計。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:29:29.918Z",
+      "prior_sources": [
+        {
+          "url": "https://dca.moi.gov.tw/PhysicalStatus/AP/CalculatorDetail.aspx?p=1",
+          "quote": "身體質量指數(BMI值)之計算方式＝體重(公斤)÷身高(公尺)平方"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "跨領域創新研發的目的為何？",
+    "type": "單選",
+    "options": [
+      "消耗政府預算",
+      "爭取經費、搏版面",
+      "為國家創造機會與價值"
+    ],
+    "course": "讓智慧機器人成為長照復健的得力助手",
+    "answer": "為國家創造機會與價值",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "為國家創造機會與價值",
+      "sources": [
+        {
+          "url": "https://www.lit.edu.tw/wp-content/uploads/2026/01/115010000031_4_114E0P000785_115D2000010-01.pdf",
+          "quote": "強化在地化長期照護體系，減輕醫療 系統負擔，促成智慧醫療產業生態系發展，發展數位健康創新服務模式機 制，結合數位技術與大數據，打造醫療數據經濟新模式。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:27.705Z",
+      "prior_sources": [
+        {
+          "url": "https://www.lit.edu.tw/wp-content/uploads/2026/01/115010000031_4_114E0P000785_115D2000010-01.pdf",
+          "quote": "強化在地化長期照護體系，減輕醫療 系統負擔，促成智慧醫療產業生態系發展，發展數位健康創新服務模式機 制，結合數位技術與大數據，打造醫療數據經濟新模式。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    }
+  },
+  {
+    "question": "Please read the following passage, determine whether the statement below is TRUE or FALSE, and choose the correct reason.",
+    "type": "單選",
+    "options": [
+      "True, because bluefin tuna from Donggang is mainly kept for local consumption and not exported.",
+      "True, because the bluefin tuna is not delicate and aromatic, making it unsuitable for sashimi.",
+      "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
+      "False, because bluefin tuna is not in high demand in the market."
+    ],
+    "course": "黑鮪魚文化觀光季：東港美食與文化體驗",
+    "answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "False, because the bluefin tuna is auctioned off and exported worldwide, and its flesh is considered perfect for sashimi.",
+      "sources": [
+        {
+          "url": "https://www.dbnsa.gov.tw/zh-tw/Experience/articles?a=129",
+          "quote": "以往東港黑鮪魚貨交易以「外銷為主，內銷為輔」，主要外銷日本，市佔率曾高達8成。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:30.051Z",
+      "prior_sources": [
+        {
+          "url": "https://www.dbnsa.gov.tw/zh-tw/Experience/articles?a=129",
+          "quote": "以往東港黑鮪魚貨交易以「外銷為主，內銷為輔」，主要外銷日本，市佔率曾高達8成。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    }
+  },
+  {
+    "question": "請問下列哪一項「不屬於」區塊鏈的技術特點？",
+    "type": "單選",
+    "options": [
+      "不可篡改性",
+      "匿名性",
+      "集中性",
+      "去中心化"
+    ],
+    "course": "當前科技犯罪面貌與因應之道",
+    "answer": "集中性",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "集中性",
+      "sources": [
+        {
+          "url": "https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C11302188/001",
+          "quote": "加密貨幣的去中心化和匿名性使其成為犯罪分子進行洗錢 、 詐騙和 資金掩飾的工具 。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:38:01.298Z",
+      "prior_sources": [
+        {
+          "url": "https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C11302188/001",
+          "quote": "加密貨幣的去中心化和匿名性使其成為犯罪分子進行洗錢 、 詐騙和 資金掩飾的工具 。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    }
+  },
+  {
+    "question": "年滿25歲到70歲的男女，都要被納入民防團。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "全民國防教育-當前我國國防政策與全民防衛",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080118",
+          "quote": "前三款編組以外之成年國民，未滿七十歲者，依其生活區域、專長、經驗、體能，經遴選參加民防總隊、民防團及民防分團編組。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:31:58.822Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080118",
+          "quote": "前三款編組以外之成年國民，未滿七十歲者，依其生活區域、專長、經驗、體能，經遴選參加民防總隊、民防團及民防分團編組。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    }
+  },
+  {
+    "question": "以下何者不是全民國防教育的法源依據？",
+    "type": "單選",
+    "options": [
+      "國防法",
+      "民法",
+      "全民國防教育法",
+      "全民防衛動員準備法"
+    ],
+    "course": "全民國防概論",
+    "answer": "民法",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "民法",
+      "sources": [
+        {
+          "url": "https://gpwd.mnd.gov.tw/filectrl/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2_%E5%A4%A7%E5%AD%B8%E6%9A%A8%E5%9C%A8%E8%81%B7%E6%95%99%E8%82%B2%E6%8E%88%E8%AA%B2%E5%8F%83%E8%80%835.pdf",
+          "quote": "我國全民國防體系應包括三項，即「國防法」「全民防衛動員準備法」「全民 國防教育法」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:38:12.325Z",
+      "prior_sources": [
+        {
+          "url": "https://gpwd.mnd.gov.tw/filectrl/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2_%E5%A4%A7%E5%AD%B8%E6%9A%A8%E5%9C%A8%E8%81%B7%E6%95%99%E8%82%B2%E6%8E%88%E8%AA%B2%E5%8F%83%E8%80%835.pdf",
+          "quote": "我國全民國防體系應包括三項，即「國防法」「全民防衛動員準備法」「全民 國防教育法」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    }
+  },
+  {
+    "question": "台灣科技廠商目前投入智慧醫療應用開發的廠商有哪些?",
+    "type": "單選",
+    "options": [
+      "仁寶",
+      "宏碁",
+      "華碩",
+      "以上皆是"
+    ],
+    "course": "智慧醫療的現況與願景",
+    "answer": "以上皆是",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "電子大廠投入建置系統整合方案，例如廣達(QOCA遠距醫療平台)、華碩(AICS智慧醫療解決方案)及仁寶(仁寶i照護系統、智復寶等)。"
+        },
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "諸多新創團隊切入臨床需求，如愛因斯坦人工智慧的腦出血輔助判讀系統、雲象科技的骨髓抹片判讀系統、宏碁智醫的VeriSee DR糖尿病視網膜病變輔助診斷系統"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:32:35.872Z",
+      "prior_sources": [
+        {
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPage202406060002cht?lang=cht&search=202406060002",
+          "quote": "電子大廠投入建置系統整合方案，例如廣達(QOCA遠距醫療平台)、華碩(AICS智慧醫療解決方案)及仁寶(仁寶i照護系統、智復寶等)。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "Tom is very sad. He ____ his wallet again.",
+    "type": "單選",
+    "options": [
+      "lost",
+      "blew",
+      "found",
+      "held"
+    ],
+    "course": "平安旅遊&樂攀岩",
+    "answer": "lost",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "lost",
+      "sources": [
+        {
+          "url": "https://sparc.nfu.edu.tw/~pljuan/life/eng1.htm",
+          "quote": "I lost my wallet / purse."
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:33:04.649Z",
+      "prior_sources": [
+        {
+          "url": "https://sparc.nfu.edu.tw/~pljuan/life/eng1.htm",
+          "quote": "I lost my wallet / purse."
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "下列何者屬於特種個資？",
+    "type": "單選",
+    "options": [
+      "指紋",
+      "犯罪前科",
+      "戶籍地址",
+      "職業類別"
+    ],
+    "course": "智慧財產局115年度個人資料保護教育訓練",
+    "answer": "犯罪前科",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "犯罪前科",
+      "sources": [
+        {
+          "url": "https://www.moj.gov.tw/2204/2795/2796/57581/",
+          "quote": "增訂病歷與醫療、基因、性生活、健康檢查、犯罪前科同列為特種個資"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:33:21.961Z",
+      "prior_sources": [
+        {
+          "url": "https://www.moj.gov.tw/2204/2795/2796/57581/",
+          "quote": "增訂病歷與醫療、基因、性生活、健康檢查、犯罪前科同列為特種個資"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "以下有關海洋生物多樣性與海洋文化多元性的關係，以下何者描述錯誤？",
+    "type": "單選",
+    "options": [
+      "不同的海岸環境系有多樣的地景棲地",
+      "不同的棲地環境孕育相同的生物資源",
+      "不同聚落的居民以不同的生活方式及工具利用",
+      "生活及語言獨特性是文化差異原點"
+    ],
+    "course": "海洋保育-海洋生物多樣性與保育",
+    "answer": "不同的棲地環境孕育相同的生物資源",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "不同的棲地環境孕育相同的生物資源",
+      "sources": [
+        {
+          "url": "https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=ceeb84d1-5c92-4f72-ade6-a2ed565dc008",
+          "quote": "不同地區的地理特性不同，也構成了不同的棲地環境條件。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:33:38.353Z",
+      "prior_sources": [
+        {
+          "url": "https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=ceeb84d1-5c92-4f72-ade6-a2ed565dc008",
+          "quote": "不同地區的地理特性不同，也構成了不同的棲地環境條件。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "You can pay by ____ or credit card at this store.",
+    "type": "單選",
+    "options": [
+      "candles",
+      "candy",
+      "cash"
+    ],
+    "course": "聰明付款&好習慣與壞習慣",
+    "answer": "cash",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "cash",
+      "sources": [
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "我還是喜歡用現金交易，比較安全"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:34:03.734Z",
+      "prior_sources": [
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "老師介紹非現金的支付方式，有行動支付、第三方支付和電子支付。"
+        },
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "我還是喜歡用現金交易，比較安全"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "職場霸凌的五項特徵不包括下列哪一項？",
+    "type": "單選",
+    "options": [
+      "持續數週以上的長期事件",
+      "至少有一名加害者",
+      "對受害者進行語言或非語言攻擊",
+      "偶發的短暫事件，且情節非屬重大者"
+    ],
+    "course": "職場霸凌案例及處理",
+    "answer": "偶發的短暫事件，且情節非屬重大者",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "偶發的短暫事件，且情節非屬重大者",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:38:16.860Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "4.具有反覆或持續性的不當言行： 不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    }
+  },
+  {
+    "question": "有關公職人員財產申報法的立法說明，下列何者為是？",
+    "type": "單選",
+    "options": [
+      "依據公平、公開的採購程序，提出了招標公開規定",
+      "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+      "行政計畫重大公共設施之設置需經公開及聽證程序",
+      "規定之公務員除應將申報資料審核，彙整列冊，提供公眾查閱"
+    ],
+    "course": "行政透明",
+    "answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "為了促進廉能政治、端正政治風氣，並有效遏阻貪污腐化及不當利益輸送",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070005",
+          "quote": "第 1 條 為端正政風，確立公職人員清廉之作為，特制定本法。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:35:21.461Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070005",
+          "quote": "第 1 條 為端正政風，確立公職人員清廉之作為，特制定本法。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:05.335Z"
+      }
+    }
   }
 ]

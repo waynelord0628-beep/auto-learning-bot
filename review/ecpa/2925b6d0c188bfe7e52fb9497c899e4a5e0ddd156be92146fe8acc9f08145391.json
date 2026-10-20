@@ -191,12 +191,49 @@
     ],
     "type": "單選",
     "course": "B351紙質類檔案修護",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "纖維純淨，以保留木質素成分的紙張為佳",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-02T22:04:14.282Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.083Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "纖維純淨，以保留木質素成分的紙張為佳",
+      "sources": [
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "修護用紙 指符合高保存性原則，且紙性為無酸（弱鹼或中性）、無紙瘤、纖維組成均勻之紙張，如楮皮紙或典具帖等。"
+        },
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "選擇之用紙應不含漂白劑、螢光劑、油、蠟、礬等 物質，且具備輕薄、柔軟、穩定、耐老化、親水性等特性， 其纖維應純淨、長度適宜、具韌性及強度。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:04.450Z",
+      "prior_sources": [
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "修護用紙 指符合高保存性原則，且紙性為無酸（弱鹼或中性）、無紙瘤、纖維組成均勻之紙張，如楮皮紙或典具帖等。"
+        },
+        {
+          "url": "https://ga.nycu.edu.tw/ga/ch/app/data/list?id=5324&module=nycu0014",
+          "quote": "選擇之用紙應不含漂白劑、螢光劑、油、蠟、礬等 物質，且具備輕薄、柔軟、穩定、耐老化、親水性等特性， 其纖維應純淨、長度適宜、具韌性及強度。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:38.411Z"
+      }
+    },
+    "resolved_answer": "纖維純淨，以保留木質素成分的紙張為佳"
   }
 ]

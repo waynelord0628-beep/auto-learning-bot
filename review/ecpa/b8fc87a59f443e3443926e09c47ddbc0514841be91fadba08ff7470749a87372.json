@@ -250,17 +250,42 @@
     ],
     "type": "單選",
     "course": "當前科技犯罪面貌與因應之道",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "集中性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:10:48.602Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T01:19:58.347Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.007Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "集中性",
+      "sources": [
+        {
+          "url": "https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C11302188/001",
+          "quote": "加密貨幣的去中心化和匿名性使其成為犯罪分子進行洗錢 、 詐騙和 資金掩飾的工具 。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:38:01.298Z",
+      "prior_sources": [
+        {
+          "url": "https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C11302188/001",
+          "quote": "加密貨幣的去中心化和匿名性使其成為犯罪分子進行洗錢 、 詐騙和 資金掩飾的工具 。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    },
+    "resolved_answer": "集中性"
   },
   {
     "id": "8e83ffb873eca9095163368b40fff1f55848359f26b20f965bb28b13119bc775",

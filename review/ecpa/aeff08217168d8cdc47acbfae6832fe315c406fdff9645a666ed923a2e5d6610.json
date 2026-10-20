@@ -342,17 +342,46 @@
     ],
     "type": "單選",
     "course": "聰明付款&好習慣與壞習慣",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "cash",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-13T02:12:34.361Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T08:19:56.749Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.492Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "cash",
+      "sources": [
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "我還是喜歡用現金交易，比較安全"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:34:03.734Z",
+      "prior_sources": [
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "老師介紹非現金的支付方式，有行動支付、第三方支付和電子支付。"
+        },
+        {
+          "url": "https://itaiwan.moe.gov.tw/course_info.php?timeid=28251",
+          "quote": "我還是喜歡用現金交易，比較安全"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    },
+    "resolved_answer": "cash"
   },
   {
     "id": "54645db1d03f37e04b5f58eb6e47be29781ca183ebfba8e6d9b31a7bae098f46",

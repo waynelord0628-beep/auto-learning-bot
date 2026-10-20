@@ -349,12 +349,41 @@
     ],
     "type": "單選",
     "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "各年齡層皆下降",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T03:00:44.488Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.824Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "各年齡層皆下降",
+      "sources": [
+        {
+          "url": "https://www.mohw.gov.tw/dl-95360-6c98608e-b804-494b-902c-6d2d24d2e515.html",
+          "quote": "113 年0-14 歲 、 65 歲 以上自殺死 亡人數較 112年下降 ， 其餘年齡層 均呈上升"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:37:17.752Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mohw.gov.tw/dl-95360-6c98608e-b804-494b-902c-6d2d24d2e515.html",
+          "quote": "113 年0-14 歲 、 65 歲 以上自殺死 亡人數較 112年下降 ， 其餘年齡層 均呈上升"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    },
+    "resolved_answer": "各年齡層皆下降"
   }
 ]

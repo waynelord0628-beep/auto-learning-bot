@@ -77,13 +77,42 @@
     ],
     "type": "單選",
     "course": "解碼高雄AI醫療",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "本地訓練的模型參數",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.246Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.347Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "本地訓練的模型參數",
+      "sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "聯邦學習（Federated Learning）技術為核心，透過「資料不離院、模型共享更新」之架構"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:58.318Z",
+      "prior_sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "本合作以聯邦學習（Federated Learning）技術為核心，透過「資料不離院、模型共享更新」之架構，串聯臺灣及泰國多家醫療機構，共同建立跨國醫療AI訓練環境。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:51.831Z"
+      }
+    },
+    "resolved_answer": "本地訓練的模型參數"
   },
   {
     "id": "edc58deb9be2d04bdc63ab0b9bd2b2bbb701582ceb1e87881ce2bebb9e44b1f2",

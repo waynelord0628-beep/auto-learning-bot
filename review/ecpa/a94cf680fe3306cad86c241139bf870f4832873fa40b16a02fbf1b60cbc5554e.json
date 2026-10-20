@@ -94,17 +94,42 @@
     ],
     "type": "是非",
     "course": "特教推行委員會執行秘書實務研習",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.968Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T02:20:00.182Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.158Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "學校為促進特殊教育發展及處理特殊教育學生之學習輔導等事宜，應成立特殊教育推行委員會"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:35.168Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "學校為促進特殊教育發展及處理特殊教育學生之學習輔導等事宜，應成立特殊教育推行委員會（以下簡稱本會）"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.666Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "52464b1fcb9017e9422c16380ad3bb7d0c58afe032aa891f5257e385d718b8eb",
@@ -157,13 +182,42 @@
     ],
     "type": "是非",
     "course": "特教推行委員會執行秘書實務研習",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.971Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.180Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "七、整合特殊教育資源及社區特殊教育支援體系。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:25:35.168Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000101",
+          "quote": "七、整合特殊教育資源及社區特殊教育支援體系。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:42.667Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a026e9986b743e64942736f896146077c023a4fb7941a48ed80d24e8e6fb0b60",

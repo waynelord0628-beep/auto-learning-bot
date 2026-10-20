@@ -188,17 +188,42 @@
     ],
     "type": "是非",
     "course": "低碳蔬食綠生活",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:44:59.981Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T13:19:44.299Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.782Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.mohw.gov.tw/cp-2704-19267-1.html",
+          "quote": "低碳攝取的排行則為：豆、白肉、蛋、魚、紅肉。因此建議民眾可選擇以豆類及白肉取代紅肉"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:29:29.918Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mohw.gov.tw/cp-2704-19267-1.html",
+          "quote": "低碳攝取的排行則為：豆、白肉、蛋、魚、紅肉。因此建議民眾可選擇以豆類及白肉取代紅肉"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3aca7109ec3754dea60ff877d3c58a967344913d231342e2081d9f80648f7bab",
@@ -462,17 +487,42 @@
     ],
     "type": "是非",
     "course": "低碳蔬食綠生活",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T19:45:36.581Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T13:19:51.388Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.802Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://dca.moi.gov.tw/PhysicalStatus/AP/CalculatorDetail.aspx?p=1",
+          "quote": "身體質量指數(BMI值)之計算方式＝體重(公斤)÷身高(公尺)平方；計算至小數點第一位，餘以四捨五入計。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:29:29.918Z",
+      "prior_sources": [
+        {
+          "url": "https://dca.moi.gov.tw/PhysicalStatus/AP/CalculatorDetail.aspx?p=1",
+          "quote": "身體質量指數(BMI值)之計算方式＝體重(公斤)÷身高(公尺)平方"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:52.420Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8a8849d817e308dd5ad33c2b6ab0b18cd9bafb2ff5ba28f9b8c13bdc94991fd4",

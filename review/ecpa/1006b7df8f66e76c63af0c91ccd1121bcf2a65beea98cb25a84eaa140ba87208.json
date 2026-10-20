@@ -27,17 +27,42 @@
     ],
     "type": "是非",
     "course": "全民國防教育-當前我國國防政策與全民防衛",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-17T18:14:37.106Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T07:19:53.329Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.073Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080118",
+          "quote": "前三款編組以外之成年國民，未滿七十歲者，依其生活區域、專長、經驗、體能，經遴選參加民防總隊、民防團及民防分團編組。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:31:58.822Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080118",
+          "quote": "前三款編組以外之成年國民，未滿七十歲者，依其生活區域、專長、經驗、體能，經遴選參加民防總隊、民防團及民防分團編組。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:57.298Z"
+      }
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "5c25096f9b32ef00e5dd232a40f5893f9bb24c80b867262002b2ade9c54c11a1",

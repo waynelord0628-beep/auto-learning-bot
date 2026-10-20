@@ -174,12 +174,41 @@
     ],
     "type": "單選",
     "course": "加密貨幣追蹤技術與區塊鏈資安技術的融合與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "BSCscan",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.924Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.545Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "BSCscan",
+      "sources": [
+        {
+          "url": "https://ir.lib.cyut.edu.tw/bitstream/310901800/41226/1/110CYUT0396009-002.pdf",
+          "quote": "任何交易都可以使用區塊鏈瀏覽器查看，此處使用的PancakeSwap屬 於BSC上的應用程式，所以使用BSCscan（https://bscscan.com/）查看。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:13.101Z",
+      "prior_sources": [
+        {
+          "url": "https://ir.lib.cyut.edu.tw/bitstream/310901800/41226/1/110CYUT0396009-002.pdf",
+          "quote": "所以使用BSCscan（https://bscscan.com/）查看。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:06.552Z"
+      }
+    },
+    "resolved_answer": "BSCscan"
   }
 ]

@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "任一性別比例不得少於三分之一。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.049Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T09:21:00.300Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.029Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "任一性別比例不得少於三分之一。",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    },
+    "resolved_answer": "任一性別比例不得少於三分之一。"
   },
   {
     "id": "4974180100904362b1caa1642a900b4caaf97dbeb07dd6d950ccc0402770005c",
@@ -94,13 +119,42 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.060Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.049Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060085",
+          "quote": "調查小組成員至少三人，外部專業人士不得少於二分之一；任一性別比例不得少於三分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6bd57a2bee4bda7adbd633498ba0321ba636ebd25515454d9f4421a210233dde",
@@ -136,13 +190,42 @@
     ],
     "type": "單選",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "機關應採取糾正及補救措施，避免霸凌情形再度發生。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.068Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.073Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "機關應採取糾正及補救措施，避免霸凌情形再度發生。",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部於知悉職場霸凌之情形，或至遲自申訴人提起申訴時起，應採取 下列立即有效之糾正及補救措施："
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部於知悉職場霸凌之情形，或至遲自申訴人提起申訴時起，應採取 下列立即有效之糾正及補救措施："
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "機關應採取糾正及補救措施，避免霸凌情形再度發生。"
   },
   {
     "id": "1317bd979f566690e75171ab7e58958129051960842a756058d4a26f8377d4a2",
@@ -153,13 +236,42 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.073Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.093Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "調查人員及參與處理職場霸凌事件之人員就申訴人、被申訴人、協助 調查之人之姓名及其他足以辨識身分之資料，應予保密，違者按情節 輕重予以懲處。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "調查人員及參與處理職場霸凌事件之人員就申訴人、被申訴人、協助 調查之人之姓名及其他足以辨識身分之資料，應予保密，違者按情節 輕重予以懲處。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "22a7da601cce59dff34848bef55284851a875481499625b6c574cbb45b14489d",
@@ -170,13 +282,42 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.075Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.114Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部防護委員會受理申訴之日起，應於一個月內組成調查小組進行調 查。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:26.235Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "本部防護委員會受理申訴之日起，應於一個月內組成調查小組進行調 查。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "61278318fc5a1dfc0ff86dab308edf401d8a77c208f63b21955765d7b622b80b",
@@ -187,13 +328,42 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.076Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.136Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項調查小組成員至少三人，任一性別比例不得少於三分之一；外部 學者專家不得少於二分之一。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:31.228Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項調查小組成員至少三人，任一性別比例不得少於三分之一；外部 學者專家不得少於二分之一。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "810d894e5c948a4302192b694b96e46516b1f53993f91407a99772ce4365123a",
@@ -221,12 +391,41 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:45.266Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.157Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項第六款之撤回申訴，本部認有必要者，得本於職權繼續調查處理。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:21:31.228Z",
+      "prior_sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL002371",
+          "quote": "前項第六款之撤回申訴，本部認有必要者，得本於職權繼續調查處理。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:16.104Z"
+      }
+    },
+    "resolved_answer": "正確"
   }
 ]

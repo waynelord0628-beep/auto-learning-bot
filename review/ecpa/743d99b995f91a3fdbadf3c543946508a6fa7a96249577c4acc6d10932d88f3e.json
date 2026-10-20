@@ -147,13 +147,42 @@
     ],
     "type": "是非",
     "course": "115年新聞採編暨媒體經營教育訓練_新聞採訪寫作及實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T10:38:19.737Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:29.732Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://nhecp.nttu.edu.tw/var/file/42/1042/img/1519/115037038.pdf",
+          "quote": "如果某個難以理解的龐大數字對故事很重要，作者可以提供一個 更容易想像的畫面，讓數字的意義變得更清楚。(《報導的技藝》，頁189)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:20.798Z",
+      "prior_sources": [
+        {
+          "url": "https://nhecp.nttu.edu.tw/var/file/42/1042/img/1519/115037038.pdf",
+          "quote": "• 如果某個難以理解的龐大數字對故事很重要，作者可以提供一個 更容易想像的畫面，讓數字的意義變得更清楚。(《報導的技藝》，頁189)"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:31.740Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ee157a4b0c1c8698daae17ba9f845f8dc7a0640c497f8a9272eaa9ef37429118",

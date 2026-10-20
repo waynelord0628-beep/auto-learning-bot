@@ -262,17 +262,42 @@
     ],
     "type": "單選",
     "course": "公務人員行政中立法與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不得在學習或訓練場所懸掛或標示競選旗幟",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T17:18:09.593Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T14:20:04.238Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.200Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不得在學習或訓練場所懸掛或標示競選旗幟",
+      "sources": [
+        {
+          "url": "https://www.cip.gov.tw/data/news/202310/T-26386107.pdf?c=40603D5C8B5CF1D752792C74FC8D05DD&fn=D981BADB0CBEFFAEB55BAA7181ADDE8EFB78F739982BB76E157168828B11383502D1DE3DCEB210BC&s=78AA7D6BE70305F5",
+          "quote": "公務人員不得在辦公 場所懸掛、張貼、穿戴或標示特定政黨、其他政治團體或公職候 選人之旗幟、徽章或服飾。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:05.312Z",
+      "prior_sources": [
+        {
+          "url": "https://www.cip.gov.tw/data/news/202310/T-26386107.pdf?c=40603D5C8B5CF1D752792C74FC8D05DD&fn=D981BADB0CBEFFAEB55BAA7181ADDE8EFB78F739982BB76E157168828B11383502D1DE3DCEB210BC&s=78AA7D6BE70305F5",
+          "quote": "公務人員不得在辦公 場所懸掛、張貼、穿戴或標示特定政黨、其他政治團體或公職候 選人之旗幟、徽章或服飾。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:46.735Z"
+      }
+    },
+    "resolved_answer": "不得在學習或訓練場所懸掛或標示競選旗幟"
   },
   {
     "id": "6ab5518c4636d3e734d9feae64f25786f7b621fbdc32621c4a7e04360aa227d2",

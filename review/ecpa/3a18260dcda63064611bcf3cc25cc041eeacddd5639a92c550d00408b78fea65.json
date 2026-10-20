@@ -10,17 +10,42 @@
     ],
     "type": "單選",
     "course": "數位融入課中差異化教學與跨單位合作分享(2026年)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "每個孩子在每堂課都有學習",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T12:29:01.568Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T05:19:51.133Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.475Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "每個孩子在每堂課都有學習",
+      "sources": [
+        {
+          "url": "https://service.tc.edu.tw/share-news/download/6836ced71507f524b5030e62",
+          "quote": "亮點教師分享：因材施教*數位 共融-讓每個孩子在每一堂課都 有學習"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:09.649Z",
+      "prior_sources": [
+        {
+          "url": "https://service.tc.edu.tw/share-news/download/6836ced71507f524b5030e62",
+          "quote": "亮點教師分享：因材施教*數位 共融-讓每個孩子在每一堂課都 有學習"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:00.183Z"
+      }
+    },
+    "resolved_answer": "每個孩子在每堂課都有學習"
   },
   {
     "id": "bf028e4750637b6d9b0eeabcbd4634caff81660aa5d61cf3d62fadd219c452d5",

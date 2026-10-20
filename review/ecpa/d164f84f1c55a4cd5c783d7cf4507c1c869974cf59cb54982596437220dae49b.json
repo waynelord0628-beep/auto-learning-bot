@@ -305,16 +305,45 @@
     ],
     "type": "單選",
     "course": "職場霸凌案例及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T09:16:40.084Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T10:19:39.175Z"
+    "retry_after": "2026-10-19T10:19:39.175Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:31.558Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "偶發的短暫事件，且情節非屬重大者",
+      "sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:38:16.860Z",
+      "prior_sources": [
+        {
+          "url": "https://www.mol.gov.tw/1607/28690/86099/94219/94225/",
+          "quote": "4.具有反覆或持續性的不當言行： 不當言行具有重複、持續發生的特性，可能構成職場霸凌，但如果是輕微且偶發的職場摩擦，難以認定職場霸凌。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:40:03.976Z"
+      }
+    },
+    "resolved_answer": "偶發的短暫事件，且情節非屬重大者"
   },
   {
     "id": "052d0d58e4adfca166167139fa21fab4e35b8c5a769335c184c52ecbd9143afc",

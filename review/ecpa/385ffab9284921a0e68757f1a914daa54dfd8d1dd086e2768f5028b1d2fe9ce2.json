@@ -8,17 +8,42 @@
     ],
     "type": "是非",
     "course": "新竹縣政府110年度「與縣長的茶話時光-主管人員交流座談會」",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:38:52.514Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T02:20:13.331Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:30.456Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=245181",
+          "quote": "打造新竹縣的願景「文化、科技、智慧城」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:27:11.871Z",
+      "prior_sources": [
+        {
+          "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=245181",
+          "quote": "打造新竹縣的願景「文化、科技、智慧城」"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:47.323Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9b47d1d0227c06b7c9a71544217dccf7b1a03e0febdf511d674ec99ff1e82578",

@@ -287,13 +287,42 @@
     ],
     "type": "單選",
     "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民國50年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.893Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國49年",
+      "sources": [
+        {
+          "url": "https://www.president.gov.tw/Page/83",
+          "quote": "49年03月21日 當選連任中華民國第三任總統。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:11.367Z",
+      "prior_sources": [
+        {
+          "url": "https://www.president.gov.tw/Page/83",
+          "quote": "49年03月21日 當選連任中華民國第三任總統。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    },
+    "resolved_answer": "民國49年"
   },
   {
     "id": "3e908e485279a58ce66da5a82bda38e74df28c2b6e9876d2470ecbb129f3c631",

@@ -284,13 +284,42 @@
     ],
     "type": "單選",
     "course": "新北青年工程倫理廉政論談",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "重大過失注意義務，僅於明顯疏失時始負法律責任。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:27:06.464Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.959Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "善良管理人注意義務。",
+      "sources": [
+        {
+          "url": "https://www.pcc.gov.tw/content/index?eid=1166&lang=1&type=C",
+          "quote": "技師係屬專門職業及技術人員，其執行業務應本於專業知識，履行善良管理人之注意義務。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:55.624Z",
+      "prior_sources": [
+        {
+          "url": "https://www.pcc.gov.tw/content/index?eid=1166&lang=1&type=C",
+          "quote": "技師係屬專門職業及技術人員，其執行業務應本於專業知識，履行善良管理人之注意義務。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:39:11.513Z"
+      }
+    },
+    "resolved_answer": "善良管理人注意義務。"
   },
   {
     "id": "f3d865c8416fb63b4bde6435bf0b07b5b72a0f191010c5e528e3ec99f823d7a0",

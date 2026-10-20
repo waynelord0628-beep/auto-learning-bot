@@ -130,13 +130,42 @@
     ],
     "type": "是非",
     "course": "公益揭弊者保護法說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T15:10:09.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:28.032Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "受理揭弊機關對揭弊內容，應依相關法令予以保密之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:36:50.170Z",
+      "prior_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "受理揭弊機關對揭弊內容，應依相關法令予以保密之。"
+        }
+      ],
+      "scope_audit": {
+        "approved": true,
+        "scope": "supported",
+        "model": "gpt-4.1",
+        "checked_at": "2026-10-20T08:38:41.421Z"
+      }
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9570d449be35b2abc7253157e846506c57e6ffe52be5b5cbe50b05bff5fc0164",
