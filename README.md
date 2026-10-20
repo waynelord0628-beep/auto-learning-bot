@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.9** | 數位研習輔助工具
+**開發版本 V2.1.10（準備發布）** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -8,6 +8,14 @@
 協助處理公務數位研習流程，整合課程播放、測驗作答、問卷填寫、題庫同步與缺題回報，降低重複性操作時間。
 
 ---
+
+## V2.1.10 更新
+
+- 支援 eCPA 新版五碼英數圖片驗證碼，使用本機辨識。
+- 改善登入速度，並確認登入狀態與學習紀錄頁後才繼續執行。
+- 改善網站暫時異常時的提示與登入恢復。
+
+V2.1.9 使用者可在正式新版發布後，重新開啟程式並點選「立即更新」，自動下載、替換及重新啟動；帳號設定與本地題庫會保留。V2.1.8 及更早版本請手動下載最新版，關閉舊版後放回原資料夾使用。
 
 ## V2.1.9 更新
 
@@ -75,7 +83,8 @@ V2.1.2 是一個小里程碑：除了既有 eCPA / 我的E政府流程外，正�
 
 下載位置：
 
-https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing
+- [GitHub 正式版下載](https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest)
+- [Google Drive 備援下載](https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g?usp=sharing)
 
 ---
 
@@ -187,16 +196,13 @@ C:\Users\88697\Documents\Codex\2026-06-05\new-chat-2\outputs\行政效能領航�
 
 ## 更新檢查
 
-V2.1.2 起，版本判斷以 GitHub `main/version.txt` 為主。
+V2.1.9 起，程式會在入口畫面檢查 GitHub 最新正式 Release，只有線上版本較新時才提示更新。進入執行流程後不會再突然跳出更新視窗；本次啟動的檢查結束後才發布的版本，請下次重新開啟程式取得。
 
-只有當線上版本大於目前版本時才會提示更新，例如：
+點選「立即更新」後，程式會下載並核對 EXE 的大小與 SHA-256，再備份舊版、替換及重新啟動。若新版啟動失敗，更新程序會嘗試還原舊版；帳號設定與題庫不會被更新程序覆蓋。
 
-- `V2.1.2 > V2.1.1`：提示更新
-- `V2.1.0 < V2.1.2`：不提示更新
+發布者需同步提高程式內版本號與 Release 標籤（例如 `V2.1.10`），發布為正式版，並附上**單一 EXE**；下載檔必須有 GitHub 提供的 SHA-256 資訊。草稿、預發布版本或覆蓋同版本不會觸發一鍵更新。
 
-V2.1.6 起，版本判斷仍以 GitHub main/version.txt 為主，下載連結優先使用 GitHub Release 的 exe asset；若 release asset 不存在才回到雲端備援。
-
-V2.1.8 仍沿用 GitHub Release 作為主要更新來源；Release 內的 `.exe` asset 會作為更新下載檔。
+V2.1.8 及更早版本仍使用 `main/version.txt` 的舊版提示流程，請手動下載升級。Google Drive 為備援下載位置，不是一鍵更新的檢查來源。
 
 ---
 
@@ -204,6 +210,8 @@ V2.1.8 仍沿用 GitHub Release 作為主要更新來源；Release 內的 `.exe`
 
 | 版本 | 內容 |
 |---|---|
+| V2.1.10（準備發布） | 支援 eCPA 五碼圖片驗證碼，改善登入速度、狀態確認與網站異常時的登入恢復。 |
+| V2.1.9 | 新增入口一鍵更新與自動重新啟動，改善播放、操作及缺題通知穩定性。 |
 | V2.1.8 | 僅處理開放式課程，自動略過微學習/SPOC/專班等非開放式課程；課程清單低筆數時會同步 session 後重抓，降低漏課機率；同步調整帳號列表捲動與下拉箭頭顯示。 |
 | V2.1.7 | 修補 eCPA 多頁測驗/問卷流程，讓已達時數但仍需測驗或問卷的課程可繼續處理；改善課程 API 回傳異常時的重抓與續跑穩定性。 |
 | V2.1.6 | 新增匿名使用統計與在線人數顯示；更新下載恢復優先使用 GitHub Release；包含臺北E大題幹污染清理 |

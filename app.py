@@ -86,12 +86,11 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.9"
+    VERSION = "V2.1.10"
     CHANGELOG = (
-        "• 新增入口一鍵更新，下載完成後自動重新啟動\n"
-        "• 改善上課播放穩定性與部分課程單元切換\n"
-        "• 改善操作流暢度與任務啟動、停止流程\n"
-        "• 改善部分題型作答相容性，減少重複通知"
+        "• 支援 eCPA 新版五碼圖片驗證碼\n"
+        "• 改善登入速度與登入狀態確認\n"
+        "• 改善網站暫時異常時的提示與登入恢復"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):
@@ -1879,6 +1878,10 @@ class AdminEfficiencyPilot:
 
             logger.info(f"🚀 正在啟動輔助引擎...")
             options = Options()
+            if str(self.config.get("login_type", "ecpa")).lower() == "ecpa":
+                # eCPA's SSO can stall normal full-page navigation waits. Wait
+                # for the DOM; login and course flows use explicit readiness checks.
+                options.page_load_strategy = "eager"
             options.add_argument("--mute-audio")
             # 加速啟動
             options.add_argument("--no-sandbox")
@@ -2111,31 +2114,24 @@ class AdminEfficiencyPilot:
 
     def login_ecpa(self):
         try:
+            from utils.ecpa_login import authenticated, submit_ecpa_login
             logger.info("🔑 正在對接 eCPA 登入系統...")
-            self.driver.get(self.ecpa_url)
-            self.wait.until(EC.presence_of_element_located((By.ID, "aliasid")))
-
-            user_f = self.driver.find_element(By.ID, "aliasid")
-            pass_f = self.driver.find_element(By.ID, "pas")
-
-            for c in self.config["account"]:
-                user_f.send_keys(c)
-                time.sleep(random.uniform(0.01, 0.03))
-
-            for c in self.config["password"]:
-                pass_f.send_keys(c)
-                time.sleep(random.uniform(0.01, 0.03))
-
-            self.driver.execute_script(
-                "document.querySelector('#idarea button').click();"
-            )
-
-            return self._wait_for_redirect_and_sync(
+            if not submit_ecpa_login(
+                self.driver, self.wait, self.ecpa_url,
+                self.config["account"], self.config["password"],
+                lambda: self.running, logger,
+            ):
+                return False
+            if not self._wait_for_redirect_and_sync(
                 "✅ 系統身分驗證成功！", check_no_login=True
-            )
-
+            ):
+                return False
+            if not authenticated(self.driver, require_stat=True):
+                logger.error("eCPA 登入狀態未保留，無法開啟學習紀錄；不繼續執行課程。")
+                return False
+            return True
         except Exception as e:
-            logger.error(f"登入異常: {e}")
+            logger.error("eCPA 登入異常（%s），請查看登入頁面。", type(e).__name__)
             return False
 
     def login_egov(self):
@@ -2615,7 +2611,7 @@ class AdminEfficiencyPilot:
                 if login_type == "egov":
                     msg = "❌ 登入失敗！請確認『我的E政府』帳密正確，或是否出現驗證碼。"
                 else:
-                    msg = "❌ 登入失敗！請確認 eCPA 帳密正確且無驗證碼要求。"
+                    msg = "❌ 登入失敗！請確認 eCPA 帳密、圖片驗證碼及網站身分驗證提示。"
                 if not self.log_callback and sys.stdin and sys.stdin.isatty():
                     input(f"\n{Fore.RED}{msg} 按 Enter 退出...{Style.RESET_ALL}")
                 return
