@@ -10,18 +10,31 @@
     ],
     "type": "單選",
     "course": "E起學專利公眾版-第3單元",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T21:47:22.287Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-09-20T02:19:39.540Z",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T04:19:52.977Z",
-    "verification_status": "insufficient_sources"
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T06:19:50.207Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "設計專利申請得改請為發明專利。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/e-3.html",
+          "title": "【解答】E起學專利公眾版-第3單元 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T06:19:49.460Z"
+    },
+    "resolved_answer": "設計專利申請得改請為發明專利。"
   }
 ]

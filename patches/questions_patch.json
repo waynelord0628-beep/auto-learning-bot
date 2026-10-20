@@ -111797,5 +111797,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-10-20T05:20:28.860Z"
     }
+  },
+  {
+    "question": "下列關於專利改請之敘述，何者錯誤？",
+    "type": "單選",
+    "options": [
+      "發明專利申請得改請為設計專利。",
+      "設計專利申請得改請為發明專利。",
+      "新型專利申請得改請為設計專利。",
+      "設計專利申請得改請為衍生設計專利。"
+    ],
+    "course": "E起學專利公眾版-第3單元",
+    "answer": "設計專利申請得改請為發明專利。",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "設計專利申請得改請為發明專利。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/e-3.html",
+          "title": "【解答】E起學專利公眾版-第3單元 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T06:19:49.460Z"
+    }
   }
 ]
