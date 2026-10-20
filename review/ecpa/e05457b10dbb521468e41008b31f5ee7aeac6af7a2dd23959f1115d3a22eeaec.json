@@ -168,7 +168,11 @@
     "created_at": "2026-09-23T16:37:05.867Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-09-28T06:19:38.836Z"
+    "retry_after": "2026-09-28T06:19:38.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.569Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "95d34bc34a22957538940210351c9b5c65e07369a8dd0b6aeef3dee84a735b90",
@@ -189,7 +193,11 @@
     "created_at": "2026-09-23T16:37:05.870Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-09-28T06:19:38.836Z"
+    "retry_after": "2026-09-28T06:19:38.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.575Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bcd0042400f364da6176e7b8a08dc45e3035b86d5ab8b03d98b01cb16f7a4a06",
@@ -210,7 +218,11 @@
     "created_at": "2026-09-23T16:37:05.873Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-09-28T06:19:38.836Z"
+    "retry_after": "2026-09-28T06:19:38.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.582Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f05c902e3b3e1bd05fd4f2d8de40d6801b4a5fb70668ee572fa2c30322065e78",
@@ -231,7 +243,11 @@
     "created_at": "2026-09-23T16:37:05.876Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-09-28T06:19:38.836Z"
+    "retry_after": "2026-09-28T06:19:38.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.589Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "141502876051c92e72368a9a196ed4fa5d474ee8ed73ac1f8c299e79bd7fdf07",
@@ -252,7 +268,11 @@
     "created_at": "2026-09-23T16:37:05.892Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-09-28T06:19:38.836Z"
+    "retry_after": "2026-09-28T06:19:38.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.595Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ac92ebc95e3f953ff3f6c3f29209e48c265f669bb2b03c3ac912c912d8bb4e83",

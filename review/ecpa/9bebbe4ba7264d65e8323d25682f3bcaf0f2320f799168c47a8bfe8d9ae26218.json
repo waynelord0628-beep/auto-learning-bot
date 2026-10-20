@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.421Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T04:19:48.166Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.460Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.427Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T04:19:56.561Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.466Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-09-22T14:57:10.433Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T04:20:05.054Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.473Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "Webflow AI",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.439Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.479Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c8f6dddfd0393b78a42c35fe8238d26a20715ecc822dec9726e13c18a7b86208",
@@ -104,7 +108,11 @@
     "candidate_answer": "管理結構",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.440Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.485Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c3d7afacd30c6c972e9e47466db18adae0c02964ee12efc7b18a95b8b4429864",
@@ -123,7 +131,11 @@
     "candidate_answer": "讓三欄變單欄",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.441Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.491Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0934297cfb52c07493bbc0d38deb3dcc3863d841c82d7a7230ecf4d501d1f8df",
@@ -142,7 +154,11 @@
     "candidate_answer": "<nav>",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.498Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4261c373b083d7f340dd3d0d550b69d3f3728f4397aecc032932fd197ece12e9",
@@ -161,7 +177,11 @@
     "candidate_answer": "Media Query",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.448Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.504Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1ba3ad582793da86a32ef7b1029e0d8390baeb87cce85a679f2227f0d7f973f4",
@@ -180,7 +200,11 @@
     "candidate_answer": "Flexbox",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.510Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0b68d5b0dc476a0e336182fcd6a7c8ccb301988ba52f51e224f3e9dbd93e60ad",
@@ -199,6 +223,10 @@
     "candidate_answer": "React 與 Vue",
     "source": "ai_unverified",
     "created_at": "2026-09-22T14:57:10.452Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.517Z",
+    "verification_status": "insufficient_sources"
   }
 ]

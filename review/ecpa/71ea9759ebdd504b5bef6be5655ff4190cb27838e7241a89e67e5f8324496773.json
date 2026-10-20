@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.240Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T14:19:41.929Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.726Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.244Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T14:19:46.790Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.733Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -61,9 +61,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.245Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T14:19:51.519Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.739Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -129,7 +129,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.246Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.746Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "25d00e1cb20370d1e4d2f38026957e92dae2990a316a80625d0e6ad8a501a631",
@@ -146,7 +150,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.247Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.754Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4fc6b0539823d885bb1c1d6be04a2e4a9858d8f718f5c6847759aeb5707a1fc0",
@@ -213,7 +221,11 @@
     "candidate_answer": "房地產市場與醫美趨勢預測",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.761Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2fcf015c2d47316e1c091988a0682020cb3389be0aba276d6e4f20dcb561f46f",
@@ -232,7 +244,11 @@
     "candidate_answer": "AI 24 小時抓取患者的生命徵象",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.250Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.769Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f70eafa5093c3bc1f9f9b478465f27ed1a4365ae822f822a870be8bf2258be4e",
@@ -251,7 +267,11 @@
     "candidate_answer": "跨平台數據與智能註記",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.251Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.777Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "21046e95217e4c7f0a81fb33e3f021828b9f7bbb2d8465710c6dc07de885fa04",
@@ -268,7 +288,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.585Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.784Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dc3ce3c3c3c7479bb6ca1c7e4ede93739dcd00c26a7b1c8405c3621d44b70dbc",
@@ -287,7 +311,11 @@
     "candidate_answer": "手機視訊通話畫面",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.587Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.791Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "46a24a1ce1c3591c8c7a8975c23305705280e521f2538ebd379250396961f8b1",
@@ -306,7 +334,11 @@
     "candidate_answer": "AI 內視鏡影像技術",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.588Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.798Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "68ed5a2a70d0d75f219211f9d1ad40c401f2ccd4065b6b747bbcc982ce6303e9",
@@ -323,7 +355,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.589Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.805Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fc8da8f5664b632cdbe32641ac824dace0cfb3e549d009bb689700905f3712b6",
@@ -340,7 +376,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.590Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.813Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9583f9814904696a01285378830b51f149f2b23c8af806302c0c3c4b5003a15f",
@@ -357,7 +397,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:01:38.591Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.819Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "923ce35ca58c8cfdc99b834e4758e997c64deee85bde276d0e52bd6caf4dd2a2",
@@ -468,6 +512,10 @@
     "candidate_answer": "負責診斷的專業醫師",
     "source": "ai_unverified",
     "created_at": "2026-09-30T06:24:22.731Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.826Z",
+    "verification_status": "insufficient_sources"
   }
 ]

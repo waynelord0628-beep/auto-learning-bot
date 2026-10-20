@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.958Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T15:20:31.737Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.449Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.961Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T15:20:51.174Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.455Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.963Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T15:21:18.229Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.462Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,8 +81,8 @@
     "created_at": "2026-09-16T08:14:33.966Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T02:19:51.771Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.442Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -150,8 +150,8 @@
     "created_at": "2026-09-16T08:14:33.969Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T02:20:09.334Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.468Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -171,7 +171,11 @@
     "candidate_answer": "以上皆對",
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.970Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.474Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0ef95a1525c36fa16c45b9836c98be7d1dceed8bc3c06fa54f47249c11a702bb",
@@ -236,7 +240,11 @@
     "candidate_answer": "5人-15人",
     "source": "ai_unverified",
     "created_at": "2026-09-16T08:14:33.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.480Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "16e95ba534b2eeccb2e6c9cf2f03401e084093b5eea83d31223a55bb086597c5",

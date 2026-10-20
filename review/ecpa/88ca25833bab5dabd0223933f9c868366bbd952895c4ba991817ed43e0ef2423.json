@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.369Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T01:20:02.105Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.107Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.371Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T01:20:09.882Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.114Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -62,8 +62,8 @@
     "created_at": "2026-09-20T10:10:55.372Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T10:20:09.921Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.121Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,7 +81,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.373Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.127Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9ff5296cd2711864de12f37427a4950bd479b91485ea4dfe282e35a2b2507fb1",
@@ -98,7 +102,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.374Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.133Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "38d9e74484c4bf4f055daab4e71351b1d4f798f865e4541e70e77d26db82f4af",
@@ -117,7 +125,11 @@
     "candidate_answer": "閱讀這份報告的「目標對象」是誰",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.375Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.139Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ec74993164ac3d535f5ac2d4ba0b2895b92a588d48fa48c90e38cf1e02aec709",
@@ -136,7 +148,11 @@
     "candidate_answer": "Google 雲端硬碟",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.375Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.146Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bf74b3b75655e1693632aa60c0fa1a89b9431003dac7089a773e27fa910707c0",
@@ -153,7 +169,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.376Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.152Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "517a3e60eb35445eeb6e62221b677c33aec4f73c5cb4f114ede1b8db7bd79802",
@@ -170,7 +190,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.377Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.159Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4cf2c1c57a059c09197ac16ac5e1422a65bad1946cabdb69722e483017a547bc",
@@ -189,6 +213,10 @@
     "candidate_answer": "必須登入具備付費權限（如 Pro 或工作區進階版）的 Google 帳號",
     "source": "ai_unverified",
     "created_at": "2026-09-20T10:10:55.378Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.165Z",
+    "verification_status": "insufficient_sources"
   }
 ]

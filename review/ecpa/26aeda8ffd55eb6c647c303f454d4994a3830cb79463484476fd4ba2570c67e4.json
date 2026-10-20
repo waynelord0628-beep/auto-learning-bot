@@ -16,8 +16,8 @@
     "created_at": "2026-10-03T14:05:58.123Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T08:20:11.598Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.356Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -35,7 +35,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.130Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.362Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bb01946b93cbcf859f500739cb05946303f0e7cd4a34cf13ccc56a5b11fcad5f",
@@ -132,7 +136,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.133Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.369Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "385be5f7880369dede6cea9e3d9071ec3bfcd1f58a32ddd12cb9b9bf40debf2f",
@@ -152,7 +160,11 @@
     "candidate_answer": "CI/CD建構服務中並不包含單元測試與壓力測試",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.135Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.375Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6ebba03744fae8ee719dd8d7c2d22ab2943c5fa18655ae910de41a46976d92f6",
@@ -169,7 +181,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.137Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.382Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "92f31073387b570d106c98c49b8b9de309883eb5d1b6e8780917d32d1b752c00",
@@ -186,7 +202,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.138Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.388Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2661555ad89cc137418b187f04b872a1e2dc8934ac363464c57c02e7efb010ec",
@@ -243,6 +263,10 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.139Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.395Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -176,7 +176,11 @@
     "candidate_answer": "水生植物",
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.486Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.837Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e8fc702725b02132fce6bf83cf601167e7466e9150a35d4ae72d5df2f338da68",

@@ -16,9 +16,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:24:35.048Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T09:20:38.964Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.013Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -37,9 +37,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:24:35.050Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T09:20:57.776Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.019Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,8 +59,8 @@
     "created_at": "2026-09-16T06:24:35.051Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T09:19:56.315Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.025Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -80,8 +80,8 @@
     "created_at": "2026-09-16T06:24:35.052Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T09:20:02.506Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.032Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -99,7 +99,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:24:35.052Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.039Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "da1282c0e37b7966c323890e3fcce2f7ea5128c78792c40283049c9a577aa21c",
@@ -117,7 +121,11 @@
     "candidate_answer": "建立「相信」與陪伴成長",
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:25:28.465Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.047Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "07f8d28bd1b4411621def51b38e0cc53e05aeb549b7926e63bf4c3010bab6891",
@@ -135,7 +143,11 @@
     "candidate_answer": "教練對孩子的評價與語氣，最終會內化成孩子對自我價值的認知",
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:25:28.467Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.053Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e38546652c01ce5c652a86241da035f6f89d219346adc33da8566fabf6510bcb",
@@ -153,7 +165,11 @@
     "candidate_answer": "讓孩子開始「相信自己」",
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:26:22.586Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.060Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "547bda13e86b25665eb6ad8e862731d8da95eb9e299e9ba11b965f4eccfd7835",
@@ -171,6 +187,10 @@
     "candidate_answer": "先停頓並思考：「我現在真正想教會孩子的是什麼？」",
     "source": "ai_unverified",
     "created_at": "2026-09-16T06:26:22.587Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.066Z",
+    "verification_status": "insufficient_sources"
   }
 ]

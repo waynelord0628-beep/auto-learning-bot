@@ -18,8 +18,8 @@
     "created_at": "2026-10-06T02:54:22.569Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T14:19:46.255Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.649Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-10-06T02:54:22.572Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T14:19:53.735Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.656Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -62,8 +62,8 @@
     "created_at": "2026-10-06T02:54:22.574Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T14:20:00.595Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.663Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,7 +81,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.575Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.671Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b15e5cdeca055ab6c62b2bb83e6e2d361f438e8fffc8905aedaa98cbe4217575",
@@ -98,7 +102,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.576Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.677Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "593993a6629cb952f4a25dc7bd9b78855e6e9034df02bd72581640e15071478b",
@@ -115,7 +123,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.578Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.683Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "838bf4df6e7e3dcb35ca83bd3d1b0d9f6260c9a16452824beec5c9cc37781ccb",
@@ -134,7 +146,11 @@
     "candidate_answer": "減少每次重新尋找、複製及輸入提示詞的時間",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.579Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.690Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7578b8a21d75cc30ca419ece26f105dc1cb1d1e5ad90de7cbcab5d4790eec145",
@@ -151,7 +167,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.580Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.696Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d948301aedddac86059e1b11681a0bcc1fecaa0361ad4db8f98fdbb2bdf49804",
@@ -170,7 +190,11 @@
     "candidate_answer": "使用 Gem 重新撰寫指令",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.581Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.703Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0a12c4726a631b5d3708b2fd7734a5e409d6d0ae1e2b513deb5dce26b91cb304",
@@ -189,7 +213,11 @@
     "candidate_answer": "將工作目標、規則及需要的格式等條件說明清楚",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.583Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.709Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c29bafbc8d4cc53cadd25d819dc2da3eb2620ed59d9d8924f7b47e59f76fdcc7",
@@ -206,7 +234,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:55:11.172Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.716Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "60419d3e2ce3bb53e6a5a3dca83a9d595fad893506bab9c480cc7d456cc91caf",
@@ -225,6 +257,10 @@
     "candidate_answer": "提供適當的原始資料，由 Gem 協助轉換成公文草稿，再進行檢視與優化",
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:55:11.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.722Z",
+    "verification_status": "insufficient_sources"
   }
 ]

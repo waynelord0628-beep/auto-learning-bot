@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.844Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T08:19:45.989Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.789Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.846Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T08:19:51.718Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.795Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -57,9 +57,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.847Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T08:19:57.800Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.802Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -77,7 +77,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.847Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.809Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ebd2aeb2603bda9cbb7d5678f2817e50b3dbf8b83d54231fc92833d7dd8f4e76",
@@ -94,7 +98,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.848Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.816Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3d7d2e0e3672c0d6bec65c196ad9d1fb504d877f468be53619c6a55363d5b91c",
@@ -111,7 +119,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.848Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.822Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "552a58d3bb73f9d004b01b1a5e77f03fd67cc7a6baf316e045d5aab590e67c91",
@@ -130,7 +142,11 @@
     "candidate_answer": "不斷問「為什麼」",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.849Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.829Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5c08896b2007e0dfeb68b451fdc28a6d3006f6c4bc918c74cfa6d8b58a8669b5",
@@ -149,7 +165,11 @@
     "candidate_answer": "跨部門協調與導入全新工作方法帶來的溝通挑戰",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.849Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.835Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "38f58728b72256840d5065d2ee383dc2f105941e3f07e67bc9b6e6b64bc5da58",
@@ -168,7 +188,11 @@
     "candidate_answer": "釋放重複性勞動的人力，讓同仁專注於高階決策或管理工作",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.850Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.841Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "06814c0d68cdfa537c26e67a0ed4f5bf470d2f707967e53ec192de6aed24036a",
@@ -187,6 +211,10 @@
     "candidate_answer": "同仁的學歷背景",
     "source": "ai_unverified",
     "created_at": "2026-09-30T08:44:30.850Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.848Z",
+    "verification_status": "insufficient_sources"
   }
 ]

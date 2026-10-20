@@ -65,9 +65,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.469Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T00:20:05.163Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.573Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -88,9 +88,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.483Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T00:20:15.829Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.579Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,7 +110,11 @@
     "candidate_answer": "應依法予以解聘、免職或終止契約關係",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.489Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.586Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b93f53ccf1aa08c63507dccc97a78dac763a76e1405e81c63f81962f392749d4",
@@ -129,7 +133,11 @@
     "candidate_answer": "未滿 14 歲",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.491Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.593Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dc259a491f2d18854daef39b5cabd64fdedc7b5faf4745c0dcd81809b6662dc7",
@@ -148,7 +156,11 @@
     "candidate_answer": "24 小時內",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.505Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.599Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ddc1fc29a54b4a08eab833fbc82ee23c26debbbc86535cfe3be6d97f0b56c9c8",
@@ -167,7 +179,11 @@
     "candidate_answer": "絕對禁止與未成年學生發展親密關係",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.512Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.606Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1f80861dbaf1425f2b11e353ea89131b2c552fbf55f497afe947e0b769816339",
@@ -186,7 +202,11 @@
     "candidate_answer": "未經同意拍攝同學的裙底風光",
     "source": "ai_unverified",
     "created_at": "2026-09-18T14:18:18.525Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.612Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7c83a793bcc589a2acd1c62248fe847ed42202f404562e84c256e9ed306f6eb1",

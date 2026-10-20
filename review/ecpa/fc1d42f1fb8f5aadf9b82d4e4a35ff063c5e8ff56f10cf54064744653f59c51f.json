@@ -75,8 +75,8 @@
     "created_at": "2026-09-25T05:04:10.015Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T06:19:51.339Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.892Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -94,7 +94,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.016Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.899Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5b4741c06e5a3289ff1021e14f3467f8bcae0d9be74143b97b40f28101d4f53e",
@@ -113,7 +117,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.018Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.905Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bce062a0b7b76a53bec35f38c4c5b8751251b416581e9c181396ac76ec227060",
@@ -132,7 +140,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.020Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.912Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2189a5d2ec31c670b19c826fb8e4c3cd3327c6b1bf10147df0c34c37cdfcd89a",
@@ -149,7 +161,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.022Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.919Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "66491e5e37aa67d366d376b86c4edbae627222c24d3542a7a86376245094b10f",
@@ -168,7 +184,11 @@
     "candidate_answer": "以上皆非",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.025Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.926Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "81244e307b613b8951f5f76bea864003d212535471da299e424fa236374bf1ec",
@@ -185,7 +205,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.026Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.932Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "63b7f9beddc43f11bf0c136c267b736a5314392cc61ae5e023fe63eee1a19a93",
@@ -202,7 +226,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.026Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.939Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "891eda5ad95d70a5944bbbee03fa0cc505f6f3601928cc39613a4d0e36e566d1",
@@ -221,7 +249,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.277Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.946Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4a4599499a119ec66b93fdb111ad4eb5435001260274346734a257b4331be491",
@@ -238,7 +270,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.280Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.954Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d0261854ec1e1c434f159be74d42fe943aabf043209b68f890c1a93ac496d295",
@@ -257,7 +293,11 @@
     "candidate_answer": "沒有溫室效應造成暖化，地球就會更永續",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.281Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.961Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "02e9cd13675340926ac035a23adc10627963e82fda9b22cacda8d024fcdf7469",
@@ -274,7 +314,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.281Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.969Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3234e1b35811fd186f6f3ddb9a10b1b7af639c24d23ed771441600c178ee8cd3",
@@ -293,7 +337,11 @@
     "candidate_answer": "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.283Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.977Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "605d8cc4d26fe37d783635a5cd658d9992f9e67b4b2bd37770f770f639e231bb",
@@ -312,7 +360,11 @@
     "candidate_answer": "綠氫",
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.985Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "665b4643829f2340f79c1a09d085c542c04a8b7fd6a6b633bc391f76eeacb46e",
@@ -346,7 +398,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:30:53.111Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.992Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e83fb2d592096fca36acf5aebf4728d9a2e6736bb035a194baa4bfedd9ab1a9f",
@@ -365,7 +421,11 @@
     "candidate_answer": "發展再生能源",
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:30:53.115Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.999Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c1693d23aa0fc3a4f7878b72b30f09acfe56eaefbe1a7892752bafc9f071ca18",
@@ -382,6 +442,10 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:31:32.413Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.006Z",
+    "verification_status": "insufficient_sources"
   }
 ]

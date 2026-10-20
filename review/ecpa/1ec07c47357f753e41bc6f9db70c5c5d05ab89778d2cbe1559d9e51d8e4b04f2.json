@@ -18,8 +18,8 @@
     "created_at": "2026-10-01T03:44:05.596Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T03:19:47.013Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.947Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-10-01T03:44:05.597Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T03:19:53.557Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.953Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -62,8 +62,8 @@
     "created_at": "2026-10-01T03:44:05.597Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T03:20:00.295Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.960Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,7 +83,11 @@
     "candidate_answer": "夢時代購物商圈",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.598Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.966Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a869b54700b5f305c1ef0be5610b7909c57b92bbea2cd2b53b0504fd44208beb",
@@ -102,7 +106,11 @@
     "candidate_answer": "點雲技術（Point Cloud）",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.598Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.972Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d74832e8af1586ebde928efbc4af36b752588883f629e4a8e3ebfd50f8d2cc4a",
@@ -121,7 +129,11 @@
     "candidate_answer": "人船分流、安全隔離",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.599Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.979Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "54cc73fefde2cc654b97aaa020c6565f04f4f7b24af2c41e7f0f36da2b97c674",
@@ -140,7 +152,11 @@
     "candidate_answer": "捷運紅線草衙站",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.599Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.985Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "01f0feb3ff49bc4cc8d9e5fcb39f1deecacd62af49bba530b7b7090d4b155255",
@@ -178,7 +194,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.600Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.992Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ebfc539da3c9558d7c613497239c52033d65ca6962df61d52a894aec4157135d",
@@ -197,7 +217,11 @@
     "candidate_answer": "民國102年第二次通盤檢討",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:05.600Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.999Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e044b6a4159abaaa0f9633492d4151098e3ae3dd830926fd0a7eb238283bc918",
@@ -214,7 +238,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:51.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.006Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f2259b4898e5a3a0a31bbb4f4346b61654c76cc80297922df0d9a6f54abcd656",
@@ -231,7 +259,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:51.962Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.014Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9ac719f40a06b3b7acf6606a3205f2dcda651e86424ef5743c2598fa297278a4",
@@ -248,7 +280,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:51.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.021Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a08f5ed7efe2a59a2db7843201bc48348079f9c16616d2d969b5a924c12fd71f",
@@ -267,7 +303,11 @@
     "candidate_answer": "1960年代高雄加工出口區的設立",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:44:51.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.027Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "63bc9c32b090278e145119e9f512be2933c62fc46cbf35345b6ef91ba1bd0c01",
@@ -286,7 +326,11 @@
     "candidate_answer": "佛公",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:45:37.708Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.034Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "abe10a79cffeaff78d78039a57f32eb2fb5eada4662f30c584cee9fd76b4f45c",
@@ -303,7 +347,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:45:37.709Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.041Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c033a7d6937036e84f15ea79b77c4a0f27a7b97be91f678cd4c323405c6a337f",
@@ -320,6 +368,10 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:45:37.710Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.048Z",
+    "verification_status": "insufficient_sources"
   }
 ]

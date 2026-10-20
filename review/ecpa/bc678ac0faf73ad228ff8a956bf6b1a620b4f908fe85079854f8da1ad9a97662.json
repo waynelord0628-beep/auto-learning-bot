@@ -456,7 +456,11 @@
     "candidate_answer": "Moreover",
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.957Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:10.883Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d2d9a660d65681df1daa063c0471a57171f20db35a9e1049d3303c43dd52a053",

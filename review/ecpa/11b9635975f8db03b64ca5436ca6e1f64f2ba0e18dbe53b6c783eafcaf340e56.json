@@ -296,7 +296,11 @@
     "candidate_answer": "發現鈣鈦礦太陽能發電應用的科學家為波蘭人",
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:00:09.276Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:09.261Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6479e19685f6b547f06afb1836befe293dae19b92f6ae09b6b62a524ce8ebbd7",

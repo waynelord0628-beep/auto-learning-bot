@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.603Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T12:19:46.520Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.259Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.606Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T12:19:55.490Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.265Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.607Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T12:20:02.084Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.271Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -87,8 +87,8 @@
     "created_at": "2026-09-14T17:18:31.608Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T06:19:57.803Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.278Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -108,7 +108,11 @@
     "candidate_answer": "強化科研成果應用，支持產業創新",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.611Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.285Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5bb04c1286ef29f42f53f05b3ec5791176fecb43329d7e5c785d1909a320e011",
@@ -127,7 +131,11 @@
     "candidate_answer": "72處",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.291Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b0243ccd875cda5b714f96e8a866350d5704f1472e979ea5bc61f9502988b41d",
@@ -146,7 +154,11 @@
     "candidate_answer": "以上皆非",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.616Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.298Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5313cbe9e89ae653cded96b7dc915316d5b65fc6ac03249a4d071c467346dd4b",
@@ -165,7 +177,11 @@
     "candidate_answer": "200海里",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.620Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.304Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d2be3ab580a6b82bdec245c0eb35b14f8f6ec14a36a41b0959fdf1d5e8366d71",
@@ -184,7 +200,11 @@
     "candidate_answer": "2份",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.622Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.310Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "feaafe5271db9923f5e2dfc0b8afa6efe5eb336a1ab14734ef7765f123316b86",
@@ -203,7 +223,11 @@
     "candidate_answer": "探索外太空與海洋污染",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.318Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "066f27359755a985b51e75d8805c524a867cc273c64d3fe08a8af53564164a9a",
@@ -222,7 +246,11 @@
     "candidate_answer": "船舶登記國籍",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:19:06.190Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.324Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b001735749f7aeaaa5c48f8ed419ded77adf91ae78d130a9b073743ecc12b1e8",
@@ -241,7 +269,11 @@
     "candidate_answer": "以上皆正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:19:06.192Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.330Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "01ebf9b024952f4b2d1048235999cee32ba0de38c58b0957dc7aee0307b41afe",
@@ -262,7 +294,11 @@
     "created_at": "2026-09-15T18:45:31.685Z",
     "review_state": "candidate_ready",
     "retry_count": 2,
-    "retry_after": "2026-09-18T18:19:49.444Z"
+    "retry_after": "2026-09-18T18:19:49.444Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.337Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "27e9c6f598895697fbbbb75d4306f5477da14e27e8bb7d2e6d1da3f4ae011477",
@@ -283,7 +319,11 @@
     "created_at": "2026-09-15T18:45:31.688Z",
     "review_state": "candidate_ready",
     "retry_count": 2,
-    "retry_after": "2026-09-18T18:19:49.444Z"
+    "retry_after": "2026-09-18T18:19:49.444Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.343Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f37e5f8119f1512c44dd983f81084bef1deaeb008a50aa0bb4a626fa0f5308c6",
@@ -302,6 +342,10 @@
     "candidate_answer": "不超過12海里",
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:46:06.648Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.349Z",
+    "verification_status": "insufficient_sources"
   }
 ]

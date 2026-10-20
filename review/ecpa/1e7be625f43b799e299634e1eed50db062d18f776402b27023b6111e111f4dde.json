@@ -368,6 +368,10 @@
     "candidate_answer": "沒有規範包裝的材料的使用限制",
     "source": "ai_unverified",
     "created_at": "2026-10-06T12:34:52.228Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:09.421Z",
+    "verification_status": "insufficient_sources"
   }
 ]

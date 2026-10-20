@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.923Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T11:19:55.455Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.620Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.925Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T11:20:09.656Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.626Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.927Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T11:20:28.172Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.633Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -87,8 +87,8 @@
     "created_at": "2026-09-16T04:35:26.927Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T15:20:16.053Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.639Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -108,7 +108,11 @@
     "candidate_answer": "性霸凌",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.930Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.646Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9b3b46fff6b33293fffe19c860682aac2afc45e2226daf73f0e90cd880252914",
@@ -127,7 +131,11 @@
     "candidate_answer": "24小時",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.653Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f92bd0916a6a44258d354abf1e17b0c7f2ed14c039b35a5ef4fed4efe26cbb88",
@@ -146,7 +154,11 @@
     "candidate_answer": "成功的女性仍被期待以家庭角色為主",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.324Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.660Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1572f7aed71810701a8bf09f4e47f9469f6002e9e25a5402d4b62437d066a1d6",
@@ -165,7 +177,11 @@
     "candidate_answer": "每個人都有權決定是否被觸碰",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.325Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.667Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9ddafd7f670361903e089161c664f9be94454fd0f515eac66cd0a7fa14340418",
@@ -184,6 +200,10 @@
     "candidate_answer": "性騷擾",
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:37:00.804Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.673Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -97,7 +97,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-19T09:19:39.597Z"
+    "retry_after": "2026-10-19T09:19:39.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.774Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5a4ae6567ee81a43495ea8a5cb34c32156320a526f36049e3cb35588397b42a3",
@@ -203,7 +207,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-19T09:19:39.597Z"
+    "retry_after": "2026-10-19T09:19:39.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.781Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ad73588e555abd84f489ac13c297d037a32096ee97611b07afb2b93037aa6204",

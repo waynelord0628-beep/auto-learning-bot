@@ -57,9 +57,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T12:12:38.689Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T10:20:00.562Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.699Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -78,9 +78,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-24T03:00:58.315Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T10:20:10.924Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.708Z",
     "verification_status": "insufficient_sources"
   }
 ]

@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.177Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-10T03:19:45.473Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.830Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.180Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-10T03:19:52.478Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.837Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.181Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-10T03:20:03.040Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.844Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -124,9 +124,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.185Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T08:19:54.159Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.851Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -285,6 +285,10 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.858Z",
+    "verification_status": "insufficient_sources"
   }
 ]

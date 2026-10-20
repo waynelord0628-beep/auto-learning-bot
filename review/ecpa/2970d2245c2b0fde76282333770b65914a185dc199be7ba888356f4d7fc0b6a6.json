@@ -574,7 +574,11 @@
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.375Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:09.530Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3518a1d767c5136052b569b1f8de9ced02b6bde5f241b35d334bdf48818f00ce",

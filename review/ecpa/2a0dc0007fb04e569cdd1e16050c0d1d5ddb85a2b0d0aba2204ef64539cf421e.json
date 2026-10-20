@@ -18,8 +18,8 @@
     "created_at": "2026-09-29T05:16:05.389Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T12:19:58.907Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.424Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-09-29T05:16:05.393Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T12:20:13.019Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.432Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-09-29T05:16:05.394Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T12:20:25.867Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.438Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "不得上傳含有個資或機敏資訊的資料至 AI 工具",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.394Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.445Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b5655c7cea935bf9ed22b34342f33206dab097c651f98bc7998923ecbb58ea56",
@@ -104,7 +108,11 @@
     "candidate_answer": "避免上傳包含機敏資料的任何內容到 AI 平台",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.395Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.451Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d8d731a55a7d3b8e626ed9f4fce697e2c028872984ad30e808e29f2bf6574e52",
@@ -123,7 +131,11 @@
     "candidate_answer": "Google AI Studio",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.396Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.458Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "08ca5d19b92cc0211c056138cd2acf1928297bec25b24efb1c2d025b3305eed1",
@@ -142,7 +154,11 @@
     "candidate_answer": "資料控管",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:16:05.398Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.464Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1c0dfa8051f07b13323cc479a9ba16849b4ba6438a469c3fd403076d7f3ae324",
@@ -220,6 +236,10 @@
     "candidate_answer": "Liner AI",
     "source": "ai_unverified",
     "created_at": "2026-09-29T05:17:19.889Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.471Z",
+    "verification_status": "insufficient_sources"
   }
 ]

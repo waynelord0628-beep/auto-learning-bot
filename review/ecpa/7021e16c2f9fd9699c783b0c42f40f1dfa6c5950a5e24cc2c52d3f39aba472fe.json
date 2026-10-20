@@ -18,8 +18,8 @@
     "created_at": "2026-10-03T03:17:47.656Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T12:19:45.251Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.006Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-10-03T03:17:47.659Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T12:19:51.409Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.013Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,7 +110,11 @@
     "candidate_answer": "區塊鏈",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.662Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.019Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5c4df4a0157ba9ad931a6a99a7911561df9a88fa23ea4d2dccad5fff491cf4af",
@@ -129,7 +133,11 @@
     "candidate_answer": "用戶隱私",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.663Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.026Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "85842ecb16a4d64d637af44a6d877e0fd867024dfd907240875b6632893368ad",
@@ -187,7 +195,11 @@
     "candidate_answer": "可透過智慧合約進行交易",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.664Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.032Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a062be88eb3ec7a0533996a88965f0fc5ee1bd7dbb426bdafa67b0347c206d8a",
@@ -206,7 +218,11 @@
     "candidate_answer": "NFT和ETH、BTC是相同性質的代幣",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.665Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.039Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "92d0c829d0af68a7da7b2ee59fe106ea199b6288d1fc7f19491f1e8079d74cc8",
@@ -225,7 +241,11 @@
     "candidate_answer": "由中心化交易所進行資金的轉移",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.665Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.046Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2f7377db1bdd22659348f033ec9c7b44ac262a15ab7b28896170e71442d4f9c5",
@@ -244,6 +264,10 @@
     "candidate_answer": "可任意交換",
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.666Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.053Z",
+    "verification_status": "insufficient_sources"
   }
 ]

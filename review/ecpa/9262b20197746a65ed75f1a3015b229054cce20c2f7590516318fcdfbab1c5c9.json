@@ -16,8 +16,8 @@
     "created_at": "2026-09-29T18:09:51.860Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T08:19:47.633Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.575Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -37,8 +37,8 @@
     "created_at": "2026-09-29T18:09:51.861Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T08:19:56.112Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.582Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -58,8 +58,8 @@
     "created_at": "2026-09-29T18:09:51.862Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T08:20:02.799Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.588Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -77,7 +77,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.862Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.595Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1d7d96627be11de265c3de727410b938e3e28cbb6245c11dd02a3ccc4e36aedc",
@@ -94,7 +98,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.863Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.602Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1b57d6da86f17533f5c21c9a0b1bd79476c48ec743edbdc898e335e895cf1fc7",
@@ -111,7 +119,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.864Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.608Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "06e899c174222bdadbdce2dd6db7b1f741413db68dfc16804089d79288dda386",
@@ -128,7 +140,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.865Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.615Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6d1ffab1b8d57cb7d6b2a6d2eca2e46ea57414574ce2a0d6e9dd10d32999c1cd",
@@ -145,7 +161,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.865Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.621Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e5e2b60cca47af869f14eb13a4db9af06ed324a8aec3e32aa3eb0774a435c7ee",
@@ -162,7 +182,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.866Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.628Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f7d8e66692debe35b098e93bb26400c33d17a2b31c088ffb2ef2f05244ff604a",
@@ -179,7 +203,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.866Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.634Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "36ad2b1bdbbc61a5238d28084ed26730f7517946d9d4056bee1487816e758f17",
@@ -198,7 +226,11 @@
     "candidate_answer": "觸覺",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.867Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.641Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fd6035aa8d8c8413d1e422eb1a0038a4cd6a1d28be050d6a13bcaa1ddab0efdd",
@@ -217,7 +249,11 @@
     "candidate_answer": "增加考試成績",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.867Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.647Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "89d620e437bd0fdab9a1377f90a8bd8baa2082e89c267b4310792a0164a0d088",
@@ -236,7 +272,11 @@
     "candidate_answer": "徵詢孩子同意",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.869Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.653Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1066039f96e1feb7a326cdae783d329bbc31b1b554e3e30e3839ed59702ee631",
@@ -255,7 +295,11 @@
     "candidate_answer": "安靜清醒時間",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.869Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.661Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "49bfdc626b532858257bc39665fd1b1fee6f5d40392da848583a847a4ac4addf",
@@ -274,7 +318,11 @@
     "candidate_answer": "與孩子互動同在",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.870Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.667Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c5d21aabc52e35b4416090110206dd7d0da161ed9539db4f72806f35402d8ca7",
@@ -293,7 +341,11 @@
     "candidate_answer": "優良且適合孩子的繪本",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.674Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4e4754e398368bc24c8f1992e7db868e1e509f721b028db7442016f420eac3f0",
@@ -312,7 +364,11 @@
     "candidate_answer": "強迫孩子坐滿30分鐘",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.680Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9425e5f42e998d9104f20179b1b65f5e19900b6dad7b93b2ea3b50c884ccc8cf",
@@ -331,7 +387,11 @@
     "candidate_answer": "邊讀邊糾正孩子行為",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.872Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.687Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ebfd129170122d476f74a6e152927d2780a3b776ffd780e3076427b0f0d868f1",
@@ -350,7 +410,11 @@
     "candidate_answer": "建構性遊戲",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.872Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.694Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1fd3ebece5c4cc14302dd716f8c43dcbc6bc0764dec37021b5cc957388a71c86",
@@ -369,7 +433,11 @@
     "candidate_answer": "規則遊戲",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.873Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.700Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "57d41131f4d580e0d7123e7ddcb7f8fca3caf3aa77e096a1589327b13b18736b",
@@ -388,7 +456,11 @@
     "candidate_answer": "父母主導",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.876Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.706Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8da09031bfc39826c15667ae3919e9c7774739b9a5c4fbd8963ca3dbcfc60a18",
@@ -407,7 +479,11 @@
     "candidate_answer": "跟隨孩子的共同遊戲者",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.877Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.713Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fc3f906b1bdff6e1620b1efbd4251e7f933ad5ac7cc2fbcb601f36787aa13c07",
@@ -426,7 +502,11 @@
     "candidate_answer": "讓我知道你想要我做什麼？",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.878Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.721Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4d7c9c8438d13defefe830aa682019e84afe18ed39eadb90a83d040cf024be77",
@@ -445,7 +525,11 @@
     "candidate_answer": "Acknowledge確認感受",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.728Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d03d3c7b3208411e02f8cb3886b6cff9dc3c12133dc092d2e143b876dbdb2eee",
@@ -464,6 +548,10 @@
     "candidate_answer": "你很努力完成這件事",
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.735Z",
+    "verification_status": "insufficient_sources"
   }
 ]

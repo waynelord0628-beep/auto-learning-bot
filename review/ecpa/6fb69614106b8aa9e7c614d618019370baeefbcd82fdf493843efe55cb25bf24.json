@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.634Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T11:19:43.307Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.793Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.637Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T11:19:48.549Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.800Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.637Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T11:19:53.996Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.806Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "割腕吞食安眠藥物仍是最多",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.638Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.813Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "96e69a36c39cdc09d2038487eea0bb668adf336109eb2850e2e58e1d0d2e0504",
@@ -104,7 +108,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.639Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.820Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6f0502883f634cd9a5fdc94ac30ae1206e50dba4fc3bb9dd2634144508044d72",
@@ -123,7 +131,11 @@
     "candidate_answer": "經濟困頓者。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.639Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.827Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "14058ac8f15f7909ef7d551ab081a8d52272174ceed1cc73b298a76449235991",
@@ -142,7 +154,11 @@
     "candidate_answer": "初級預防",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.640Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.833Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f9a9f1ad78e5ad33c790a1de8c89839c501660ae571b417f1ff94b5b149d2f19",
@@ -161,7 +177,11 @@
     "candidate_answer": "提供藥物治療建議。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.640Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.839Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b353cff8a2a072a0324e71476bb5ed7598ec8c135bec8d582128f418e7e183e7",
@@ -180,7 +200,11 @@
     "candidate_answer": "自殺企圖者一個月內再次自殺企圖者約一成",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.641Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.846Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "be438612042a7ed70882b8a306ad16e76dec3d9eb29ac54b97e48ea23556bb20",
@@ -222,7 +246,11 @@
     "candidate_answer": "自殺死亡者只有三成生前曾經被通報",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:56.146Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.852Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0bb10473402cef92a128623eef00954416eb46ca228c11f77accff93a5f27f6a",
@@ -241,7 +269,11 @@
     "candidate_answer": "如果危機中的人得到幫助，他們可能不會自殺。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:56.147Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.859Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d575026f58e047fba7246eacb744af11b024946a7d786584da531cbbe6b1d915",
@@ -260,7 +292,11 @@
     "candidate_answer": "導致自殺的因素是多種多樣且複雜的。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:56.148Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.865Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "76cc5c9c1652714e046ed3a583f21df334a2d7528fc867c4693c33310642d982",
@@ -279,7 +315,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:56.163Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.872Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d14bb0ccad02c0c7963024e9e7d4a73f763f5a9788bf9c70c33ae66bde44997c",
@@ -298,7 +338,11 @@
     "candidate_answer": "社群、家庭凝聚",
     "source": "ai_unverified",
     "created_at": "2026-09-23T03:00:44.485Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.878Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a5dccfebc252ee85066187a30ae3ec433f94c198f98c624920ae1c477c2fc171",
@@ -317,7 +361,11 @@
     "candidate_answer": "以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T03:00:44.486Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.884Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5bc2e02a2b748e9683b30629945888576446fb5b6d9d54c6b9824c47c353ec66",
@@ -336,7 +384,11 @@
     "candidate_answer": "家屬同意住院",
     "source": "ai_unverified",
     "created_at": "2026-09-23T03:00:44.487Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.891Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0661b0f246f5535c1e4b64672c0e60b12b6bf5958fcf2e74c71b2aa6dfa714af",

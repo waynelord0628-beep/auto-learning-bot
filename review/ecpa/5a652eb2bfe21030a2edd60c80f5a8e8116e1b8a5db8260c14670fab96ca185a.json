@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.416Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T04:20:41.037Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.204Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.417Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T04:21:01.246Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.211Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-09-18T13:42:10.417Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-04T08:19:49.105Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.218Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -87,8 +87,8 @@
     "created_at": "2026-09-18T13:42:10.418Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-04T08:19:54.007Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.225Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,8 +110,8 @@
     "created_at": "2026-09-18T13:42:10.419Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-04T08:19:59.192Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.232Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -131,7 +131,11 @@
     "candidate_answer": "找到讓自己產生情緒反應的可能原因",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.419Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.239Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8778b113df7f0d2bd0cd8b9e2065394d3a0035ec0e97a6f95b2d64ce65380a23",
@@ -150,7 +154,11 @@
     "candidate_answer": "親密與獨立",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.246Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f5aca6a28b48de35067d865c80597899cdcf771bdd7134bd5115fb33f7bd5380",
@@ -169,7 +177,11 @@
     "candidate_answer": "討好（Please）",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.253Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ba548dc9f89b9df2bb045a8aa73417636d80fdf3f8962973d4a41cedc2ad2453",
@@ -188,7 +200,11 @@
     "candidate_answer": "控制他人",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.420Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.259Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5b491967bb359e5e50fd398235abd47c7c8e88524ad5fc3a17582b3ba9d0763e",
@@ -207,7 +223,11 @@
     "candidate_answer": "深吸一口氣，離開調節情緒",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:10.421Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.265Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9eeb6a19532e67162420c5cd76ca2b7cb2b0f3d1ee2e47df69b8b50093bbb273",
@@ -262,6 +282,10 @@
     "candidate_answer": "我在你心裡到底重不重要",
     "source": "ai_unverified",
     "created_at": "2026-09-18T13:42:47.313Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.272Z",
+    "verification_status": "insufficient_sources"
   }
 ]

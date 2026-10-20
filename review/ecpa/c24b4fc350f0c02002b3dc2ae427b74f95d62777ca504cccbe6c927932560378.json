@@ -337,7 +337,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-10-17T08:19:45.391Z"
+    "retry_after": "2026-10-17T08:19:45.391Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:11.046Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "120c373e5282466598a655d643eb4a71f47f9fb86c4c7a8365a2998e86dc4370",

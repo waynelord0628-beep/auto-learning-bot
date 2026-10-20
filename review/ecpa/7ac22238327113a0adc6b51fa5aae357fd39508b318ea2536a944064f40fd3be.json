@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:46:12.811Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T07:20:04.743Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.714Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-09-13T16:46:12.814Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T07:19:46.253Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.720Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -62,8 +62,8 @@
     "created_at": "2026-09-13T16:46:12.815Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T07:19:53.234Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.727Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,8 +83,8 @@
     "created_at": "2026-09-13T16:46:12.815Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T07:20:03.290Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.734Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -102,7 +102,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:46:12.816Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.742Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3b2306b842e92c2bda218c46e3c17b0e83636381618f3948a7baf10c2c02ac61",
@@ -159,7 +163,11 @@
     "candidate_answer": "微生物污染或孳生",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:46:12.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.748Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "47dcc36f714cb41e0b40282fdfad6c9e2eb5231f567d9a93e850cd2b1d89bb61",
@@ -176,7 +184,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:46:12.818Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.755Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0dd4605ac0ee7746855f9a76e30f18fdaf0618ab6bb1ff509c30f61c4b308210",

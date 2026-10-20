@@ -18,8 +18,8 @@
     "created_at": "2026-10-01T03:09:18.029Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T07:20:02.308Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.403Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -42,8 +42,8 @@
     "created_at": "2026-10-01T03:09:18.035Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T07:20:14.593Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.410Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -66,8 +66,8 @@
     "created_at": "2026-10-01T03:09:18.036Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T07:20:26.487Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.416Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,7 +110,11 @@
     "candidate_answer": "促進轉型正義條例",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.423Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c80e8b46086014d9d3245045979cce43ae2236bd36bc5db4e1a4d7b221fb60c6",
@@ -150,7 +154,11 @@
     "candidate_answer": "解散萬年國會",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.040Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.429Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e345ff21c5d9b0c703d160e185c52052a55a1840f63a65b2576cd7e4d7da844e",
@@ -190,7 +198,11 @@
     "candidate_answer": "臺灣警備總司令部",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.436Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "74f6d3959e0330fb66d67580252e87b6ea7f9d37992c445787373968a267f6e3",
@@ -210,7 +222,11 @@
     "candidate_answer": "俞國華",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.042Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.443Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fb0761d1ce3e551e02f85b09f0774c5db51f9979e14dcdf29681eb829ac8577c",
@@ -229,7 +245,11 @@
     "candidate_answer": "雷震案",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.450Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c2ac698187b727893b431fc3d945f8b8eea362396bdb9c411a73fd19618f1cfc",
@@ -341,7 +361,11 @@
     "candidate_answer": "西班牙",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.569Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.456Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1ac628c3e1a7b30fe2e1395a0f6bae92f8b20edcbc5904012bc69e500c9d9168",
@@ -361,7 +385,11 @@
     "candidate_answer": "高玉樹",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:04.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.462Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5d6f87d718fdd457d44596934618b345e5374df3088143b8cd62bd73ee870265",
@@ -383,7 +411,11 @@
     "created_at": "2026-10-01T03:10:44.336Z",
     "review_state": "candidate_ready",
     "retry_count": 1,
-    "retry_after": "2026-10-03T03:19:38.514Z"
+    "retry_after": "2026-10-03T03:19:38.514Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.468Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "77ffe647f1c5a27f434fae7e1d1386ca59eda96c8b24bff12abe12e543df1c98",
@@ -402,7 +434,11 @@
     "candidate_answer": "李宗仁傳",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:44.337Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.475Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "269076b7703c7062d07767ea1c532d9fd7d20576d571c5ad2ecc70adc050f66c",
@@ -421,7 +457,11 @@
     "candidate_answer": "李煥",
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:10:44.338Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.481Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c1bee5f9c54e4351562d5e682cd61b556317c6bf93dd96232cc6325916c0602a",
@@ -440,6 +480,10 @@
     "candidate_answer": "黨國體制(Party-State regime)",
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:05:48.835Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.487Z",
+    "verification_status": "insufficient_sources"
   }
 ]

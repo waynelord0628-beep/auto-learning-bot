@@ -16,8 +16,8 @@
     "created_at": "2026-10-02T03:07:41.875Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T00:19:43.636Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.074Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-10-02T03:07:41.880Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T00:19:49.132Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.080Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -62,8 +62,8 @@
     "created_at": "2026-10-02T03:07:41.882Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T00:19:54.596Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.087Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,7 +83,11 @@
     "candidate_answer": "資產盤點",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.883Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.093Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2bbf7e4b6332f8033393b258cf05a8fa600fe63ee3577c649ee952861c688518",
@@ -102,7 +106,11 @@
     "candidate_answer": "3小時",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.884Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.100Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "85cbe43fe9471fbddb62c83cfc48f7107831a8b2efd76cd765a1c63ce8df0193",
@@ -119,7 +127,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.885Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.108Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8e42f7d1c91f0c215e5a94532fe59d0b60d998f1dfd21a059fda1bf51d15ad34",
@@ -136,7 +148,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.885Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.115Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "14bd2326a0b1ec20a940c562a8f354aea41c09a37aa5964251ca097d451e5330",
@@ -155,7 +171,11 @@
     "candidate_answer": "降低攻擊橫向移動風險",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.886Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.122Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "152e6a83b6c1cb841188683a9b15c2954be45eecbd668689e6a6b288cc5e0fc2",
@@ -172,7 +192,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:07:41.887Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.128Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "03527a063693bc10b099fba51cd02c96e85fe5a9a50e4d65cc47f0891f333f6f",
@@ -189,7 +213,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.939Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.135Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "96b792b1ee425b429933777a07a7b214eaa034921ffcb2286164397627f665aa",
@@ -208,7 +236,11 @@
     "candidate_answer": "ISO 14001環境管理系統",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.143Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "eaf6b0c122a935ce14dd377bd2c67369905f2dab6df3807ac2659fe1eeb44aa5",
@@ -227,7 +259,11 @@
     "candidate_answer": "已完全不需人工管理",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.149Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5788ae973021ce22fa7cc8d062efbd7cfdc3bf3a895fc3d772c03fa213d63af5",
@@ -246,7 +282,11 @@
     "candidate_answer": "了解OT重要資產、威脅及風險程度",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.941Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.156Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cd28f720ddc7e28f50f82116720e69e0f2484718447f890c92e532dc5c192253",
@@ -265,7 +305,11 @@
     "candidate_answer": "可接受多少時間範圍內的資料損失",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.941Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.163Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ff40c4b39ae9529f37b84157b59a5b0b9a52b6b720445e535195568b97eecfaa",
@@ -284,7 +328,11 @@
     "candidate_answer": "避免測試影響正式營運",
     "source": "ai_unverified",
     "created_at": "2026-10-02T03:09:36.942Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.170Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "801337c097dca1dd121ad0d671d5c81d86b0db3fc827c8c441331c0978f96d88",
@@ -303,7 +351,11 @@
     "candidate_answer": "能力度等級2",
     "source": "ai_unverified",
     "created_at": "2026-10-06T01:27:39.085Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.176Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "580803b6dc61cf9659de40f5baa45238931c45d9e2c547e92f20cfbbadc71a86",
@@ -341,7 +393,11 @@
     "candidate_answer": "整體OT資安治理做到的程度",
     "source": "ai_unverified",
     "created_at": "2026-10-06T01:27:39.089Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.183Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b2daf9b2252ae4c8c823218878793ed7029f1d01d01ea07488451aa369972efc",
@@ -360,6 +416,10 @@
     "candidate_answer": "服務水準協議(SLA)",
     "source": "ai_unverified",
     "created_at": "2026-10-06T01:28:34.306Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.189Z",
+    "verification_status": "insufficient_sources"
   }
 ]

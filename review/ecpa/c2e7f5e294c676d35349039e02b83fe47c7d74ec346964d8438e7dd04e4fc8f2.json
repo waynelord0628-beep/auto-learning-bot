@@ -18,8 +18,8 @@
     "created_at": "2026-10-12T13:58:29.507Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T13:19:50.312Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.544Z",
     "verification_status": "insufficient_sources",
     "retry_count": 2,
     "retry_after": "2026-10-21T07:19:42.517Z"
@@ -168,7 +168,11 @@
     "created_at": "2026-10-12T13:58:29.517Z",
     "review_state": "candidate_ready",
     "retry_count": 2,
-    "retry_after": "2026-10-21T07:19:42.517Z"
+    "retry_after": "2026-10-21T07:19:42.517Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.552Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8907c0a80517084ec14342d5166c1ee34249aa6da9f53ee6d83007a07d65afd5",

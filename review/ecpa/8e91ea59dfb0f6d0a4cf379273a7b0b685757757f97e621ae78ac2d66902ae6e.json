@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.865Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T07:19:47.786Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.241Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.868Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T07:19:55.884Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.247Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -61,9 +61,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.870Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-20T07:20:04.505Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.254Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,8 +85,8 @@
     "created_at": "2026-09-14T05:11:54.871Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T11:19:41.629Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.261Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -108,8 +108,8 @@
     "created_at": "2026-09-14T05:11:54.871Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T11:19:45.898Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.270Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -129,8 +129,8 @@
     "created_at": "2026-09-14T05:11:54.872Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T11:19:52.329Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.277Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -150,7 +150,11 @@
     "candidate_answer": "保持彈性並尊重每個人的獨特性",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.873Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.284Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f0297c35fef064381c3e2c3fc75ee52048f5db43000d980ca8e4993c2921eb90",
@@ -169,7 +173,11 @@
     "candidate_answer": "房東拒絕出租房屋給高齡者，業者拒絕聘用高齡者",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.877Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.292Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9c5c7c603eda7d5c32ddf66e0fb2d996547049dd0a1b90d008ed9afb38dae9dc",
@@ -188,7 +196,11 @@
     "candidate_answer": "對其他文化產生更多好奇，並開始嘗試跨文化互動。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.299Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "14ca0e08d2391c8e4e9b4804bacb0eb6adba646144fe7bb51cd8a84d6f453c87",
@@ -207,6 +219,10 @@
     "candidate_answer": "接受不同文化，不代表一定要喜歡、同意或認可其行為或價值。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T05:11:54.888Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.305Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.072Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T16:19:50.923Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.225Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-09-23T15:22:05.075Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T16:20:03.338Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.232Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -60,8 +60,8 @@
     "created_at": "2026-09-23T15:22:05.076Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T16:20:12.405Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.239Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -79,7 +79,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.076Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.245Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d80a46af2e54d55326d6639eb4c321069a50ac47f1f19180e0bf7b56d9c24a9b",
@@ -98,7 +102,11 @@
     "candidate_answer": "英文貼文不該只是中文直譯，需考量國外受眾的文化語境與平台閱讀節奏進行「轉譯」。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.251Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a12a56d7f3d8d8683586422b78424228a65f97797c01a4c1c07b6ffb207a9a5f",
@@ -117,7 +125,11 @@
     "candidate_answer": "為了增加互動，應該每天無預警推播 2 則以上的長篇純文字訊息。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.257Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "61c70762b330b43d6ce07dec73248aee74660833ebed971d481afaad6205b685",
@@ -134,7 +146,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.264Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a142ad7197f571e7f8bba4f3a1b1c56beb652dc320e845519ec42cfe12763a97",
@@ -151,7 +167,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.271Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "39660290c89cb1ef7b08160e40e17c2a1e85716d432f110573daeb202b5af0e7",
@@ -170,7 +190,11 @@
     "candidate_answer": "統整成一篇多圖貼文，或將其中一則改以限時動態發布。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T15:22:05.079Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.278Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dad92334ec014873842eaf8f52d53787321a9737d3c01a33256ff757caa6b86d",

@@ -368,7 +368,11 @@
     "candidate_answer": "sounds",
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:20.031Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:10.177Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8258d7d1fdc471b735f274cf788bac13c52a42cb19e62cc5059b7bf61e8908a7",

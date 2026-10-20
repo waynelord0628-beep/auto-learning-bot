@@ -164,7 +164,11 @@
     "candidate_answer": "男性占79.17%、女性占20.83%",
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:12:10.279Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:07.669Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2e07521bea91d5317eb97aa7748268c0dc43c367344c053ba4cfe6dc66ef6ce4",
@@ -264,7 +268,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-25T13:12:10.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:07.676Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4de2a895ce5802a943e42b6860401b3121272ac68b84a07b7199c9fcf36e9bed",

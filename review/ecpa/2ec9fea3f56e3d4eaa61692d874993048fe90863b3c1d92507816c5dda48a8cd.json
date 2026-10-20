@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.845Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T03:19:42.696Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.834Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -39,8 +39,8 @@
     "created_at": "2026-09-23T08:04:24.847Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T03:19:48.735Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.840Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,7 +83,11 @@
     "candidate_answer": "以一般學生常模為主，若申請安置集中式特教班須加填智能障礙學生常模。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.849Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.847Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5e50b9f4ee33947ec4b1e947dd0519cae50864f9792a4e9165ebc3cbe94c8946",
@@ -100,7 +104,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.849Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.853Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8930d9f83e7f84e815b297278e3526460508be3fcfbb230609bc06e1e439b74e",
@@ -119,7 +127,11 @@
     "candidate_answer": "115學年度9月智能障礙類/自閉症類/感官生理障礙類鑑定區間。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.850Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.859Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f0a346bc66837829b639485c18871bb485360fd5d4387f35f4db79c4f97d54fc",
@@ -138,7 +150,11 @@
     "candidate_answer": "115學年度為過渡期，116學年度鑑定送件一律使用魏氏五版。",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.851Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.866Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d9c859ec14635a2753c0b49b087bc39d949a4db6b111f29f61b913e16c80bbef",
@@ -155,7 +171,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.851Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.873Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "909063f1faec8780207a61af9274b38ae3cb6e0f6149cc28b9180c29da56ed27",
@@ -197,6 +217,10 @@
     "candidate_answer": "115學年度國三重新評估區間",
     "source": "ai_unverified",
     "created_at": "2026-09-23T08:04:24.853Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.879Z",
+    "verification_status": "insufficient_sources"
   }
 ]

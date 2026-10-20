@@ -18,8 +18,8 @@
     "created_at": "2026-10-03T01:55:33.911Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T15:19:51.276Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.321Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-10-03T01:55:33.916Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T15:19:59.035Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.328Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-10-03T01:55:33.918Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T15:20:10.398Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.334Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "TYe7HWaVqQb8XYM3MwToQgyqdbDQ8ZihCC",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.919Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.340Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ff30a5879c30e599afa909b5faa32e0335d19726ef30913c6680ccf26123f7bf",
@@ -104,7 +108,11 @@
     "candidate_answer": "小額代幣轉移釣魚攻擊也涉及大額代幣轉移",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.920Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.347Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "049bca99c9123248f8d92d43a162ec93dd3b5e6612577fc702371b8bc66a791c",
@@ -123,7 +131,11 @@
     "candidate_answer": "MistTrack",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.921Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.353Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "87ee3bace054d720bc81d85de092a86169a332b07a3d572a1393ddbb46fb5ee5",
@@ -142,7 +154,11 @@
     "candidate_answer": "多半是實體設備，使用時需自行連網",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.922Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.360Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "598b00279988827c79abe55b1239d686a3baf748af4979925e46bb9d4ac52aa6",
@@ -161,7 +177,11 @@
     "candidate_answer": "Tronscan",
     "source": "ai_unverified",
     "created_at": "2026-10-03T01:55:33.923Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.366Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d9997b6b719cf7bb2366772c081cd92566a6be247d31987ffb9b535aa3d4b6ca",

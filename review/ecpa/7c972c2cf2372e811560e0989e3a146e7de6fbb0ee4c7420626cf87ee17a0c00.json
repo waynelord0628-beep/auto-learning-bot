@@ -19,7 +19,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.252Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "31baa485e76c17567a154a783cd565c9ba73dbbe68e4704c4086e5e4dd9c811c",
@@ -41,7 +45,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.258Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "96cad3703561906749f61e05a8f88806201d8a4b5b71e1706d772c305097426a",
@@ -110,7 +118,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.265Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1e937a7e32fd0664228b2b92902421edfe9fda7e607875d59fa332fe3008b507",
@@ -132,7 +144,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.271Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "eb241522db7808bd5ce9bd4c5515e707adafd6e1e7dceb1897f81d6c2816bb5b",
@@ -201,7 +217,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.278Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "886272283d35aa4e33a0d4301561874a2ec253838b2243152cd0decb604d5452",
@@ -223,7 +243,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.284Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "41b41c3d4f28a4da5ed39c2e3f1edb908423a1ea3434332a717cb27f8f799501",
@@ -245,7 +269,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.291Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "35e1c3ee293f942d2b2e3c0189fa3ef123bf59b8efd05c43fa7667b7280e6b68",
@@ -267,7 +295,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-10-20T19:19:40.597Z"
+    "retry_after": "2026-10-20T19:19:40.597Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.298Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3ff1ead49889f4f2b2d8de5622064dc70acd88016ffb71dde14d2f2f5520af2a",
@@ -287,7 +319,11 @@
     "source": "reported_question",
     "created_at": "2026-10-17T13:02:03.652Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.304Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7905e17c6de3d34d921120b6fbf90a8ad2fd404a7a0ced55520f3fa6bb890296",
@@ -307,7 +343,11 @@
     "source": "reported_question",
     "created_at": "2026-10-17T13:02:03.652Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.312Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c88b844114bf65997eafaff1569c03207c16bae148b666318785e087a70c4ca7",
@@ -327,7 +367,11 @@
     "source": "reported_question",
     "created_at": "2026-10-17T13:02:03.653Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.318Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c845138763899c9fbab1b8531eef204e8e49df1e41618e1c82318434f00c0386",
@@ -347,7 +391,11 @@
     "source": "reported_question",
     "created_at": "2026-10-17T13:02:34.830Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.325Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0f4e671fbf07632c45e2aff3e13024f77f2e904e174ad20670008326eb51e492",
@@ -412,7 +460,11 @@
     "source": "reported_question",
     "created_at": "2026-10-17T13:02:34.832Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.333Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "23550fa2ac8b26e19b5f11f434c42ae86e606d50402ea92673192d702de785bc",
@@ -432,7 +484,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T04:29:44.039Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.340Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "788447947490d56ddcd47d58f3461b627613d9eb2b805e40f00f6ace90c6dcba",
@@ -452,7 +508,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T04:29:44.040Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.347Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2abdcf2d614d70fa91efd2c0e4939d46c7e3ab7c956713624fbfd2c21ef3290e",
@@ -472,7 +532,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T04:29:44.041Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.355Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "52dbda08d23d7aa48155b1fb51860d4b5bd565f2a0a4a6c1b65a3c798caaf60c",
@@ -516,7 +580,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T04:30:14.239Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.362Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "16d375c5ba404b59671a89055959d3ff69699e3f91d8ba604b78e6073fb36624",
@@ -536,6 +604,10 @@
     "source": "reported_question",
     "created_at": "2026-10-18T04:30:45.421Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.369Z",
+    "verification_status": "insufficient_sources"
   }
 ]

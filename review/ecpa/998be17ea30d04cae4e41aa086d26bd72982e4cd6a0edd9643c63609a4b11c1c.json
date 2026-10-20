@@ -113,9 +113,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.036Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T00:20:09.458Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.360Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -135,7 +135,11 @@
     "candidate_answer": "程序錯誤 (Procedural error)；技術員 / 技師 (Technician/technologist)",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.366Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ed659176bdbe65744af775427200cfb56ffd02710a010b695771026780a25522",
@@ -154,7 +158,11 @@
     "candidate_answer": "2003年 SARS-CoV 感染發生於 BSL-2 實驗室",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.038Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.373Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dd8a68ab7ea537aaa796fcb0a483501f470c2a02c5b95e823ab1be8bf2857302",
@@ -173,7 +181,11 @@
     "candidate_answer": "病毒 (Viruses)",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.379Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9f103f2e7c606a499de1a87e9ed0997bebfa7e50ac6d07815f8615ed9014cc36",
@@ -192,7 +204,11 @@
     "candidate_answer": "RG4",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.040Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.386Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4c31b1dd2101153e0a502d0a5e77f4d6b066b95ed6a331b42af7d0bc92eff0f2",
@@ -211,7 +227,11 @@
     "candidate_answer": "ABSL-2",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.040Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.392Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f2e91bc02ad138956912b01b05c77fb797eefe24959c17987fd9abae6d99044d",
@@ -230,7 +250,11 @@
     "candidate_answer": "BSL-2 / ABSL-2",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.398Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "720afb557e814e0c7982dda16a26daafb8c95b53d91e600913464d82749a9a01",
@@ -249,6 +273,10 @@
     "candidate_answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.042Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:03.406Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.826Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T10:19:54.058Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.224Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.832Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T10:20:00.191Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.231Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -57,9 +57,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.833Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T10:20:06.528Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.237Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -79,7 +79,11 @@
     "candidate_answer": "公務員明知未實際出差，仍於職務上製作的出差報告中填載已出差之不實事項。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.834Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.244Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "acf05bee53c53dabd616807e1287eb68d32c529420106e80fbd18fb85302df2b",
@@ -96,7 +100,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.835Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.251Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "430c233a108f9818297b5335cb090cfa6337ae5600d7bf090cbd54e0349e8e87",
@@ -115,7 +123,11 @@
     "candidate_answer": "依機關規定更正或補充，並留下必要的處理紀錄。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.835Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.259Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b9ecb474733c9ec4d1d9bf350a121b6d710646774039c791f4c81952403732fc",
@@ -134,7 +146,11 @@
     "candidate_answer": "只有依法任用、具有公務員身分之人，才屬於刑法上的公務員。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.837Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.266Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4069b0a60172b9fce022e9ad00cb0f4fbbbb4f62dedc8655b19520ec896ca37f",
@@ -151,7 +167,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.837Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.273Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5f258e746ac49df20f4dc8df52f1d82e088529dd5ed93e29ac564d14cbb39145",
@@ -170,7 +190,11 @@
     "candidate_answer": "判斷是否涉及偽造文書，應依文書性質、製作名義、行為方式及主觀犯意等具體情形判斷。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.838Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.280Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d6a2413a0f0d38eb353191a8d8a11edcd8dace831592993f9d387ea9be17c915",
@@ -189,6 +213,10 @@
     "candidate_answer": "對疑義事項留下書面紀錄，確認權限與資料真實性，並依標準作業程序辦理。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:18:20.839Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.287Z",
+    "verification_status": "insufficient_sources"
   }
 ]

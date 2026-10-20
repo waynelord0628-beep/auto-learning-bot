@@ -89,9 +89,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.168Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T13:19:58.483Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.099Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -147,7 +147,11 @@
     "candidate_answer": "all hands on deck",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.105Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "454565b49531f127b8f5154f98942becc2232f4b8de2d8eda94327f03d0875b3",
@@ -166,7 +170,11 @@
     "candidate_answer": "Mooring",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.111Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ed3cf8ddb033ebeba53b84f09208e7bf93484ffef4372fc13d90f0a931debe33",
@@ -183,7 +191,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.119Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f20a7b5bbc759db6e6dfca7a563c82d8404d70688b407e28102453d2e63d6a31",
@@ -240,7 +252,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.175Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.125Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bbd9f2c64be32524a70770b314b14d42e68cce434457af62780401d45281a084",
@@ -259,6 +275,10 @@
     "candidate_answer": "A calm and trouble-free situation",
     "source": "ai_unverified",
     "created_at": "2026-09-20T16:08:36.175Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.132Z",
+    "verification_status": "insufficient_sources"
   }
 ]

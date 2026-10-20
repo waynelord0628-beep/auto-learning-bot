@@ -18,8 +18,8 @@
     "created_at": "2026-10-01T04:21:20.141Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T12:20:09.230Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.218Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-10-01T04:21:20.143Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T12:20:30.009Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.225Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-10-01T04:21:20.145Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T12:20:51.924Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.231Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "集中化 Centralized",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.146Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.237Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cc94c8a4eea85654070d9c47924843d9d3b06271fc8aa6b2f2bea11ee9864c1d",
@@ -104,7 +108,11 @@
     "candidate_answer": "駭客聲稱自己是管理員並擁有帳密，欺騙 AI 正在進行政府授權的任務",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.147Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.244Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b81ac9c007cb5834dfca722e78f4c2da41edc687156bbbe23e77e6778646efcb",
@@ -123,7 +131,11 @@
     "candidate_answer": "程式碼完全沒有任何縮排與註解",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.148Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.251Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "35b091075e15acc0f1228741654cfbcf4aa90536d1d3eaaa4b81d9b090da9ed3",
@@ -165,7 +177,11 @@
     "candidate_answer": "高度客製化與精準誘騙",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.151Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.257Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2719edbb70d70109ba490dd1f40eafaa77bc28e3ba7f6d89d367af79250cc7f1",
@@ -184,7 +200,11 @@
     "candidate_answer": "能自主規劃攻擊步驟、持續測試與調整策略",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.152Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.263Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9441e5d8e368106c3204b566fc79a5a361a31e09b1326a46a43bb2cf5046111b",
@@ -203,6 +223,10 @@
     "candidate_answer": "自動替換企業內部所有的防火牆硬體",
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:21:20.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.270Z",
+    "verification_status": "insufficient_sources"
   }
 ]

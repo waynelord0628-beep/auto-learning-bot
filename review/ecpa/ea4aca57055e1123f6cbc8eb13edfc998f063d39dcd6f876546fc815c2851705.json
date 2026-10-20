@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.471Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T13:19:58.851Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.529Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.473Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T13:20:08.524Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.536Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.473Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T13:20:15.836Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.542Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -79,7 +79,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.474Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.549Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c8d887c306bc7f9225fb5c0694feb387f04f762a37230c886e0c50ba2b8c2f85",
@@ -96,7 +100,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.474Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.555Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f0764b0dfcecea7172bea1051eb4008e3f5ab5f09df893fdd6d3251f7bc2153b",
@@ -153,7 +161,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.475Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.562Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "aae4c845ed0df271335d788db9273eee0edb4312e1e90040d8fa28e6dbfd24a0",
@@ -210,7 +222,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.476Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.569Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fa32d6b735a440e5da1cee55908b8d2bbe1db302f351931902d50847a6da973f",

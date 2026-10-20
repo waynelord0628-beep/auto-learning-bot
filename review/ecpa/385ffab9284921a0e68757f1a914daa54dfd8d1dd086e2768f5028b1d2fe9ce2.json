@@ -62,8 +62,8 @@
     "created_at": "2026-09-26T15:38:52.517Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T02:20:36.845Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.625Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,8 +83,8 @@
     "created_at": "2026-09-26T15:38:52.524Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T02:20:59.934Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.632Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -102,7 +102,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:38:52.537Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.639Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cc987ac6be571c61564be9d2b005fae6812ac02c97224c08c1bed3644dbdbc4c",
@@ -119,7 +123,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:38:52.540Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.646Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ec6bbf31b99d477c7aee14837f169411f8d7e77d8188a006d71a710f693fcf83",
@@ -136,7 +144,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:38:52.547Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.653Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2d850c595ae9900f573f99a8b137a1249cd0243ba7495c84e39269b37839d5ae",
@@ -153,6 +165,10 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T15:38:52.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.659Z",
+    "verification_status": "insufficient_sources"
   }
 ]

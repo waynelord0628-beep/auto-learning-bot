@@ -51,9 +51,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.262Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T12:19:44.022Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.964Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -108,9 +108,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.264Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T12:19:48.982Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.970Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -131,9 +131,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.265Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T12:19:54.420Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.976Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -153,8 +153,8 @@
     "created_at": "2026-09-14T03:26:25.266Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T12:19:55.042Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.983Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -174,8 +174,8 @@
     "created_at": "2026-09-14T03:26:25.267Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T09:20:02.277Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.989Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -195,8 +195,8 @@
     "created_at": "2026-09-14T03:26:25.268Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T09:20:09.150Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.996Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -214,7 +214,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.269Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.003Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3f99c9fc28900cf936ce690aab533149a18c1dbc556389258eb1561e8609c5c8",
@@ -233,7 +237,11 @@
     "candidate_answer": "期約。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:26:25.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.010Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4ffec1348588f6056ddfa6c2fc5424c13a1516ef901977e404da72d6e7e202a9",
@@ -252,7 +260,11 @@
     "candidate_answer": "查核廠商是否按圖施工及追蹤缺失改善。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:27:06.462Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.017Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0d9d3735d9faa580b211d8b04c5674da3094ce9813d6a6ca743ebbeb10ab2562",
@@ -271,7 +283,11 @@
     "candidate_answer": "在特定期間內禁止該廠商參加政府採購之標案。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:27:06.463Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.023Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "befab5bd9f14db8750bd1804e27b170fdb50a6df740d5904c095798d57d1e523",
@@ -361,6 +377,10 @@
     "candidate_answer": "收受賄賂罪構成要件包含「要求」、「期約」、「收受」三個階段，只要開口要求即構成犯罪。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T03:27:06.466Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.029Z",
+    "verification_status": "insufficient_sources"
   }
 ]

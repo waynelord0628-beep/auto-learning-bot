@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.123Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T14:19:46.414Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.082Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.123Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T14:19:53.877Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.088Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.124Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T14:20:00.792Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.094Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -87,8 +87,8 @@
     "created_at": "2026-09-13T16:50:53.124Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T01:19:47.609Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.100Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,8 +110,8 @@
     "created_at": "2026-09-13T16:50:53.125Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T01:19:52.041Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.106Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -131,7 +131,11 @@
     "candidate_answer": "Old School/Vintage/Retro",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.125Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.113Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e53bfc588437e4b51477802a1b2b1553e72bd45723de24baa9121f48dc83a27f",
@@ -150,7 +154,11 @@
     "candidate_answer": "Protein Shakes and Smoothies",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.126Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.120Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c9aa22cad3020765229d2dd41e3d6ed6d8d3050869ef20d60f6db974437120d3",
@@ -169,7 +177,11 @@
     "candidate_answer": "Shoot for the Stars",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.126Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.126Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1ae9ce9b760f4f0b15dbf7bffcaaa229dff3ac0733cadf8347e9e4793e5bcc33",
@@ -188,7 +200,11 @@
     "candidate_answer": "Trash Talking",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.127Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.133Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8f5c4bae161201f65ade5c0e1ee5b117f5913728f26a9e55038c7d56631e2d68",
@@ -207,7 +223,11 @@
     "candidate_answer": "Phubbing/ Phubber",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:50:53.127Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.139Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f99f79a04af22f88b213ab94321ff9b9498cd78ec74688a5be743d020125ae67",
@@ -226,7 +246,11 @@
     "candidate_answer": "As Good As Gold",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:51:39.115Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.145Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9793a5e8dde1e58916a82b105788f6a583af1dbf693b16cddf8dd1bbccb8d8f3",
@@ -245,6 +269,10 @@
     "candidate_answer": "Be of Good Cheer",
     "source": "ai_unverified",
     "created_at": "2026-09-13T16:51:39.118Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.153Z",
+    "verification_status": "insufficient_sources"
   }
 ]

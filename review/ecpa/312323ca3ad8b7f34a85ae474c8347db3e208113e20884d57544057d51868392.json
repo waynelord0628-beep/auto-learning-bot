@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.024Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T07:19:47.201Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.010Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.028Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T07:19:55.795Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.017Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.029Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T07:20:03.738Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.023Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,8 +81,8 @@
     "created_at": "2026-09-15T23:14:44.030Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T05:19:48.503Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.029Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -104,8 +104,8 @@
     "created_at": "2026-09-15T23:14:44.030Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T05:19:53.519Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.036Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -125,6 +125,10 @@
     "candidate_answer": "後勤照護車每車出勤至少配置1人、救護車每車出勤至少配置2人。",
     "source": "ai_unverified",
     "created_at": "2026-09-15T23:14:44.031Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.043Z",
+    "verification_status": "insufficient_sources"
   }
 ]

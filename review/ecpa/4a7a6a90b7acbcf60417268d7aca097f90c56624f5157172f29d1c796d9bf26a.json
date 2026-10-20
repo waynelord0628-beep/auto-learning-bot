@@ -18,8 +18,8 @@
     "created_at": "2026-10-01T01:55:36.511Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T00:19:56.690Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.559Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-10-01T01:55:36.512Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T00:20:12.055Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.566Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -129,7 +129,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:55:36.513Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.573Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3bae66e3f6eb5bbefde43db83b69accb6f69f65c4ece6e2264a4efac8d7a0759",
@@ -148,7 +152,11 @@
     "candidate_answer": "3分",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.153Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.579Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a3541ba2d4f5d4a8fdf3492b0f4623f06120e4394a71e4e8a0244cdaf85ade83",
@@ -167,7 +175,11 @@
     "candidate_answer": "A級每年四次;B級每年三次",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.154Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.586Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "030b264bcf5aebf10285cd6ebcdddc4ca3c035ee2b07cc5b976ecba5d831c3e8",
@@ -186,7 +198,11 @@
     "candidate_answer": "Level 3 標準流程",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.593Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "74e5375764636cba55cc10c685cdfe1e2183b1be4f21219f0bae10c1c4783fa1",
@@ -205,7 +221,11 @@
     "candidate_answer": "4分",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.600Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6cb8babcfa4470b3f9c9b9e4024a4aac8266710548ffc2f4ff0a8a818aa4e0ee",
@@ -224,7 +244,11 @@
     "candidate_answer": "2分",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:56:24.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.607Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "58596f9863d66df513723aeb9b3d5a5a81ecea511cc91571798d93370f99dd3f",
@@ -243,7 +267,11 @@
     "candidate_answer": "A級每年兩次;B級每年一次",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:57:07.942Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.613Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bb2417651e509db930b26df9ab52a991ffbfefa9a659d86e97d9a7b2ccfb2d64",
@@ -262,7 +290,11 @@
     "candidate_answer": "A級每年一次;B級每年一次",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:57:07.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.620Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9ae9089bad6e35665792a976d217d562f4ee0e8bdb5c49ebd15fca922b729c9d",
@@ -281,7 +313,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:57:07.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.627Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2047051ec41d30db2d926cf995dd51499c3dd993186e7f1221ebfeee35e7b30b",
@@ -300,7 +336,11 @@
     "candidate_answer": "法遵面",
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:03:01.403Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.633Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4bd603e132614ac45f3eed33d8a72b635cd0f71d2ecf4d21899da6a655e49485",
@@ -319,7 +359,11 @@
     "candidate_answer": "六個月",
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:03:01.405Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.640Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1f887d61f0f517adb485c06455c5b039d6ada8a62513c4ec0705e470356e6906",
@@ -338,7 +382,11 @@
     "candidate_answer": "每年辦理一次",
     "source": "ai_unverified",
     "created_at": "2026-10-05T00:03:07.125Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.646Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2f65792fffc69a0bad5722e5d3be3ce343e67aa7211e956762a8aaca4412819c",
@@ -357,7 +405,11 @@
     "candidate_answer": "第4級",
     "source": "ai_unverified",
     "created_at": "2026-10-05T17:27:04.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.653Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d170167f2588555df7e92ba5d98aa0103a9f2a5581e041cbfca3966338deae20",
@@ -424,7 +476,11 @@
     "candidate_answer": "能力度等級分為4級;成熟度等級分為5級",
     "source": "ai_unverified",
     "created_at": "2026-10-05T17:27:04.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.660Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "cd2e99272469900b8f4f2f157b38056f0c58a9e0df6d6cafabdc518d8b7eff49",
@@ -443,6 +499,10 @@
     "candidate_answer": "Level 3 標準化流程",
     "source": "ai_unverified",
     "created_at": "2026-10-06T23:58:45.473Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:57.667Z",
+    "verification_status": "insufficient_sources"
   }
 ]

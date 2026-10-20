@@ -61,9 +61,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-21T08:57:29.125Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T05:19:50.296Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:07.004Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,8 +83,8 @@
     "created_at": "2026-09-21T08:57:29.126Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T05:19:55.469Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:07.010Z",
     "verification_status": "insufficient_sources"
   }
 ]

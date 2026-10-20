@@ -158,7 +158,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.722Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.726Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "abc96b5e42110d092be1247a72f3730d9c98fefe953ff4ad19f34c285491a0dd",
@@ -177,7 +181,11 @@
     "candidate_answer": "於法定範圍內，依個案情形合理衡量",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.723Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.732Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e9cbab3515865f90a21926a75be74c8a8c974578634476f9232397a82a4a0d57",
@@ -194,7 +202,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.739Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b8cce0893edfb02c1ddb91ce3c55651eb4fe8a3b6439ccc27ad689c5f0a20c6a",
@@ -211,7 +223,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.746Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "466e472cae5e6e58e32d6f24f7ea0eb3172e789cd478ac0f6e18f81c32592ad8",
@@ -228,7 +244,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.725Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.753Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3311b59f3af12c28b1baf48f73464cd1d700e0f106c45239bc3fc1b91200bf92",
@@ -247,7 +267,11 @@
     "candidate_answer": "十四歲以上未滿十八歲人之行為，應減輕處罰。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.760Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8380c69d01e593e26fae265952a10a3cc596c0b1fcecbd14b0f5f1e73bfb9b1b",
@@ -264,6 +288,10 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T13:52:37.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.766Z",
+    "verification_status": "insufficient_sources"
   }
 ]

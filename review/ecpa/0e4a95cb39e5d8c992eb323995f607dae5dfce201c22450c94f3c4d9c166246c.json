@@ -262,7 +262,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.921Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:00.021Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e79467093ddb10407eec8e475e4f3349387c85fccb007ece8c60f34cae98b846",

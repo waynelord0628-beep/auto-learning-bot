@@ -271,7 +271,11 @@
     "candidate_answer": "資通技術可以達成遠距照護及精準照護",
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:46:41.349Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.026Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d7ea71827f53d2a484b764a77c5a9b4d851e508133def0377c15e95a4d196633",
@@ -330,6 +334,10 @@
     "candidate_answer": "以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-09-30T23:46:41.060Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.033Z",
+    "verification_status": "insufficient_sources"
   }
 ]

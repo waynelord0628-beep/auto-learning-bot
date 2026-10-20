@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.264Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T12:19:44.097Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.042Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.267Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T12:19:49.476Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.049Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.268Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T12:19:54.857Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.057Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -98,7 +98,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.272Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.063Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ad0eba4cd77926e1ad88fa48184181e5ae158fad3dc26aec788c5c7f6ed3f2db",
@@ -117,7 +121,11 @@
     "candidate_answer": "Workflows 每次需要透過 / 呼叫，其通常放置步驟明確且執行較複雜的重複性指令，且可包含 skills 的使用",
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.273Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.071Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1396ce08614755c0c3178997bbb641b0a3c136bcffd9d5d33753c185c9927398",
@@ -136,7 +144,11 @@
     "candidate_answer": "可以自動修改 raw/sources 中的檔案，維護其唯一真實來源的地位",
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.274Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.078Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a758506945644611412652de9b610fee255f2ea63bc1ff718fecf8fa3c203e58",
@@ -153,7 +165,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.275Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.086Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4119d98be3191585998e20a710ebd616e7c3c1899baf97928e50ed3fcbcbd9a5",
@@ -191,6 +207,10 @@
     "candidate_answer": "防錯與限制條件 (Negative Constraints)",
     "source": "ai_unverified",
     "created_at": "2026-09-22T03:40:11.279Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:05.093Z",
+    "verification_status": "insufficient_sources"
   }
 ]

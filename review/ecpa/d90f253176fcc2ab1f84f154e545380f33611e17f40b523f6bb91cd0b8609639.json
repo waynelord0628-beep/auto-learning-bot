@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.579Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T07:19:59.358Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.376Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.580Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-09T04:19:55.819Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.382Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -61,9 +61,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.583Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-09T04:20:05.139Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.389Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,8 +85,8 @@
     "created_at": "2026-09-17T10:33:29.584Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T06:19:53.077Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.396Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -106,7 +106,11 @@
     "candidate_answer": "系統即時更新",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.586Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.403Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "57727bcc2c43c9b59e6f06b75e8f20cb90b7263dfececcfa9179fabd7591a3f2",
@@ -125,7 +129,11 @@
     "candidate_answer": "所有工作都丟給雲端服務供應商處理即可",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.587Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.409Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "da9b3b7c7dc1f89ed89fdd65774a6392fb3152ce26889cd9d2e6f30aadf12df9",
@@ -144,7 +152,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.589Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.415Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2d065c50381498c36c5b2b770c9af46693aa1e6b00e323ddf8f7e1b1f92342d3",
@@ -161,7 +173,11 @@
     "candidate_answer": "是",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.590Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.422Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "53816470fe3d83d10a32c7ce3d5018796357ab7adae6631bf4bda8c455ed9cd1",
@@ -180,7 +196,11 @@
     "candidate_answer": "金融卡+一次性密碼(OTP)",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:33:29.591Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.429Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6c95c8c51dc43ab25b56a66ded149337cb4bf22def4387c7df49ec3ea6ae72f1",
@@ -220,7 +240,11 @@
     "candidate_answer": "是",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:07.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.436Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "62bcf3cebdde1a7d3834581c44cea9e71d80a3d5ae78cd3d92d03142f2acba5f",
@@ -239,7 +263,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:07.252Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.442Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ba9b34235cf0070fb3c2548a6f238aacd69fc081b4f8d30b68ac63fc091f9b39",
@@ -258,7 +286,11 @@
     "candidate_answer": "可疑",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:07.252Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.449Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e1f8e16c70f7d84a04f8285fe730d1e947d130e97f34aefc12cad9a592a1d052",
@@ -277,7 +309,11 @@
     "candidate_answer": "只要取得使用者的同意，就可以取得使用者的所有個人資料",
     "source": "ai_unverified",
     "created_at": "2026-09-17T10:34:38.431Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.455Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "57ac137b9b1430a5cb24eaf8bf5eb0a7fddab8f2353fe1075873781b261ba19d",
@@ -295,6 +331,10 @@
     "source": "reported_question",
     "created_at": "2026-10-18T11:58:22.618Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.462Z",
+    "verification_status": "insufficient_sources"
   }
 ]

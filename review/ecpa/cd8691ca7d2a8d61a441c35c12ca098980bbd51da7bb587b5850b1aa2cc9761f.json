@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.670Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T12:19:46.936Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.617Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.671Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T12:19:53.106Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.624Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -57,9 +57,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.672Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-24T12:19:58.902Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.630Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,8 +81,8 @@
     "created_at": "2026-09-14T07:51:01.673Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T03:19:45.370Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.638Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -102,8 +102,8 @@
     "created_at": "2026-09-14T07:51:01.673Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T03:19:50.677Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.644Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -125,8 +125,8 @@
     "created_at": "2026-09-14T07:51:01.674Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T03:19:56.093Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.651Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -144,7 +144,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.674Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.658Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c95ecd2e162471dc277dd67d93cd139832677b26f9d04b3531b21e669d5d310a",
@@ -161,7 +165,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.675Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.665Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b3a69b8568b5c43fd8ffb7cb1a90252af21cabc30047c660d7c2af848bac0487",
@@ -203,7 +211,11 @@
     "candidate_answer": "阿美因為長時間呈現蹲跪姿，使得膝關節的半月狀軟骨產生病變。",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:01.676Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.672Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "54635c79ae05ff45f7f862975c28f0f8565f65fba70b8c2cc0d0b3aef54b1332",
@@ -224,7 +236,11 @@
     "created_at": "2026-09-14T07:51:37.295Z",
     "review_state": "candidate_ready",
     "retry_count": 1,
-    "retry_after": "2026-09-15T17:19:39.711Z"
+    "retry_after": "2026-09-15T17:19:39.711Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.679Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2290ac01e57060dec983f2151bd52916152e040232e9e3a85f325b1297e7f63e",
@@ -241,7 +257,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.296Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.685Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ea01ff3ca84031015b59cc40937097595a7da6105be1d8ef938877217e3d79f6",
@@ -258,7 +278,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.297Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.692Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b860128be1f62fbea4c10180576fc3b804611e303afe478bf3d304cf198b33cd",
@@ -275,7 +299,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.297Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.698Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "910e3a8a51e0c203bdf1be52cfbaee5f8112d3d3be99c899279c6d523a4a17a1",
@@ -292,7 +320,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.298Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.705Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "38c171befb3ac46669b40d8da19ab2dd02059672679b3002fe3ad15ba05b8df0",
@@ -309,7 +341,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-14T07:51:37.298Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.711Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c8ad9c4de667f7a75233cd0174451ca34a3922d4bf58203c397f22fe30d28073",
@@ -328,6 +364,10 @@
     "candidate_answer": "安全資料表，內容僅需列出化學品基本資料即可。",
     "source": "ai_unverified",
     "created_at": "2026-10-09T15:19:34.349Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:55.720Z",
+    "verification_status": "insufficient_sources"
   }
 ]

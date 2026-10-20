@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:54.996Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T01:20:05.288Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.622Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.004Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T00:19:59.779Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.628Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.007Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T00:20:09.630Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.634Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -195,8 +195,8 @@
     "created_at": "2026-09-10T13:42:55.012Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-04T05:20:01.014Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.641Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -216,7 +216,11 @@
     "candidate_answer": "加速虛假資訊的生成與傳播",
     "source": "ai_unverified",
     "created_at": "2026-09-10T13:42:55.015Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:59.647Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5f29c6d5e8351506069a1a45a06c69f99c2e8ad1f13b21555e1e0fb7f904ae5c",

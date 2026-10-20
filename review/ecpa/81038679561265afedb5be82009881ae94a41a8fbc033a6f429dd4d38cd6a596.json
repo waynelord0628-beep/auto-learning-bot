@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.935Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T14:19:53.395Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.335Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.936Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T14:20:02.977Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.341Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.936Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-19T14:20:14.371Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.348Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -108,7 +108,11 @@
     "candidate_answer": "演習計畫表於演習前 1 個月送核；成果回報表於演習後 1 個月內送審",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.937Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.355Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4e9e141d2b50d61f32988c94f8139b947a4932ca00cf5828df70f44fb2fe3c49",
@@ -127,7 +131,11 @@
     "candidate_answer": "中度危害於 24 小時內；高度危害於 12 小時內",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.361Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a97dd33f14434c7023bc944ee3e191e6c50a8437042e7a5658519df2bac539b5",
@@ -146,7 +154,11 @@
     "candidate_answer": "涉及 RG2 病原體或生物毒素品項或數量不符，且為遺失、遭竊或發生原因不明者",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.938Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.368Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "61e2308584722761efe4d01e75f67860d882976aac6738396dd0c2ae340e8ed7",
@@ -165,7 +177,11 @@
     "candidate_answer": "操作時離心管破裂導致病原洩漏",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.939Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.374Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6a6e53c6504c790cbe7866f389a9639f5f0a48b0f103d4d049aa8041cb4ab689",
@@ -184,7 +200,11 @@
     "candidate_answer": "發生涉及 RG3 病原體之重大/特殊狀況，或逢假日、人員休假時",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.939Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.381Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "15fc8d633aaf73ce39bf78cfd0e89311a85e0b2836ac167faaedd5626dad2579",
@@ -203,6 +223,10 @@
     "candidate_answer": "3 日內",
     "source": "ai_unverified",
     "created_at": "2026-09-22T04:18:09.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.387Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.291Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T05:19:58.881Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.690Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.292Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T05:20:06.033Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.696Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "繞過防護系統，直接攻擊「人性的弱點」",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.292Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.702Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9598857e2f585ae92d354d10b820e98aefc611c67f9490755dc9be3dd0fda977",
@@ -104,7 +108,11 @@
     "candidate_answer": "只要打開文件就會連回攻擊者主機，甚至竊取 Windows NTLM Hash 憑證",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.293Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.709Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ed1a2da63172bdfb3481609976070ffad46c4a4612e34c7950684ab724b302fa",
@@ -123,7 +131,11 @@
     "candidate_answer": "UEBA 行為偵測",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.294Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.716Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "87a0e5b42aed98cf10743ee21dfd376507868ce9800c5610586d9263b1d3431d",
@@ -142,7 +154,11 @@
     "candidate_answer": "恐懼",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.294Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.722Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "02e924e20d3d4cb94f566db0a63e4d4ddbeb6eb4d18c53e9df8b8a5925e5e6a5",
@@ -161,7 +177,11 @@
     "candidate_answer": "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.295Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.729Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0851f89767aa388f95620050e3a59e949e2c6122f120c9e0f7d8b95930aa6433",
@@ -180,7 +200,11 @@
     "candidate_answer": "滑鼠懸停（Hover）在連結上，檢查真實網址是否為無關亂碼",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.296Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.736Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "636f566cdc339b01b3bd35a6fe61313cdf0475933722faade1a6e4c2ca804f8d",
@@ -199,7 +223,11 @@
     "candidate_answer": "擔任郵件界的防偽標籤，確保寄件人身分未被冒用",
     "source": "ai_unverified",
     "created_at": "2026-09-19T08:26:07.296Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.742Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1a3bed1212574e6acf1e5cab4a59aa70fbe02fecfdadd77d9f604b81aaf9df9a",
@@ -218,7 +246,11 @@
     "candidate_answer": "發票、合約或薪資表 (.doc, .zip)",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.989Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.748Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "deae8e93bf4565cdf8429995eeb135ef2276497edb6f9a397f566a0ee7b22f67",
@@ -237,7 +269,11 @@
     "candidate_answer": "一旦被預覽或讀取，即回傳 IP 給駭客，確認這是一個「活人」的有效信箱",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.990Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.755Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9b72d73842811565bd43ea4e484bd96edf747b09e828bbd7ba7b615bf38dbddf",
@@ -256,7 +292,11 @@
     "candidate_answer": "偽裝成單位的主管或同事，利用信任關係要求匯款或提供機敏資料",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.992Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.761Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0fdaef8258f22227814dbace48216381d5b13e8af54254acff30aa63da8c88d3",
@@ -298,7 +338,11 @@
     "candidate_answer": "系統升級、密碼重設",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.994Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.768Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "a2f9acda01d11a416cca2ae9f832ce42ff5e6816ed4db26361532b35eaf4c550",
@@ -317,6 +361,10 @@
     "candidate_answer": "偽裝官方",
     "source": "ai_unverified",
     "created_at": "2026-09-28T10:12:27.996Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.775Z",
+    "verification_status": "insufficient_sources"
   }
 ]

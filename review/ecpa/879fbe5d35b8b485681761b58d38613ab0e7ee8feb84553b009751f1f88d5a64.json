@@ -127,7 +127,11 @@
     "created_at": "2026-10-08T16:37:37.320Z",
     "review_state": "candidate_ready",
     "retry_count": 1,
-    "retry_after": "2026-10-09T17:19:40.794Z"
+    "retry_after": "2026-10-09T17:19:40.794Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.227Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7be44bb391f69c6144ea5081f0a1f104daacb8446a018e7eb92acfd578835037",
@@ -186,7 +190,11 @@
     "candidate_answer": "(4) 減少栽植者建設成本。",
     "source": "ai_unverified",
     "created_at": "2026-10-08T16:37:37.325Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:08.233Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4151ba87bf002abee67ff0a5e2797b3a3836348ef5b60c6535b5a1354a660768",

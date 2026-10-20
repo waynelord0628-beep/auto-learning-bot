@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.351Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T10:19:58.852Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.899Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.353Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T10:20:12.276Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.905Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.354Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T10:20:26.169Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.911Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -87,8 +87,8 @@
     "created_at": "2026-09-16T09:26:51.355Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T15:19:43.894Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.917Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -110,8 +110,8 @@
     "created_at": "2026-09-16T09:26:51.357Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T15:19:49.096Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.923Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -133,8 +133,8 @@
     "created_at": "2026-09-16T09:26:51.367Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-27T15:19:53.995Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.930Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -154,7 +154,11 @@
     "candidate_answer": "不算，好的新聞照片應該能觸動人心、引發情感共鳴。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.368Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.937Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d4972bd985ba9adc57f9599088f5cd6d818cb37957d3d460c1a27caca78437d4",
@@ -172,7 +176,11 @@
     "candidate_answer": "新聞價值，因為新聞攝影的首要任務是報導有意義的事實。",
     "source": "ai_unverified",
     "created_at": "2026-09-16T09:26:51.369Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:02.944Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "aa8643a2c9e80347c6845d2bab3ae46f4418a8fd632c4d805bd62730cc5b923c",

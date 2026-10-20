@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.889Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T10:19:58.855Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.773Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.891Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T10:20:06.381Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.779Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -58,8 +58,8 @@
     "created_at": "2026-09-19T07:49:23.891Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T07:20:01.455Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.785Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,8 +81,8 @@
     "created_at": "2026-09-19T07:49:23.892Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T07:20:13.988Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.791Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -102,8 +102,8 @@
     "created_at": "2026-09-19T07:49:23.892Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T07:20:32.297Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.798Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -123,7 +123,11 @@
     "candidate_answer": "餵給它 3到5份（或更多）你以前寫過的文章供其學習",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.893Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.805Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "1ff18e2b21a8362a3cc5b6c65d43d6909d52e325da453d50a45b81f7aa750845",
@@ -140,7 +144,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.893Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.811Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7516159309e228c7cb00050ddc2796b1366c62cf8a720c0bf6ccdebb272b6004",
@@ -159,7 +167,11 @@
     "candidate_answer": "電腦硬體規格",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.818Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4aecd393cca7c4389146c715bc81943bbe004ef05944f0ce2a0565871bc199fe",
@@ -178,7 +190,11 @@
     "candidate_answer": "找出特定專業身份可能存在的思考盲點或漏洞",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.825Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9e1c255970b6440b1c58968163713b78ddc4448b42560ffe83ed7c8deae68977",
@@ -195,7 +211,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-19T07:49:23.895Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.832Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2bf8bc190bc85096edcb0059fb6743726a909c929e00bc17cce60c741b3d0660",
@@ -214,6 +234,10 @@
     "candidate_answer": "等一段時間再問，因為可能是當下算力資源不足",
     "source": "ai_unverified",
     "created_at": "2026-09-19T19:06:25.485Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.838Z",
+    "verification_status": "insufficient_sources"
   }
 ]

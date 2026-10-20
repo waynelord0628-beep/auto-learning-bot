@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:32.429Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T02:19:48.798Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.535Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:32.432Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-22T02:20:04.064Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.541Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,7 +81,11 @@
     "candidate_answer": "拍攝、製造、散布、播送、交付、公然陳列或販賣兒童或少年之性影像、與性相關而客觀上足以引起性慾或羞恥之圖畫、語音或其他物品。",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:32.439Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.548Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5165f65ac7d232f0a96a46a5d8952ec42b81e4a898d2ae97b0978bbb099fd146",
@@ -192,7 +196,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:32.443Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.555Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3caa1fd0a7873cbf24b6b706c8af7df22b1c436dfee3054de7057a8f5d56240e",
@@ -257,7 +265,11 @@
     "candidate_answer": "是指「使兒童或少年為有對價之性交或猥褻行為。」",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:32.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.561Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8df8c6d6bf9b58321488f1ae0fc1e0cae930691a4cbeb9a67351b8e12dae59e7",

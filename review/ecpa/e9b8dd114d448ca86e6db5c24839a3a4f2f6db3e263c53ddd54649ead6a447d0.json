@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:36:58.656Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T12:19:48.793Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.728Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -36,9 +36,9 @@
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:36:58.657Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T12:19:57.140Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.735Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -58,8 +58,8 @@
     "created_at": "2026-10-02T16:36:58.659Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T12:20:06.345Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.741Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -77,7 +77,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:36:58.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.749Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ed93757f6b2be803164aca4fa4c50fc10d96332b0485499be23d13e99b6a749c",
@@ -134,7 +138,11 @@
     "candidate_answer": "1940年代中期至1950年代晚期製造的錄影音帶",
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:45:00.175Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.755Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "97fd21c8798e651d3d03d1e7fbf58e081e9915f0d0a4e4c4b0cca33ab2f57d67",
@@ -153,7 +161,11 @@
     "candidate_answer": "磁頭",
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:45:00.176Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.761Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ced106e5762046c9e570a3e34e2a244f4b35103b95cc601f8b52f769bfe2d5b0",
@@ -172,7 +184,11 @@
     "candidate_answer": "灰塵聚集",
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:45:00.176Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.768Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ddb8fe3ef7be46a51eb751bf607de19fdd74b73a7063c55260e059730ece4276",
@@ -191,7 +207,11 @@
     "candidate_answer": "不管各場所的溫度與溼度差距，皆可逕自從保存場所拿取錄影音帶至工作場所中使用",
     "source": "ai_unverified",
     "created_at": "2026-10-02T16:45:00.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.774Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "efd2cb626b88e4957d306c707e2f4a90f6ba661b1b17954f0eee1d36e777477e",
@@ -210,6 +230,10 @@
     "candidate_answer": "黴菌不會造成磁粉脫落",
     "source": "ai_unverified",
     "created_at": "2026-10-02T17:18:47.063Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:04.780Z",
+    "verification_status": "insufficient_sources"
   }
 ]

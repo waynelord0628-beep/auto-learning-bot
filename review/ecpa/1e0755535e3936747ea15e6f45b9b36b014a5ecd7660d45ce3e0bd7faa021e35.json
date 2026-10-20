@@ -16,8 +16,8 @@
     "created_at": "2026-09-29T07:29:11.349Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T02:19:44.996Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.516Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -83,8 +83,8 @@
     "created_at": "2026-09-29T07:29:11.352Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T02:19:55.835Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.523Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -104,7 +104,11 @@
     "candidate_answer": "建議還需要補充哪些欄位或條件",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.355Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.530Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ad6a1db2047e554355fb1adf9e73988f86477299e9565afb6f99d126fad965b9",
@@ -123,7 +127,11 @@
     "candidate_answer": "Excel 版本、資料欄位及想完成的結果",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.355Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.538Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "53a3a1217c37fe77d247194f41ed141d7fd9f4e6e21e4a4920324b320f26c0d5",
@@ -140,7 +148,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.356Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.544Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b2d79a06ad786e6019dee1ec95bab7456b8619cf9920118d376a65df1ca4e107",
@@ -159,7 +171,11 @@
     "candidate_answer": "各類留言的筆數",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.357Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.550Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d7b42345959381547a843b409b43d10930c5bb91679b65157f75941aa69bd0f1",
@@ -178,7 +194,11 @@
     "candidate_answer": "說明現有欄位，請 AI 建議可分析的方向",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.557Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "270666373d44c26258fde3fb2753a4910d29af7ad9d40e19c222ac6b9240704e",
@@ -195,7 +215,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.358Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.563Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b8a8b99593441c2dda1f795e6870a6498d7a6d4cf39171a04c0f0879592b37cc",
@@ -212,7 +236,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.359Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.570Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f27c2ba59a9ba3171d3b35954ec7a1a6251708d01700374e4d914177aaa54ed8",
@@ -231,7 +259,11 @@
     "candidate_answer": "先移除個資及機密欄位",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:48.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.576Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "609bf10c79894fa6f0285597c733933baa711dcb530020775c134b76fb7580a1",
@@ -250,6 +282,10 @@
     "candidate_answer": "資料剖析",
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:48.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:58.582Z",
+    "verification_status": "insufficient_sources"
   }
 ]

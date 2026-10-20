@@ -146,7 +146,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.718Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "dbb6bae73e2490c95e56743fd1005866f4b0eefd90df414b6838d695c3c37b8f",
@@ -209,7 +213,11 @@
     "ai_error": "generation_failed",
     "review_state": "awaiting_candidate",
     "retry_count": 1,
-    "retry_after": "2026-10-20T18:19:43.502Z"
+    "retry_after": "2026-10-20T18:19:43.502Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.725Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ed870f218af81f829d61d054074ed0ccd8aa9ad49f71158065a1ede6682eb2a8",
@@ -477,7 +485,11 @@
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:02.569Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.731Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "41d35cb337ae0cf8f390b5ed31b7a1f82621b47ad961fe5ccf7a5a288d8088ec",
@@ -655,6 +667,10 @@
     "source": "reported_question",
     "created_at": "2026-10-18T20:51:33.191Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:06.737Z",
+    "verification_status": "insufficient_sources"
   }
 ]

@@ -18,8 +18,8 @@
     "created_at": "2026-10-05T20:09:20.853Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T15:19:50.987Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.108Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -41,8 +41,8 @@
     "created_at": "2026-10-05T20:09:20.854Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T15:19:58.371Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.115Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -64,8 +64,8 @@
     "created_at": "2026-10-05T20:09:20.854Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T15:20:11.700Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.122Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,7 +85,11 @@
     "candidate_answer": "「故事中的主角在森林裡遇到了哪些人和發生了什麼事？」",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.854Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.128Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3c0779c318085e9bff55d709fda70519de391fc5ce0dc8dc429c20f64985348c",
@@ -104,7 +108,11 @@
     "candidate_answer": "讓公主成為具備解決問題能力的主角，並能自行決定自己的命運",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.135Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fd4de157c63cfc302528d6a672ea4edad7fa88d323210d8c41893c0f7ed62b14",
@@ -123,7 +131,11 @@
     "candidate_answer": "「我們可以在學校或班級裡採取什麼具體行動，來支持月經平權？」",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.142Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c32b9f31b56727ea8aafa46c4b71af436643d519253c5c8e842608dd34732108",
@@ -142,7 +154,11 @@
     "candidate_answer": "覺察並表達個人在閱讀過程中的情緒、直覺與個人經驗連結",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.148Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7a2765bfaf41537ffc2675dc4f97f9f2d71f66b33ac6e89f0ae496fce4c0332a",
@@ -161,7 +177,11 @@
     "candidate_answer": "Interpretive（詮釋意義）",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.856Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.155Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "682e23f70c3c531d2c0e8a43a353772ce5dda9d9de4caa9d3e4867a925396aee",
@@ -180,7 +200,11 @@
     "candidate_answer": "提供安全且匿名的表達空間，鼓勵內向或擔心被嘲笑的學生分享真實想法",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.856Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.164Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d8a5a1b922da9bfea5914b919e6c0f105b1b619d9845892067d3b1aa8cbba6b8",
@@ -199,6 +223,10 @@
     "candidate_answer": "換位思考（同理心）與批判性思維能力",
     "source": "ai_unverified",
     "created_at": "2026-10-05T20:09:20.856Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.170Z",
+    "verification_status": "insufficient_sources"
   }
 ]

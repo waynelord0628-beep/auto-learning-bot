@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.319Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T02:19:51.439Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.104Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -38,9 +38,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.321Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T02:19:58.351Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.110Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -59,9 +59,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.321Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-21T02:20:06.549Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.117Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -81,7 +81,11 @@
     "candidate_answer": "90日",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.123Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "895e3eb0689e72b60924e9952f827dbd51700c12cf84f8f5f07f4912c44d31a4",
@@ -100,7 +104,11 @@
     "candidate_answer": "以上皆是",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.130Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7268237b0ddef9ebe8287c612375bacfdf3c8b4018d1f9b3d491dfd458b46f54",
@@ -140,7 +148,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.323Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.138Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "78d63c7aa2f86991106ef930ac48d07ea46abac1174bd280144647f59ea93262",
@@ -180,7 +192,11 @@
     "candidate_answer": "虛擬兒少色情案件",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.324Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.144Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5c66756b0371829c2fc4f2c3d4915bff42529a81a436f35edefe6ed067f93b03",
@@ -199,7 +215,11 @@
     "candidate_answer": "協助打官司",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:04.325Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.152Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d49c2da322a399c373579e68b7f01c99b2e1ef73e0e42ece80f9261e197104f1",
@@ -218,7 +238,11 @@
     "candidate_answer": "網路平臺接獲縣市政府通知，沒有在期限內移除被害人性影像，縣市政府可以依法限制接取該平臺",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.159Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2feef65bf486135ff612a044924c477683326fb921d3ac483987c04a769f2bc5",
@@ -237,7 +261,11 @@
     "candidate_answer": "在LINE APP內檢舉被散布的影像",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.527Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.165Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "530820f37211b6f6aeb3778b6f13c3bbb109b6999b4974d6179a96770e6ad35e",
@@ -254,7 +282,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.528Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.171Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e6a9cd962397b7a425ebf82c0f507b69d7403ca700f661f6da373d83addc9fb7",
@@ -271,7 +303,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.529Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.177Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6374afa4417e49b1b46ecf2fd6449dc775885c22def61b1f9563da2a15a8256e",
@@ -288,7 +324,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.530Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.184Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "39e8c5e1f3b83bdfd740d46869d1577995134ed513cee606fb1ce19ad98abc55",
@@ -305,7 +345,11 @@
     "candidate_answer": "錯誤",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:01.462Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.191Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "89f159a7fa7e343b8483355594396e86d0b5acd2d74b2e9698de65e90f86262a",
@@ -322,7 +366,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:01.463Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.198Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "bc69a74ded882ad1c26d8df10656ca1893108ca95ee9af8d91c71d8dbad5d007",
@@ -341,6 +389,10 @@
     "candidate_answer": "兒童及少年性剝削防制條例",
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:32:01.464Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:42:01.204Z",
+    "verification_status": "insufficient_sources"
   }
 ]

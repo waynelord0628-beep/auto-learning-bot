@@ -17,9 +17,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.773Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T12:19:46.658Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.342Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,9 +40,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.776Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T12:19:53.402Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.350Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -63,9 +63,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.777Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T12:21:06.258Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.356Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -85,8 +85,8 @@
     "created_at": "2026-09-15T13:09:59.779Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T11:19:42.318Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.363Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -106,8 +106,8 @@
     "created_at": "2026-09-15T13:09:59.784Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T11:19:47.258Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.370Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -129,8 +129,8 @@
     "created_at": "2026-09-15T13:09:59.787Z",
     "review_state": "candidate_ready",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T11:19:52.195Z",
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.376Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -150,7 +150,11 @@
     "candidate_answer": "可能未婚、無子女或家庭支持有限，因此更加關心照顧者來源與照顧安排",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.792Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.383Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "16a9b945dd19cfa111b69affef2c0957d456bd2393c23632887c47a34b0b94f8",
@@ -169,7 +173,11 @@
     "candidate_answer": "不同身分背景的老年同志需求可能各不相同",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.793Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.390Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6eaf70b3522fc1ca09702cee915b9c6a315c3e5c13f7526202c530e788ed26f2",
@@ -188,6 +196,10 @@
     "candidate_answer": "尊重每個人的性別認同與性傾向",
     "source": "ai_unverified",
     "created_at": "2026-09-15T13:09:59.794Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:41:56.397Z",
+    "verification_status": "insufficient_sources"
   }
 ]
