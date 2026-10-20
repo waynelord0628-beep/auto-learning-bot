@@ -70,6 +70,13 @@ function ecpaReconcileReview(queue, patches) {
       q.resolved_answer = reviewed[0].answer; q.candidate_answer = null;
       continue;
     }
+    // A course source may confirm an identical shared answer from another course.
+    const shared=bank.get(key)||[],proof=q.source_review;
+    if(q.verification_status==='existing_answer_confirmed'&&proof&&
+      ['course_answer_exact_v1','official_source_two_pass_v1'].includes(proof.method)&&
+      shared.length===1&&ecpaReviewAnswer(q,shared[0].answer)===proof.answer&&q.resolved_answer===proof.answer) {
+      q.status='resolved';q.review_state='source_reviewed_existing';q.candidate_answer=null;continue;
+    }
     // Keep status=pending for released 2.1.9 readers; review_state carries detail.
     q.status = 'pending';
     if (q.options.length < 2 || q.options.some(x => !x) || new Set(q.options).size !== q.options.length) {

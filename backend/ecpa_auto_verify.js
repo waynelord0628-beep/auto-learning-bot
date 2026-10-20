@@ -178,8 +178,14 @@ function ecpaSaveSourceReview(path,original,verdict,error,courseAnswers) {
       if(!target||!evidence||evidence.conflict)continue;
       if(target.id!==original.id && (typeof ecpaCanUseCourseAnswer!=='function'||!ecpaCanUseCourseAnswer(target)||
         evidence.method!=='course_answer_exact_v1'||ecpaText(target.course)!==ecpaText(q.course)))continue;
-      if(patches.some(p=>ecpaText(p.question)===ecpaText(target.question))) {
-        target.verification_status='existing_answer_requires_evidence';continue;
+      const existing=patches.filter(p=>ecpaText(p.question)===ecpaText(target.question));
+      if(existing.length) {
+        if(existing.length===1&&ecpaReviewIdentity(existing[0])===ecpaReviewIdentity(target)&&
+          ecpaReviewAnswer(target,existing[0].answer)===evidence.answer) {
+          target.source_review=evidence;target.status='resolved';target.review_state='source_reviewed_existing';
+          target.resolved_answer=evidence.answer;target.candidate_answer=null;target.verification_status='existing_answer_confirmed';
+        } else target.verification_status='existing_answer_requires_evidence';
+        continue;
       }
       target.source_review=evidence;target.status='resolved';target.review_state='source_reviewed';
       target.resolved_answer=evidence.answer;target.candidate_answer=null;target.verification_status='source_supported';

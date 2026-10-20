@@ -74,4 +74,11 @@ const courseVerdict={answer:'B',method:'course_answer_exact_v1',sources:[{url:'h
 assert.equal(s.ctx.ecpaSaveSourceReview('queue',q,courseVerdict,false,[{original:extra,verdict:courseVerdict},{original:JSON.parse(s.files.queue)[2],verdict:courseVerdict}]),2);
 assert.equal(s.files.version,'6004');assert.equal(JSON.parse(s.files.patch).length,2);
 assert.deepEqual(JSON.parse(s.files.queue).map(x=>x.status),['resolved','resolved','pending']);
+s=setup();s.files.patch=JSON.stringify([{...q,course:'another course',answer:'B'}]);
+assert.equal(s.ctx.ecpaSaveSourceReview('queue',q,courseVerdict,false),0);
+let shared=JSON.parse(s.files.queue);assert.equal(shared[0].status,'resolved');
+assert.equal(shared[0].verification_status,'existing_answer_confirmed');assert.equal(s.files.version,'6002');
+s.ctx.ecpaReconcileReview(shared,JSON.parse(s.files.patch));assert.equal(shared[0].status,'resolved');
+assert.equal(shared[0].review_state,'source_reviewed_existing');
+s.ctx.ecpaReconcileReview(shared,[{...q,course:'another course',answer:'A'}]);assert.equal(shared[0].status,'pending');
 console.log('PASS: source checks, independent verdict, atomic whole-course publication, duplicates, cross-course isolation, conflicts, retry limits and budget');
