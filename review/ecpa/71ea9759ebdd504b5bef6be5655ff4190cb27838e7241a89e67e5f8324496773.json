@@ -130,13 +130,30 @@
     ],
     "type": "單選",
     "course": "解碼高雄AI醫療",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "去識別化技術",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:00:31.248Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.362Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "去識別化技術",
+      "sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "專案發起醫療機構可提出所需之去識別化病例數量"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:01.953Z"
+    },
+    "resolved_answer": "去識別化技術"
   },
   {
     "id": "666c2f011243afa98335a48aaedb043148d1db27b0ceb14e8db99b7d4c10f4b9",
@@ -310,13 +327,30 @@
     ],
     "type": "是非",
     "course": "解碼高雄AI醫療",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:02:22.401Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://smartcity.kcg.gov.tw/cp.aspx?n=A2FBFAD8865A7F12&s=6A0224F17F5FA755",
+          "quote": "高雄攜手台灣人工智慧實驗室（Taiwan AI Labs）及高雄醫學大學附設中和紀念醫院、高雄長庚紀念醫院、高雄榮民總醫院、義大醫療財團法人義大醫院，共同成立「高雄聯合學習智慧醫療聯盟」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:18.961Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2ad52a22929da2ef6214a7a7f1b2d1f856279849d3ec06144148226ee493ed05",
@@ -327,13 +361,30 @@
     ],
     "type": "是非",
     "course": "解碼高雄AI醫療",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T16:02:22.411Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.411Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://taic.moda.gov.tw/datasets/6f46f7a8-5d19-41ec-a5d0-968d58cb1933",
+          "quote": "《隱私強化技術應用指引》說明如何在保障個人隱私的前提下，透過技術手段如差分隱私、合成資料、同態加密、聯合學習等，實現資料的安全使用與分享。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:18.961Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9923df4b80ef355c4533de75b99c7e3a063b2340469eb4d27b0bf88a7f8ba08b",

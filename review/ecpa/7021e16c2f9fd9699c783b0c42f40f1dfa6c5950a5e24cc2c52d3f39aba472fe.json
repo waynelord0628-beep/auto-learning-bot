@@ -56,17 +56,30 @@
     ],
     "type": "單選",
     "course": "數位資產的經濟社會效益",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "需要再跟原發證單位確認真偽",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.662Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-18T12:19:58.000Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.752Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "需要再跟原發證單位確認真偽",
+      "sources": [
+        {
+          "url": "https://www.exam.gov.tw/NHRF/News_EpaperContent.aspx?n=3778&s=49202&type=BD9B4A61760FEA3D",
+          "quote": "驗證者只需以免費的PDF檢視軟體或掃描證書上的QR code，即可驗證證書真偽"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:16:40.402Z"
+    },
+    "resolved_answer": "需要再跟原發證單位確認真偽"
   },
   {
     "id": "a90f50b99922aaa9331430bcb97575476dea2788143b1135aa933e0bac2f035e",
@@ -117,13 +130,30 @@
     ],
     "type": "單選",
     "course": "數位資產的經濟社會效益",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "區塊鏈技術",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T03:17:47.664Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.772Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "區塊鏈技術",
+      "sources": [
+        {
+          "url": "https://findit.sme.gov.tw/tw/Res/2195",
+          "quote": "透過區塊鏈帳本記載特定資產的權益"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:16:40.402Z"
+    },
+    "resolved_answer": "區塊鏈技術"
   },
   {
     "id": "8601ee3dab44e85def5c0c3ab8c8cb12cf771741dbf00ee218e51db384bcfd49",

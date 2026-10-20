@@ -115628,5 +115628,349 @@
       "model": "gpt-4.1",
       "checked_at": "2026-10-20T08:13:04.465Z"
     }
+  },
+  {
+    "question": "請問IT資安治理成熟度之架構，總共有幾個流程構面?",
+    "type": "單選",
+    "options": [
+      "9個",
+      "10個",
+      "11個",
+      "13個"
+    ],
+    "course": "IT資安治理成熟度評估機制說明",
+    "answer": "11個",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "11個",
+      "sources": [
+        {
+          "url": "https://www.wra.gov.tw/epaper/Article_Detail.aspx?n=30173&s=8939",
+          "quote": "該評估機制將資安治理分為三個面向：策略、管理和技術，並將其細分為11個流程構面。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:13:43.235Z"
+    }
+  },
+  {
+    "question": "醫療數據在進入 AI 訓練前，為了防止隱私洩漏，會透過什麼技術移除姓名、身分證號等標識符號，轉化為無法追蹤個人的代碼？",
+    "type": "單選",
+    "options": [
+      "聯邦參數化技術",
+      "去識別化技術",
+      "微分段隔離技術",
+      "數位孿生虛擬技術"
+    ],
+    "course": "解碼高雄AI醫療",
+    "answer": "去識別化技術",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "去識別化技術",
+      "sources": [
+        {
+          "url": "https://aicenter.mohw.gov.tw/ACP/fp-7541-86915-212.html",
+          "quote": "專案發起醫療機構可提出所需之去識別化病例數量"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:01.953Z"
+    }
+  },
+  {
+    "question": "高雄智慧醫療聯盟是由高雄在地的四大醫學中心（高醫、長庚、榮總、義大）與 AI Labs 共同組成。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "解碼高雄AI醫療",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://smartcity.kcg.gov.tw/cp.aspx?n=A2FBFAD8865A7F12&s=6A0224F17F5FA755",
+          "quote": "高雄攜手台灣人工智慧實驗室（Taiwan AI Labs）及高雄醫學大學附設中和紀念醫院、高雄長庚紀念醫院、高雄榮民總醫院、義大醫療財團法人義大醫院，共同成立「高雄聯合學習智慧醫療聯盟」"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:18.961Z"
+    }
+  },
+  {
+    "question": "去識別化技術會將醫療數據完全破壞，使其雖然保障了隱私，但同時也無法再被拿來做 AI 訓練使用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "解碼高雄AI醫療",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://taic.moda.gov.tw/datasets/6f46f7a8-5d19-41ec-a5d0-968d58cb1933",
+          "quote": "《隱私強化技術應用指引》說明如何在保障個人隱私的前提下，透過技術手段如差分隱私、合成資料、同態加密、聯合學習等，實現資料的安全使用與分享。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:14:18.961Z"
+    }
+  },
+  {
+    "question": "選擇 AI 模型時，以下哪一項是正確的策略觀念？",
+    "type": "單選",
+    "options": [
+      "選效能最高者即可",
+      "避免使用開放平台",
+      "依據任務需求選擇合適模型",
+      "盡量同時使用多款模型"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "依據任務需求選擇合適模型",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "依據任務需求選擇合適模型",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "協助學員釐清功能差異與選用原則"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "下列何者最可能使用生成對抗網路（GAN）技術？",
+    "type": "單選",
+    "options": [
+      "撰寫新聞稿初稿",
+      "生成政策摘要",
+      "回答民眾常見問題",
+      "製作災害情境模擬圖像"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "製作災害情境模擬圖像",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "製作災害情境模擬圖像",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "下列何者最能描述生成式 AI 的基本運作方式？",
+    "type": "單選",
+    "options": [
+      "理解語言意義後推理回答",
+      "預測最有可能出現的字詞或句子",
+      "依賴人工設定固定回應",
+      "由感測器即時輸入指令"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "預測最有可能出現的字詞或句子",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "預測最有可能出現的字詞或句子",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "以下哪項不屬於深度學習技術擅長的任務？",
+    "type": "單選",
+    "options": [
+      "圖像分類",
+      "稅收政策設計",
+      "語音辨識",
+      "自然語言理解"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "稅收政策設計",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "稅收政策設計",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "專家系統的主要限制之一是什麼？",
+    "type": "單選",
+    "options": [
+      "學習能力太強",
+      "執行速度過快",
+      "容易情緒化",
+      "缺乏靈活應對未知情境的能力"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "缺乏靈活應對未知情境的能力",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "缺乏靈活應對未知情境的能力",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "系統介紹人工智慧從符號推理、機器學習到生成式模型的技術演進歷程"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "以下哪項敘述最能區分 LLM 和 GAN 的生成內容？",
+    "type": "單選",
+    "options": [
+      "LLM 擅長圖像生成，GAN 擅長文字生成",
+      "LLM 使用感測器學習，GAN 使用統計預測",
+      "LLM 產生文字，GAN 產生圖像或影音",
+      "LLM 負責訓練 GAN 的判別器"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "LLM 產生文字，GAN 產生圖像或影音",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "LLM 產生文字，GAN 產生圖像或影音",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042887",
+          "quote": "說明大型語言模型（LLM）與生成對抗網路（GAN）背後的運作邏輯與應用場景"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:18.390Z"
+    }
+  },
+  {
+    "question": "使用 AI 協助 Excel 工作時，可以請 AI 提供資料篩選、轉換及最佳化的建議。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "AI工具賦能-Excel X AI應用",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047496",
+          "quote": "•數據前處理策略：依據 AI 建議進行數據篩選、轉換與最佳化"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:37.507Z"
+    }
+  },
+  {
+    "question": "請問下列哪一個「不是」數位證書的優點?",
+    "type": "單選",
+    "options": [
+      "一鍵驗證真偽",
+      "可避免偽、變造",
+      "需要再跟原發證單位確認真偽",
+      "證書可設定期限、可被撤回"
+    ],
+    "course": "數位資產的經濟社會效益",
+    "answer": "需要再跟原發證單位確認真偽",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "需要再跟原發證單位確認真偽",
+      "sources": [
+        {
+          "url": "https://www.exam.gov.tw/NHRF/News_EpaperContent.aspx?n=3778&s=49202&type=BD9B4A61760FEA3D",
+          "quote": "驗證者只需以免費的PDF檢視軟體或掃描證書上的QR code，即可驗證證書真偽"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:16:40.402Z"
+    }
+  },
+  {
+    "question": "請問在DeFi中，交易驗證的主要技術是什麼?",
+    "type": "單選",
+    "options": [
+      "中心化伺服器",
+      "傳統銀行系統",
+      "簡訊動態密碼",
+      "區塊鏈技術"
+    ],
+    "course": "數位資產的經濟社會效益",
+    "answer": "區塊鏈技術",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "區塊鏈技術",
+      "sources": [
+        {
+          "url": "https://findit.sme.gov.tw/tw/Res/2195",
+          "quote": "透過區塊鏈帳本記載特定資產的權益"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:16:40.402Z"
+    }
+  },
+  {
+    "question": "根據課程內容，如何安心使用 AI 工具？",
+    "type": "單選",
+    "options": [
+      "避免在任何場景使用",
+      "交由技術單位全權負責",
+      "所有回答都公開透明",
+      "釐清用途、保留紀錄、建立人工審查"
+    ],
+    "course": "AI 倫理與治理基礎",
+    "answer": "釐清用途、保留紀錄、建立人工審查",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "釐清用途、保留紀錄、建立人工審查",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042888",
+          "quote": "課程亦將探討現行法規在應對生成式 AI 上的挑戰，並提出合規流程建置、使用紀錄保存與內部審查制度之初步建議。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:18:01.673Z"
+    }
   }
 ]

@@ -29,17 +29,30 @@
     ],
     "type": "是非",
     "course": "AI工具賦能-Excel X AI應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T07:29:11.351Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T02:19:50.662Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.682Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047496",
+          "quote": "•數據前處理策略：依據 AI 建議進行數據篩選、轉換與最佳化"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:15:37.507Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b88fdd55a6f4ab684be08ae8606096f1bc38af3b42e2ba2e11abde9d76880f25",

@@ -75,17 +75,30 @@
     ],
     "type": "單選",
     "course": "IT資安治理成熟度評估機制說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "10個",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T01:55:36.513Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-16T00:20:27.393Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:18:33.226Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "11個",
+      "sources": [
+        {
+          "url": "https://www.wra.gov.tw/epaper/Article_Detail.aspx?n=30173&s=8939",
+          "quote": "該評估機制將資安治理分為三個面向：策略、管理和技術，並將其細分為11個流程構面。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:13:43.235Z"
+    },
+    "resolved_answer": "11個"
   },
   {
     "id": "c44ae5e76e1e7647c00744f2bb576dfd46c1d41ae684020ce1aa62e003e8b82f",
