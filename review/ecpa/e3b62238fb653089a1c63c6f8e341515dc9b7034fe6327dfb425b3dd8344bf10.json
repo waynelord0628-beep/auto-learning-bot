@@ -387,7 +387,7 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "稅收政策設計",
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
     "review_state": "candidate_ready",
@@ -410,7 +410,9 @@
       },
       "reason": "insufficient",
       "checked_at": "2026-10-20T08:41:18.214Z"
-    }
+    },
+    "retry_count": 1,
+    "retry_after": "2026-10-21T13:19:46.082Z"
   },
   {
     "id": "7a3f7f83581278dcda8a95b093fe62496e91eb6e7721e0854c0121c4bab15b04",
@@ -426,7 +428,7 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "缺乏靈活應對未知情境的能力",
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
     "review_state": "candidate_ready",
@@ -449,7 +451,9 @@
       },
       "reason": "insufficient",
       "checked_at": "2026-10-20T08:41:18.215Z"
-    }
+    },
+    "retry_count": 1,
+    "retry_after": "2026-10-21T13:19:46.082Z"
   },
   {
     "id": "728217626a2b87833b96f95ea95a5ace9b3c1c11ef8383a3aafefe4e6c693b54",
@@ -465,7 +469,7 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "LLM 產生文字，GAN 產生圖像或影音",
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:05:33.967Z",
     "review_state": "candidate_ready",
@@ -488,7 +492,9 @@
       },
       "reason": "insufficient",
       "checked_at": "2026-10-20T08:41:18.215Z"
-    }
+    },
+    "retry_count": 1,
+    "retry_after": "2026-10-21T13:19:46.082Z"
   },
   {
     "id": "9c3ad1f9fac294f73694139f86e9203b0d66cf9689e0cbee5bb295d0189f2b92",
