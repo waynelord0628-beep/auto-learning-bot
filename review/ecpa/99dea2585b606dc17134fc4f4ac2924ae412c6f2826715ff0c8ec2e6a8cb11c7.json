@@ -13,11 +13,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "when",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.950Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "d05233bafda95f221c5b29dc73a47d30f015ef7e3753285b7dcd580e4ce67f7a",
@@ -33,11 +34,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "because",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.951Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "eb68c9280707d986bdbeae7e1e3937f1004a70ca64441ba2a709e8e711fa104f",
@@ -53,11 +55,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.951Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "4876012ed8be85d40fdc41f50367386ef2cf80a75c1258c56e7e0de1ed73d5ea",
@@ -71,11 +74,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.952Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "8a9c2a82633033d3ebbd444f4da2251ad7a4ce4527f306f6d5df172f595c16e2",
@@ -89,11 +93,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.952Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "affc8463a7e3328eafdaac5a3383ef6fc9b965673d4aea93e716b1e45205f84d",
@@ -107,11 +112,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.953Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "5c800e5de2f6dc1c9d43455fc8d23bad0c2c60b71a3e88ed4488799239766c70",
@@ -125,11 +131,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.953Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "83c8f1fd8f869143e34d4d934c254c040ebb3dc6df8430970042d1529eb16d71",
@@ -143,11 +150,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.953Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "0ea1a76ed8b9637f1f6d9456df3ee7230eb28c02212659288536b897970fa284",
@@ -161,11 +169,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.954Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "08dafb3a792960232804f8a116eb2d7af4cff0a7a8ce7b7fabddbd41180933c4",
@@ -181,11 +190,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "以上皆可",
+    "source": "ai_unverified",
     "created_at": "2026-10-18T23:07:54.954Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-10-21T01:19:37.912Z"
   },
   {
     "id": "1bfda142c7d91d9a2af8d708d20c696d8ba28c872841889cec8f8c47c2df177c",
