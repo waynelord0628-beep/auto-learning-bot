@@ -164,15 +164,7 @@ python ui.py
 最小基準沿用舊版打包方式：
 
 ```cmd
-uv run pyinstaller ^
---noconsole ^
---onefile ^
---name "行政效能領航員" ^
---collect-all selenium ^
---add-data "icons;icons" ^
---add-data "login.png;." ^
---add-data "screen.png;." ^
-ui.py
+uv run pyinstaller --noconfirm "行政效能領航員_V2.1.10.spec"
 ```
 
 V2.1.2 因新增臺北E大，需要額外帶入：
@@ -186,11 +178,7 @@ V2.1.2 因新增臺北E大，需要額外帶入：
 - `db_version.txt`
 - `version.txt`
 
-目前產出的 V2.1.2 exe：
-
-```txt
-C:\Users\88697\Documents\Codex\2026-06-05\new-chat-2\outputs\行政效能領航員_V2.1.2.exe
-```
+目前建置設定為 `行政效能領航員_V2.1.10.spec`，輸出位於 `dist/`。爬蟲的 `scrapers/*_progress.json` 是本機續跑檔，不再提交到 Git；既有本機檔案可以繼續使用。
 
 ---
 

@@ -815,7 +815,6 @@ function reportBackendError(error, action) {
 
 // Source-backed AI review is distinct from a platform-disclosed answer key.
 function ecpaReviewApi(body) {
-  return {data:{},urls:[],searched:false,disabled:true}; // Paid cloud AI paused by owner.
   const r = UrlFetchApp.fetch('https://api.openai.com/v1/responses', {
     method:'post', contentType:'application/json', headers:{Authorization:'Bearer ' + OPENAI_KEY},
     payload:JSON.stringify(Object.assign({model:'gpt-4.1',store:false,max_output_tokens:1800},body)), muteHttpExceptions:true
@@ -895,7 +894,7 @@ function ecpaCanAutoVerify(q, now) {
     ['candidate_ready','awaiting_candidate','awaiting_evidence'].includes(q.review_state) &&
     !q.candidate_conflict && q.type !== '多選' &&
     ecpaReviewOptions(q).length >= 2 && ecpaReviewOptions(q).every(Boolean) &&
-    (q.verify_policy !== 'course_first_v1' ||
+    (q.verify_policy !== 'course_first_v2' ||
       ((q.verify_attempts || 0) < 3 && (!q.verify_after || Date.parse(q.verify_after) <= now)));
 }
 function processEcpaReviewQueue() {
@@ -976,9 +975,10 @@ function ecpaSaveSourceReview(path,original,verdict,error) {
     const queue=JSON.parse(ecpaReadAt(path,head,'[]'));
     const q=queue.find(x=>x.id===original.id && ecpaReviewIdentity(x)===ecpaReviewIdentity(original));
     if (!ecpaCanAutoVerify(q,Date.now())) return 0;
-    q.verify_attempts=(q.verify_policy==='course_first_v1'?(q.verify_attempts||0):0)+1;
-    q.verify_policy='course_first_v1';
-    q.verify_after=new Date(Date.now()+7*86400000).toISOString();
+    // Service/quota failures are not completed evidence checks.
+    q.verify_attempts=(q.verify_policy==='course_first_v2'?(q.verify_attempts||0):0)+(error?0:1);
+    q.verify_policy='course_first_v2';
+    q.verify_after=new Date(Date.now()+(error?1:7)*86400000).toISOString();
     q.verification_status=error?'service_error':(verdict?'source_supported':'insufficient_sources');
     const patches=JSON.parse(ecpaReadAt(ECPA_PATCH_PATH,head,'[]'));
     let published=0;

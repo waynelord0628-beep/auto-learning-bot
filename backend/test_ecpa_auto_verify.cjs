@@ -40,9 +40,30 @@ s=setup();s.race();assert.throws(()=>s.ctx.ecpaSaveSourceReview('queue',q,verdic
 s=setup();assert.equal(s.ctx.ecpaSaveSourceReview('queue',q,null,true),0);assert.equal(s.files.patch,'[]');assert.equal(s.ctx.ecpaCanAutoVerify(JSON.parse(s.files.queue)[0],Date.now()),false);
 assert.equal(s.ctx.ecpaCanAutoVerify({...q,reason:'exam_failed_unverified'},Date.now()),false);
 assert.equal(s.ctx.ecpaCanAutoVerify({...q,type:'多選'},Date.now()),false);
-assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_policy:'course_first_v1'},Date.now()),false);
+assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_policy:'course_first_v2'},Date.now()),false);
+assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_policy:'course_first_v1',verify_after:'2999-01-01'},Date.now()),true);
 assert.equal(s.ctx.ecpaCanAutoVerify({...q,verify_attempts:3,verify_after:'2999-01-01'},Date.now()),true);
 s=setup();s.ctx.maintainEcpaReviewQueue=()=>({ok:true});s.ctx.ecpaAutoVerifyBatch=()=>({ok:true});
 s.ctx.processEcpaReviewQueue();assert.equal(s.props.ECPA_VERIFY_USED,'3');assert.equal(s.props.ECPA_VERIFY_LEASE_UNTIL,'0');
 s.props.ECPA_VERIFY_USED='48';assert.equal(s.ctx.processEcpaReviewQueue().status,'daily_budget');
+s=setup();s.ctx.ecpaSaveSourceReview('queue',q,null,true);
+let failed=JSON.parse(s.files.queue)[0];
+assert.equal(failed.verify_policy,'course_first_v2');assert.equal(failed.verify_attempts,0);
+assert.equal(failed.verification_status,'service_error');
+assert.ok(Date.parse(failed.verify_after)>Date.now());
+assert.ok(Date.parse(failed.verify_after)<Date.now()+2*86400000);
+s=setup();vm.runInContext(code,s.ctx);s.ctx.OPENAI_KEY='fake-test-key';
+let request;
+s.ctx.UrlFetchApp.fetch=(url,options)=>{request={url,options};return {
+ getResponseCode:()=>200,getContentText:()=>JSON.stringify({status:'completed',output:[
+  {type:'web_search_call',status:'completed',action:{sources:[{url:'https://test.gov.tw/source'}]}},
+  {type:'message',content:[{type:'output_text',text:'{"answer":"B"}'}]}
+ ]})};};
+const actual=s.ctx.ecpaReviewApi({input:'test fixture'});
+assert.equal(actual.searched,true);assert.equal(actual.data.answer,'B');
+assert.equal(request.url,'https://api.openai.com/v1/responses');
+const payload=JSON.parse(request.options.payload);
+assert.equal(payload.model,'gpt-4.1');assert.equal(payload.store,false);assert.equal(payload.max_output_tokens,1800);
+s.ctx.UrlFetchApp.fetch=()=>({getResponseCode:()=>429});
+assert.throws(()=>s.ctx.ecpaReviewApi({input:'test fixture'}),/Review API HTTP 429/);
 console.log('PASS: source checks, independent verdict, atomic publication, duplicates, conflicts, retry limits and budget');

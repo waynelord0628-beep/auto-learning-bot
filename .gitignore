@@ -23,7 +23,7 @@ dist/update_debug.log
 # PyInstaller 建置產物
 build/
 dist/
-*.spec
+# .spec 是可重現建置設定，保留版本控管。
 *.spec.bak
 
 # 環境
@@ -44,3 +44,6 @@ Thumbs.db
 
 # Local anonymous usage identity
 usage_state.json
+
+# 爬蟲續跑進度僅保留在本機，來源網址清單仍保留版本控管。
+scrapers/*_progress.json
