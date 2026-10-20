@@ -111772,5 +111772,30 @@
       "model": null,
       "checked_at": "2026-10-20T03:54:21.508Z"
     }
+  },
+  {
+    "question": "The family traveled around the world &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;introducing the children to different cultures.",
+    "type": "單選",
+    "options": [
+      "with a view to",
+      "on condition that",
+      "despite of",
+      "in connection with"
+    ],
+    "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
+    "answer": "with a view to",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "with a view to",
+      "sources": [
+        {
+          "url": "https://ws.csptc.gov.tw/001/Upload/ebook/%E5%85%AC%E5%8B%99%E5%AF%A6%E7%94%A8%E8%8B%B1%E8%AA%9E/practical_english_ebook3/files/basic-html/page32.html",
+          "quote": "The family traveled around the world with a view to introducing the children to different cultures."
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T05:20:28.860Z"
+    }
   }
 ]
