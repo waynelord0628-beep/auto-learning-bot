@@ -124,7 +124,11 @@
     "candidate_answer": "come in",
     "source": "ai_unverified",
     "created_at": "2026-10-08T19:51:12.760Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T04:20:20.419Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "4870dd565e8534032b1a90aad02d57d6c39fd1e92ee97b016b6a836c71919bb5",
