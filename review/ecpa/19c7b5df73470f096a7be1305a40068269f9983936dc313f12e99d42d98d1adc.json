@@ -155,17 +155,38 @@
     ],
     "type": "單選",
     "course": "114年資訊安全教育訓練(一般人員)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T10:42:55.437Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T14:20:36.217Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:45:32.958Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:45:31.874Z"
+    },
+    "resolved_answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資"
   },
   {
     "id": "f625669dda907986b5c4753989a0f290e8b5dcc469e9818c9c898db420ec246a",

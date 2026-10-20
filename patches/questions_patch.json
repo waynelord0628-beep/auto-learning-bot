@@ -108120,5 +108120,137 @@
       "model": null,
       "checked_at": "2026-10-20T03:40:08.479Z"
     }
+  },
+  {
+    "question": "關於【駭客攻擊程序】，下列何者正確？",
+    "type": "單選",
+    "options": [
+      "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+      "情蒐與研究 -> 破壞/奪權/竊資 -> 社交工程攻擊",
+      "社交工程攻擊 -> 情蒐與研究 -> 破壞/奪權/竊資",
+      "以上皆非"
+    ],
+    "course": "114年資訊安全教育訓練(一般人員)",
+    "answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "情蒐與研究 -> 社交工程攻擊 -> 破壞/奪權/竊資",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/114ee_02012868302.html",
+          "title": "「114年資訊安全教育訓練(一般人員)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526065",
+          "title": "114年資訊安全教育訓練(一般人員)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:45:31.874Z"
+    }
+  },
+  {
+    "question": "依據本課程內容，一般而言企業的資安文化如何演變？",
+    "type": "單選",
+    "options": [
+      "搞認證->買設備->講當責",
+      "講當責->買設備->搞認證",
+      "買設備->搞認證->講當責",
+      "講當責->搞認證->買設備"
+    ],
+    "course": "企業資安治理新思維",
+    "answer": "買設備->搞認證->講當責",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "買設備->搞認證->講當責",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137241",
+          "title": "企業資安治理新思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137241",
+          "title": "企業資安治理新思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:45:31.895Z"
+    }
+  },
+  {
+    "question": "台積電員工電腦帳號密碼管理，何者敘述正確？",
+    "type": "單選",
+    "options": [
+      "密碼長度>=6",
+      "必須包含英文字母大小寫、數字、特殊字元等複雜度4種",
+      "定期90天更改",
+      "失敗次數>=3封鎖"
+    ],
+    "course": "供應鏈資安強化策略與實務(TSM經驗分享)",
+    "answer": "定期90天更改",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "定期90天更改",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/tsmee.html",
+          "title": "「供應鏈資安強化策略與實務(TSM經驗分享)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137249",
+          "title": "供應鏈資安強化策略與實務(TSM經驗分享)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:45:31.913Z"
+    }
+  },
+  {
+    "question": "依據本課程內容，新光醫院導入Azure的流程，何者正確？",
+    "type": "單選",
+    "options": [
+      "需求調查->系統開發->版本控制->持續交付->持續整合->整合儀表板",
+      "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
+      "需求調查->系統開發->持續交付->持續整合->版本控制->整合儀表板",
+      "需求調查->系統開發->持續交付->版本控制->持續整合->整合儀表板"
+    ],
+    "course": "醫療雲端運用Azure 經驗及案例分享",
+    "answer": "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "需求調查->系統開發->版本控制->持續整合->持續交付->整合儀表板",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:45:31.930Z"
+    }
   }
 ]
