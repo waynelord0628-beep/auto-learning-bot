@@ -10,14 +10,31 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.365Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T02:34:28.328Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "是指組織在中斷期間為實現其業務目標而可接受的服務或產品的最低能力或水準。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:34:27.213Z"
+    },
+    "resolved_answer": "是指組織在中斷期間為實現其業務目標而可接受的服務或產品的最低能力或水準。"
   },
   {
     "id": "01465bfd0cf7d4997f33f5fcd74f4509b0df41dc2d13d996ce94b863b700d3be",
