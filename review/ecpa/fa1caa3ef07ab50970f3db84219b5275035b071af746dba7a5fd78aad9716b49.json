@@ -46,13 +46,30 @@
     ],
     "type": "單選",
     "course": "性別與空間",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "廁所內外強調以二元性別區分空間",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T07:17:52.135Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:20:06.448Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "廁所內外強調以二元性別區分空間",
+      "sources": [
+        {
+          "url": "https://www.abri.gov.tw/PeriodicalDetail.aspx?isShowAll=false&key=115&n=861&s=3111",
+          "quote": "廁所內外不強調性別區分空間，也無性別檢視之標示或空間感受。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:05.757Z"
+    },
+    "resolved_answer": "廁所內外強調以二元性別區分空間"
   },
   {
     "id": "1524f533bf103203617cbb8af015d41fe1cfbfa1954e4d494b58ae6aacdb6cbe",

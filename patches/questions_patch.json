@@ -115972,5 +115972,30 @@
       "model": "gpt-4.1",
       "checked_at": "2026-10-20T08:18:01.673Z"
     }
+  },
+  {
+    "question": "性別友善廁所設計的重點不包括以下哪一項？",
+    "type": "單選",
+    "options": [
+      "隔間隱私性",
+      "警鈴和防偷拍偵測",
+      "廁所內外強調以二元性別區分空間",
+      "區位及外部監督"
+    ],
+    "course": "性別與空間",
+    "answer": "廁所內外強調以二元性別區分空間",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "廁所內外強調以二元性別區分空間",
+      "sources": [
+        {
+          "url": "https://www.abri.gov.tw/PeriodicalDetail.aspx?isShowAll=false&key=115&n=861&s=3111",
+          "quote": "廁所內外不強調性別區分空間，也無性別檢視之標示或空間感受。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:20:05.757Z"
+    }
   }
 ]
