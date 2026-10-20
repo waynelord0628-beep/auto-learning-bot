@@ -121,14 +121,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.319Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "知識的留存與管理",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.854Z"
+    },
+    "resolved_answer": "知識的留存與管理"
   },
   {
     "id": "12b0ea9f82943ebec5fd3a9ad6d26aa23e0fb752aef766d89cb0ce2cdcd9295c",
@@ -141,14 +162,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.341Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "將中斷時優先活動找出，因為若未能及時恢復，可能導致不可接受的不利影響",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.854Z"
+    },
+    "resolved_answer": "將中斷時優先活動找出，因為若未能及時恢復，可能導致不可接受的不利影響"
   },
   {
     "id": "3f810b1ddb5656235d279fde71e762ca11e5abc9da72ed5f4df1bd57cb2af2f4",
@@ -161,14 +203,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.368Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.366Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "堅韌性 (Robustness)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.855Z"
+    },
+    "resolved_answer": "堅韌性 (Robustness)"
   },
   {
     "id": "3db8597ae4902cded493b98433bf947eb87f736ace0da9078494056bd67c7a0d",
@@ -181,14 +244,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.368Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.388Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在變動環境中吸收與適應的能力",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.855Z"
+    },
+    "resolved_answer": "在變動環境中吸收與適應的能力"
   },
   {
     "id": "be6f1183d9b4bca886415e7e888da1ef5a8e048c41f8ace710da64f7d02b7427",
@@ -201,14 +285,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.369Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.410Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Falcon Sensor更新程式出現問題",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.855Z"
+    },
+    "resolved_answer": "Falcon Sensor更新程式出現問題"
   },
   {
     "id": "3c038bf9b6c558df681be391f152500ba249f7d0cfddff155b1dac2f898461a5",
@@ -221,14 +326,35 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.369Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.431Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "異地備援端備有同樣之系統，事件發生時在可接受的時間內恢復啟用。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.858Z"
+    },
+    "resolved_answer": "異地備援端備有同樣之系統，事件發生時在可接受的時間內恢復啟用。"
   },
   {
     "id": "54806dfb0731f2ffc6832761a9ffed20f9d5beabab8d311938208875478c5f1c",
@@ -241,13 +367,34 @@
     ],
     "type": "單選",
     "course": "政府營運數位韌性建構指南",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T13:15:46.370Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.452Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "冗餘性 (Redundancy)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.858Z"
+    },
+    "resolved_answer": "冗餘性 (Redundancy)"
   }
 ]

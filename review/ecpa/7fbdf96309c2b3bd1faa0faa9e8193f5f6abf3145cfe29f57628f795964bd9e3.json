@@ -118,13 +118,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資料隱私與資安風險",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.743Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.087Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資料隱私與資安風險",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "資料隱私與資安風險"
   },
   {
     "id": "c33aa41f03dbfbc24941b3611b22482973dd0f84ac135646b4a382874b7e3493",
@@ -137,13 +158,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提升服務可及性，減少數位落差",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.744Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.111Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升服務可及性，減少數位落差",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "提升服務可及性，減少數位落差"
   },
   {
     "id": "41008368c45e1985b834f75ff782f4cafd1c5511085731d458243a6815985942",
@@ -156,13 +198,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "記錄訓練數據並說明決策形成過程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.745Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.138Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "記錄訓練數據並說明決策形成過程",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "記錄訓練數據並說明決策形成過程"
   },
   {
     "id": "f13899683eab4c5fc1a7ac5b7ed6a2841d949e8698d56b7119da3c9f3ab15060",
@@ -175,13 +238,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透過大量數據偵測可疑行為",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.747Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.164Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "透過大量數據偵測可疑行為",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "透過大量數據偵測可疑行為"
   },
   {
     "id": "2495e2c19b9e1e895ccbc459207769cc893408d43bbe03fe5982438cb70cb593",
@@ -194,13 +278,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Design",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.748Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.192Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Domain",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "Domain"
   },
   {
     "id": "7dfb6f783da5db0703e00956b663b8623128cc805310dac20a32bdb560ac7f5e",
@@ -213,13 +318,34 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "實現包容、公平、永續的金融科技生態環境",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.749Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.220Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "實現包容、公平、永續的金融科技生態環境",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "實現包容、公平、永續的金融科技生態環境"
   },
   {
     "id": "44bd3bbfcf73b31d5d885175bbcae0a366ef84faa4f52dd42e1765da604da6f3",
@@ -232,12 +358,33 @@
     ],
     "type": "單選",
     "course": "金融科技發展與應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提高金融機構經營效率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T16:54:36.751Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.242Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提高金融機構經營效率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_910.html",
+          "title": "「金融科技發展與應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137141",
+          "title": "金融科技發展與應用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.835Z"
+    },
+    "resolved_answer": "提高金融機構經營效率"
   }
 ]

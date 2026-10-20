@@ -118,13 +118,34 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "分散式雲端服務讓企業依自身需求選擇部署，並滿足合規要求",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.329Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.595Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "分散式雲端服務讓企業依自身需求選擇部署，並滿足合規要求",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.883Z"
+    },
+    "resolved_answer": "分散式雲端服務讓企業依自身需求選擇部署，並滿足合規要求"
   },
   {
     "id": "dbad1d13d79c235246e451cf499085d4d3ccbac1ba66b5b1e3293cede177dc31",
@@ -137,13 +158,34 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "虛擬化的計算能力和可擴充性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.330Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.616Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "虛擬化的計算能力和可擴充性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.883Z"
+    },
+    "resolved_answer": "虛擬化的計算能力和可擴充性"
   },
   {
     "id": "459a8c572745f2d722e7434ac6641f909ee775925190ec0e2cfeab60061e3fcf",
@@ -156,13 +198,34 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.330Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.636Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.883Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "785cd1a520a036bbd226e04a335a236a2be52d1b327b8ae51f7cac696d8173d2",
@@ -175,13 +238,34 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "敏捷且分散式維運",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.331Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.659Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資源彈性擴充",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.884Z"
+    },
+    "resolved_answer": "資源彈性擴充"
   },
   {
     "id": "acf0fd91524079fbe3c9284d91cbd9a3af46ea822dfa3bc5f25949a5cc607f6f",
@@ -194,13 +278,34 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "銀行帳戶業務數位化，業務能以專屬APP完成",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.689Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "傳統銀行櫃檯可進行的業務，都能在純網銀申辦",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.886Z"
+    },
+    "resolved_answer": "傳統銀行櫃檯可進行的業務，都能在純網銀申辦"
   },
   {
     "id": "63f8d70b56cdf3487b29d31c8df06e6c26627cbb880c402be5266ef2a8e70048",
@@ -211,13 +316,34 @@
     ],
     "type": "是非",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.717Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.886Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "24a54cf751e6e80a4056842e94ba86ba97521fa667cdcca49264ebadf846f797",
@@ -230,12 +356,33 @@
     ],
     "type": "單選",
     "course": "雲架構對純網銀的現在與未來",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T11:06:50.333Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.743Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_806.html",
+          "title": "「雲架構對純網銀的現在與未來」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137077",
+          "title": "雲架構對純網銀的現在與未來《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:42.886Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

@@ -44,17 +44,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Yilan River, Lanyang River, Dongshan River",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.569Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T01:19:56.616Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.879Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Yilan River, Lanyang River, Dongshan River",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.837Z"
+    },
+    "resolved_answer": "Yilan River, Lanyang River, Dongshan River"
   },
   {
     "id": "48b1f8576527e4a088986aa7c88e9d1e85d32fa23fb923793ce5d2bdaca76ed4",
@@ -67,17 +80,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Eels are endangered, so other countries have imposed a ban on eel catching.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.570Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T01:20:05.925Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Eels’ harvesting procedure is too complicated to be duplicated.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.837Z"
+    },
+    "resolved_answer": "Eels’ harvesting procedure is too complicated to be duplicated."
   },
   {
     "id": "7b487ecd5b591dad281de3d04522b01514c379b18c40b35d6cc702b3f223a2e5",
@@ -90,17 +116,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "emerge",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.571Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T01:20:14.258Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.940Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "emerge",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.838Z"
+    },
+    "resolved_answer": "emerge"
   },
   {
     "id": "839583941aa6171b87b39e466270131d72745823ad6d1f3dd79429fc37f16a43",
@@ -113,13 +152,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "a situation in which something increases and decreases in a kind of pattern",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.572Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.972Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "a situation in which something increases and decreases in a kind of pattern",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.838Z"
+    },
+    "resolved_answer": "a situation in which something increases and decreases in a kind of pattern"
   },
   {
     "id": "3c7adcf57ef9ec0e676aee2ff7a309a18a42070f6b4db6785a35b43781173c71",
@@ -187,13 +243,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "slice",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.573Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.012Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "slice",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.838Z"
+    },
+    "resolved_answer": "slice"
   },
   {
     "id": "3e34b2ea84aef83497f0eea32755844695ddf43acd8c2476559f6b071d47921b",
@@ -206,17 +279,30 @@
     ],
     "type": "單選",
     "course": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "marinated",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T08:41:26.574Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T03:12:04.765Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T03:34:45.042Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "marinated",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337699733",
+          "title": "桌上的鰻魚原來從這裡來的！深夜來去海邊捕鰻苗【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:35.838Z"
+    },
+    "resolved_answer": "marinated"
   },
   {
     "id": "b64a750c629cc5855e503a3f9b45d814f3be024504f319903a1c8ba03b5757bc",

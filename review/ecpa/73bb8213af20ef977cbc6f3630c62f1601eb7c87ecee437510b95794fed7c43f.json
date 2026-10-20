@@ -120,15 +120,36 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "福利權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:43:42.391Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-03T06:19:48.433Z"
+    "retry_after": "2026-10-03T06:19:48.433Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.849Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "福利權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.814Z"
+    },
+    "resolved_answer": "福利權"
   },
   {
     "id": "b00b2338e067570c47765d2fe67226e87a9636889a0cb1b8993f36e160f81f3f",
@@ -160,15 +181,36 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "間接歧視",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:43:42.396Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-03T06:19:48.433Z"
+    "retry_after": "2026-10-03T06:19:48.433Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.874Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "間接歧視",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.817Z"
+    },
+    "resolved_answer": "間接歧視"
   },
   {
     "id": "2c38ef0db78f44e62f300503c487fe1fe9531c8db8e00c7f288f029b78e085e2",
@@ -198,13 +240,34 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:43:42.403Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.896Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.817Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "f6fedae6ce8f06afac2b88e84b6841d76ef8fedcb7742382c9489e326400c364",
@@ -272,13 +335,34 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:44:17.642Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.919Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.818Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f26798b52d8c4f20ba6d22b653a8e3d4344746d8ebf0739e9d582a810fab99bc",
@@ -327,13 +411,34 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:44:47.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.945Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.818Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2cda76ce6fae8c7dc55008c4f69bc4fbf38ba110aa627f85958194fcb3a622c5",
@@ -344,13 +449,34 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T20:44:47.768Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.971Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.818Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "7fbc751eef977d3afbb46f7887103e2ec7d507d245c341bda99726a6e59ef218",
@@ -380,12 +506,33 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T10:16:05.304Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:43.995Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/crpd1crpdee.html",
+          "title": "「身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15191164286",
+          "title": "身心障礙者權利公約(CRPD)第1講：何謂障礙？CRPD精神《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.818Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

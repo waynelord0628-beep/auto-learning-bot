@@ -212,13 +212,34 @@
     ],
     "type": "是非",
     "course": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T18:03:54.371Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.822Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.344Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b1a99123b1f2c0e55fb10898b76b130507a3528034c58aeabf952d8488ede091",
@@ -229,13 +250,34 @@
     ],
     "type": "是非",
     "course": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T18:03:54.376Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.854Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.345Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4c205aa31ea4afc23662f5f6de63286a9a052b78df01f71dfad2bc98096e2a7a",
@@ -246,13 +288,34 @@
     ],
     "type": "是非",
     "course": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T18:03:54.378Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.882Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.345Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f6ff0c5d1754d80c63921a7a841c851b013338e073176168e88765446e1d8c1d",
@@ -263,12 +326,33 @@
     ],
     "type": "是非",
     "course": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T18:03:54.381Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.906Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15342961597",
+          "title": "111年度「精進食品製造業者一級品管自主管理職能計畫」課程《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.345Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

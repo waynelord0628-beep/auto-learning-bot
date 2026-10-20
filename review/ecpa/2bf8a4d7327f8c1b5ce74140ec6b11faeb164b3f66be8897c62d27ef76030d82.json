@@ -173,13 +173,34 @@
     ],
     "type": "是非",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.823Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.446Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:59.243Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "6af11f3a683e192daf6f062841cc40f103672399d1269d4b3de5c8c7a2a9c3db",
@@ -192,13 +213,34 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The price is unaffordable.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.823Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.485Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The price is unaffordable.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:59.243Z"
+    },
+    "resolved_answer": "The price is unaffordable."
   },
   {
     "id": "e091a887e3c3105c12190cd727e0298da1cb1c11dbce11f7b941ebfaec3101f3",
@@ -211,13 +253,34 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Fort San Domingo",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.824Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.521Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Fort San Domingo",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:59.243Z"
+    },
+    "resolved_answer": "Fort San Domingo"
   },
   {
     "id": "ae1aeaca58dbadff175a52a8cc003dcc1e1fcff5b85ea27875216ea4f0c35d87",

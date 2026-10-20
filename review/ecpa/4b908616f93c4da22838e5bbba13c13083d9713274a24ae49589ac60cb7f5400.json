@@ -141,13 +141,34 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "持續交付",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.765Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.669Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "持續交付",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.800Z"
+    },
+    "resolved_answer": "持續交付"
   },
   {
     "id": "0e5ea778a9de4e63c28032db836078fbe1deff26c9d394efb5e5d76d2821d5d4",
@@ -160,13 +181,34 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫院資料治理的工作平台",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.696Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫院資料治理的工作平台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.800Z"
+    },
+    "resolved_answer": "醫院資料治理的工作平台"
   },
   {
     "id": "34e45003a0d08a54e64fadb11bdba077d9a6fbfc1bbd705090d8d69767e06221",
@@ -179,13 +221,34 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.766Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.721Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "搭建微服務群集",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.800Z"
+    },
+    "resolved_answer": "搭建微服務群集"
   },
   {
     "id": "4e905a00e93877f3e39a041d75ea357b38ec402f325d836ad2ee8e41926cf258",
@@ -198,13 +261,34 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.767Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.747Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.800Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4ce6de4886c1aa389547910d9a2aca706011bd756c036b9ddb7bfb8be6dfb05c",
@@ -217,13 +301,34 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提供衛教資訊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.769Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.778Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供衛教資訊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.801Z"
+    },
+    "resolved_answer": "提供衛教資訊"
   },
   {
     "id": "3d2916b03f322805518580e84ab2672fb903564cda216bdb51837644bed8f8c4",
@@ -236,12 +341,33 @@
     ],
     "type": "單選",
     "course": "醫療雲端運用Azure 經驗及案例分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AI Bot",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:49:07.771Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.807Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ChatGPT",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/azure-ee.html",
+          "title": "「醫療雲端運用Azure 經驗及案例分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137265",
+          "title": "醫療雲端運用Azure 經驗及案例分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.801Z"
+    },
+    "resolved_answer": "ChatGPT"
   }
 ]

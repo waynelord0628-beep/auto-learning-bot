@@ -220,13 +220,34 @@
     ],
     "type": "單選",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "harbor",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.708Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.028Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "harbor",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.627Z"
+    },
+    "resolved_answer": "harbor"
   },
   {
     "id": "38862d01f4e9d75d6dcafc49e876b9a0c27822247f6c2b7108ec86d8427ce4c3",
@@ -239,13 +260,34 @@
     ],
     "type": "單選",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建議",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.709Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.048Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建議",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.627Z"
+    },
+    "resolved_answer": "建議"
   },
   {
     "id": "0ba9ec82be4ae1ce85ce58c53994e544cdedc4b3f57dabf6b417006334c9bec3",
@@ -256,13 +298,34 @@
     ],
     "type": "是非",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:28:51.709Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.072Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.627Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bcbcb11e2bd415cd91740483d3ade36d2e8c08c3658168070dc6bc296bf67609",
@@ -275,13 +338,34 @@
     ],
     "type": "單選",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "暫停",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:29:30.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.093Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "懸掛",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.627Z"
+    },
+    "resolved_answer": "懸掛"
   },
   {
     "id": "75722c68ed65502d2524f64cd6f95327a9e8e1355c54407a6329d9d9380d2bb9",
@@ -292,13 +376,34 @@
     ],
     "type": "是非",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:29:30.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.121Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.629Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "30d0500af7774fbf00ef234a487512b26f801799ac1bd8b5fa855d283782a054",
@@ -311,12 +416,33 @@
     ],
     "type": "單選",
     "course": "新制多益測驗得分技巧(初級)(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "顧客",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T02:29:30.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.150Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "顧客",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_764.html",
+          "title": "「新制多益測驗得分技巧(初級)(上)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15272839604",
+          "title": "新制多益測驗得分技巧(初級)(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.630Z"
+    },
+    "resolved_answer": "顧客"
   }
 ]

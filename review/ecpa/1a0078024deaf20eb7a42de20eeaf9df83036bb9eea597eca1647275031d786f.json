@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "政府採購法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:49:21.090Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T00:19:37.775Z"
+    "retry_after": "2026-10-20T00:19:37.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.329Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "決標後",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_665.html",
+          "title": "「政府採購法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835833",
+          "title": "政府採購法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:37.702Z"
+    },
+    "resolved_answer": "決標後"
   },
   {
     "id": "997ae95259adc8de66b783ea7c7f83266f441e1adba2b566437d94deee9d4ba9",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "政府採購法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:49:21.091Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T00:19:37.775Z"
+    "retry_after": "2026-10-20T00:19:37.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.350Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆須考量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_665.html",
+          "title": "「政府採購法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835833",
+          "title": "政府採購法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:37.702Z"
+    },
+    "resolved_answer": "以上皆須考量"
   },
   {
     "id": "ac2a37ea0dc3aad46d3a55bb0ece526358c3a3f9df67b8bc9bffa3d557c59242",
@@ -54,16 +96,41 @@
     ],
     "type": "單選",
     "course": "政府採購法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:49:21.091Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T00:19:37.775Z"
+    "retry_after": "2026-10-20T00:19:37.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.370Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "巨額採購",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_665.html",
+          "title": "「政府採購法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835833",
+          "title": "政府採購法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835865",
+          "title": "政府採購法概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:37.703Z"
+    },
+    "resolved_answer": "巨額採購"
   },
   {
     "id": "dd28fa8e56159f517b2befe768f86b7b36ce4d7c83c4c5831ada6994ac812660",
@@ -76,16 +143,41 @@
     ],
     "type": "單選",
     "course": "政府採購法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:49:21.091Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T00:19:37.775Z"
+    "retry_after": "2026-10-20T00:19:37.775Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:49.394Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_665.html",
+          "title": "「政府採購法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835833",
+          "title": "政府採購法《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346835865",
+          "title": "政府採購法概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:37.703Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "43b9c188444f3824cbcbffa581d57806e5f35b4789577cc00e3c8823f7868017",

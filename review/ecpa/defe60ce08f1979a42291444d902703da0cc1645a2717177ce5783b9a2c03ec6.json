@@ -10,17 +10,34 @@
     ],
     "type": "單選",
     "course": "性別平等工作法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1至50萬元",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:40:29.591Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-09T10:19:44.719Z",
-    "verification_status": "existing_answer_requires_evidence"
+    "review_state": "source_reviewed_existing",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.351Z",
+    "verification_status": "existing_answer_confirmed",
+    "source_review": {
+      "answer": "1至100萬元",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_551.html",
+          "title": "「性別平等工作法及相關子法修法重點與實務案例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346836009",
+          "title": "性別平等工作法及相關子法修法重點與實務案例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.137Z"
+    },
+    "resolved_answer": "1至100萬元"
   },
   {
     "id": "aded6d8f7bc08e0335154b62cf12dd5638cbd9ee1e6fb793e291ea9ce78ce749",
@@ -129,17 +146,34 @@
     ],
     "type": "單選",
     "course": "性別平等工作法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "30人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:40:29.598Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-09T10:19:49.627Z",
-    "verification_status": "existing_answer_requires_evidence"
+    "review_state": "source_reviewed_existing",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.369Z",
+    "verification_status": "existing_answer_confirmed",
+    "source_review": {
+      "answer": "30人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_551.html",
+          "title": "「性別平等工作法及相關子法修法重點與實務案例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346836009",
+          "title": "性別平等工作法及相關子法修法重點與實務案例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.137Z"
+    },
+    "resolved_answer": "30人"
   },
   {
     "id": "7385a44bb782b7ea0ec877c1ae156de29a58898580a039fa1292e1d72ab64c26",
@@ -220,17 +254,34 @@
     ],
     "type": "單選",
     "course": "性別平等工作法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:40:59.107Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T13:19:46.391Z",
-    "verification_status": "existing_answer_requires_evidence"
+    "review_state": "source_reviewed_existing",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.380Z",
+    "verification_status": "existing_answer_confirmed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_551.html",
+          "title": "「性別平等工作法及相關子法修法重點與實務案例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346836009",
+          "title": "性別平等工作法及相關子法修法重點與實務案例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.137Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "dbd0b04298c8d09c1a75c85c8efa09c681d6a7ed32138d969bbb425cd3b6e150",
@@ -243,17 +294,34 @@
     ],
     "type": "單選",
     "course": "性別平等工作法及相關子法修法重點與實務案例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "50人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:40:59.108Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-25T13:19:53.012Z",
-    "verification_status": "existing_answer_requires_evidence"
+    "review_state": "source_reviewed_existing",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.393Z",
+    "verification_status": "existing_answer_confirmed",
+    "source_review": {
+      "answer": "100人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_551.html",
+          "title": "「性別平等工作法及相關子法修法重點與實務案例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346836009",
+          "title": "性別平等工作法及相關子法修法重點與實務案例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.137Z"
+    },
+    "resolved_answer": "100人"
   },
   {
     "id": "e5aa0e01d9335d876292544ae89d762abaa73c004d3b8c2632a17b0126cae0bf",

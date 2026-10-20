@@ -112,13 +112,34 @@
     ],
     "type": "是非",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.531Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.840Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.614Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6652570a06e08aac4859a81976b08f62d3f61ec6898aa9a7bffc37050c556fbc",
@@ -131,13 +152,34 @@
     ],
     "type": "單選",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.532Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.862Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.615Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "8177d037decc2b88ba948a93b7b997e73057fc3afa984a79bd8e9d8cb916a4d4",
@@ -148,13 +190,34 @@
     ],
     "type": "是非",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.535Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.884Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.615Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9a8940cd49212ddb4cf924593ca4fd170eb2f66b7d1676530e689ea6e2e0e789",
@@ -167,13 +230,34 @@
     ],
     "type": "單選",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "氫能只能用於運具燃料，仍無法應用在內燃機發電使用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.906Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "氫能只能用於運具燃料，仍無法應用在內燃機發電使用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.615Z"
+    },
+    "resolved_answer": "氫能只能用於運具燃料，仍無法應用在內燃機發電使用"
   },
   {
     "id": "0d609c0106511622754f8fd0a26a5ba7197c3ad82df8be5d06a3c0aeb35de017",
@@ -184,13 +268,34 @@
     ],
     "type": "是非",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.544Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.931Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.615Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e0bd236cfd818c497df3163bfa8c98929148d270f95198a818a46ec1abbffb8a",
@@ -203,12 +308,33 @@
     ],
     "type": "單選",
     "course": "氫能技術發展與淨零",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-07T07:55:19.546Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:48.950Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_45.html",
+          "title": "「氫能技術發展與淨零」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187957",
+          "title": "氫能技術發展與淨零《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:26.615Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

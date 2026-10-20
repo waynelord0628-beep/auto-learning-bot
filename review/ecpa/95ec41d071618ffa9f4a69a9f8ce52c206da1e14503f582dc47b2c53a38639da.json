@@ -118,13 +118,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.240Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.545Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.874Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "0bc140f1dce069a0d7bf6f465c34b32521dbeba5a8866635bb2e9deb52b264cd",
@@ -137,13 +158,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "FinOps",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.566Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "FinOps",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.874Z"
+    },
+    "resolved_answer": "FinOps"
   },
   {
     "id": "1a6e51eba0ddcbe617b15e7f939c3e7af584fad0b90149e2780e94adb05a5a78",
@@ -156,13 +198,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "一站式管理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.263Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.587Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一站式管理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.874Z"
+    },
+    "resolved_answer": "一站式管理"
   },
   {
     "id": "6dd9fbe0a3d3bad6fc765720fa0cd625778daba5b113861b76eb805a43d0e63a",
@@ -175,13 +238,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "做出配置和管理雲端成本的適當決策",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.285Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.607Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "做出配置和管理雲端成本的適當決策",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.874Z"
+    },
+    "resolved_answer": "做出配置和管理雲端成本的適當決策"
   },
   {
     "id": "2cdf983937d3318e5079d5a3ce1362a565cddacb6d47b0eca22560f9ef2864f9",
@@ -194,13 +278,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "配置管理複雜性增加",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.289Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.629Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "配置管理複雜性增加",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.877Z"
+    },
+    "resolved_answer": "配置管理複雜性增加"
   },
   {
     "id": "afc4ea3372619d3a9b68f10b0bda7bfaf3a228493a3c1c09774818d92d0ccd21",
@@ -213,13 +318,34 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "雲供應商安全能力參差不齊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.290Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.650Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "雲供應商安全能力參差不齊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.877Z"
+    },
+    "resolved_answer": "雲供應商安全能力參差不齊"
   },
   {
     "id": "5ad9e3310eac47c3ff0c16d99ca360643e2f1078d3fc9b12af7d3159346260fc",
@@ -232,12 +358,33 @@
     ],
     "type": "單選",
     "course": "洞見機遇-雲端管理與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "硬體維護",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T14:23:32.291Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:44.674Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "硬體維護",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_813.html",
+          "title": "「洞見機遇-雲端管理與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137173",
+          "title": "洞見機遇-雲端管理與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:31.877Z"
+    },
+    "resolved_answer": "硬體維護"
   }
 ]

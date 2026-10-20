@@ -227,13 +227,34 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "物聯網(IoT)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.748Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.950Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "物聯網(IoT)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137197",
+          "title": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.141Z"
+    },
+    "resolved_answer": "物聯網(IoT)"
   },
   {
     "id": "e3f892656a950bef75e80282fcc65530685b06f7538dccb29ed854f2deb8addd",
@@ -246,13 +267,34 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "CRM (客戶關係管理) 和 ERP(企業資源規劃)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.749Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.975Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ERP(企業資源規劃) 和 MES(製造執行系統)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137197",
+          "title": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.141Z"
+    },
+    "resolved_answer": "ERP(企業資源規劃) 和 MES(製造執行系統)"
   },
   {
     "id": "c82dd2dca0895a619bfcacf4a04eb86f0bae98b90141a7c232b756a003c30cdc",
@@ -265,13 +307,34 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "財務管理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.751Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.001Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "財務管理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137197",
+          "title": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.141Z"
+    },
+    "resolved_answer": "財務管理"
   },
   {
     "id": "6b681cb0bec119ca325fcfb668cc9680009a8508da306d3ab6152c2ec1698556",
@@ -284,12 +347,33 @@
     ],
     "type": "單選",
     "course": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "模擬和優化生產設備和流程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T02:52:08.755Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.022Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "模擬和優化生產設備和流程",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_829.html",
+          "title": "「如何在世界經濟快速變遷下 提供快速因應的製造業經管平台」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137197",
+          "title": "如何在世界經濟快速變遷下 提供快速因應的製造業經管平台《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.141Z"
+    },
+    "resolved_answer": "模擬和優化生產設備和流程"
   }
 ]

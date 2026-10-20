@@ -119,16 +119,37 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.592Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.339Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.335Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "0f84fa33301c5b33c4bf2c5487d09be08aa323d70c73753568c16b640c76160b",
@@ -139,16 +160,37 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.593Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.360Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.335Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "12cafc92a0c6e1b0560a702fc0966e25d5698f92a19168513ca54d6394d4cd4c",
@@ -161,16 +203,37 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.594Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.388Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "咖啡產地往高處移動，反而使咖啡品質提升、產量增加",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.336Z"
+    },
+    "resolved_answer": "咖啡產地往高處移動，反而使咖啡品質提升、產量增加"
   },
   {
     "id": "258402f43827f469772408a299e1a2a05b9aafcf287bb43b19ec9d1b516ddacc",
@@ -181,16 +244,37 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.594Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.414Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.336Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d1e4a10b42fa596da46677224179ea4bea767fda525c29aafc853f2e04058895",
@@ -201,16 +285,37 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.595Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.441Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.336Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "e1248680ef2c79b06c46fbe3845801b4f2cd4b52ea5dad5f23a689b1cb33f29d",
@@ -223,16 +328,37 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.597Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.470Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.336Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "08668263112bdb7626851d20a4e6cd3f94d20ab5109cf150ce958d38f3507100",
@@ -245,15 +371,36 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:07:54.598Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T05:19:39.781Z"
+    "retry_after": "2026-10-19T05:19:39.781Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:45.493Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提升能源效率與發展再生能源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_419.html",
+          "title": "「氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677977",
+          "title": "氣候緊急年代的挑戰與契機(中)-全球暖化的衝擊、調適、減緩《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.336Z"
+    },
+    "resolved_answer": "提升能源效率與發展再生能源"
   }
 ]

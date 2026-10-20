@@ -226,13 +226,34 @@
     ],
     "type": "單選",
     "course": "打造智慧無縫的照護環境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "逐年增加，每年增長8%，10年增長至二倍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:46:41.349Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.704Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "逐年增加，每年增長8%，10年增長至二倍",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.409Z"
+    },
+    "resolved_answer": "逐年增加，每年增長8%，10年增長至二倍"
   },
   {
     "id": "f8da5789a9ea6f0dd25a51b185ba0811f194c04c1fbf824440c86ad2cdca07e2",
@@ -263,13 +284,34 @@
     ],
     "type": "單選",
     "course": "打造智慧無縫的照護環境",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "8%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T01:46:41.351Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.730Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "9%",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347170445",
+          "title": "打造智慧無縫的照護環境《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.410Z"
+    },
+    "resolved_answer": "9%"
   },
   {
     "id": "8d30ae6d1dab1a9efff962f4e8d9acd058a1cab6771f25477ef6ca87a8f6a473",

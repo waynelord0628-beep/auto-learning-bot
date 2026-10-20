@@ -110,13 +110,34 @@
     ],
     "type": "是非",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.142Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.138Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.392Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9e3be49d7a4019bc7f8e8db3a90faf9e5ca7185c731e706a2ae28b46e709a56e",
@@ -129,13 +150,34 @@
     ],
     "type": "單選",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "談及金錢。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.143Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.163Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "談及金錢。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.393Z"
+    },
+    "resolved_answer": "談及金錢。"
   },
   {
     "id": "b443104aff10754357bc5a3af0d06e157f1ba139c662d3000872aa442145151a",
@@ -148,13 +190,34 @@
     ],
     "type": "單選",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.144Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.187Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.393Z"
+    },
+    "resolved_answer": "以上皆是。"
   },
   {
     "id": "f321b57fc8393026c5cd312ef16f18fc5916fd689026d022175969d792a79db1",
@@ -165,13 +228,34 @@
     ],
     "type": "是非",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.146Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.209Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.393Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a0a51d9f159f0ecbdaea60c5dcbb304791ef4c40d08ca75fc8eeb5d4c230d127",
@@ -182,13 +266,34 @@
     ],
     "type": "是非",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.147Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.229Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.393Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d31d057d277ef39e1ba875f92d4abf4fac3936587c691b053d8f4dd3c5efcd73",
@@ -201,13 +306,34 @@
     ],
     "type": "單選",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.148Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.252Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.394Z"
+    },
+    "resolved_answer": "以上皆是。"
   },
   {
     "id": "2cdad5f100531c93d1d641847ffa27a6f2df56fddc8465d1cfde4cd21456ef66",
@@ -218,12 +344,33 @@
     ],
     "type": "是非",
     "course": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T22:07:26.149Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.277Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee.html",
+          "title": "「詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347773369",
+          "title": "詐騙套路圖鑑全公開_臺灣臺中地方檢察署潘曉琪檢察官《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:39.394Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

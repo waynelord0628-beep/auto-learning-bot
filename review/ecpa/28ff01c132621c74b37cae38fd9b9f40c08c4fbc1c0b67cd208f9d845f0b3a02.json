@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "認識網站無障礙",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "租屋補助申請示意圖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T08:21:44.789Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.272Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "詳細講述每一項申請步驟的說明文字",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_28.html",
+          "title": "「認識網站無障礙」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:54.320Z"
+    },
+    "resolved_answer": "詳細講述每一項申請步驟的說明文字"
   },
   {
     "id": "d2a5651ae4c2dcaa443ceddac3fbf59c696bc4651ad1b9c561a3bed8dcf1cc7c",
@@ -29,15 +46,32 @@
     ],
     "type": "單選",
     "course": "認識網站無障礙",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "《身心障礙者權益保障法》",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T08:21:44.790Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-10T18:19:39.201Z"
+    "retry_after": "2026-10-10T18:19:39.201Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.298Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "《身心障礙者權益保障法》",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_28.html",
+          "title": "「認識網站無障礙」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:54.320Z"
+    },
+    "resolved_answer": "《身心障礙者權益保障法》"
   },
   {
     "id": "53bd34f5df76811a80bb32234f4abb336c0594dda6150444c582b0b40274be44",
@@ -50,13 +84,30 @@
     ],
     "type": "單選",
     "course": "認識網站無障礙",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "一致性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T08:21:44.790Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.322Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一致性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_28.html",
+          "title": "「認識網站無障礙」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:54.320Z"
+    },
+    "resolved_answer": "一致性"
   },
   {
     "id": "3859e2c0a0a3c8571ca5bcbddb12754d9335cf3ba2cbec4e1c552253f6892a32",
@@ -69,13 +120,30 @@
     ],
     "type": "單選",
     "course": "認識網站無障礙",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "WCAG",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T08:21:44.791Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.343Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "WCAG",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_28.html",
+          "title": "「認識網站無障礙」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:54.320Z"
+    },
+    "resolved_answer": "WCAG"
   },
   {
     "id": "d1205a7999aca45829e2e588903fc87877852a30f046ec0e73d65fd663f758e6",
@@ -88,12 +156,29 @@
     ],
     "type": "單選",
     "course": "認識網站無障礙",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "螢幕報讀軟體與點字顯示器",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T08:22:20.363Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:50.367Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "螢幕報讀軟體與點字顯示器",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_28.html",
+          "title": "「認識網站無障礙」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:33:54.320Z"
+    },
+    "resolved_answer": "螢幕報讀軟體與點字顯示器"
   }
 ]

@@ -224,13 +224,34 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "各事業群高階主管",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.819Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "業務部門代表",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137241",
+          "title": "企業資安治理新思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:17.472Z"
+    },
+    "resolved_answer": "業務部門代表"
   },
   {
     "id": "3999238282c91d78d22d502c7d39f563cfb7019a3324d30411d24e208bd4bc70",
@@ -243,13 +264,34 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資安治理委員會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.846Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資安治理委員會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137241",
+          "title": "企業資安治理新思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:17.472Z"
+    },
+    "resolved_answer": "資安治理委員會"
   },
   {
     "id": "33826bd29e5e733bb7661873f20ba7ec9435f49b09590f33e505de55a0c1f91a",
@@ -262,13 +304,34 @@
     ],
     "type": "單選",
     "course": "企業資安治理新思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T10:32:09.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.873Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_925.html",
+          "title": "「企業資安治理新思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137241",
+          "title": "企業資安治理新思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:17.472Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b42294042abacbe9d8492025b71de1bdb40bb2e7ab28d068a72647a8eaf3a092",

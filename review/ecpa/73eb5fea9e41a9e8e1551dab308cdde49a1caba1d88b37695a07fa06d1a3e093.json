@@ -126,13 +126,38 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.192Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.056Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.265Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b2e33819cfd14e78a1c91db0f99dd5878cea12f61a8f136ba37b61c9fca952d5",
@@ -145,15 +170,40 @@
     ],
     "type": "單選",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "(3)二氧化碳",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.192Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-11T08:19:39.068Z"
+    "retry_after": "2026-10-11T08:19:39.068Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(3)二氧化碳",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "(3)二氧化碳"
   },
   {
     "id": "ebe47b90a6f59579900c234b5a699fdfc0550270fd379da7965a37a89bd8caec",
@@ -164,13 +214,34 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.193Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.105Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f39deaf4e688e0bc19c28d2c5ea4b203fe297c1921873a9cd51c8eccf791f629",
@@ -181,13 +252,38 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.193Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.132Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5837ed79a72d0ad1735487ea83b637ee8d9073161b143386974695333c28ddc6",
@@ -198,13 +294,38 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.152Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "173b0b0a8897ce62ea78937c0871b6743f7105a52781f60e6ea90f62212f4d93",
@@ -215,13 +336,38 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.200Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.177Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "94b09f25bcd88748996950655082219d3720ae432e0c839a4db4a856e928ff3b",
@@ -232,12 +378,37 @@
     ],
     "type": "是非",
     "course": "碳中和、淨零排放與碳權概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T17:55:52.201Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.208Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_02121263892.html",
+          "title": "「碳中和、淨零排放與碳權概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137021",
+          "title": "碳中和、淨零排放與碳權概論《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.266Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

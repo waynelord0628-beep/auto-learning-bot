@@ -118,13 +118,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "將金融服務整合到其他非金融產品或服務中",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.422Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.451Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "將金融服務整合到其他非金融產品或服務中",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "將金融服務整合到其他非金融產品或服務中"
   },
   {
     "id": "1ffde68abcf6ead492ccc63fbe87ea84e25425db48b50589485f00bf68f8d946",
@@ -137,13 +158,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.423Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.481Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "537635831a82caafacb971c1d5df5a4a91967535f729a863843577fa266fdf3e",
@@ -156,13 +198,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "數位化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.423Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.499Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "數位化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "數位化"
   },
   {
     "id": "1afbb19ad7939dda5bc4e7b157ef622ae771db1a336d22cd1a4e87c374b3a891",
@@ -175,13 +238,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "取代傳統銀行業務",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.524Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "取代傳統銀行業務",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "取代傳統銀行業務"
   },
   {
     "id": "f989509c8498880ca871aa03fa8e9ba97d36f50eecd1993bc55f58288e109875",
@@ -194,13 +278,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人工智慧、大數據、雲端運算",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.543Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人工智慧、區塊鏈、雲端運算",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "人工智慧、區塊鏈、雲端運算"
   },
   {
     "id": "98e035abbfc96f99a24599cc903f441c069bdb13d99343808cfaac90e9275882",
@@ -213,13 +318,34 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "去中心化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.424Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.566Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "點數經濟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "點數經濟"
   },
   {
     "id": "328e3f6683545e915c38b95d853d9bcc42d8c860cd44254cd194e3bbcba4d31a",
@@ -232,12 +358,33 @@
     ],
     "type": "單選",
     "course": "⾦融業雲端佈局和資料⽣態系的雲端架構",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T09:01:44.425Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:47.590Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_343.html",
+          "title": "「⾦融業雲端佈局和資料⽣態系的雲端架構」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137049",
+          "title": "⾦融業雲端佈局和資料⽣態系的雲端架構《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:57.784Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

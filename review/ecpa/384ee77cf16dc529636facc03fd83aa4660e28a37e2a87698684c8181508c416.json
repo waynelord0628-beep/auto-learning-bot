@@ -222,13 +222,34 @@
     ],
     "type": "單選",
     "course": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "To give a guest special treatment",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T13:24:34.390Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.610Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "To give a guest special treatment",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.163Z"
+    },
+    "resolved_answer": "To give a guest special treatment"
   },
   {
     "id": "6b9a6769ac20aef185a7b8016fd1844657c77d8914f0148e534b8436e70b8f4d",
@@ -241,13 +262,34 @@
     ],
     "type": "單選",
     "course": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "courier",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T13:24:34.390Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.645Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "roof tile restorer",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.163Z"
+    },
+    "resolved_answer": "roof tile restorer"
   },
   {
     "id": "c23a1d4cf1b469788d799f4566a1129b9e099e8f4a8eaa9f451af07c0135954d",
@@ -260,13 +302,34 @@
     ],
     "type": "單選",
     "course": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "fitness trainer",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T13:24:34.391Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.677Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "fitness trainer",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697817",
+          "title": "東港黑鮪魚大豐收【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:41.164Z"
+    },
+    "resolved_answer": "fitness trainer"
   },
   {
     "id": "63cb87161d299f213682df7c2640c490e10b073d1ec67d056864dcc27ced0b71",

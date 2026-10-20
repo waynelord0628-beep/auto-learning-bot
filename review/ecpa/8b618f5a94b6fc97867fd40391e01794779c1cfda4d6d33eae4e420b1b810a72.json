@@ -226,13 +226,34 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "限制應經全國公民投票方式為之",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.617Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.173Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "限制應經全國公民投票方式為之",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15189585461",
+          "title": "人權大步走：行政執行篇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.372Z"
+    },
+    "resolved_answer": "限制應經全國公民投票方式為之"
   },
   {
     "id": "f07803f0ce357eed04465801b524307f5e0c2a209b7018ab7ad9ad382af9f6f0",
@@ -245,13 +266,34 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "消除對婦女一切形式歧視公約",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.618Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.201Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "消除對婦女一切形式歧視公約",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15189585461",
+          "title": "人權大步走：行政執行篇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.374Z"
+    },
+    "resolved_answer": "消除對婦女一切形式歧視公約"
   },
   {
     "id": "fd4502766f4bcd1ea7085fb88e5b99ef0884905a3233af820b33f0c1d3c7f27f",
@@ -264,13 +306,34 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "締約國可以完全不受限制地在國民與外國人之間作出區別待遇",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.619Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.231Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "締約國可以完全不受限制地在國民與外國人之間作出區別待遇",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15189585461",
+          "title": "人權大步走：行政執行篇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.374Z"
+    },
+    "resolved_answer": "締約國可以完全不受限制地在國民與外國人之間作出區別待遇"
   },
   {
     "id": "fe75657f8acb8d40b884af4a785dd9385ce4107a8b9749331a4eb6f8c829c752",
@@ -283,12 +346,33 @@
     ],
     "type": "單選",
     "course": "人權大步走：行政執行篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對於公政公約第17條權利之限制，僅須有法律依據即為合法，無須符合公約之規定及目標",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T14:03:37.619Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:51.256Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "對於公政公約第17條權利之限制，僅須有法律依據即為合法，無須符合公約之規定及目標",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_415.html",
+          "title": "「人權大步走：行政執行篇」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15189585461",
+          "title": "人權大步走：行政執行篇《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:12.376Z"
+    },
+    "resolved_answer": "對於公政公約第17條權利之限制，僅須有法律依據即為合法，無須符合公約之規定及目標"
   }
 ]

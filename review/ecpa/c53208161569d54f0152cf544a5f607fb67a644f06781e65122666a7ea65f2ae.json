@@ -112,13 +112,34 @@
     ],
     "type": "是非",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.819Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.251Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ac4340baca0050d74abbaaff58d94d834a6dc394a16810183fcce882ea608a04",
@@ -129,13 +150,30 @@
     ],
     "type": "是非",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.845Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "49962c2b692e1b755cb9e34429fd6653d3ef64e02fd8a872a1968a183bbab8d3",
@@ -148,13 +186,34 @@
     ],
     "type": "單選",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.871Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "213559ef4ba5a1106efe79560b9503febc20b19c4bebe8af6c96fd78a039322f",
@@ -167,13 +226,34 @@
     ],
     "type": "單選",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Design for waste指的是一次性製造使用後就會丟棄的產品設計原則",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.182Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.895Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "整體而言，循環設計的原則最為普遍",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "整體而言，循環設計的原則最為普遍"
   },
   {
     "id": "3dc449297befae172b2eedb9ab059c5e2df0e355bc4ff38c9ccb83a6849b53c2",
@@ -186,13 +266,34 @@
     ],
     "type": "單選",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.920Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e63b1fddcce7313c4659f1ed634a0c816f85a071d642ba47d7db2c34fc1b3118",
@@ -205,13 +306,34 @@
     ],
     "type": "單選",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "目前永續時裝產業幾乎為新創的時裝品牌，而無大型時裝企業參與",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.947Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "目前永續時裝產業幾乎為新創的時裝品牌，而無大型時裝企業參與",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "目前永續時裝產業幾乎為新創的時裝品牌，而無大型時裝企業參與"
   },
   {
     "id": "9fde6c99bec9a9f0c97b89578c7e60a2250b5c0303aef575ac9143307f0eb1f1",
@@ -224,12 +346,33 @@
     ],
     "type": "單選",
     "course": "零廢時尚：不可不知道的永續時尚趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T14:31:20.183Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:46.974Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_24.html",
+          "title": "「零廢時尚：不可不知道的永續時尚趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187997",
+          "title": "零廢時尚：不可不知道的永續時尚趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:32:54.252Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

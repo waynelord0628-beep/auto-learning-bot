@@ -222,13 +222,34 @@
     ],
     "type": "單選",
     "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民國113 年 01 月 22 日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:11:07.799Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.097Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國111年07月18日",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137273",
+          "title": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.153Z"
+    },
+    "resolved_answer": "民國111年07月18日"
   },
   {
     "id": "952cfc1ea9a384d891b5b78af9f76fe296bb8522184e9f53d7afd6b5870a1b96",
@@ -241,13 +262,34 @@
     ],
     "type": "單選",
     "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "速度快、不怕死、易移動",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:11:07.800Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.130Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "速度快、不怕死、易移動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137273",
+          "title": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.153Z"
+    },
+    "resolved_answer": "速度快、不怕死、易移動"
   },
   {
     "id": "c067e8b86f1de5d79c7b627326cccf1f33a91312f564db9539a7953303ae3938",
@@ -260,13 +302,34 @@
     ],
     "type": "單選",
     "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:11:07.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.157Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137273",
+          "title": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.153Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f234210888329fafcb5b84ad452bb609b36a1f0c41727f7572f8d38859a9eb20",
@@ -279,12 +342,33 @@
     ],
     "type": "單選",
     "course": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "健保點值的調整",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:11:07.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:34:52.184Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "健保點值的調整",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/his40ee.html",
+          "title": "「有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347137273",
+          "title": "有利智慧城鄉發展的資訊系統架構趨勢：以HIS4.0為例《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:24.153Z"
+    },
+    "resolved_answer": "健保點值的調整"
   }
 ]
