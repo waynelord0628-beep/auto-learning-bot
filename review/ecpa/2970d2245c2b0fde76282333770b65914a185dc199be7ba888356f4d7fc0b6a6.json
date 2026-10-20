@@ -8,16 +8,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.361Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.208Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:54.992Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c7f2faf825f91cc16fbd5ebdd5362913d8e9612c7b0316c38b4fc59413371d66",
@@ -48,16 +65,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.365Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.222Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.043Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "dbe9c6b7bf0ba4ee46144230e35df3a81e9838b825951c9d633efac179bab106",
@@ -68,16 +102,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.366Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.238Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.060Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "be4ca847633fd8d9699b1d840b0fac9efb5405fa545de6f920437a99c794b11c",
@@ -88,16 +139,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.367Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.254Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.081Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ed896081a187a5183a26821fbbd7e961b128962928b6ae834cf26f4614df6995",
@@ -108,16 +176,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.368Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.270Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.095Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "49f7980b5f61b99618894c258b29b0f23f5cde69dd4a8052353a51cc81fdd3b4",
@@ -128,16 +213,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.369Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.286Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.112Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d61c2631ca493f640a5fdc05b1866d1cc72593c29ccf38971004adc5892e7e38",
@@ -148,16 +250,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.370Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.303Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.129Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "74a8fda4fac7cec8c9c673ff174075e3e7dff2e5af2de974cd1953a7308c412c",
@@ -168,16 +287,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.371Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.320Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.151Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e651c422f164fe09229832d4cee7b206512d3b3bc9c47708229abd9add6a5146",
@@ -188,16 +324,33 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.371Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-16T05:19:44.353Z"
+    "retry_after": "2026-10-16T05:19:44.353Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.338Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.170Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "56fb483a9bf5e32387fc8260b649815b05b81115fd6be6079d99c46aac46c0f6",
@@ -208,14 +361,31 @@
     ],
     "type": "是非",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.372Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.353Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.193Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "dfb5a54d058835b9f49452da9c170fb247a7bdb796861c32b3d43ecf1e5841e7",
@@ -228,14 +398,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.372Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.368Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "醫療",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.222Z"
+    },
+    "resolved_answer": "醫療"
   },
   {
     "id": "38496904a7b5d8084de87745481e560564b6877f56192fec9d5c8ce044ae628c",
@@ -248,14 +435,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.373Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.382Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "職業要求",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.251Z"
+    },
+    "resolved_answer": "職業要求"
   },
   {
     "id": "21ab330c005786f512e4ce362b9881e89fbdfcea6a6af20796156becc48d87d0",
@@ -268,14 +472,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.373Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.400Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "體能要求表現的狀況和限制",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.278Z"
+    },
+    "resolved_answer": "體能要求表現的狀況和限制"
   },
   {
     "id": "e7d40e539635ea63468713ee4c955d5a48a85739bad4b1b1306a553ccdcc9eb0",
@@ -288,14 +509,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.374Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.421Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "工作適配(Job Matching)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.304Z"
+    },
+    "resolved_answer": "工作適配(Job Matching)"
   },
   {
     "id": "a1aede4e9120fb84fa163aa5d85cd422fc1c62ccdc8353a33feb545bb57c44a9",
@@ -328,14 +566,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.375Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.441Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "王小明：【輕度】負重；李小美：【中重度】負重",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.349Z"
+    },
+    "resolved_answer": "王小明：【輕度】負重；李小美：【中重度】負重"
   },
   {
     "id": "3bc573d6d1742948d8d21b3100efafa96624a18ca3ad9a8879c647b79e50b0a1",
@@ -348,14 +603,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.376Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.462Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人因工程改善、健康促進、行政改善",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.373Z"
+    },
+    "resolved_answer": "人因工程改善、健康促進、行政改善"
   },
   {
     "id": "c1bc44580dc3842a136101fd2b265d5ab35ad447ee3199954418c7222eab1524",
@@ -368,14 +640,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.377Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.483Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "勞工與雇主任何一方都可以提出申請",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.394Z"
+    },
+    "resolved_answer": "勞工與雇主任何一方都可以提出申請"
   },
   {
     "id": "e19a7d5be11740d1e16599ba3fdfe9ec1e4f634f97cdf775c82877b78709dfb8",
@@ -388,14 +677,31 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.377Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.500Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "【偶爾】",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.421Z"
+    },
+    "resolved_answer": "【偶爾】"
   },
   {
     "id": "906dff2467e952cd9ad9ee205301219a1a8ce63a9a6f1706266b169217d0d51f",
@@ -408,13 +714,30 @@
     ],
     "type": "單選",
     "course": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T23:27:19.378Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.519Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "只要雙手搬運重量可以超過5公斤，就不需要採取單手搬運或抬舉",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346920145",
+          "title": "職能復健專業人員職前訓練-S9功能性能力評估與復工計畫撰擬《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:55.444Z"
+    },
+    "resolved_answer": "只要雙手搬運重量可以超過5公斤，就不需要採取單手搬運或抬舉"
   }
 ]

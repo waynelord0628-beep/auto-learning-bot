@@ -10,13 +10,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "荷蘭",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.169Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.715Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "荷蘭",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.068Z"
+    },
+    "resolved_answer": "荷蘭"
   },
   {
     "id": "78f3cbce1fb491490ce911dea90e758f718200b28677b22628bedd3705c9186b",
@@ -48,13 +69,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "希望",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.172Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.731Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "希望",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.114Z"
+    },
+    "resolved_answer": "希望"
   },
   {
     "id": "086d8855c2da36869dd4cfa62c6d693e2f8a653a8bdae72515d34e13178fa7e8",
@@ -67,13 +109,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "《頑皮公主不出嫁》、《灰姑娘》、《奧利佛是個娘娘腔》都是該政策篩選過的優質讀物",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.746Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "《頑皮公主不出嫁》、《灰姑娘》、《奧利佛是個娘娘腔》都是該政策篩選過的優質讀物",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.132Z"
+    },
+    "resolved_answer": "《頑皮公主不出嫁》、《灰姑娘》、《奧利佛是個娘娘腔》都是該政策篩選過的優質讀物"
   },
   {
     "id": "7431f3910677f45c21ee2cdacbf983b75a0c64e0a55fd64419f7b3f8a392191c",
@@ -84,13 +147,34 @@
     ],
     "type": "是非",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.763Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.157Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "392991dc089e2f34f5befb50fd30a0411d1aee6133fbfd7a73f3eee5dea3e0fb",
@@ -101,13 +185,30 @@
     ],
     "type": "是非",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.779Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.180Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "34c56561e7ed6190fe4ea5633aa4bf5ddf8b68b5fb367d706a4a187ccd878c0c",
@@ -118,13 +219,34 @@
     ],
     "type": "是非",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.174Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.794Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.206Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "337146420d7f090f41aa80495131b80959f51d3b44a5192dc44d6e25bc147771",
@@ -137,13 +259,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "茶來伸手，飯來張口是應該的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.174Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.809Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "茶來伸手，飯來張口是應該的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.225Z"
+    },
+    "resolved_answer": "茶來伸手，飯來張口是應該的"
   },
   {
     "id": "5b8d0ad7a9329564594fd01cf6ad290fc3711d6604eb40e95067828d1eabaa4e",
@@ -156,13 +299,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "消除對婦女一切形式歧視公約",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.175Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.824Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "消除對婦女一切形式歧視公約",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.247Z"
+    },
+    "resolved_answer": "消除對婦女一切形式歧視公約"
   },
   {
     "id": "7f5ed66980fe471077fda912062f48d997f64702dfa492991f2fffc430dfc746",
@@ -175,13 +339,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:50:50.175Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.838Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.270Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "bebb7b8aff6c420567d5ab52c48d456a5294cd5df47d3994ca05c11fd437d814",
@@ -194,13 +379,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由書中學習到崇拜、服從男性的思維",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.382Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.855Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "由書中學習到崇拜、服從男性的思維",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.289Z"
+    },
+    "resolved_answer": "由書中學習到崇拜、服從男性的思維"
   },
   {
     "id": "16624848bc1102675685fd6738cfddd8ff7b47cd78de9c9c887d10351b807b2d",
@@ -213,13 +419,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "10月11日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.870Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "10月11日",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.309Z"
+    },
+    "resolved_answer": "10月11日"
   },
   {
     "id": "62efad0b3f8a75b9d13d46786aff61a9e82ad4e5e36d3724efd819c014cda938",
@@ -232,13 +459,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.885Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.327Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "46631615ec86c6cef71f4ea8483c6c901244e38db69cecee1b1bda030d906497",
@@ -251,13 +499,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.899Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.350Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "a79f053e08a9fd99f13f4824a27006f05551c99dc559efb54fe66944b2736ad2",
@@ -270,13 +539,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "臺灣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.915Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "臺灣",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.370Z"
+    },
+    "resolved_answer": "臺灣"
   },
   {
     "id": "c8c2377d085203d56002c0608cc46b25afee5d956d82f8ca84a8752f298867d3",
@@ -289,13 +579,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.929Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.396Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "35a47050c7446978617ca251be4f7e0dc0655b8800a3cc0462a0f88df4791603",
@@ -308,13 +619,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "8.4本",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.945Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "8.4本",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.416Z"
+    },
+    "resolved_answer": "8.4本"
   },
   {
     "id": "7b96c703ad0d9fbb076551c14f0a629099b47d819f4e0d8c5ddd2f6b70a4f63b",
@@ -327,13 +659,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "男主外女主內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:24.385Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.961Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "男主外女主內",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.437Z"
+    },
+    "resolved_answer": "男主外女主內"
   },
   {
     "id": "e2b3e281d18e9df4f3b6d29bc05ef728df4fd91bc0b2f6f895a062f753df5cd5",
@@ -346,13 +699,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "女人產後流出的血水為惡露",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:55.659Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.975Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "女人產後流出的血水為惡露",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.458Z"
+    },
+    "resolved_answer": "女人產後流出的血水為惡露"
   },
   {
     "id": "5416f37d8a0101f498ece04a34e7ec73cfad41d5cbba27002f8c1f72d463d62a",
@@ -365,13 +739,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "金馨獎",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:55.659Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:01.989Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "金馨獎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.475Z"
+    },
+    "resolved_answer": "金馨獎"
   },
   {
     "id": "cddd441f3e9ae82763c5ecbcd0911fef157fbf5e9ae0000dd831aec34fe683e9",
@@ -384,13 +779,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4月23日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:55.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.004Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4月23日",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.491Z"
+    },
+    "resolved_answer": "4月23日"
   },
   {
     "id": "9d49797b091ec8b9081ce633b071cefd5acc9cb093d9f5dae8c6b4bc03f907b8",
@@ -403,13 +819,34 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:55.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.020Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.512Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "84b9a56c525ef56ad7b7ce364fdcba4f19d2033016feb50b5e543217a5ef8b8f",
@@ -422,12 +859,33 @@
     ],
     "type": "單選",
     "course": "閱讀中遇見性別",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "感情是培養性別敏感度的利器",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T10:51:55.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:20:02.038Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "感情是培養性別敏感度的利器",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15116724399",
+          "title": "閱讀中遇見性別《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_01712866163.html",
+          "title": "「閱讀中遇見性別」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:18:39.538Z"
+    },
+    "resolved_answer": "感情是培養性別敏感度的利器"
   }
 ]
