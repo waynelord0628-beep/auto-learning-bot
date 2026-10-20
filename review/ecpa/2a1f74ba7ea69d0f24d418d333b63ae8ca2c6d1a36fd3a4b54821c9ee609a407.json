@@ -164,13 +164,30 @@
     ],
     "type": "單選",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "8大人權議題與154項行動方案",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-17T16:19:47.159Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:07.058Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "8大人權議題與154項行動方案",
+      "sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/023535d2-10e0-484e-a737-c98d24a3a2c4",
+          "quote": "特別關注原住民族、LGBTI（女同性戀者、男同性戀者、雙性戀者、跨性別者與雙性者）、遊民、外籍移工、老人、婦女、兒童、身心障礙者、難民等不利處境的群體，包含8大人權議題、154項行動方案"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:42.342Z"
+    },
+    "resolved_answer": "8大人權議題與154項行動方案"
   },
   {
     "id": "b03d5a5d625a8da3ac2055ea7afa0bb3373e4a0d9f808252b7e11c51a4c951cc",
@@ -181,13 +198,30 @@
     ],
     "type": "是非",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-17T16:19:47.160Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:07.079Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194",
+          "quote": "行政院為推動本公約相關工作，應邀集學者專家、身心障礙團體（機構）及各政府機關代表，成立身心障礙者權益推動小組，定期召開會議，協調、研究、審議、諮詢並辦理下列事項"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:42.342Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a490e8ffd532007c94bb8898b59ff22ae263663b054d5916f1e0cd5a13305158",

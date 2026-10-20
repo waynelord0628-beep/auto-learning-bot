@@ -29,16 +29,33 @@
     ],
     "type": "是非",
     "course": "(115年)性別平等工作法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T07:41:56.737Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-14T08:19:55.266Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:07.229Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        },
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "第 36 條 雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:10:12.222Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

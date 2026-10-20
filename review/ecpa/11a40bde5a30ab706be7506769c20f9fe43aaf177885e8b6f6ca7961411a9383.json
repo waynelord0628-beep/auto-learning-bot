@@ -84,13 +84,30 @@
     ],
     "type": "單選",
     "course": "公益揭弊者保護法說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "一般私人企業",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T15:10:09.152Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:06.698Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一般私人企業",
+      "sources": [
+        {
+          "url": "https://www.tph.moj.gov.tw/4421/4475/632364/1316668/",
+          "quote": "本法的適用範圍，現僅適用於公部門、國營事業及受政府控制的事業、團體或機構（即泛公部門），一般私部門或私人公司都不在法律適用範圍之列，"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:00.982Z"
+    },
+    "resolved_answer": "一般私人企業"
   },
   {
     "id": "62a626676e093d3249d57947a7f95de95884a46a76d32f0c1b10a581bc53843c",
@@ -152,13 +169,34 @@
     ],
     "type": "是非",
     "course": "公益揭弊者保護法說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T15:10:09.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:06.778Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "五、違反政府採購法之行為。"
+        },
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL104574",
+          "quote": "五、違反政府採購法之行為。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:08.304Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "76265d50dd7cde65dcc91cbf0613f96496a9dfcfdf12cc9ee006ea8131fe76b7",
@@ -186,12 +224,29 @@
     ],
     "type": "是非",
     "course": "公益揭弊者保護法說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T15:10:09.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:06.801Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "公務員無故洩漏揭弊者之身分者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以下罰金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:08.304Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

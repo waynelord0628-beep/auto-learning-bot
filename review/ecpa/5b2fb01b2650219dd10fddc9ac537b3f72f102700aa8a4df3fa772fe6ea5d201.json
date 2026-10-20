@@ -31,17 +31,30 @@
     ],
     "type": "單選",
     "course": "社會救助法規推行實務與挑戰",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "投資失利者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T15:11:10.092Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T05:19:47.753Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T08:13:06.983Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "投資失利者",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E7%A4%BE%E6%9C%83%E6%95%91%E5%8A%A9%E6%B3%95&pcode=D0050078",
+          "quote": "為照顧低收入戶、中低收入戶及救助遭受急難或災害者"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:12:06.523Z"
+    },
+    "resolved_answer": "投資失利者"
   },
   {
     "id": "ba6684acd7a538bf4f262f1f6051c092910e0c4477f4cde8881530020236b870",

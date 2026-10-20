@@ -115353,5 +115353,280 @@
       "model": "gpt-4.1",
       "checked_at": "2026-10-20T08:06:04.003Z"
     }
+  },
+  {
+    "question": "下列何者不是法定受理揭弊機關？",
+    "type": "單選",
+    "options": [
+      "檢察機關",
+      "司法警察機關",
+      "政風機構",
+      "一般私人企業"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "一般私人企業",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "一般私人企業",
+      "sources": [
+        {
+          "url": "https://www.tph.moj.gov.tw/4421/4475/632364/1316668/",
+          "quote": "本法的適用範圍，現僅適用於公部門、國營事業及受政府控制的事業、團體或機構（即泛公部門），一般私部門或私人公司都不在法律適用範圍之列，"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:00.982Z"
+    }
+  },
+  {
+    "question": "違反政府採購法之行為，屬於本法所稱弊案範圍之一。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "五、違反政府採購法之行為。"
+        },
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL104574",
+          "quote": "五、違反政府採購法之行為。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:08.304Z"
+    }
+  },
+  {
+    "question": "公務員故意洩漏揭弊者身分者，負刑事責任。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "公務員無故洩漏揭弊者之身分者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以下罰金。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:08:08.304Z"
+    }
+  },
+  {
+    "question": "關於《兒童權利公約》(CRC) 在台灣的法律效力，下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "台灣非聯合國會員國，故 CRC 僅具參考性質，無法律強制力。",
+      "2014 年公布《兒童權利公約施行法》，明定 CRC 具國內法效力。",
+      "僅有社會處相關業務需遵循，工務或交通單位不受此法規範。",
+      "當國內既有法規（如民法、少年事件處理法）與 CRC 牴觸時，應優先適用國內法。"
+    ],
+    "course": "新竹市115年兒童權利公約知能訓練-認識與落實《兒童權利公約》做個最有溫度的施政成績單",
+    "answer": "2014 年公布《兒童權利公約施行法》，明定 CRC 具國內法效力。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "2014 年公布《兒童權利公約施行法》，明定 CRC 具國內法效力。",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E5%85%92%E7%AB%A5&pcode=D0050193",
+          "quote": "第 2 條 公約所揭示保障及促進兒童及少年權利之規定，具有國內法律之效力。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:06.622Z"
+    }
+  },
+  {
+    "question": "根據 CRC 公約第 1 條對「兒童」的定義，下列何者為保障對象？",
+    "type": "單選",
+    "options": [
+      "具有我國國籍且未滿 18 歲之人。",
+      "所有未滿 12 歲之人。",
+      "所有未滿 18歲之人。",
+      "12 歲以上未滿 18 歲之人。"
+    ],
+    "course": "新竹市115年兒童權利公約知能訓練-認識與落實《兒童權利公約》做個最有溫度的施政成績單",
+    "answer": "所有未滿 18歲之人。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "所有未滿 18歲之人。",
+      "sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "CRC保障的「兒童」，是指所有未滿18歲的兒童及少年。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:06.622Z"
+    }
+  },
+  {
+    "question": "下列何者不是社會救助法的救助對象？",
+    "type": "單選",
+    "options": [
+      "低收入戶",
+      "遭受急難者",
+      "遭受非常災害者",
+      "投資失利者"
+    ],
+    "course": "社會救助法規推行實務與挑戰",
+    "answer": "投資失利者",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "投資失利者",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?kw=%E7%A4%BE%E6%9C%83%E6%95%91%E5%8A%A9%E6%B3%95&pcode=D0050078",
+          "quote": "為照顧低收入戶、中低收入戶及救助遭受急難或災害者"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:12:06.523Z"
+    }
+  },
+  {
+    "question": "111年5月5日提出我國首部「國家人權行動計畫」包含哪些內容？",
+    "type": "單選",
+    "options": [
+      "5大人權議題",
+      "3大公約",
+      "8大人權議題與154項行動方案",
+      "以上皆非"
+    ],
+    "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
+    "answer": "8大人權議題與154項行動方案",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "8大人權議題與154項行動方案",
+      "sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/023535d2-10e0-484e-a737-c98d24a3a2c4",
+          "quote": "特別關注原住民族、LGBTI（女同性戀者、男同性戀者、雙性戀者、跨性別者與雙性者）、遊民、外籍移工、老人、婦女、兒童、身心障礙者、難民等不利處境的群體，包含8大人權議題、154項行動方案"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:42.342Z"
+    }
+  },
+  {
+    "question": "行政院為推動CRPD施行法相關工作，應邀集學者專家、身心障礙團體（機構）及各政府機關代表，成立身心障礙者權益推動小組，定期召開會議，協調、研究、審議、諮詢並辦理相關事項。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194",
+          "quote": "行政院為推動本公約相關工作，應邀集學者專家、身心障礙團體（機構）及各政府機關代表，成立身心障礙者權益推動小組，定期召開會議，協調、研究、審議、諮詢並辦理下列事項"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:42.342Z"
+    }
+  },
+  {
+    "question": "職場性騷擾適用性別平等工作法。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性平意識解析、性騷擾迷思解構及因應作為",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://eeweb.mol.gov.tw/genderZone/harassment_1.html",
+          "quote": "工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
+        },
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "為保障工作權之性別平等，貫徹憲法消除性別歧視、促進性別地位實質平等之精神，爰制定本法。 工作場所性騷擾事件，除校園性騷擾事件依性別平等教育法規定處理外，依本法規定處理。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:09:55.287Z"
+    }
+  },
+  {
+    "question": "勞工提出性騷擾申訴後，雇主不得因此解僱、調職或給予其他不利處分。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "(115年)性別平等工作法",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        },
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "第 36 條 雇主不得因受僱者提出本法之申訴或協助他人申訴，而予以解僱、調職或其他不利之處分。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:10:12.222Z"
+    }
+  },
+  {
+    "question": "1948年所通過之世界人權宣言，提及人人有權享受其康樂所需之生活程度，舉凡衣、食、住、醫藥及必要之社會服務均包括在內，而在《經濟社會文化權利國際公約》亦提出人人享有身體與精神健康的權利。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兩公約健康權課程：人權搜查客Ⅱ",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Y0000038",
+          "quote": "第十二條 一 本公約締約國確認人人有權享受可能達到之最高標準之身體與精神健 康。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T08:13:04.465Z"
+    }
   }
 ]
