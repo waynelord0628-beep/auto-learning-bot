@@ -695,7 +695,7 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
                 return False
 
             elapsed_sec = time.time() - start_time
-            if not pending and remain_sec > 0 and elapsed_sec >= remain_sec:
+            if target_sec > 0 and elapsed_sec >= remain_sec:
                 break
 
             elapsed_sec = time.time() - start_time

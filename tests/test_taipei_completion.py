@@ -69,5 +69,26 @@ class CompletionTests(unittest.TestCase):
         ns['confirm_study_record'].assert_called_once()
         self.assertEqual(ns['get_chapters'].call_count, 2)
 
+    def test_target_reached_mid_round_does_not_visit_remaining_chapters(self):
+        clock = [0.0]
+        driver = Mock(current_url='https://example/player')
+        wait = Mock()
+        def advance(seconds, *args, **kwargs):
+            clock[0] += seconds
+            return True
+        chapters = [{'scoid':str(i), 'name':f'單元 {i}', 'done':False} for i in range(5)]
+        ns = {'time': types.SimpleNamespace(time=lambda:clock[0], sleep=advance),
+              'parse_study_time': lambda s:0, 'get_scorm_player_url':Mock(return_value='player'),
+              'pause_and_mute_media':Mock(), 'get_chapters':Mock(return_value=chapters),
+              'click_chapter_by_scoid':Mock(return_value=True), 'is_chapter_done':Mock(return_value=False),
+              'wait_with_heartbeat':advance, 'RESIDENCE_TIME':90,
+              'sec_to_hms':str, 'draw_bar':lambda *args:'', 'dismiss_alerts':Mock(),
+              'EC':types.SimpleNamespace(element_to_be_clickable=lambda x:x),
+              'By':types.SimpleNamespace(XPATH='xpath'), 'confirm_study_record':Mock(return_value=True)}
+        fn = load('do_scorm_course', ns)
+        self.assertTrue(fn(driver, wait, {'name':'課程', 'href':'course', 'cert_hrs':0.05}))
+        ns['click_chapter_by_scoid'].assert_called_once_with(driver, '0')
+        ns['confirm_study_record'].assert_called_once()
+
 if __name__ == '__main__':
     unittest.main()
