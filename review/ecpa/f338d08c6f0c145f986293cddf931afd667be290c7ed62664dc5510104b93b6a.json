@@ -147,7 +147,11 @@
     "candidate_answer": "What motivated you to pursue this career?",
     "source": "ai_unverified",
     "created_at": "2026-10-08T19:51:12.760Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T04:20:29.716Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b590e65d5feac45f9c473456954b4f9943e34bce5e6c4dbdd507a3a0909b2bc1",
