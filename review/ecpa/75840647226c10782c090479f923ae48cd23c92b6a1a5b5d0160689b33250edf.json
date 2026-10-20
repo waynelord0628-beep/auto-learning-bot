@@ -185,13 +185,34 @@
     ],
     "type": "單選",
     "course": "I Was You 我曾是你",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "independence",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T02:55:21.830Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.740Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "independence",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347033641",
+          "title": "I Was You 我曾是你《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347033641",
+          "title": "I Was You 我曾是你《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:35:12.169Z"
+    },
+    "resolved_answer": "independence"
   },
   {
     "id": "729e6bc176a6494cabea9747bd2ecc228bebd68f46339a52e85e8d1b58eead19",

@@ -137,12 +137,33 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約CRPD核心概念簡介",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "社會模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T14:40:41.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:22.001Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人權模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/crpdee.html",
+          "title": "「身心障礙者權利公約CRPD核心概念簡介」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340054037",
+          "title": "身心障礙者權利公約CRPD核心概念簡介《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:38:19.801Z"
+    },
+    "resolved_answer": "人權模式"
   }
 ]

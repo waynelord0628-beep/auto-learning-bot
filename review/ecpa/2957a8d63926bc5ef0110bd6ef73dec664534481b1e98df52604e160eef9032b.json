@@ -218,13 +218,34 @@
     ],
     "type": "是非",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.256Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.212Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188089",
+          "title": "網路取代馬路 智慧醫療與照護升級《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.305Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "bd9e59e409a82fa8d2d0a050715cfde8c1d19a5e1fe61a4fb920345e2872c1ea",
@@ -238,13 +259,34 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.257Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.235Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188089",
+          "title": "網路取代馬路 智慧醫療與照護升級《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.305Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "c800aed2297710ab1c3c8e15736747e210bc9864e4ef300ab75663a5a288df2a",
@@ -257,13 +299,34 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "讓救護車行駛路線更順暢",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.256Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "讓救護車行駛路線更順暢",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188089",
+          "title": "網路取代馬路 智慧醫療與照護升級《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.305Z"
+    },
+    "resolved_answer": "讓救護車行駛路線更順暢"
   },
   {
     "id": "2f26ca2ad88900b6a76f87cc6e660b11206860f537ba8c969c8aa4b7eeb6ab01",
@@ -275,12 +338,33 @@
     ],
     "type": "單選",
     "course": "網路取代馬路  智慧醫療與照護升級",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "遠距診療平台",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-24T07:22:50.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.279Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "遠距診療平台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_943.html",
+          "title": "「網路取代馬路 智慧醫療與照護升級」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188089",
+          "title": "網路取代馬路 智慧醫療與照護升級《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.305Z"
+    },
+    "resolved_answer": "遠距診療平台"
   }
 ]

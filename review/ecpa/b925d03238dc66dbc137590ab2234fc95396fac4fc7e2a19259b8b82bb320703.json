@@ -190,13 +190,34 @@
     ],
     "type": "單選",
     "course": "穿越時光隧道 - 探秘大航海時代下的基隆",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "pier",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:33:42.863Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:21.416Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "pier",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:36:44.990Z"
+    },
+    "resolved_answer": "pier"
   },
   {
     "id": "5ca12a082cc85c8e6612844007d16f32b64bfacda918c861e5d23b52e650ab3a",
@@ -209,12 +230,33 @@
     ],
     "type": "單選",
     "course": "穿越時光隧道 - 探秘大航海時代下的基隆",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "During Qing Dynasty",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T17:33:42.863Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:21.446Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "During Spanish colonization",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343055925",
+          "title": "穿越時光隧道 - 探秘大航海時代下的基隆《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:36:44.990Z"
+    },
+    "resolved_answer": "During Spanish colonization"
   }
 ]

@@ -8,14 +8,35 @@
     ],
     "type": "是非",
     "course": "國際人權理念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T04:18:10.549Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.677Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01523783555.html",
+          "title": "「國際人權理念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15117587034",
+          "title": "國際人權理念與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:50.469Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a7fafb480f23a0a2fbb379ed87a2bb562072655c89cfb08da8571946170d3fab",
@@ -28,14 +49,35 @@
     ],
     "type": "單選",
     "course": "國際人權理念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T04:18:10.554Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.697Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "「公民與政治權利國際公約」、「經濟社會文化權利國際公約施行法」",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01523783555.html",
+          "title": "「國際人權理念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15117587034",
+          "title": "國際人權理念與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:50.469Z"
+    },
+    "resolved_answer": "「公民與政治權利國際公約」、「經濟社會文化權利國際公約施行法」"
   },
   {
     "id": "fd1f2a23ff4bf1196d9ceafb07f2b614b1d0723a09f1ce4cfff96d50aab64328",
@@ -68,14 +110,35 @@
     ],
     "type": "單選",
     "course": "國際人權理念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T04:18:10.556Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.720Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "人權報告制度",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01523783555.html",
+          "title": "「國際人權理念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15117587034",
+          "title": "國際人權理念與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:50.469Z"
+    },
+    "resolved_answer": "人權報告制度"
   },
   {
     "id": "85f8c113f03cc1e8fa8aefe6d613f2822d9027ccd805e2e6f7d7493d2b30a438",
@@ -88,13 +151,34 @@
     ],
     "type": "單選",
     "course": "國際人權理念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-19T04:18:10.556Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.741Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2009年12月10日",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01523783555.html",
+          "title": "「國際人權理念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15117587034",
+          "title": "國際人權理念與實務《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:50.469Z"
+    },
+    "resolved_answer": "2009年12月10日"
   }
 ]

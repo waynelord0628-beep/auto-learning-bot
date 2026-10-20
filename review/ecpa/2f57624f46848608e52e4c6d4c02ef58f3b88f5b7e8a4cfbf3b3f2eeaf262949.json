@@ -222,13 +222,34 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "It is curative.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.396Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.066Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "It is curative.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.293Z"
+    },
+    "resolved_answer": "It is curative."
   },
   {
     "id": "57d3d1181fadf8eefd079923c12f8ffc255d1e3b8abbf482d9bf5ec9de419ad8",
@@ -241,13 +262,34 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "purified water",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.399Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.092Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "purified water",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.293Z"
+    },
+    "resolved_answer": "purified water"
   },
   {
     "id": "6102e0be4462a8d4cfcc60c5c8e527717d86682630b98639dc440597b28ff521",
@@ -260,13 +302,34 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Leo can float in the spring because the water is salted.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.400Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.112Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Leo can float in the spring because the water is salted.",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.293Z"
+    },
+    "resolved_answer": "Leo can float in the spring because the water is salted."
   },
   {
     "id": "d79135d042460044d23da9c85fe798cd15676f3481bd4f165d4e7d76cc1e46c3",
@@ -279,12 +342,33 @@
     ],
     "type": "單選",
     "course": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "enclosure",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:08:02.402Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:20.137Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "enclosure",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697833",
+          "title": "綠島的秘密【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.293Z"
+    },
+    "resolved_answer": "enclosure"
   }
 ]

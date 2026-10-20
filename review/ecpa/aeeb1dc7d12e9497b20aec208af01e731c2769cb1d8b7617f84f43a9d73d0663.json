@@ -226,13 +226,30 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.685Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.924Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.280Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ff1a7bab860c0d53c06ab2323047545b6f8782ed3c3cb2e7e40fe4f07ab83fdf",
@@ -246,13 +263,30 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.690Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.943Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.280Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "08dae62a2525bfee0ca93933843ff8304115e771b4ae4269ece90af3483c74f5",
@@ -266,13 +300,30 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.694Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.963Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.281Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "8ae1df60033df35fb6f739158869473b5f01e23e5f864e291e35e38dab7cb7b3",
@@ -284,12 +335,29 @@
     ],
     "type": "單選",
     "course": "雲端賦能-提升營運的可擴展性和靈活性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "基礎架構即服務、平台即服務、軟體即服務",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T04:49:42.711Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:41:19.984Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "基礎架構即服務、平台即服務、軟體即服務",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_70.html",
+          "title": "「雲端賦能-提升營運的可擴展性和靈活性」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:34:57.281Z"
+    },
+    "resolved_answer": "基礎架構即服務、平台即服務、軟體即服務"
   }
 ]
