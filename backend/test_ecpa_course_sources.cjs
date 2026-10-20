@@ -38,4 +38,9 @@ const second={...first,id:'two',question:'Second question?',verify_policy:'cours
 const batch=ctx.ecpaCourseBatchAnswers([first,second,{...second,id:'other',course:'Other course'},{...second,id:'bad-options',options:['A','C']}],q.course,Date.now()+5000);
 assert.equal(batch.length,2);assert.equal(pages,1);assert.equal(paid,0);
 assert.deepEqual(Array.from(batch,x=>x.verdict.answer),['B','A']);
+assert.equal(ctx.ecpaCoursePlain('&lt;tag&gt; &amp;gt;'),'<tag> &gt;');
+vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx);
+ctx.ecpaFetchCoursePage=url=>({url,html:table.replaceAll('<td></td><td></td><td>A','<td></td><td></td><td>A -&gt; B').replaceAll('<td>v</td><td></td><td>B','<td>v</td><td></td><td>B &gt;= 6')});
+ctx.ecpaCourseSourceUrls=()=>['https://roddayeye.pixnet.net/entities'];
+assert.equal(ctx.ecpaVerifyCourseAnswer({...q,options:['A -> B','B >= 6']},true).answer,'B >= 6');
 console.log('PASS: exact source formats, one parse per course page, all course questions, retry-backoff reuse, no paid bulk calls, conflicts and redirect restrictions');

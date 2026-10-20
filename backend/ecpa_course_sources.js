@@ -7,7 +7,8 @@ function ecpaCourseSourceAllowed(url) {
     /^https:\/\/(?:www\.peigogo\.com|www\.rodiyer\.idv\.tw|roddayeye\.pixnet\.net)\/[^\s]*$/i.test(url);
 }
 function ecpaCoursePlain(s) {
-  return ecpaSourceText(String(s).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(Math.min(parseInt(n,16),1114111))))
+  return ecpaSourceText(String(s).replace(/&(lt|gt);/gi,(_,n)=>n.toLowerCase()==='lt'?'&#60;':'&#62;')
+    .replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(Math.min(parseInt(n,16),1114111))))
     .replace(/&apos;|&#39;/g,"'");
 }
 function ecpaCourseQuestion(s) {
