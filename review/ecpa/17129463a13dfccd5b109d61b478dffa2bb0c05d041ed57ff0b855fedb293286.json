@@ -201,5 +201,24 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.397Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "351c07357432864d9b8e916729d64db619da70ecbc8fe1997b7791864aa02c6d",
+    "question": "根據課程內容，下列何者正確？",
+    "options": [
+      "男同志通常承擔比女同志更多家庭照顧工作",
+      "女同志在家庭照顧中承擔照顧角色的比例通常較高",
+      "同志族群完全不需要長照，不用去了解",
+      "同志族群沒有照顧需求"
+    ],
+    "type": "單選",
+    "course": "性別(跨性別)敏感議題",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "女同志在家庭照顧中承擔照顧角色的比例通常較高",
+    "source": "ai_unverified",
+    "created_at": "2026-10-20T16:50:07.512Z",
+    "review_state": "candidate_ready"
   }
 ]
