@@ -296,13 +296,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
-    "source": "reported_question",
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
     "created_at": "2026-10-13T03:36:04.845Z",
-    "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-10-19T07:19:38.893Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-10-21T07:19:40.422Z"
   },
   {
     "id": "7009803a9cc0ccd6b665e9aa6fbc532db880d5b5ed47d6e510859c218d483fa4",
