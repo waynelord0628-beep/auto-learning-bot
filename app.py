@@ -86,7 +86,7 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.10"
+    VERSION = "V2.1.11"
     CHANGELOG = (
         "• 支援 eCPA 新版五碼圖片驗證碼\n"
         "• 改善登入速度與登入狀態確認\n"
