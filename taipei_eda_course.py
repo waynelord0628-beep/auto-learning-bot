@@ -683,8 +683,8 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
         all_done = len(pending) == 0
         time_ok = elapsed_sec >= remain_sec
 
-        if all_done and (time_ok or remain_sec == 0):
-            print(f'  ✅ 章節完成且本輪補時達標，已補跑 {elapsed_sec/60:.1f} 分鐘')
+        if (target_sec > 0 and time_ok) or (all_done and remain_sec == 0):
+            print(f'  本輪計時已達目標，離開播放器並確認平台紀錄（{elapsed_sec/60:.1f} 分鐘）')
             break
 
         to_visit = pending if pending else list(scoid_order)
@@ -742,7 +742,35 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
     except Exception as e:
         print(f'  離開按鈕: {e}')
 
-    return True
+    return confirm_study_record(driver, wait, course, criteria_sec, should_continue)
+
+
+def confirm_study_record(driver, wait, course, criteria_sec, should_continue):
+    """Only advance after the platform confirms completion or recorded study time."""
+    for attempt in range(1, 4):
+        if not should_continue():
+            return False
+        try:
+            records = get_course_list(driver, wait)
+            current = next((row for row in records if row.get('href') == course['href']), None)
+            if current:
+                status = _clean_status(current.get('done'))
+                recorded = parse_study_time(current.get('study', ''))
+                completed = status in ('已完成', '完成', '已達標', '達標')
+                if completed or (criteria_sec > 0 and recorded >= criteria_sec):
+                    course.update(current)
+                    print(f'  ✅ 平台已確認研習達標：{current.get("study", "")}，接續檢查測驗/問卷')
+                    return True
+                print(f'  平台紀錄尚未達標（{attempt}/3）：時數 {current.get("study", "")}，狀態 {status}')
+            else:
+                print(f'  ⚠️ 平台尚未回傳本課程紀錄（{attempt}/3）')
+        except Exception as exc:
+            print(f'  ⚠️ 讀取平台研習紀錄失敗（{attempt}/3）：{type(exc).__name__}')
+        if attempt < 3:
+            if not wait_with_heartbeat(10, should_continue, lambda: None):
+                return False
+    print('  ⚠️ 尚未確認平台研習達標，保留待處理，不以本機 100% 判定完成')
+    return False
 
 # ── 主程式 ────────────────────────────────────────────
 
