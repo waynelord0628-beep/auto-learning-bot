@@ -115211,5 +115211,28 @@
       "model": null,
       "checked_at": "2026-10-20T07:13:58.795Z"
     }
+  },
+  {
+    "question": "碳邊境調整機制(CBAM)在2026年全面正式實施後對於外銷歐盟的企業而言，碳稅不會額外增加的費用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.cca.gov.tw/affairs/cbam/regulations/deduction/25856.html",
+          "quote": "隨著歐盟碳邊境調整機制(CBAM)自2026年1月1日起進入正式實施階段，進口商除了需申報產品碳含量外，更涉及實質的費用負擔。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T07:20:11.012Z"
+    }
   }
 ]

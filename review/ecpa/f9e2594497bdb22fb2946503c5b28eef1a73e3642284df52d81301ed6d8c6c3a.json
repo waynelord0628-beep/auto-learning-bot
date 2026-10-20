@@ -251,13 +251,30 @@
     ],
     "type": "是非",
     "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T09:11:36.785Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:20:11.882Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.cca.gov.tw/affairs/cbam/regulations/deduction/25856.html",
+          "quote": "隨著歐盟碳邊境調整機制(CBAM)自2026年1月1日起進入正式實施階段，進口商除了需申報產品碳含量外，更涉及實質的費用負擔。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-4.1",
+      "checked_at": "2026-10-20T07:20:11.012Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "006be33b416680b3e12be8b0372840179841f57bfbfc3a342e2d4292b33101cd",
