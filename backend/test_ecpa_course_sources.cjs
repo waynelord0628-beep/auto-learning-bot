@@ -22,6 +22,11 @@ const pei='<div class="post-body-inner"><div>問：Question?</div><div>&nbsp; A<
 let rows=ctx.ecpaCoursePageRows(pei,'https://www.peigogo.com/a');assert.equal(rows.length,1);assert.equal(rows[0].answers[0],'B');assert.equal(rows[0].options.length,2);
 const rodi='<table><tr><td>問</td><td>Question?</td></tr><tr><td></td><td>A</td></tr><tr><td>✓</td><td>B</td></tr></table>';
 rows=ctx.ecpaCoursePageRows(rodi,'https://www.rodiyer.idv.tw/a');assert.equal(rows[0].answers[0],'B');
+rows=ctx.ecpaCoursePageRows(rodi.replace('✓','&#10003'),'https://www.rodiyer.idv.tw/a');assert.equal(rows[0].answers[0],'B');
+rows=ctx.ecpaCoursePageRows(rodi.replace('✓','&#10003x'),'https://www.rodiyer.idv.tw/a');assert.equal(rows[0].answers.length,0);
+assert.equal(ctx.ecpaCourseTitleMatches('台灣公約《解答》','臺灣公約'),true);
+assert.equal(ctx.ecpaCourseTitleMatches('台北公約《解答》','臺中公約'),false);
+assert.equal(ctx.ecpaCourseTitleMatches('114年臺灣公約《解答》','115年台灣公約'),false);
 // Restore the actual fetcher and test redirect host validation.
 vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx);
 let calls=0;ctx.UrlFetchApp={fetch:()=>{calls++;return {getResponseCode:()=>302,getAllHeaders:()=>({Location:'https://127.0.0.1/secret'})};}};
@@ -43,4 +48,8 @@ vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx)
 ctx.ecpaFetchCoursePage=url=>({url,html:table.replaceAll('<td></td><td></td><td>A','<td></td><td></td><td>A -&gt; B').replaceAll('<td>v</td><td></td><td>B','<td>v</td><td></td><td>B &gt;= 6')});
 ctx.ecpaCourseSourceUrls=()=>['https://roddayeye.pixnet.net/entities'];
 assert.equal(ctx.ecpaVerifyCourseAnswer({...q,options:['A -> B','B >= 6']},true).answer,'B >= 6');
+vm.runInContext(fs.readFileSync(__dirname+'/ecpa_course_sources.js','utf8'),ctx);
+ctx.ecpaFetchCoursePage=url=>({url,html:rodi.replace('Question?','Question?').replace('✓','&#10003').replace('<table>','<title>台灣公約《解答》</title><table>')});
+ctx.ecpaCourseSourceUrls=()=>['https://www.rodiyer.idv.tw/marker'];
+assert.equal(ctx.ecpaVerifyCourseAnswer({...q,course:'臺灣公約'},true).answer,'B');
 console.log('PASS: exact source formats, one parse per course page, all course questions, retry-backoff reuse, no paid bulk calls, conflicts and redirect restrictions');

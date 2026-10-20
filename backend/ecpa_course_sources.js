@@ -2,6 +2,10 @@
 function ecpaCourseKey(s) {
   return String(s || '').normalize('NFC').toLowerCase().replace(/[\s\p{P}\p{S}]/gu,'');
 }
+function ecpaCourseTitleMatches(title,course) {
+  const key=ecpaCourseKey(course).replace(/臺/g,'台');
+  return !!key&&ecpaCourseKey(title).replace(/臺/g,'台').includes(key);
+}
 function ecpaCourseSourceAllowed(url) {
   return typeof url === 'string' && url.length < 2000 &&
     /^https:\/\/(?:www\.peigogo\.com|www\.rodiyer\.idv\.tw|roddayeye\.pixnet\.net)\/[^\s]*$/i.test(url);
@@ -43,7 +47,8 @@ function ecpaCoursePageRows(html,url) {
       const cells=[...body.matchAll(/<td\b[^>]*>([\s\S]*?)<\/td>/gi)].map(m=>ecpaCoursePlain(m[1]));
       const pixnet=/pixnet\.net\//.test(url), n=pixnet?2:1;
       if (cells.length<=n) return '';
-      const marker=cells[0],t=cells[n];
+      // Rodiyer emits the check-mark entity without a trailing semicolon.
+      const marker=cells[0].replace(/^&#(?:10003|x2713);?$/i,'✓'),t=cells[n];
       if (/r\.o\.d\.d\.a\.y\.e\.y\.e\.|www\.rodiyer\./i.test(t)) return '';
       rows.push([marker==='Q'||marker==='問'?'Q':(/^[vV✓]$/.test(marker)?'yes':''),t]);
       return '';
@@ -111,7 +116,7 @@ function ecpaVerifyCourseAnswer(q,lookupOnly) {
     const page=ecpaReadCourseAnswers(url);if(!page)return;
     const title=page.title;
     const course=ecpaCourseKey(q.course);
-    if(!course || !ecpaCourseKey(title).includes(course))return;
+    if(!course || !ecpaCourseTitleMatches(title,q.course))return;
     for(const item of page.rows) {
       if(item.question!==ecpaCourseQuestion(q.question))continue;
       const convert=o=>q.type==='是非' ? ({'O':'正確','○':'正確','是':'正確','對':'正確','X':'錯誤','╳':'錯誤','否':'錯誤','錯':'錯誤'}[o]||o):o;
