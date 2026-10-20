@@ -42,17 +42,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.952Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-12T03:19:54.148Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.849Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "4fdcec3d3f7874b6eb673b4f12c369b6812f8c5c12a2928b712420ccd0df2781",
@@ -99,13 +112,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.870Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "048afdd3a42f5be7c23324baffad01ec06a73370c199fd542e110501045ffefd",
@@ -116,13 +146,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.892Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "cebeef9fa6c876171ca0c86043e0904b221cf1b84f662409ca67178b7cd4d580",
@@ -239,13 +286,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.967Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.913Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "548ab2a6354819caef24eb39b72a3e8e9b8b843dcbb2b931f173a44e48704228",
@@ -256,13 +320,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:04.968Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.934Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "935e7786a50cf418016691580d92c00b0fd571b8cbab524e715b330ee7c8d69e",
@@ -326,13 +407,30 @@
     ],
     "type": "是非",
     "course": "數位時代的親職",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T18:30:51.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.954Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "13a38123918a387de0a9430cd725c937be6bacc0b8312a34bac0fe302da6f303",

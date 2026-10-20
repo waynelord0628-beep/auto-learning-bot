@@ -111822,5 +111822,1287 @@
       "model": null,
       "checked_at": "2026-10-20T06:19:49.460Z"
     }
+  },
+  {
+    "question": "若想定期接收資安新知，可訂閱國家資通安全研究院的資安週報，掌握最新資安資訊。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.415Z"
+    }
+  },
+  {
+    "question": "發生資安事件時應該先隱匿，避免機關聲譽受損。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.417Z"
+    }
+  },
+  {
+    "question": "機關只要做好自身的資安防護即可，外部供應商提供的服務或存取機關服務行為無須管理。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "原廠公告釋出的更新程式應儘快安裝更新，降低遭受零時差攻擊的可能性。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "社交工程是指操弄人類心理情感以達到特定目的，如：利用假利益交換來換取個人資料、假公務陳情電子郵件要求下載特定檔案。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "因單位禁止安裝特定程式，所以可以透過網路上他人分享的PowerShell指令到特定路徑下載破解檔案偷偷安裝使用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "蒐集他人個人資料未經當事人同意情況下，可做蒐集目的外的使用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "網路釣魚結合生成式AI工具，模擬高階主管發起會議、偽冒員工身分索取資料，皆屬於人工智慧濫用情境。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "員工使用人工智慧工具提升工作效率，但未經授權情況下使用或未留意使用情境，可能有資料外洩的風險。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    }
+  },
+  {
+    "question": "地方如何透過蒲草推廣倡議環保?",
+    "type": "單選",
+    "options": [
+      "媒合農業專家培植地方種植團隊",
+      "逐步透過獎勵方式汰換不環保的一次性塑膠吸管",
+      "辦理相關宣導活動",
+      "以上皆是"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    }
+  },
+  {
+    "question": "一次性吸管為何不環保?",
+    "type": "單選",
+    "options": [
+      "因為很便利",
+      "因為很便宜",
+      "因為是塑膠製品",
+      "因為不好用"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "因為是塑膠製品",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "因為是塑膠製品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    }
+  },
+  {
+    "question": "蒲草吸管不具備何種效益?",
+    "type": "單選",
+    "options": [
+      "環保",
+      "經濟",
+      "便利",
+      "重複利用"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "重複利用",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "重複利用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    }
+  },
+  {
+    "question": "何者不是蒲草吸管可以達成的主要社會影響力項目?",
+    "type": "單選",
+    "options": [
+      "減少二氧化碳碳排量",
+      "復耕田地",
+      "減少的塑膠用量",
+      "提高身心障礙者就業率"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "提高身心障礙者就業率",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提高身心障礙者就業率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "根據國際商業報告，吸管用量在未來十年的用量變化何者為真?",
+    "type": "單選",
+    "options": [
+      "逐年減少",
+      "和現在持平",
+      "逐步提高",
+      "沒有相關數據"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "逐步提高",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "逐步提高",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "台灣一年會使用多少支吸管?",
+    "type": "單選",
+    "options": [
+      "一億支",
+      "十億支",
+      "三十億支",
+      "一百億支"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "三十億支",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "三十億支",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "根據玩艸植造的觀察，在咖啡廳中民眾不願意使用可重複吸管約有幾成?",
+    "type": "單選",
+    "options": [
+      "2成",
+      "3 成",
+      "5成",
+      "4成"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "4成",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "4成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "蒲草吸管的社會效益何者為非?",
+    "type": "單選",
+    "options": [
+      "可以多加利用休耕與棄耕的土地",
+      "結合地方創生，活化農村人力",
+      "對環境的影響如同一片落葉",
+      "提供穩定綠能燃料"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "提供穩定綠能燃料",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "提供穩定綠能燃料",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "為何一次性的草吸管越用對地球越好?",
+    "type": "單選",
+    "options": [
+      "目前唯一負碳排又減塑的農業產品",
+      "以非糧食產品的民生需求創造農村金流",
+      "不用犧牲便利性以及承受使用一次性的道德譴責，也能參與環保",
+      "以上皆是"
+    ],
+    "course": "減塑永續的社會創新-蒲草吸管實現ESG",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    }
+  },
+  {
+    "question": "機關電子媒體類檔案保存之溫度標準，以下何者正確？",
+    "type": "單選",
+    "options": [
+      "27℃以下",
+      "-4℃±1℃",
+      "20℃±2℃",
+      "10℃±1℃"
+    ],
+    "course": "B341紙質檔案複製與儲存",
+    "answer": "20℃±2℃",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "20℃±2℃",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/b341ee.html",
+          "title": "「B341紙質檔案複製與儲存」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15229367246",
+          "title": "B341紙質檔案複製與儲存《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.671Z"
+    }
+  },
+  {
+    "question": "各機關在進行檔案數位化前，必須評估檔案的主客觀條件，包括：",
+    "type": "單選",
+    "options": [
+      "檔案的重要性",
+      "檔案保存狀況",
+      "檔案使用需求",
+      "以上皆是"
+    ],
+    "course": "B341紙質檔案複製與儲存",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/b341ee.html",
+          "title": "「B341紙質檔案複製與儲存」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15229367246",
+          "title": "B341紙質檔案複製與儲存《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.672Z"
+    }
+  },
+  {
+    "question": "機關綠色採購推動策略為何?",
+    "type": "單選",
+    "options": [
+      "指定採購項目應優先選擇環保標章產品",
+      "所有財物採購均需 選擇環保標章產品",
+      "勞務及工程案件由 機關自行申報",
+      "勞務及工程案件可由承攬廠商申報或由機關自行申報"
+    ],
+    "course": "國家綠色採購政策現況與未來規劃",
+    "answer": "指定採購項目應優先選擇環保標章產品",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "指定採購項目應優先選擇環保標章產品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.126Z"
+    }
+  },
+  {
+    "question": "下列何者屬於綠色採購範疇?",
+    "type": "單選",
+    "options": [
+      "國際FSC標章",
+      "能源效率標示為一級或二級產品",
+      "環保標章、省水標章、綠建材標章",
+      "以上皆是"
+    ],
+    "course": "國家綠色採購政策現況與未來規劃",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    }
+  },
+  {
+    "question": "為擴大推動綠色採購,後續推動策略何者有誤?",
+    "type": "單選",
+    "options": [
+      "擴大綠色產品或服務",
+      "擴大綠色採購認定範疇",
+      "持續滾動檢討機關與民間企業及團體綠色採購推動制度與計畫,精進相關目標值之設定",
+      "加強國防預算"
+    ],
+    "course": "國家綠色採購政策現況與未來規劃",
+    "answer": "加強國防預算",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "加強國防預算",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    }
+  },
+  {
+    "question": "我國綠色採購推動歷程下列何者正確?",
+    "type": "單選",
+    "options": [
+      "民國81年推動環保 標章制度",
+      "民國87年將綠色採購觀念納入政府採購法",
+      "民國109年綠色採購納入工程及勞務採購契約範本",
+      "以上皆是"
+    ],
+    "course": "國家綠色採購政策現況與未來規劃",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    }
+  },
+  {
+    "question": "兒童的生存與發展權強調不能剝奪兒童的生命。至於積極的讓兒童避免因為疾病、不良的環境或各種因素導致死亡，則不在此原則中。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "《兒童權利公約》為全球最多國家簽署、共識度最高之國際公約",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "「兒童權利公約」中有規範兒童的生存與發展權、教育權、受保護權，但是沒有提到遊戲權？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "為了讓兒童自由表達想法，需要讓兒童可以安全地進行探索和表達自己的觀點，當挑戰成人的時候不必擔心受到批評或懲罰。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "「兒童權利公約」為聯合國大會所通過，臺灣因為不是聯合國會員國，所以沒有實施這個公約？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "1959年11月20日，聯合國大會通過了聯合國兒童權利宣言。此宣言不具法律約束力，屬宣示性質",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "「權利」（rights）只適用大人，不適用未成年的兒少？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒童權利公約的發展脈絡與一般性原則",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    }
+  },
+  {
+    "question": "就家庭預防視角來看，數位科技有機會孕育數位子女，以至於影響家人關係。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "根據台灣網路資訊中心(TWNIC)2024調查報告指出，台灣的網路使用普及度高且整體上網路已接近五成。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "家庭教育專業人員應盡力具備數位知能與善用數位科技的能力。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "數位科技對家庭的影響有限，不太可能改變家人溝通模式。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "台灣網路資訊中心發現，多數使用者認為社群媒體足以保護個資與隱私。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "從台灣幼兒發展調查資料庫(KIT)的研究中，發現台灣孩童使用3C的年齡層逐漸下降。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "數位時代的親職",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_81.html",
+          "title": "【解答】數位時代的親職 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.708Z"
+    }
+  },
+  {
+    "question": "下列哪一種是溫室氣體盤查作業流程最後步驟?",
+    "type": "單選",
+    "options": [
+      "排放源鑑別",
+      "排放量計算",
+      "盤查資料保存",
+      "建立排放量盤查報告書"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "建立排放量盤查報告書",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "建立排放量盤查報告書",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.961Z"
+    }
+  },
+  {
+    "question": "組織邊界設定的主要依據是什麼?",
+    "type": "單選",
+    "options": [
+      "企業的財務報告需求",
+      "溫室氣體管理的績效比較",
+      "盤查資料的預期使用者及盤查目的",
+      "近期的市場趨勢"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "盤查資料的預期使用者及盤查目的",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "盤查資料的預期使用者及盤查目的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    }
+  },
+  {
+    "question": "在設定組織邊界時,以下哪一項是組織常需 考量的問題?",
+    "type": "單選",
+    "options": [
+      "溫室氣體排放報告的提交時間",
+      "建築或設施的使用與營運模式",
+      "員工的工作滿意度",
+      "客戶的市場需求"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "建築或設施的使用與營運模式",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "建築或設施的使用與營運模式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    }
+  },
+  {
+    "question": "組織邊界設定中,為何會出現溫室氣體排放範疇與邊界重疊的問題?",
+    "type": "單選",
+    "options": [
+      "因為法律法規的不同要求",
+      "因為內部包含多個單位的運作模式",
+      "因為預算限制",
+      "因為主管的決定"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "因為內部包含多個單位的運作模式",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "因為內部包含多個單位的運作模式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    }
+  },
+  {
+    "question": "在排放源鑑別中,範疇一主要指的是什麼類別的排放?",
+    "type": "單選",
+    "options": [
+      "來自於能源利用造成的間接排放",
+      "直接來自於製程或設施的排放",
+      "由外部供應商提供的排放",
+      "產品使用階段的間接排放"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "直接來自於製程或設施的排放",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "直接來自於製程或設施的排放",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    }
+  },
+  {
+    "question": "對於排放源的鑑別,組織應該如何作為?",
+    "type": "單選",
+    "options": [
+      "僅依據最明顯的排放源進行鑑別",
+      "完整鑑別組織邊界內所擁有或控制的所有排放設施",
+      "隨意選擇部分排放源進行盤查",
+      "僅鑑別直接排放源, 忽略間接排放"
+    ],
+    "course": "溫室氣體盤查實務及案例說明",
+    "answer": "完整鑑別組織邊界內所擁有或控制的所有排放設施",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "完整鑑別組織邊界內所擁有或控制的所有排放設施",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    }
+  },
+  {
+    "question": "根據釋字第68號（1956），凡曾參加叛亂組織者，在未經自首或有其他事實證明其確已脫離組織以前，自應認為係繼續參加。大法官因此將「是否仍然參與叛亂組織」的舉證責任歸到人民身上，並排除刑法明定的「從舊從輕原則」。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "我國民主化與轉型正義發展現況",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:30.326Z"
+    }
+  },
+  {
+    "question": "在實施憲政的名義下，五院院長並非由國民黨選任。因此，即使是在威權統治時期，國民黨並不當然淩駕於行政、立法、司法、考試、監察等院之上的意思決定機關。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "我國民主化與轉型正義發展現況",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:30.326Z"
+    }
+  },
+  {
+    "question": "根據釋字第567號解釋 ：「非常時期，國家固得為因應非常事態之需要，而對人民權利作較嚴格之限制。」因此國家處於非常時期，只要有法律規定，無論其侵犯手段是強制表態，乃至改造，皆被允許。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "我國民主化與轉型正義發展現況",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:30.326Z"
+    }
+  },
+  {
+    "question": "大法官協助鞏固威權體制的作法之一，是在第68號解釋當中認定「凡曾參加叛亂組織者，只要自首就無罪。」",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "我國民主化與轉型正義發展現況",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_3.html",
+          "title": "【解答】我國民主化與轉型正義發展現況 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:30.326Z"
+    }
+  },
+  {
+    "question": "關於碳邊境調整機制(CBAM)實行階段敘述何者錯誤？",
+    "type": "單選",
+    "options": [
+      "2036年之後將無免費配額許可，全面改以CBAM取代",
+      "CBAM將基於Fit-for-55法案逐步增加碳排放量配額許可",
+      "2026年之前主要的工作項目為蒐集進口商品碳含量及相關資訊",
+      "2026年起正式開始實行CBAM申報、產品碳含量計算、驗證、繳納碳價申報。"
+    ],
+    "course": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享",
+    "answer": "2026年起正式開始實行CBAM申報、產品碳含量計算、驗證、繳納碳價申報。",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "2026年起正式開始實行CBAM申報、產品碳含量計算、驗證、繳納碳價申報。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_130.html",
+          "title": "「聚和國際推動數位轉型， 邁向淨零碳排的經驗分享」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337816265",
+          "title": "聚和國際推動數位轉型， 邁向淨零碳排的經驗分享《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:30.513Z"
+    }
+  },
+  {
+    "question": "在選擇評量工具時，應避免使用多種方法，以免造成資訊混亂與資源浪費。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:32.594Z"
+    }
+  },
+  {
+    "question": "課程結束後，培訓機關應妥善保存課程設計、學習者資料及各階段評估紀錄，以作為未來課程優化與制度改善的參考依據。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:32.594Z"
+    }
   }
 ]

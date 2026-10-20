@@ -8,16 +8,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.761Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.655Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "dde6028f737a570b58fd931c4df7e844c376676e183331e5d7ad879e0cf7b612",
@@ -67,16 +84,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.767Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.675Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "16270eb4b9df309bb2c722eadc027f11f4d142834247fc6abc9ce842e23725fc",
@@ -87,16 +121,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.768Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.695Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "98f82caf6f19e824ff765c3ac4edfcc2e1077a69fb3521900a0efb97dbf809ee",
@@ -107,16 +158,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.770Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.715Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "f996a6a0b948a811d4ee5658bc7148fd129f23c3dd1fbf6815e06859d77563bc",
@@ -127,16 +195,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.771Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.735Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bf7bd4ec248f24e58ee3bc7386d45a56b2a0a7711db31a5b75536c2ed2515471",
@@ -225,16 +310,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.774Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.757Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3e52b21cb0aa066d873b6cf2e53c09a66329284d64ed93ffc6c2a44e76f190c3",
@@ -245,16 +347,33 @@
     ],
     "type": "是非",
     "course": "兒童權利公約的發展脈絡與一般性原則",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-18T09:03:59.775Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-20T12:19:39.303Z"
+    "retry_after": "2026-10-20T12:19:39.303Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.778Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_16.html",
+          "title": "【解答】兒童權利公約的發展脈絡與一般性原則 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.489Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0db44f032e527997b60d3a3bd100bdee7ded62074f81ebf52bc43089afb33302",

@@ -79,17 +79,34 @@
     ],
     "type": "單選",
     "course": "國家綠色採購政策現況與未來規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "指定採購項目應優先選擇環保標章產品",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.182Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T08:19:46.369Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.516Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "指定採購項目應優先選擇環保標章產品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.126Z"
+    },
+    "resolved_answer": "指定採購項目應優先選擇環保標章產品"
   },
   {
     "id": "29cba2f6c572f620eace43a8e789483f50e8088fa79841cd53a9e62df23ddbc1",
@@ -123,17 +140,34 @@
     ],
     "type": "單選",
     "course": "國家綠色採購政策現況與未來規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.186Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-26T08:20:02.866Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.535Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "6d86426f7578f27af80468695f54d0622c48d2d3e529e84d48ddd3ef266e63fd",
@@ -146,13 +180,34 @@
     ],
     "type": "單選",
     "course": "國家綠色採購政策現況與未來規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "加強國防預算",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.186Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.556Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "加強國防預算",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    },
+    "resolved_answer": "加強國防預算"
   },
   {
     "id": "99c1be23e4ca2e4e2a93c20046cdcf61cb96ed6240c113dc70c34f9124871202",
@@ -184,13 +239,34 @@
     ],
     "type": "單選",
     "course": "國家綠色採購政策現況與未來規劃",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-10T10:56:26.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.584Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/10/ee_01507218002.html",
+          "title": "「國家綠色採購政策現況與未來規劃」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432405",
+          "title": "國家綠色採購政策現況與未來規劃《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.127Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "31e748da6b787d5db14f56162f8bbd7afe4700cf60a706401b8f56ca29fc215f",

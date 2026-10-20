@@ -10,17 +10,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建立排放量盤查報告書",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.102Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T11:19:47.476Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.026Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建立排放量盤查報告書",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.961Z"
+    },
+    "resolved_answer": "建立排放量盤查報告書"
   },
   {
     "id": "4984d97ae2171272f5fc63229cfa20e9bc498552280877a482fd376bafbc6f90",
@@ -33,17 +50,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "盤查資料的預期使用者及盤查目的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.105Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T11:19:53.583Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.046Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "盤查資料的預期使用者及盤查目的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    },
+    "resolved_answer": "盤查資料的預期使用者及盤查目的"
   },
   {
     "id": "190f9f11cbda371aaf3d6b4484ca869621c54c5d54abf24606239989746fa1dd",
@@ -56,17 +90,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建築或設施的使用與營運模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.105Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T11:19:59.063Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.066Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "建築或設施的使用與營運模式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    },
+    "resolved_answer": "建築或設施的使用與營運模式"
   },
   {
     "id": "8a6191ac6f7678f62eeb4249bcdc6e996c968ef03d7bf6cab4d72901ca2ce018",
@@ -79,17 +130,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因為內部包含多個單位的運作模式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.106Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T03:19:52.622Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.087Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "因為內部包含多個單位的運作模式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    },
+    "resolved_answer": "因為內部包含多個單位的運作模式"
   },
   {
     "id": "3c157c309c361031653631e64de6beaa966aca3f844c95cb997e5f1b9b0afd18",
@@ -135,17 +203,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "直接來自於製程或設施的排放",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.107Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-28T03:19:59.357Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.107Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "直接來自於製程或設施的排放",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    },
+    "resolved_answer": "直接來自於製程或設施的排放"
   },
   {
     "id": "5a3bf3ac547726938e5cbd0d20caf69f63216a7695b7d1b17be83a2e6aa53b46",
@@ -224,13 +309,34 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查實務及案例說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "完整鑑別組織邊界內所擁有或控制的所有排放設施",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T05:15:42.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:03.130Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "完整鑑別組織邊界內所擁有或控制的所有排放設施",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432385",
+          "title": "溫室氣體盤查實務及案例說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:29.962Z"
+    },
+    "resolved_answer": "完整鑑別組織邊界內所擁有或控制的所有排放設施"
   },
   {
     "id": "72a7108ec570543d0ff8f175269d049031c01ca05b0ad419e12fb97600142709",

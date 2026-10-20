@@ -10,13 +10,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.481Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.174Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "804cf35e9abc12a1edcd46609a4b104995c60859a7a72c000b8da1c123e20744",
@@ -29,13 +50,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因為是塑膠製品",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.484Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.194Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "因為是塑膠製品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    },
+    "resolved_answer": "因為是塑膠製品"
   },
   {
     "id": "5e84e2c642b193807ffb24bd209eccdfadfaea62bbd4adb0fb69b7439815bb0a",
@@ -48,13 +90,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "便利",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.484Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.214Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "重複利用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.188Z"
+    },
+    "resolved_answer": "重複利用"
   },
   {
     "id": "212a915cffe37b67114d2022d711cd7cbc7d206818ff90d3cc792b9f42a10543",
@@ -67,13 +130,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "復耕田地",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.485Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.242Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提高身心障礙者就業率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "提高身心障礙者就業率"
   },
   {
     "id": "acd85963fae4466055a6ce3d09fa4d111049a417dbf0cb5569fec033ff335b4d",
@@ -105,13 +189,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "逐年減少",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.488Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.264Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "逐步提高",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "逐步提高"
   },
   {
     "id": "3fc6f001d62f6b200d311ca59f4b1944b13753bd96e775b5e6d93f2cf92ce7a0",
@@ -124,13 +229,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "三十億支",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.488Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.287Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "三十億支",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "三十億支"
   },
   {
     "id": "1e9c3d902cae3d576f025cdbbb5b81889214fcb79fbadc4cf3217626c6a3e291",
@@ -143,13 +269,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "5成",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.492Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.307Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "4成"
   },
   {
     "id": "4c772305e32893712e9304effa42097b71f9e36d57067ebef26d897eeb76168f",
@@ -162,13 +309,34 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對環境的影響如同一片落葉",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.505Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.330Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供穩定綠能燃料",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "提供穩定綠能燃料"
   },
   {
     "id": "7258480d815525360564527ee2f06a4a5f297322a5a0c69faf486d86bcb5a5e6",
@@ -181,12 +349,33 @@
     ],
     "type": "單選",
     "course": "減塑永續的社會創新-蒲草吸管實現ESG",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T13:52:15.506Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.349Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/esgee.html",
+          "title": "「減塑永續的社會創新-蒲草吸管實現ESG」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337742341",
+          "title": "減塑永續的社會創新-蒲草吸管實現ESG《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:28.189Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

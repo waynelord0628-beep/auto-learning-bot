@@ -44,17 +44,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.736Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-15T04:19:51.987Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:01.864Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.415Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ab575a2f8cdcf4abc28672a80be8e2bf00a221f39fd40d3c3a9c7d454ec48701",
@@ -86,17 +99,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.739Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T02:20:01.063Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:01.944Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.417Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "4c56a4b1989e71ee4d7f2c20283ad04c72de9cc23daabd8caa3905a8f8751fb9",
@@ -107,17 +133,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.741Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-03T02:20:10.499Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:01.966Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "fc55b7954eb320ab8af7f519e4872b99715f6c1ca2988d7b30c6bda6c574d65f",
@@ -164,13 +203,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.747Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:01.990Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "aa83bbadafdcf31c53368ba89a136969d1a07616242441a89995928b5683a0b7",
@@ -217,13 +273,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.751Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.012Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e1b9aed03c6da5f27e9affc3cbbdccd9b6489c0a92aeeace32024b5b639db4b5",
@@ -234,13 +307,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:02.753Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.036Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d3abe21016f66e522f50b56d8a77c76775d935cd6973d381e3fd5a083c4e7f4f",
@@ -251,13 +341,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:40:37.860Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.056Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "20cd06a8681394d00ef5e6612ad486ee0b6082745108fc833348cf2ebd5ff764",
@@ -412,13 +519,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:41:08.233Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "824caa9aa3443ded2bdbc9a56810a55ca1897653805dd2bd404de1e81dc5b365",
@@ -429,13 +553,30 @@
     ],
     "type": "是非",
     "course": "115年新竹縣政府資訊安全與社交工程宣導教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T12:41:08.236Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:09:02.100Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/115_16.html",
+          "title": "【解答】115年新竹縣政府資訊安全與社交工程宣導教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:08:27.418Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b039a437adfc3f8ed9025a7734a8546d739222851d1b9e067f640af2a777376a",
