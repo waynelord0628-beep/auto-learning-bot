@@ -10,17 +10,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "perform duties",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.235Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T05:20:15.796Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T07:14:02.756Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "perform duties",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "perform duties"
   },
   {
     "id": "2d2d28669481b39da4dc755a4d68c1a96efcbdd1ba3bac69273db6f7323174b9",
@@ -69,17 +86,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "cracked down on",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.236Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-11T03:19:57.394Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.779Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "cracked down on",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "cracked down on"
   },
   {
     "id": "407824f0a90161eefc9989ddd8042b8170feb1d15bac94d291b914f48cf32699",
@@ -92,13 +126,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "responsible for",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.237Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.799Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "responsible for",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "responsible for"
   },
   {
     "id": "32aad08f36f3d5118b3c92c1c291a89ede148c2a4323531615cbc66dd1ca2ae8",
@@ -111,17 +166,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "With regard to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.237Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T01:20:15.698Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.821Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "With regard to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "With regard to"
   },
   {
     "id": "6cc1de67a08727c4f16557b53b879cf3ae716c8201ef4a228cc43ef92f6867a4",
@@ -134,17 +206,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "When it comes to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.238Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-01T01:20:36.309Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.843Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "When it comes to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "When it comes to"
   },
   {
     "id": "9e03d21e0bf7d0e0130f07d66d05ad05513d943dc8eaf5c26136d4ede8012b8b",
@@ -157,13 +246,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "In the case of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.238Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.867Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "In the case of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.466Z"
+    },
+    "resolved_answer": "In the case of"
   },
   {
     "id": "2c8d33078349a9cea3f6cf5187947b3e2646d39dc83fe8748b3098651811dd2b",
@@ -176,13 +286,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "in line with",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.239Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.889Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "in line with",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.467Z"
+    },
+    "resolved_answer": "in line with"
   },
   {
     "id": "dc6d0b78b4dd4aa1703ee79e88e6ada70fb7aaf90e7d77876b078f1f52649148",
@@ -195,13 +326,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "in order not to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.240Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.910Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "so as to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.467Z"
+    },
+    "resolved_answer": "so as to"
   },
   {
     "id": "501ce472376523acae54c57de7fc3d3d1bce3a85c135b05fbf9419d429f70fd9",
@@ -214,13 +366,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "By and large",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:07:25.240Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.932Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "By and large",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.467Z"
+    },
+    "resolved_answer": "By and large"
   },
   {
     "id": "ea8d4f9eff02aa550c63892365907a103d21d9fe88c7e51631dc0b3bbd8783b2",
@@ -239,7 +412,11 @@
     "candidate_answer": "so as to",
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:08:04.712Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.954Z",
+    "verification_status": "existing_answer_requires_evidence"
   },
   {
     "id": "f10750ad2f42a097e58ba773466a765cacf6fdd261042c185fc514c08d4f92b9",
@@ -252,13 +429,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "As for",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:08:04.738Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.969Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "As for",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.468Z"
+    },
+    "resolved_answer": "As for"
   },
   {
     "id": "1b05509930f0b28ad9a2c58ccaa3b2a85aa927054e2c5d66a90a831180efa67c",
@@ -271,13 +469,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "pay tribute to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:08:27.779Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.993Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "pay tribute to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.468Z"
+    },
+    "resolved_answer": "pay tribute to"
   },
   {
     "id": "0893e7521df3376e063d6225be99ace20564a62ceedfb9c4716a0645f54e1d01",
@@ -290,12 +509,33 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "In terms of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T23:08:27.783Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.015Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "In terms of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334660861",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_222.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-佐升正訓練適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.468Z"
+    },
+    "resolved_answer": "In terms of"
   }
 ]

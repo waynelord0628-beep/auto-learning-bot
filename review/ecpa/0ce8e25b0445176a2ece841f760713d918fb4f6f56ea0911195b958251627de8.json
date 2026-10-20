@@ -220,17 +220,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "油炸食用油總極性化合物含量達35%以上，不得再使用，應全部更換新油",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:12:34.956Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T03:12:02.462Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T07:14:03.621Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "每2年清洗水塔1次",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:54.900Z"
+    },
+    "resolved_answer": "每2年清洗水塔1次"
   },
   {
     "id": "ee9f300893beb1317d02be3e6814d83b7471be6c3c9232da105dedc491c66834",
@@ -477,13 +494,34 @@
     ],
     "type": "單選",
     "course": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "非以擴大銷售範圍為目的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T04:13:26.029Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.641Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "非以擴大銷售範圍為目的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343020269",
+          "title": "111年度「強化食品業者良好衛生規範知能計畫」線上說明會《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:54.900Z"
+    },
+    "resolved_answer": "非以擴大銷售範圍為目的"
   },
   {
     "id": "61712587e4372fef23e8ac9183c0c0ca94496740a06df9ab0a428ff4c62f8418",

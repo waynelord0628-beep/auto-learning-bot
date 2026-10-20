@@ -82,17 +82,34 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "To make a bad situation less serious",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.821Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-13T15:19:50.559Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.790Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "To make a bad situation less serious",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:56.168Z"
+    },
+    "resolved_answer": "To make a bad situation less serious"
   },
   {
     "id": "d7c4ecbc1f92090e5f1ddd3f5b1398469f7c327c72ec4b50e0d288e426891385",
@@ -293,12 +310,33 @@
     ],
     "type": "單選",
     "course": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Chikan Tower ; Fort San Domingo",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T12:48:45.824Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.824Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Chikan Tower ; Hayashi",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337697825",
+          "title": "澎湖的二手漁船居然要價 400 萬？！【看紀錄片學英語 尋寶福爾摩沙】《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:56.168Z"
+    },
+    "resolved_answer": "Chikan Tower ; Hayashi"
   }
 ]

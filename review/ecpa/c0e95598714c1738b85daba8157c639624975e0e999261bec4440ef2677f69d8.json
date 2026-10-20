@@ -10,17 +10,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "In accordance with",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.235Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T10:19:51.885Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.365Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "In accordance with",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.231Z"
+    },
+    "resolved_answer": "In accordance with"
   },
   {
     "id": "c9c1593a796e12d09780959dfaf168f61fc3a710fa66c3f6f62d3578164f3d29",
@@ -33,17 +50,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "plays",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.236Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T10:19:58.900Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "plays",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.231Z"
+    },
+    "resolved_answer": "plays"
   },
   {
     "id": "5f9ec097fdfeb308d1b408edf7b41aed384ad526749e84d5c4b397f5e8b0e01b",
@@ -56,17 +90,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "is situated in",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.237Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T10:20:05.682Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.410Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "is situated in",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.231Z"
+    },
+    "resolved_answer": "is situated in"
   },
   {
     "id": "5fa235429e23ea85ae298f317a5b62c8574842fe1ee528b960902323db977ad0",
@@ -79,17 +130,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "which has",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.237Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-30T01:20:05.273Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.434Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "which has",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.232Z"
+    },
+    "resolved_answer": "which has"
   },
   {
     "id": "eaf4abca46013cf542355789d8f9547beaa6c688eb9b624a6a8b33b81cc1476c",
@@ -102,13 +170,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "As a popular saying goes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.238Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.460Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "As a popular saying goes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.232Z"
+    },
+    "resolved_answer": "As a popular saying goes"
   },
   {
     "id": "933340abe401825ed130305c652a487c346b392c9ba1ed1b8f9ff94c30b91f15",
@@ -121,13 +210,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "is covered by",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.238Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.482Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "is covered by",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.232Z"
+    },
+    "resolved_answer": "is covered by"
   },
   {
     "id": "4b760ec81cae23ea1ba52ffda7b4ad05b47029633525b00a17e3ed5a570d5f85",
@@ -140,13 +250,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "die away",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.239Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.504Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "die away",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.233Z"
+    },
+    "resolved_answer": "die away"
   },
   {
     "id": "ec8e5d84339bed1fbb0c45af1745e63676b2c1ef8731b8e200f5bdd2865dc190",
@@ -159,13 +290,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "As the saying goes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.239Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.528Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "As the saying goes",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.233Z"
+    },
+    "resolved_answer": "As the saying goes"
   },
   {
     "id": "656d907ffc8c5ec9c2571f197ad1889190c455c79c72ecca17001425eb80ddf5",
@@ -178,13 +330,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Due to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:08.240Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.551Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Due to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.233Z"
+    },
+    "resolved_answer": "Due to"
   },
   {
     "id": "4f2c2457180570b0730ed45646f708b5db7c88c5a29b8d292dc3710fd371c8e0",
@@ -197,13 +370,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Taiwan is highly diversified in terms of religious beliefs and practices",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:24:53.331Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.577Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Taiwan is highly diversified in terms of religious beliefs and practices",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.234Z"
+    },
+    "resolved_answer": "Taiwan is highly diversified in terms of religious beliefs and practices"
   },
   {
     "id": "2e0d18bcc3a896b275a3581410962aaf866ea17ee12003de70b04f443a584841",
@@ -216,13 +410,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "is situated on",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:25:33.108Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.598Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "is situated on",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.234Z"
+    },
+    "resolved_answer": "is situated on"
   },
   {
     "id": "274a27336d4ff0fc7c8abd03c0b95376c98ac1b723e3ece8ec15bf361b181bbf",
@@ -235,17 +450,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "a wide variety of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:25:33.112Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T03:12:03.216Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-10-27T07:14:02.619Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "a wide variety of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.235Z"
+    },
+    "resolved_answer": "a wide variety of"
   },
   {
     "id": "3405cdfd1df25b94360e627987b38c94de3568a277f6634402c3fbe9871c312f",
@@ -258,13 +490,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "It is due to the fact that",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T07:25:33.113Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.643Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "It is due to the fact that",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.235Z"
+    },
+    "resolved_answer": "It is due to the fact that"
   },
   {
     "id": "028d5283cc599da1cb78e027e4951fcf37ada284023cf418e6ac58ec8fea0969",
@@ -277,13 +530,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "According to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T09:19:24.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.664Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "According to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.235Z"
+    },
+    "resolved_answer": "According to"
   },
   {
     "id": "8827c00bf8f47619f970294821124de5bae6cb7ec14c262e3fb77c17fa80a749",
@@ -296,12 +570,33 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-我國國情介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "consists of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T09:19:24.730Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.686Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "consists of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.235Z"
+    },
+    "resolved_answer": "consists of"
   }
 ]

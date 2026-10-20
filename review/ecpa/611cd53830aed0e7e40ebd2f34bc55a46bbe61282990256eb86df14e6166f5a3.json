@@ -10,17 +10,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "is subordinate to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:13.996Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T10:20:18.341Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.094Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "is subordinate to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.526Z"
+    },
+    "resolved_answer": "is subordinate to"
   },
   {
     "id": "b77f1f7f05a803ad17b0e9103d426a5163f2402fe5a9db3d24e2f9756164d054",
@@ -33,17 +50,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "in charge of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:14.003Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T10:20:44.637Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.119Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "in charge of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.527Z"
+    },
+    "resolved_answer": "in charge of"
   },
   {
     "id": "54e2ca5884270e69509f7435f6f79b07b8539285132b106186af0181604c87c5",
@@ -56,17 +90,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "To sum up",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:14.005Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-17T10:21:08.282Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.144Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "To sum up",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.527Z"
+    },
+    "resolved_answer": "To sum up"
   },
   {
     "id": "a1c363ad507cbb172282ac9ecc165c08988e2773edc6cc376a10e0ba61a51d23",
@@ -79,13 +130,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "is comprised of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:14.006Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.170Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "is comprised of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.527Z"
+    },
+    "resolved_answer": "is comprised of"
   },
   {
     "id": "40b483d65a94012c6cae9e3918d57f64126335570ac787c4f54b3c75c9e117ae",
@@ -98,13 +170,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "work as a",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:14.007Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.193Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "work as a",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.527Z"
+    },
+    "resolved_answer": "work as a"
   },
   {
     "id": "c4aea3d9a207fc65d7959b919e7288daeef27b12d080ad51c9a74b3a87953e76",
@@ -117,13 +210,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "If",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:14.008Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.216Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "If",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.528Z"
+    },
+    "resolved_answer": "If"
   },
   {
     "id": "7df9cb694c7e8157c30191951ea079d10beff6db19e3bd7f8c55b4e06bcd8b55",
@@ -136,13 +250,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "diverse",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:20.027Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.238Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "concern",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.529Z"
+    },
+    "resolved_answer": "concern"
   },
   {
     "id": "3c186934437fbf2a1b1cadce9f364598c4d13493cff84400b0e0c077bb0722f4",
@@ -246,13 +381,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "When it comes to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:47.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.262Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "When it comes to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.531Z"
+    },
+    "resolved_answer": "When it comes to"
   },
   {
     "id": "8605ba6ab544c1bb16c6ef23315cce679eb0052197cb8103c98e972c1e5a595b",
@@ -265,13 +421,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "The main duties of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:47.982Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.289Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "The main duties of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.531Z"
+    },
+    "resolved_answer": "The main duties of"
   },
   {
     "id": "0fe1ddf75d15f60ac228de571dd1466ddb0c93fe38896538fa02c0384031d4ce",
@@ -284,13 +461,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "am in charge of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:47.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.316Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "am in charge of",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.531Z"
+    },
+    "resolved_answer": "am in charge of"
   },
   {
     "id": "0ac10db0b2466436b2e1c94e3612c8ea4696de2c2b32b27a45990f3b8525260c",
@@ -303,13 +501,34 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "By the way",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:47.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.339Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "By the way",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.532Z"
+    },
+    "resolved_answer": "By the way"
   },
   {
     "id": "a665484f5316c1df6190eb2da6d60c24ce1eb5db1df1e90ca3d29c59fbdabf02",
@@ -322,12 +541,33 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "According to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T10:28:47.984Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:03.362Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "According to",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031244",
+          "title": "公務實用英語（基礎篇）-機關/職務介紹-薦升簡(含正升監)訓練適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:50.532Z"
+    },
+    "resolved_answer": "According to"
   }
 ]

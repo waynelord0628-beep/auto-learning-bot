@@ -10,17 +10,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "so as not to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.988Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T07:19:42.962Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:01.836Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "so as not to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:48.517Z"
+    },
+    "resolved_answer": "so as not to"
   },
   {
     "id": "83adb2aa4b30c4cc35583cd94ba837a1fd866ca28bc76bc26bec5d3c23a31cb9",
@@ -33,17 +54,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "required to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.990Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T07:19:47.863Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:01.918Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "required to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:48.518Z"
+    },
+    "resolved_answer": "required to"
   },
   {
     "id": "0a5df288b4cea2e09e7d3dd040718b60193c9f92dc37395ce1d34c878e85a281",
@@ -56,17 +98,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "no matter",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.990Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 3,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-10-23T07:19:53.447Z",
-    "verification_status": "insufficient_sources"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:01.942Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "no matter",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:48.519Z"
+    },
+    "resolved_answer": "no matter"
   },
   {
     "id": "a0c6333e27e1e7a6441d19a4332ae050c4548a998f4ea19616d6d43be8d2fbff",
@@ -79,17 +142,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "in charge of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.990Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T15:19:46.138Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:01.969Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "in charge of",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.845Z"
+    },
+    "resolved_answer": "in charge of"
   },
   {
     "id": "96ca004c9c03e804da1dc127e14f2a5b43ccf6e847e105e9139cb9daef368dc9",
@@ -102,17 +186,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Although",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.991Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T15:19:53.047Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:01.997Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "To sum up",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.846Z"
+    },
+    "resolved_answer": "To sum up"
   },
   {
     "id": "86a713f1f01c0ddedf800a9d9098b88ca7848dfa9cbc44d8125370abc66e8ad6",
@@ -125,17 +230,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "regardless of",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.991Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
-    "verify_policy": "course_first_v1",
-    "verify_after": "2026-09-29T15:20:00.270Z",
-    "verification_status": "insufficient_sources"
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.024Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "regardless of",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.846Z"
+    },
+    "resolved_answer": "regardless of"
   },
   {
     "id": "bd462651af70dd577e87107efade5fbfa293d912177e6b33b619471645b2aaa4",
@@ -148,13 +274,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "primary duties",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.991Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.048Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "primary duties",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.846Z"
+    },
+    "resolved_answer": "primary duties"
   },
   {
     "id": "6ae1a696747d69625ff04f414dd9d9a2008995bfb4f5c6f47477b9af78f49d9f",
@@ -167,13 +318,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "apply for",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.992Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.074Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "apply for",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.847Z"
+    },
+    "resolved_answer": "apply for"
   },
   {
     "id": "36f986152305192056e0e29e42ac8c61092cde59b0290906f9946bd169645cf8",
@@ -186,13 +362,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "subject to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.992Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.095Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "subject to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.847Z"
+    },
+    "resolved_answer": "subject to"
   },
   {
     "id": "b4248f18054e6e845e0bf1cb7404bcaed0f409d06d6dae86947ce12eefb63657",
@@ -205,13 +406,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "apply",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:31:28.993Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.119Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "apply",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.847Z"
+    },
+    "resolved_answer": "apply"
   },
   {
     "id": "d8ac484ac853875686fe6ed61d839ca311844479524e1188b0d5308a56c6b682",
@@ -243,13 +469,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "subject to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.961Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.144Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "subject to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.848Z"
+    },
+    "resolved_answer": "subject to"
   },
   {
     "id": "ebb9243238495a9d473c87fe136883ba96beab3bd5c4e212a8e2ebaaf0129099",
@@ -262,13 +513,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "As the old saying goes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.965Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.168Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "As the old saying goes",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.849Z"
+    },
+    "resolved_answer": "As the old saying goes"
   },
   {
     "id": "0c908e6ecaf91a3038c7144ad134edc483e2b92507d1bd7808bfbf552ae26c32",
@@ -281,13 +557,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "As a popular saying goes",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.969Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.191Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "As a popular saying goes",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.850Z"
+    },
+    "resolved_answer": "As a popular saying goes"
   },
   {
     "id": "c9b7a9dabff855489b93da14354b03486f43d3788ec4673e7db818af48b232e7",
@@ -300,13 +601,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "set up",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.978Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "set up",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.850Z"
+    },
+    "resolved_answer": "set up"
   },
   {
     "id": "cad593677327f2c7cabdd5c31d42e812579f845da8c7d2a1de2c56c9bec76eae",
@@ -319,13 +645,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "carry out",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:08.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.237Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "carry out",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.850Z"
+    },
+    "resolved_answer": "carry out"
   },
   {
     "id": "4c06b2db5b53a1cce7f040a01a6d42e34e598a239e03df59f5555517202e69d1",
@@ -338,13 +689,38 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "so as to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-18T03:32:47.946Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.268Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "so as to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.852Z"
+    },
+    "resolved_answer": "so as to"
   },
   {
     "id": "eb914974fe14e3c23c76f028d8a48edda0df7c93595651596ae5a6947e0682f4",
@@ -357,12 +733,37 @@
     ],
     "type": "單選",
     "course": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "work as a",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T09:15:42.805Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T07:14:02.291Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "work as a",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_277.html",
+          "title": "「公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408593",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15334846053",
+          "title": "公務實用英語（基礎篇）-機關及職務介紹-基礎訓適用《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T07:13:49.852Z"
+    },
+    "resolved_answer": "work as a"
   }
 ]
