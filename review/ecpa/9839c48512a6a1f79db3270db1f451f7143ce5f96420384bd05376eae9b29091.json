@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.685Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.520Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "碳邊境調整機制(CBAM)目前僅限適用於歐盟國家間的貿易來往",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.610Z"
+    },
+    "resolved_answer": "碳邊境調整機制(CBAM)目前僅限適用於歐盟國家間的貿易來往"
   },
   {
     "id": "23519fd73385752efe2cbfe401f61487dbdf316d3817e9de4d15b38821129c88",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.687Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.542Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.632Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "c400fa284e64f59eb76b8aafe4959da95d6abb791c915fa7ba948320ad1fd4c6",
@@ -74,16 +116,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.689Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.562Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.672Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d87c609c4f04bddc958d038a0c0df152eea2c03eff56de1c50185157d3685809",
@@ -96,16 +159,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.690Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.584Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.688Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "2460a72e06c455d91d3ffaf253ed21c18d0aac273c704f78e7bd1eda64b1bb71",
@@ -116,16 +200,37 @@
     ],
     "type": "是非",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.691Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.603Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.706Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bc4825dc91e9be8299921d542050d9500449fb370aebe1c823237b359924822d",
@@ -138,16 +243,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.692Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.626Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "所有業者只要具備發電設備均可以申請再生能源憑證",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.723Z"
+    },
+    "resolved_answer": "所有業者只要具備發電設備均可以申請再生能源憑證"
   },
   {
     "id": "67b6e1e03ff03b28015383cdbb8510d53f785caa54b8a0140366d952e8e2ad5e",
@@ -158,16 +284,37 @@
     ],
     "type": "是非",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.693Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.645Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.741Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "5cf6b36df9ee384ca6e66f0165d2c320aa7cbe89114d80ea1f0d8209c98f65b8",
@@ -180,16 +327,37 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.694Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.667Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "所有取得綠電的方式只能透過轉供方式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.757Z"
+    },
+    "resolved_answer": "所有取得綠電的方式只能透過轉供方式"
   },
   {
     "id": "8982dfb8a11c8211c6dc6cf613450b89ec22328c7db3462052839a07c3891266",
@@ -202,15 +370,36 @@
     ],
     "type": "單選",
     "course": "再生能源憑證制度及綠電交易介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T12:44:41.695Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-18T23:19:38.645Z"
+    "retry_after": "2026-10-18T23:19:38.645Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.687Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_979.html",
+          "title": "「再生能源憑證制度及綠電交易介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337886545",
+          "title": "再生能源憑證制度及綠電交易介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:14.779Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

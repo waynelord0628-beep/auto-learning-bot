@@ -109,13 +109,34 @@
     ],
     "type": "單選",
     "course": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.475Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.964Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050esgee.html",
+          "title": "「中鋼公司邁向2050淨零ESG及智慧製造推動經驗」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188065",
+          "title": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:54.321Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "c5eb27123e45bcf3e31107298ea3800b7d515788a5a00f57ee74cd4aef6afbfa",
@@ -145,13 +166,34 @@
     ],
     "type": "單選",
     "course": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.475Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.982Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050esgee.html",
+          "title": "「中鋼公司邁向2050淨零ESG及智慧製造推動經驗」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188065",
+          "title": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:54.354Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "102824f8fe510ab600a0be520c67ebc05b2c2d1788fe7444051fd3a23aac1e0f",
@@ -181,12 +223,33 @@
     ],
     "type": "單選",
     "course": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "低碳轉型技術已臻成熟",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T07:52:00.476Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.999Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "低碳轉型技術已臻成熟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/2050esgee.html",
+          "title": "「中鋼公司邁向2050淨零ESG及智慧製造推動經驗」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188065",
+          "title": "中鋼公司邁向2050淨零ESG及智慧製造推動經驗《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:54.395Z"
+    },
+    "resolved_answer": "低碳轉型技術已臻成熟"
   }
 ]

@@ -8,16 +8,37 @@
     ],
     "type": "是非",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.154Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.960Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.833Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "bdf54a56392662dd71c0e9a3e228e40cc6a38ad93bd991af4314da5469c766ce",
@@ -28,16 +49,37 @@
     ],
     "type": "是非",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.155Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.983Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.851Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "110a785f63b4e0f088fa8b5afc521ed56d8048d77357c1fd0490c9ea70fff2db",
@@ -50,16 +92,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.156Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.000Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "個資多寡",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.875Z"
+    },
+    "resolved_answer": "個資多寡"
   },
   {
     "id": "2f94aff7eb294688f17471bfe11be595f3183cc8fca1a8cf5af9fd51d7fcf700",
@@ -72,16 +135,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.157Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.024Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "固定價格決標",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.902Z"
+    },
+    "resolved_answer": "固定價格決標"
   },
   {
     "id": "fef7d9e21112052239811ed6098a76b3e99bc641ad3d16e818072d9cc73b526e",
@@ -92,16 +176,37 @@
     ],
     "type": "是非",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.158Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.043Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.929Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6b0a063210fbd1b802ef7dd6a566ba9fe122119eaf3b9434b685bbb05e45a689",
@@ -116,16 +221,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.159Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.061Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "增訂雲端服務契約範本",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.959Z"
+    },
+    "resolved_answer": "增訂雲端服務契約範本"
   },
   {
     "id": "252bb14a814f23f1007fcd9cf5754c2b42fce1147d9416562a2fdb1b5d03d557",
@@ -138,16 +264,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.159Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:43.985Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "a7788901b970f87242027505d88094d147bc49e6fa1ee0c1e257b2afb5350c53",
@@ -160,16 +307,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.160Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.096Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:44.009Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3b0f157372a18a7c090a8a227e29a37eedfd8316a8226f298fdb36772f301e34",
@@ -182,16 +350,37 @@
     ],
     "type": "單選",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.161Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.115Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "工程會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:44.035Z"
+    },
+    "resolved_answer": "工程會"
   },
   {
     "id": "b7aac98781b4d46e77012fb850438862488b76bc5a812684adfe0d345a05c34a",
@@ -202,15 +391,36 @@
     ],
     "type": "是非",
     "course": "政府科技採購之變革與影響",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T11:26:00.162Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-18T00:19:41.155Z"
+    "retry_after": "2026-10-18T00:19:41.155Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.133Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "to do",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/ee_01792115383.html",
+          "title": "「政府科技採購之變革與影響」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347206957",
+          "title": "政府科技採購之變革與影響《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:44.064Z"
+    },
+    "resolved_answer": "to do"
   }
 ]

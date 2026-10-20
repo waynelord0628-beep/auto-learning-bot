@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.094Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.916Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "選公協會成立產業推動小組(SIG)，媒合資服業者導入AI技術，補助企業推動軟硬整合方案並進行場域實證應用(PoC)；並輔導技術強化及落地商轉(PoB)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.632Z"
+    },
+    "resolved_answer": "選公協會成立產業推動小組(SIG)，媒合資服業者導入AI技術，補助企業推動軟硬整合方案並進行場域實證應用(PoC)；並輔導技術強化及落地商轉(PoB)"
   },
   {
     "id": "26c21351e85c8d6a918d4eda282bdeb6f3d058ae78f19eeba63a60786e2c9992",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.096Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.937Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "將既有的人工智慧技術妥善地運用，再找出結合產業的商業模式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.650Z"
+    },
+    "resolved_answer": "將既有的人工智慧技術妥善地運用，再找出結合產業的商業模式"
   },
   {
     "id": "a976325127b2927a83e284b65a169b06b3777099d244082a5ac3ce5fcabde761",
@@ -52,16 +94,37 @@
     ],
     "type": "是非",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.098Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.957Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.666Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "6ddb411e7e31b81c63a319d53e0c22188d1d225d30e6b8da0ee360cd985cec0f",
@@ -74,16 +137,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.099Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.981Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.682Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "85ae51a439dc52fbd0be6a896d8fa7ef31204e2e6ace68f84208da43a30189b7",
@@ -96,16 +180,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.100Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.006Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "擴大鬆綁法規",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.698Z"
+    },
+    "resolved_answer": "擴大鬆綁法規"
   },
   {
     "id": "c0f46f9f964a09ae82883b69c0811e285d04fe211be3b7a00b3c917c84b9f905",
@@ -116,16 +221,37 @@
     ],
     "type": "是非",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.101Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.026Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.714Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "ff295d8f27819fff3c5ee67698e95c4c8f60d2dd5f4ed7e7fcc796fbb729aeb4",
@@ -138,16 +264,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.102Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.047Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提供獎勵與補助資源，以期鼓勵我國軟體資訊服務業者投入創新研發活動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.730Z"
+    },
+    "resolved_answer": "提供獎勵與補助資源，以期鼓勵我國軟體資訊服務業者投入創新研發活動"
   },
   {
     "id": "8c3e8fba5dbfd154a6ff9f5c4c6829a9172644860615628950dbf9cd6ddc70cd",
@@ -160,16 +307,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.103Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.073Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "籌組專家服務團，提出診斷輔導建議方案",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.749Z"
+    },
+    "resolved_answer": "籌組專家服務團，提出診斷輔導建議方案"
   },
   {
     "id": "b075511d22fb29e2ad036a116d6837f83f3dd919a42b82682293198991f3669b",
@@ -181,16 +349,37 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.104Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.096Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.767Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "836a03af9e9aa7b0c1f52f6071f51607c8fb81d716592bb5b324826cedb17713",
@@ -203,15 +392,36 @@
     ],
     "type": "單選",
     "course": "深化AI應用與數位轉型",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-15T15:26:05.104Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-10-20T01:19:44.226Z"
+    "retry_after": "2026-10-20T01:19:44.226Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.117Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在使用生成式AI的同時，能保有執行公務之機密性及專業性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/aiee_27.html",
+          "title": "「深化AI應用與數位轉型」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343197921",
+          "title": "深化AI應用與數位轉型《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.786Z"
+    },
+    "resolved_answer": "在使用生成式AI的同時，能保有執行公務之機密性及專業性"
   }
 ]

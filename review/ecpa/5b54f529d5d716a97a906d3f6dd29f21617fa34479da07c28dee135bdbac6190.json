@@ -114,13 +114,30 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.047Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.709Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ffd431ed6cd6a90e7aee4605bad75dca5c8963d2ee0d32b7b86304c5b7dad158",
@@ -131,13 +148,42 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.048Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.095Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.727Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "838bfed8b5578b833f3525bea925c54305353aff55abc533d0881af0b22beb60",
@@ -150,15 +196,44 @@
     ],
     "type": "單選",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆不正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.049Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-01T16:19:59.127Z"
+    "retry_after": "2026-10-01T16:19:59.127Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.111Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "如與長官同行，長官未與對方交換名片前，不可先行與對方交換名片。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.749Z"
+    },
+    "resolved_answer": "如與長官同行，長官未與對方交換名片前，不可先行與對方交換名片。"
   },
   {
     "id": "ac2934f75a3e549f7ffeedbb0a9786be4082fdec0e830d711f9c6beb47954f1c",
@@ -169,13 +244,42 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.052Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.128Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.770Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0aa918a6d362b3886e48bf9e8d212cc1b9af743079be12f28c69b4c91f8ba21d",
@@ -188,15 +292,44 @@
     ],
     "type": "單選",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "將個人介紹給團體。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.053Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-01T16:19:59.127Z"
+    "retry_after": "2026-10-01T16:19:59.127Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.144Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "將主人介紹給賓客",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.786Z"
+    },
+    "resolved_answer": "將主人介紹給賓客"
   },
   {
     "id": "1139e6558ed6aea309e26f4f6a46c35340ac1ee943137005df14d20b82fbaa9e",
@@ -209,15 +342,44 @@
     ],
     "type": "單選",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "A,B,C",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.054Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-01T16:19:59.127Z"
+    "retry_after": "2026-10-01T16:19:59.127Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.160Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "A,B",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.803Z"
+    },
+    "resolved_answer": "A,B"
   },
   {
     "id": "b29c48fafe52ee6504fe45a930121946d49c05b4d3b5e790c78ce8c781e5add6",
@@ -230,15 +392,44 @@
     ],
     "type": "單選",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "A,B,C",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:45:54.056Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-01T16:19:59.127Z"
+    "retry_after": "2026-10-01T16:19:59.127Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.178Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "A,B,C",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.819Z"
+    },
+    "resolved_answer": "A,B,C"
   },
   {
     "id": "d573041d972035eebd80cd2fb56c8836a4a76c39fe34ddd21d5788ca89ff9c6d",
@@ -249,13 +440,42 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:46:32.350Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.195Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.841Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c27ae007231c92f3a47bed114e998a6b352d14f5f08213d1e0dc9000e437eae6",
@@ -266,13 +486,42 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:46:32.351Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.212Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.861Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "034660526e0d120575b4b438a3ed2352aced468d555d115074cd8d369d37b4d6",
@@ -283,12 +532,41 @@
     ],
     "type": "是非",
     "course": "公務禮儀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T16:46:32.352Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.230Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15322360928",
+          "title": "公務禮儀《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408621",
+          "title": "公務禮儀(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328367771",
+          "title": "公務禮儀(109年高普考基訓專用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:07.876Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

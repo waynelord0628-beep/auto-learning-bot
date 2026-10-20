@@ -28,16 +28,33 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.734Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.504Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.047Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "0e4333aa8b6b7a576fabdfcabd700a030b3acb8d6d31b175838289c01d9e0f4b",
@@ -48,16 +65,33 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.735Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.521Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.065Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "95ee780fa613caa42f5b3705a08e70adb25b6fc6b422110a9c9253a510b20bf9",
@@ -68,16 +102,33 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.735Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.540Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.085Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "1e6ffbaff556f6dfa7045279710023bafd1123aa53577481d95c78578609cd6e",
@@ -90,16 +141,33 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.736Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.558Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "siid soi mˇ dedˋ",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.102Z"
+    },
+    "resolved_answer": "siid soi mˇ dedˋ"
   },
   {
     "id": "7e0e9a2ec26104a94313caae08456244c0c12f941cc0c93618012a771a9ea0d8",
@@ -112,16 +180,33 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.736Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.579Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ieˊ hiungˊ ludˋ gabˋ",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.125Z"
+    },
+    "resolved_answer": "ieˊ hiungˊ ludˋ gabˋ"
   },
   {
     "id": "f3753612b3295d17e0eae78ccdf461bb9badbee141ffea59bb87d3d2eb728320",
@@ -134,16 +219,33 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.736Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.598Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ngienˋ jinˊ jinˊ eˋ",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.142Z"
+    },
+    "resolved_answer": "ngienˋ jinˊ jinˊ eˋ"
   },
   {
     "id": "e7fcf27874568e26fcd114c72e51178f9fcf56678bf7f1c2f55e72ae8e6e3bdd",
@@ -156,16 +258,33 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.737Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.615Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "「悶著」的意思",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.161Z"
+    },
+    "resolved_answer": "「悶著」的意思"
   },
   {
     "id": "373b81cf9d3b6a13fd9f1a3e8c2a5e5cf8499738c4dd29fe7270d970ff22c87a",
@@ -178,16 +297,33 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.737Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.634Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "mangˇ cenˇ zii gienˊ",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.180Z"
+    },
+    "resolved_answer": "mangˇ cenˇ zii gienˊ"
   },
   {
     "id": "3b7765a9c4d1174ee4e4608be5594a738a555f8341337c16190e5929a4bf08c3",
@@ -200,15 +336,32 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-四縣腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-16T19:38:39.737Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T02:19:43.469Z"
+    "retry_after": "2026-10-19T02:19:43.469Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.656Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "piog vugˋ",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587353",
+          "title": "客語能力認證中級暨中高級課程-四縣腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:34.198Z"
+    },
+    "resolved_answer": "piog vugˋ"
   }
 ]

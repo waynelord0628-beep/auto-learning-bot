@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.575Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.206Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "掃描刺探類",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.075Z"
+    },
+    "resolved_answer": "掃描刺探類"
   },
   {
     "id": "adbfafc0dc1910d471936b05800e4f2b6912683ce972598b2c1635d1a4d886ad",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.576Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.231Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資安服務評鑑的類別有SOC服務、資安健診、弱點檢測、滲透測試、社交工程演練等",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.101Z"
+    },
+    "resolved_answer": "資安服務評鑑的類別有SOC服務、資安健診、弱點檢測、滲透測試、社交工程演練等"
   },
   {
     "id": "8e16d3e2a221dcd7ae36476335b1cce3f8a87635a9a11634f448a99825e87533",
@@ -54,16 +96,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.577Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.248Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "委外開發",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.132Z"
+    },
+    "resolved_answer": "委外開發"
   },
   {
     "id": "508f64d7dad3eaab75ced3de0de71ee98765939857594b02cb39c52eb2830692",
@@ -76,16 +139,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.578Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.268Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.161Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "5832ecb801e5efb0cc1abb91a0abb87900f840c84884bce9b07390f6900c115f",
@@ -98,16 +182,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.578Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.291Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.186Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "0d11cd219c2f1581e38fb35e523be15fd5b67d71aa751b50a0a0da00c0c64841",
@@ -120,16 +225,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.579Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.311Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.216Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "77206b11ed6aed0e3e55d2debf14e0d49c55115ec055e4b9cceaa2fd1db8bd4f",
@@ -142,16 +268,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.580Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.327Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "原則禁止、例外允許",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.247Z"
+    },
+    "resolved_answer": "原則禁止、例外允許"
   },
   {
     "id": "91aea37fe69b0f17663d52313f1ea710ccf37807a63e5e86ceff89e6a3feb1ac",
@@ -164,16 +311,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.584Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.349Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "資訊服務採購作業指引",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.282Z"
+    },
+    "resolved_answer": "資訊服務採購作業指引"
   },
   {
     "id": "5cf47e532649a32882bfadb9d483ad5395a825eee54523eb725f8e76d39afff0",
@@ -186,16 +354,37 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.585Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.366Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "5%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.314Z"
+    },
+    "resolved_answer": "5%"
   },
   {
     "id": "27138084eecd4633f6d76abf3d95d85dadb8dc9f5413504fb5321d63c439d3b8",
@@ -208,15 +397,36 @@
     ],
     "type": "單選",
     "course": "政府機關辦理資訊服務委外採購之資安思維",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T12:39:46.586Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T16:19:41.096Z"
+    "retry_after": "2026-10-18T16:19:41.096Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4級",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_37.html",
+          "title": "「政府機關辦理資訊服務委外採購之資安思維」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343298393",
+          "title": "政府機關辦理資訊服務委外採購之資安思維《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:45.343Z"
+    },
+    "resolved_answer": "4級"
   }
 ]

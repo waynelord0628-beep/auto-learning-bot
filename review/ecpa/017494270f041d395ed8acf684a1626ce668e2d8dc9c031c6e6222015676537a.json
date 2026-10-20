@@ -8,16 +8,33 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.600Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.731Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:53.934Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5ff1f4e45921ed07f96c702850dfca551864fed586413dd934ef32c5d5bf3fb5",
@@ -28,16 +45,33 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.603Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.757Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:53.953Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "284e47c3ef9967907b4367392acfc8cbdc5134990d1d109194290902bddc9a10",
@@ -48,16 +82,33 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.604Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.782Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:53.972Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "2af1e6cd82ab5a9a448f19015e80532d61eb99a60dd4b0a7cd5c115ef0a6b8a8",
@@ -70,16 +121,33 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.604Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.808Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "甲、丙正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:53.989Z"
+    },
+    "resolved_answer": "甲、丙正確"
   },
   {
     "id": "30104d4f53cfea488583deaa0a3f534765a97e5b2c88278d91e88e2c8ea20d7e",
@@ -92,16 +160,33 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.604Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.828Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.015Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4b821af06262f6744d2689f61f5e636e34261a986990367d2cff08df453fa367",
@@ -112,16 +197,33 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.605Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.851Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.037Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "d581b40f5071caaabfec593829da695912aea10745525fd80453227b4fe85739",
@@ -134,16 +236,33 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.606Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.875Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1979年的北極海冰的體積與2019年相比少了3/4",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.057Z"
+    },
+    "resolved_answer": "1979年的北極海冰的體積與2019年相比少了3/4"
   },
   {
     "id": "36587da2a397392939b7279ce5ae5b57912c424418ab4347c9e413d027404ebf",
@@ -154,16 +273,33 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.606Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.901Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.083Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "fc15d1dc62ac0bf6ff38e97be1724942573b7002aed47fd1546259994238cee6",
@@ -176,16 +312,33 @@
     ],
     "type": "單選",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.607Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.923Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上敘述皆正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.107Z"
+    },
+    "resolved_answer": "以上敘述皆正確"
   },
   {
     "id": "064a0b6e914408ff4d45ba4de7839271b33de9fe636b41c9b870771bf7e2a549",
@@ -196,15 +349,32 @@
     ],
     "type": "是非",
     "course": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-13T09:45:24.607Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-19T19:19:48.933Z"
+    "retry_after": "2026-10-19T19:19:48.933Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.943Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337677949",
+          "title": "氣候緊急年代的挑戰與契機(上)-全球暖化變遷與地球生態的衝擊《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:54.129Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

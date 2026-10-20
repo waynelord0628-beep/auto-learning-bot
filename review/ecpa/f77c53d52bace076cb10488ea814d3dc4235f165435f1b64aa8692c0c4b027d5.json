@@ -10,16 +10,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.159Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.656Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.453Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "88ba6352cbe5399aefc289044a33839dd1d97e4d28c3e980f0c00ad2ae5f3bed",
@@ -32,16 +53,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.159Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.677Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.470Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "59edb6d83b7de554cf1057c6627f4ff6a4e0d7a1cdd1897ed3db2b0ee56db621",
@@ -54,16 +96,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.160Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.697Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ISO14051",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.486Z"
+    },
+    "resolved_answer": "ISO14051"
   },
   {
     "id": "600e619bb0840efbf1c4ecc301bced14bfc83cb303ade29704036d76e37e7037",
@@ -76,16 +139,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.160Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.714Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "依據科學數據實證，精確計算碳匯效果以及碳排放量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.501Z"
+    },
+    "resolved_answer": "依據科學數據實證，精確計算碳匯效果以及碳排放量"
   },
   {
     "id": "66190abe73d5bbcfc71c3eb0fb3de4f52f6925e03e09e94fc7286f3387a6334f",
@@ -98,16 +182,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.161Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.733Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "強制農業斷水不可使用水資源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.518Z"
+    },
+    "resolved_answer": "強制農業斷水不可使用水資源"
   },
   {
     "id": "2e10d2ae0f7725b306f14de7784c310e22f24b4692edcaa64f1c0ef43b673de5",
@@ -120,16 +225,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.161Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.751Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.533Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "aae40a3238f7b15f9802d4314de3539b8b478dd6f8f86e3f90f8a48bc1c65cb7",
@@ -142,16 +268,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.161Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.769Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.549Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ab306f2455fbc0b6aeca673089f74975c3bac76ba1acb0668ef002ecc8f64952",
@@ -164,16 +311,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.162Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.787Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.569Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "e2de490397489988fb53aabb90208dbf7e6afa27814b22e9501d9186238a93a9",
@@ -186,16 +354,37 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.162Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.807Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "產品類別規則PRODUCT-CATEGORY RULES (PCR)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.586Z"
+    },
+    "resolved_answer": "產品類別規則PRODUCT-CATEGORY RULES (PCR)"
   },
   {
     "id": "2511fd9e84872fec8dd5af786c8475313bc483812bc20d2cc9f8f830a77c3384",
@@ -208,15 +397,36 @@
     ],
     "type": "單選",
     "course": "淨零轉型下的智慧農業想像",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T14:48:22.162Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-17T17:19:42.810Z"
+    "retry_after": "2026-10-17T17:19:42.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.829Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_66.html",
+          "title": "「淨零轉型下的智慧農業想像」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169049",
+          "title": "淨零轉型下的智慧農業想像《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.608Z"
+    },
+    "resolved_answer": "以上皆是"
   }
 ]

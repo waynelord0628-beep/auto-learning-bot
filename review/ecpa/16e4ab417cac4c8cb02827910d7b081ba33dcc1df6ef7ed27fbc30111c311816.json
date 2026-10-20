@@ -10,13 +10,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "鼓勵客人大量點餐",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.252Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.256Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "鼓勵客人大量點餐",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.160Z"
+    },
+    "resolved_answer": "鼓勵客人大量點餐"
   },
   {
     "id": "4d2f287e124ea717e4b21cd26a2da7e28f7635a4422cad6891b67f0efbe88e3d",
@@ -29,13 +50,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.254Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.279Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.175Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "36b722a78e7c97d251e83f63f85b6fee119caa528b938897fa72877743129510",
@@ -46,13 +88,34 @@
     ],
     "type": "是非",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.254Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.298Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.196Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "b1250ef73b5663cd4d0eaf0309fadf7b5c43c78bc1f53004e416c1932803b6ae",
@@ -65,13 +128,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "發揮美食家精神，餐餐食用進口食材",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.255Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.315Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "發揮美食家精神，餐餐食用進口食材",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.212Z"
+    },
+    "resolved_answer": "發揮美食家精神，餐餐食用進口食材"
   },
   {
     "id": "c6ea0809368b5e1a694d3ec03be9441cf3d128cf226f7d217f3c51d455b32e1b",
@@ -84,13 +168,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.256Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.333Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.230Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "1ae0cf3a1d082d46b5c3293954d11e2b1a75fac93a92e48ee23679ccaa0d13c3",
@@ -103,13 +208,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.257Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.351Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.251Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "027521ff50d4448b9aec3f06f118f3cba0d13587e434a88aa07394a23f06e433",
@@ -122,13 +248,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.370Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.271Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "cdd58d156afcad7115b29ec22a0fbf401cf3b975c21f10eabcbe8e4d54ad0efe",
@@ -139,13 +286,34 @@
     ],
     "type": "是非",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.387Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.288Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a6d799b9369e147ff787c4622a9c3581798558e05e893ca0972573006c861f28",
@@ -158,13 +326,34 @@
     ],
     "type": "單選",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.405Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.306Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "d7cf520eceed0bbe8558eac9e1b450ba11fde758705276ef06baf1744620c7bf",
@@ -175,12 +364,33 @@
     ],
     "type": "是非",
     "course": "低碳生活的實踐：從減少家裡的冰箱剩食開始",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T15:11:01.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.427Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_11.html",
+          "title": "「低碳生活的實踐：從減少家裡的冰箱剩食開始」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343187989",
+          "title": "低碳生活的實踐：從減少家裡的冰箱剩食開始《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:29.323Z"
+    },
+    "resolved_answer": "正確"
   }
 ]

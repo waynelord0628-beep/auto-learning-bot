@@ -48,13 +48,34 @@
     ],
     "type": "單選",
     "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.131Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.275Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_216.html",
+          "title": "「國泰如何透過中台穩又敏捷地實踐金融上雲」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188045",
+          "title": "國泰如何透過中台穩又敏捷地實踐金融上雲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:08.868Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ccd572f1e332b5751af0532cfffcfaac55d403eb459e9960dc216eec406ceab2",
@@ -67,13 +88,34 @@
     ],
     "type": "單選",
     "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.132Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.296Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_216.html",
+          "title": "「國泰如何透過中台穩又敏捷地實踐金融上雲」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188045",
+          "title": "國泰如何透過中台穩又敏捷地實踐金融上雲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:08.897Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "78cff4653fd068a4b0cb8499383095c05791a5ffaeb9a97ad28f5a8466ebc3c1",
@@ -157,13 +199,34 @@
     ],
     "type": "單選",
     "course": "國泰如何透過中台穩又敏捷地實踐金融上雲",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-03T14:05:58.138Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:40.314Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_216.html",
+          "title": "「國泰如何透過中台穩又敏捷地實踐金融上雲」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343188045",
+          "title": "國泰如何透過中台穩又敏捷地實踐金融上雲《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:09.022Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f5a20794cbf42aaeac4723f47d01a2cf9828ca1149cf86615172e851d360bac3",

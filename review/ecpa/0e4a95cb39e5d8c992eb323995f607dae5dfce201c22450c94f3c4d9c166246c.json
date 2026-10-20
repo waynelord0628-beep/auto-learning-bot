@@ -11,13 +11,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資料收集 Data Collection",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.915Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.455Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "檢索增強RAG plus",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.326Z"
+    },
+    "resolved_answer": "檢索增強RAG plus"
   },
   {
     "id": "1429ce2f7a76f65534af9b51a0f2ad08c901af649bdaecee3727d0c44da96e71",
@@ -30,13 +51,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.916Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.475Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.357Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "1b71db9fb37e710031fa4c3efffc960eefe2b2074f235460dc2c021ee0bf1cf8",
@@ -50,15 +92,36 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生成式AI 即學即用，但常常會忘記事情",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.918Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-10T13:19:49.049Z"
+    "retry_after": "2026-10-10T13:19:49.049Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.499Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "生成式AI是可以做到隱私不外洩的",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.383Z"
+    },
+    "resolved_answer": "生成式AI是可以做到隱私不外洩的"
   },
   {
     "id": "b9b7082f4687e5331c11600202f97b0261b683f56297b0b6e005be41e61ad6e5",
@@ -72,13 +135,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "讓專家使用後評分，透過評分法追問哪些地方需要改進",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.919Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.524Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "讓專家使用後評分，透過評分法追問哪些地方需要改進",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.411Z"
+    },
+    "resolved_answer": "讓專家使用後評分，透過評分法追問哪些地方需要改進"
   },
   {
     "id": "499c8ee7011b6615c408630782c76eda457f8d837ce8a1c70c25c6f1b3061bcb",
@@ -91,13 +175,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.919Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.547Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.432Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "cc89f86ee1e7a6021a721855c4cb63343e543aa077579d6bb442eed81038cc38",
@@ -109,13 +214,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "養成對生成式AI的正確觀念、界定技術/工具運用的責任、建立必要的安全與內控機制",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.920Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.576Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "養成對生成式AI的正確觀念、界定技術/工具運用的責任、建立必要的安全與內控機制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.456Z"
+    },
+    "resolved_answer": "養成對生成式AI的正確觀念、界定技術/工具運用的責任、建立必要的安全與內控機制"
   },
   {
     "id": "fad4e6d0ae787c868999ad3861a96b21785aeff03d0923a8355aa1226600bbc7",
@@ -149,13 +275,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為了AI而AI沒有受眾、過度期待一步到位、做完了卻不好用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.922Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.602Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "為了AI而AI沒有受眾、過度期待一步到位、做完了卻不好用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.514Z"
+    },
+    "resolved_answer": "為了AI而AI沒有受眾、過度期待一步到位、做完了卻不好用"
   },
   {
     "id": "639a1257e40152d64f0a032f651d9018296a843031bbf6753d91e51c8d2f5fb7",
@@ -168,13 +315,34 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透過體驗設計活動讓大家充分表達意見",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.923Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.624Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "透過體驗設計活動讓大家充分表達意見",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.546Z"
+    },
+    "resolved_answer": "透過體驗設計活動讓大家充分表達意見"
   },
   {
     "id": "13b69ce8fb2a353fb8021f26df992d1797822aca39d24055f6d5323fa737e550",
@@ -186,12 +354,33 @@
     ],
     "type": "單選",
     "course": "苦差事，生成式AI波特人能幫我做嗎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "把專案分成三期驗收",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T05:14:51.924Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:39.647Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "找專家來一起拆解工作流程，釐清所有步驟",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/aiee_0232368426.html",
+          "title": "「苦差事，生成式AI波特人能幫我做嗎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195053",
+          "title": "苦差事，生成式AI波特人能幫我做嗎《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:46.575Z"
+    },
+    "resolved_answer": "找專家來一起拆解工作流程，釐清所有步驟"
   }
 ]

@@ -9,16 +9,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.095Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-18T10:19:44.810Z"
+    "retry_after": "2026-10-18T10:19:44.810Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.762Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "木碳",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.709Z"
+    },
+    "resolved_answer": "木碳"
   },
   {
     "id": "6b34cad1d2a910f705b02d8a0e1fb7e6b66f5028fdd4be04f53a63e8a4604d2d",
@@ -30,16 +51,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.103Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.783Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "20-30 Mg CO2e ha-1 yr-1",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.736Z"
+    },
+    "resolved_answer": "20-30 Mg CO2e ha-1 yr-1"
   },
   {
     "id": "40ac741d357f7090f4ad36db4653dd2e4eb6944558d01ef34ed1122019020586",
@@ -72,16 +114,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.104Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.801Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "10-15 Mg CO2e ha-1 yr-1",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.778Z"
+    },
+    "resolved_answer": "10-15 Mg CO2e ha-1 yr-1"
   },
   {
     "id": "9ab49ec01b7859cde1d5bf7fb2a3811bd2e0d7a4eb77c8150b9315270074236e",
@@ -93,16 +156,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.109Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.818Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3億噸二氧化碳當量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.798Z"
+    },
+    "resolved_answer": "3億噸二氧化碳當量"
   },
   {
     "id": "14b2228f3295eadde98651d69d895f31b5ae2e9e9a11dff5144d71fbcc187801",
@@ -114,16 +198,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.111Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.840Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "甲烷",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.816Z"
+    },
+    "resolved_answer": "甲烷"
   },
   {
     "id": "e4e0b55607db2fab30ec270f7155b24ffa3d2d92ad12f3dfba91a5cca83d99aa",
@@ -136,16 +241,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.112Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.857Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "教育監測",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.838Z"
+    },
+    "resolved_answer": "教育監測"
   },
   {
     "id": "8e8264fc8dedabae663ab84a63ce2e3d6266f542617fb68a3a1a4ba4609cf875",
@@ -157,16 +283,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.113Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.881Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "植物果實結實量",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.865Z"
+    },
+    "resolved_answer": "植物果實結實量"
   },
   {
     "id": "10090ae33c520c674080a62f9ea013f14a085cf020bacd5ca05f41e6fab554b1",
@@ -178,16 +325,37 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.114Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.904Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "3個等級",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.883Z"
+    },
+    "resolved_answer": "3個等級"
   },
   {
     "id": "169bf48191bd2433c77a264fae894a64c421c8ba35a8f81c0d35f9eebc96bf42",
@@ -199,15 +367,36 @@
     ],
     "type": "單選",
     "course": "自然碳匯方法學之建立與發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-12T10:38:35.114Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T10:19:38.939Z"
+    "retry_after": "2026-10-20T10:19:38.939Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:37.923Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "水稻田推廣節水栽培",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_27.html",
+          "title": "「自然碳匯方法學之建立與發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347169073",
+          "title": "自然碳匯方法學之建立與發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:18.902Z"
+    },
+    "resolved_answer": "水稻田推廣節水栽培"
   }
 ]

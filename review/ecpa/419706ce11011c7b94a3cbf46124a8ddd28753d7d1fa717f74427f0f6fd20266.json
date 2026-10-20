@@ -112,13 +112,38 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.178Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.676Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.404Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "20106bc606886dcdc0cdd5b25a64c017cca54a1e5e8574e2fb09ef3db6e2c551",
@@ -129,13 +154,38 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.179Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.742Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.419Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "6f0134d0e8ce5229f8638b4b3632e6cd0b501ea2400e4279b8ae759cf5f05786",
@@ -146,13 +196,38 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.180Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.761Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.433Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "172abd84836c1ba6d3ff0b8821b9cc0acf1761ad8dd0a0d8ddde2b337a6d2b23",
@@ -163,13 +238,38 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.181Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.779Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.448Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0f2585aa5dae3179f39675f5a8a029a83ee2f59ca9c55e0794fb1c3807c2e7ad",
@@ -182,13 +282,38 @@
     ],
     "type": "單選",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.187Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.796Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.463Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "3eecfe953bcf6149bc714b3232c1bc09777f519a79e97b0a023bd798432372fa",
@@ -201,13 +326,38 @@
     ],
     "type": "單選",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "兒童最佳利益唯一優先考量",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:03:37.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.812Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "兒童之發育權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.480Z"
+    },
+    "resolved_answer": "兒童之發育權"
   },
   {
     "id": "bf55e87555a5e90ceb009e2463aca3721bf18dbc97ab98f0fdf4d0e097fb4718",
@@ -220,13 +370,38 @@
     ],
     "type": "單選",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "承認人民享有擁槍權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:04:13.325Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.828Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "承認人民享有擁槍權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.495Z"
+    },
+    "resolved_answer": "承認人民享有擁槍權"
   },
   {
     "id": "8b1b0703e7c1b294ee335390ffbd59a77a25a2305264ca071dc4c9e7b77b10ef",
@@ -237,13 +412,38 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:04:13.328Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.846Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.511Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d51b554cd1136e48fa6fd99a12a11705dcb27ae40c22164a33ae540964ff8141",
@@ -256,13 +456,38 @@
     ],
     "type": "單選",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T10:04:13.329Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.870Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.528Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "6e95d9fe675d8c2959e9221e887a0303f7f831d8893d2d9c11bd93b875d825d4",
@@ -273,12 +498,37 @@
     ],
     "type": "是非",
     "course": "人權與國際公約",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T12:10:28.195Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:36.889Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_44.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_56.html",
+          "title": "「人權與國際公約」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15344963549",
+          "title": "人權與國際公約《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:24:48.544Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

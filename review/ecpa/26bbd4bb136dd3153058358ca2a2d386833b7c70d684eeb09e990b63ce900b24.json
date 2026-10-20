@@ -11,16 +11,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.744Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.196Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.819Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "ea9a9fee5248165afedf1d23c42fc5303e9643e516e0343c99e1dde2a8dadae7",
@@ -33,16 +54,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.753Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.215Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.839Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "693936f6ab86287d0d4562d57adac84c6da6c8a8082c018ee6f5e6a11fbdff1f",
@@ -55,16 +97,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.754Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.234Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.859Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "05f463ded05c996058bcc47faaec1aafca462bd24ebde636671794423816d09f",
@@ -78,16 +141,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.756Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.255Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "(4)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.880Z"
+    },
+    "resolved_answer": "(4)"
   },
   {
     "id": "09f9d8ff6664bc223ac2390e338d05736d7f7d9b239492f029bb7e6a1d3b0f17",
@@ -100,16 +184,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.757Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.276Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.901Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "332a258693b4e3e0e42a9aa043b8fd8aa90f6b0804a05cf499d1c20058d0c1dc",
@@ -121,16 +226,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.758Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.295Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.921Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "04ac49ba338757512962f2a7ddbed3e45622fb61c1c701a11a0f6e041bf07de7",
@@ -142,16 +268,37 @@
     ],
     "type": "單選",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.759Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.317Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "發展職系能力架構藍圖，作為培訓金融科技從業人員及職務流動的依據",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.940Z"
+    },
+    "resolved_answer": "發展職系能力架構藍圖，作為培訓金融科技從業人員及職務流動的依據"
   },
   {
     "id": "4d3aea6444317b4ce8e2a2b0cd3eff48712d37ad34ade4ace0ce16f498e5e7d6",
@@ -206,15 +353,36 @@
     ],
     "type": "是非",
     "course": "最新金融科技政策發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-14T13:00:38.762Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-10-20T02:19:40.974Z"
+    "retry_after": "2026-10-20T02:19:40.974Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:41.335Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "在不修法的前提下，讓金融業者和公會訂定自律規範，鼓勵金融機構與TSP業者合作，加入開放銀行的行列",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_430.html",
+          "title": "「最新金融科技政策發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15335203933",
+          "title": "最新金融科技政策發展趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:26:18.995Z"
+    },
+    "resolved_answer": "在不修法的前提下，讓金融業者和公會訂定自律規範，鼓勵金融機構與TSP業者合作，加入開放銀行的行列"
   }
 ]

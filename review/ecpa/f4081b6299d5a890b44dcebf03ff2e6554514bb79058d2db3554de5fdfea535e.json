@@ -8,16 +8,37 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.409Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.734Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.237Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ccd445ceba659990efc1b4efd464d72fd81b18613ab1b0d82de599e5976579a6",
@@ -48,16 +69,37 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.411Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.758Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.285Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "329d3931975ef5c49dad8e3c6e0a8309162473c915c6d9f71cafaa0cbbdead13",
@@ -68,16 +110,37 @@
     ],
     "type": "是非",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.412Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.777Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.311Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a7269e414e4e4b8205f50c444afba845eb3877058b9a0ad98f903ad4e3b8f154",
@@ -90,16 +153,37 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.413Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.796Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "hauˇ ziedˋ ziedˋ er",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.340Z"
+    },
+    "resolved_answer": "hauˇ ziedˋ ziedˋ er"
   },
   {
     "id": "0887a7e40b9b6061e94e0d4a03bb731b9d569a50c7a0d43c2b5e46661ca90943",
@@ -112,16 +196,37 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.414Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.813Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "zhoiˇ zauˋ duˊ hod",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.367Z"
+    },
+    "resolved_answer": "zhoiˇ zauˋ duˊ hod"
   },
   {
     "id": "9e8408d3ae2556b4e3cdf0d7b6fda4e4e6b73c08f9f0d639d12fc62fc8748125",
@@ -134,16 +239,37 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.415Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.833Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ngionˋ sibˋ sibˋ er",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.392Z"
+    },
+    "resolved_answer": "ngionˋ sibˋ sibˋ er"
   },
   {
     "id": "5305e618085a8033fd6e8551b81d970617e7ded96a8895cf35290e5a725e4007",
@@ -156,16 +282,37 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.416Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.852Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "「長期的縱容」的意思",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.411Z"
+    },
+    "resolved_answer": "「長期的縱容」的意思"
   },
   {
     "id": "c22ac4b265b42a1bb10cbadf04a4a8d9b4bce0d0b79d62243be81ddb62931a82",
@@ -178,16 +325,37 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.417Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.871Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "「最小的兒子」的意思",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.436Z"
+    },
+    "resolved_answer": "「最小的兒子」的意思"
   },
   {
     "id": "43b2813374e46598a81f704582804f63afca6ef42fcd88bd5f80c0393747f2f0",
@@ -200,15 +368,36 @@
     ],
     "type": "單選",
     "course": "客語能力認證中級暨中高級課程-海陸腔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-10-17T02:49:18.418Z",
     "ai_error": "generation_failed",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-10-19T16:19:40.234Z"
+    "retry_after": "2026-10-19T16:19:40.234Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-27T03:27:38.888Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "zoˇ voi+ m diˋ",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_404.html",
+          "title": "「客語能力認證中級暨中高級課程-海陸腔」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336587337",
+          "title": "客語能力認證中級暨中高級課程-海陸腔《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T03:25:39.457Z"
+    },
+    "resolved_answer": "zoˇ voi+ m diˋ"
   }
 ]
