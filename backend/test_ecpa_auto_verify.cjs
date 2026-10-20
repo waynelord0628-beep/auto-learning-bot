@@ -1,6 +1,11 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
 const worker=fs.readFileSync(__dirname+'/ecpa_review_worker.js','utf8');
 const code=fs.readFileSync(__dirname+'/ecpa_auto_verify.js','utf8');
+const template=fs.readFileSync(__dirname+'/Code.template.gs','utf8');
+for(const name of ['ecpaReviewModel','ecpaReviewApi','ecpaVerifyFromSources']) {
+ const pattern=new RegExp('^function '+name+'\\([\\s\\S]*?^\\}','m');
+ assert.equal(template.match(pattern)?.[0].replace(/\r\n/g,'\n'),code.match(pattern)?.[0].replace(/\r\n/g,'\n'),'standalone and deployed template must agree: '+name);
+}
 const q={id:'q',question:'test question',type:'單選',options:['A','B'],course:'course',reason:'missing',status:'pending',review_state:'candidate_ready',candidate_answer:'A'};
 function setup() {
  const files={'queue':JSON.stringify([q]),'patch':'[]','version':'6002'},props={};
@@ -26,6 +31,7 @@ let s=setup();
 assert.equal(s.ctx.ecpaSourceAllowed('https://test.gov.tw/page'),true);
 for(const url of ['https://gov.tw.attacker.com/','https://gov.tw@127.0.0.1/','http://test.gov.tw/','https://127.0.0.1/','https://test.gov.tw:444/'])assert.equal(s.ctx.ecpaSourceAllowed(url),false);
 const verdict=s.ctx.ecpaVerifyFromSources(q);assert.equal(verdict.answer,'B');assert.equal(s.calls(),2);
+assert.equal(verdict.model,'gpt-6-luna');
 s=setup();s.ctx.UrlFetchApp.fetch=()=>{throw Error('TLS');};assert.equal(s.ctx.ecpaVerifyFromSources(q),null);assert.equal(s.calls(),1);
 s=setup();s.ctx.UrlFetchApp.fetch=()=>({getResponseCode:()=>302});assert.equal(s.ctx.ecpaVerifyFromSources(q),null);
 s=setup();s.ctx.ecpaReviewApi=()=>({searched:true,data:{answer:'B',sources:[{url:'https://test.gov.tw/',quote:'invented statement not on page'}]}});assert.equal(s.ctx.ecpaVerifyFromSources(q),null);
@@ -63,7 +69,8 @@ const actual=s.ctx.ecpaReviewApi({input:'test fixture'});
 assert.equal(actual.searched,true);assert.equal(actual.data.answer,'B');
 assert.equal(request.url,'https://api.openai.com/v1/responses');
 const payload=JSON.parse(request.options.payload);
-assert.equal(payload.model,'gpt-4.1');assert.equal(payload.store,false);assert.equal(payload.max_output_tokens,1800);
+assert.equal(payload.model,'gpt-6-luna');assert.equal(payload.store,false);assert.equal(payload.max_output_tokens,1800);
+assert.equal(payload.reasoning.effort,'none');assert.equal(payload.max_tool_calls,1);
 s.ctx.UrlFetchApp.fetch=()=>({getResponseCode:()=>429});
 assert.throws(()=>s.ctx.ecpaReviewApi({input:'test fixture'}),/Review API HTTP 429/);
 s=setup();

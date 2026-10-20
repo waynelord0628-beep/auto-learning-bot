@@ -1,5 +1,15 @@
 # eCPA 待查維護
 
+## 2026-10-21 核實模型成本調整
+
+雲端課程網址搜尋與來源核實改用 `gpt-6-luna`，使用 Responses API、`reasoning.effort=none`，每個請求最多一次內建工具呼叫（`max_tool_calls=1`），保留 1800 輸出 token 上限。一般候選補答仍用原來的 `gpt-4o-mini`，不變更客戶端設定或已發布 EXE。
+
+沿用課程原文優先、同課程頁面共用、原文引句核對、獨立第二次覆核，以及原有重試與每日額度。沒有可信來源仍不發布；不自動回退到較昂貴模型。歷史核實紀錄保留當時的模型，新紀錄才標示新模型。
+
+8 個小型來源判讀案例與原 GPT-4.1 均通過，另外通過官方來源與課程解答頁各一次付費搜尋相容性測試。這是相容性與小樣本驗收，不能推論所有題目正確率。文字單價下降不等於整體費用同比下降，網路搜尋仍另外計費。單價參考：https://developers.openai.com/api/docs/models/gpt-6-luna 。
+
+驗證：全部 `backend/test*.cjs`，其中 auto_verify 同時核對模組與完整 GAS 範本的模型設定、搜尋上限和原有發布保護。
+
 這些模組用於既有 GAS 專案，沿用專案原本的 GitHub、Telegram 與 AI 設定。不含部署憑證。
 
 - `ecpa_candidate_intake.js`：取代 `handleEcpaMissing`，收件去重、候選格式檢查、不逐批推送待查通知。

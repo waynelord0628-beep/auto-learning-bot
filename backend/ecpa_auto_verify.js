@@ -1,8 +1,11 @@
 // Source-backed AI review is distinct from a platform-disclosed answer key.
+function ecpaReviewModel() {
+  return 'gpt-6-luna';
+}
 function ecpaReviewApi(body) {
   const r = UrlFetchApp.fetch('https://api.openai.com/v1/responses', {
     method:'post', contentType:'application/json', headers:{Authorization:'Bearer ' + OPENAI_KEY},
-    payload:JSON.stringify(Object.assign({model:'gpt-4.1',store:false,max_output_tokens:1800},body)), muteHttpExceptions:true
+    payload:JSON.stringify(Object.assign({model:ecpaReviewModel(),reasoning:{effort:'none'},store:false,max_output_tokens:1800,max_tool_calls:1},body)), muteHttpExceptions:true
   });
   if (r.getResponseCode() !== 200) throw Error('Review API HTTP ' + r.getResponseCode());
   const result = JSON.parse(r.getContentText());
@@ -72,7 +75,7 @@ function ecpaVerifyFromSources(q) {
     input:JSON.stringify({question:input,sources})});
   if (check.data.supported !== true || ecpaReviewAnswer(q,check.data.answer) !== answer) return null;
   return {answer,sources:sources.map(s=>({url:s.url,quote:s.quote})),
-    method:'official_source_two_pass_v1',model:'gpt-4.1',checked_at:new Date().toISOString()};
+    method:'official_source_two_pass_v1',model:ecpaReviewModel(),checked_at:new Date().toISOString()};
 }
 function ecpaCanAutoVerify(q, now) {
   return q && q.status === 'pending' && q.reason === 'missing' &&
