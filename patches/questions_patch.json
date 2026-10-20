@@ -68946,5 +68946,30 @@
       "model": null,
       "checked_at": "2026-10-20T02:34:27.213Z"
     }
+  },
+  {
+    "question": "根據演練的安排原則，若演練時間大於 RTO，則在演練後應進行哪一項工作？",
+    "type": "單選",
+    "options": [
+      "降低下一年度的演練規模",
+      "重新修訂 BCP",
+      "進行問題分析並有解決方案及實施時間表",
+      "將演練頻率改為低於年度"
+    ],
+    "course": "政府營運數位韌性建構指南",
+    "answer": "進行問題分析並有解決方案及實施時間表",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "進行問題分析並有解決方案及實施時間表",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347816577",
+          "title": "政府營運數位韌性建構指南《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-20T02:34:38.181Z"
+    }
   }
 ]
