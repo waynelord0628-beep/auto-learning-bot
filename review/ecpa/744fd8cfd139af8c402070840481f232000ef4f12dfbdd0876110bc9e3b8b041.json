@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.888Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-28T03:20:35.356Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:32.003Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "18cfe039b3763ce96c00098c097c029c74cd3e5965623e7952deb95f81d1a855",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "避免讓受難者與他人互動，以減少二次傷害",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.889Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "避免讓受難者與他人互動，以減少二次傷害",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:32.348Z"
+    },
+    "resolved_answer": "避免讓受難者與他人互動，以減少二次傷害",
+    "verification_status": "source_supported"
   },
   {
     "id": "c156c03f4f45f394c68378309d2dce6325f76fc337ddf314aad3a4c1e51f8501",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.890Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:32.789Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "667fc7a5d6e5583dad7093ea9af2243fc44431a9cb1567277007b40e87435cfb",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "中美斷交",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.891Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "中美斷交",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:33.276Z"
+    },
+    "resolved_answer": "中美斷交",
+    "verification_status": "source_supported"
   },
   {
     "id": "e0f40a326a657d1e6a100cc99df2d2cbdbe0eda542b0305e1f4402e3f90fa003",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "放鬆",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.892Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "鼓勵振作",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:33.681Z"
+    },
+    "resolved_answer": "鼓勵振作",
+    "verification_status": "source_supported"
   },
   {
     "id": "7924e3654bbd892fbc4dc8214056d3611b38e5f88ba61e9f0041c5ae9f59e07f",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "政治創傷往往成為家庭中的秘密，可能導致家人之間溝通困難與關係疏遠。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.893Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "政治創傷往往成為家庭中的秘密，可能導致家人之間溝通困難與關係疏遠。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:34.160Z"
+    },
+    "resolved_answer": "政治創傷往往成為家庭中的秘密，可能導致家人之間溝通困難與關係疏遠。",
+    "verification_status": "source_supported"
   },
   {
     "id": "23cf229a064050534f1c93fa8994fbb66fa69fa178772e4cd1712de1073b3480",
@@ -124,12 +211,26 @@
     ],
     "type": "單選",
     "course": "歷史的傷．心會記得-政治暴力創傷知情概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T01:30:12.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_30.html",
+          "title": "「歷史的傷．心會記得-政治暴力創傷知情概論」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T03:20:34.428Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   }
 ]
