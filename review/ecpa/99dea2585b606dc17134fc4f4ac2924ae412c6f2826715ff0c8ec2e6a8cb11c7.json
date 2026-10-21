@@ -57,10 +57,10 @@
     "review_state": "candidate_ready",
     "retry_count": 1,
     "retry_after": "2026-10-21T01:19:37.912Z",
-    "verify_attempts": 0,
+    "verify_attempts": 1,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-21T03:12:06.760Z",
-    "verification_status": "service_error"
+    "verify_after": "2026-10-28T04:20:09.505Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "eb68c9280707d986bdbeae7e1e3937f1004a70ca64441ba2a709e8e711fa104f",
