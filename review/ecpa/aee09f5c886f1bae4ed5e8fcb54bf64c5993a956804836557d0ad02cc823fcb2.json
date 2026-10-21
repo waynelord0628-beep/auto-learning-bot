@@ -136,5 +136,40 @@
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.438Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "3037a473ca8b3cd15c42aa4813d77389591510b10516733d9b49168c8c56fa5c",
+    "question": "淨零綠生活戰略目前規劃六大執行面向，以下哪一個不在其中?",
+    "options": [
+      "零浪費低碳飲食",
+      "永續環境綠時尚",
+      "碳捕捉、利用與封存"
+    ],
+    "type": "單選",
+    "course": "淨零綠生活知識與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "碳捕捉、利用與封存",
+    "source": "ai_unverified",
+    "created_at": "2026-10-21T08:09:45.838Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4563cd3a24366298a44766fc5fdbadc14fbe6f41430490163d164b7a96597d8b",
+    "question": "國際能源總署IEA 所提出的2050淨零排放策略，其中民眾積極使用低碳技術如電動車、裝置綠電系統等，大約可減一半，剩下的8%則是透過關鍵的行為改變與材料效率提升。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "淨零綠生活知識與實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-21T08:09:45.840Z",
+    "review_state": "candidate_ready"
   }
 ]
