@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.426Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-28T08:21:21.201Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:17.998Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c429357558a2640d5bb531ca2a76db4fffc53b42e2aab6b19a45aacbd3d4765d",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.428Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:18.253Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "2cbfa1cf783e655a67521f6b6c73f30307e82ab169ed73158084fdf1d0da82ef",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.428Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:18.525Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "1b67bed3ddd0b87a29b6cabbe74d4266be7a76f6c955a182bbde8b40cfe143df",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.431Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:18.856Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d683132aa1b77ea091a73e4ed43d3872947d9dbd064ba08e84b264d30c0c82d0",
@@ -78,13 +137,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.432Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:19.149Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "434b38fcdb2087d679da165a1c04452ecf796668f369f8fd7ef73579c215f4c6",
@@ -95,13 +168,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.434Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:19.430Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "8cc466f4a4329f402464a559ff7ad18f5f79bcfa2a975db9c1644cff96015323",
@@ -112,13 +199,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.436Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:19.713Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "8fe94b88c0c8cd5f3ae7d2c726a1c600a52c18f049d68f71086e41d9ead15766",
@@ -129,13 +230,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:07:10.438Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:19.951Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "3037a473ca8b3cd15c42aa4813d77389591510b10516733d9b49168c8c56fa5c",
@@ -147,13 +262,27 @@
     ],
     "type": "單選",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "碳捕捉、利用與封存",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:09:45.838Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "碳捕捉、利用與封存",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:20.219Z"
+    },
+    "resolved_answer": "碳捕捉、利用與封存",
+    "verification_status": "source_supported"
   },
   {
     "id": "4563cd3a24366298a44766fc5fdbadc14fbe6f41430490163d164b7a96597d8b",
@@ -164,13 +293,27 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:09:45.840Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:20.466Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "fdd522911e9dff27ed34129c867365ca87bf087ac04522fc80c68adc48804572",
@@ -181,12 +324,26 @@
     ],
     "type": "是非",
     "course": "淨零綠生活知識與實踐",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-21T08:11:53.795Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_62.html",
+          "title": "「淨零綠生活知識與實踐」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-21T08:21:20.483Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
