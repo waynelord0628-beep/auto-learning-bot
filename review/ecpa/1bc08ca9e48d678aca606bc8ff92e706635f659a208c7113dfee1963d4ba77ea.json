@@ -387,13 +387,38 @@
     ],
     "type": "是非",
     "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T13:32:18.256Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-29T14:20:31.505Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_01290659304.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346979645",
+          "title": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-22T14:20:25.682Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "cff14faed9a1142514ad72f93f08d68c455e9a8c0a62191cd3c54eae690ec860",
@@ -404,13 +429,35 @@
     ],
     "type": "是非",
     "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T13:32:18.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_01290659304.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346979645",
+          "title": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-22T14:20:26.943Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "c867abfa397f76a4506d4909bf5c72dbb14415725cc64004398aea50b7b88839",
@@ -421,13 +468,35 @@
     ],
     "type": "是非",
     "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T13:32:18.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_01290659304.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346979645",
+          "title": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-22T14:20:28.008Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "37720773b4140f9cbf320fd713b6db349d3256d5b1ad2ccbf7b3541209c71613",
@@ -438,12 +507,34 @@
     ],
     "type": "是非",
     "course": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T13:32:18.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/03/ee_99.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_01290659304.html",
+          "title": "「你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15346979645",
+          "title": "你/我/他/她越界了嗎？你知道強搭肩膀也可能是性騷擾嗎？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-22T14:20:29.639Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
