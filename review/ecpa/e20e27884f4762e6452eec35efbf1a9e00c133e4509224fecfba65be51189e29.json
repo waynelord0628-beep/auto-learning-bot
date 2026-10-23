@@ -159,5 +159,24 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.946Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "fa412fb96f00bf4a6367c5af95ad8943cb07933cfc1728cacaf97e88dc7bac6f",
+    "question": "以下陳述，何者不正確？",
+    "options": [
+      "杏仁核若將教練的言語判讀為「生存威脅」而非「戰術指導」，會使皮質醇濃度飆升，進而導致肌肉僵硬與心跳異常加速等生理反應，形成「機能阻斷」",
+      "依《兒童及少年福利與權益保障法》規定，「一般通報」（責任通報人員以外任何人所為之通報）與「責任通報」相同，均負有應於24小時內完成通報之法定義務",
+      "運動場域中的「為你好」文化，常以追求成績之名，合理化高壓與過度訓練，導致選手及家長選擇隱忍，形成運動場域特有兒少保護風險因子",
+      "教練在選手成績不理想時施以「加倍體能懲罰」並於全隊面前公開責罵及羞辱人格，此已構成精神虐待與不當管教，而非單純的嚴格訓練"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_兒少保護—建立安全、尊重與支持的運動環境",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T23:11:30.773Z",
+    "review_state": "awaiting_candidate"
   }
 ]
