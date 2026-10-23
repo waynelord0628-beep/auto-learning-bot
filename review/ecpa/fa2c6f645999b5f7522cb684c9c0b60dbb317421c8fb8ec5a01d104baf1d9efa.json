@@ -148,7 +148,11 @@
     "candidate_answer": "地方問題複雜且需重新建立連結",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.930Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T07:22:07.703Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9f082a458702edf4f4981455434aeb8bfbc2cf21e99f3e5a52eaeefd350b0be2",
