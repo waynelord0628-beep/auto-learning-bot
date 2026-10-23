@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "利潤(Profit)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.110Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T01:21:32.554Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "利潤(Profit)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:23.618Z"
+    },
+    "resolved_answer": "利潤(Profit)"
   },
   {
     "id": "abe40ff0a4f378772d9a2bb4327e8bf0f0cc9d81a38122ee12fb860e90965448",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2016-2030年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.112Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2016-2030年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:24.935Z"
+    },
+    "resolved_answer": "2016-2030年",
+    "verification_status": "source_supported"
   },
   {
     "id": "90a3acfb98caf6bef70155162ac64c97eb26edeaadcdd912168d57b7309839c6",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "科技創新",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.114Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "科技創新",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:26.256Z"
+    },
+    "resolved_answer": "科技創新",
+    "verification_status": "source_supported"
   },
   {
     "id": "7c4b3306ba838f3f00b7740e80852d0ab8be1962fa40431856eb79de067099f7",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "《巴黎協定》",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.115Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "《巴黎協定》",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:27.557Z"
+    },
+    "resolved_answer": "《巴黎協定》",
+    "verification_status": "source_supported"
   },
   {
     "id": "1ab74fa0560bd3c48d4888c5ff3bc76c5fe47ba286ce058b3fd93435ecd330b9",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "到2030年保護至少30%的陸域與海域",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.116Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "到2030年保護至少30%的陸域與海域",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:28.391Z"
+    },
+    "resolved_answer": "到2030年保護至少30%的陸域與海域",
+    "verification_status": "source_supported"
   },
   {
     "id": "e30250b87bf632aaf5550c2aef88acfd1dc1a625bfab51a2262b44bd607d51cb",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "SDGs",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.118Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "SDGs",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:28.619Z"
+    },
+    "resolved_answer": "SDGs",
+    "verification_status": "source_supported"
   },
   {
     "id": "6c8591f7a8cfb0a06ddce26e28e04c4d5a39c9aa74a67b76e945bf16f9d30492",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.119Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:29.269Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "ab4d8d54a89d3e27e5b7ddf50e09a3b97179aa02bdb65d888cefb6bfb9759243",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.120Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:29.921Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "9de270548fd2e12a8ffc2c3a42a2b1d390c2ccbb5ff77c70d66809a38ef40dba",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2050年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.121Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2050年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:30.671Z"
+    },
+    "resolved_answer": "2050年",
+    "verification_status": "source_supported"
   },
   {
     "id": "0652ae58004a6676575d266574f55fa767c02b4a2537385dcd038c03b325d52c",
@@ -181,12 +310,26 @@
     ],
     "type": "單選",
     "course": "永續發展目標演進與趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "協助受影響產業與勞工有尊嚴地轉型，保障其權益與生計",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T00:25:52.123Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "協助受影響產業與勞工有尊嚴地轉型，保障其權益與生計",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347526025",
+          "title": "永續發展目標演進與趨勢《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T01:21:31.360Z"
+    },
+    "resolved_answer": "協助受影響產業與勞工有尊嚴地轉型，保障其權益與生計",
+    "verification_status": "source_supported"
   }
 ]
