@@ -373,5 +373,41 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.048Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "7eb77f4355a43379869db4347b82b63a43fe7ec9126f6c041936fc4504360ee8",
+    "question": "關於輕軌C4凱旋中華站旁的「時代公園」，園區內規劃了高塔滑梯、攀繩網山、彈跳床、戲水區等多達16項遊樂體健設施。請問下列哪一個設施「不屬於」時代公園所規劃的設施？",
+    "options": [
+      "適合全齡的滑步車道與沙坑",
+      "戶外健身區與樂齡設施",
+      "舒緩身心的高溫溫泉泡腳池",
+      "親子同樂的戲水區與彈跳床"
+    ],
+    "type": "單選",
+    "course": "灣區智慧城-前鎮",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "舒緩身心的高溫溫泉泡腳池",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:39:38.655Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "61718270d902ab161cbf61f376ac2aae34271e615436373f9b4981bbccb8b04f",
+    "question": "前鎮漁港在斥資81億元全面升級施工期間，為了避免卸貨與整補作業陷入停擺，政府採取的配套措施之一是將部分大型漁船疏導至旗津漁港深水碼頭停泊。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "灣區智慧城-前鎮",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:39:38.661Z",
+    "review_state": "candidate_ready"
   }
 ]
