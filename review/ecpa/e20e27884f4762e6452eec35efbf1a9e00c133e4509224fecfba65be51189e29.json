@@ -178,5 +178,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-23T23:11:30.773Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "5ffd148d3884e9299fea883ee5ba1b1288e7973b6aa8a27f4dd2f61256e7c956",
+    "question": "聯合國《兒童權利公約》（CRC）四項一般性原則，不包括下列何者？",
+    "options": [
+      "禁止歧視",
+      "兒童最佳利益",
+      "尊重兒童意見",
+      "休閒健康權"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_兒少保護—建立安全、尊重與支持的運動環境",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "休閒健康權",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T23:12:03.017Z",
+    "review_state": "candidate_ready"
   }
 ]
