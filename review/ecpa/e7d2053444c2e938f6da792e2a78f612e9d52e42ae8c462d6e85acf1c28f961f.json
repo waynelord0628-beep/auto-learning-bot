@@ -205,5 +205,24 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.673Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "2eacb7426bbb52374e33b0f3e5520bb222b25a98adfd65318329c3a665b8f1e9",
+    "question": "學生受到性騷擾，應該如何處理較為適切？",
+    "options": [
+      "告訴師長，請求協助",
+      "告訴同學，一起抱怨",
+      "隱忍，不求助",
+      "懷疑自己小題大作，不處理"
+    ],
+    "type": "單選",
+    "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "告訴師長，請求協助",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T20:48:00.728Z",
+    "review_state": "candidate_ready"
   }
 ]
