@@ -16,7 +16,11 @@
     "candidate_answer": "以在地文化、產業與人才為核心",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.926Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T05:20:49.309Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "3b6d134c345ca78a25f4592f2d283846ce55e1e23b5784cb4c2ca2a2196f6ada",
