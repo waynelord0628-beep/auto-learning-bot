@@ -33,13 +33,34 @@
     ],
     "type": "單選",
     "course": "【從日本到臺灣：認識地方創生的第一步】地方創生是什麼？為什麼臺灣需要地方創生？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "少子化與人口外流",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.927Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T05:21:10.347Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "少子化與人口外流",
+      "sources": [
+        {
+          "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55599&pid=242600",
+          "quote": "鑒於近年我國總人口減少、高齡少子化、都市人口過度集中、區域發展失衡等問題日益嚴重"
+        },
+        {
+          "url": "https://hlrr.hl.gov.tw/Question",
+          "quote": "少子化、高齡化、地方青壯年人口外移、城鄉發展不均，是亞洲幾個國家共同面對的問題"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-23T05:21:09.144Z"
+    },
+    "resolved_answer": "少子化與人口外流"
   },
   {
     "id": "fb490303663df89ba827ed121ed3a9ace13bde21fcf190bc5e21ef5a7e511c9a",
