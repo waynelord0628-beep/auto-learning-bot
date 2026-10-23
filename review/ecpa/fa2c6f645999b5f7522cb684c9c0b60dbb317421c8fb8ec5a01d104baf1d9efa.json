@@ -171,7 +171,11 @@
     "candidate_answer": "社會責任與地方連結",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.930Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T08:22:13.906Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "c4d1d5192a8fa85898f45c27bcd75c4e4fe50cda343a362918d63eaf83a74c57",
