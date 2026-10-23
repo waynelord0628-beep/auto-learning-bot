@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T06:20:24.339Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:21.028Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9b2cfc4458524ed3003e9d4609a9a11b296a7b1496e5aa711f4f2ad0537399c2",
@@ -27,13 +44,27 @@
     ],
     "type": "單選",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "得以公假方式辦理。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.199Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "最快須到117年度方得重新依規定遴選參訓。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:21.380Z"
+    },
+    "resolved_answer": "最快須到117年度方得重新依規定遴選參訓。",
+    "verification_status": "source_supported"
   },
   {
     "id": "0b993496c0753720f6b4efb073a689fed1c5f60704e735587cd665b9624fdc90",
@@ -44,13 +75,27 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.200Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:21.705Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "71c89ce223323baaed98378ee07a65511e090509fa4c5fae9cb152913f64528a",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.200Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:21.992Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "bd757a961004360b469bde1cd560bf7d12011953b58f39f0c402c88128bf1bf0",
@@ -78,13 +137,27 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.200Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:22.213Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "7b7a35b11d459c9c3a899ed918e48e27bc122dfe857cb044fff5d491ec19b28c",
@@ -95,13 +168,27 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.201Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:22.470Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "ee3a2f340be30f816f503095934d6f3c86a882639d8fd7b752f99179b0414662",
@@ -114,13 +201,27 @@
     ],
     "type": "單選",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "本項成績總分為100分，基本分數為80分。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.201Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "請假每1小時扣減本訓練成績0.5分。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:22.796Z"
+    },
+    "resolved_answer": "請假每1小時扣減本訓練成績0.5分。",
+    "verification_status": "source_supported"
   },
   {
     "id": "9c2b00ffb198e18e48ee94acde48b77b3847a57665bdecf1759fb07e8c2b4811",
@@ -131,13 +232,27 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.201Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:23.031Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "9efd940a9924cd35b18fef075dc356525985373cfdfdc425a4660b1035c98a1c",
@@ -150,13 +265,27 @@
     ],
     "type": "單選",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.202Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:23.285Z"
+    },
+    "resolved_answer": "以上皆是。",
+    "verification_status": "source_supported"
   },
   {
     "id": "d31f3322e559099fc7e38d7161eb327585921a1739e5b48df7e6b81985be7a2b",
@@ -167,12 +296,26 @@
     ],
     "type": "是非",
     "course": "訓練須知-115薦升簡(含正升監)訓練適用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:04:39.202Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/115_01610680632.html",
+          "title": "【解答】訓練須知-115薦升簡(含正升監)訓練適用 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T06:20:23.538Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
