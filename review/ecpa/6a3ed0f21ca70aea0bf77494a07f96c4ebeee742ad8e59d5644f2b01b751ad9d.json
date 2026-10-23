@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "影像辨識",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.620Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T00:20:54.271Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "影像辨識",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:50.654Z"
+    },
+    "resolved_answer": "影像辨識"
   },
   {
     "id": "a6ac3dbc9491c58fe2f7d7d386db0e00b9de47d075a28fb5eed87e74ef37a4a6",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對法律權利和民主規範的風險",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.622Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "對法律權利和民主規範的風險",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:51.270Z"
+    },
+    "resolved_answer": "對法律權利和民主規範的風險",
+    "verification_status": "source_supported"
   },
   {
     "id": "cb955de2f3525b6812528600db526f81b0d92d853d35733177cc75478af84542",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "系統觀",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.624Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "系統觀",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:51.627Z"
+    },
+    "resolved_answer": "系統觀",
+    "verification_status": "source_supported"
   },
   {
     "id": "06e36519f3e787af2ace3257a538db2df3459aa435ea7b367985137da46d5279",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "合法、道德與負責",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.625Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "合法、道德與負責",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:51.870Z"
+    },
+    "resolved_answer": "合法、道德與負責",
+    "verification_status": "source_supported"
   },
   {
     "id": "0c7cf3ebc240439dde855eafa90904192a2ad7a7fa70405f1f205153a8995f1d",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "後續的回饋資料（人類判斷的紀錄）",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.626Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "後續的回饋資料（人類判斷的紀錄）",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:52.163Z"
+    },
+    "resolved_answer": "後續的回饋資料（人類判斷的紀錄）",
+    "verification_status": "source_supported"
   },
   {
     "id": "0e2564ea7543fb751945dbfe570faeecfa4a2b79a67035ab8f803ed779249076",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "落地的RAG系統作為AI助理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.627Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "落地的RAG系統作為AI助理",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:52.381Z"
+    },
+    "resolved_answer": "落地的RAG系統作為AI助理",
+    "verification_status": "source_supported"
   },
   {
     "id": "16ede373eaa174407f2e8cc33a959a30f521027a4acd514d2a010c3fa2c154eb",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "法規、觀測、資料",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.628Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "硬體、軟體、人才",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:52.711Z"
+    },
+    "resolved_answer": "硬體、軟體、人才",
+    "verification_status": "source_supported"
   },
   {
     "id": "f640cfec140ebe58e58ac7b9cbbdfcae744d60cf4f03c7fbc99672d163fd6d5d",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "共購共用所有服務",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.629Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "共購共用所有服務",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:52.947Z"
+    },
+    "resolved_answer": "共購共用所有服務",
+    "verification_status": "source_supported"
   },
   {
     "id": "7d647ebf9d99f15467cf0e720a34f0c093dacb5073cc086b40ddeadc84eaab7e",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "114年公務AI躍進交流研習營",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "微軟 (Microsoft)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-22T20:32:39.629Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "Google",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/114ai.html",
+          "title": "【解答】114年公務AI躍進交流研習營 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-23T00:20:53.179Z"
+    },
+    "resolved_answer": "Google",
+    "verification_status": "source_supported"
   },
   {
     "id": "6c5d10c62230145f894458c0722bf4b4d5816978b7878bbfb67e250046cb55ce",
