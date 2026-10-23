@@ -120396,5 +120396,28 @@
       "model": null,
       "checked_at": "2026-10-23T06:20:23.538Z"
     }
+  },
+  {
+    "question": "本法主管機關為行政院。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "本法之主管機關為法務部。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-23T12:21:48.460Z"
+    }
   }
 ]

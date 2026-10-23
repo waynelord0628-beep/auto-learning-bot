@@ -393,13 +393,30 @@
     ],
     "type": "是非",
     "course": "公益揭弊者保護法說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T11:47:34.112Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T12:21:49.466Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "本法之主管機關為法務部。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-23T12:21:48.460Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "24d3f44b0b09046e5e061b14788e4d18b04ef0eff6449267d04f12491e907a83",
