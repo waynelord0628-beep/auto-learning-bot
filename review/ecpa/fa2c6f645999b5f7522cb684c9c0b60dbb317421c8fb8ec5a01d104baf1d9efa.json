@@ -102,7 +102,11 @@
     "candidate_answer": "人",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.929Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T07:21:23.090Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "61be8199d13457e7cba107f545a2f435abf02920e2a84b9fa3946f1e50b68756",
