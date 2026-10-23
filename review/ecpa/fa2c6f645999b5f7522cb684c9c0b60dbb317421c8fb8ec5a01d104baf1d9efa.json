@@ -79,7 +79,11 @@
     "candidate_answer": "2017年",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.928Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T05:21:27.409Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "08b1d7324d58a5ad303d14f50125d2fa63bee816e832ae349c068d76bc6708f3",
