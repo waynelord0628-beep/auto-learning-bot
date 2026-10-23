@@ -178,5 +178,39 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.571Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "78c2880595d7be94ca0d4bcf0b9c07c7e8add4894f3dcd69aaa0a5e0531fe877",
+    "question": "根據現行法律，未滿18歲者的性影像不論是否同意拍攝，都屬於違法。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T21:58:02.499Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff44d719346171198b380c8446c90879bbff3ca45636d838c48f4063f75bb0da",
+    "question": "遇到私密影像外流時，為避免影像繼續散布，應立即刪除帳號、好友及相關對話紀錄",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T21:58:02.500Z",
+    "review_state": "candidate_ready"
   }
 ]
