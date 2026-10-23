@@ -341,5 +341,73 @@
       }
     },
     "resolved_answer": "正確"
+  },
+  {
+    "id": "d3a871f6abc52a6a9795aef78f008721242c111622d713b80a1de2091799104a",
+    "question": "如果揭弊者先在自己臉書公開揭弊內容，嗣後才向機關揭弊，是否能領揭弊獎金？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:47:34.109Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "16fde6b1d7ad25a48157c3aa126a39161dd2cf6b8a28dbe23ca224528f5478d8",
+    "question": "揭弊者得以匿名方式受本法保護。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:47:34.111Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6331240a433bac11e9e73fcee353afca08e5125da980b576c0eeedfe4187aef4",
+    "question": "本法主管機關為行政院。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:47:34.112Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "24d3f44b0b09046e5e061b14788e4d18b04ef0eff6449267d04f12491e907a83",
+    "question": "如果不想親自出面揭弊，可不可以委託其他人揭弊？",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T11:47:34.114Z",
+    "review_state": "candidate_ready"
   }
 ]
