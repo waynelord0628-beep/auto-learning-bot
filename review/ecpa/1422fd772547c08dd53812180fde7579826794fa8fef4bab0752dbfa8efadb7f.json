@@ -192,5 +192,22 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.066Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "0d63282f76ad1a54c243cc09a92e646a9dcae62339bdcede18e534fe8c5ce3fa",
+    "question": "一位有影響力的教練，他的教育目標在於從讓孩子因為「害怕」而服從，進而提升團隊效率",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "運動部115年度專任運動教練線上課程_從正向管教到團隊文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-23T22:34:53.935Z",
+    "review_state": "candidate_ready"
   }
 ]
