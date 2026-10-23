@@ -217,7 +217,11 @@
     "candidate_answer": "永續的商業模式",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.931Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T08:23:01.081Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "02023c3df84bbfb30d816ad83c59dfee4a9624b9d04403333ab9ee3f1e935911",
