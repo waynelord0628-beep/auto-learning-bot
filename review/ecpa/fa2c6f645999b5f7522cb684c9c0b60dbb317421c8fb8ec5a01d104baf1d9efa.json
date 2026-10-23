@@ -194,7 +194,11 @@
     "candidate_answer": "建立在地網絡與合作關係",
     "source": "ai_unverified",
     "created_at": "2026-10-23T05:01:42.931Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T08:22:34.832Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "11491bda17de5a1b0001643fff84690557edbc328adb3fe5fa4cd3d13e982c1b",
