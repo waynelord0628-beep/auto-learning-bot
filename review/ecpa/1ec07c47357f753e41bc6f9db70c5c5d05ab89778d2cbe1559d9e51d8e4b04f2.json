@@ -391,7 +391,11 @@
     "candidate_answer": "舒緩身心的高溫溫泉泡腳池",
     "source": "ai_unverified",
     "created_at": "2026-10-23T11:39:38.655Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-30T13:21:12.978Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "61718270d902ab161cbf61f376ac2aae34271e615436373f9b4981bbccb8b04f",
