@@ -15,7 +15,11 @@
     "candidate_answer": "工程(Engineering)",
     "source": "ai_unverified",
     "created_at": "2026-10-24T02:53:46.210Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T03:20:20.612Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "234c0269e6e209a68b7c8b84000049b2551e2141a5933f5b3cf93b33432eff29",
