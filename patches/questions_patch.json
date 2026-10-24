@@ -120883,5 +120883,29 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-24T03:20:37.588Z"
     }
+  },
+  {
+    "question": "根據消防法修正案，各級政府對於消防人員的安全衛生裝備及健康檢查經費，應該如何編列？",
+    "type": "單選",
+    "options": [
+      "有剩餘經費再處理",
+      "由消防人員自行負擔",
+      "應優先編列預算支應"
+    ],
+    "course": "消防職業安全衛生概論",
+    "answer": "應優先編列預算支應",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "應優先編列預算支應",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0120001",
+          "quote": "各級政府辦理消防人員之安全衛生防護設備、措施及健康檢查所需經費，應優先編列預算支應。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-24T04:22:36.913Z"
+    }
   }
 ]
