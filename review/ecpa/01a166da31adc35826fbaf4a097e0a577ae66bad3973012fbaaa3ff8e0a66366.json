@@ -72,7 +72,11 @@
     "candidate_answer": "4小時",
     "source": "ai_unverified",
     "created_at": "2026-10-24T02:53:46.213Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T03:20:59.224Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "919b4a9ed9eb8aa9db714773bfea194642b9108d1da201145df0940d3c331d80",
