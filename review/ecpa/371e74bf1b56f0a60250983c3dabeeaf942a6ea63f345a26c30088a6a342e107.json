@@ -58,17 +58,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "本人需有可能被散步的影像",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.628Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.539Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "本人需有可能被散步的影像",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:39.522Z"
+    },
+    "resolved_answer": "本人需有可能被散步的影像"
   },
   {
     "id": "385d44912c03f8f5f0ea7f7fc42aad61b78fbdbdc490d0ebb15f04a778581c80",
@@ -81,17 +94,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.629Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.546Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:39.837Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "222299a7d342803dda11b0759440e423cfc6dc97747368649f333869f99a9246",
@@ -102,17 +128,30 @@
     ],
     "type": "是非",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.629Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.552Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:40.183Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "585d813f8883a570cba20bbbc639daf6bcc69edb8119827bbe57e7339c6d925a",
@@ -125,17 +164,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "保存聯繫方式及對話資訊，儘快諮詢性影像處理中心後續如何處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:46:37.630Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.559Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "保存聯繫方式及對話資訊，儘快諮詢性影像處理中心後續如何處理",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:40.645Z"
+    },
+    "resolved_answer": "保存聯繫方式及對話資訊，儘快諮詢性影像處理中心後續如何處理"
   },
   {
     "id": "cd5148a763c6d3620b4bac0ce3efdd0f4a30889c519ba88266811a8c805d4908",
@@ -146,17 +198,30 @@
     ],
     "type": "是非",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:47:37.087Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.565Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:40.961Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3e92ace2ca15718a33e91a6e1d07261c33a362b4c8d1951d9dc0563e554c1e4c",
@@ -167,17 +232,30 @@
     ],
     "type": "是非",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T05:47:37.089Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.571Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:41.222Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "78c2880595d7be94ca0d4bcf0b9c07c7e8add4894f3dcd69aaa0a5e0531fe877",
@@ -188,13 +266,30 @@
     ],
     "type": "是非",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T21:58:02.499Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T00:20:42.418Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:39.233Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "ff44d719346171198b380c8446c90879bbff3ca45636d838c48f4063f75bb0da",
@@ -205,12 +300,26 @@
     ],
     "type": "是非",
     "course": "運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T21:58:02.500Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115.html",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性私密影像遭散布—平台防禦機制與實務處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T00:20:41.540Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
