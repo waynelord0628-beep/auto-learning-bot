@@ -94,7 +94,11 @@
     "candidate_answer": "不接受任何會影響成員安全的風險",
     "source": "ai_unverified",
     "created_at": "2026-10-24T02:53:46.214Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T04:22:17.627Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "507da9a90a4cc5a4a24d3b2978753dd982c4a5eecc9673663fc324ceb79af534",
