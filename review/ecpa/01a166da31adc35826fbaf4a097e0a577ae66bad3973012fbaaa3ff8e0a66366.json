@@ -31,13 +31,30 @@
     ],
     "type": "單選",
     "course": "消防職業安全衛生概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "防止職業災害，保障工作者的安全與健康",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-24T02:53:46.213Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T03:20:38.537Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "防止職業災害，保障工作者的安全與健康",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060001",
+          "quote": "為防止職業災害，保障工作者安全及健康，特制定本法；其他法律有特別規定者，從其規定。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-24T03:20:37.588Z"
+    },
+    "resolved_answer": "防止職業災害，保障工作者的安全與健康"
   },
   {
     "id": "9d6520b638e02962b236c020d7a9377c855962f048cf7fe6083d3022319b6428",
