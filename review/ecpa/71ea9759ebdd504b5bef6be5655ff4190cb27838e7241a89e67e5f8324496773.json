@@ -517,5 +517,22 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.826Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "2351582eedfa0a85cf6fc63c1dfbbb422c9c24c61a70bd24e9bcb5492bda01fe",
+    "question": "「城市主權 AI」政策因為強調主權與在地化，因此在模型訓練時，被要求不可以採用在地的醫療資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "解碼高雄AI醫療",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T11:29:22.565Z",
+    "review_state": "candidate_ready"
   }
 ]
