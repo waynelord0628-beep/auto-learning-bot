@@ -218,5 +218,41 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:59.165Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "f1469441c1d86756c559ea9d744cd8b769acc2d1b11c752fda84e14ec5693d9c",
+    "question": "在課程中提到，如果想要請 Gemini 判讀一張「手寫會議筆記圖片」，並在辨識完成後同時將判讀出的文字內容整理、直接儲存至 Google 生態圈的哪一個記事服務中？",
+    "options": [
+      "Google 日曆",
+      "Google Keep",
+      "Google Tasks",
+      "Google 試算表"
+    ],
+    "type": "單選",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Google Keep",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T13:03:56.102Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5c950a7509e24e78b8a7cccbc4b374bfdc5bb82d7a42a035cb32099360f02fad",
+    "question": "在Gemini的對話視窗中輸入「@」符號，系統會跳出選單，讓使用者直接呼叫並連結Google生態圈內的其他應用程式（如 Keep、Gmail、文件、雲端硬碟、日曆等）。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "Google AI-Gemini應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T13:03:56.106Z",
+    "review_state": "candidate_ready"
   }
 ]
