@@ -319,5 +319,41 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.910Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "8a8ccb1f6e8c4d9b5692a6dc83610683aea2ce6544af00b1ec1d0531f846746f",
+    "question": "在博物館裡「curator」意指，被稱為在博物館工作，對藏品相關領域有學術研究的專業人士。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T18:02:30.016Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "478f0c81235c6709550a7c4b47408231c19bd0e20fca21e2c6f73c2ce2fd3fbb",
+    "question": "媒體採購前需進行編列預算，還包含下列哪些準備作業？",
+    "options": [
+      "思考媒體採購目的",
+      "觀察媒體屬性與評估刊登效益",
+      "提出媒體贊助計畫",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "策展專案規劃與執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T18:02:30.017Z",
+    "review_state": "candidate_ready"
   }
 ]
