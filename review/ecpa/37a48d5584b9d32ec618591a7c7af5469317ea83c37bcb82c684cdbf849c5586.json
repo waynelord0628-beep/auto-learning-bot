@@ -421,5 +421,22 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:58.189Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "11c74ae666d676f74f8f8f0921e2154a2944274683e70c30729d948eb0ac8a57",
+    "question": "實體安全防護包含門禁與監視設備管理，但不包含環境控制與第三方人員管理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工控領域(OT)資安治理成熟度評估機制說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-24T20:22:25.951Z",
+    "review_state": "candidate_ready"
   }
 ]
