@@ -177,7 +177,11 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T23:11:30.773Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T01:21:29.869Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5ffd148d3884e9299fea883ee5ba1b1288e7973b6aa8a27f4dd2f61256e7c956",
