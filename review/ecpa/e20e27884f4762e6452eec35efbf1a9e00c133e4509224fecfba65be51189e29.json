@@ -181,7 +181,9 @@
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-31T01:21:29.869Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "insufficient_sources",
+    "retry_count": 1,
+    "retry_after": "2026-10-25T16:19:38.258Z"
   },
   {
     "id": "5ffd148d3884e9299fea883ee5ba1b1288e7973b6aa8a27f4dd2f61256e7c956",
