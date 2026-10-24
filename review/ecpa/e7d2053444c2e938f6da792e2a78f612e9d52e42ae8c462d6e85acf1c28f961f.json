@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以男性為常態，將女性視為「例外」的語言結構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.923Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.620Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以男性為常態，將女性視為「例外」的語言結構",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:17.953Z"
+    },
+    "resolved_answer": "以男性為常態，將女性視為「例外」的語言結構"
   },
   {
     "id": "8f05ef4aa4534453941a0fa097c366b45c2425baed504d484af9f1564b2cb549",
@@ -33,17 +46,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "預設了「男生天生邏輯比較好」的性別偏見",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.925Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.626Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "預設了「男生天生邏輯比較好」的性別偏見",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:18.203Z"
+    },
+    "resolved_answer": "預設了「男生天生邏輯比較好」的性別偏見"
   },
   {
     "id": "c0be8408a1afd8c62c949ecf09e04d35b637ad9398fc84f6f1bbb7914d88cd3b",
@@ -56,17 +82,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性別平等教育法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.927Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.633Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "性別平等教育法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:18.552Z"
+    },
+    "resolved_answer": "性別平等教育法"
   },
   {
     "id": "c9362e1e0a3fa901036a844e7821c7d80a2b5680993b43895e72b7bc927e88ca",
@@ -79,17 +118,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "規劃廁所的人習以為常的刻板印象所造成的結果",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.927Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.639Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "規劃廁所的人習以為常的刻板印象所造成的結果",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:18.833Z"
+    },
+    "resolved_answer": "規劃廁所的人習以為常的刻板印象所造成的結果"
   },
   {
     "id": "315f97c44bd75d8a7494be76286e998494a26e4100b9032fa2701589fc2c35ce",
@@ -102,17 +154,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性霸凌",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:35:26.930Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.646Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "性霸凌",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:19.079Z"
+    },
+    "resolved_answer": "性霸凌"
   },
   {
     "id": "9b3b46fff6b33293fffe19c860682aac2afc45e2226daf73f0e90cd880252914",
@@ -125,17 +190,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "24小時",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.322Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.653Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "24小時",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:19.313Z"
+    },
+    "resolved_answer": "24小時"
   },
   {
     "id": "f92bd0916a6a44258d354abf1e17b0c7f2ed14c039b35a5ef4fed4efe26cbb88",
@@ -148,17 +226,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "成功的女性仍被期待以家庭角色為主",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.324Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.660Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "成功的女性仍被期待以家庭角色為主",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:19.618Z"
+    },
+    "resolved_answer": "成功的女性仍被期待以家庭角色為主"
   },
   {
     "id": "1572f7aed71810701a8bf09f4e47f9469f6002e9e25a5402d4b62437d066a1d6",
@@ -171,17 +262,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "每個人都有權決定是否被觸碰",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:36:17.325Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.667Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "每個人都有權決定是否被觸碰",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:19.855Z"
+    },
+    "resolved_answer": "每個人都有權決定是否被觸碰"
   },
   {
     "id": "9ddafd7f670361903e089161c664f9be94454fd0f515eac66cd0a7fa14340418",
@@ -194,17 +298,30 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性騷擾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-16T04:37:00.804Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:04.673Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "性騷擾",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:20.253Z"
+    },
+    "resolved_answer": "性騷擾"
   },
   {
     "id": "2eacb7426bbb52374e33b0f3e5520bb222b25a98adfd65318329c3a665b8f1e9",
@@ -217,12 +334,29 @@
     ],
     "type": "單選",
     "course": "運動部115年度專任運動教練線上課程_性平意識與校園實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "告訴師長，請求協助",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-23T20:48:00.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-10-31T01:22:21.213Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "告訴師長，請求協助",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/115_0358763507.html?m=1",
+          "title": "【解答】運動部115年度專任運動教練線上課程_性平意識與校園實務 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-24T01:22:17.723Z"
+    },
+    "resolved_answer": "告訴師長，請求協助"
   }
 ]
