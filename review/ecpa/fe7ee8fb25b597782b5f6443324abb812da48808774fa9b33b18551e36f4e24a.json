@@ -131,7 +131,11 @@
     "candidate_answer": "溢出物處理包",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.854Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T07:20:48.187Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8f8117e4347cc6f6c5320738a66002dca5289ed39897b9333cb6e2583b9d0fc5",
