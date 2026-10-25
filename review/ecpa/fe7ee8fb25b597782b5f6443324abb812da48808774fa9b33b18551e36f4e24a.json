@@ -177,7 +177,11 @@
     "candidate_answer": "硬質容器（如小型冷藏箱、釣魚箱或塑膠箱）",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T10:20:38.456Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "28b1384b4112e142d6ba1b8c527535eb845b58814b1ed2a40424b5a79f98ae98",
