@@ -131,7 +131,11 @@
     "candidate_answer": "初始風險評估顯示，常規的「核心要求」已不足以將暴露或洩漏風險降低至社會與機構可接受程度時",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.805Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T08:21:49.242Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "41b73730d342fd2ee42bc08335be43ecb44e20e4967da08c7d57de2fa46e1c24",
