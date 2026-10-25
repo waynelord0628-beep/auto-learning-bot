@@ -108,7 +108,11 @@
     "candidate_answer": "應立即屏住呼吸，迅速撤離至外部，鎖上實驗室門並至少等待 30 分鐘，讓空氣稀釋與微粒沉降",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.802Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T08:21:36.240Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "36fc3e7afd6d173248d00f16f7bb366bb8fd2ba413fb762197a09fa32fb043b7",
