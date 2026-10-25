@@ -154,7 +154,11 @@
     "candidate_answer": "需兩名被授權的保管人同時到場使用雙密鑰或雙指紋，方可解鎖提取",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.806Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T12:20:09.783Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f9d68152265dfcb13a1095b10d624c56805f1266db6bfc0dc7c1a08368b057b9",
