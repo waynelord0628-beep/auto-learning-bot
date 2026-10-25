@@ -188,7 +188,11 @@
     "candidate_answer": "設計百元定捐邀請與後續溝通",
     "source": "ai_unverified",
     "created_at": "2026-10-24T15:09:03.679Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T06:20:36.978Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2711c48e5b79b8100ec2d95a041ff5099cbcd822539f96dc7be95239a0e20821",
