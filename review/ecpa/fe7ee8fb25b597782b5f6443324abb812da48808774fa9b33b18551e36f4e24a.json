@@ -108,7 +108,11 @@
     "candidate_answer": "以包裹或快捷方式進行郵寄",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.854Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T07:20:34.798Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "777d6ee060518d9eae24245bc4ed2490787396535962173b66a7bcdae072ce6e",
