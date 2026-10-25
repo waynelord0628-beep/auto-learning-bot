@@ -16,7 +16,11 @@
     "candidate_answer": "點選「修改」>點選要修改的投影片>在「變更投影片」欄位中說明要修改的內容",
     "source": "ai_unverified",
     "created_at": "2026-10-25T00:57:46.228Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T01:20:55.924Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "393771068195415215ec8297ee0e759015cb1766c82436b2da78202a0647a2e7",
