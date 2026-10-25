@@ -1,0 +1,174 @@
+[
+  {
+    "id": "7323505aa2496bb9bdc2b30d2f91ef07c702270af548b998c80377e59b2c5b29",
+    "question": "NotebookLM 生成的簡報完成後，可透過以下哪個方式進行修改？",
+    "options": [
+      "語音辨識修改",
+      "點選「修改」>點選要修改的投影片>在「變更投影片」欄位中說明要修改的內容",
+      "請客服人員修改",
+      "無法修改"
+    ],
+    "type": "單選",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "點選「修改」>點選要修改的投影片>在「變更投影片」欄位中說明要修改的內容",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.228Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "393771068195415215ec8297ee0e759015cb1766c82436b2da78202a0647a2e7",
+    "question": "NotebookLM中資料來源的正確性仍需使用者自行判斷與驗證，AI只能幫忙查找資料，無法保證或完全判讀資訊的真偽。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.231Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "014420f40e9143ebfa52085246ec884f75472a1c2050b5210f348bb84594bc49",
+    "question": "NotebookLM上傳網站的資料時，只能讀取該網站的文字資料，網站內的其他資料通常無法被讀取。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.233Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8199333ac0186fc9dd0d40030df528bb02b208adb65f499524b96e4224011c80",
+    "question": "使用NotebookLM或Gemini生成 Google 文件時，資料會儲存於 Google 雲端硬碟中。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.235Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "67ac87623adfff6f2ca82bb598fed54526563d162104fe5c64c32277c381bf10",
+    "question": "在 Napkin 製作圖解時，按下閃電圖示後，先選取想要的圖解，再選擇圖解配色。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.237Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "510243dba7004c5a9e2be451ca83b5a449afc99b7ad8f314a3902d74afd13582",
+    "question": "使用「工作室」中的功能時，建議先透過「報告」將資訊整理成重點，再開始製作內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.239Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c30ac3d43180a59488260044ee70c5af58dcc10f4969a8730b9384cce26eec93",
+    "question": "NotebookLM在開始使用前，建議先把輸出語言改成「中文(繁體)」。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.240Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "923421ac4d86ad2ab651261c9729d02f6890ebb151b0b2bb9a612945b8875c0b",
+    "question": "使用 Gemini 製作吉祥物時，需先設定為「建立圖像」。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.241Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "697aec665bf79398d8018eb839135a6a7e0d5c0c068004429f92c82b3e8b21b5",
+    "question": "NotebookLM無法讀取手寫稿資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.243Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f1b424a059e415ff94726991648b94a1be8c207eac6a2d47bfd55c1b54ee39c8",
+    "question": "在「工作室」中進行內容生成時，系統僅會依據左側提供的來源資料作為參考，並據此產出右側的工作室內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T00:57:46.248Z",
+    "review_state": "candidate_ready"
+  }
+]
