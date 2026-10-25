@@ -16,7 +16,11 @@
     "candidate_answer": "進出前室時必須養成先讀取即時壓差計數值，確認合格後再推門之防護習慣",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.794Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T04:21:29.175Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "80b43d61c07dd199cc8ddcfa541fb68396b3f0aae777e869bebd71d87f40a8f5",
