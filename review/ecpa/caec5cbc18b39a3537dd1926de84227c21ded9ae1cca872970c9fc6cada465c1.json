@@ -39,7 +39,11 @@
     "candidate_answer": "人員於日常就醫時，不論是否與工作相關，皆必須主動向外部看診醫師出示此卡，以防範未被診斷或交叉感染",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.797Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T04:21:40.406Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "64d8a2cb7d882c620889a07f15249a9f698e125674fb4347793398c50b452ae4",
