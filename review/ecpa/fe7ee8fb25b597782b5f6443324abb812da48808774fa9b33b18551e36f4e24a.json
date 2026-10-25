@@ -200,7 +200,11 @@
     "candidate_answer": "環境樣本（例如食物或水）",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T13:20:40.026Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b36dc8069a7573766c7b7125d6c2c4e85d49319c6164916cf13184a954d78972",
