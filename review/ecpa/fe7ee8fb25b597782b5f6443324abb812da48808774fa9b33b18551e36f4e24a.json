@@ -1,0 +1,192 @@
+[
+  {
+    "id": "4a244288ed63dfaf4d294620240324b1f58608776b3d1b904ce03584d8a59769",
+    "question": "關於感染性物質的運輸規定，若空運、海運、陸運等國際協定或多項法規要求不一致時，應遵循何種原則？",
+    "options": [
+      "以最寬鬆的法規為準",
+      "僅遵守國內法規即可",
+      "多項法規並存時，依最嚴格者為準",
+      "由運送機構自行評估決定"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "多項法規並存時，依最嚴格者為準",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.852Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d1f94918022439cf13f74916db76a9f84a372f41d385013aa88ae2dce4e25103",
+    "question": "B類感染性物質（多數未達A類標準的病原體或檢體）運送時，應標示哪一個UN編號？",
+    "options": [
+      "UN2814",
+      "UN2900",
+      "UN3373",
+      "UN3549"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "UN3373",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.854Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9f6a49660caedecc6fdf0298af5ef31dc2244c02501f2aece9c19dbb1c703d9a",
+    "question": "依據感染性物質運輸分類，已知或合理預期會導致受暴露的人類發生嚴重殘疾、危及生命或致命疾病之生物病原（A類感染性物質），其適用的UN編號為何？",
+    "options": [
+      "UN3373",
+      "UN3291",
+      "UN2814",
+      "UN2900"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "UN2814",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.854Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "84b81d61490e8ab63f14dc4480e0be9818eb884841dd53e3c912ed7a7fd7a906",
+    "question": "當使用乾冰作為第三層包裝（外包裝）內的冷卻劑時，必須特別注意下列哪一項特殊包裝要求？",
+    "options": [
+      "第三層包裝必須能釋放二氧化碳氣體，防止爆炸",
+      "第三層包裝必須完全抽真空密封",
+      "乾冰必須直接與主容器接觸以維持低溫",
+      "必須使用金屬材質密封第三層包裝"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第三層包裝必須能釋放二氧化碳氣體，防止爆炸",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.854Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86b4a6d9d83a9ad9dddd4b44795776db47b75fc594f97109e60ff555263f407d",
+    "question": "根據我國陸運B類感染性物質的注意事項，下列哪一種交通方式是「絕對不可」用來運送的？",
+    "options": [
+      "汽車",
+      "重型機車（運送淨重不超過60公斤）",
+      "以包裹或快捷方式進行郵寄",
+      "輕型機車及搭乘大眾交通工具（如公車、捷運、高鐵）"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以包裹或快捷方式進行郵寄",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.854Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "777d6ee060518d9eae24245bc4ed2490787396535962173b66a7bcdae072ce6e",
+    "question": "在實驗室內或同場域建築物間移轉感染性物質時，為因應突發的溢灑意外，運送過程或現場應備妥下列何者？",
+    "options": [
+      "滅火器",
+      "溢出物處理包",
+      "紫外線殺菌燈",
+      "緊急沖淋設備"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "溢出物處理包",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.854Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f8117e4347cc6f6c5320738a66002dca5289ed39897b9333cb6e2583b9d0fc5",
+    "question": "在感染性物質的「三層包裝系統」中，吸收性材料（能吸收全部液體）主要應放置於何處以防範液體洩漏？",
+    "options": [
+      "放置於第三層外包裝之外",
+      "包裹於主容器外側（介於主容器與第二層包裝之間）",
+      "墊於運送手推車底部",
+      "放入主容器內部與檢體混合"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "包裹於主容器外側（介於主容器與第二層包裝之間）",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.855Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b44da5fc1c4848cb2f60075997c57e5dd70f1985aee6e17905f1aeaccba19f38",
+    "question": "於同場域不同建築間移轉感染性物質時，最外層的運送容器建議選擇下列何種材質以提升安全性與易清潔度？",
+    "options": [
+      "加厚紙箱",
+      "玻璃罐",
+      "硬質容器（如小型冷藏箱、釣魚箱或塑膠箱）",
+      "密封紙袋"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "硬質容器（如小型冷藏箱、釣魚箱或塑膠箱）",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.855Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "28b1384b4112e142d6ba1b8c527535eb845b58814b1ed2a40424b5a79f98ae98",
+    "question": "下列何種材料或物質，若不含其他危險品，通常被歸類為「豁免」而不受感染性物質運輸規定的限制？",
+    "options": [
+      "減毒活疫苗",
+      "傳染病病人的檢體",
+      "環境樣本（例如食物或水）",
+      "醫療廢棄物"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "環境樣本（例如食物或水）",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.855Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b36dc8069a7573766c7b7125d6c2c4e85d49319c6164916cf13184a954d78972",
+    "question": "關於實驗室內移轉感染性物質的建議防護措施，下列哪一種容器「不建議」使用？",
+    "options": [
+      "螺旋蓋試管",
+      "卡扣蓋容器",
+      "塑膠製防漏托盤",
+      "可上扣之塑膠收納盒"
+    ],
+    "type": "單選",
+    "course": "115年感染性物質移轉及運送",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "螺旋蓋試管",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T02:12:53.855Z",
+    "review_state": "candidate_ready"
+  }
+]
