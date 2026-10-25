@@ -1,0 +1,182 @@
+[
+  {
+    "id": "5d6c1b7887d2631d4f3712a56028f5696445faa03871f30fbbadd886739a462d",
+    "question": "使用 AI 生圖時，清楚描述角色、動作與背景，有助於生成符合需求的圖片。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.688Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1be464cb5e71f9164289a1097afedb4df75e29a678690509c8e3341318100698",
+    "question": "想讓 AI 畫出一隻貓拿著手機並看著螢幕，下列哪一種描述最清楚？",
+    "options": [
+      "一隻貓在用東西",
+      "一隻貓坐在沙發上，手上拿著手機，眼睛看著手機螢幕",
+      "一隻很可愛的貓",
+      "幫我畫得好看一點"
+    ],
+    "type": "單選",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "一隻貓坐在沙發上，手上拿著手機，眼睛看著手機螢幕",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.689Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2ef6d837f025dbe2fb4986269b0de937e8b5af4499b7f247095dfc873f489e76",
+    "question": "角色圖片生成後，可以先試著更換服裝或場景，確認人物外貌是否仍保持一致。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.690Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "89c2fa3b29cdfad137d0ed2e5b0c9c9ab0c5437db084c2505669a61b3ec75523",
+    "question": "如果想保留圖片中的主角，並移除原本的背景，應使用哪一項功能？",
+    "options": [
+      "高清放大",
+      "更改檔名",
+      "移除背景",
+      "調整生成張數"
+    ],
+    "type": "單選",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "移除背景",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.690Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c7e90898596c0f371a0daa9e427a692ab1e6e87e969c356fb7050e5dbfc87475",
+    "question": "建立供後續參照的角色圖片時，表情越誇張，越有助於保持人物外貌一致。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.691Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "50b1337448f61c62487c469965606c29c2ceddcbc5c63c558648bcb3e707bc67",
+    "question": "想用同一個 AI 角色生成不同場景的圖片，下列哪一項做法較適當？",
+    "options": [
+      "每次都不提供角色資料",
+      "加入原角色圖片作為參照，並要求保持外貌一致",
+      "只要求圖片顏色鮮豔",
+      "每次換一個角色"
+    ],
+    "type": "單選",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "加入原角色圖片作為參照，並要求保持外貌一致",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.691Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ceab32ce8c4f4041e58a5ec879e6538f8e5536fa87444ebe48b3db02239b7345",
+    "question": "描述人物外貌時，只寫「很漂亮」或「很帥」，就足以清楚指定人物長相。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.692Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "44548140a3a971636c2ab3e163c72065684000910864bbd191162be31c40ce08",
+    "question": "看到喜歡的海報，想了解它的視覺特色，可以請 AI 協助哪一件事？",
+    "options": [
+      "只計算檔案大小",
+      "更改電腦桌布",
+      "描述海報的風格、顏色與排版方式",
+      "只查詢今天的日期"
+    ],
+    "type": "單選",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "描述海報的風格、顏色與排版方式",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.692Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "86694e99e4ec25095f571066edb33e004830ef3147ab9f6d610d165b4a8ee364",
+    "question": "如果想讓生成的畫面呈現晴天的感覺，下列哪一項描述最有幫助？",
+    "options": [
+      "請快速生成",
+      "請更改檔名",
+      "請減少張數",
+      "晴朗的藍天與明亮的陽光"
+    ],
+    "type": "單選",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "晴朗的藍天與明亮的陽光",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.693Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6d5f3f1f4d3d0246a669e40c2c61dea98f179a5bd76cd45aa15aa12e124f44bb",
+    "question": "製作同一份簡報的多個小圖示時，應注意風格與配色的一致性。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-25T16:14:16.693Z",
+    "review_state": "candidate_ready"
+  }
+]
