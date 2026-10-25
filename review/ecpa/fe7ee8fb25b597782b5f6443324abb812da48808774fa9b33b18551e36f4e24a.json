@@ -154,7 +154,11 @@
     "candidate_answer": "包裹於主容器外側（介於主容器與第二層包裝之間）",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.855Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T10:20:27.005Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b44da5fc1c4848cb2f60075997c57e5dd70f1985aee6e17905f1aeaccba19f38",
