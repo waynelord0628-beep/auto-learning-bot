@@ -177,7 +177,11 @@
     "candidate_answer": "所有開瓶、移液、震盪、超音波破碎等作業，均須於生物安全櫃內完成",
     "source": "ai_unverified",
     "created_at": "2026-10-25T01:35:08.807Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T12:20:21.022Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "66d88502029030424d79329071b5c4d1627f2c16b673c254c59bf6714aab1bd1",
