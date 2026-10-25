@@ -165,7 +165,11 @@
     "candidate_answer": "我的捐款去了哪裡?有沒有真的幫助到人?",
     "source": "ai_unverified",
     "created_at": "2026-10-24T15:09:03.679Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T06:20:19.842Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5381d151842ce0448c6586ecc51162760926ae4bb7ee74b4b57a96c9ee141117",
