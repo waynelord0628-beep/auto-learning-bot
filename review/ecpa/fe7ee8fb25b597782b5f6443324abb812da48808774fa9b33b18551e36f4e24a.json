@@ -85,7 +85,11 @@
     "candidate_answer": "第三層包裝必須能釋放二氧化碳氣體，防止爆炸",
     "source": "ai_unverified",
     "created_at": "2026-10-25T02:12:53.854Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-01T07:20:19.331Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "86b4a6d9d83a9ad9dddd4b44795776db47b75fc594f97109e60ff555263f407d",
