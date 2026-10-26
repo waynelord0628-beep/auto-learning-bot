@@ -37,7 +37,11 @@
     "candidate_answer": "一隻貓坐在沙發上，手上拿著手機，眼睛看著手機螢幕",
     "source": "ai_unverified",
     "created_at": "2026-10-25T16:14:16.689Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-02T00:20:56.113Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2ef6d837f025dbe2fb4986269b0de937e8b5af4499b7f247095dfc873f489e76",
