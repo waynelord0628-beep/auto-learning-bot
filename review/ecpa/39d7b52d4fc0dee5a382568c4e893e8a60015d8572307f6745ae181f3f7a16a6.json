@@ -192,7 +192,11 @@
     "candidate_answer": "晴朗的藍天與明亮的陽光",
     "source": "ai_unverified",
     "created_at": "2026-10-25T16:14:16.693Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-02T03:22:20.337Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6d5f3f1f4d3d0246a669e40c2c61dea98f179a5bd76cd45aa15aa12e124f44bb",
