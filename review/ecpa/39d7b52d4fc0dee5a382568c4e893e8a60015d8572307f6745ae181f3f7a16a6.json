@@ -236,6 +236,10 @@
     "candidate_answer": "擴展圖片",
     "source": "ai_unverified",
     "created_at": "2026-10-25T16:14:57.475Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-02T05:21:54.776Z",
+    "verification_status": "insufficient_sources"
   }
 ]
