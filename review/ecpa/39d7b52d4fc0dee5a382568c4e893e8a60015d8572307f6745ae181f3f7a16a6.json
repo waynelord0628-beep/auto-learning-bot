@@ -125,7 +125,11 @@
     "candidate_answer": "加入原角色圖片作為參照，並要求保持外貌一致",
     "source": "ai_unverified",
     "created_at": "2026-10-25T16:14:16.691Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-02T01:22:29.447Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ceab32ce8c4f4041e58a5ec879e6538f8e5536fa87444ebe48b3db02239b7345",
