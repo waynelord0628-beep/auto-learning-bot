@@ -73,7 +73,11 @@
     "candidate_answer": "只要知道自己要追求的技能，可以透過科技自由搭配",
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-03T01:20:46.162Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "2d53de2a4125ab825d724a8e989e556d2375cf8e0066955369d6720c334b3735",
