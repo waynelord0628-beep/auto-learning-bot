@@ -15,7 +15,11 @@
     "candidate_answer": "短期增加、長期減少",
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-03T01:20:22.730Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fcc7ad15ff41344b5d61e329e422f1d92ad01fdfdb8c12aff7e2c5d3610033e6",
@@ -27,13 +31,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "善良者要奮力發展人工智慧，才能在未來良幣逐劣幣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "善良者要奮力發展人工智慧，才能在未來良幣逐劣幣",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:17.861Z"
+    },
+    "resolved_answer": "善良者要奮力發展人工智慧，才能在未來良幣逐劣幣",
+    "verification_status": "source_supported"
   },
   {
     "id": "e0eba32703fc4f45333984a7e597be52d67a1e86298708174047b475f8469e05",
@@ -63,13 +85,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "雖然會取代掉部分工作，但是整體工作的數量是增加的",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "雖然會取代掉部分工作，但是整體工作的數量是增加的",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:18.737Z"
+    },
+    "resolved_answer": "雖然會取代掉部分工作，但是整體工作的數量是增加的",
+    "verification_status": "source_supported"
   },
   {
     "id": "f6201ba10acc14e5990038a9cae8c01e6eaa4326d3fbce4d15b759f0ecb0cc9a",
@@ -81,13 +121,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "是國力與科技進展乘載的關鍵語言",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "是國力與科技進展乘載的關鍵語言",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:19.241Z"
+    },
+    "resolved_answer": "是國力與科技進展乘載的關鍵語言",
+    "verification_status": "source_supported"
   },
   {
     "id": "3aac558c9d753b5a4228a5b98c1b59f95d39c81f72c1d72cb004fa0824b9dd4f",
@@ -99,13 +157,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全球政治經濟區塊整合",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "全球政治經濟區塊整合",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:19.950Z"
+    },
+    "resolved_answer": "全球政治經濟區塊整合",
+    "verification_status": "source_supported"
   },
   {
     "id": "8eaaf0ea5f62c8d135fa7f28a6a28b931f73fb8df5ff2ae7944cac97dd21c38b",
@@ -117,13 +193,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可以多輸出幾次，選擇自己喜歡的版本",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.775Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "可以多輸出幾次，選擇自己喜歡的版本",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:20.326Z"
+    },
+    "resolved_answer": "可以多輸出幾次，選擇自己喜歡的版本",
+    "verification_status": "source_supported"
   },
   {
     "id": "fe07c3b4681929fc7ba10fd71f842738c648fac9c086dac73ac4ba66b2705abb",
@@ -135,13 +229,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "誰的大腦有更多的結構與思考方案",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.775Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "誰的大腦有更多的結構與思考方案",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:20.920Z"
+    },
+    "resolved_answer": "誰的大腦有更多的結構與思考方案",
+    "verification_status": "source_supported"
   },
   {
     "id": "633f6546f33f6aab1767661fe0868da2ccfb729515bfcd9dc8622d80fd10155e",
@@ -153,13 +265,31 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "口說與寫作",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.776Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "口說與寫作",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:21.443Z"
+    },
+    "resolved_answer": "口說與寫作",
+    "verification_status": "source_supported"
   },
   {
     "id": "001e21872d9f6a4e808760bcaaeca388fdd66276ede92113e057d37dc8bb5795",
@@ -171,12 +301,30 @@
     ],
     "type": "單選",
     "course": "AIGC時代的英語學習力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "每個領域都會受到影響，所以要追求水準以上的表現",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T17:55:01.776Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "每個領域都會受到影響，所以要追求水準以上的表現",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347195077",
+          "title": "AIGC時代的英語學習力《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/05/aigcee.html",
+          "title": "「AIGC時代的英語學習力」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T01:20:21.797Z"
+    },
+    "resolved_answer": "每個領域都會受到影響，所以要追求水準以上的表現",
+    "verification_status": "source_supported"
   }
 ]
