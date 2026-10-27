@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "take",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.693Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-03T02:20:04.399Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "take",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:00.575Z"
+    },
+    "resolved_answer": "take"
   },
   {
     "id": "476f6f41728c1aac916323b460249ea9f3a7a1558fa55a0d8d159c38b54a9f8d",
@@ -27,13 +44,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.694Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:00.903Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "30fbc18abb15f4d653a7a5a6fd8b9b6098f3fa81f8850b1de6ec9e7a9c90d3b4",
@@ -44,13 +75,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.695Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:01.349Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "595f939b699e76efc6fec40935ddccac46662dde4705ef9da866d3b3a39ea7f2",
@@ -63,13 +108,27 @@
     ],
     "type": "單選",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.696Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:01.731Z"
+    },
+    "resolved_answer": "to",
+    "verification_status": "source_supported"
   },
   {
     "id": "e5cfa3bcb369091048167c58063bc24ae9ca3b944d2f63c53f2910aec527737b",
@@ -80,13 +139,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:02.019Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "94278dfee80660e315c923ba4fd228d8f0c64a598e465e0c55b4f13459466379",
@@ -97,13 +170,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.700Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:02.398Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "80df83d2844a6a772efa65d68cd7252ec0819580ce1e4c8873c514b2cfe07532",
@@ -114,13 +201,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.701Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:02.838Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "8d778b8a99a0839767b2115f310e42ccc723245eb63dddcd715e5d757d39b910",
@@ -131,13 +232,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.702Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:03.101Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4e61bd95e18eb782c9e03c310a8a75620201dcfac70908ff3872d38bc29aed49",
@@ -148,13 +263,27 @@
     ],
     "type": "是非",
     "course": "辦公室英語標語、指示及公告製作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:10:05.703Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_705.html",
+          "title": "「辦公室英語標語、指示及公告製作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T02:20:03.431Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1b0e77b4c1a5284bdf906276a404e4b71994626b84a265134add4dba3970bd35",
