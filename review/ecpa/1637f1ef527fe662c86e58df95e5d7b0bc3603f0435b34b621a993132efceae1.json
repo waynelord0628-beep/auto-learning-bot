@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "公務書信基礎英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "on",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T19:03:22.549Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-03T03:20:55.155Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "on",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:47.156Z"
+    },
+    "resolved_answer": "on"
   },
   {
     "id": "3baf28de3634662f6c4132a88bd8f8e2099393cb4832c5aa616f4882bec124c4",
@@ -48,13 +65,27 @@
     ],
     "type": "單選",
     "course": "公務書信基礎英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T19:03:22.550Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:49.135Z"
+    },
+    "resolved_answer": "to",
+    "verification_status": "source_supported"
   },
   {
     "id": "8b8104e88244f82636f1add7d8fe603532514b4dfb3f308986c683a8e6fc1ff9",
@@ -67,13 +98,27 @@
     ],
     "type": "單選",
     "course": "公務書信基礎英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "to",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T19:03:22.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:51.296Z"
+    },
+    "resolved_answer": "to",
+    "verification_status": "source_supported"
   },
   {
     "id": "e64a2788e2e14e882cb969c6977da708bdf1ce3e9c435c91ebd58b7821df3929",
@@ -84,12 +129,26 @@
     ],
     "type": "是非",
     "course": "公務書信基礎英語",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T19:03:22.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:52.735Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]

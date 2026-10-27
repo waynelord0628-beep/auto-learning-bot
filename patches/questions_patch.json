@@ -121467,5 +121467,103 @@
       "model": null,
       "checked_at": "2026-10-27T02:20:03.431Z"
     }
+  },
+  {
+    "question": "Please click ____ the button below to register.",
+    "type": "單選",
+    "options": [
+      "in",
+      "on",
+      "down",
+      "up"
+    ],
+    "course": "公務書信基礎英語",
+    "answer": "on",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "on",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:47.156Z"
+    }
+  },
+  {
+    "question": "It is our pleasure ____ invite you to IFLA World Congress Singapore 2018.",
+    "type": "單選",
+    "options": [
+      "to",
+      "about",
+      "for",
+      "on"
+    ],
+    "course": "公務書信基礎英語",
+    "answer": "to",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:49.135Z"
+    }
+  },
+  {
+    "question": "We also appreciate your willingness ____ speak with students before and after your talks.",
+    "type": "單選",
+    "options": [
+      "for",
+      "to",
+      "about",
+      "at"
+    ],
+    "course": "公務書信基礎英語",
+    "answer": "to",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "to",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:51.296Z"
+    }
+  },
+  {
+    "question": "\"Dear all, \"為正式的問候語用法。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公務書信基礎英語",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_80.html",
+          "title": "「公務書信基礎英語」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T03:20:52.735Z"
+    }
   }
 ]
