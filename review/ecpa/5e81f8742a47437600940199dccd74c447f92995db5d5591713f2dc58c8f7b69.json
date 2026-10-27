@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "兒童及少年福利與權益保障法修法新知及重點介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "27條",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-21T11:22:42.567Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:07.905Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-03T12:20:04.541Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "49條",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050001",
+          "quote": "十、供應兒童及少年刀械、槍砲、彈藥或其他危險物品。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-27T12:20:03.425Z"
+    },
+    "resolved_answer": "49條"
   },
   {
     "id": "2d421fc771a605911e82005f6ac2ea8a8fe94156283457a18ecd7502d82f32b9",

@@ -121565,5 +121565,30 @@
       "model": null,
       "checked_at": "2026-10-27T03:20:52.735Z"
     }
+  },
+  {
+    "question": "供應兒童及少年刀械、槍砲、彈藥或其他危險物品違反兒童及少年福利與權益保障法中哪一條？",
+    "type": "單選",
+    "options": [
+      "13條",
+      "27條",
+      "65條",
+      "49條"
+    ],
+    "course": "兒童及少年福利與權益保障法修法新知及重點介紹",
+    "answer": "49條",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "49條",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050001",
+          "quote": "十、供應兒童及少年刀械、槍砲、彈藥或其他危險物品。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-27T12:20:03.425Z"
+    }
   }
 ]
