@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "職場專業英文(初階)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Hosting Meetings",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T16:46:38.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-03T00:20:26.563Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "Hosting Meetings",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0253764568.html",
+          "title": "「職場專業英文(初階)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T00:20:23.755Z"
+    },
+    "resolved_answer": "Hosting Meetings"
   },
   {
     "id": "e740fb88b04a206def5f3b6b0e642576f3453300d0103288d4f75a623b5e34ca",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "職場專業英文(初階)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "self-Introduction",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T16:46:38.271Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "introducing your department/division",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0253764568.html",
+          "title": "「職場專業英文(初階)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T00:20:24.196Z"
+    },
+    "resolved_answer": "introducing your department/division",
+    "verification_status": "source_supported"
   },
   {
     "id": "81eed85e3785b78bd0661c809460ee08b1a13ca8ab9321515068205b76200fa7",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "職場專業英文(初階)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Understanding the Problem/Situation",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T16:46:38.272Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "Understanding the Problem/Situation",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0253764568.html",
+          "title": "「職場專業英文(初階)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T00:20:24.470Z"
+    },
+    "resolved_answer": "Understanding the Problem/Situation",
+    "verification_status": "source_supported"
   },
   {
     "id": "fb08c21be020b7f054c9d135c11d205816bbabccde8ebe307fbd420426793f14",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "職場專業英文(初階)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "That is all for today. Thank you.",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T16:46:38.277Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "That is all for today. Thank you.",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0253764568.html",
+          "title": "「職場專業英文(初階)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T00:20:24.793Z"
+    },
+    "resolved_answer": "That is all for today. Thank you.",
+    "verification_status": "source_supported"
   },
   {
     "id": "f370c1111fdc898e241c70e2e90e9e68c2199d6591094e8fa92aafacc078e1e1",
@@ -86,12 +145,26 @@
     ],
     "type": "單選",
     "course": "職場專業英文(初階)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "length of time",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T16:46:38.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "length of time",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ee_0253764568.html",
+          "title": "「職場專業英文(初階)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-27T00:20:25.382Z"
+    },
+    "resolved_answer": "length of time",
+    "verification_status": "source_supported"
   }
 ]
