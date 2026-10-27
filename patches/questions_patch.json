@@ -121590,5 +121590,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-27T12:20:03.425Z"
     }
+  },
+  {
+    "question": "當我們與對方溝通時，價值觀念越不同，越能影響對方。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "溝通對話禮儀",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10043025",
+          "quote": "當我們與對方價值與認同感越接近，與對方影響力就越強烈，這就是溝通意義。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-27T14:20:53.887Z"
+    }
   }
 ]
