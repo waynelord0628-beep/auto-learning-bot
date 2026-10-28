@@ -56,17 +56,30 @@
     ],
     "type": "單選",
     "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "24小時內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-23T02:59:04.637Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.806Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-04T02:20:47.941Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "24小時內",
+      "sources": [
+        {
+          "url": "https://www.hcshb.gov.tw/News_Content.aspx?n=52&s=84578",
+          "quote": "第13條為本法第十一條第一項所定人員應自知悉有自殺行為情事後二十四小時內，依中央主管機關建置之自殺防治通報系統進行通報作業。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-28T02:20:46.926Z"
+    },
+    "resolved_answer": "24小時內"
   },
   {
     "id": "aaabf8cf9e5fccf582d91ecca06cfcd3d4fc6d912991d229d918d0a7b3f966b8",

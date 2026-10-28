@@ -121613,5 +121613,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-27T14:20:53.887Z"
     }
+  },
+  {
+    "question": "依據自殺防治法施行細則第13條規定，相關業務人員知悉有自殺行為情事後，應於多少時間內進行通報作業？",
+    "type": "單選",
+    "options": [
+      "6小時內",
+      "12小時內",
+      "24小時內",
+      "48小時內"
+    ],
+    "course": "自殺高風險個案篩檢及困難個案處遇追蹤",
+    "answer": "24小時內",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "24小時內",
+      "sources": [
+        {
+          "url": "https://www.hcshb.gov.tw/News_Content.aspx?n=52&s=84578",
+          "quote": "第13條為本法第十一條第一項所定人員應自知悉有自殺行為情事後二十四小時內，依中央主管機關建置之自殺防治通報系統進行通報作業。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-28T02:20:46.926Z"
+    }
   }
 ]
