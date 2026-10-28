@@ -55,5 +55,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:43:06.104Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "6788dc8f71f2cf75234c5b643533394b0917f24039077d9ac03801d14828dc58",
+    "question": "直接歧視的定義為？",
+    "options": [
+      "基於性別差異給予明顯不平等待遇",
+      "表面中立但實際對女性不利",
+      "只針對男性的差別待遇",
+      "無關性別而為待遇差異"
+    ],
+    "type": "單選",
+    "course": "消除對婦女一切形式歧視公約與我國婦女福利政策",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "基於性別差異給予明顯不平等待遇",
+    "source": "ai_unverified",
+    "created_at": "2026-10-28T19:43:40.784Z",
+    "review_state": "candidate_ready"
   }
 ]
