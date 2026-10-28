@@ -3276,7 +3276,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.981Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3287,7 +3289,9 @@
     "opt1": "2. 杜甫。",
     "opt2": "3. 王維。",
     "opt3": "4. 孟浩然。",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3298,7 +3302,9 @@
     "opt1": "2. 堅果＋假種皮。",
     "opt2": "3. 堅果＋殼斗。",
     "opt3": "4. 核果＋花托。",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3309,7 +3315,9 @@
     "opt1": "2. 浸水營石櫟。",
     "opt2": "3. 加拉段石櫟。",
     "opt3": "4. 赤皮。",
-    "updated_at": "2026-09-06T00:13:26.433Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3320,7 +3328,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3331,7 +3341,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5474,
@@ -3342,7 +3354,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-09-06T00:13:26.434Z"
+    "updated_at": "2026-10-28T16:38:31.982Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -10144,5 +10158,44 @@
     "opt2": "",
     "opt3": "",
     "updated_at": "2026-10-21T10:34:27.278Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5474,
+    "q_key": "下列哪些島嶼曾經有殼斗科植物的分佈呢？",
+    "q_text": "下列哪些島嶼曾經有殼斗科植物的分佈呢？",
+    "val": "[\"0\",\"2\"]",
+    "opt0": "1. 澎湖",
+    "opt1": "2. 夏威夷",
+    "opt2": "3. 台灣",
+    "opt3": "4. 蘭嶼",
+    "updated_at": "2026-10-28T16:38:31.982Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5474,
+    "q_key": "請問下列哪些與殼斗科植物有關呢?",
+    "q_text": "請問下列哪些與殼斗科植物有關呢?",
+    "val": "[\"0\",\"1\",\"2\",\"3\"]",
+    "opt0": "1. 紅酒。",
+    "opt1": "2. 松露。",
+    "opt2": "3. 伊比利火腿。",
+    "opt3": "4. 軟木塞。",
+    "updated_at": "2026-10-28T16:38:31.982Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5474,
+    "q_key": "請問下列哪些屬於落葉性的殼斗科植物呢?",
+    "q_text": "請問下列哪些屬於落葉性的殼斗科植物呢?",
+    "val": "[\"0\",\"2\",\"3\"]",
+    "opt0": "1. 栓皮櫟。",
+    "opt1": "2. 青剛櫟。",
+    "opt2": "3. 台灣山毛櫸。",
+    "opt3": "4. 槲樹。",
+    "updated_at": "2026-10-28T16:38:31.982Z"
   }
 ]
