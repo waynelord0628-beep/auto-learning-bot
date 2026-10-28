@@ -83,5 +83,73 @@
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.410Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2a26c144341a454d202d48422ab56d99c4d2e226bab7c3550f3f7481f525b679",
+    "question": "根據中央研究院《臺灣社會變遷基本調查》，LGBTQ族群約占臺灣總人口的5%。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別主流化及性騷擾之防治與處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-28T19:06:44.256Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1b472f1f00ca8419f33c3a83af794f100b1d04921cd88e654566dd32d4b22f69",
+    "question": "在訪談過程中，一個合理的被害人Reasonable Victim--沒有精神情緒認知理解判斷的障礙（例如沒有被害妄想、關係妄想、情緒過度敏感、知能不足或言語反覆交代不清的情形）、不良的生活習慣或者是不當的動機，其陳述通常具有高度可信性。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別主流化及性騷擾之防治與處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-28T19:06:44.259Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f3029b0138f2194bc86f9fbea635067e63d75b068109c0b19e58feae60e716cc",
+    "question": "司法院釋字第748號解釋施行法係規範同性婚姻的專法。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別主流化及性騷擾之防治與處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-28T19:06:44.260Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "171b23a447d69c60b65d2f78d17186ffd15c36a523ef5eba6d59b3a2a5e10b57",
+    "question": "性騷擾與性別歧視常具有密切關聯。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別主流化及性騷擾之防治與處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-28T19:06:44.261Z",
+    "review_state": "candidate_ready"
   }
 ]
