@@ -121638,5 +121638,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-28T02:20:46.926Z"
     }
+  },
+  {
+    "question": "公司製造油麵，身為老闆的阿瑋想在油麵產品中添加過氧化氫(殺菌劑)，請問該食品添加物是否可以添加在油麵中。(請參考下表判定）",
+    "type": "單選",
+    "options": [
+      "可以添加在油麵中",
+      "不可以添加在油麵中",
+      "可以添加在油麵中，但不可以殘留",
+      "可以添加在油麵中，但可以殘留"
+    ],
+    "course": "113年完善食品製造業產品衛生安全管理計畫 第一堂",
+    "answer": "不可以添加在油麵中",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "不可以添加在油麵中",
+      "sources": [
+        {
+          "url": "https://www.fda.gov.tw/TC/siteContent.aspx?sid=1959",
+          "quote": "我國規定過氧化氫可使用於食品（麵粉及其製品除外）作為殺菌用，但在最終產品中不得殘留"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-28T09:20:15.194Z"
+    }
   }
 ]
