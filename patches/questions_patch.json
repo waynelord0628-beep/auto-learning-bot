@@ -121663,5 +121663,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-28T09:20:15.194Z"
     }
+  },
+  {
+    "question": "依ICERD，各國應禁止哪一種行為？",
+    "type": "單選",
+    "options": [
+      "文化交流",
+      "語言學習",
+      "種族仇恨宣傳",
+      "國際合作"
+    ],
+    "course": "消除一切形式種族歧視國際公約（ICERD）案例研析培訓工作坊",
+    "answer": "種族仇恨宣傳",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "種族仇恨宣傳",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Y0000059",
+          "quote": "應宣告凡傳播以種族優越或仇恨為根據之思想；煽動種族歧視"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-28T15:22:29.025Z"
+    }
   }
 ]
