@@ -304,5 +304,23 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.384Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e89aac86d4349a46a97b2f8f8c6a08db1129d92d3fa41ea0dc4f1a8c09bb3d6a",
+    "question": "深海生態系統依靠什麼能量維持生命?",
+    "options": [
+      "1.陽光和光合生物",
+      "2 化學能和化合生物",
+      "3.海底火山熱能"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:49:19.134Z",
+    "review_state": "awaiting_candidate"
   }
 ]
