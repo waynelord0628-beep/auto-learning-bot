@@ -121888,5 +121888,28 @@
       "model": null,
       "checked_at": "2026-10-29T10:19:55.326Z"
     }
+  },
+  {
+    "question": "《兒童權利公約》(Convention on the Rights of the Child，簡稱CRC)在2014年國內法化，公約中所提兒童係指未滿12歲之人，是否正確？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兩公約兒童權利課程：人權搜查客Ⅱ",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://nhrc.cy.gov.tw/cp.aspx?n=8684",
+          "quote": "為將《兒童權利公約》國內法化，與國際接軌，強化我國兒少權益保障，2014年6月4日總統公布「兒童權利公約施行法」，並自2014年11月20日起施行。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-29T11:20:15.216Z"
+    }
   }
 ]
