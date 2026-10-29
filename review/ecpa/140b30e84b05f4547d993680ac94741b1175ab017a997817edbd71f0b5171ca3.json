@@ -176,5 +176,133 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.846Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b6a00954f8f2db77f7c346e66677e510d73b2458298ff02bc429c2b56fdde3e7",
+    "question": "聯合國海洋十年挑戰十本白皮書中，有關海洋素養推動屬於第幾項挑戰白皮書?",
+    "options": [
+      "挑戰1-理解並戰勝海洋污染",
+      "挑戰2-保護和恢復生態系統和生物多樣性",
+      "挑戰6-提高社區對海洋災害的抵禦能力",
+      "挑戰10-改變人類與海洋的關係"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "挑戰10-改變人類與海洋的關係",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.375Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7e5faf648871b2f2b9ccf2c5e4604bc68e12eaf0a7d3ca0ce7aca95984358b6c",
+    "question": "「海洋同理心十年」受到「永續發展海洋科學十年」的啟發，將人類元素如同理心、溝通和創造性問題解決引入海洋科學和保育領域，以促進對海洋的聯繫和管理。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.378Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4ba8b310dbf52c3eac395ad29d988b88f3666442d7f1d28b677306ad71049659",
+    "question": "聯合國教科文組織(2021)針對海洋素養的定義為何?",
+    "options": [
+      "了解海洋對你的影響以及你對海洋的影響",
+      "了解海洋科學知識與海洋生態環境",
+      "了解海洋科學概念，創造海洋永續環境"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "了解海洋對你的影響以及你對海洋的影響",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.379Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8a698a7396603ab5ad88f0120f6413d9082edcc6080c21f0dfe126a238e009ea",
+    "question": "海洋素養改變理論模式包括那些概念(複選題)",
+    "options": [
+      "知識與意識",
+      "自然連結",
+      "價值與態度",
+      "職能"
+    ],
+    "type": "多選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.381Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d9d0c5ebc353103955bec5b2a5b6a2bbf52a0192e669eb9fa35221e0b3176148",
+    "question": "以傳統生態知識(TEK)為主軸的海洋教育者社群是哪一個協會?",
+    "options": [
+      "美國國家海洋教育者協會(NMEA)",
+      "國際太平洋海洋教育者聯盟(IPMEN)",
+      "歐洲海洋科學教育者協會(EMSEA)",
+      "亞洲海洋教育者協會(AMEA)"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "美國國家海洋教育者協會(NMEA)",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.382Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "02513465bb9e19542f2f70d0f214b6026792d94f3b3232507da08bf143feea56",
+    "question": "海洋主導地球的碳循環，吸收大氣中約一半的二氧化碳，並產生一半以上的初級生產力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.383Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9cb6b894943b59932856162203ae8fdf1d6df44d96cdc8623640e6de336d857a",
+    "question": "目前海洋大約還有多少比例還未被人類探索?",
+    "options": [
+      "1.15%",
+      "2.45%",
+      "3.75%",
+      "4.95%"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4.95%",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T20:48:49.384Z",
+    "review_state": "candidate_ready"
   }
 ]
