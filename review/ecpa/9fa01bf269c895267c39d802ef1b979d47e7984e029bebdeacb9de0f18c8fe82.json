@@ -52,7 +52,11 @@
     "candidate_answer": "designing",
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.715Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-05T10:20:48.039Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "22dfd160559a0775f9df64f9b77e19bfc9b8fbc705b9252c9d0f023014f4c664",
