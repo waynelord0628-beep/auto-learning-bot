@@ -155,5 +155,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.881Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c225abc0f6d3e8ff64102f2b42fe91776643476ec3db89f9d3de962e33bce986",
+    "question": "主管因不滿部屬公文製作錯誤，將公文卷宗「用力摔在桌上」，此行為不屬於「逾越職務上正當合理範圍」之行為。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T11:35:42.799Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d7382424c5242711900ab16dad2379e01024f83e395f3ffb0c345f15708a6f9",
+    "question": "服務機關若依規定免設防護委員會，公務人員遭受職場霸凌時，得逕向上級機關提出申訴。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T11:35:42.800Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e66ca757ae4479a064e9bc8dc5437a2c5317acfeb30e8655a8e56256929bfb16",
+    "question": "職場霸凌調查報告完成後，防護委員會應至遲於調查報告完成日起多久時間內，為申訴成立與否之決定？",
+    "options": [
+      "七日內",
+      "十日內",
+      "一個月內",
+      "二個月內"
+    ],
+    "type": "單選",
+    "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "十日內",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T11:35:42.801Z",
+    "review_state": "candidate_ready"
   }
 ]
