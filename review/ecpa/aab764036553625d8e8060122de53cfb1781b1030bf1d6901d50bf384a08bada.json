@@ -188,5 +188,100 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.265Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "3aa231437baf2a9080fa7a600ee789682f44f0a72a2837471fabc96d4b2cb956",
+    "question": "什麼是失智友善職場？",
+    "options": [
+      "即使失智者沒提出求助訊息，也先幫失智者做各項決策",
+      "資遣失智者，讓他在家休息養病，希望他早日康復",
+      "公司為創造良好工作氣氛及簡潔環境, 降低光源、不設立動線指標",
+      "員工對於失智症有一定認知，並友善對待失智者"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "員工對於失智症有一定認知，並友善對待失智者",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:37:19.344Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6befaf3708c64540ff54a58da6daf89e07891c71f3303bf2ff6fbde350b6667b",
+    "question": "下列何者非預防失智者走失方法?",
+    "options": [
+      "申請愛的手鍊，佩戴在失智者身上",
+      "盡量限制失智者的行動，避免外出風險",
+      "使用個人衛星定位器等輔具",
+      "進行指紋捺印建檔"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "盡量限制失智者的行動，避免外出風險",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:37:19.345Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a5d24119bcc3140f06b5682f590471a4357525919775b21ee3f587c8a36b535a",
+    "question": "有關失智者就業服務資源的描述，何者錯誤？",
+    "options": [
+      "年齡超過45歲，即可至就業服務站申請就業服務",
+      "失智症確診者應取得身心障礙證明，才可申請職務再設計服務",
+      "失智者可選擇參加社會福利單位辦理的職場體驗服務，保持人際互動",
+      "完成職業輔導評量後，工作輔導人員將協助媒合工作甚至陪同面試"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "年齡超過45歲，即可至就業服務站申請就業服務",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:37:19.345Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad963c5a0ca8899720896362bee27703a8ec751831b079111a510aa80e939274",
+    "question": "我們可以透過以下哪個量表進行失智症「快速」篩檢？",
+    "options": [
+      "臨床失智症量表（CDR）",
+      "AD-8極早期失智症篩檢量表",
+      "憂鬱症量表",
+      "日常生活活動量表（ADL）"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "AD-8極早期失智症篩檢量表",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:37:19.346Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7bdf175211589b7d1e68e54de9b3707c8736a7a30c61da2deb8c88ce69ef49b8",
+    "question": "以下哪個年齡的人一定不會罹患失智症？",
+    "options": [
+      "30歲",
+      "45歲",
+      "60歲",
+      "以上皆有機會罹患"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆有機會罹患",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:37:19.346Z",
+    "review_state": "candidate_ready"
   }
 ]
