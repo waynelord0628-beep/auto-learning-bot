@@ -353,5 +353,96 @@
       "checked_at": "2026-09-18T02:42:31.874Z"
     },
     "verification_status": "source_supported"
+  },
+  {
+    "id": "6b3c260b4866ce154438c8b8d679d98c236701e61723d819e7ac416f26729800",
+    "question": "2人分別檢舉而查獲同一違法案件者，獎金由最先提供具體事證之檢舉者具領，無法分別先後者，平均發給。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀4-不可不知的動物保護法規範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:35:24.446Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "915fd9679db396243837615dce6d915a8ae56f7c0c59e79f02b0e18d9aee19fa",
+    "question": "依據《動物保護法》規定，須經直轄市、縣（市）主管機關許可，並依法領得營業證照之業者，才可以經營特定寵物的繁殖、買賣或寄養。而此張許可期間，以幾年為限。",
+    "options": [
+      "1年",
+      "2年",
+      "3年",
+      "5年"
+    ],
+    "type": "單選",
+    "course": "動物保護面面觀4-不可不知的動物保護法規範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3年",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:35:24.447Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1da5669479c534123a215c0747ed544573170981e1a3d080cd735d5617b8e8b2",
+    "question": "因檢舉而查獲案件者，主管機關得按查獲案件之裁罰金額的50%，核發獎金給予檢舉人",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀4-不可不知的動物保護法規範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:35:24.448Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b8aaec7e2695e1fb347bfb63fd266d8d4693ff9aafdd17c7a16dca0db4d4c17a",
+    "question": "請問下列關於動物保護之敘述，何者正確？",
+    "options": [
+      "寵物無故侵害他人生命財產，飼主須負罰責",
+      "飼主不可以汽、機車牽引寵物",
+      "任何人不得宰殺犬、貓",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "動物保護面面觀4-不可不知的動物保護法規範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:35:24.448Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "add3b89e4a4c0f4894bf81da389bef34a01fbdab1406e16f5b231b2463ce64be",
+    "question": "請問下列關於飼主責任的敘述，何者正確？",
+    "options": [
+      "提供法定動物傳染病之必要防治",
+      "以籠子飼養寵物者，其籠內空間應足供寵物充分伸展，並應提供充分之籠外活動時間",
+      "為良好訓練及管理寵物，應由獸醫師為寵物執行去爪手術",
+      "不得以汽、機車牽引寵物"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀4-不可不知的動物保護法規範",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T02:35:24.449Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
