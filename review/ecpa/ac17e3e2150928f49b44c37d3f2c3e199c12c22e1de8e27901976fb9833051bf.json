@@ -180,5 +180,58 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.983Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5233869d239de9f0d2efa1b0a7fce9492de1b253d37060f32095fb7ed522d259",
+    "question": "不可使用公務郵件信箱註冊外部網站或參與非公務網路論壇。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "115年資訊安全教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T18:40:37.570Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "536e3ce961fd8f0dd2c3154a9326e8a250a3cfc6d516bfdbaac2db51a9692685",
+    "question": "手機或社交媒體收到任何通知或公告時，為了趕快轉發讓親朋好友知道，可不必確認內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "115年資訊安全教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T18:40:37.573Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "50ff27752c69460d5e3e74b7c772547e319b3382bb0185039b2fc800fb1d12f4",
+    "question": "2025年臺灣資通安全發展戰略提到的策略內容包含以下哪一項?",
+    "options": [
+      "全社會資安防禦",
+      "提升關鍵基礎設施資安韌性",
+      "AI新興資安科技應用與合作",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "115年資訊安全教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T18:40:37.574Z",
+    "review_state": "candidate_ready"
   }
 ]
