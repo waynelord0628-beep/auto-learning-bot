@@ -420,5 +420,24 @@
       "checked_at": "2026-09-25T11:19:51.488Z"
     },
     "resolved_answer": "正確"
+  },
+  {
+    "id": "de45fcb99caa05a55014c51b54dba845a94dc1c1c2073584d7ae1e7a1a18e321",
+    "question": "公務人員不得為支持的公職候選人，從事下列何種行為？",
+    "options": [
+      "公開站台、助講",
+      "加入連署",
+      "在大眾傳播媒體具銜或具名廣告",
+      "對職務相關人員表達指示"
+    ],
+    "type": "多選",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T19:47:00.096Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
