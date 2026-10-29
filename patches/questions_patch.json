@@ -121911,5 +121911,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-29T11:20:15.216Z"
     }
+  },
+  {
+    "question": "根據「性平三法」的分類，下列哪一項法律主要適用於各級學校發生的性別事件？",
+    "type": "單選",
+    "options": [
+      "性別平等工作法",
+      "性別平等教育法",
+      "兒童及少年福利與權益保障法",
+      "性騷擾防治法"
+    ],
+    "course": "1150624性平種子教師培訓",
+    "answer": "性別平等教育法",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "性別平等教育法",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=FL030508",
+          "quote": "學校應積極推動校園性別事件之防治教育"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-29T15:20:12.725Z"
+    }
   }
 ]
