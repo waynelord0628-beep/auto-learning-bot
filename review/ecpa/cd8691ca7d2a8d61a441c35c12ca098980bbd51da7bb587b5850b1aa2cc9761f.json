@@ -369,5 +369,41 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:55.720Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "962e70c7cda559526cce9ca9d933326930c72fb6dc12eb106dbc87c8767e52c1",
+    "question": "使用特定化學設備或其附屬設備實施作業時，雇主依規定事項訂定操作程序，但作業員可依照實際情況，適時調整順序。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T12:09:37.625Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e780201ca9f3b21ddbd869a39e2f47844565a9ec8f09d6381a689fa8a3e1346",
+    "question": "以下關於健康檢查制度的敘述，下列何者正確？",
+    "options": [
+      "雇用勞工、變更其工作時，不用實施體格檢查。",
+      "若體格檢查結果發現新進勞工不適合該工作，只需要勞工書面同意，及可雇用。",
+      "勞工在職時，於一定期間也需要進行健康檢查。",
+      "無論年齡、工作內容性質，每位員工接受健康檢查的頻率是固定的。"
+    ],
+    "type": "單選",
+    "course": "工作者的職業安全衛生保障(Html5)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "勞工在職時，於一定期間也需要進行健康檢查。",
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T12:09:37.630Z",
+    "review_state": "candidate_ready"
   }
 ]
