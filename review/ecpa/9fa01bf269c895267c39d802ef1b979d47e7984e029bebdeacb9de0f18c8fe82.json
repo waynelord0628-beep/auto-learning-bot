@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "slide",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.713Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-05T10:19:56.541Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "slide",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:52.597Z"
+    },
+    "resolved_answer": "slide"
   },
   {
     "id": "5fd02133f0114434274ecda187d1a9015ff2e20ef2c8501b85a08c1eba031e40",
@@ -67,13 +84,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "proud",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.717Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "proud",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:53.612Z"
+    },
+    "resolved_answer": "proud",
+    "verification_status": "source_supported"
   },
   {
     "id": "7fd4834f7651495bfdfee3e8e6d9c553ec0a3b029748aabf5237ce4a6792fa7e",
@@ -86,13 +117,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "light",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.724Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "light",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:53.868Z"
+    },
+    "resolved_answer": "light",
+    "verification_status": "source_supported"
   },
   {
     "id": "7ac8998c5973625ac12abebe966e98663b37c20e52fd79f244a77a4e4ed95cf1",
@@ -105,13 +150,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "prepare",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.725Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "prepare",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:54.195Z"
+    },
+    "resolved_answer": "prepare",
+    "verification_status": "source_supported"
   },
   {
     "id": "614bb0e5ba2619766446a3d8d591d86ffde000ea324d6d1fe6750bc16bfad9fa",
@@ -124,13 +183,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "blank",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "blank",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:54.467Z"
+    },
+    "resolved_answer": "blank",
+    "verification_status": "source_supported"
   },
   {
     "id": "b5a10f6bc92f6fca54f0125dc074d7483e43cbd4bc920cbcabb716ffb84ea73d",
@@ -143,13 +216,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ones",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "ones",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:54.738Z"
+    },
+    "resolved_answer": "ones",
+    "verification_status": "source_supported"
   },
   {
     "id": "5870972496566a69f66c62a611deeca2e392205affd772a23274d231a16b8fd5",
@@ -162,13 +249,27 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "focus",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "focus",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:55.035Z"
+    },
+    "resolved_answer": "focus",
+    "verification_status": "source_supported"
   },
   {
     "id": "4527b345bfdb2948f8a15d82475c795f69a886ca7771712da1984e35bb21d17b",
@@ -181,12 +282,26 @@
     ],
     "type": "單選",
     "course": "專業報告必備：投影片設計技巧大公開",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "it",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-26T20:46:39.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "it",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15331311191",
+          "title": "專業報告必備：投影片設計技巧大公開《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-29T10:19:55.326Z"
+    },
+    "resolved_answer": "it",
+    "verification_status": "source_supported"
   }
 ]
