@@ -283,5 +283,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.346Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "6393409acf9754a6aac86d9fa12b80a00dc4397a0d9371e87f6006f3bdc1def1",
+    "question": "以下關於失智者持續任職的內容，何者錯誤?",
+    "options": [
+      "工作較容易增加失智者壓力，應盡早規畫退休",
+      "藉由工作持續有展能機會，延緩退化",
+      "持續工作有助於社會參與能力以及活化大腦",
+      "持續工作可維持自我價值與成就感"
+    ],
+    "type": "單選",
+    "course": "失智友善職場教育訓練",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-29T07:51:28.262Z",
+    "review_state": "awaiting_candidate"
   }
 ]
