@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "腦部斷層掃描結果",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.256Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-06T01:19:57.664Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "腦部斷層掃描結果",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:51.530Z"
+    },
+    "resolved_answer": "腦部斷層掃描結果"
   },
   {
     "id": "70ac1d34f661a8c3db7f0f3861bb4a9d3896e54b8a61a99accdd10ae4c146b6e",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "戴耳機聽音樂",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "戴耳機聽音樂",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:51.878Z"
+    },
+    "resolved_answer": "戴耳機聽音樂",
+    "verification_status": "source_supported"
   },
   {
     "id": "e427aa985818ac2aa53ba12c51911f593ee898acae20adddaecdade97ad252a7",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "隱瞞實情，避免與他人進行溝通或討論",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "隱瞞實情，避免與他人進行溝通或討論",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:52.349Z"
+    },
+    "resolved_answer": "隱瞞實情，避免與他人進行溝通或討論",
+    "verification_status": "source_supported"
   },
   {
     "id": "0a67a1d8fb83951f4ddd7a292c969e3cfd32f04a26566eb5811fd13fc585ae82",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由於不曉得如何和失智者相處，因此應避免和他接觸",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "由於不曉得如何和失智者相處，因此應避免和他接觸",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:52.753Z"
+    },
+    "resolved_answer": "由於不曉得如何和失智者相處，因此應避免和他接觸",
+    "verification_status": "source_supported"
   },
   {
     "id": "f57bf42c6c01266fc77326a3e54bf0c802629c2b2825d63ba8463778b467b80a",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為腦部慢性退化疾病或血管性疾病慢慢累積而成",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "為腦部慢性退化疾病或血管性疾病慢慢累積而成",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:53.236Z"
+    },
+    "resolved_answer": "為腦部慢性退化疾病或血管性疾病慢慢累積而成",
+    "verification_status": "source_supported"
   },
   {
     "id": "7a6b76ddb0f25956f5fdde8147a9232bff7d75f725c6affc18416b6561c5c64f",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "0800-777-888",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "0800-474-580",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:53.708Z"
+    },
+    "resolved_answer": "0800-474-580",
+    "verification_status": "source_supported"
   },
   {
     "id": "9475cc290ebac8b812e321ea238562d251f4c8ea23d42b3cfa1b28de9deafa27",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "事情太多時總會忘東忘西，須經由他人提醒才會記得",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.262Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "事情太多時總會忘東忘西，須經由他人提醒才會記得",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:53.766Z"
+    },
+    "resolved_answer": "事情太多時總會忘東忘西，須經由他人提醒才會記得",
+    "verification_status": "source_supported"
   },
   {
     "id": "efce80bf5fac94f8a74592f92e0f706a89688f47f21f0df249879219f2d05eca",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "申請失智者薪資補助",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.263Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "申請失智者薪資補助",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:54.248Z"
+    },
+    "resolved_answer": "申請失智者薪資補助",
+    "verification_status": "source_supported"
   },
   {
     "id": "6869ce6cd933d0a6e90b2478679b718e4ac523b91ea00adcdb799dd9d720c597",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆可",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.264Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆可",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:54.624Z"
+    },
+    "resolved_answer": "以上皆可",
+    "verification_status": "source_supported"
   },
   {
     "id": "2fd1698b741e1d07f13bb3ffb11cf96cf4dadd41c48392450be3f87076047337",
@@ -181,13 +310,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "詢問專業人員，充分運用社會福利資源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:36:38.265Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "詢問專業人員，充分運用社會福利資源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:55.030Z"
+    },
+    "resolved_answer": "詢問專業人員，充分運用社會福利資源",
+    "verification_status": "source_supported"
   },
   {
     "id": "3aa231437baf2a9080fa7a600ee789682f44f0a72a2837471fabc96d4b2cb956",
@@ -219,13 +362,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "盡量限制失智者的行動，避免外出風險",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.345Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "盡量限制失智者的行動，避免外出風險",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:55.404Z"
+    },
+    "resolved_answer": "盡量限制失智者的行動，避免外出風險",
+    "verification_status": "source_supported"
   },
   {
     "id": "a5d24119bcc3140f06b5682f590471a4357525919775b21ee3f587c8a36b535a",
@@ -238,13 +395,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "年齡超過45歲，即可至就業服務站申請就業服務",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.345Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "失智症確診者應取得身心障礙證明，才可申請職務再設計服務",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:55.741Z"
+    },
+    "resolved_answer": "失智症確診者應取得身心障礙證明，才可申請職務再設計服務",
+    "verification_status": "source_supported"
   },
   {
     "id": "ad963c5a0ca8899720896362bee27703a8ec751831b079111a510aa80e939274",
@@ -276,13 +447,27 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆有機會罹患",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.346Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆有機會罹患",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:56.457Z"
+    },
+    "resolved_answer": "以上皆有機會罹患",
+    "verification_status": "source_supported"
   },
   {
     "id": "6393409acf9754a6aac86d9fa12b80a00dc4397a0d9371e87f6006f3bdc1def1",
@@ -295,12 +480,26 @@
     ],
     "type": "單選",
     "course": "失智友善職場教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T07:51:28.262Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "工作較容易增加失智者壓力，應盡早規畫退休",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_66.html",
+          "title": "「失智友善職場教育訓練」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T01:19:56.787Z"
+    },
+    "resolved_answer": "工作較容易增加失智者壓力，應盡早規畫退休",
+    "verification_status": "source_supported"
   }
 ]
