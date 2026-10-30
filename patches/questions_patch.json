@@ -122286,5 +122286,318 @@
       "model": null,
       "checked_at": "2026-10-30T01:19:56.787Z"
     }
+  },
+  {
+    "question": "電腦一旦安裝防毒軟體後，即可完全避免病毒威脅，因此不需定期備份重要檔案。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:49.986Z"
+    }
+  },
+  {
+    "question": "駭客有時會透過攻擊軟體供應商，間接入侵使用該軟體的公司或個人。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.313Z"
+    }
+  },
+  {
+    "question": "IBM提出有效降低資料外洩及損失的方法，下列何者為是?",
+    "type": "單選",
+    "options": [
+      "進行人員教育訓練",
+      "建置SIEM偵測監控系統",
+      "進行檔案資料加密及備份",
+      "以上皆是"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.604Z"
+    }
+  },
+  {
+    "question": "以下哪一個行為最容易造成物聯網設備被駭客入侵?",
+    "type": "單選",
+    "options": [
+      "設定強密碼",
+      "延後設備的安全更新",
+      "使用官方應用程式操作設備",
+      "定期關閉設備"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "延後設備的安全更新",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "延後設備的安全更新",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.824Z"
+    }
+  },
+  {
+    "question": "為了減少供應鏈攻擊的風險，組織應該怎麼做？",
+    "type": "單選",
+    "options": [
+      "選擇報價中價位的供應商，因為太便宜肯定有問題",
+      "完全信任供應商，不檢查其安全性",
+      "評估供應商的資安措施並與其簽訂詳細安全條款",
+      "不與任何第三方合作"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "評估供應商的資安措施並與其簽訂詳細安全條款",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "評估供應商的資安措施並與其簽訂詳細安全條款",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.070Z"
+    }
+  },
+  {
+    "question": "使用AI機器人輔助工作時，可以直接將結果複製貼上，因為現今AI普及而且很聰明，內容不會出錯。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.312Z"
+    }
+  },
+  {
+    "question": "針對零時差攻擊，漏洞的CVSS分數越高表示該漏洞越難以用來進行攻擊，需要非常高超的駭客技巧及特殊工具才得以利用。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.555Z"
+    }
+  },
+  {
+    "question": "下列何者不是防範電子郵件社交工程的有效措施？",
+    "type": "單選",
+    "options": [
+      "安裝防毒軟體，確實更新病毒碼",
+      "確認信件是否來自來往單位",
+      "取消信件預覽功能",
+      "在郵件中任意點擊網頁連結"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "在郵件中任意點擊網頁連結",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在郵件中任意點擊網頁連結",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.808Z"
+    }
+  },
+  {
+    "question": "開啟電子郵件的3步驟為何?",
+    "type": "單選",
+    "options": [
+      "停_於安全、看_察真偽、聽_其來源",
+      "開啟、轉寄、傳送",
+      "快、準、狠",
+      "以上皆非"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "停_於安全、看_察真偽、聽_其來源",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "停_於安全、看_察真偽、聽_其來源",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.101Z"
+    }
+  },
+  {
+    "question": "下列有關於防範惡意程式入侵的保護措施，何者「不正確」？",
+    "type": "單選",
+    "options": [
+      "定期更新作業系統",
+      "下載安裝來源不明但免費提供的App",
+      "避免開啟來路不明的電子郵件",
+      "安裝防毒軟體並定期更新病毒碼"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "下載安裝來源不明但免費提供的App",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "下載安裝來源不明但免費提供的App",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.373Z"
+    }
+  },
+  {
+    "question": "不可使用公務郵件信箱註冊外部網站或參與非公務網路論壇。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.610Z"
+    }
+  },
+  {
+    "question": "手機或社交媒體收到任何通知或公告時，為了趕快轉發讓親朋好友知道，可不必確認內容。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.835Z"
+    }
+  },
+  {
+    "question": "2025年臺灣資通安全發展戰略提到的策略內容包含以下哪一項?",
+    "type": "單選",
+    "options": [
+      "全社會資安防禦",
+      "提升關鍵基礎設施資安韌性",
+      "AI新興資安科技應用與合作",
+      "以上皆是"
+    ],
+    "course": "115年資訊安全教育訓練",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:53.060Z"
+    }
   }
 ]

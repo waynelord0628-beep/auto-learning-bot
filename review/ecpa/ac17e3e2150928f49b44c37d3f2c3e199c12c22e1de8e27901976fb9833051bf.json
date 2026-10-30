@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.971Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-06T04:19:53.760Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:49.986Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9161f39db3f4a4e35e2f3004dc48224cd3944b8aa1af8e4612a30c77f1e8490d",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.313Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4f224787da3c894b56f8d61a8493e282f90cb79a2a21e34105350cc35bc7067e",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.604Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "c4361dab3063ef1fede83a472278f3bd81a746473080666e22f6ec8bb7ba3c2a",
@@ -63,13 +108,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "延後設備的安全更新",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "延後設備的安全更新",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:50.824Z"
+    },
+    "resolved_answer": "延後設備的安全更新",
+    "verification_status": "source_supported"
   },
   {
     "id": "dc8d95c57676d6f958103c2e31aa1e832ec74fc42d9e9870b46e3c103c572463",
@@ -82,13 +141,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "評估供應商的資安措施並與其簽訂詳細安全條款",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "評估供應商的資安措施並與其簽訂詳細安全條款",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.070Z"
+    },
+    "resolved_answer": "評估供應商的資安措施並與其簽訂詳細安全條款",
+    "verification_status": "source_supported"
   },
   {
     "id": "06a8fb439e6ded1f15dabf32f198582a59dcd9d3def58bc08642909df1d8400d",
@@ -99,13 +172,27 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.312Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "b59613b9c281941f63a9a522e48d44cd09eb8ca82e1d8e407747b330735cd6bd",
@@ -116,13 +203,27 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.980Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.555Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "789ed77ce5e2abe56cda1f81bfecf9597c9e1b0307959b9f4f1e729e6169ce4c",
@@ -135,13 +236,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在郵件中任意點擊網頁連結",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.981Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在郵件中任意點擊網頁連結",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:51.808Z"
+    },
+    "resolved_answer": "在郵件中任意點擊網頁連結",
+    "verification_status": "source_supported"
   },
   {
     "id": "060560c3f08695a77665e1f2f54209cd442646fc249115231113831dfb24bb3a",
@@ -154,13 +269,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "停_於安全、看_察真偽、聽_其來源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.982Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "停_於安全、看_察真偽、聽_其來源",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.101Z"
+    },
+    "resolved_answer": "停_於安全、看_察真偽、聽_其來源",
+    "verification_status": "source_supported"
   },
   {
     "id": "099411a8575c312e49487acee54edf420018768d07a11e964ab72a2a2077a9da",
@@ -173,13 +302,27 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "下載安裝來源不明但免費提供的App",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:39:14.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "下載安裝來源不明但免費提供的App",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.373Z"
+    },
+    "resolved_answer": "下載安裝來源不明但免費提供的App",
+    "verification_status": "source_supported"
   },
   {
     "id": "5233869d239de9f0d2efa1b0a7fce9492de1b253d37060f32095fb7ed522d259",
@@ -190,13 +333,27 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:40:37.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.610Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "536e3ce961fd8f0dd2c3154a9326e8a250a3cfc6d516bfdbaac2db51a9692685",
@@ -207,13 +364,27 @@
     ],
     "type": "是非",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:40:37.573Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:52.835Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "50ff27752c69460d5e3e74b7c772547e319b3382bb0185039b2fc800fb1d12f4",
@@ -226,12 +397,26 @@
     ],
     "type": "單選",
     "course": "115年資訊安全教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T18:40:37.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/03/115.html",
+          "title": "【解答】115年資訊安全教育訓練 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T04:19:53.060Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   }
 ]
