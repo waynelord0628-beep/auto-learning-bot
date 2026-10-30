@@ -821,6 +821,24 @@ def do_quiz_with_bank(driver, wait, course_id, quiz_view_url, config=None, cours
     return best_score_text, best_is_100
 
 
+def fill_feedback_checkboxes(driver):
+    """Use one default choice for unanswered Moodle feedback checkbox groups."""
+    groups = {}
+    for checkbox in driver.find_elements(By.CSS_SELECTOR, 'input[type=checkbox][name^="multichoice_"]'):
+        if not checkbox.is_displayed() or not checkbox.is_enabled():
+            continue
+        name = checkbox.get_attribute('name') or ''
+        if not re.fullmatch(r'multichoice_\d+\[\d+\]', name):
+            continue
+        groups.setdefault(re.sub(r'\[\d+\]$', '', name), []).append(checkbox)
+    for choices in groups.values():
+        if any(choice.is_selected() for choice in choices):
+            continue
+        choices[0].click()
+        if not choices[0].is_selected():
+            raise RuntimeError('問卷複選題選項未成功勾選')
+
+
 def do_feedback(driver, wait, feedback_view_url):
     """填問卷：radio 選最大值，textarea 填預設文字，送出"""
     print(f'\n=== 問卷 ===')
@@ -866,6 +884,7 @@ def do_feedback(driver, wait, feedback_view_url):
         except: pass
 
     try:
+        fill_feedback_checkboxes(driver)
         submitted = driver.execute_script("""
             var keywords = ['送出並結束', '提交問卷', 'Submit'];
             var btns = Array.from(document.querySelectorAll(
@@ -881,6 +900,10 @@ def do_feedback(driver, wait, feedback_view_url):
         if submitted:
             time.sleep(3)
             _dismiss_alerts(driver)
+            errors = driver.find_elements(By.CSS_SELECTOR, '.invalid-feedback, [aria-invalid="true"]')
+            if any(error.is_displayed() for error in errors):
+                print('  ✗ 問卷仍有欄位驗證錯誤，尚未完成送出')
+                return False
             print(f'  問卷送出: {submitted!r} | {driver.title}')
             return True
         else:

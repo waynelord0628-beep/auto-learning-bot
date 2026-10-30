@@ -1,6 +1,6 @@
 # 行政效能領航員 (AdminEfficiencyPilot)
 
-**版本 V2.1.12** | 數位研習輔助工具
+**版本 V2.1.13** | 數位研習輔助工具
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -8,6 +8,12 @@
 協助處理公務數位研習流程，整合課程播放、測驗作答、問卷填寫、題庫同步與缺題回報，降低重複性操作時間。
 
 ---
+
+## V2.1.13 更新
+
+- 修正臺北E大尚有待處理課程卻顯示全部完成的問題。
+- 修正部分問卷漏填，並加強完成確認與上課異常提示。
+- 沿用入口一鍵更新，保留原有帳號設定與本地題庫。
 
 ## V2.1.12 更新
 

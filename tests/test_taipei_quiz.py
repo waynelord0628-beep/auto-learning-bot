@@ -218,5 +218,65 @@ class TaipeiQuizTests(unittest.TestCase):
         self.assertEqual(saved[0]['evidence'], 'platform_feedback')
 
 
+class FeedbackCheckboxTests(unittest.TestCase):
+    def choice(self, name, selected=False, visible=True, enabled=True):
+        item = Mock()
+        item.get_attribute.return_value = name
+        item.is_displayed.return_value = visible
+        item.is_enabled.return_value = enabled
+        item.is_selected.return_value = selected
+        item.click.side_effect = lambda: setattr(item.is_selected, 'return_value', True)
+        return item
+
+    def fill(self, choices):
+        ns = module_functions()
+        ns['By'] = types.SimpleNamespace(CSS_SELECTOR='css')
+        driver = Mock()
+        driver.find_elements.return_value = choices
+        ns['fill_feedback_checkboxes'](driver)
+
+    def test_unanswered_group_selects_only_one_and_keeps_existing_choices(self):
+        a = self.choice('multichoice_1[1]')
+        b = self.choice('multichoice_1[2]')
+        c = self.choice('multichoice_2[1]', selected=True)
+        d = self.choice('multichoice_2[2]')
+        self.fill([a, b, c, d])
+        a.click.assert_called_once()
+        for item in (b, c, d):
+            item.click.assert_not_called()
+
+    def test_hidden_disabled_and_non_feedback_controls_are_not_selected(self):
+        choices = [self.choice('multichoice_1[1]', visible=False),
+                   self.choice('multichoice_1[2]', enabled=False),
+                   self.choice('consent'), self.choice('multichoice_invalid[1]')]
+        self.fill(choices)
+        for item in choices:
+            item.click.assert_not_called()
+
+    def test_failed_selection_is_not_reported_as_success(self):
+        choice = self.choice('multichoice_1[1]')
+        choice.click.side_effect = None
+        with self.assertRaisesRegex(RuntimeError, '未成功勾選'):
+            self.fill([choice])
+
+    def test_submit_click_with_visible_validation_error_is_not_success(self):
+        ns = module_functions()
+        ns['By'] = types.SimpleNamespace(CSS_SELECTOR='css', TAG_NAME='tag', XPATH='xpath')
+        ns['_dismiss_alerts'] = Mock()
+        ns['fill_feedback_checkboxes'] = Mock()
+        driver = Mock(current_url='https://example/feedback/complete.php')
+        body = Mock(text='課程滿意度問卷')
+        def find_element(by, selector):
+            if by == 'tag':
+                return body
+            raise LookupError('no start link')
+        driver.find_element.side_effect = find_element
+        error = Mock()
+        error.is_displayed.return_value = True
+        driver.find_elements.side_effect = lambda by, selector: [error] if 'invalid-feedback' in selector else []
+        driver.execute_script.return_value = '送出並結束'
+        self.assertFalse(ns['do_feedback'](driver, None, 'https://example/feedback/view.php?id=1'))
+
+
 if __name__ == '__main__':
     unittest.main()

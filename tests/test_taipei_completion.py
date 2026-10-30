@@ -15,6 +15,62 @@ def load(name, ns):
 
 
 class CompletionTests(unittest.TestCase):
+    def test_platform_restriction_stops_instead_of_counting_time(self):
+        ns = {'dismiss_alerts': Mock(return_value=['禁止多重視窗瀏覽課程。'])}
+        load('has_multi_window_alert', ns)
+        check = load('check_player_session', ns)
+        driver = Mock(current_url='https://example/mod/scorm/player.php?id=1')
+        with self.assertRaisesRegex(RuntimeError, '禁止多重視窗'):
+            check(driver)
+        ns['dismiss_alerts'].return_value = []
+        check(driver)
+        driver.current_url = 'https://example/login'
+        with self.assertRaisesRegex(RuntimeError, '已離開課程播放器'):
+            check(driver)
+
+    def test_failed_chapter_click_does_not_reload_player(self):
+        ns = {'By': types.SimpleNamespace(CSS_SELECTOR='css')}
+        click = load('click_chapter_by_scoid', ns)
+        driver = Mock()
+        driver.find_element.side_effect = RuntimeError('stale')
+        self.assertFalse(click(driver, '12'))
+        driver.get.assert_not_called()
+
+    def test_final_result_requires_platform_records_without_pending_courses(self):
+        ns = {'_clean_status': lambda s: str(s or '').strip(), 're': __import__('re')}
+        for name in ('is_study_incomplete', 'is_questionnaire_pending', 'is_quiz_passed',
+                     'is_quiz_pending', 'needs_course_processing', 'taipei_course_priority',
+                     'pending_courses_sorted'):
+            load(name, ns)
+        report = load('report_final_course_status', ns)
+        done = {'href': 'course', 'name': '測試', 'done': '已完成', 'quest': '已完成', 'score': '-'}
+        self.assertTrue(report([done]))
+        self.assertFalse(report([done], stopped=True))
+        self.assertFalse(report([]))
+        self.assertFalse(report([dict(done, done='未完成')]))
+        self.assertFalse(report([dict(done, quest='填寫')]))
+        self.assertFalse(report([dict(done, score='50')]))
+
+    def test_questionnaire_requires_matching_completed_record(self):
+        for rows, expected in (([[], [{'href': 'course', 'quest': '已完成'}]], True),
+                               ([[{'href': 'course', 'quest': '填寫'}]] * 3, False),
+                               ([[{'href': 'other', 'quest': '已完成'}]] * 3, False),
+                               ([[]] * 3, False)):
+            with self.subTest(rows=rows):
+                ns = {'get_course_list': Mock(side_effect=rows),
+                      '_clean_status': lambda s: str(s or '').strip(),
+                      'wait_with_heartbeat': Mock(return_value=True)}
+                confirm = load('confirm_questionnaire_record', ns)
+                course = {'href': 'course', 'quest': '填寫'}
+                self.assertEqual(confirm(None, None, course, lambda: True), expected)
+                self.assertEqual(course['quest'], '已完成' if expected else '填寫')
+
+    def test_questionnaire_stop_prevents_readback(self):
+        ns = {'get_course_list': Mock()}
+        confirm = load('confirm_questionnaire_record', ns)
+        self.assertFalse(confirm(None, None, {'href': 'course'}, lambda: False))
+        ns['get_course_list'].assert_not_called()
+
     def checker(self, rows, running=lambda: True):
         ns = {'get_course_list': Mock(side_effect=rows), '_clean_status': lambda s: str(s or '').strip(),
               'parse_study_time': lambda s: int(s or 0),
@@ -56,7 +112,7 @@ class CompletionTests(unittest.TestCase):
         ns = {'time': types.SimpleNamespace(time=Mock(side_effect=[0, 100]), sleep=Mock()),
               'parse_study_time': lambda s: 0,
               'get_scorm_player_url': Mock(return_value='player'),
-              'pause_and_mute_media': Mock(),
+              'pause_and_mute_media': Mock(), 'check_player_session': Mock(),
               'get_chapters': Mock(return_value=[{'scoid':'1', 'name':'課程', 'done':False}]),
               'dismiss_alerts': Mock(),
               'EC': types.SimpleNamespace(element_to_be_clickable=lambda x:x),
@@ -79,7 +135,7 @@ class CompletionTests(unittest.TestCase):
         chapters = [{'scoid':str(i), 'name':f'單元 {i}', 'done':False} for i in range(5)]
         ns = {'time': types.SimpleNamespace(time=lambda:clock[0], sleep=advance),
               'parse_study_time': lambda s:0, 'get_scorm_player_url':Mock(return_value='player'),
-              'pause_and_mute_media':Mock(), 'get_chapters':Mock(return_value=chapters),
+              'pause_and_mute_media':Mock(), 'check_player_session':Mock(), 'get_chapters':Mock(return_value=chapters),
               'click_chapter_by_scoid':Mock(return_value=True), 'is_chapter_done':Mock(return_value=False),
               'wait_with_heartbeat':advance, 'RESIDENCE_TIME':90,
               'sec_to_hms':str, 'draw_bar':lambda *args:'', 'dismiss_alerts':Mock(),

@@ -86,7 +86,7 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.12"
+    VERSION = "V2.1.13"
     CHANGELOG = (
         "• 修正臺北E大複選題漏答及重複錯答\n"
         "• 改善研習達標後的流程銜接與題庫同步\n"

@@ -139,6 +139,13 @@ def dismiss_alerts(driver):
 def has_multi_window_alert(messages):
     return any('禁止多重視窗' in str(msg) for msg in (messages or []))
 
+
+def check_player_session(driver):
+    if has_multi_window_alert(dismiss_alerts(driver)):
+        raise RuntimeError('平台禁止多重視窗，已停止本次流程，請關閉其他課程視窗後重試；本機計時不代表平台入帳')
+    if 'mod/scorm/player.php' not in (driver.current_url or ''):
+        raise RuntimeError('已離開課程播放器，停止本機計時，請確認平台登入與研習紀錄')
+
 def deep_commit(driver):
     try:
         driver.execute_script(
@@ -536,12 +543,13 @@ def get_scorm_player_url(driver, wait, course_url):
 
 def get_chapters(driver):
     result = []
+    seen = set()
     try:
         els = driver.find_elements(By.CSS_SELECTOR, '[data-scoid]')
         for idx, el in enumerate(els, start=1):
             try:
                 scoid = el.get_attribute('data-scoid') or ''
-                if not scoid:
+                if not scoid or scoid in seen:
                     continue
                 name = (el.text or el.get_attribute('title') or el.get_attribute('aria-label') or '').strip()
                 if not name:
@@ -581,6 +589,7 @@ def get_chapters(driver):
                     'done',
                 ])
                 result.append({'scoid': scoid, 'name': name, 'done': done, 'icon': icon_class})
+                seen.add(scoid)
             except Exception:
                 pass
     except Exception:
@@ -604,19 +613,9 @@ def click_chapter_by_scoid(driver, scoid):
         )
         return True
     except Exception:
-        try:
-            url = driver.current_url
-            if 'scoid=' in url:
-                url = re.sub(r'scoid=\d+', f'scoid={scoid}', url)
-            elif '#' in url:
-                url = url.replace('#', f'&scoid={scoid}#')
-            else:
-                joiner = '&' if '?' in url else '?'
-                url = f'{url}{joiner}scoid={scoid}'
-            driver.get(url)
-            return True
-        except Exception:
-            return False
+        # Reloading player.php can create another SCORM session. Leave recovery
+        # to the user instead of silently replacing the platform's player URL.
+        return False
 
 def is_chapter_done(driver, scoid):
     try:
@@ -675,9 +674,13 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
     round_num = 0
 
     while should_continue():
+        check_player_session(driver)
         round_num += 1
         elapsed_sec = time.time() - start_time
         chapters = get_chapters(driver)
+        if not chapters:
+            print('  ⚠️ 播放器章節清單已消失，停止本課程，保留待處理')
+            return False
         ch_map = {ch['scoid']: ch for ch in chapters}
         pending = [s for s in scoid_order if not ch_map.get(s, {}).get('done', False)]
         all_done = len(pending) == 0
@@ -704,13 +707,14 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
             print(f'  進入單元：{ch_info["name"][:40]}...')
 
             if not click_chapter_by_scoid(driver, scoid):
-                print('      ⚠️ 點擊失敗，跳過')
-                continue
+                print('      ⚠️ 單元切換失敗，停止本課程，保留待處理')
+                return False
             time.sleep(1)
-            dismiss_alerts(driver)
+            check_player_session(driver)
             pause_and_mute_media(driver)
 
             def update_player():
+                check_player_session(driver)
                 pause_and_mute_media(driver)
                 deep_commit(driver)
 
@@ -773,6 +777,42 @@ def confirm_study_record(driver, wait, course, criteria_sec, should_continue):
     return False
 
 # ── 主程式 ────────────────────────────────────────────
+
+def confirm_questionnaire_record(driver, wait, course, should_continue):
+    """A submit click is not proof that the platform accepted the questionnaire."""
+    for attempt in range(1, 4):
+        if not should_continue():
+            return False
+        try:
+            records = get_course_list(driver, wait)
+            current = next((row for row in records if row.get('href') == course['href']), None)
+            if current and _clean_status(current.get('quest')) == '已完成':
+                course.update(current)
+                print('  ✅ 平台已確認問卷完成')
+                return True
+            print(f'  問卷尚未獲平台確認（{attempt}/3）')
+        except Exception as exc:
+            print(f'  ⚠️ 讀取平台問卷紀錄失敗（{attempt}/3）：{type(exc).__name__}')
+        if attempt < 3 and not wait_with_heartbeat(10, should_continue, lambda: None):
+            return False
+    print('  ⚠️ 問卷送出後尚未確認完成，保留待處理')
+    return False
+
+
+def report_final_course_status(courses, stopped=False):
+    """Report success only when a nonempty platform readback has no pending work."""
+    if not courses:
+        print('  ⚠️ 未取得有效最終課程紀錄，無法確認全部完成')
+        return False
+    pending = pending_courses_sorted(courses)
+    print(f'  課程總數: {len(courses)} 筆，待處理: {len(pending)} 筆')
+    if pending:
+        preview = '、'.join(c['name'][:18] for c in pending[:5])
+        suffix = '...' if len(pending) > 5 else ''
+        print(f'  尚未完成: {preview}{suffix}')
+        print('  本輪處理結束，仍有待處理課程')
+        return False
+    return not stopped
 
 # 載入 config（AI keys）
 
@@ -884,6 +924,9 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
 
         print('\n=== 掃描課程清單 ===')
         courses = get_course_list(driver, wait)
+        if not courses:
+            print('  ⚠️ 未取得有效課程紀錄，無法確認是否有待處理課程')
+            return False
         incomplete = build_taipei_work_queue(driver, courses)
 
         print(f'  課程總數: {len(courses)} 筆，待處理: {len(incomplete)} 筆')
@@ -948,7 +991,8 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
 
                 if fb_url:
                     print('\n  📋 問卷')
-                    do_feedback(driver, wait, feedback_view_url=fb_url)
+                    if do_feedback(driver, wait, feedback_view_url=fb_url):
+                        confirm_questionnaire_record(driver, wait, course, should_continue)
                 else:
                     print('  ⚠️ 問卷狀態為填寫，但找不到問卷入口')
             elif quest == '已完成':
@@ -959,15 +1003,7 @@ def run_taipei_eda(config_override=None, should_continue=None, log_callback=None
 
         print('\n=== 最終課程狀態 ===')
         courses_final = get_course_list(driver, wait)
-        final_incomplete = pending_courses_sorted(courses_final)
-        print(f'  課程總數: {len(courses_final)} 筆，待處理: {len(final_incomplete)} 筆')
-        if final_incomplete:
-            preview = '、'.join(c["name"][:18] for c in final_incomplete[:5])
-            suffix = '...' if len(final_incomplete) > 5 else ''
-            print(f'  尚未完成: {preview}{suffix}')
-
-        print('\n完成！')
-        return not stopped
+        return report_final_course_status(courses_final, stopped=stopped)
     finally:
         force_close_active_driver(owner=owner)
         _release_taipei_run_lock(lock_path)
