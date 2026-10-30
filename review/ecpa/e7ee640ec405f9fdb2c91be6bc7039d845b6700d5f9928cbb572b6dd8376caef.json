@@ -74,5 +74,24 @@
     "source": "ai_unverified",
     "created_at": "2026-10-30T05:17:58.464Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff1deda652f50e907dbf7b5032acf708d4b5328ba3a2762b0dad427179afed2c",
+    "question": "下列何者錯誤？",
+    "options": [
+      "登革熱流行時，住所及場所負責人可以不用清理積水容器，交給衛生單位處理就好。",
+      "傳染病發生時，政府可依傳染病防治法規定進入場所進行衛生防治工作。",
+      "傳染病人對於檢驗、診斷、調查及處置，不得拒絕、規避或妨礙。",
+      "旅館負責人發現疑似傳染病病人或其屍體，應於24小時內通知主管機關。"
+    ],
+    "type": "單選",
+    "course": "傳染病防治法與實務介紹-115年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "登革熱流行時，住所及場所負責人可以不用清理積水容器，交給衛生單位處理就好。",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T14:57:26.456Z",
+    "review_state": "candidate_ready"
   }
 ]
