@@ -8,17 +8,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.386Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:55.985Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-06T05:20:23.819Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:18.298Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e7a9463998b7c1d56f1b026159cac9ba9d3660f08c7aa7fc90096e7665bf56e6",
@@ -29,17 +42,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.387Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:55.992Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:18.599Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "880c9d5969c07ff985a9855d9f445eee7412059f8d440e42b043cbdde5384626",
@@ -52,17 +78,30 @@
     ],
     "type": "單選",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "《人類環境宣言》",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.388Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:55.998Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "《人類環境宣言》",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:18.885Z"
+    },
+    "resolved_answer": "《人類環境宣言》"
   },
   {
     "id": "e45c0cb4c46f6977da8cdc67ac27f733e4fab87c36f7b5a17a3bb72e741f5aeb",
@@ -73,17 +112,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.390Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.004Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:21.277Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "50321d08150d8647366f71eb0256b4c6f77c05dea16d1658feb98a3f7ad2aebc",
@@ -94,17 +146,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.391Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.011Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:21.628Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "304807abdfcadfb047b997c87fdfda917062db1d10a5adff787dfddaf130e736",
@@ -115,17 +180,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.391Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.017Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:21.933Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "263a8a8dd3cde9a9d7ad85e4dd7a8e77583e0fc83fd719b39b987bac66ae8a13",
@@ -136,17 +214,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.393Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.025Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:22.247Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "aed449266fd790fa0c2fe6ca8ca836eea1dc2161c58c2a15ba3c05bcaf0481a1",
@@ -157,17 +248,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.394Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.031Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:22.507Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "561e9b7f9dbc57cb78abc9ac8aec8b33257623b22cdbff1fb35cdab76c848dd3",
@@ -178,17 +282,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.395Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.038Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:22.796Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0fd3c3450237499fe94fc1e39ee6673d426d2a18ffa3c5f75a6d1b2ba5d36c22",
@@ -199,16 +316,29 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T01:04:20.395Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:56.046Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/ft-niba.html?m=1",
+          "title": "【解答】《人權搜查客》用社會企業理念提供多元族群學習縫紉，並賦予閒置衣物新生命ft. 高林文創基金會Niba倪聖琦 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T05:20:23.048Z"
+    },
+    "resolved_answer": "正確"
   }
 ]
