@@ -122952,5 +122952,29 @@
       "model": null,
       "checked_at": "2026-10-30T06:19:52.347Z"
     }
+  },
+  {
+    "question": "法國在2015年COP21倡議，每年提高土壤碳素含量多少%，就有機會逆轉全球暖化危機?",
+    "type": "單選",
+    "options": [
+      "0.4%",
+      "2%",
+      "1%"
+    ],
+    "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
+    "answer": "0.4%",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "0.4%",
+      "sources": [
+        {
+          "url": "https://idcsa.nchu.edu.tw/page-1.php?id=e3670e0e-746d-11ed-90b3-56000176fdd3",
+          "quote": "法國於2015年聯合國「氣候變遷綱要公約」締約國大會提出「千分之四倡議」，認為利用土壤固碳，全球透過減少森林砍伐並調整農業耕作的方法，改變農業生產的方式，增加土壤碳庫的碳封存，並期望於表土30～40公分中每年提高土壤有機碳含量0.4%"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-30T09:19:59.626Z"
+    }
   }
 ]

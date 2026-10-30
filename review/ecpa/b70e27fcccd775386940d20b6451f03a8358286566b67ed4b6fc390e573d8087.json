@@ -276,19 +276,32 @@
     ],
     "type": "單選",
     "course": "從淨零策略打造一杯冠軍的永續台灣咖啡",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "0.4%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-13T04:57:15.078Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-10-21T04:19:44.590Z",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.308Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-06T09:20:00.575Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "0.4%",
+      "sources": [
+        {
+          "url": "https://idcsa.nchu.edu.tw/page-1.php?id=e3670e0e-746d-11ed-90b3-56000176fdd3",
+          "quote": "法國於2015年聯合國「氣候變遷綱要公約」締約國大會提出「千分之四倡議」，認為利用土壤固碳，全球透過減少森林砍伐並調整農業耕作的方法，改變農業生產的方式，增加土壤碳庫的碳封存，並期望於表土30～40公分中每年提高土壤有機碳含量0.4%"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-30T09:19:59.626Z"
+    },
+    "resolved_answer": "0.4%"
   },
   {
     "id": "7c9f31536febe858e03cbcb9ce03539ded77375d501dacce805c9865a13fdb54",
