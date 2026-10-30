@@ -1,0 +1,184 @@
+[
+  {
+    "id": "4c553bf7a540a6eee435c2cbf6c711e00668ade5806477f181c8bab5bc6e6c0e",
+    "question": "人類軟實力包括提問表達,同理心,思辨等,在AI時代更為重要",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.054Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7768814914ac79ed0cd7b0afc12cb177969ed884f2dcd4502e45182f51361316",
+    "question": "AI改變我們生活,那些公司發展的無人駕駛計程車(Driverless Taxi)在美國已經在不少城市試行?",
+    "options": [
+      "Webmo",
+      "Tesla",
+      "Uber",
+      "Microsoft"
+    ],
+    "type": "多選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.058Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "28d7bf0053e45547815591733888258675d8845410fde67377fff0f23bdf3903",
+    "question": "強化問問題能力與思辨能力,可以降低AI不保證正確,容易幻想的問題",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.059Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4911326b1af19f27022f88adb07888c4c82f9562a71c85b781bac051c960c66f",
+    "question": "現有常用的AI模型如ChatGPT,Gemini因為並非針對繁體中文內容優化,使用時應注意將問題描述仔細,或者是用英文詢問,或者同時使用不同模型交叉參考,以提高正確率",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.060Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e2526cd1ee033ace322b845c37da7c432de1360bc680fdb35ad50c3265b1b467",
+    "question": "AI代理(AI Agents)是指AI能力已經從單純問答,給答案(Answers)到可以執行特定任務(Actions)",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.061Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cf1dd027d57ef6fa7c4597f0905dce1e5183a4b8ba9f9174eb04b0ec05207a36",
+    "question": "哪些是AI治理的挑戰?",
+    "options": [
+      "AI正確性",
+      "隱私與資訊安全",
+      "智財權",
+      "AI詐騙"
+    ],
+    "type": "多選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.062Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7f24dc62b61c944b8d8ac590c4c10f285d4156376c291049048a771169ba4b75",
+    "question": "下列哪一項能力是現階段大型語言模型的強項?",
+    "options": [
+      "閱讀能力",
+      "與實體世界連結的能力",
+      "地區與文化差異判斷",
+      "情緒判斷"
+    ],
+    "type": "單選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "閱讀能力",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.063Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6672c1f6a2569cb409b29d9dfceee0afbde7c9023984ea3527f20f516bc1f821",
+    "question": "Sam Altman所提通往通用AI(AGI)的能力分成幾階段(Stage)?",
+    "options": [
+      "2階段",
+      "3階段",
+      "4階段",
+      "5階段"
+    ],
+    "type": "單選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4階段",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.064Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "61c9da386e0bf1032e78d07cc10c2db5ec99797151e81107ae69e6e313f6368f",
+    "question": "德智體群美等人類基本能力,哪種能力受生成式AI影響最大?",
+    "options": [
+      "德育",
+      "體育",
+      "群育",
+      "智育"
+    ],
+    "type": "單選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "智育",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.066Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3ee992804c972474a70a98e6f2fab7eb6b99443921c9c4331803ab3a971e72e0",
+    "question": "下列哪一種能力不屬於Sam Altman所提通往通用AI(AGI)的五個階段能力?",
+    "options": [
+      "聊天",
+      "推理",
+      "代理",
+      "自動駕駛"
+    ],
+    "type": "單選",
+    "course": "從Answer到Action：讓AI Agent成為第一位虛擬同事",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "聊天",
+    "source": "ai_unverified",
+    "created_at": "2026-10-30T15:18:24.068Z",
+    "review_state": "candidate_ready"
+  }
+]
