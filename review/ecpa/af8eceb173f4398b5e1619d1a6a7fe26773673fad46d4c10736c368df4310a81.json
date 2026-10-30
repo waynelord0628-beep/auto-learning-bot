@@ -58,17 +58,30 @@
     ],
     "type": "單選",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "10 日內。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.050Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:02.323Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-06T06:19:53.078Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "7 日內。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_18.html",
+          "title": "【解答】職場霸凌申訴及處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T06:19:51.111Z"
+    },
+    "resolved_answer": "7 日內。"
   },
   {
     "id": "168b0f5579f8153bb637afe263c2964076978c281de1eb5ccc1f3c37efd5f40c",
@@ -79,17 +92,30 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.051Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:02.330Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_18.html",
+          "title": "【解答】職場霸凌申訴及處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T06:19:51.414Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "a45e16d68dcc39ec487d0cc2bf4bfbe7f7d85c64b798418e34d2ae0dfb1e50f1",
@@ -102,17 +128,30 @@
     ],
     "type": "單選",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2 個月（必要時得延長 1 個月）。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.052Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:02.336Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2 個月（必要時得延長 1 個月）。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_18.html",
+          "title": "【解答】職場霸凌申訴及處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T06:19:51.774Z"
+    },
+    "resolved_answer": "2 個月（必要時得延長 1 個月）。"
   },
   {
     "id": "bdf2e95058ba344f4ea182c3200f8fc904347b85239bd5cdb1bb640b052cbd45",
@@ -171,17 +210,30 @@
     ],
     "type": "單選",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1 個月內。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:15.064Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T03:12:06.876Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "1 個月內。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_18.html",
+          "title": "【解答】職場霸凌申訴及處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T06:19:52.083Z"
+    },
+    "resolved_answer": "1 個月內。"
   },
   {
     "id": "ae11cad5e163a2e35f155880957878dc001a3c5ea46943c7197a03165e347c05",
@@ -378,17 +430,30 @@
     ],
     "type": "是非",
     "course": "職場霸凌申訴及處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-30T17:34:45.265Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:02.342Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_18.html",
+          "title": "【解答】職場霸凌申訴及處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T06:19:52.347Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "5979d9e4dae46a0e44b243e8393beec86c36bb8745f94104ad66724e603f7768",
