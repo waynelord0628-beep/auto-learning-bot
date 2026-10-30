@@ -122976,5 +122976,38 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-30T09:19:59.626Z"
     }
+  },
+  {
+    "question": "Taiwan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Asia Silicon Valley Development Plan few years ago with an aim to develop biotechnology and pharmaceutical industries among others.",
+    "type": "單選",
+    "options": [
+      "contributed",
+      "launched",
+      "designed",
+      "achieved"
+    ],
+    "course": "公務實用英語（基礎篇）-我國國情介紹",
+    "answer": "launched",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "launched",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15332031274",
+          "title": "公務實用英語（基礎篇）-我國國情介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15336408577",
+          "title": "公務實用英語（基礎篇）-我國國情介紹(重新訓練人員適用)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-10-30T12:20:24.812Z"
+    }
   }
 ]
