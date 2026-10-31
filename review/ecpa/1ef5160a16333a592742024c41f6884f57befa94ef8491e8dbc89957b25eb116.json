@@ -344,5 +344,24 @@
       "checked_at": "2026-10-20T03:31:13.137Z"
     },
     "resolved_answer": "正確"
+  },
+  {
+    "id": "3fe7a3bfd52babb6c57c65eaa4659fc9dd1fa422fd68ad9e516d605677ee4fcb",
+    "question": "我國政府主導的建築永續評估系統有哪些?",
+    "options": [
+      "綠建築標章",
+      "建築能效評估系統（BERS，Building Efficiency Rating System）",
+      "低碳建築評估手冊(LEBRS, Low Embodied-carbon Building Rating System）",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "淨零碳建築趨勢與展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-10-31T12:30:17.326Z",
+    "review_state": "candidate_ready"
   }
 ]
