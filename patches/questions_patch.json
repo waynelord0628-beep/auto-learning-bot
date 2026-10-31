@@ -123034,5 +123034,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-10-30T14:20:06.367Z"
     }
+  },
+  {
+    "question": "消除一切形式種族歧視國際公約之英文簡稱為ICERD？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.immigration.gov.tw/5385/5388/7178/254174/cp_news",
+          "quote": "「聯合國消除一切形式種族歧視國際公約」 （International Convention on the Elimination of All Forms of Racial Discrimination，以下簡稱ICERD）"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-10-31T14:20:38.481Z"
+    }
   }
 ]
