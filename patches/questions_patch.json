@@ -123301,5 +123301,151 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-01T03:19:54.270Z"
     }
+  },
+  {
+    "question": "Please fill ____ the form.請為以上句子選出英式的用法。",
+    "type": "單選",
+    "options": [
+      "out",
+      "on",
+      "in",
+      "at"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "in",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "in",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:04.952Z"
+    }
+  },
+  {
+    "question": "專線的正確英文翻譯為：\"direct line\"。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.244Z"
+    }
+  },
+  {
+    "question": "請問「號碼牌」的英文翻譯為何？",
+    "type": "單選",
+    "options": [
+      "number",
+      "ID card",
+      "credit card",
+      "visa card"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "number",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "number",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.527Z"
+    }
+  },
+  {
+    "question": "Please ____ the line.",
+    "type": "單選",
+    "options": [
+      "take",
+      "on",
+      "hold",
+      "of"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "hold",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "hold",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.789Z"
+    }
+  },
+  {
+    "question": "「專人」的英文除了使用\"dedicated person\"之外，還可使用\"someone\"替代。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:06.052Z"
+    }
+  },
+  {
+    "question": "下列句子何者為：「我今天能為您做什麼？」的最佳英文用法？",
+    "type": "單選",
+    "options": [
+      "What can I do to you today?",
+      "How may I help you today?",
+      "What do you want today?",
+      "How can I do for you today?"
+    ],
+    "course": "第一線櫃檯服務人員英語會話",
+    "answer": "How may I help you today?",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "How may I help you today?",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:06.316Z"
+    }
   }
 ]

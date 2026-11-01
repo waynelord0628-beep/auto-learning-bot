@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "out",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.054Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T04:20:07.031Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "in",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:04.952Z"
+    },
+    "resolved_answer": "in"
   },
   {
     "id": "6e84ddfd00adb474c1eec3cac9f6cfe882ab7325c2621c45a10eb3b036712222",
@@ -27,13 +44,27 @@
     ],
     "type": "是非",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.055Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.244Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "5295e442ffcc4a05527428dab634b2c2152e50205b5e0c1adb3a1aa33b0c1880",
@@ -46,13 +77,27 @@
     ],
     "type": "單選",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "number",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.057Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "number",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.527Z"
+    },
+    "resolved_answer": "number",
+    "verification_status": "source_supported"
   },
   {
     "id": "e7664bc659d5c0f96ac744efcf14a62810c6c743a3bccf3846bb642476372cbf",
@@ -65,13 +110,27 @@
     ],
     "type": "單選",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "hold",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.058Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "hold",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:05.789Z"
+    },
+    "resolved_answer": "hold",
+    "verification_status": "source_supported"
   },
   {
     "id": "b49b68233dbb334f9cf53ef0ffec2cedbe5391d2f851790033e2bcd5b845b73e",
@@ -82,13 +141,27 @@
     ],
     "type": "是非",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.059Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:06.052Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "023eb0962e3ea26e2a6122caf3ee340b627d95f3ec650ee2a2011f76ee6a2aca",
@@ -101,13 +174,27 @@
     ],
     "type": "單選",
     "course": "第一線櫃檯服務人員英語會話",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "How may I help you today?",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:53:46.060Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "How may I help you today?",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_82.html",
+          "title": "「第一線櫃檯服務人員英語會話」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T04:20:06.316Z"
+    },
+    "resolved_answer": "How may I help you today?",
+    "verification_status": "source_supported"
   },
   {
     "id": "866ca235d3e676c9c49c92eacf46aac92940e8db06978fa264b532fa40192568",
