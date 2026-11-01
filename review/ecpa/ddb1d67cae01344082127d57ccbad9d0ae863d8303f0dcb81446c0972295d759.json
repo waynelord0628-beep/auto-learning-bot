@@ -210,5 +210,73 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-01T13:20:06.442Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "235620e320e78a82891bc95c7cc2c9cd365c2588d7491f2ffd39146355768b4e",
+    "question": "免費版的NotebookLM每本筆記本中可容納超過 50 個檔案。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:03:30.286Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "00ac80095b2e8574e08e5d1a64ab8baf4b2bf624bae6556a7ca71ae8d89b0959",
+    "question": "NotebookLM 在執行內容生成時，即使離開當前操作介面，仍會持續運作。只需點擊介面左上角的 Logo，即可隨時返回管理頁面。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:03:30.289Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ca7541dca84b1d844a4abcb6d51b2ec9c96f833ccbcf78fbe86b0a5a089c84f9",
+    "question": "在使用上每次輸入相同的問題與指令時，AI 都會生成相同的內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:03:30.290Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4cd68bc831134439c82252a1ce134d09896b8f188f68bf1596e53bc48afcbdc4",
+    "question": "NotebookLM 生成的簡報，在使用網站進行文字修改時，可以透過上傳 PPT 檔案進行編輯。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:03:30.293Z",
+    "review_state": "candidate_ready"
   }
 ]
