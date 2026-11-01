@@ -180,5 +180,98 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.603Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "27a12830369d983c6ec43f2747d4583268374da32871efaf02b86395fb4666d4",
+    "question": "請問以下關於油污分散劑的敘述，何者正確？",
+    "options": [
+      "使用目的是為了加速油污分解",
+      "使用時需將油污分散劑靜置於水底",
+      "使用的水域水深要夠，才能有效稀釋",
+      "使用時需攪拌，使其油膜破裂，並稀釋分散"
+    ],
+    "type": "多選",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:39:11.682Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "c6371e3d4bebf7ab23ab514be93fa3bfccb7932aeac451377bbaf283dad97272",
+    "question": "請問下列關於漏油防範措施的敘述，哪些正確？",
+    "options": [
+      "建立漏油風險評估制度",
+      "定期保養設備",
+      "加強人員訓練與演練，預防人為疏失",
+      "針對管線，建立漏油預警監測系統"
+    ],
+    "type": "多選",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:39:11.685Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "463164e6f26ed8e35636e658a450a783869fff46d64064eb2895e6d7178594b9",
+    "question": "2016年，發生在澎湖縣小白沙嶼北側的貨輪擱淺事故，其中船載145噸重柴油，沒有對生態造成何種影響？",
+    "options": [
+      "危及玄武岩保護區",
+      "影響候鳥棲息繁殖",
+      "毛伊海豚瀕臨滅絕",
+      "影響魚類洄游"
+    ],
+    "type": "單選",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:39:11.687Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "b3c80c91adb84b942a65ac69cec0eb0faca01ac58a0f13b8c84b8ae7b6c8e334",
+    "question": "輕質油僅少量成份可揮發，故污染海岸線後清理相當困難 。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-01T22:39:11.689Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "a907fe62ffcded5ccf02a6341f46937711e8de6f3a9c20e9d5a2677b58651538",
+    "question": "請問以下哪些不是「BP公司墨西哥灣鑽井平台爆炸沉沒事故」發生的基本原因？",
+    "options": [
+      "水泥封固失敗",
+      "操作人員未重視衝噴的嚴重性",
+      "變更決策未進行風險管理",
+      "更換完井人員致工作團隊銜接時發生問題"
+    ],
+    "type": "多選",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:39:11.690Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
