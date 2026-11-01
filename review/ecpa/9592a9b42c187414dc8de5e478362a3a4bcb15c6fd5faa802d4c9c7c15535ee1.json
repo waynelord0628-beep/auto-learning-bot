@@ -1,0 +1,97 @@
+[
+  {
+    "id": "baf425dcf8f97d530f4436a74e7d6a6a603e5a6cd0f4b19799da19c739eb1d78",
+    "question": "在文書編輯中，樣式可以有效幫助快速進行格式設定。請問「樣式」的主要特點是什麼？",
+    "options": [
+      "能集合格式設定並命名以重複使用",
+      "只能套用系統預設的樣式",
+      "僅適用於段落的文字大小調整",
+      "不能用於多層級編號設定"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "能集合格式設定並命名以重複使用",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:22.277Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "63a993838a0c87de77549668678bb64b79e0455c8842270dbc84b41e19acd902",
+    "question": "如何將單一 Word 檔案轉換為 ODF 格式？",
+    "options": [
+      "右鍵點擊檔案並選擇 \"開啟檔案\"",
+      "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+      "使用 Writer 打開並直接選擇 \"轉存\"",
+      "在資料匣中手動複製檔案格式"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用 Writer 打開並直接選擇 \"轉存\"",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:22.281Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "48c106234eef08dd518966c7917a4720bf76bb260f693ad9c08f9187c0135aea",
+    "question": "如果需要將文件的第 1 頁（封面）移除頁碼，並讓第 2 頁頁碼從 1 開始，應如何操作？",
+    "options": [
+      "刪除第 1 頁頁碼後，第 2 頁自動變為 1",
+      "透過段落設定調整起始值為 1",
+      "插入頁碼並手動更改每頁的數值",
+      "用頁尾功能設定封面頁隱藏"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "用頁尾功能設定封面頁隱藏",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:22.282Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4250c7606c448036b6600d9d87b5c8c75cf6a2ed95c2d8c05f977c851c51063b",
+    "question": "在表格 A1 儲存格中，如何設定多對角線並顯示多組資訊？",
+    "options": [
+      "使用繪圖工具新增多條線條",
+      "插入對角線後手動輸入文字",
+      "表格內直接新增分隔符號",
+      "複製單一對角線多次使用"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "插入對角線後手動輸入文字",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:22.283Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "add2a048472030cefa98d0e3ed98e086ee9d36a4841a800f4116cbbead754445",
+    "question": "如何為表格加入標題以便生成表格目錄？",
+    "options": [
+      "在表格上方手動輸入文字",
+      "使用插入功能表中的圖表標示",
+      "在表格下方加註文字說明",
+      "將表格內容設為粗體"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "在表格上方手動輸入文字",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:22.284Z",
+    "review_state": "candidate_ready"
+  }
+]
