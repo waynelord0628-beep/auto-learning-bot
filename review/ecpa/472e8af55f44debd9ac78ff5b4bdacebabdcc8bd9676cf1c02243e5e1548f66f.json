@@ -245,5 +245,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:44:26.438Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "68a489ed395ddd43ec93e05f280ff4a9f552413349a1cd5321342a430b1fe215",
+    "question": "我國廉政政策具體作法下列何者為非？",
+    "options": [
+      "未研訂揭弊者保護法",
+      "建立「派駐檢察官」制度",
+      "推動落實聯合國反貪腐公約",
+      "依機關首長需求，配合成立機關採購廉政平臺"
+    ],
+    "type": "單選",
+    "course": "廉能政府與廉政倫理規範（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "未研訂揭弊者保護法",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:44:56.112Z",
+    "review_state": "candidate_ready"
   }
 ]
