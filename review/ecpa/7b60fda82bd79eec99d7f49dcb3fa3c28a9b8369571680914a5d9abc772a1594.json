@@ -188,5 +188,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:45:28.326Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "03cd6b5b22298b8d7bd690ff72456eba2e012193d5f8e1ed6b03d79f450f5a1e",
+    "question": "公務人員個人專戶制退撫制度之退休給予支領方式，可分為一次退休金、月退休金及兼領一次退休金與月退休金三種，其中月退休金支領方式，下列敘述何者不正確？",
+    "options": [
+      "攤提給付",
+      "自提給付",
+      "定額給付",
+      "保險年金"
+    ],
+    "type": "單選",
+    "course": "公務人員行政責任與權利義務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "保險年金",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:45:54.597Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b366ad7cb345fa7015d4e7acd0d9876f813741d159efcdeb766b3f627e0b5dab",
+    "question": "我國目前一般政機關、公立學校公務人員適用之官制，係屬下列何種制度？",
+    "options": [
+      "職位分類制",
+      "品位制度",
+      "勞雇制度",
+      "官等職等併立制"
+    ],
+    "type": "單選",
+    "course": "公務人員行政責任與權利義務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "職位分類制",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:45:54.598Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "701b7a791bc93def6b44cc17e5a1b9eee69bb064b76124f06af55b2e94d06300",
+    "question": "公務人員基於特別法律關係，依法履行義務及享有權利，其中身分保障屬於權利事項，下列有關身分保障之敘述何者不正確？",
+    "options": [
+      "非依法律不得懲戒",
+      "非依法律不得剝奪",
+      "非依法律不得處分",
+      "踐行正當法律程序"
+    ],
+    "type": "單選",
+    "course": "公務人員行政責任與權利義務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "非依法律不得處分",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:45:54.599Z",
+    "review_state": "candidate_ready"
   }
 ]
