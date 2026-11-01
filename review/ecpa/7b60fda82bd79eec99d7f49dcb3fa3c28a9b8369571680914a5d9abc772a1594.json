@@ -245,5 +245,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:45:54.599Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f5464e4cb7f36160fa4f273c36ee1ed5e42c9b9967e018ee998b7258a66600c8",
+    "question": "日前媒體報導公務機關之某位女性公務人員，於申請留職停薪（侍親假）期間，從事美容直銷工作（獲得鑽石級天后美名），請問該項行為違反下列何種規定？",
+    "options": [
+      "公務人員請假規定",
+      "公務人員遇有涉及利害事件應行迴避規定",
+      "公務員不得經營商業之規定",
+      "公務員兼職兼課應經權責機關同意或備查規定"
+    ],
+    "type": "單選",
+    "course": "公務人員行政責任與權利義務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "公務員不得經營商業之規定",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:46:26.032Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "024478afd9d4b06c054ffb5bc3e7eaf9a44a189ef957ab6ed60e07bc501ae307",
+    "question": "有關「公務人員個人專戶制退休資遣撫卹法」之適用對象，下列敘述何者正確？",
+    "options": [
+      "現職已銓敘審定人員",
+      "曾經銓敘審定再任人員",
+      "112年7月1日以後初次銓敘審定且無原制度可採計年資人員",
+      "具有原制度可採計年資人員"
+    ],
+    "type": "單選",
+    "course": "公務人員行政責任與權利義務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "112年7月1日以後初次銓敘審定且無原制度可採計年資人員",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:46:26.033Z",
+    "review_state": "candidate_ready"
   }
 ]
