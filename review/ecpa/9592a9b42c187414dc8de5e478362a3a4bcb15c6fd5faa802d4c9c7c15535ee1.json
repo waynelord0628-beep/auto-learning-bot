@@ -188,5 +188,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.470Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "62a01e78064d50f5c609ea5b9df7295e8c3adf81c9d2cf0026a2a793e134533a",
+    "question": "如何將合約書中「立約人」三個字置中對齊在甲方和乙方的正中央？",
+    "options": [
+      "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+      "在字元設定中設為對齊",
+      "使用快捷鍵Ctrl+E進行對齊",
+      "手動拖動文本至中心位置"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用快捷鍵Ctrl+E進行對齊",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:53:20.371Z",
+    "review_state": "candidate_ready"
   }
 ]
