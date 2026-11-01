@@ -123276,5 +123276,30 @@
       "model": null,
       "checked_at": "2026-10-31T15:19:56.556Z"
     }
+  },
+  {
+    "question": "請問登革熱有效的防治方法？",
+    "type": "單選",
+    "options": [
+      "施打疫苗",
+      "巡、倒、清、刷",
+      "吃苦瓜燉田雞",
+      "服用登革熱特效藥"
+    ],
+    "course": "傳染病防治法與實務介紹-115年",
+    "answer": "巡、倒、清、刷",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "巡、倒、清、刷",
+      "sources": [
+        {
+          "url": "https://www.ema.gov.tw/policies/issues/8692.html",
+          "quote": "預防登革熱最重要的是清除病媒蚊孳生源，平時可落實「巡、倒、清、刷」四步驟："
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-01T03:19:54.270Z"
+    }
   }
 ]

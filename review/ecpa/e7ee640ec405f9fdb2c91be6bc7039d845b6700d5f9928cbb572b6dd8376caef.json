@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "傳染病防治法與實務介紹-115年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "巡、倒、清、刷",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T05:17:58.451Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T03:19:56.645Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "巡、倒、清、刷",
+      "sources": [
+        {
+          "url": "https://www.ema.gov.tw/policies/issues/8692.html",
+          "quote": "預防登革熱最重要的是清除病媒蚊孳生源，平時可落實「巡、倒、清、刷」四步驟："
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-01T03:19:54.270Z"
+    },
+    "resolved_answer": "巡、倒、清、刷"
   },
   {
     "id": "352d8939d5b05484ba981343b2c9496cd44f36f20cda23975332851f03235bfb",
