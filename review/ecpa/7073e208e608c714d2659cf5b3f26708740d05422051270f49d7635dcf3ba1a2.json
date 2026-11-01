@@ -173,5 +173,92 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T15:44:31.126Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "72750ef249501c933ffbf65490c1fc9a7970d21bb0f7ffb7cfb775783d04f1d4",
+    "question": "CRC是聯合國發起的條約中，締約國最多的公約，至今共有多少成員？",
+    "options": [
+      "156個",
+      "196個",
+      "256個"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "196個",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:45:15.990Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "824e6c9932f6b373628754383eb91404a9352f33d332ae8ba55fe28f11148044",
+    "question": "根據CRC第一條對兒童的定義，兒童的年齡為？",
+    "options": [
+      "6-12歲",
+      "未滿12歲",
+      "未滿18歲"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "未滿18歲",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:45:15.990Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cbaa6f6dbdc8f1ee7e14cb18e74651b3f64b4953f28a8dfdee966bec7f005a31",
+    "question": "依兒童權利公約施行法，政府應於105年11月20日前提出第一次國家報告。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:45:15.991Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f10874e81b4715110d13fa4fbc1e482cf4c6dea2c0020f5cc1a0b2fb16fd8a32",
+    "question": "CRC有四項一般性原則。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:45:15.991Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "df284c732cca23c8d28cb6819288c0057a3cf75137641a9ba06ec349857d444a",
+    "question": "比例原則為CRC一般性原則之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:45:15.991Z",
+    "review_state": "candidate_ready"
   }
 ]
