@@ -312,5 +312,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T15:04:22.694Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1b12d655e786b1c7055ff0d39b4d74aeec458d0f102a5953b5db670650e819c9",
+    "question": "使用NotebookLM的「資料表」功能，可以將多個 Word 檔案整理成所需的表格。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:05:01.212Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4f548ae9ee7215f1d4bffc67d1e3b0705d2eb8e816768b72636f2613eb18bff",
+    "question": "在Napkin首頁的功能按鈕中，製作視覺化圖表，可透過什麼方式將內容轉換為圖像。",
+    "options": [
+      "複製貼上文字",
+      "使用 AI 協助生成文字",
+      "匯入檔案",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:05:01.214Z",
+    "review_state": "candidate_ready"
   }
 ]
