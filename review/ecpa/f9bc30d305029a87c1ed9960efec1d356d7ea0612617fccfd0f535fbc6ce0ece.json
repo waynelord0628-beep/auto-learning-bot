@@ -8,17 +8,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.648Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T06:20:11.769Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-08T10:20:26.478Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:21.369Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "286e0367b9d1935b8266f729fbfffa4991fdbfcf0fb36795aff684d9c634a914",
@@ -29,17 +42,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.650Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T06:20:21.550Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:22.052Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "8b43fe76be4abab380fe1480b7a33c5558d883940b1cb432ad3f03153337f18f",
@@ -50,17 +76,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.650Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.255Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:22.759Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "da935d968208b0f80a0170e0fbe7d0a60ef5124d49d76590c885389214d406ce",
@@ -71,17 +110,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.651Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.262Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:23.136Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "96f32534ceb9d0fd7816223c321f988cdad844ff7e465ac6f4a5ef21da330a35",
@@ -92,17 +144,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.651Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.268Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:23.516Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a47a8be20ba167b299175bf8119d66c777d9b6e18f624bf1aa3a35f2567aced1",
@@ -113,17 +178,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.652Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.275Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:24.120Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e7d3235a3229ab3b8d0b13db2f4859de89c1d2343d117a05137bdb9c75ffcc16",
@@ -134,17 +212,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.653Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.282Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:24.552Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "75b1b6684629122ff58bb4346e5cdeb45152f0e41ea84c83ff9d7566b18b48b9",
@@ -155,17 +246,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.653Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.289Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:24.838Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "76834369236535c23b6aab2a3c343b880697564ea13d810c7c6b54fca96172e9",
@@ -176,17 +280,30 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.654Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.295Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:25.200Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "134e457342f3668a4a4345e0efcecf29a684b55f4f27c670da199eb99a468c8f",
@@ -197,16 +314,29 @@
     ],
     "type": "是非",
     "course": "校園學生自我傷害辨識與防治處遇知能",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-22T12:41:55.654Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:05.302Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/05/blog-post_22.html",
+          "title": "【解答】校園學生自我傷害辨識與防治處遇知能 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T10:20:25.521Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]
