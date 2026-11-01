@@ -75,7 +75,11 @@
     "candidate_answer": "業者購買之染劑或色料不能宣稱對身體無害。",
     "source": "ai_unverified",
     "created_at": "2026-10-30T05:17:58.459Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T03:20:29.989Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "5bca80cede91ce5458c72151ed994670b646473a241cf143bd4fdc75d0379d59",
