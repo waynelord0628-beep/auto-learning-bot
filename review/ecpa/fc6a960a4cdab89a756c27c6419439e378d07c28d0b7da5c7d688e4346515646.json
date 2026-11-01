@@ -363,13 +363,34 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:35:24.446Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T13:19:51.729Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329276961",
+          "title": "動物保護面面觀4-不可不知的動物保護法規範《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T13:19:49.782Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "915fd9679db396243837615dce6d915a8ae56f7c0c59e79f02b0e18d9aee19fa",
@@ -382,13 +403,31 @@
     ],
     "type": "單選",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:35:24.447Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "3年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329276961",
+          "title": "動物保護面面觀4-不可不知的動物保護法規範《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T13:19:50.086Z"
+    },
+    "resolved_answer": "3年",
+    "verification_status": "source_supported"
   },
   {
     "id": "1da5669479c534123a215c0747ed544573170981e1a3d080cd735d5617b8e8b2",
@@ -399,13 +438,31 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:35:24.448Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329276961",
+          "title": "動物保護面面觀4-不可不知的動物保護法規範《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T13:19:50.395Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "b8aaec7e2695e1fb347bfb63fd266d8d4693ff9aafdd17c7a16dca0db4d4c17a",
@@ -418,13 +475,31 @@
     ],
     "type": "單選",
     "course": "動物保護面面觀4-不可不知的動物保護法規範",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:35:24.448Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/4-ee.html",
+          "title": "「動物保護面面觀4-不可不知的動物保護法規範」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15329276961",
+          "title": "動物保護面面觀4-不可不知的動物保護法規範《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T13:19:50.832Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "add3b89e4a4c0f4894bf81da389bef34a01fbdab1406e16f5b231b2463ce64be",
