@@ -278,5 +278,39 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T15:03:30.293Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "754810e88a59ceef6b26f177969e3aa1deaba68d4b5f1e014c563e505ce131b1",
+    "question": "免費版的NotebookLM每個帳號最多可建立 100 本筆記本，若數量達上限可刪除舊有筆記本即可建立新的筆記本使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:04:22.694Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dd6184e35519d5c7ba1cddbb8ddea481d7fe7f22e60c5ed9ed2d1b1717e67c82",
+    "question": "心智圖具有兩個主要功能：可整理所有來源資料的重點，並可作為提問依據使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T15:04:22.694Z",
+    "review_state": "candidate_ready"
   }
 ]
