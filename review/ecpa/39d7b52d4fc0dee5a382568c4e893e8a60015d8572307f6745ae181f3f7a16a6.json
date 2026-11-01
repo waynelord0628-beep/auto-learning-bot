@@ -241,5 +241,22 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-02T05:21:54.776Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "f586076a5b3659cb7526f1a1c5ab5bf8fe2cee01f8fd2cd5b08bf6406883256e",
+    "question": "只要使用相同的提示詞，AI 每次生成的圖片就一定完全相同。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生成式圖像應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T07:44:29.063Z",
+    "review_state": "candidate_ready"
   }
 ]
