@@ -67,12 +67,29 @@
     ],
     "type": "單選",
     "course": "消除對婦女一切形式歧視公約與我國婦女福利政策",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "基於性別差異給予明顯不平等待遇",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:43:40.784Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T14:20:09.749Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "基於性別差異給予明顯不平等待遇",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_11.html",
+          "title": "【解答】消除對婦女一切形式歧視公約與我國婦女福利政策 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-01T14:20:08.923Z"
+    },
+    "resolved_answer": "基於性別差異給予明顯不平等待遇"
   }
 ]
