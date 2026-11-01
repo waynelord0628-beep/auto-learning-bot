@@ -188,5 +188,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.520Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "baf3059515a519327cc5930db14755ead5813fdcb6ce823c133ef52b861f48a0",
+    "question": "我國歷年來清廉印象指數排名最佳是哪個年度?(至2022年為止)",
+    "options": [
+      "2020年",
+      "2021及2022年",
+      "2019年",
+      "2013年"
+    ],
+    "type": "單選",
+    "course": "廉能政府與廉政倫理規範（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "2021及2022年",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:44:26.435Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "75f8f9445cfd7af486ba0ec747b4767faba01d98a04cd2150d293fe3d43b60b2",
+    "question": "公務員對於與其職務有利害關係者所為之餽贈，符合下列何者情形，且係偶發而無影響特定權利義務之虞時，得受贈之",
+    "options": [
+      "對本機關（構）內多數人為餽贈，市價總額新臺幣3,000元者",
+      "長官之獎勵無金額限制",
+      "因結婚受贈之財物市價不超過新臺幣10,000元者",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "廉能政府與廉政倫理規範（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "因結婚受贈之財物市價不超過新臺幣10,000元者",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:44:26.438Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6ffe6ebbe5293a428ef143183b59e6fec5e42abe93990e738c5921a190718120",
+    "question": "行政院101年9月4日核定「行政院及所屬機關機構請託關說登錄查察作業要點」的立法目的與背景，下列何者為非？",
+    "options": [
+      "效率化",
+      "制度化",
+      "透明化",
+      "登錄標準化"
+    ],
+    "type": "單選",
+    "course": "廉能政府與廉政倫理規範（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "效率化",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:44:26.438Z",
+    "review_state": "candidate_ready"
   }
 ]
