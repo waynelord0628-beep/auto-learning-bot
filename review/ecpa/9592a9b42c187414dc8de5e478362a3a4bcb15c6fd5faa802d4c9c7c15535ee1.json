@@ -93,5 +93,100 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.284Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "684c5f928ee4094a521a46fcbe506ac56d0d1e4e6db3c20c5806540403609436",
+    "question": "以下關於合併列印的敘述，何者正確？",
+    "options": [
+      "合併列印不需要主文件",
+      "合併列印只能用於製作信封",
+      "合併列印需要主文件和資料庫",
+      "合併列印無法進行篩選"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "合併列印需要主文件和資料庫",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:50.469Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "55233ebcf80865d81aeada25f07a2e944485006f9c3cf5b3d4ae5fbec90720c5",
+    "question": "在製作合約書時，若甲方和乙方的文字不對齊，應該如何進行排版以達到齊頭式對齊？",
+    "options": [
+      "透過段落設置對齊方式",
+      "選取文字並使用“雙行寫入”",
+      "直接選擇“中央對齊”",
+      "使用格式功能中的“文字到文字”對齊"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "透過段落設置對齊方式",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:50.469Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "07f3151ad84c88fb9fea51ab03e3c293fbd1b9c231acb8ee62a3ab0aa3017f8d",
+    "question": "在編輯文件時，如果希望頁碼能包含章節編號，例如 \"1-1、2-1\"，且每個章節的頁碼都從第 1 頁開始，應如何設定？",
+    "options": [
+      "插入頁碼後直接輸入章節編號",
+      "使用分頁符號並重設頁碼樣式",
+      "在頁尾直接新增文字手動編輯頁碼",
+      "使用欄位功能設定章節編號及頁碼"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用欄位功能設定章節編號及頁碼",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:50.470Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6d921d017f8697cdace5b7b14ccb646bb7bda46400bf8e848c9efe7df1202c80",
+    "question": "假設你有兩份A5尺寸的文件，並希望將它們列印在同一張A4紙上，避免浪費紙張並確保排版整齊。下列哪個方法最適合實現這一目標？",
+    "options": [
+      "設定列印頁數為一頁，將資料縮放為A4尺寸",
+      "直接選擇A5列印格式，無需做其他調整",
+      "只列印一頁資料並設定為橫向列印",
+      "設定列印頁數為兩頁，並將每頁內容設為A5"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:50.470Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f62b9160e989563854a1d335de8d0ab5e4486b36ea2f4b1a83deea831f4d688",
+    "question": "在進行文件版面設定時，如果需要將第 1 頁設為直式版面，第 2 頁維持橫式版面，應該如何操作？",
+    "options": [
+      "直接將整份文件的版面設為直式",
+      "將游標放置在頁尾，插入橫向分頁符",
+      "使用格式功能中的「段落」設定分頁樣式",
+      "透過插入功能新增一個橫式頁面"
+    ],
+    "type": "單選",
+    "course": "Writer文書應用",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "透過插入功能新增一個橫式頁面",
+    "source": "ai_unverified",
+    "created_at": "2026-11-01T22:52:50.470Z",
+    "review_state": "candidate_ready"
   }
 ]
