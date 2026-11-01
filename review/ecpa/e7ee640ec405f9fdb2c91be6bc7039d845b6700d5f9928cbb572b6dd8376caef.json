@@ -52,7 +52,11 @@
     "candidate_answer": "被血液污染的器械或針具進行消毒或更換新品，再供下組消費者使用。",
     "source": "ai_unverified",
     "created_at": "2026-10-30T05:17:58.455Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-08T03:20:14.391Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b75079627251ebab8d23ccacd413829f1ea54f1770abdafb1f6c6d16cd828e68",
