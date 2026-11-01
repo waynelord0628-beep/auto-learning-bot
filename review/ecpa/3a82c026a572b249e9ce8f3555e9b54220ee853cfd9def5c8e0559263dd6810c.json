@@ -273,5 +273,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:39:11.690Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e3f19c377a7556e8987191d6de5a0332aebd7a7d6a43f4da0c0328c5957abdc5",
+    "question": "造成「金門油輪卸油橡膠管漏油事故」的基本原因，要歸咎於未規範船方使用符合國家標準規定及耐壓測試合格的卸油橡膠管。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "國內外漏油汚染案例大剖析",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-01T22:39:42.281Z",
+    "review_state": "awaiting_evidence"
   }
 ]
