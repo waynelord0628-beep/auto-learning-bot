@@ -9,13 +9,30 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ECOP(職涯初期海洋專家計畫)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.843Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-09T07:20:30.772Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "ECOP(職涯初期海洋專家計畫)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:26.179Z"
+    },
+    "resolved_answer": "ECOP(職涯初期海洋專家計畫)"
   },
   {
     "id": "8efbdead5d01c2b70947cf7b82e495605d0d989353ad870478960250f0a161f6",
@@ -26,13 +43,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.843Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:26.455Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "59bc49bcd8e19f16fc34b5b8d99a667f12524026cdd434411a672f184789f095",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2008年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2010年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:26.924Z"
+    },
+    "resolved_answer": "2010年",
+    "verification_status": "source_supported"
   },
   {
     "id": "c7b6825a0336e68b3c04f4972347e09c090ca57ed67f01b19b5279a8d39c7804",
@@ -63,13 +108,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "強化各國海權意識",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.844Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "強化各國海權意識",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:27.296Z"
+    },
+    "resolved_answer": "強化各國海權意識",
+    "verification_status": "source_supported"
   },
   {
     "id": "3353230c0fa539cb8a65b8d0ed790db5e2506f1e2d724068603517884e6e1476",
@@ -82,13 +141,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋科學的優先交錯問題",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.845Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "強化海洋知識傳遞",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:27.594Z"
+    },
+    "resolved_answer": "強化海洋知識傳遞",
+    "verification_status": "source_supported"
   },
   {
     "id": "2770e7dd2b736fb9cc1b35f87782842949737087d31018decbae86a5807223a8",
@@ -118,13 +191,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.845Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:27.873Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "0b7484aa9e92b70d05a53b06f49be49db5344dd52321bd0f838d3157ad82487d",
@@ -135,13 +222,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.845Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:27.884Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "ded4d4c09dde042e84e57e68978735ac8755a18d30db0e54a45f8539b0e533b3",
@@ -152,13 +253,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.846Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:27.892Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "14ab56f41c43fd92e7d78101796accbcdff20af621cb97701f0f59688f7c885b",
@@ -169,13 +284,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:10.846Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:28.216Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "b6a00954f8f2db77f7c346e66677e510d73b2458298ff02bc429c2b56fdde3e7",
@@ -188,13 +317,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "挑戰10-改變人類與海洋的關係",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.375Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "挑戰10-改變人類與海洋的關係",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:28.471Z"
+    },
+    "resolved_answer": "挑戰10-改變人類與海洋的關係",
+    "verification_status": "source_supported"
   },
   {
     "id": "7e5faf648871b2f2b9ccf2c5e4604bc68e12eaf0a7d3ca0ce7aca95984358b6c",
@@ -205,13 +348,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.378Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:28.736Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4ba8b310dbf52c3eac395ad29d988b88f3666442d7f1d28b677306ad71049659",
@@ -223,13 +380,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "了解海洋對你的影響以及你對海洋的影響",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.379Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "了解海洋對你的影響以及你對海洋的影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:29.036Z"
+    },
+    "resolved_answer": "了解海洋對你的影響以及你對海洋的影響",
+    "verification_status": "source_supported"
   },
   {
     "id": "8a698a7396603ab5ad88f0120f6413d9082edcc6080c21f0dfe126a238e009ea",
@@ -278,13 +449,27 @@
     ],
     "type": "是非",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:29.315Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9cb6b894943b59932856162203ae8fdf1d6df44d96cdc8623640e6de336d857a",
@@ -297,13 +482,27 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4.95%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "4.95%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:29.611Z"
+    },
+    "resolved_answer": "4.95%",
+    "verification_status": "source_supported"
   },
   {
     "id": "e89aac86d4349a46a97b2f8f8c6a08db1129d92d3fa41ea0dc4f1a8c09bb3d6a",
@@ -315,14 +514,28 @@
     ],
     "type": "單選",
     "course": "海洋素養",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:49:19.134Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-01T10:19:40.781Z"
+    "retry_after": "2026-11-01T10:19:40.781Z",
+    "source_review": {
+      "answer": "2 化學能和化合生物",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/02/ee_15.html",
+          "title": "「海洋素養」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T07:20:29.902Z"
+    },
+    "resolved_answer": "2 化學能和化合生物",
+    "verification_status": "source_supported"
   }
 ]
