@@ -16,7 +16,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.865Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "31fc99d5a33d1be0d94857661841060b47b540a7c2aee7221a10332c2821de43",
@@ -35,7 +37,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.867Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "c8c97182ed7e0d56b4763b5a4d79407d193b0e0c7ec0841c916bf11dd4589b31",
@@ -54,7 +58,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.868Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "e0488d9234ec3db6105bf83231cd79ac665f53528b97035843b49c499ea54378",
@@ -73,7 +79,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.869Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "dfae3d617e3b53c38976c6e22e808a8a0362b526a94515e4c661e0587dc2e73f",
@@ -92,7 +100,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.869Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "7c058b622018531fefd765946bd2474e8b7d837f9c8a41ffbf5d64dea5d9c4d0",
@@ -111,7 +121,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.870Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "4ab3a800290deea012f89a2995d2cb0b2507b312650bf76f386f01c7e46c34dd",
@@ -130,7 +142,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.870Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "90eefe3034a9118818e8cc751c374a950649eed59b9784b89a7f9292ae8ec43e",
@@ -149,7 +163,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.871Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "42fa54707c6d7490a4c05796b6f2636478125a0b6eaa1383d897cccdaa17f6e3",
@@ -168,7 +184,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.871Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   },
   {
     "id": "ef3cbcdaf5a72860b3a6ef52bbac1f0c2593ac11919719b32a66c1451a3e6dad",
@@ -187,6 +205,8 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.872Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T19:19:48.662Z"
   }
 ]
