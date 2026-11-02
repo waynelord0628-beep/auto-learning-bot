@@ -186,5 +186,100 @@
     "source": "reported_question",
     "created_at": "2026-11-02T09:52:24.043Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "73e37288eea806270d0e3d81af1b3993d03fb0e46c5bb1ca306bdfc60c628149",
+    "question": "依據原住民族教育法第二條之規定內容，政府應本於何種原則推動原住民族教育？",
+    "options": [
+      "多元",
+      "平等",
+      "自主",
+      "尊重"
+    ],
+    "type": "多選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T09:52:52.981Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7c63b0240e65f14f79ebde9ff8c3c21ee3518ea1fcd5fe94603f13e8db9fe84b",
+    "question": "課程中提及各國向原住民族道歉的年代，何者正確？",
+    "options": [
+      "澳洲 2007",
+      "挪威 2000",
+      "美國 1995",
+      "加拿大 2008"
+    ],
+    "type": "單選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "澳洲 2007",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T09:52:52.982Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9ba4036e7c14744c8028061bedc246ad0034350f49c4699dbd340dcc8c4403cf",
+    "question": "依據原住民族語言發展法第一條之規定內容，下列何者不是此法案的立法目的？",
+    "options": [
+      "推動原住民族自治",
+      "為實現歷史正義",
+      "促進原住民族語言之保存與發展",
+      "保障原住民族語言之使用及傳承"
+    ],
+    "type": "單選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "推動原住民族自治",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T09:52:52.983Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c43f4b206e2b82e2ac67ebd224af0257a2a97f30c5e7712bf55ad81927d62a83",
+    "question": "政府什麼時候進行第四次修憲，將「原住民」正名為「原住民族」，民族集體權正式獲得憲法認可？",
+    "options": [
+      "民國 80 年",
+      "民國 83 年",
+      "民國 86 年",
+      "民國 90 年"
+    ],
+    "type": "單選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "民國 83 年",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T09:52:52.983Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4baa17d7396991956d16ba7cfa94cf209c03df780435600aa950502ba17270fc",
+    "question": "下列有關總統府設置原住民族歷史正義與轉型正義委員會之目的，何者非屬之？",
+    "options": [
+      "落實原住民族基本法",
+      "推動歷史正義與轉型正義",
+      "建立原住民族自治基礎",
+      "提升原住民族經濟與社會狀況"
+    ],
+    "type": "單選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提升原住民族經濟與社會狀況",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T09:52:52.984Z",
+    "review_state": "candidate_ready"
   }
 ]
