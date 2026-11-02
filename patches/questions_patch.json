@@ -123814,5 +123814,28 @@
       "model": null,
       "checked_at": "2026-11-01T14:20:08.923Z"
     }
+  },
+  {
+    "question": "動物之飼主為自然人者，以成年人為限。未成年人飼養動物者，以其法定代理人或監護人為飼主。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0060027",
+          "quote": "動物之飼主為自然人者，以成年人為限。未成年人飼養動物者，以其法定代理人或監護人為飼主。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-02T00:20:14.015Z"
+    }
   }
 ]
