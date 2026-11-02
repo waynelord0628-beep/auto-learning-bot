@@ -49,10 +49,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "一年",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.600Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "fb2d2b6c707098db6125d389601d1c9dccab2a3584360a9a1b9cfacde8b6382b",
@@ -85,10 +87,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "第四類：重質油",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.601Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "5b411c8e751a599c2b8c047ddd8020f82d8955920d593e1c4a53468486a36640",
@@ -121,10 +125,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "石油管線爆炸",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.602Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "652800ba690068796c88a171472c3e0adc261bb6a627205bbd4c8a0de3150a83",
@@ -140,10 +146,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "操作人員未發現液位計異常",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.602Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "672eb8ec01dd22691a5434de178fdb0ade9d4d0cfba67f6b83f2e4827b019372",
@@ -176,10 +184,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "善用各種資源積極防止漏油擴散",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:38:37.603Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "27a12830369d983c6ec43f2747d4583268374da32871efaf02b86395fb4666d4",
@@ -233,10 +243,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "毛伊海豚瀕臨滅絕",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:39:11.687Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-03T23:19:42.978Z"
   },
   {
     "id": "b3c80c91adb84b942a65ac69cec0eb0faca01ac58a0f13b8c84b8ae7b6c8e334",
