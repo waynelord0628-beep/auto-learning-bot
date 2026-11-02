@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民國 106?8月",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.034Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-09T13:21:01.174Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國 106?8月",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:57.386Z"
+    },
+    "resolved_answer": "民國 106?8月"
   },
   {
     "id": "996522435bf8ff8b0154626753ffff197581a46fedfe98d4cfd7837d229e4d02",
@@ -67,13 +84,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "為核廢料存置在達仁鄉南田村道歉",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "為核廢料存置在達仁鄉南田村道歉",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:57.663Z"
+    },
+    "resolved_answer": "為核廢料存置在達仁鄉南田村道歉",
+    "verification_status": "source_supported"
   },
   {
     "id": "8daeea0ee8e38503150376a11b9b301ed850b84a9414a041069aaf4709b04102",
@@ -105,13 +140,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "八月九日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.040Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "八月一日",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:57.883Z"
+    },
+    "resolved_answer": "八月一日",
+    "verification_status": "source_supported"
   },
   {
     "id": "dc0e6b06ad3d202d0c1a2483a4c1dfa126aba0cebe79b33bde025dc6c6c87b69",
@@ -122,13 +175,31 @@
     ],
     "type": "是非",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:58.140Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "73f6fb0fbd7f518cf44eccffded8495288ad33e92ddcf4c661eb0b1c89dbb680",
@@ -141,13 +212,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "和解小組",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.042Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "語言小組",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:58.385Z"
+    },
+    "resolved_answer": "語言小組",
+    "verification_status": "source_supported"
   },
   {
     "id": "3a15691365731335a696c5089596e9bb4b2126b674f7daff46285c4385dd3c9a",
@@ -160,13 +249,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "主要明定於憲法本文之中",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:24.043Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "主要明定於憲法本文之中",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:58.761Z"
+    },
+    "resolved_answer": "主要明定於憲法本文之中",
+    "verification_status": "source_supported"
   },
   {
     "id": "96132d1e5fb8929044bad3051639a7b4b6cbd42d1eaf76ce648da96c55dc8bda",
@@ -217,13 +324,27 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "澳洲 2007",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:52.982Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "加拿大 2008",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:59.015Z"
+    },
+    "resolved_answer": "加拿大 2008",
+    "verification_status": "source_supported"
   },
   {
     "id": "9ba4036e7c14744c8028061bedc246ad0034350f49c4699dbd340dcc8c4403cf",
@@ -236,13 +357,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "推動原住民族自治",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:52.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "推動原住民族自治",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:59.248Z"
+    },
+    "resolved_answer": "推動原住民族自治",
+    "verification_status": "source_supported"
   },
   {
     "id": "c43f4b206e2b82e2ac67ebd224af0257a2a97f30c5e7712bf55ad81927d62a83",
@@ -274,13 +413,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "提升原住民族經濟與社會狀況",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:52.984Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "提升原住民族經濟與社會狀況",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:59.543Z"
+    },
+    "resolved_answer": "提升原住民族經濟與社會狀況",
+    "verification_status": "source_supported"
   },
   {
     "id": "72604c6b6b3578a6402a9d16ea4358caf563b22e02ad4cc1ba9d62aea6cafa97",
@@ -293,13 +450,27 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "被偷竊的世代 Stolen Generations",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:53:26.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "被偷竊的世代 Stolen Generations",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:20:59.781Z"
+    },
+    "resolved_answer": "被偷竊的世代 Stolen Generations",
+    "verification_status": "source_supported"
   },
   {
     "id": "70285aa095d6ffb1dc93603f8c5a262c24cb144743f84b01bd7c3ebd97e18f33",
@@ -312,13 +483,31 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1985",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:53:26.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1985",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:21:00.025Z"
+    },
+    "resolved_answer": "1985",
+    "verification_status": "source_supported"
   },
   {
     "id": "783bdcc77214655fb7dcc1c46fe0c413fc5072a0235ada6b2a021c53a654ffb7",
@@ -331,12 +520,30 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "原住民族基本法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:53:26.157Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "憲法增修條文",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-02T13:21:00.386Z"
+    },
+    "resolved_answer": "憲法增修條文",
+    "verification_status": "source_supported"
   }
 ]
