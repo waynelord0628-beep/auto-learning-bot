@@ -188,5 +188,81 @@
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.402Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "dcbd35d90d99d8744fac90d153c848667aedfca7f623ea0edf0af580279113e1",
+    "question": "下列那一項績效指標屬於「共同績效指標(Commom Performance Indicator)」的一種?",
+    "options": [
+      "預算執行率",
+      "活動舉辦場次",
+      "活動報名人數",
+      "APP下載次數"
+    ],
+    "type": "單選",
+    "course": "方案管理與習作（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "預算執行率",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T06:38:43.105Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "436eaf3b9a88b30145dee6ee378868144a6042a557fc80a3f47143f82140e3d5",
+    "question": "當發現某方案或計畫在執行時「有標準作業程序(Standard Operation Procedure)」，那一個面向的可行性會相對較高?",
+    "options": [
+      "政治可行性",
+      "經濟可行性",
+      "行政可行性",
+      "環境可行性"
+    ],
+    "type": "單選",
+    "course": "方案管理與習作（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "行政可行性",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T06:38:43.106Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "14d95e00495490888a4dd136a46fc4fa70a31723efdeeb3c0abecd16e4cdffd3",
+    "question": "「自備環保杯可享五元折扣」的規定，最符合下列那一種方案工具的類型?",
+    "options": [
+      "學習型",
+      "能力建立型",
+      "權威型",
+      "誘因型"
+    ],
+    "type": "單選",
+    "course": "方案管理與習作（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "誘因型",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T06:38:43.106Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c1a5358871cfc54689913a3d6e63790e235865cf7954861587e9be05a7eece03",
+    "question": "下列那一種方法或活動最無法達成「腦力激盪(Brainstorming)」的效果?",
+    "options": [
+      "公民會議",
+      "審議論壇",
+      "世界咖啡館",
+      "電話調查"
+    ],
+    "type": "單選",
+    "course": "方案管理與習作（基礎訓練）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "電話調查",
+    "source": "ai_unverified",
+    "created_at": "2026-11-02T06:38:43.106Z",
+    "review_state": "candidate_ready"
   }
 ]
