@@ -124217,5 +124217,30 @@
       "model": null,
       "checked_at": "2026-11-02T07:20:29.902Z"
     }
+  },
+  {
+    "question": "為何許多老年同志在社會中較不容易被看見？",
+    "type": "單選",
+    "options": [
+      "都選擇公開同志身分",
+      "擔心出櫃而刻意隱藏自己的身分",
+      "都居住在照顧機構中",
+      "已退出所有社會活動"
+    ],
+    "course": "性別(跨性別)敏感議題",
+    "answer": "擔心出櫃而刻意隱藏自己的身分",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "擔心出櫃而刻意隱藏自己的身分",
+      "sources": [
+        {
+          "url": "https://www.gender.ey.gov.tw/Multimedia/System/Notes/DealData.aspx?sn=PsKAvsFoXLFcIub5I5r%21GA%40%40",
+          "quote": "特別是從不瞭解同志、歧視同志的年代走過來的老年同志，成長過程經歷很大的出櫃壓力，擔心被排擠／歧視，隨時要顧忌同志身分被知道，被迫偽裝成異性戀。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-02T11:20:44.477Z"
+    }
   }
 ]
