@@ -31,17 +31,30 @@
     ],
     "type": "是非",
     "course": "自主投資理財及平台操作教育訓練",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-20T11:33:03.267Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:06.942Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-09T02:20:21.984Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.fund.gov.tw/News_Content.aspx?n=377&s=20046",
+          "quote": "參加儲金人員請於自主投資平台上進行風險屬性評估，依照可承受之風險程度選擇投資標的組合(保守型、穩健型、積極型及人生週期型4選1)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-02T02:20:21.140Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "1dc1b134415204a34adbe25b1559844fd51e230f2e3f918cfa83fa62026aeaa9",

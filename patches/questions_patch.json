@@ -123837,5 +123837,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-02T00:20:14.015Z"
     }
+  },
+  {
+    "question": "每月投資組合可以同時選擇兩種以上的投資組合。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "自主投資理財及平台操作教育訓練",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.fund.gov.tw/News_Content.aspx?n=377&s=20046",
+          "quote": "參加儲金人員請於自主投資平台上進行風險屬性評估，依照可承受之風險程度選擇投資標的組合(保守型、穩健型、積極型及人生週期型4選1)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-02T02:20:21.140Z"
+    }
   }
 ]
