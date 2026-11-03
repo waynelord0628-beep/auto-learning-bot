@@ -125397,5 +125397,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-03T14:20:19.610Z"
     }
+  },
+  {
+    "question": "法規範所訂的罰鍰上下限為1,200至6,000元，然行政機關卻處以7,000元之罰鍰，稱之為裁量怠惰。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "行政裁量界線與常見違失案例解析",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.epd.ntpc.gov.tw/Journal/magazine/63d9a908-27ae-4c07-8b85-6305b9086bd7/article/5f1bb31a-227d-460c-a4f5-98b0df82c6ed",
+          "quote": "裁量怠惰：指行政機關依法有裁量權，但因故意或過失而消極地不行使。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-03T14:20:49.359Z"
+    }
   }
 ]
