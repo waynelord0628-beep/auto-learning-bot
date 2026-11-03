@@ -123,5 +123,43 @@
     "source": "reported_question",
     "created_at": "2026-11-03T06:41:39.407Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "e78476d99240df6034ea0dc0d790387c3f6f7e71fca8ee5c1aa540f0908a86cd",
+    "question": "依《環境教育法》規定，每人每年至少應接受多少小時的環境教育？\n&nbsp;",
+    "options": [
+      "(A) 2 小時",
+      "(B) 4 小時",
+      "(C) 6 小時",
+      "(D) 8 小時"
+    ],
+    "type": "單選",
+    "course": "認識衛生福利部永續發展推動委員會",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "B",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-03T06:42:48.754Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "7dec72b3bd747fab4d28a7f33b29ab6c8bb8ce9ad23e4d6b0ed6bc3c88b4ad7c",
+    "question": "委員會底下設有四個工作小組，下列何者「不是」這四個工作小組之一？\n&nbsp;",
+    "options": [
+      "(A) 永續發展治理組",
+      "(B) 組織永續與人力資源組",
+      "(C) 低碳衛生福利設施韌性組",
+      "(D) 國際醫療交流合作組"
+    ],
+    "type": "單選",
+    "course": "認識衛生福利部永續發展推動委員會",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "C",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-03T06:42:48.756Z",
+    "review_state": "awaiting_evidence"
   }
 ]
