@@ -442,5 +442,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:40:09.445Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0ffb5b9c70936ba0076c3d6054489bbd225a6d9c31a961ed2690ebdd1422e710",
+    "question": "雙重驗證 (MFA) 唯一會失效的情況通常是什麼？",
+    "options": [
+      "手機作業系統沒有更新",
+      "在公共 Wi-Fi 下登入",
+      "使用者不小心截圖或直接把登入驗證碼（OTP）交給了詐騙集團",
+      "電腦中毒"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "使用者不小心截圖或直接把登入驗證碼（OTP）交給了詐騙集團",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:51.610Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cff6e612ca00469bde8c380f6f8af1b4b523497a4dd8b3726848b443c49b6c7b",
+    "question": "AI 探員中，「NLP 語意模型」的主要任務是什麼？",
+    "options": [
+      "偵測駭客所在的國家",
+      "分析信件語氣，若平時溫和的主管突然用語「極度急迫」，則立刻攔截",
+      "掃描附件是否包含病毒碼",
+      "自動修補系統漏洞"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "分析信件語氣，若平時溫和的主管突然用語「極度急迫」，則立刻攔截",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:51.614Z",
+    "review_state": "candidate_ready"
   }
 ]
