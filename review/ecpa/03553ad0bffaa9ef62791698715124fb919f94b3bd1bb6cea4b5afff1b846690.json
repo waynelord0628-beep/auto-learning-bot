@@ -38,5 +38,22 @@
     "source": "ai_unverified",
     "created_at": "2026-09-27T11:33:45.847Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "391791ac9789fc93673cccd1f95d15f86c4afbb423a61b33110c46613f67d47c",
+    "question": "小菁這週連續4天都睡不好，而且這樣的情況已維持了3個月，也造成她上班時精神不濟、體力很差，她有可能得了失眠症。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "精神疾病防治與精神醫療概念",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T16:15:51.728Z",
+    "review_state": "candidate_ready"
   }
 ]
