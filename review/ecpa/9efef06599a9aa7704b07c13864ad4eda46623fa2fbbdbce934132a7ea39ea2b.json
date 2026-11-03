@@ -366,5 +366,81 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.775Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "ccd79c2d253d53e031f40749d5deb18e60b95cf9e0f36f5fa6725a4284709553",
+    "question": "為何「不點開信件連結」也可能會中毒？",
+    "options": [
+      "因為電腦本身就有病毒",
+      "因為駭客可以遠端遙控滑鼠",
+      "Outlook「預覽功能」會自動解析檔案，可能在不自覺下觸發零時差漏洞",
+      "因為防毒軟體會自動執行未知的程式"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Outlook「預覽功能」會自動解析檔案，可能在不自覺下觸發零時差漏洞",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:09.436Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "776ab37fea87d04f5a7dae0131e30b0c31ab9d15f0b6c4a1f08ec318ec98a21e",
+    "question": "關於字型細節比對，駭客最常利用哪種方式偽造官方網址？",
+    "options": [
+      "將網址全部改成大寫",
+      "混淆視覺上相似的字元（如數字 0 與英文 o，數字 1 與英文 l）",
+      "在網址後面加上隨機亂碼",
+      "使用不同顏色的字體"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "混淆視覺上相似的字元（如數字 0 與英文 o，數字 1 與英文 l）",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:09.441Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5558abfadb3504fb8b0644ee8e91ac50977876ef0a8412d2338f10c3cd067394",
+    "question": "關閉 Outlook 預覽功能（讀取窗格）被比喻為以下哪種行為？",
+    "options": [
+      "把大門鎖換成指紋鎖",
+      "把家門的貓眼封起來，確認安全後再主動開門",
+      "在門口加裝監視器",
+      "請保全在門口站崗"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "把家門的貓眼封起來，確認安全後再主動開門",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:09.442Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d70f0ce02907c5c03e1922af026d9e9405df9b83763d96f9468a1cc02a9d12e8",
+    "question": "「防駭金三角」中，對於與自身業務完全無關的信件，應採取什麼態度？",
+    "options": [
+      "點擊確認是否為客戶",
+      "轉寄給資安部門調查",
+      "斷捨離（不要好奇，不點開，直接刪除）",
+      "放著不理它"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "斷捨離（不要好奇，不點開，直接刪除）",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:40:09.445Z",
+    "review_state": "candidate_ready"
   }
 ]
