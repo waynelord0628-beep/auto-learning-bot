@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "棘輪效應",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.394Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-10T15:20:06.189Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "棘輪效應",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:19:58.535Z"
+    },
+    "resolved_answer": "棘輪效應"
   },
   {
     "id": "0876faaf5fcc9519c63187ce3f2cf854ceef6e55429909478d96c2bd3a645e97",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "決策樹法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.395Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "決策樹法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:19:58.978Z"
+    },
+    "resolved_answer": "決策樹法",
+    "verification_status": "source_supported"
   },
   {
     "id": "cca89e0c5a73dc18e884033801bb126a2580c0498b2762fb93ae08c75076ac67",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "發生機率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.395Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "發生機率",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:19:59.410Z"
+    },
+    "resolved_answer": "發生機率",
+    "verification_status": "source_supported"
   },
   {
     "id": "991b7befe964208450e04409a55239db28ee4cb7ac58ae1ce762a027f45ff524",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "政治可行性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.396Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "政治可行性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:19:59.857Z"
+    },
+    "resolved_answer": "政治可行性",
+    "verification_status": "source_supported"
   },
   {
     "id": "dbdf5f55069c5414d26072cf66b658e5f50528e1bc5ca8235dea3f171a017820",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "發展方案",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.397Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "瞭解需求",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:00.300Z"
+    },
+    "resolved_answer": "瞭解需求",
+    "verification_status": "source_supported"
   },
   {
     "id": "022a78b3d03b1ff99a94d6345dcbc11d26cb8f6a2387c619901d5d424e292f27",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "內部優勢",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.398Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "內部優勢",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:00.775Z"
+    },
+    "resolved_answer": "內部優勢",
+    "verification_status": "source_supported"
   },
   {
     "id": "95a9551db34a2eb0a921b47ce457cdb01732d45865b74d839fc8269d1f7af297",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "目標錯置",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.399Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "目標錯置",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:01.238Z"
+    },
+    "resolved_answer": "目標錯置",
+    "verification_status": "source_supported"
   },
   {
     "id": "a91eeaacdac12d5683bdac1f48cc622ddc8ed3bf8c958ac91bc970c14dea3abf",
@@ -162,13 +263,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "SWOT分析可以協助我們排出方案的優先順序",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.401Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "SWOT分析可以協助我們排出方案的優先順序",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:02.217Z"
+    },
+    "resolved_answer": "SWOT分析可以協助我們排出方案的優先順序",
+    "verification_status": "source_supported"
   },
   {
     "id": "f20214764b0ca62760ead77356a259a82b4d7bd3eb6db00024c4bc7e47a62f41",
@@ -181,13 +296,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "Keep Satisfied",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.402Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "Maximal Effort",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:02.787Z"
+    },
+    "resolved_answer": "Maximal Effort",
+    "verification_status": "source_supported"
   },
   {
     "id": "dcbd35d90d99d8744fac90d153c848667aedfca7f623ea0edf0af580279113e1",
@@ -219,13 +348,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "行政可行性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:43.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "行政可行性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:04.048Z"
+    },
+    "resolved_answer": "行政可行性",
+    "verification_status": "source_supported"
   },
   {
     "id": "14d95e00495490888a4dd136a46fc4fa70a31723efdeeb3c0abecd16e4cdffd3",
@@ -238,13 +381,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "誘因型",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:43.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "誘因型",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:04.624Z"
+    },
+    "resolved_answer": "誘因型",
+    "verification_status": "source_supported"
   },
   {
     "id": "c1a5358871cfc54689913a3d6e63790e235865cf7954861587e9be05a7eece03",
@@ -257,12 +414,26 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "電話調查",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:43.106Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "電話調查",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_84.html",
+          "title": "「方案管理與習作（基礎訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T15:20:05.257Z"
+    },
+    "resolved_answer": "電話調查",
+    "verification_status": "source_supported"
   }
 ]
