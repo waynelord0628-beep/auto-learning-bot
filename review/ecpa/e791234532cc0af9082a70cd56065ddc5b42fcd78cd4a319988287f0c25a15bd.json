@@ -981,5 +981,77 @@
       "checked_at": "2026-10-20T03:09:25.529Z"
     },
     "resolved_answer": "錯誤"
+  },
+  {
+    "id": "3f4a4e475196e708c760fcafa6e1508c49aa7e25ce8e53a2f2bf70f17dbf4846",
+    "question": "根據家事事件法第178條第1項，輔助宣告之裁定，於裁定送達1週後開始發生效力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T17:21:28.487Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5d38a7c61553aa7cee3d7afff81cb8c41281e8ad8fa87757d1a2d9aa55253c88",
+    "question": "一個患有嚴重亞斯伯格症及智能障礙的20歲男子，雖可表達意思，但表達力非常弱，容易被騙去簽署本票，或將存摺、提款卡交給第三人，為避免其能力顯有不足導致被人利用，可建議其家屬向法院聲請什麼？",
+    "options": [
+      "監護宣告",
+      "輔助宣告",
+      "身心障礙證明",
+      "長照補助"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "輔助宣告",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T17:21:28.490Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c66b45756adde7b1d4acef58d5c5afac1711ed359ded76c0663abd9e4c23f2f6",
+    "question": "受輔助宣告之人有受監護之必要者，法院得依第十四條第一項規定，變更為監護之宣告。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T17:21:28.492Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1a79fc88f976610425bf65b6542be05cd37c5db99821f136dc6975e0e0899ebd",
+    "question": "「親屬系統表」是做到幾等親以內？",
+    "options": [
+      "一親等",
+      "二親等",
+      "三親等",
+      "四親等"
+    ],
+    "type": "單選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "三親等",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T17:21:28.493Z",
+    "review_state": "candidate_ready"
   }
 ]
