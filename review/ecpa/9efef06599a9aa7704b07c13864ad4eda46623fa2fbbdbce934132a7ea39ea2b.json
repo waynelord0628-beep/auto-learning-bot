@@ -480,5 +480,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:40:51.614Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad83f1897f936b7d1dd7080369a5d7a6eaaf48f38c4d304f6e73186da721fdc7",
+    "question": "在「拆解 2FA 劫持（中間人攻擊）」中，駭客是如何拿到正確的驗證碼的？",
+    "options": [
+      "駭客破解了電信公司的簡訊系統",
+      "駭客偷走了你的手機",
+      "駭客同步轉發你的登入請求，誘導你在「錯誤的網域」輸入收到的「真實驗證碼」",
+      "駭客用 AI 猜測驗證碼"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:41:23.597Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "e7ec2423f3e14f7bd97b757f824550185e3a2d3c1d24be221870a2da49bc1843",
+    "question": "若不幸點擊惡意連結或發現異常，使用者應該怎麼做？",
+    "options": [
+      "拔掉電源並裝作沒發生",
+      "不害怕、不隱瞞，立刻通報 IT 部門",
+      "嘗試自己用掃毒軟體處理",
+      "趕快回信罵駭客"
+    ],
+    "type": "單選",
+    "course": "公務信件釣魚攻防指南",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不害怕、不隱瞞，立刻通報 IT 部門",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T13:41:23.601Z",
+    "review_state": "candidate_ready"
   }
 ]
