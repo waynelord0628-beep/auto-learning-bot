@@ -18,7 +18,11 @@
     "created_at": "2026-11-02T12:14:00.865Z",
     "review_state": "awaiting_candidate",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-10T07:20:09.763Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "31fc99d5a33d1be0d94857661841060b47b540a7c2aee7221a10332c2821de43",
@@ -31,15 +35,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.867Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "請供應商口頭承諾，不需要建立或加強供應商管理制度。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:06.960Z"
+    },
+    "resolved_answer": "請供應商口頭承諾，不需要建立或加強供應商管理制度。",
+    "verification_status": "source_supported"
   },
   {
     "id": "c8c97182ed7e0d56b4763b5a4d79407d193b0e0c7ec0841c916bf11dd4589b31",
@@ -52,15 +70,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.868Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "「is/is not差異分析法」無法用於解決問題或改善品質。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:07.235Z"
+    },
+    "resolved_answer": "「is/is not差異分析法」無法用於解決問題或改善品質。",
+    "verification_status": "source_supported"
   },
   {
     "id": "e0488d9234ec3db6105bf83231cd79ac665f53528b97035843b49c499ea54378",
@@ -73,15 +105,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.869Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "BCE",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:07.471Z"
+    },
+    "resolved_answer": "BCE",
+    "verification_status": "source_supported"
   },
   {
     "id": "dfae3d617e3b53c38976c6e22e808a8a0362b526a94515e4c661e0587dc2e73f",
@@ -94,15 +140,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.869Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "供應商評鑑依現行法規規定必須強制每年實地評鑑一次，不得以文件或其他方式取代。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:07.700Z"
+    },
+    "resolved_answer": "供應商評鑑依現行法規規定必須強制每年實地評鑑一次，不得以文件或其他方式取代。",
+    "verification_status": "source_supported"
   },
   {
     "id": "7c058b622018531fefd765946bd2474e8b7d837f9c8a41ffbf5d64dea5d9c4d0",
@@ -115,15 +175,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.870Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "暫停合作、重新評估供應商資格、增加市場替換壓力。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:07.979Z"
+    },
+    "resolved_answer": "暫停合作、重新評估供應商資格、增加市場替換壓力。",
+    "verification_status": "source_supported"
   },
   {
     "id": "4ab3a800290deea012f89a2995d2cb0b2507b312650bf76f386f01c7e46c34dd",
@@ -136,15 +210,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.870Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "請供應商提供倉儲清潔衛生管理紀錄表及冷藏/冷凍庫溫度紀錄進行檢視。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:08.266Z"
+    },
+    "resolved_answer": "請供應商提供倉儲清潔衛生管理紀錄表及冷藏/冷凍庫溫度紀錄進行檢視。",
+    "verification_status": "source_supported"
   },
   {
     "id": "90eefe3034a9118818e8cc751c374a950649eed59b9784b89a7f9292ae8ec43e",
@@ -157,15 +245,29 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.871Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "123",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:08.546Z"
+    },
+    "resolved_answer": "123",
+    "verification_status": "source_supported"
   },
   {
     "id": "42fa54707c6d7490a4c05796b6f2636478125a0b6eaa1383d897cccdaa17f6e3",
@@ -199,14 +301,28 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.872Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T19:19:48.662Z"
+    "retry_after": "2026-11-03T19:19:48.662Z",
+    "source_review": {
+      "answer": "動物用藥殘留標準",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T07:20:09.035Z"
+    },
+    "resolved_answer": "動物用藥殘留標準",
+    "verification_status": "source_supported"
   }
 ]
