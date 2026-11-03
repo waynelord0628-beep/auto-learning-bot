@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.875Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-10T03:20:24.917Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:20.673Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e1c998c66a36a004416de4472b829b531df6e21a3e165ba3adf6e5803721b8a9",
@@ -27,13 +44,27 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "勞資爭議糾紛",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.876Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "勞資爭議糾紛",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:21.062Z"
+    },
+    "resolved_answer": "勞資爭議糾紛",
+    "verification_status": "source_supported"
   },
   {
     "id": "38853eab96837d33db5049b45eefbbae36042f15f66fef1c570247decece7dd5",
@@ -44,13 +75,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.877Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:21.359Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "00e7d4ca09a3928adef89c13ea6fba425f50851fdbfec0ffd709e23ae7dcb1c4",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.877Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:21.672Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "df7280a8cf131573184a7a8aca0dece2d0e5ce587d5ee738a7e4bac71d68864c",
@@ -78,13 +137,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.878Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:21.963Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "a31e12550d96767f52c4af824c97b8ffb9d184338c947e94b1afaf7ab35fa83a",
@@ -97,13 +170,27 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不得少於三分之一",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "不得少於三分之二",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:22.248Z"
+    },
+    "resolved_answer": "不得少於三分之二",
+    "verification_status": "source_supported"
   },
   {
     "id": "1b99f0131cf0bf4bd6b45ba27ea8d79e43d89bcdf2b99d1234d3032b28ed7d73",
@@ -114,13 +201,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.879Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:22.569Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "c6f95cdbd86691367610b1f5150c73593b61bffe1db069397972e09728f1e4d9",
@@ -131,13 +232,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.880Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:22.871Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "926ad774f5f2dd4c472ae1a9ec3f781bb912c3c58839f04c0c7e8e6c7bce6257",
@@ -148,13 +263,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:05.881Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:23.183Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "c225abc0f6d3e8ff64102f2b42fe91776643476ec3db89f9d3de962e33bce986",
@@ -165,13 +294,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:42.799Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:23.470Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "5d7382424c5242711900ab16dad2379e01024f83e395f3ffb0c345f15708a6f9",
@@ -182,13 +325,27 @@
     ],
     "type": "是非",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:42.800Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:23.912Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "e66ca757ae4479a064e9bc8dc5437a2c5317acfeb30e8655a8e56256929bfb16",
@@ -201,12 +358,26 @@
     ],
     "type": "單選",
     "course": "職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "十日內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T11:35:42.801Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "一個月內",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0229557445.html",
+          "title": "「職場霸凌防治新制解析-公務人員執行職務安全及衛生防護辦法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T03:20:24.233Z"
+    },
+    "resolved_answer": "一個月內",
+    "verification_status": "source_supported"
   }
 ]
