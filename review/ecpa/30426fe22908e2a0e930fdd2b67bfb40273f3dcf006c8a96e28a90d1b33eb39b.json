@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "行動化應用軟體無障礙進階分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "通知訊息必須同時可見和可聽",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:22.155Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:06.421Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-10T12:19:51.879Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "通知訊息必須同時可見和可聽",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.356Z"
+    },
+    "resolved_answer": "通知訊息必須同時可見和可聽"
   },
   {
     "id": "154467fa9ffb40cea9b95422b484ebbd2c34ace611533ee9bd457d0d737b95dd",
@@ -33,17 +46,30 @@
     ],
     "type": "單選",
     "course": "行動化應用軟體無障礙進階分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "標題名稱應與頁面內容相呼應",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:22.164Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:06.428Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "標題名稱應與頁面內容相呼應",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.680Z"
+    },
+    "resolved_answer": "標題名稱應與頁面內容相呼應"
   },
   {
     "id": "e397bd623c3f561868d4b87b35ec83368d498f51946a1edeaf4a5a122886d8a6",
@@ -56,19 +82,32 @@
     ],
     "type": "單選",
     "course": "行動化應用軟體無障礙進階分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "背景圖片不可被聚焦，若背景圖片為有意義傳達之圖片，應有替代的表達方式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:06:50.989Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
     "retry_after": "2026-09-12T18:19:37.295Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:06.434Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "需於系列圖片之第一項目描述該組圖片相關資訊",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.964Z"
+    },
+    "resolved_answer": "需於系列圖片之第一項目描述該組圖片相關資訊"
   },
   {
     "id": "25a7c4aee9cfbeba242345cbe43d3399027dead376d9cb7aef6dce106f193f88",
@@ -138,17 +177,30 @@
     ],
     "type": "單選",
     "course": "行動化應用軟體無障礙進階分享",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "AV時序媒體",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-12T04:14:28.740Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:06.440Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "AV時序媒體",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.966Z"
+    },
+    "resolved_answer": "AV時序媒體"
   },
   {
     "id": "2f26bf5df5efa0f942a414745feee9c33fbda77479e4d4ec97268552f404567f",

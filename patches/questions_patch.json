@@ -125274,5 +125274,105 @@
       "model": null,
       "checked_at": "2026-11-03T08:20:00.980Z"
     }
+  },
+  {
+    "question": "在行動化應用軟體無障礙檢測指引中，有關「NT1包容性通知」檢測點描述，下列何者正確?",
+    "type": "單選",
+    "options": [
+      "通知訊息必須有語音",
+      "通知訊息必須有圖片",
+      "通知訊息必須有連結",
+      "通知訊息必須同時可見和可聽"
+    ],
+    "course": "行動化應用軟體無障礙進階分享",
+    "answer": "通知訊息必須同時可見和可聽",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "通知訊息必須同時可見和可聽",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.356Z"
+    }
+  },
+  {
+    "question": "有關「ST1單一頁面標題」檢核點相關說明，下列何者符合無障礙設計？(複選)",
+    "type": "單選",
+    "options": [
+      "頁面標題無須顯示在螢幕任一地方",
+      "僅需提供APP名稱作為每個頁面標題",
+      "頁面標題只要在特定頁面顯示",
+      "標題名稱應與頁面內容相呼應"
+    ],
+    "course": "行動化應用軟體無障礙進階分享",
+    "answer": "標題名稱應與頁面內容相呼應",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "標題名稱應與頁面內容相呼應",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.680Z"
+    }
+  },
+  {
+    "question": "有關「AT5系列圖片」檢測點的期望敘述，下列何者正確?",
+    "type": "單選",
+    "options": [
+      "使用實際文字而非使用文字圖片",
+      "需於系列圖片之第一項目描述該組圖片相關資訊",
+      "背景圖片不可被聚焦，若背景圖片為有意義傳達之圖片，應有替代的表達方式",
+      "圖片、物件或沒有意義但取得焦點的元件被宣告為“不可用”或“禁用”，並且不可操作"
+    ],
+    "course": "行動化應用軟體無障礙進階分享",
+    "answer": "需於系列圖片之第一項目描述該組圖片相關資訊",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "需於系列圖片之第一項目描述該組圖片相關資訊",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.964Z"
+    }
+  },
+  {
+    "question": "在行動化應用軟體無障礙檢測指引中，下列何者不是互動組件的檢測單?",
+    "type": "單選",
+    "options": [
+      "TS觸控操作",
+      "AV時序媒體",
+      "FC焦點",
+      "LK鏈結"
+    ],
+    "course": "行動化應用軟體無障礙進階分享",
+    "answer": "AV時序媒體",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "AV時序媒體",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_3.html",
+          "title": "【解答】行動化應用軟體無障礙進階分享 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T12:19:50.966Z"
+    }
   }
 ]
