@@ -125374,5 +125374,28 @@
       "model": null,
       "checked_at": "2026-11-03T12:19:50.966Z"
     }
+  },
+  {
+    "question": "餐廳因為認為女性較親切，在徵人廣告中直接寫「限女性」，原則上是合法的。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "(115年)性別平等工作法",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "quote": "雇主對求職者或受僱者之招募、甄試、進用、分發、配置、考績或陞遷等，不得因性別或性傾向而有差別待遇。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-03T14:20:19.610Z"
+    }
   }
 ]
