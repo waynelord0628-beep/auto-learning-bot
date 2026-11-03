@@ -178,5 +178,111 @@
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.389Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "041d148e178520525435baab142d5d99c6dcd613c671ae53cb7a21eb2e7d4e9c",
+    "question": "「電力系統與儲能」為政府推動2050淨零排放路徑「十二項關鍵戰略」之一",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.960Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "37fa25a9d1d19628b91504c0d9b19b1d913513a4e2ed69f0dc141e8ba8c319a5",
+    "question": "以基載型地熱與海洋能為發展重點的「前瞻能源」為政府推動2050淨零排放路徑「十二項關鍵戰略」之一",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.963Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8982fd7e313e832b31481303f406462b27d28cdb63504966e06121d80bc34f98",
+    "question": "長期以來太陽能與風能價格逐年一直下降﹐成本直逼近煤與天然氣。為了節能減碳﹐推動太陽能與風能已經是世界潮流",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.964Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "49b51574bd62a6d8a33d8f27e6a870d52300bf37c3ff7da7c679253c5aa5dade",
+    "question": "二次能源包括",
+    "options": [
+      "電池",
+      "超電容",
+      "飛輪儲能",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.965Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9701f264f52f5074e310e12f1722ec81af5c8756b4954d7feaddbb40b85b7bdd",
+    "question": "根據講座所述，正提出一個新的「奈電網」概念，且因應各類電子設備(手機、電腦、電視、LED燈等等)的直流用電特性，建議「奈電網」加入直流配電，以供家庭社區用電",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.966Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8e55d70c4945d21f7ca299b76e4b88fb3ab693ee6b091084ca17d7406e08264c",
+    "question": "根據講者的陳述，下列何種能源具有提供台灣用電之潛能?",
+    "options": [
+      "太陽能及風能",
+      "海洋能",
+      "地熱",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "再生能源與微電網應用與發展",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T20:50:01.970Z",
+    "review_state": "candidate_ready"
   }
 ]
