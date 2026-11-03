@@ -174,5 +174,113 @@
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.343Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "93e517bb9a9ff2e89808c450ebfaf8bf96a19a902a369e35aec19bcf86312d86",
+    "question": "身心障礙分成下列哪些模式？",
+    "options": [
+      "慈善模式",
+      "醫療模式",
+      "社會模式",
+      "人權模式"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.149Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0fd570cb4cb9bbd9b25da3d25908b1bb78f4c0f43749ff519808181786cfd407",
+    "question": "依據人權模型主要精神，列出幾項基本原則？",
+    "options": [
+      "六項",
+      "十項",
+      "五項",
+      "八項"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "十項",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.151Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "85557b75784a0149ce4aa0a5fd9016aa7a241d6c8b521b4f1c2f75fea6173ee6",
+    "question": "身心障礙權利公約只簡單提出行動、知覺、認知等有功能限制的人。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.151Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0cddd259ea996f628a53dea0803bda5450442f603ae714a91bb85e0e4ac1dd1b",
+    "question": "障礙者平等公民權利的基礎在於什麼的實踐？",
+    "options": [
+      "服務與體制監督",
+      "意見表達",
+      "人權精神",
+      "障礙"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "人權精神",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.152Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b087a355dbe3a4a38f624c44bb75b48243d90583178c43d60068e86986dd927d",
+    "question": "身心障礙者權利公約的國家沒有國家責任與義務。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.155Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a1a299c6ea68064b445a4a1579b82fdc43456318d501ba1ab82c66c1c124227e",
+    "question": "身心障礙的四個模式同時並存在當代社會。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:12:25.156Z",
+    "review_state": "candidate_ready"
   }
 ]
