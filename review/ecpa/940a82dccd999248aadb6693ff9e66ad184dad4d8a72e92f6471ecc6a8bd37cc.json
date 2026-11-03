@@ -40,5 +40,24 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-05T03:20:54.209Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "2eb9f0a43772d90295e42a3677dacf71ee3a46db1f9d67ce7349f7f37d7e3cdf",
+    "question": "志願服務運用單位要通過主管機關或目的事業主管機關事前的備案，要提供些什麼？",
+    "options": [
+      "立案登記證書正本",
+      "立案登記證書影本",
+      "志願服務計畫書",
+      "經費贊助名冊"
+    ],
+    "type": "多選",
+    "course": "志願服務法規推動與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T17:57:45.164Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
