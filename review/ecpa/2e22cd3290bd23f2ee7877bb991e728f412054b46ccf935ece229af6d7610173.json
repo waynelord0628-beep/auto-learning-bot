@@ -15,9 +15,9 @@
     "source": "ai_unverified",
     "created_at": "2026-09-17T23:35:42.752Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:57.097Z",
+    "verify_after": "2026-11-10T08:20:01.752Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -29,13 +29,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.302Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:19:58.846Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "87ed911af53569279b241c53b90d82af60124938ebfbd5e1b2e887d996cab2e8",
@@ -46,13 +64,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.303Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:19:59.225Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1cfb19c3202d776d7fd284d9d627e60139811774cebb5b715465e6483c47d6c4",
@@ -63,13 +99,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.304Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:19:59.534Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "96b42e0b8d6be9b1d82ee37a26aadb6e472e491b2310ba280be8b7ca326ba7bd",
@@ -80,13 +134,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.304Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:19:59.887Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "594a00fca77d51b86f4fee480d37cbb46cf038a0291845453698689ae930a0e2",
@@ -97,13 +169,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.305Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:20:00.218Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d472f1bc46dda7ba087a40e9740eb88eb9fb3c6168ae812c40040d740b06db96",
@@ -114,13 +204,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.305Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:20:00.494Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "73eaad8ac647ed37ff9c4949cf4d52ce38a6a4576bce7b5a44665e7d662189f9",
@@ -131,13 +239,31 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.306Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:20:00.759Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "8b99f66fcd3b5fd116085295bfabe6e4cad79b73c3e28d96dfb417dda7716c4f",
@@ -148,12 +274,30 @@
     ],
     "type": "是非",
     "course": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T06:48:28.306Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347325413",
+          "title": "《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/04/ftee_0634813158.html",
+          "title": "「《人權搜查客》小小的島嶼，大大的包容—新住民的人權保障 ft.廣播節目主持人丁安妮」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-03T08:20:00.980Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
