@@ -282,5 +282,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.156Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "878d18a83dcf6cd0b0854c4a18e5b8dc9922dd831b33a673e580fe51a927e324",
+    "question": "下列哪些屬於人權模式準則？",
+    "options": [
+      "機會平等",
+      "不歧視",
+      "不參與",
+      "尊重差異和多元性"
+    ],
+    "type": "多選",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:13:00.865Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "a5ede1957bc718335b01772af9697910ffad42b73bac96c85ca2c3e1baab3cf6",
+    "question": "人權模型不同個人之差異強調以什麼為本？",
+    "options": [
+      "障礙經驗",
+      "人",
+      "障礙",
+      "經驗"
+    ],
+    "type": "單選",
+    "course": "身心障礙者權利公約與我國身障福利政策展望",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-03T03:13:00.867Z",
+    "review_state": "awaiting_candidate"
   }
 ]
