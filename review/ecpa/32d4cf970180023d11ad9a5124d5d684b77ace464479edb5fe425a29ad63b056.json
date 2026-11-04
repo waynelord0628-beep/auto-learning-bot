@@ -74,5 +74,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:16:31.599Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "999ad27e9b4cad8f73dbee69037e235574b12977408ac8ff40bbed48e577586d",
+    "question": "以下哪些選項屬於性別重要議題中的具體推動事項？",
+    "options": [
+      "布建公共托育家園",
+      "營造性別友善職場",
+      "消除職訓或就業中男女任務定型及偏見",
+      "完備無障礙環境"
+    ],
+    "type": "多選",
+    "course": "性別預算概念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T02:17:05.991Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
