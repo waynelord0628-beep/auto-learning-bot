@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "亞普海溝",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.074Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-11T11:20:20.312Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "馬里亞納海溝",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:16.594Z"
+    },
+    "resolved_answer": "馬里亞納海溝"
   },
   {
     "id": "37746d25728977c67d61471609ec7abb37090c0f28e9e64e24ce37bccbb5cfc4",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "100~200",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.074Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "100~200",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:16.898Z"
+    },
+    "resolved_answer": "100~200",
+    "verification_status": "source_supported"
   },
   {
     "id": "c4f29ba27ce9160e5489f77beec8b912eadd86ae0267ae8970ee7ae264dbe8bf",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "能量",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.075Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "能量",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:17.219Z"
+    },
+    "resolved_answer": "能量",
+    "verification_status": "source_supported"
   },
   {
     "id": "5834ebaf8d35d669fd281f232470923ec82c81498114a23537b57afa95fd93c4",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "長且彎",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.075Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "短且彎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:17.465Z"
+    },
+    "resolved_answer": "短且彎",
+    "verification_status": "source_supported"
   },
   {
     "id": "fedc46309531c7e35c2347089b6e35ef25071207f5b0ba2453b0b654eb18b9cb",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "馬尼拉海溝",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.076Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "馬尼拉海溝",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:17.728Z"
+    },
+    "resolved_answer": "馬尼拉海溝",
+    "verification_status": "source_supported"
   },
   {
     "id": "9467043d6c1e6153d0710982b26c72fd1bef87fa56d46a39ea2afc87f5085d58",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "7.4",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.076Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "7.4",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:18.007Z"
+    },
+    "resolved_answer": "7.4",
+    "verification_status": "source_supported"
   },
   {
     "id": "02847ed5a11ddabf5ddc56162a618d8388646dca85fb217e60522cc0353fc7d4",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "三十秒",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "一分半",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:18.289Z"
+    },
+    "resolved_answer": "一分半",
+    "verification_status": "source_supported"
   },
   {
     "id": "7bb09b39e9ed0319a35c7ee0463de22f91f6fed31979ec1eb00938f2ff68eb38",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1992尼加拉瓜海嘯",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1992尼加拉瓜海嘯",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:18.700Z"
+    },
+    "resolved_answer": "1992尼加拉瓜海嘯",
+    "verification_status": "source_supported"
   },
   {
     "id": "82215334d80693f1c3f9a61091ec8ad86ae7846f9965bca65ac86a270bf45862",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "32",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "32",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:18.997Z"
+    },
+    "resolved_answer": "32",
+    "verification_status": "source_supported"
   },
   {
     "id": "4a06ac72292d68e51da6c6f4bd69e878c15fed24623911f0463aa85c2d679eea",
@@ -181,12 +310,26 @@
     ],
     "type": "單選",
     "course": "【週日閱讀科學大師】海上來的大水災－淺談海嘯",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "又彎又長",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:41:49.078Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "又直又長",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15326706855",
+          "title": "【週日閱讀科學大師】海上來的大水災－淺談海嘯《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T11:20:19.302Z"
+    },
+    "resolved_answer": "又直又長",
+    "verification_status": "source_supported"
   }
 ]
