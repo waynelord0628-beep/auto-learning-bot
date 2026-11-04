@@ -358,5 +358,96 @@
       "checked_at": "2026-11-02T00:20:14.015Z"
     },
     "resolved_answer": "正確"
+  },
+  {
+    "id": "80ae71ed82c566057b1e1ef80beb806959e32caa812fa90dba2129e0a8861684",
+    "question": "請問下列關於公立動物收容所的敘述，何者正確？",
+    "options": [
+      "全國共有32間公立動物收容所",
+      "可將寵物送至動物收容所進行社會訓練",
+      "可至公立動物收容所辦理寵物登記、絕育",
+      "可至公立動物收容所施打狂犬病疫苗"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:58:26.938Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ead1dce1a215a067d5d5ad8f5770437ac75bf97564cc8d4d341daee9becc0bf1",
+    "question": "四個月以下的幼貓，每日進食約2～3餐。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:58:26.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "462473607988d3bb7fbbb67ec4a03c33912b7aecaf7f1e18067e414db876d478",
+    "question": "請問下列何者可以改善貓咪異嗜行為？",
+    "options": [
+      "增加與貓咪互動、遊戲的時間",
+      "移除易被誤食的物品，給予貓咪替代食物",
+      "尋求獸醫師，給予藥物治療",
+      "放任貓咪，貓咪會自行改善行為"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:58:26.939Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "2e7cb65d5f6b6e85feba2513f106ab268a332c88e94057a74d8d961621bb8222",
+    "question": "請問貓咪會藉由以下哪項行為，表示牠們屬於同一個社交圈？",
+    "options": [
+      "互咬",
+      "理毛",
+      "打架",
+      "互相磨蹭"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:58:26.940Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7d3a5e2a9ae22c92ab7c453d8e3077892a1902253b849697815c784c38cc79de",
+    "question": "貓咪如廁空間太小，會造成貓咪亂大小便。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:58:26.941Z",
+    "review_state": "candidate_ready"
   }
 ]
