@@ -127256,5 +127256,28 @@
       "model": null,
       "checked_at": "2026-11-04T07:21:26.060Z"
     }
+  },
+  {
+    "question": "使用 AI 生圖時，清楚描述角色、動作與背景，有助於生成符合需求的圖片。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生成式圖像應用",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://r028.ntou.edu.tw/p/404-1029-106441.php?Lang=zh-tw",
+          "quote": "描述圖像中的核心人物、主題或物品，提供具體的角色姿勢、情緒或屬性。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-04T08:20:14.820Z"
+    }
   }
 ]
