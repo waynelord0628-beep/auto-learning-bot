@@ -27,13 +27,30 @@
     ],
     "type": "單選",
     "course": "「性別平等教育法」 修法重點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "我們可以期待所有被害人遭受性騷擾時，能積極表達抗拒說「不」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T23:07:34.484Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-11T07:21:28.058Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "我們可以期待所有被害人遭受性騷擾時，能積極表達抗拒說「不」",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_19.html",
+          "title": "「「性別平等教育法」 修法重點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T07:21:22.175Z"
+    },
+    "resolved_answer": "我們可以期待所有被害人遭受性騷擾時，能積極表達抗拒說「不」"
   },
   {
     "id": "3bb647b64d710d82cc8989f56413a2c434dac47f491d5a36d70553b963298c5c",
@@ -65,13 +82,27 @@
     ],
     "type": "單選",
     "course": "「性別平等教育法」 修法重點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性騷擾防治委員會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T23:07:34.485Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "性別平等教育委員會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_19.html",
+          "title": "「「性別平等教育法」 修法重點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T07:21:23.766Z"
+    },
+    "resolved_answer": "性別平等教育委員會",
+    "verification_status": "source_supported"
   },
   {
     "id": "cfe911f2b88cb6b94c6b5c7706475c250e7cbdc2b72c6b1a7b20590ce3e70f57",
@@ -101,13 +132,27 @@
     ],
     "type": "單選",
     "course": "「性別平等教育法」 修法重點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "24小時",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T23:07:34.486Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "24小時",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_19.html",
+          "title": "「「性別平等教育法」 修法重點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T07:21:24.996Z"
+    },
+    "resolved_answer": "24小時",
+    "verification_status": "source_supported"
   },
   {
     "id": "594a8fd09f0ea189a15589d19998f7892d9fe5ff9366724ab202b86e4f4b848c",
@@ -156,13 +201,27 @@
     ],
     "type": "單選",
     "course": "「性別平等教育法」 修法重點",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "被害人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T23:07:34.489Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_19.html",
+          "title": "「「性別平等教育法」 修法重點」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T07:21:26.060Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "9ca8c6ce05bb2352de162a69e09f53a65cbdf12ae7757999ef8b6e20905a4562",
