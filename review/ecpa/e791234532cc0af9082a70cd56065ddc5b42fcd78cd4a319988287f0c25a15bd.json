@@ -1053,5 +1053,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-03T17:21:28.493Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7fda6d9a3c6124c83944d534b31938e3046da4f4403ee02a1f8e4d58bfa953dc",
+    "question": "民法第1096條規定，有下列任一情形者，不得為監護人？",
+    "options": [
+      "未成年",
+      "受監護或輔助宣告尚未撤銷",
+      "受破產宣告尚未復權",
+      "失蹤"
+    ],
+    "type": "多選",
+    "course": "成年監護及輔助宣告職務執行",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T02:52:23.151Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
