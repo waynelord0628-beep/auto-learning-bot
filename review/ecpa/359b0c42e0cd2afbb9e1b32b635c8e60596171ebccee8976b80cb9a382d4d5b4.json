@@ -10,15 +10,36 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "複雜性（complexity）",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.220Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-03T21:19:43.689Z"
+    "retry_after": "2026-11-03T21:19:43.689Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-11T01:20:30.236Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不可治理性（ungovernability）",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:25.913Z"
+    },
+    "resolved_answer": "不可治理性（ungovernability）"
   },
   {
     "id": "406ea91ee9c302ab23e156563d11318fafc312deb97f185ee43fdabcc4eb8098",
@@ -31,13 +52,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "道德倫理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "行政責任",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:26.211Z"
+    },
+    "resolved_answer": "行政責任",
+    "verification_status": "source_supported"
   },
   {
     "id": "17586ba181766b0993c016c54a14664f8c5246b8d5c2eaa4d779a2de0b4361c9",
@@ -50,13 +89,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "證嚴法師",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "李國鼎",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:26.510Z"
+    },
+    "resolved_answer": "李國鼎",
+    "verification_status": "source_supported"
   },
   {
     "id": "d7fccd27b68ec1bc0968879375c63011b428b62c2c19a4fa7b78af807c3bd201",
@@ -69,13 +126,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "激勵勇於任事，致力積極興利",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "加強競爭能力，提升政府績效",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:26.776Z"
+    },
+    "resolved_answer": "加強競爭能力，提升政府績效",
+    "verification_status": "source_supported"
   },
   {
     "id": "4a5f5d30a42ea1ad7092858b725ea4dfa8fae371110c130308fcec5451ef06b8",
@@ -88,13 +163,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "團隊合作",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.222Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "交互主觀性",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:27.040Z"
+    },
+    "resolved_answer": "交互主觀性",
+    "verification_status": "source_supported"
   },
   {
     "id": "f4fd33898cc1529a014aba2cbaed91080295734538863d0c029b8a2d2da7f48c",
@@ -107,13 +200,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "從「消耗性」到「生產性」的倫理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.222Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "從重視「自律」到「他律」的倫理",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:27.340Z"
+    },
+    "resolved_answer": "從重視「自律」到「他律」的倫理",
+    "verification_status": "source_supported"
   },
   {
     "id": "0d27e73133ccdc58898e65bfe724afa2d6842588344cea74d80a80bec380223d",
@@ -126,13 +237,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透明",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "能力",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:27.633Z"
+    },
+    "resolved_answer": "能力",
+    "verification_status": "source_supported"
   },
   {
     "id": "642f13d4911958d02446efcaf545b9085c8879e73a7e7230eedc8d100553a24c",
@@ -145,13 +274,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "弊端揭發者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "弊端揭發者",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:27.975Z"
+    },
+    "resolved_answer": "弊端揭發者",
+    "verification_status": "source_supported"
   },
   {
     "id": "4855ccc166e09f3cc9cbec8325bea18a1903a0820b5bf484f4de2d613b24a3fb",
@@ -164,13 +311,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "消極性公務倫理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "消耗性公務倫理",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:28.247Z"
+    },
+    "resolved_answer": "消耗性公務倫理",
+    "verification_status": "source_supported"
   },
   {
     "id": "2474e0b77197b6860c68082d843a1785735804aaf0a95e6da04ea2dac9e89358",
@@ -183,13 +348,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "樹立社會條件",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:15:28.224Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "塑造團隊特質",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:28.516Z"
+    },
+    "resolved_answer": "塑造團隊特質",
+    "verification_status": "source_supported"
   },
   {
     "id": "e94361be5c0944c5c50de31d3ec4d6eb3b4ca868386c67d2725b6e03918ad069",
@@ -202,13 +385,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "專業倫理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:16:07.712Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "專業倫理",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:28.831Z"
+    },
+    "resolved_answer": "專業倫理",
+    "verification_status": "source_supported"
   },
   {
     "id": "ffedfad766f7535bd777e36873e5e70af2897df29d0f5d18644990285dfb20d2",
@@ -221,13 +422,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "效率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:16:07.712Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "效能",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:29.131Z"
+    },
+    "resolved_answer": "效能",
+    "verification_status": "source_supported"
   },
   {
     "id": "ebd8faf97a2051af6cd575cfde261916ddac288450659ae8bf279d35dd617e5d",
@@ -240,13 +459,31 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "組織文化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:16:07.713Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "組織文化",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:29.449Z"
+    },
+    "resolved_answer": "組織文化",
+    "verification_status": "source_supported"
   },
   {
     "id": "5c6eb293a24f6d53464069e6b56afd1c9777754e223fa64fc7ee54d49368a8f2",
@@ -259,12 +496,30 @@
     ],
     "type": "單選",
     "course": "公務倫理與核心價值",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "官僚怠工",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T08:16:07.714Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "目標錯置",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15323584468",
+          "title": "公務倫理與核心價值《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_133.html",
+          "title": "「公務倫理與核心價值(重新訓練人員適用)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T01:20:29.480Z"
+    },
+    "resolved_answer": "目標錯置",
+    "verification_status": "source_supported"
   }
 ]
