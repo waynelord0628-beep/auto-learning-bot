@@ -449,5 +449,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T03:58:26.941Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "07beeda16d7652a872a573fa894265001838cfa08b36c932b5ec055bad8e0752",
+    "question": "請問嚴重社會化不足的寵物，可能發生何種行為或情緒？",
+    "options": [
+      "主動接近陌生人，表現友好行為",
+      "進行醫療行為時，容易吼叫、掙脫",
+      "過度焦慮、恐慌",
+      "出門散步時容易暴衝"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:59:10.232Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "4918e8d357fdb778b5069c82f14b108ac8128fcd862e7b6284ce2274f1107d6a",
+    "question": "請問常見貓咪咬人的原因有哪些？",
+    "options": [
+      "長牙齒",
+      "環境與互動豐富",
+      "不恰當觸摸",
+      "向飼主表示親近"
+    ],
+    "type": "多選",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:59:10.233Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
