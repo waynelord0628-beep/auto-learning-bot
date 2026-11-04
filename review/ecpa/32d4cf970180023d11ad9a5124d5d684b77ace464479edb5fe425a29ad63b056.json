@@ -254,5 +254,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.629Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a4677a28d83b769083b9c8efa52f6fcc5df6f0e735e20c619f742f7307fd20da",
+    "question": "下列哪些選項不屬於綱領類中性別重要議題？",
+    "options": [
+      "推動三合一政策之托育公共化",
+      "性別工作平等法",
+      "去除性別刻板印象與偏見",
+      "促進公私部門決策參與之性別平等"
+    ],
+    "type": "單選",
+    "course": "性別預算概念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "推動三合一政策之托育公共化",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T11:06:47.471Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "65a0158f9337fead290bc2cd60aee7a69ba6e5556a0fb67e1c7003c7955b932a",
+    "question": "性別預算的推動最初開始於民國108年，當時由前行政院婦女權益促進委員會推動婦女預算。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別預算概念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T11:06:47.472Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "791d85ea01ad0d37ec3a45745ea37a727f243d665d93ea5d06b6eedcbae682b4",
+    "question": "下列何者不屬於性別預算計畫類的範圍？",
+    "options": [
+      "中長程個案計畫",
+      "建築法",
+      "經性別影響評估之方案、計畫、措施、服務、活動等",
+      "營業基金之購建固定資產計畫"
+    ],
+    "type": "單選",
+    "course": "性別預算概念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建築法",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T11:06:47.473Z",
+    "review_state": "candidate_ready"
   }
 ]
