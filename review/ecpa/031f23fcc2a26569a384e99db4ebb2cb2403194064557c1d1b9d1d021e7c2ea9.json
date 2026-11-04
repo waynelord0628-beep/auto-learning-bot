@@ -487,5 +487,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T03:59:10.233Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d4c3a26370565f1ef08e28ddb7a3c88aa4c7c73163ae6552f1796bcbb4da339e",
+    "question": "貓咪因無聊或不安而啃四肢會造成潰瘍傷口。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T03:59:40.061Z",
+    "review_state": "candidate_ready"
   }
 ]
