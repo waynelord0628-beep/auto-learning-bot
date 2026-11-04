@@ -1,0 +1,78 @@
+[
+  {
+    "id": "f9090a1abe477a25a93642090796d3c3c59c6b29b823a498b80f7fd21a065cf5",
+    "question": "下列那些因素可能會影響百日咳實驗室的檢體檢驗結果?",
+    "options": [
+      "個案發病超過2週。",
+      "個案發病後曾服用過抗生素。",
+      "採檢人員技術不佳。",
+      "以上皆是。"
+    ],
+    "type": "單選",
+    "course": "疫情報導115年5月份教材",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T19:07:17.440Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "49da9c5c0a836b7b11b6d894a440fad58c0203b87e42861f86317c0d68961b71",
+    "question": "關於此次副傷寒群聚事件的實驗室檢驗，下列敘述何者正確？",
+    "options": [
+      "所有分離株的 PFGE 圖譜完全不同",
+      "WGS 分析顯示 6 株菌株的 cgSNP 差異為 0",
+      "分離株均對 Ciprofloxacin 高度敏感",
+      "僅血液培養與糞便培養皆為陽性才能確診"
+    ],
+    "type": "單選",
+    "course": "疫情報導115年5月份教材",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "WGS 分析顯示 6 株菌株的 cgSNP 差異為 0",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T19:07:17.442Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dbfe217c10195ccc89da4bb296cd263a2d1a9d78773cb1f4e9fb0522fc77e27d",
+    "question": "關於副傷寒的致病原，下列何者正確？",
+    "options": [
+      "Salmonella Typhi",
+      "Salmonella enterica serovar Paratyphi A, B, C",
+      "Escherichia coli O157:H7",
+      "Shigella dysenteriae"
+    ],
+    "type": "單選",
+    "course": "疫情報導115年5月份教材",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Salmonella enterica serovar Paratyphi A, B, C",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T19:07:17.444Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0a25e031bdda40b88ab678246a27684ab3b5d4a3baedac3fb6cf9b9d25da0117",
+    "question": "我國現行百日咳相關疫苗之預防接種時程，以下何者為是?",
+    "options": [
+      "嬰幼兒在出生滿2、4、6、8 個月時接種一劑疫苗。",
+      "嬰幼兒在出生滿2、4、6、18 個月時接種一劑疫苗。",
+      "嬰幼兒在出生滿2、4、6、8 個月及5 歲時接種一劑疫苗。",
+      "嬰幼兒在出生滿2、4、6、18 個月及5 歲時接種一劑疫苗。"
+    ],
+    "type": "單選",
+    "course": "疫情報導115年5月份教材",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T19:07:17.444Z",
+    "review_state": "awaiting_candidate"
+  }
+]
