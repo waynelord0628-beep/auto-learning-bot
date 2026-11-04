@@ -250,5 +250,81 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:17.930Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "338f7ac8c45c120eac6967e4b4197270f169f2756d1be4b22d69500912b7cb92",
+    "question": "臺灣的原住民族各族中，根據語言學和考古學者的研究推論，臺灣最早的原住民族是哪一個族？",
+    "options": [
+      "達悟族",
+      "賽夏族",
+      "阿美族",
+      "泰雅族"
+    ],
+    "type": "單選",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "阿美族",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:46.948Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6616e891c3f0fccb07ebc1d197c42c7ed7c0ff8f0804bc5c4a95c892e31edd1a",
+    "question": "原住民族各族有不同的名制與命名文化，請問哪一個民族的名制是親從子名制，一生會因為社會地位改變名字。例如有名的作家年輕的時候名字是施努來，結婚生長子後改名為夏曼藍波安，等到生了長孫後會再改一次名字。",
+    "options": [
+      "雅美（達悟）族",
+      "鄒族",
+      "邵族",
+      "魯凱族"
+    ],
+    "type": "單選",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "雅美（達悟）族",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:46.956Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d37516d949170518df89daba7712b39cafd754f8d865626f2e5f70b8aab8a1e1",
+    "question": "在泰雅族的起源傳說中，祖先是從Pins2uk1n誕生，該地推測是在今何處？",
+    "options": [
+      "南投縣仁愛鄉的發祥村瑞岩",
+      "新竹的大霸尖山",
+      "花蓮縣的白石山",
+      "宜蘭縣的太平"
+    ],
+    "type": "單選",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "南投縣仁愛鄉的發祥村瑞岩",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:46.961Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0019219f8bffc0fb1bcf50d9990d938279280a0044dc877da062374a40105ce",
+    "question": "新港文書是荷蘭人統治臺灣時期，平埔族原住民留下用羅馬字書寫的文字記錄。請問該文書跟那一民族有關？",
+    "options": [
+      "噶瑪蘭族",
+      "凱達格蘭族",
+      "西拉雅族",
+      "道卡斯族"
+    ],
+    "type": "單選",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "西拉雅族",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:46.965Z",
+    "review_state": "candidate_ready"
   }
 ]
