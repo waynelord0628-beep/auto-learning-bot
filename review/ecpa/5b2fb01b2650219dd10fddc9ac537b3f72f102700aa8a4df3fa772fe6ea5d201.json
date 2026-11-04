@@ -210,5 +210,62 @@
     "source": "ai_unverified",
     "created_at": "2026-10-05T01:15:31.641Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "f9866c5ba0bf3396af7389f71dc2662508b06eec71272db533f0aebaa10ee4b0",
+    "question": "關於金融社會工作，下列何者錯誤？",
+    "options": [
+      "以金融教育鼓勵儲蓄有強烈美國背景",
+      "臺灣經濟弱勢戶不儲蓄主要是因為過度消費",
+      "金融社工的金融能力、服務使用管道偏正式，忽略華人自然求助系統",
+      "忽略造成經濟弱勢者更貧困的始作俑者，正是金融商品的製造者"
+    ],
+    "type": "單選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T22:46:22.690Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "d217c3ce9a7a2c3d5999b6e921c0a9bc5c537552f8f3de812a34ad97ee61051f",
+    "question": "當前協助脫貧的作法主要有哪些？",
+    "options": [
+      "金融社工",
+      "食物銀行",
+      "微型企業",
+      "所得保證"
+    ],
+    "type": "多選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T22:46:22.707Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ca5f888490037299abe3939d21b4233f8691deafd7f390057bc3e53da273bad4",
+    "question": "尤努斯所創辦的葛拉敏銀行，主要的放款對象為何？",
+    "options": [
+      "青年",
+      "老人",
+      "婦女",
+      "兒童"
+    ],
+    "type": "單選",
+    "course": "社會救助法規推行實務與挑戰",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T22:46:22.708Z",
+    "review_state": "awaiting_candidate"
   }
 ]
