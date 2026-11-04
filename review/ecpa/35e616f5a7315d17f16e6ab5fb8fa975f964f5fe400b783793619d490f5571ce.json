@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "海洋基本法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.603Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:01.259Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-11T02:19:58.570Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "海洋基本法",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:53.771Z"
+    },
+    "resolved_answer": "海洋基本法"
   },
   {
     "id": "eac28650c8c521b770f4eb2904c348072aa2786ae6054a16dc347498c5594b32",
@@ -33,17 +46,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "IUU成為藍色經濟循環之一",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.606Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.265Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "IUU成為藍色經濟循環之一",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:54.266Z"
+    },
+    "resolved_answer": "IUU成為藍色經濟循環之一"
   },
   {
     "id": "4e2884e9ca2ba108a102407f211d1d9da75fc558a04004139ccaf785a80fffa5",
@@ -56,17 +82,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "一切人為或非人為之行為之活動",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.607Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.271Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一切人為或非人為之行為之活動",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:54.548Z"
+    },
+    "resolved_answer": "一切人為或非人為之行為之活動"
   },
   {
     "id": "1a64e6c5c1a8b7b783f33c4819bd567f1407a3b2b05eb5a6f18575e54856ceb9",
@@ -79,17 +118,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公海+「區域」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.608Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.278Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公海+「區域」",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:54.831Z"
+    },
+    "resolved_answer": "公海+「區域」"
   },
   {
     "id": "808c93ce561eab862272d3bcc5144e561031ef50e7fd58c82a25d782ef6e397e",
@@ -102,17 +154,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "強化科研成果應用，支持產業創新",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.611Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.285Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "推動引進國外研發成果",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:55.093Z"
+    },
+    "resolved_answer": "推動引進國外研發成果"
   },
   {
     "id": "5bb04c1286ef29f42f53f05b3ec5791176fecb43329d7e5c785d1909a320e011",
@@ -125,17 +190,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "72處",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.614Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.291Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "71處",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:55.368Z"
+    },
+    "resolved_answer": "71處"
   },
   {
     "id": "b0243ccd875cda5b714f96e8a866350d5704f1472e979ea5bc61f9502988b41d",
@@ -148,17 +226,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆非",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.616Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.298Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆非",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:55.613Z"
+    },
+    "resolved_answer": "以上皆非"
   },
   {
     "id": "5313cbe9e89ae653cded96b7dc915316d5b65fc6ac03249a4d071c467346dd4b",
@@ -171,17 +262,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "200海里",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.620Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.304Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "200海里",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:55.955Z"
+    },
+    "resolved_answer": "200海里"
   },
   {
     "id": "d2be3ab580a6b82bdec245c0eb35b14f8f6ec14a36a41b0959fdf1d5e8366d71",
@@ -194,17 +298,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2份",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.622Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.310Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2份",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:56.188Z"
+    },
+    "resolved_answer": "2份"
   },
   {
     "id": "feaafe5271db9923f5e2dfc0b8afa6efe5eb336a1ab14734ef7765f123316b86",
@@ -217,17 +334,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "探索外太空與海洋污染",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:18:31.634Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.318Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "探索外太空與海洋污染",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:56.441Z"
+    },
+    "resolved_answer": "探索外太空與海洋污染"
   },
   {
     "id": "066f27359755a985b51e75d8805c524a867cc273c64d3fe08a8af53564164a9a",
@@ -240,17 +370,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "船舶登記國籍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:19:06.190Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.324Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "船舶登記國籍",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:56.736Z"
+    },
+    "resolved_answer": "船舶登記國籍"
   },
   {
     "id": "b001735749f7aeaaa5c48f8ed419ded77adf91ae78d130a9b073743ecc12b1e8",
@@ -263,17 +406,30 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-14T17:19:06.192Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.330Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:57.028Z"
+    },
+    "resolved_answer": "以上皆正確"
   },
   {
     "id": "01ebf9b024952f4b2d1048235999cee32ba0de38c58b0957dc7aee0307b41afe",
@@ -286,19 +442,32 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "藍色經濟提供資金鼓勵漁捕",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:45:31.685Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
     "retry_after": "2026-09-18T18:19:49.444Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.337Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "藍色經濟提供資金鼓勵漁捕",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:57.270Z"
+    },
+    "resolved_answer": "藍色經濟提供資金鼓勵漁捕"
   },
   {
     "id": "27e9c6f598895697fbbbb75d4306f5477da14e27e8bb7d2e6d1da3f4ae011477",
@@ -311,19 +480,32 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:45:31.688Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
     "retry_after": "2026-09-18T18:19:49.444Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.343Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:57.507Z"
+    },
+    "resolved_answer": "以上皆正確"
   },
   {
     "id": "f37e5f8119f1512c44dd983f81084bef1deaeb008a50aa0bb4a626fa0f5308c6",
@@ -336,16 +518,29 @@
     ],
     "type": "單選",
     "course": "海洋政策與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不超過12海里",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-15T18:46:06.648Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:42:01.349Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "不超過12海里",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/09/blog-post_16.html?m=1",
+          "title": "【解答】海洋政策與發展 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T02:19:57.757Z"
+    },
+    "resolved_answer": "不超過12海里"
   }
 ]
