@@ -19,5 +19,41 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-04T10:19:56.510Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "9d86e2b328317458e13f342b13ccc427872be9db97ec7313f8ee314aa5054dc4",
+    "question": "依據美國針對海洛因的長期追蹤研究，約有五分之一的患者在四十年後可以完全戒除，成癮障礙症的預後並不差。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "成癮治療概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T04:03:56.629Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d05fa9d1282e025eedf2c23a77434232467dbfce85b2867681934c3454a6833a",
+    "question": "關於安非他命的中毒症狀，下列敘述何者正確？",
+    "options": [
+      "瞳孔放大",
+      "瞳孔縮小",
+      "血壓下降",
+      "體重增加"
+    ],
+    "type": "單選",
+    "course": "成癮治療概論",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "瞳孔放大",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T04:03:56.630Z",
+    "review_state": "candidate_ready"
   }
 ]
