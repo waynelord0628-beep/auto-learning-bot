@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.379Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-11T03:20:19.809Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:13.912Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "25c7048d607ffe63c724d36332dbf7be0adf5f113bafca4c9661d2aac4f0bdb0",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.382Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:14.210Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "109f65d0b8cd3438c753e0dd9f22b101d2f3026970948e1e50411130d32c2b13",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.383Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:14.467Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "46a57c59072c018f0586f680f4165893f3cb438e93b6f5171cc47e28fd85e405",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:14.776Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4a34b41a66cb6d5eb229a2435a9d0683e89dd70802b64c05584b8ad68ea1a931",
@@ -80,13 +139,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.384Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:15.108Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "30b61d07e812069dbfec1e98dbd108f86a7ea5c1d98f13a1edf074bab23ee736",
@@ -97,13 +170,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.385Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:15.419Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a321e505e292e7656c1b4368af7737de0457d8674979bfef92b8ef4d6d8a273d",
@@ -114,13 +201,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:15.730Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d3382d417787884a7a0ed5bdf2f6f3540071415106c77171c9613cfba1927b35",
@@ -133,13 +234,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "天然氣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.387Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "天然氣",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:16.364Z"
+    },
+    "resolved_answer": "天然氣",
+    "verification_status": "source_supported"
   },
   {
     "id": "92028f55804cf65403aba67d959a0525a8b3e57fba84f535bc6380b22ac56222",
@@ -152,13 +267,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1kWh",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.388Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1kWh",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:16.641Z"
+    },
+    "resolved_answer": "1kWh",
+    "verification_status": "source_supported"
   },
   {
     "id": "f6e4f961ce593627d3ad58df5b676f8d86f1a2a4d6b329215315c9e1bffb377f",
@@ -171,13 +300,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "40%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:49:27.389Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "50%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:16.912Z"
+    },
+    "resolved_answer": "50%",
+    "verification_status": "source_supported"
   },
   {
     "id": "041d148e178520525435baab142d5d99c6dcd613c671ae53cb7a21eb2e7d4e9c",
@@ -188,13 +331,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:17.183Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "37fa25a9d1d19628b91504c0d9b19b1d913513a4e2ed69f0dc141e8ba8c319a5",
@@ -205,13 +362,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.963Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:17.592Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "8982fd7e313e832b31481303f406462b27d28cdb63504966e06121d80bc34f98",
@@ -222,13 +393,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.964Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:17.863Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "49b51574bd62a6d8a33d8f27e6a870d52300bf37c3ff7da7c679253c5aa5dade",
@@ -241,13 +426,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.965Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:18.240Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "9701f264f52f5074e310e12f1722ec81af5c8756b4954d7feaddbb40b85b7bdd",
@@ -258,13 +457,27 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.966Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:18.476Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "8e55d70c4945d21f7ca299b76e4b88fb3ab693ee6b091084ca17d7406e08264c",
@@ -277,13 +490,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:01.970Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:18.493Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "0e7131db507c6dbce7bf5810496574c13b4d52a8f02954b9b479f41156dd9d28",
@@ -296,13 +523,27 @@
     ],
     "type": "單選",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "離島和偏鄉",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:31.043Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "離島和偏鄉",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:18.771Z"
+    },
+    "resolved_answer": "離島和偏鄉",
+    "verification_status": "source_supported"
   },
   {
     "id": "967931b7be4f9adb2f1e6dea827edbfa6492faf79be419f8f95136a1433c8587",
@@ -313,12 +554,26 @@
     ],
     "type": "是非",
     "course": "再生能源與微電網應用與發展",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T20:50:31.046Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_571.html",
+          "title": "「再生能源與微電網應用與發展」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T03:20:19.028Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
