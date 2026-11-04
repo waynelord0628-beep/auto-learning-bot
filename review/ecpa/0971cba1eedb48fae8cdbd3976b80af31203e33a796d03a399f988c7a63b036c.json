@@ -180,5 +180,75 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.221Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "39f99687f8626a7f9a30d3592afd0f9c1e4fedc9c92abad2c74fd2fa3ff610b5",
+    "question": "政大民族學系師生協助做日月潭邵族的原住民族民族認定學術調查報告。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:17.927Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62242f5613f46ab8fd3e05577a6476078ec964449e0628eef3150a8a0ab31809",
+    "question": "以下那一個不是政大民族學系師生協助做的原住民族民族認定學術調查工作？",
+    "options": [
+      "蘭嶼達悟族",
+      "花蓮噶瑪蘭族",
+      "日月潭邵族",
+      "花蓮撒奇萊雅族"
+    ],
+    "type": "單選",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "蘭嶼達悟族",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:17.928Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1f5321147e2fbb7da93bb330018144b6e1c4260bbb3ce45e5a8c1186eb1fc015",
+    "question": "布農族的八部合音一共有八個聲部。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:17.929Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93e2e2fbd71df21881b2262f6ee1cff6e17859ab3c1534965f6f38535f1fc225",
+    "question": "臺灣原住民族人口最少的民族是蘭嶼的達悟族。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T13:15:17.930Z",
+    "review_state": "candidate_ready"
   }
 ]
