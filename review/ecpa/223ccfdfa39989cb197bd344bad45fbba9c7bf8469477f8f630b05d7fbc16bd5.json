@@ -86,5 +86,43 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-10T01:20:58.860Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "123ef70807cde8a0a73dad65a92c5034240ab090a18999b2675c474cbec0aa07",
+    "question": "下列何者為鄉(鎮、市)公所災害防救會報的任務？",
+    "options": [
+      "核定重要災害防救政策與措施",
+      "核定各該鄉(鎮、市)地區災害防救計畫",
+      "核定重要災害防救措施及對策",
+      "推動社區災害防救事宜"
+    ],
+    "type": "多選",
+    "course": "災變社會工作",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T01:38:09.886Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e6b3a84e2909c3786b1b26799695a2c854de17f476554f8e5b86891c87c33699",
+    "question": "如何推動防災社區運作？",
+    "options": [
+      "激發民眾自主防災意識認同",
+      "加強民眾自主防災應變能力",
+      "提升社區抗災避災減災措施",
+      "建立社區防災歷史博物館"
+    ],
+    "type": "多選",
+    "course": "災變社會工作",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-04T01:38:09.887Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
