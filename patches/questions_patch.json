@@ -125720,5 +125720,230 @@
       "model": null,
       "checked_at": "2026-11-03T15:20:05.257Z"
     }
+  },
+  {
+    "question": "下列哪一種氣體主要來源於農業活動及掩埋場？",
+    "type": "單選",
+    "options": [
+      "二氧化碳(CO2)",
+      "甲烷(CH4)",
+      "氧化亞氮(N2O)",
+      "全氟碳化物(PFCs)"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "甲烷(CH4)",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "甲烷(CH4)",
+      "sources": [
+        {
+          "url": "https://ccl.moenv.gov.tw/Article/Knowledge",
+          "quote": "例如垃圾掩埋場中的有機物分解會產生甲烷，廢水的處理過程會產生氧化亞氮。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-04T00:20:14.954Z"
+    }
+  },
+  {
+    "question": "根據環境部的規定，從113年起進行溫室氣體盤查時，應採用哪一版本的GWP值？",
+    "type": "單選",
+    "options": [
+      "IPCC AR3版",
+      "IPCC AR4版",
+      "IPCC AR5版",
+      "IPCC AR6版"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "IPCC AR5版",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "IPCC AR5版",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:15.526Z"
+    }
+  },
+  {
+    "question": "以下哪一項不是盤查的五大原則之一？",
+    "type": "單選",
+    "options": [
+      "相關性",
+      "完整性",
+      "一致性",
+      "實用性"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "實用性",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "實用性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:16.018Z"
+    }
+  },
+  {
+    "question": "在進行溫室氣體盤查時，組織首先應確定哪一項？",
+    "type": "單選",
+    "options": [
+      "盤查邊界設定",
+      "排放源鑑別",
+      "盤查報告書製作",
+      "排放量計算"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "盤查邊界設定",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "盤查邊界設定",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:16.878Z"
+    }
+  },
+  {
+    "question": "依溫室氣體排放量盤查登錄及查驗管理辦法，應將排放量四捨五入至小數點後第幾位？",
+    "type": "單選",
+    "options": [
+      "第一位",
+      "第二位",
+      "第三位",
+      "第四位"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "第三位",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "第三位",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:17.525Z"
+    }
+  },
+  {
+    "question": "在直接排放源鑑別的過程中，最主要考慮的排放源是哪一類？",
+    "type": "單選",
+    "options": [
+      "來自燃料燃燒排放",
+      "產品使用過程中排放",
+      "電力消耗間接排放",
+      "運輸和物流間接排放"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "來自燃料燃燒排放",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "來自燃料燃燒排放",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:19.107Z"
+    }
+  },
+  {
+    "question": "計算燃料燃燒產生之排放量，以燃料用量乘以低位熱值及係數是以下哪一種方法？",
+    "type": "單選",
+    "options": [
+      "質量平衡法",
+      "直接監測法",
+      "排放係數法",
+      "模擬計演算法"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "排放係數法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "排放係數法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:19.803Z"
+    }
+  },
+  {
+    "question": "以下哪一種事業盤查排放量方法，需要提出排放量監（檢）測計畫書送經中央主管機關核定後實施？",
+    "type": "單選",
+    "options": [
+      "質量平衡法",
+      "直接監測法",
+      "排放係數法",
+      "模擬計演算法"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "直接監測法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "直接監測法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:20.515Z"
+    }
+  },
+  {
+    "question": "以下哪一種事業盤查排放量方法，是利用原物料、燃料使用量或產品產量乘以特定排放係數計算排放量的方式？",
+    "type": "單選",
+    "options": [
+      "質量平衡法",
+      "直接監測法",
+      "排放係數法",
+      "模擬計演算法"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "排放係數法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "排放係數法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/06/ee_095590233.html",
+          "title": "「溫室氣體盤查理論與基礎」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-04T00:20:21.300Z"
+    }
   }
 ]
