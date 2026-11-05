@@ -39,7 +39,11 @@
     "candidate_answer": "多語言全網搜尋",
     "source": "ai_unverified",
     "created_at": "2026-11-02T13:55:02.539Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T14:20:16.712Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0e891920bf9d044b479b49bb18b10f6ed5d2c773bf39d58bf399b36d98700da1",
