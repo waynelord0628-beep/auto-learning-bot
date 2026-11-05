@@ -10,7 +10,7 @@
 ![系統](https://img.shields.io/badge/系統-Windows-607D8B?style=flat-square)
 ![瀏覽器](https://img.shields.io/badge/瀏覽器-Chrome-607D8B?style=flat-square)
 
-[**下載最新版 ↗**](https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest) · [Google Drive 備援](https://drive.google.com/drive/folders/1Fm6CwmV2AsoWaUOGV0V5hZbgP_GJrU8g) · [更新紀錄](https://github.com/waynelord0628-beep/auto-learning-bot/releases)
+[**下載最新版 ↗**](https://github.com/waynelord0628-beep/auto-learning-bot/releases/latest) · [更新紀錄](https://github.com/waynelord0628-beep/auto-learning-bot/releases)
 
 </div>
 
@@ -45,14 +45,6 @@ AI 補答為選用功能，需自行設定可用的 API key。沒有 API key，�
 改善臺北E大的播放與研習時數確認。時數不足時，依平台紀錄接續研習，再銜接測驗與問卷；遇到異常則停止並提示。
 
 **完成，以平台紀錄為準。** 畫面的計時進度不等於平台已認定完成。
-
-## 遇到狀況，留下線索
-
-請提供 **版本、平台、發生步驟與相關 log**，方便定位問題。上課時避免同帳號多開，或手動關閉正在使用的瀏覽器；測驗連續三次未成功時，請改由本人處理。
-
-回報前，請先遮蔽帳密、API key 與其他個人資料。
-
-[回報問題 ↗](https://github.com/waynelord0628-beep/auto-learning-bot/issues)
 
 <details>
 <summary><strong>給想自己動手的人</strong></summary>
