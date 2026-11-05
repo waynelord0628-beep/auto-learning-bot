@@ -16,7 +16,11 @@
     "candidate_answer": "建立網站",
     "source": "ai_unverified",
     "created_at": "2026-11-02T13:55:02.539Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T14:20:03.178Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f50cee18c9de02b59bfc257cb44b6a4d6f2e5dc69fda81cd1d4f8ec8c605567a",
