@@ -42,6 +42,7 @@ from selenium.common.exceptions import NoAlertPresentException, UnexpectedAlertP
 
 from quiz_bank import do_quiz_with_bank, do_feedback
 from utils.playback_wait import wait_with_heartbeat
+from utils.media_playback import start_unstarted_video
 
 urllib3.disable_warnings()
 
@@ -174,7 +175,7 @@ def draw_bar(cur_sec, target_sec, width=20):
     filled = int(round(pct * width))
     return '[' + ('#' * filled) + ('-' * (width - filled)) + f'] {pct*100:.1f}%'
 
-def pause_and_mute_media(driver):
+def mute_course_media(driver):
     try:
         driver.execute_script("""
             function visit(win) {
@@ -182,7 +183,6 @@ def pause_and_mute_media(driver):
                     win.document.querySelectorAll('video,audio').forEach(function(media) {
                         media.muted = true;
                         media.volume = 0;
-                        try { media.pause(); } catch(e) {}
                     });
                 } catch(e) {}
                 try {
@@ -463,7 +463,7 @@ def get_scorm_player_url(driver, wait, course_url):
         if has_multi_window_alert(dismiss_alerts(driver)):
             print('  ⚠️ 臺北E大已偵測到其他上課視窗，停止本次進入播放器')
             return False
-        pause_and_mute_media(driver)
+        mute_course_media(driver)
         if current_is_player():
             return True
 
@@ -502,7 +502,7 @@ def get_scorm_player_url(driver, wait, course_url):
                         if has_multi_window_alert(dismiss_alerts(driver)):
                             print('  ⚠️ 臺北E大已偵測到其他上課視窗，停止本次進入播放器')
                             return False
-                        pause_and_mute_media(driver)
+                        mute_course_media(driver)
                         if current_is_player():
                             return True
                         time.sleep(0.25)
@@ -531,7 +531,7 @@ def get_scorm_player_url(driver, wait, course_url):
             return None
 
         if enter_from_scorm_view():
-            pause_and_mute_media(driver)
+            mute_course_media(driver)
             return driver.current_url
 
         print(f'  ⚠️ 尚未進入播放器，重試 {attempt}/3，目前: {driver.current_url}')
@@ -627,6 +627,51 @@ def is_chapter_done(driver, scoid):
         return False
 
 def do_scorm_course(driver, wait, course, config=None, should_continue=None):
+    """Continue only while authoritative study records show useful progress."""
+    config = config or {}
+    should_continue = should_continue or (lambda: True)
+    try:
+        criteria_sec = int(float(course.get('cert_hrs') or 0) * 1800)
+    except (TypeError, ValueError):
+        criteria_sec = 0
+    initial_recorded = parse_study_time(course.get('study', ''))
+    # Bound the entire course, including repeat sessions and record readbacks.
+    budget_sec = max(1800, min(14400, max(0, criteria_sec - initial_recorded) * 3 + 600))
+    deadline = time.monotonic() + budget_sec
+    stalled = False
+    while should_continue():
+        remaining_budget = deadline - time.monotonic()
+        if remaining_budget <= 0:
+            print('  ⚠️ 本課程已達累計處理上限，保留平台差額，不再持續空跑')
+            return False
+        before = parse_study_time(course.get('study', ''))
+        course['_study_readback'] = 'unavailable'
+        session_sec = min(120 if stalled else 600, remaining_budget)
+        if _do_scorm_session(driver, wait, course, config=config,
+                             should_continue=should_continue, session_limit_sec=session_sec):
+            return True
+        if not should_continue() or course.get('_study_readback') != 'incomplete':
+            return False
+        after = parse_study_time(course.get('study', ''))
+        if after < before:
+            print('  ⚠️ 平台時數倒退，停止補讀，請確認登入及課程紀錄')
+            return False
+        if criteria_sec <= 0:
+            return False
+        if after == before:
+            if stalled:
+                print('  ⚠️ 短段恢復後平台仍未增加時數，停止補讀，請確認播放器與連線')
+                return False
+            print('  ⚠️ 平台時數未增加，僅嘗試一次短段恢復後重新確認')
+            stalled = True
+        else:
+            stalled = False
+            remaining = max(0, criteria_sec - after)
+            print(f'  平台本段增加 {after-before} 秒，距達標尚差 {sec_to_hms(remaining)}，繼續正常研習')
+    return False
+
+
+def _do_scorm_session(driver, wait, course, config=None, should_continue=None, session_limit_sec=600):
     config = config or {}
     should_continue = should_continue or (lambda: True)
 
@@ -651,13 +696,16 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
     else:
         print('目標: 無認證時數要求，僅檢查章節狀態')
 
+    remain_sec = min(remain_sec, max(1, session_limit_sec))
+    print(f'  本段最多研習 {session_limit_sec/60:.1f} 分鐘後離開並確認平台入帳')
+
     scorm_view_url = get_scorm_player_url(driver, wait, href)
     if not scorm_view_url:
         print('  找不到 SCORM 連結，跳過')
         return False
 
     print(f'  Player URL: {driver.current_url}')
-    pause_and_mute_media(driver)
+    mute_course_media(driver)
 
     chapters = get_chapters(driver)
     if not chapters:
@@ -686,8 +734,8 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
         all_done = len(pending) == 0
         time_ok = elapsed_sec >= remain_sec
 
-        if (target_sec > 0 and time_ok) or (all_done and remain_sec == 0):
-            print(f'  本輪計時已達目標，離開播放器並確認平台紀錄（{elapsed_sec/60:.1f} 分鐘）')
+        if elapsed_sec >= session_limit_sec or (target_sec > 0 and time_ok) or (all_done and remain_sec == 0):
+            print(f'  本段計時結束，離開播放器並確認平台紀錄（{elapsed_sec/60:.1f} 分鐘）')
             break
 
         to_visit = pending if pending else list(scoid_order)
@@ -698,7 +746,7 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
                 return False
 
             elapsed_sec = time.time() - start_time
-            if target_sec > 0 and elapsed_sec >= remain_sec:
+            if elapsed_sec >= session_limit_sec or (target_sec > 0 and elapsed_sec >= remain_sec):
                 break
 
             elapsed_sec = time.time() - start_time
@@ -711,11 +759,12 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
                 return False
             time.sleep(1)
             check_player_session(driver)
-            pause_and_mute_media(driver)
+            mute_course_media(driver)
+            start_unstarted_video(driver, muted=True)
 
             def update_player():
                 check_player_session(driver)
-                pause_and_mute_media(driver)
+                mute_course_media(driver)
                 deep_commit(driver)
 
             if not wait_with_heartbeat(
@@ -746,12 +795,14 @@ def do_scorm_course(driver, wait, course, config=None, should_continue=None):
     except Exception as e:
         print(f'  離開按鈕: {e}')
 
-    return confirm_study_record(driver, wait, course, criteria_sec, should_continue)
+    return confirm_study_record(driver, wait, course, criteria_sec, should_continue,
+                                baseline_sec=already_sec)
 
 
-def confirm_study_record(driver, wait, course, criteria_sec, should_continue):
+def confirm_study_record(driver, wait, course, criteria_sec, should_continue, baseline_sec=None):
     """Only advance after the platform confirms completion or recorded study time."""
     for attempt in range(1, 4):
+        course['_study_readback'] = 'unavailable'
         if not should_continue():
             return False
         try:
@@ -763,8 +814,16 @@ def confirm_study_record(driver, wait, course, criteria_sec, should_continue):
                 completed = status in ('已完成', '完成', '已達標', '達標')
                 if completed or (criteria_sec > 0 and recorded >= criteria_sec):
                     course.update(current)
+                    course['_study_readback'] = 'complete'
                     print(f'  ✅ 平台已確認研習達標：{current.get("study", "")}，接續檢查測驗/問卷')
                     return True
+                study_text = _clean_status(current.get('study'))
+                if study_text and any(c.isdigit() for c in study_text):
+                    course.update(current)
+                    course['_study_readback'] = 'incomplete'
+                    if baseline_sec is not None and recorded > baseline_sec:
+                        print(f'  平台已記錄本段研習：{study_text}，尚需繼續研習')
+                        return False
                 print(f'  平台紀錄尚未達標（{attempt}/3）：時數 {current.get("study", "")}，狀態 {status}')
             else:
                 print(f'  ⚠️ 平台尚未回傳本課程紀錄（{attempt}/3）')

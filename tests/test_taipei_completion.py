@@ -1,6 +1,9 @@
 """Regression tests for Taipei's local 100% / platform completion transition."""
 import ast
+import json
 from pathlib import Path
+import shutil
+import subprocess
 import types
 import unittest
 from unittest.mock import Mock
@@ -15,6 +18,30 @@ def load(name, ns):
 
 
 class CompletionTests(unittest.TestCase):
+    def test_incomplete_readback_retains_fresh_platform_time_for_topup(self):
+        result, course, _ = self.checker([[{'href': 'https://example/course?id=1',
+                                          'study': '20', 'done': '未完成'}]] * 3)
+        self.assertFalse(result)
+        self.assertEqual(course['study'], '20')
+        self.assertEqual(course['_study_readback'], 'incomplete')
+
+    def test_muting_does_not_pause_seek_or_speed_up_video(self):
+        node = shutil.which('node')
+        if not node:
+            self.skipTest('Node runtime unavailable')
+        driver = Mock()
+        load('mute_course_media', {})(driver)
+        script = driver.execute_script.call_args.args[0]
+        fixture = """
+const media={muted:false,volume:1,paused:false,currentTime:17,playbackRate:1,
+             pause(){this.paused=true;}};
+const win={document:{querySelectorAll:()=>[media]},frames:[]};
+new Function('window',SCRIPT)(win);
+if(!media.muted || media.volume!==0 || media.paused || media.currentTime!==17 || media.playbackRate!==1)
+    throw Error('Muting changed playback progress/state');
+""".replace('SCRIPT', json.dumps(script))
+        subprocess.run([node, '-e', fixture], check=True, capture_output=True)
+
     def test_platform_restriction_stops_instead_of_counting_time(self):
         ns = {'dismiss_alerts': Mock(return_value=['禁止多重視窗瀏覽課程。'])}
         load('has_multi_window_alert', ns)
@@ -112,13 +139,13 @@ class CompletionTests(unittest.TestCase):
         ns = {'time': types.SimpleNamespace(time=Mock(side_effect=[0, 100]), sleep=Mock()),
               'parse_study_time': lambda s: 0,
               'get_scorm_player_url': Mock(return_value='player'),
-              'pause_and_mute_media': Mock(), 'check_player_session': Mock(),
+              'mute_course_media': Mock(), 'check_player_session': Mock(),
               'get_chapters': Mock(return_value=[{'scoid':'1', 'name':'課程', 'done':False}]),
               'dismiss_alerts': Mock(),
               'EC': types.SimpleNamespace(element_to_be_clickable=lambda x:x),
               'By': types.SimpleNamespace(XPATH='xpath'),
               'confirm_study_record': Mock(return_value=True)}
-        fn = load('do_scorm_course', ns)
+        fn = load('_do_scorm_session', ns)
         course = {'name':'課程', 'href':'https://example/course?id=1', 'cert_hrs':0.05}
         self.assertTrue(fn(driver, wait, course))
         driver.execute_script.assert_called_once_with('arguments[0].click();', leave)
@@ -135,16 +162,108 @@ class CompletionTests(unittest.TestCase):
         chapters = [{'scoid':str(i), 'name':f'單元 {i}', 'done':False} for i in range(5)]
         ns = {'time': types.SimpleNamespace(time=lambda:clock[0], sleep=advance),
               'parse_study_time': lambda s:0, 'get_scorm_player_url':Mock(return_value='player'),
-              'pause_and_mute_media':Mock(), 'check_player_session':Mock(), 'get_chapters':Mock(return_value=chapters),
+              'mute_course_media':Mock(), 'start_unstarted_video':Mock(),
+              'check_player_session':Mock(), 'get_chapters':Mock(return_value=chapters),
               'click_chapter_by_scoid':Mock(return_value=True), 'is_chapter_done':Mock(return_value=False),
               'wait_with_heartbeat':advance, 'RESIDENCE_TIME':90,
               'sec_to_hms':str, 'draw_bar':lambda *args:'', 'dismiss_alerts':Mock(),
               'EC':types.SimpleNamespace(element_to_be_clickable=lambda x:x),
               'By':types.SimpleNamespace(XPATH='xpath'), 'confirm_study_record':Mock(return_value=True)}
-        fn = load('do_scorm_course', ns)
+        fn = load('_do_scorm_session', ns)
         self.assertTrue(fn(driver, wait, {'name':'課程', 'href':'course', 'cert_hrs':0.05}))
         ns['click_chapter_by_scoid'].assert_called_once_with(driver, '0')
         ns['confirm_study_record'].assert_called_once()
+
+    def test_long_course_reads_platform_after_ten_minutes_not_full_target(self):
+        clock = [0.0]
+        def advance(seconds, *args, **kwargs):
+            clock[0] += seconds
+            return True
+        driver = Mock(current_url='https://example/player')
+        chapters = [{'scoid': str(i), 'name': str(i), 'done': False} for i in range(30)]
+        ns = {'time': types.SimpleNamespace(time=lambda: clock[0], sleep=advance),
+              'parse_study_time': lambda s: 0, 'get_scorm_player_url': Mock(return_value='player'),
+              'mute_course_media': Mock(), 'start_unstarted_video': Mock(),
+              'check_player_session': Mock(), 'get_chapters': Mock(return_value=chapters),
+              'click_chapter_by_scoid': Mock(return_value=True), 'is_chapter_done': Mock(return_value=False),
+              'wait_with_heartbeat': advance, 'RESIDENCE_TIME': 75,
+              'sec_to_hms': str, 'draw_bar': lambda *args: '', 'dismiss_alerts': Mock(),
+              'EC': types.SimpleNamespace(element_to_be_clickable=lambda x: x),
+              'By': types.SimpleNamespace(XPATH='xpath'), 'confirm_study_record': Mock(return_value=False)}
+        fn = load('_do_scorm_session', ns)
+        self.assertFalse(fn(driver, Mock(), {'name': '課程', 'href': 'course', 'cert_hrs': 2}))
+        self.assertEqual(ns['click_chapter_by_scoid'].call_count, 8)
+        self.assertLess(clock[0], 700)
+        self.assertEqual(ns['confirm_study_record'].call_args.kwargs['baseline_sec'], 0)
+
+class TopupTests(unittest.TestCase):
+    def run_course(self, records, *, initial=0, running=None, advance=630):
+        clock = [0]
+        running = running or (lambda: True)
+        course = {'name': '測試課程', 'href': 'course', 'cert_hrs': 2, 'study': str(initial)}
+        records = iter(records)
+        def session(driver, wait, row, **kwargs):
+            clock[0] += advance
+            item = next(records)
+            if isinstance(item, Exception):
+                raise item
+            if item is None:
+                return False
+            row['study'] = str(item)
+            row['_study_readback'] = 'complete' if item >= 3600 else 'incomplete'
+            return item >= 3600
+        ns = {'time': types.SimpleNamespace(monotonic=lambda: clock[0]),
+              'parse_study_time': lambda s: int(s or 0), 'sec_to_hms': str,
+              '_do_scorm_session': Mock(side_effect=session)}
+        result = load('do_scorm_course', ns)(None, None, course, should_continue=running)
+        return result, ns['_do_scorm_session'], course
+
+    def test_partial_platform_progress_continues_until_platform_passes(self):
+        result, session, course = self.run_course([1000, 2400, 3600])
+        self.assertTrue(result)
+        self.assertEqual(session.call_count, 3)
+        self.assertEqual(course['study'], '3600')
+
+    def test_stalled_platform_gets_only_one_short_recovery(self):
+        result, session, _ = self.run_course([0, 0])
+        self.assertFalse(result)
+        self.assertEqual([call.kwargs['session_limit_sec'] for call in session.call_args_list], [600, 120])
+
+    def test_progress_after_recovery_resumes_normal_segments(self):
+        result, session, _ = self.run_course([0, 100, 3600])
+        self.assertTrue(result)
+        self.assertEqual([call.kwargs['session_limit_sec'] for call in session.call_args_list], [600, 120, 600])
+
+    def test_failed_or_missing_record_does_not_reenter_player(self):
+        result, session, _ = self.run_course([None])
+        self.assertFalse(result)
+        self.assertEqual(session.call_count, 1)
+
+    def test_decreased_platform_time_does_not_reenter_player(self):
+        result, session, _ = self.run_course([100], initial=200)
+        self.assertFalse(result)
+        self.assertEqual(session.call_count, 1)
+
+    def test_platform_restriction_is_not_retried(self):
+        with self.assertRaisesRegex(RuntimeError, '禁止多重視窗'):
+            self.run_course([RuntimeError('禁止多重視窗')])
+
+    def test_stopped_user_does_not_start_a_session(self):
+        result, session, _ = self.run_course([], running=lambda: False)
+        self.assertFalse(result)
+        session.assert_not_called()
+
+    def test_stopping_after_a_segment_does_not_start_recovery(self):
+        states = iter([True, False])
+        result, session, _ = self.run_course([0], running=lambda: next(states, False))
+        self.assertFalse(result)
+        self.assertEqual(session.call_count, 1)
+
+    def test_tiny_progress_cannot_create_an_unbounded_run(self):
+        result, session, _ = self.run_course(range(1, 100), advance=4000)
+        self.assertFalse(result)
+        self.assertEqual(session.call_count, 3)
+
 
 if __name__ == '__main__':
     unittest.main()
