@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.516Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T00:20:13.847Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:09.090Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "5da41aa5604a60d48247bb0c69910702062ec20876758b88a0b23563d409bf51",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "未遂犯亦處罰之",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "未遂犯亦處罰之",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:09.453Z"
+    },
+    "resolved_answer": "未遂犯亦處罰之",
+    "verification_status": "source_supported"
   },
   {
     "id": "74388f73a1b8909e638db123d110557d4d0833b0900005ac4d374383d5e5a62e",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因公務禮儀確有必要參加，經簽報長官核准及知會政風機構",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.517Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "因公務禮儀確有必要參加，經簽報長官核准及知會政風機構",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:09.756Z"
+    },
+    "resolved_answer": "因公務禮儀確有必要參加，經簽報長官核准及知會政風機構",
+    "verification_status": "source_supported"
   },
   {
     "id": "188c95bde5678d953af557f17a9f2c31d2ff28584adcfbe69f21a9d608c3f767",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "與其職務有利害關係者邀請之演講活動，應先簽報其長官核准及知會政風機構登錄後，始得前往",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "與其職務有利害關係者邀請之演講活動，應先簽報其長官核准及知會政風機構登錄後，始得前往",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:10.029Z"
+    },
+    "resolved_answer": "與其職務有利害關係者邀請之演講活動，應先簽報其長官核准及知會政風機構登錄後，始得前往",
+    "verification_status": "source_supported"
   },
   {
     "id": "2000d1602179a958ada28f0f39f9274498f3274fdf18550e21b98071b03bfbdb",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "傷害罪",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "傷害罪",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:10.298Z"
+    },
+    "resolved_answer": "傷害罪",
+    "verification_status": "source_supported"
   },
   {
     "id": "dc29cc36e09b849838004729f556f4fd9bbeff120af64316e93af80a2ff1aef3",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2021年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2022年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:10.569Z"
+    },
+    "resolved_answer": "2022年",
+    "verification_status": "source_supported"
   },
   {
     "id": "3dcc1d4ce48b20c2a3f705dca708a9733bea04aff79fb8da041d311f1579a34e",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "二日內",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.519Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "三日內",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:10.907Z"
+    },
+    "resolved_answer": "三日內",
+    "verification_status": "source_supported"
   },
   {
     "id": "a9c3aa4b1d2dac877755aeeeb38167acd0b221ad3b03be745890bc651b7182ec",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "私法人股東所指派之代表人為董事者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.519Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "私法人股東所指派之代表人為董事者",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:11.226Z"
+    },
+    "resolved_answer": "私法人股東所指派之代表人為董事者",
+    "verification_status": "source_supported"
   },
   {
     "id": "57b333d0e8c253cedd97a29e59dafcc897da2360366076976ce82bb065794a52",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.519Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:11.488Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "e15eddd498ef193748a7406a6aa6ba1b97137b7d098c39c0623d61a1e3ecce29",
@@ -181,13 +310,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "最佳成績63分，排名第31名。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:43:57.520Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "最佳成績68分，排名第25名。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:11.830Z"
+    },
+    "resolved_answer": "最佳成績68分，排名第25名。",
+    "verification_status": "source_supported"
   },
   {
     "id": "baf3059515a519327cc5930db14755ead5813fdcb6ce823c133ef52b861f48a0",
@@ -200,13 +343,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2021及2022年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:44:26.435Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2021及2022年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:12.097Z"
+    },
+    "resolved_answer": "2021及2022年",
+    "verification_status": "source_supported"
   },
   {
     "id": "75f8f9445cfd7af486ba0ec747b4767faba01d98a04cd2150d293fe3d43b60b2",
@@ -219,13 +376,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因結婚受贈之財物市價不超過新臺幣10,000元者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:44:26.438Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "長官之獎勵無金額限制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:12.470Z"
+    },
+    "resolved_answer": "長官之獎勵無金額限制",
+    "verification_status": "source_supported"
   },
   {
     "id": "6ffe6ebbe5293a428ef143183b59e6fec5e42abe93990e738c5921a190718120",
@@ -238,13 +409,27 @@
     ],
     "type": "單選",
     "course": "廉能政府與廉政倫理規範（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "效率化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:44:26.438Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "效率化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_332.html",
+          "title": "「廉能政府與廉政倫理規範（基礎訓練）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T00:20:12.774Z"
+    },
+    "resolved_answer": "效率化",
+    "verification_status": "source_supported"
   },
   {
     "id": "68a489ed395ddd43ec93e05f280ff4a9f552413349a1cd5321342a430b1fe215",
