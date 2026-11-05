@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "廉能法治扎根數位學習課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T22:02:51.793Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T05:20:46.047Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_751.html",
+          "title": "「廉能法治扎根數位學習課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T05:20:43.753Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "03ad4518b8c1784346684a4f8957e3094dfd6ffe69bd7c4a97ba88a24adfd119",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "廉能法治扎根數位學習課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "過失犯不受處罰。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T22:02:51.793Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "過失犯不受處罰。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_751.html",
+          "title": "「廉能法治扎根數位學習課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T05:20:44.155Z"
+    },
+    "resolved_answer": "過失犯不受處罰。",
+    "verification_status": "source_supported"
   },
   {
     "id": "2ddbde014b44e6ebed321d187aa1e91fe9ab2f376f97b69c8ffced09c2e28e4e",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "廉能法治扎根數位學習課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T22:02:51.794Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_751.html",
+          "title": "「廉能法治扎根數位學習課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T05:20:44.484Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "08f569c7c92e5e862370b8bee2bbe72d45d63c57c7d5b02c4eea4030086ca789",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "廉能法治扎根數位學習課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "飲宴應酬。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T22:02:51.794Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "行收賄。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_751.html",
+          "title": "「廉能法治扎根數位學習課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T05:20:44.794Z"
+    },
+    "resolved_answer": "行收賄。",
+    "verification_status": "source_supported"
   },
   {
     "id": "f27d27d41d81f3e6d47046ddf14c882764719311b41be2a04a6c16f99e90c434",
@@ -86,12 +145,26 @@
     ],
     "type": "單選",
     "course": "廉能法治扎根數位學習課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "任何人皆適用。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T22:03:24.635Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "任何人皆適用。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_751.html",
+          "title": "「廉能法治扎根數位學習課程」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T05:20:45.114Z"
+    },
+    "resolved_answer": "任何人皆適用。",
+    "verification_status": "source_supported"
   }
 ]
