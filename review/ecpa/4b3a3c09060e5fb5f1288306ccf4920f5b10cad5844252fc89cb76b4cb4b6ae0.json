@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.407Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T04:19:53.852Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:49.079Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3a2c847700f39e0f3d3dbced3f889b607856276ccc43e77b74d18c1f141b49a5",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.408Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:49.504Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "fc0b837aa891e829c34ed2f49747b4e988cf3b38f51bbd7fb67fb353fb34bcf5",
@@ -42,13 +73,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.409Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:49.853Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "13b3d81f639ebb51038b239a4ef11271b2b9a39ee85fd0f1741957cba5200de9",
@@ -59,13 +104,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.410Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:50.304Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "7a01618dc8b106e91b09cde1367d4181021226c0bb9c74179f0c52029666d732",
@@ -76,13 +135,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:13.410Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:50.616Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "2a26c144341a454d202d48422ab56d99c4d2e226bab7c3550f3f7481f525b679",
@@ -93,13 +166,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:44.256Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:51.031Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1b472f1f00ca8419f33c3a83af794f100b1d04921cd88e654566dd32d4b22f69",
@@ -110,13 +197,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:44.259Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:51.377Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "f3029b0138f2194bc86f9fbea635067e63d75b068109c0b19e58feae60e716cc",
@@ -127,13 +228,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:44.260Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:51.759Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "171b23a447d69c60b65d2f78d17186ffd15c36a523ef5eba6d59b3a2a5e10b57",
@@ -144,13 +259,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T19:06:44.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:51.774Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "3d38d8f33675cc926692ea2c3acc3765be8f268462f5a68f5491d032ce399a57",
@@ -161,13 +290,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T21:25:21.435Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:52.069Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "dce03b97954aa8c39af0a6fb9634b698c963401ed35b4feab3453ef5277c66b0",
@@ -178,13 +321,27 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T21:25:21.437Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:52.434Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "b361d2c1f44fed587559804f0c0c7dddb907cfed3c60baf7e8c066e287195d62",
@@ -195,12 +352,26 @@
     ],
     "type": "是非",
     "course": "性別主流化及性騷擾之防治與處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T21:26:22.356Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01392436917.html",
+          "title": "「性別主流化及性騷擾之防治與處理」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T04:19:52.786Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
