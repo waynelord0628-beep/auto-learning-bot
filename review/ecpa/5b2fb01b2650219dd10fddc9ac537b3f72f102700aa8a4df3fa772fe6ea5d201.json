@@ -228,7 +228,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T22:46:22.690Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-06T14:19:42.968Z"
   },
   {
     "id": "d217c3ce9a7a2c3d5999b6e921c0a9bc5c537552f8f3de812a34ad97ee61051f",
@@ -266,6 +268,8 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T22:46:22.708Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-06T14:19:42.968Z"
   }
 ]
