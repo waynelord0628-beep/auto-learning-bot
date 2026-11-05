@@ -3447,7 +3447,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3458,7 +3460,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3469,7 +3473,9 @@
     "opt1": "2. 小孩一定還是有一個爸爸一個媽媽。",
     "opt2": "3. 孩子會因為家長是同志的關係而被霸凌。",
     "opt3": "4. 以上皆是。",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.910Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3480,7 +3486,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3491,7 +3499,9 @@
     "opt1": "2. 請問你們其中哪一位是媽媽。",
     "opt2": "3. 我們需要確認陪同者關係以便協助後續安排，請問兩位分別是孩子的。",
     "opt3": "4. 請問你們是孩子的媽媽和阿嬤嗎。",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3502,7 +3512,9 @@
     "opt1": "2. 人格發展。",
     "opt2": "3. 親子關係穩定性。",
     "opt3": "4. 無明顯差異。",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3513,7 +3525,9 @@
     "opt1": "是",
     "opt2": "",
     "opt3": "",
-    "updated_at": "2026-08-12T13:10:33.475Z"
+    "updated_at": "2026-11-05T03:08:32.910Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5397,
@@ -3524,7 +3538,9 @@
     "opt1": "2. 勸他們低調避免麻煩。",
     "opt2": "3. 尊重其家庭組成與稱呼，不過度探詢隱私。",
     "opt3": "4. 沒有特別回應，皺眉把話題帶往其他方向。",
-    "updated_at": "2026-08-12T13:10:33.477Z"
+    "updated_at": "2026-11-05T03:08:32.911Z",
+    "verification_status": "platform_confirmed",
+    "type": "single"
   },
   {
     "course_id": 5542,
@@ -10277,5 +10293,31 @@
     "opt2": "3. 台灣山毛櫸。",
     "opt3": "4. 槲樹。",
     "updated_at": "2026-10-28T16:38:31.982Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5397,
+    "q_key": "下列哪些是台灣同志可能生養小孩的方式？",
+    "q_text": "下列哪些是台灣同志可能生養小孩的方式？",
+    "val": "[\"0\",\"2\",\"3\"]",
+    "opt0": "1. 自體滴精。",
+    "opt1": "2. 在台灣進行人工生殖。",
+    "opt2": "3. 在海外進行人工生殖。",
+    "opt3": "4. 和伴侶共同透過機構媒合收養。",
+    "updated_at": "2026-11-05T03:08:32.910Z"
+  },
+  {
+    "verification_status": "platform_confirmed",
+    "type": "multiselect",
+    "course_id": 5397,
+    "q_key": "下列哪些是應避免直接和「同志伴侶」結合的刻板印象？",
+    "q_text": "下列哪些是應避免直接和「同志伴侶」結合的刻板印象？",
+    "val": "[\"0\",\"1\",\"2\"]",
+    "opt0": "1. 一定有一個人扮演男生，一個人扮演女生。",
+    "opt1": "2. 一定是在異性身上受過傷害，才會喜歡同性。",
+    "opt2": "3. 關係通常混亂，不穩定。",
+    "opt3": "4. 2019 年後可以結婚，也可能會離婚。",
+    "updated_at": "2026-11-05T03:08:32.911Z"
   }
 ]
