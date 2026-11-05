@@ -25,13 +25,30 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.336Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-12T07:20:11.575Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:00.013Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "549c66ac6151e7d9f5d86458436ea70f5850f020103cd0b6fb63516a7463b50b",
@@ -44,13 +61,27 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "CRPD",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.337Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "CRPD",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:01.562Z"
+    },
+    "resolved_answer": "CRPD",
+    "verification_status": "source_supported"
   },
   {
     "id": "93460a828525c4e3aaf1690c3fc42e7d90053a2c3d71444c6714384f3eb3add6",
@@ -61,13 +92,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.337Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:02.299Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "6528f70735d1312fb8243692b0429931435e81fbdb19bfe482a20be4d5dd7475",
@@ -80,13 +125,27 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.338Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:02.878Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "17d9ff1f1c79562e3d18ffe9f200e81c97fd80c72c6d947f4cd8e71a0869fe83",
@@ -97,13 +156,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.339Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:02.935Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "2144a194d4f444265f1f0c3abd3fd6d6f1ae24ec59cd557edae15c8a244cda4d",
@@ -114,13 +187,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.340Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:03.757Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "8509c0a6eab646ba8dadf5ede5a3fa5bfd0e66bcbd92d08ae746904dc7c47a00",
@@ -131,13 +218,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.341Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:04.371Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "e8a9676b81aa5dd26020933d19e546e7179591a3d82827314bedfa0c9cbab142",
@@ -150,13 +251,27 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "權利歧視",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.342Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "障礙歧視",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:04.859Z"
+    },
+    "resolved_answer": "障礙歧視",
+    "verification_status": "source_supported"
   },
   {
     "id": "e6f11b58fc753c12d8f783d3b8eae50b3147476b705c5fff960ebb094b34361c",
@@ -167,13 +282,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-30T11:35:02.343Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:05.367Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "93e517bb9a9ff2e89808c450ebfaf8bf96a19a902a369e35aec19bcf86312d86",
@@ -205,13 +334,27 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "十項",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.151Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "八項",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:06.092Z"
+    },
+    "resolved_answer": "八項",
+    "verification_status": "source_supported"
   },
   {
     "id": "85557b75784a0149ce4aa0a5fd9016aa7a241d6c8b521b4f1c2f75fea6173ee6",
@@ -222,13 +365,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.151Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:06.563Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "0cddd259ea996f628a53dea0803bda5450442f603ae714a91bb85e0e4ac1dd1b",
@@ -241,13 +398,27 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人權精神",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.152Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "人權精神",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:07.143Z"
+    },
+    "resolved_answer": "人權精神",
+    "verification_status": "source_supported"
   },
   {
     "id": "b087a355dbe3a4a38f624c44bb75b48243d90583178c43d60068e86986dd927d",
@@ -258,13 +429,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:08.175Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "a1a299c6ea68064b445a4a1579b82fdc43456318d501ba1ab82c66c1c124227e",
@@ -275,13 +460,27 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:12:25.156Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:09.008Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "878d18a83dcf6cd0b0854c4a18e5b8dc9922dd831b33a673e580fe51a927e324",
@@ -313,15 +512,29 @@
     ],
     "type": "單選",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:13:00.867Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-04T03:19:48.112Z"
+    "retry_after": "2026-11-04T03:19:48.112Z",
+    "source_review": {
+      "answer": "人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:09.474Z"
+    },
+    "resolved_answer": "人",
+    "verification_status": "source_supported"
   },
   {
     "id": "fd4a95fc022deee306897347e2d99eadedb9edecb21761fbb726a3346be533fe",
@@ -332,12 +545,26 @@
     ],
     "type": "是非",
     "course": "身心障礙者權利公約與我國身障福利政策展望",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T03:13:31.229Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_567.html",
+          "title": "「身心障礙者權利公約與我國身障福利政策展望」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-05T07:20:10.212Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
