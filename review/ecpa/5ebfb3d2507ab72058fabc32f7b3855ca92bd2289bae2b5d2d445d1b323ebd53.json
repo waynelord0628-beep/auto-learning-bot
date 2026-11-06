@@ -37,7 +37,11 @@
     "candidate_answer": "可進入、可取得",
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.951Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-13T04:20:37.505Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "82b6aa5f000fd60062d17931a1833d3aa56fcc0547fa090428450dbb0e11070f",
