@@ -16,7 +16,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T19:07:17.440Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-07T12:19:43.521Z"
   },
   {
     "id": "49da9c5c0a836b7b11b6d894a440fad58c0203b87e42861f86317c0d68961b71",
@@ -70,9 +72,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "嬰幼兒在出生滿2、4、6、8 個月及5 歲時接種一劑疫苗。",
     "source": "ai_unverified",
     "created_at": "2026-11-04T19:07:17.444Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-07T12:19:43.521Z"
   }
 ]
