@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-13T07:19:49.200Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:45.967Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "f33e6f97926e0e1d7e49c83ff15ff84a6b3e038053cfc2d81245f46bf75b9bb8",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "仿照人類思考推理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "生成式 AI 語言模型就是和機器玩接龍遊戲",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:46.346Z"
+    },
+    "resolved_answer": "生成式 AI 語言模型就是和機器玩接龍遊戲",
+    "verification_status": "source_supported"
   },
   {
     "id": "0432e12f356d64c204a7bf239832a183d49f80020898a2a5bcb01cae9edbed77",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.730Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:46.599Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "df70fc9150727d25e0adea6a45d7d067820b1cf8c45f8a253fc3da8246d9b174",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.735Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:46.905Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "4c88d1c99d13f49d79c008a0b9bf7501eda17c4498b88535ee94baaa5676114b",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "白領工作將受影響",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.736Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "白領工作將受影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:47.168Z"
+    },
+    "resolved_answer": "白領工作將受影響",
+    "verification_status": "source_supported"
   },
   {
     "id": "2519248e919cd9d687e41ccfbd05052967ac4c80efe8d5daa7b0d8c72acd03f6",
@@ -143,13 +216,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.740Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:47.693Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "f152f1174764c1596321f72c5f40dbb55c601a24bcf3057d8d77229846e2d5f9",
@@ -162,13 +249,27 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.741Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:48.045Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "658f3be3ef0a4937c87a955b77d687565ad78c3bc972f2d586ea79d05a9ebdf0",
@@ -181,12 +282,26 @@
     ],
     "type": "單選",
     "course": "簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T20:10:20.741Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee_0889435419.html",
+          "title": "「簡立峰博士陪你談：AI 技術史—機器智慧從何湧現？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T07:19:48.306Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   }
 ]
