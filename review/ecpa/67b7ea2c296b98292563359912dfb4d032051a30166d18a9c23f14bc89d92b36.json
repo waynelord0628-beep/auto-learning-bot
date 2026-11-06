@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "考試錄取人員訓練非屬考試程序之一環。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.769Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-13T09:20:17.896Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "考試錄取人員訓練非屬考試程序之一環。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:11.780Z"
+    },
+    "resolved_answer": "考試錄取人員訓練非屬考試程序之一環。"
   },
   {
     "id": "167bdecf77f1762d6a134c22b2974b96f49721e8a99869ce278c75ad629d3f8e",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "申請重新訓練經核准後，仍留原分配機關(構)學校接受訓練。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.770Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "依考試當年度訓練計畫辦理。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:12.065Z"
+    },
+    "resolved_answer": "依考試當年度訓練計畫辦理。",
+    "verification_status": "source_supported"
   },
   {
     "id": "265acf33d8c61d546183bcc46641c1ceb47d3f40a3a87e1e49223d81119df1a9",
@@ -46,13 +77,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.771Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:12.635Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "936cbd1f8ca027b05a0a04def90a55357a14c1f51bfb534f5f8b33326118023c",
@@ -82,13 +127,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:12.973Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "cd555f05ebbb37000464d0d8939cfb1e02e6d9524174463a41834d483ba26776",
@@ -101,13 +160,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "受訓人員如符合免除基礎訓練資格要件，機關應於報到後10日內函送保訓會核准。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "受訓人員如符合免除基礎訓練資格要件，機關應於報到後10日內函送保訓會核准。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:13.229Z"
+    },
+    "resolved_answer": "受訓人員如符合免除基礎訓練資格要件，機關應於報到後10日內函送保訓會核准。",
+    "verification_status": "source_supported"
   },
   {
     "id": "e9bb641e358984881a9faccd0f4b736aef983d3081db933d4808025b3d4f86a4",
@@ -118,13 +191,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.772Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:13.489Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "85d75c0ac5016c55dc2a5d6c8218716af484f87ec24596372f372c1dabca16e5",
@@ -135,13 +222,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.773Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:15.000Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "f545628135d2677793fd0550392028c0451202fd7a29f0a8ddc240446d838ae4",
@@ -152,13 +253,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.774Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:15.250Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "ab09c594fb8f2ed2b4b11420f800104511ecaaa4311f1d71c5ca85f5d575b96e",
@@ -171,13 +286,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "除特定假別須按比例計算外，比照公務人員請假規則辦理。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:17.775Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "除特定假別須按比例計算外，比照公務人員請假規則辦理。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:15.526Z"
+    },
+    "resolved_answer": "除特定假別須按比例計算外，比照公務人員請假規則辦理。",
+    "verification_status": "source_supported"
   },
   {
     "id": "b55f20d2bbb3dafb92d341c8c2faf978cddf33185485bcb2b5749b091c4a3e45",
@@ -190,13 +319,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "所採計的4個月工作經驗，不包含前次公務人員考試錄取人員之實務訓練期間。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.726Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "具有與考試錄取類科同職組各職系之資格。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:15.864Z"
+    },
+    "resolved_answer": "具有與考試錄取類科同職組各職系之資格。",
+    "verification_status": "source_supported"
   },
   {
     "id": "a5d312f78bdf333e2615b3d6e4c870f946571c31d75277627614c6f5e82a56db",
@@ -207,13 +350,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.727Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:16.224Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "2c411b6d52ea7e9029d29d7806d40006a285ed70353cee860f7746f2a5c92f51",
@@ -226,13 +383,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "結婚。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "結婚。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:16.576Z"
+    },
+    "resolved_answer": "結婚。",
+    "verification_status": "source_supported"
   },
   {
     "id": "7c6f80c319521165282c5f4fd93e14e396954c8cbd7c3055636aed293b348030",
@@ -243,13 +414,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.728Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:16.842Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a1029af6d24d415c6a7a85a63e0c1e5d9461b1b1f9fa0fcc29a7cdfb2528964c",
@@ -260,13 +445,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:17.132Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "404f2869aa7be4b00801dab155b6afb1f448bb5228ac525ba9ca9acafdbe7af9",
@@ -279,13 +478,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務(上-法規篇)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "依公務人員考試錄取人員訓練辦法規定，廢止受訓資格。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:41:54.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "依公務人員考試錄取人員訓練辦法規定，廢止受訓資格。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119726337",
+          "title": "公務人員考試錄取人員訓練法規與實務(上-法規篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-06T09:20:17.180Z"
+    },
+    "resolved_answer": "依公務人員考試錄取人員訓練辦法規定，廢止受訓資格。",
+    "verification_status": "source_supported"
   },
   {
     "id": "4b0d4a8e9e9fe8f14d64fc44ecb4352573e8ea4d341e04491b817b6f6ecadcfe",
