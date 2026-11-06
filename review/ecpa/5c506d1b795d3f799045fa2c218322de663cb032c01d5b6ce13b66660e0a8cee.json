@@ -58,17 +58,30 @@
     ],
     "type": "單選",
     "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "解除戒嚴",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.036Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-03T11:20:51.628Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-13T03:21:20.127Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "廢除動員戡亂",
+      "sources": [
+        {
+          "url": "https://www.drnh.gov.tw/p/404-1003-15250.php?Lang=zh-tw",
+          "quote": "蔣經國總統解嚴促使「自由化」的發展；李登輝總統終止動員戡亂，使得「民主化」成為可能。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-06T03:21:18.467Z"
+    },
+    "resolved_answer": "廢除動員戡亂"
   },
   {
     "id": "6751db83a9a788b270bc6795bf81c6fe5a2b4fca0bcf3e1211415ac268022716",

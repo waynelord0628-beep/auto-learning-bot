@@ -128882,5 +128882,31 @@
       "model": null,
       "checked_at": "2026-11-05T10:20:20.622Z"
     }
+  },
+  {
+    "question": "在李登輝執政期間（1988~2000），哪一項政策成為日後推動臺灣民主化最重要的動力來源？",
+    "type": "單選",
+    "options": [
+      "解除戒嚴",
+      "修改刑法一百條",
+      "廢除動員戡亂",
+      "總統直選",
+      "臺灣省政府虛級化"
+    ],
+    "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
+    "answer": "廢除動員戡亂",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "廢除動員戡亂",
+      "sources": [
+        {
+          "url": "https://www.drnh.gov.tw/p/404-1003-15250.php?Lang=zh-tw",
+          "quote": "蔣經國總統解嚴促使「自由化」的發展；李登輝總統終止動員戡亂，使得「民主化」成為可能。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-06T03:21:18.467Z"
+    }
   }
 ]
