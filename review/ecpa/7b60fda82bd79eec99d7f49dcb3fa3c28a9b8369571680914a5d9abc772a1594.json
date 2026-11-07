@@ -68,7 +68,11 @@
     "created_at": "2026-11-01T22:45:28.318Z",
     "review_state": "awaiting_candidate",
     "retry_count": 2,
-    "retry_after": "2026-11-06T21:19:54.742Z"
+    "retry_after": "2026-11-06T21:19:54.742Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T09:20:41.929Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "060044527af8544ac7ae878d6044d0ca257cdf719dff8a36b0a1e9625faf94be",
