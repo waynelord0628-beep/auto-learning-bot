@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.812Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T15:20:48.342Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:44.523Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "7d4d8e70ad5532c5d09d3a3d970cdfa1902bd84ccd1f898511853f4e41faa8d6",
@@ -65,13 +82,27 @@
     ],
     "type": "單選",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "要考慮到政局，避免不熟悉政治的人干預。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.814Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "要考慮到政局，避免不熟悉政治的人干預。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:45.703Z"
+    },
+    "resolved_answer": "要考慮到政局，避免不熟悉政治的人干預。",
+    "verification_status": "source_supported"
   },
   {
     "id": "545c58e4f8c74adb0cfb3ce93bcf120cba2fd645362781741e54b9268483b1e6",
@@ -84,13 +115,27 @@
     ],
     "type": "單選",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "參與式預算的執行，因增加公務人員的工作量而造成反彈。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.814Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "參與式預算的執行，因增加公務人員的工作量而造成反彈。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:46.071Z"
+    },
+    "resolved_answer": "參與式預算的執行，因增加公務人員的工作量而造成反彈。",
+    "verification_status": "source_supported"
   },
   {
     "id": "cfb93643c5a5b2aa1741dc7acbe631e6c52fe9993e1d831d7bbbd948e8561b42",
@@ -103,13 +148,27 @@
     ],
     "type": "單選",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:46.412Z"
+    },
+    "resolved_answer": "以上皆是。",
+    "verification_status": "source_supported"
   },
   {
     "id": "385065fa13a45e0c586cb29e0934ded75be52ca8c7670b1da089a1c236212fce",
@@ -122,13 +181,27 @@
     ],
     "type": "單選",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "議員可以透過政治動員影響參與式預算的投票結果。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.815Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "議員可以透過政治動員影響參與式預算的投票結果。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:46.737Z"
+    },
+    "resolved_answer": "議員可以透過政治動員影響參與式預算的投票結果。",
+    "verification_status": "source_supported"
   },
   {
     "id": "21311fe4795f2727f9559da4776389f7bd068fec54716f13f003c2f2d83055e4",
@@ -141,13 +214,27 @@
     ],
     "type": "單選",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可以是由個別局處推動與該局處業務有關的參與式預算。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.816Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "可以是由個別局處推動與該局處業務有關的參與式預算。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:47.051Z"
+    },
+    "resolved_answer": "可以是由個別局處推動與該局處業務有關的參與式預算。",
+    "verification_status": "source_supported"
   },
   {
     "id": "1780b584fb33c6a0f7e4916d20ff44a844b2ab25987ef34da43f52851b6eed80",
@@ -177,12 +264,26 @@
     ],
     "type": "是非",
     "course": "一看就懂的公民審議與參與式預算(html5)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.817Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/html5ee_23.html",
+          "title": "「一看就懂的公民審議與參與式預算(html5)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T15:20:47.637Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
