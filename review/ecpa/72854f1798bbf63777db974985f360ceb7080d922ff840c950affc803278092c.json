@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "原住民族委員會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.319Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T02:20:16.770Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "原住民族委員會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:06.889Z"
+    },
+    "resolved_answer": "原住民族委員會"
   },
   {
     "id": "84a46b85228424a35bdb5111ad9612628fda23380a76e833c7bbe275d6463ee0",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "由族群或部落選派產生",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.331Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "由族群或部落選派產生",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:08.471Z"
+    },
+    "resolved_answer": "由族群或部落選派產生",
+    "verification_status": "source_supported"
   },
   {
     "id": "89e0cb6b4fd8d90639e2bae290f63d01416645bdf3eabe2140b3e3a888b4a2b0",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.332Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:09.370Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "4575f82d6c5b25d59bccb619aa249b538dd2aceca99670d259e9616d47c4e12e",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "實質審查主義",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.333Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "權利的存續期間有限",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:10.169Z"
+    },
+    "resolved_answer": "權利的存續期間有限",
+    "verification_status": "source_supported"
   },
   {
     "id": "3b491a8e1bc99eb212b3ce65d4e2598919ec79dbaf4a7e70d4b4dfa087bc39a4",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.334Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:11.178Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "92457711b8a8e751a7940dd3b57cb46174ca025348b6a854ca51dcabb60604a0",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "客觀性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.336Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "創作性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:12.316Z"
+    },
+    "resolved_answer": "創作性",
+    "verification_status": "source_supported"
   },
   {
     "id": "ed1e598bd4678967f0e97eb746859197bd45deff365c2158fde98cfe389ff8cc",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "審議會議前須召開會前會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.337Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "審議會議前須召開會前會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:13.152Z"
+    },
+    "resolved_answer": "審議會議前須召開會前會",
+    "verification_status": "source_supported"
   },
   {
     "id": "94eb70608891c536ba7eddfdc03d17c8acf28fca71e374ab23b80545ea027b2d",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "宗教祭儀",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.339Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "飲食食譜",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:13.771Z"
+    },
+    "resolved_answer": "飲食食譜",
+    "verification_status": "source_supported"
   },
   {
     "id": "7b5f248d07a65b5e283e0619edeff9b25c15126579d74671a9536aecfa3bc14b",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "造橋修路",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.340Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "造橋修路",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:14.496Z"
+    },
+    "resolved_answer": "造橋修路",
+    "verification_status": "source_supported"
   },
   {
     "id": "5073dd18003670b8bd46a303c0e1400bd2ea22bc247673fc05601708d1791fad",
@@ -181,12 +310,26 @@
     ],
     "type": "單選",
     "course": "保護原住民族傳統智慧創作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "原住民族之家族、氏族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T15:14:32.342Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "原住民個人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_949.html",
+          "title": "「保護原住民族傳統智慧創作」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T02:20:15.092Z"
+    },
+    "resolved_answer": "原住民個人",
+    "verification_status": "source_supported"
   }
 ]
