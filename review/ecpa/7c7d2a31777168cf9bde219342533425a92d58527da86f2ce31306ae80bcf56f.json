@@ -58,6 +58,10 @@
     "candidate_answer": "瞳孔放大",
     "source": "ai_unverified",
     "created_at": "2026-11-04T04:03:56.630Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T10:20:23.826Z",
+    "verification_status": "insufficient_sources"
   }
 ]
