@@ -130238,5 +130238,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-07T12:20:51.844Z"
     }
+  },
+  {
+    "question": "下列哪一項最適合用來撰寫「具體的學習目標」？",
+    "type": "單選",
+    "options": [
+      "使用「熟悉」、「知道」等抽象詞彙",
+      "以動詞開頭，明確描述學習後的行為改變",
+      "強調課程的社會影響與政策連結",
+      "以學習者的個人興趣為主要設計依據"
+    ],
+    "course": "認識「各機關辦理人權教育訓練之監測與成效評估指引」",
+    "answer": "以動詞開頭，明確描述學習後的行為改變",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以動詞開頭，明確描述學習後的行為改變",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_95.html",
+          "title": "【解答】認識「各機關辦理人權教育訓練之監測與成效評估指引」 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T14:19:47.924Z"
+    }
   }
 ]
