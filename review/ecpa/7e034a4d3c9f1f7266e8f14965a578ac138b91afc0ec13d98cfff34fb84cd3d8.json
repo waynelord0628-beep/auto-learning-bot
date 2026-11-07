@@ -56,13 +56,30 @@
     ],
     "type": "單選",
     "course": "政策力-原住民族轉型正義",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "威權統治時期違反自由民主憲政秩序之不法行為與結果。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-03T07:21:13.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T12:20:53.004Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "威權統治時期違反自由民主憲政秩序之不法行為與結果。",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030296",
+          "quote": "威權統治時期違反自由民主憲政秩序之不法行為與結果，其轉型正義相關處理事宜，依本條例規劃、推動之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-07T12:20:51.844Z"
+    },
+    "resolved_answer": "威權統治時期違反自由民主憲政秩序之不法行為與結果。"
   },
   {
     "id": "fb62787ecdf4e053ff7b8be2d1eb7d830fcc38c154ceeaf16508201a01c65b6d",

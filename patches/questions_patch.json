@@ -130213,5 +130213,30 @@
       "model": null,
       "checked_at": "2026-11-07T08:19:52.275Z"
     }
+  },
+  {
+    "question": "根據《促進轉型正義條例》，其主要處理的對象是哪個時期的何種行為？",
+    "type": "單選",
+    "options": [
+      "戰後初期因經濟政策失當造成的財產損失。",
+      "威權統治時期違反自由民主憲政秩序之不法行為與結果。",
+      "清領時期因土地開發造成的族群衝突。 ​​​​​​​",
+      "日治時期違反國際公法的戰爭行為。"
+    ],
+    "course": "政策力-原住民族轉型正義",
+    "answer": "威權統治時期違反自由民主憲政秩序之不法行為與結果。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "威權統治時期違反自由民主憲政秩序之不法行為與結果。",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030296",
+          "quote": "威權統治時期違反自由民主憲政秩序之不法行為與結果，其轉型正義相關處理事宜，依本條例規劃、推動之。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-07T12:20:51.844Z"
+    }
   }
 ]
