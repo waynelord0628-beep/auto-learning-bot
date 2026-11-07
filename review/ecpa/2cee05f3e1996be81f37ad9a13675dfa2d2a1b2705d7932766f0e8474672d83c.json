@@ -16,9 +16,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.865Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 2,
-    "retry_after": "2026-11-06T02:19:49.914Z",
+    "review_state": "awaiting_evidence",
+    "retry_count": 3,
+    "retry_after": "2026-11-08T10:19:44.019Z",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-10T07:20:09.763Z",
@@ -286,9 +286,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.871Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 2,
-    "retry_after": "2026-11-06T02:19:49.914Z"
+    "review_state": "awaiting_evidence",
+    "retry_count": 3,
+    "retry_after": "2026-11-08T10:19:44.019Z"
   },
   {
     "id": "ef3cbcdaf5a72860b3a6ef52bbac1f0c2593ac11919719b32a66c1451a3e6dad",
