@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.070Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T08:19:52.960Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "無須教導過多承辦業務心得，以免錄取人員受長官器重。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:50.595Z"
+    },
+    "resolved_answer": "無須教導過多承辦業務心得，以免錄取人員受長官器重。"
   },
   {
     "id": "3e2ce9978f459c6240247ccc482aff44da81f437dfce13a134e9126ca96315e6",
@@ -27,13 +44,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.072Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:50.911Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "cedd569d1b8dc6fd87997ac6c0cff9ae02915873b2de5fed38eda377e2e1ad3d",
@@ -44,13 +75,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.073Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:51.189Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "84d421870a254f406b2ff52d713a6fa0dc25c58cfcaff2ce4f0f3239a5aa3cf5",
@@ -118,13 +163,27 @@
     ],
     "type": "是非",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.079Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:51.711Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "fe944b86f71b0bf84b67d83b35d20e073052118a107a28815895a9b5daeb3f25",
@@ -137,13 +196,27 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.081Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "學識。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:51.991Z"
+    },
+    "resolved_answer": "學識。",
+    "verification_status": "source_supported"
   },
   {
     "id": "e951b3993d4ab4143c08cf0be574ded70d778156b8e4de2076daf55923db5e7e",
@@ -175,12 +248,26 @@
     ],
     "type": "單選",
     "course": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-06T07:04:33.085Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "基礎訓練成績。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15119725050",
+          "title": "公務人員考試錄取人員訓練法規與實務（下-輔導觀念篇）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-07T08:19:52.275Z"
+    },
+    "resolved_answer": "基礎訓練成績。",
+    "verification_status": "source_supported"
   }
 ]
