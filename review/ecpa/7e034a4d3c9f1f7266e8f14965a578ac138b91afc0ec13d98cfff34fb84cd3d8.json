@@ -39,7 +39,11 @@
     "candidate_answer": "司法責任：代替國家司法機關，審判歷史上的不義事件。",
     "source": "ai_unverified",
     "created_at": "2026-11-03T07:21:13.155Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-14T12:20:28.115Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "b9fbb165d4c537704c252d94e82492c4f6c94544b6c97b97f8df5aaa864bbf92",
