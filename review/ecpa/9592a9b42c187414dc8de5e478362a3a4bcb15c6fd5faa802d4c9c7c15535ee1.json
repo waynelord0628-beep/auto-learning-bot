@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "能集合格式設定並命名以重複使用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.277Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-15T07:19:55.193Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "能集合格式設定並命名以重複使用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.099Z"
+    },
+    "resolved_answer": "能集合格式設定並命名以重複使用"
   },
   {
     "id": "63a993838a0c87de77549668678bb64b79e0455c8842270dbc84b41e19acd902",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用 Writer 打開並直接選擇 \"轉存\"",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.281Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.503Z"
+    },
+    "resolved_answer": "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+    "verification_status": "source_supported"
   },
   {
     "id": "48c106234eef08dd518966c7917a4720bf76bb260f693ad9c08f9187c0135aea",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "用頁尾功能設定封面頁隱藏",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.282Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "透過段落設定調整起始值為 1",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.981Z"
+    },
+    "resolved_answer": "透過段落設定調整起始值為 1",
+    "verification_status": "source_supported"
   },
   {
     "id": "4250c7606c448036b6600d9d87b5c8c75cf6a2ed95c2d8c05f977c851c51063b",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "插入對角線後手動輸入文字",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.283Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "使用繪圖工具新增多條線條",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:51.370Z"
+    },
+    "resolved_answer": "使用繪圖工具新增多條線條",
+    "verification_status": "source_supported"
   },
   {
     "id": "add2a048472030cefa98d0e3ed98e086ee9d36a4841a800f4116cbbead754445",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在表格上方手動輸入文字",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:22.284Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "使用插入功能表中的圖表標示",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.006Z"
+    },
+    "resolved_answer": "使用插入功能表中的圖表標示",
+    "verification_status": "source_supported"
   },
   {
     "id": "684c5f928ee4094a521a46fcbe506ac56d0d1e4e6db3c20c5806540403609436",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "合併列印需要主文件和資料庫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.469Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "合併列印需要主文件和資料庫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.395Z"
+    },
+    "resolved_answer": "合併列印需要主文件和資料庫",
+    "verification_status": "source_supported"
   },
   {
     "id": "55233ebcf80865d81aeada25f07a2e944485006f9c3cf5b3d4ae5fbec90720c5",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透過段落設置對齊方式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.469Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "選取文字並使用“雙行寫入”",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.623Z"
+    },
+    "resolved_answer": "選取文字並使用“雙行寫入”",
+    "verification_status": "source_supported"
   },
   {
     "id": "07f3151ad84c88fb9fea51ab03e3c293fbd1b9c231acb8ee62a3ab0aa3017f8d",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用欄位功能設定章節編號及頁碼",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.470Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "使用欄位功能設定章節編號及頁碼",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.183Z"
+    },
+    "resolved_answer": "使用欄位功能設定章節編號及頁碼",
+    "verification_status": "source_supported"
   },
   {
     "id": "6d921d017f8697cdace5b7b14ccb646bb7bda46400bf8e848c9efe7df1202c80",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.470Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.552Z"
+    },
+    "resolved_answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+    "verification_status": "source_supported"
   },
   {
     "id": "7f62b9160e989563854a1d335de8d0ab5e4486b36ea2f4b1a83deea831f4d688",
@@ -181,13 +310,27 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "透過插入功能新增一個橫式頁面",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:52:50.470Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "使用格式功能中的「段落」設定分頁樣式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.936Z"
+    },
+    "resolved_answer": "使用格式功能中的「段落」設定分頁樣式",
+    "verification_status": "source_supported"
   },
   {
     "id": "62a01e78064d50f5c609ea5b9df7295e8c3adf81c9d2cf0026a2a793e134533a",
@@ -200,12 +343,26 @@
     ],
     "type": "單選",
     "course": "Writer文書應用",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用快捷鍵Ctrl+E進行對齊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:53:20.371Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:54.431Z"
+    },
+    "resolved_answer": "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+    "verification_status": "source_supported"
   }
 ]

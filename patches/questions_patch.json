@@ -130542,5 +130542,280 @@
       "model": null,
       "checked_at": "2026-11-08T05:20:03.141Z"
     }
+  },
+  {
+    "question": "在文書編輯中，樣式可以有效幫助快速進行格式設定。請問「樣式」的主要特點是什麼？",
+    "type": "單選",
+    "options": [
+      "能集合格式設定並命名以重複使用",
+      "只能套用系統預設的樣式",
+      "僅適用於段落的文字大小調整",
+      "不能用於多層級編號設定"
+    ],
+    "course": "Writer文書應用",
+    "answer": "能集合格式設定並命名以重複使用",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "能集合格式設定並命名以重複使用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.099Z"
+    }
+  },
+  {
+    "question": "如何將單一 Word 檔案轉換為 ODF 格式？",
+    "type": "單選",
+    "options": [
+      "右鍵點擊檔案並選擇 \"開啟檔案\"",
+      "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+      "使用 Writer 打開並直接選擇 \"轉存\"",
+      "在資料匣中手動複製檔案格式"
+    ],
+    "course": "Writer文書應用",
+    "answer": "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在 MODA ODF Application Tools 中選擇 \"一鍵轉換 ODF",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.503Z"
+    }
+  },
+  {
+    "question": "如果需要將文件的第 1 頁（封面）移除頁碼，並讓第 2 頁頁碼從 1 開始，應如何操作？",
+    "type": "單選",
+    "options": [
+      "刪除第 1 頁頁碼後，第 2 頁自動變為 1",
+      "透過段落設定調整起始值為 1",
+      "插入頁碼並手動更改每頁的數值",
+      "用頁尾功能設定封面頁隱藏"
+    ],
+    "course": "Writer文書應用",
+    "answer": "透過段落設定調整起始值為 1",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "透過段落設定調整起始值為 1",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:50.981Z"
+    }
+  },
+  {
+    "question": "在表格 A1 儲存格中，如何設定多對角線並顯示多組資訊？",
+    "type": "單選",
+    "options": [
+      "使用繪圖工具新增多條線條",
+      "插入對角線後手動輸入文字",
+      "表格內直接新增分隔符號",
+      "複製單一對角線多次使用"
+    ],
+    "course": "Writer文書應用",
+    "answer": "使用繪圖工具新增多條線條",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "使用繪圖工具新增多條線條",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:51.370Z"
+    }
+  },
+  {
+    "question": "如何為表格加入標題以便生成表格目錄？",
+    "type": "單選",
+    "options": [
+      "在表格上方手動輸入文字",
+      "使用插入功能表中的圖表標示",
+      "在表格下方加註文字說明",
+      "將表格內容設為粗體"
+    ],
+    "course": "Writer文書應用",
+    "answer": "使用插入功能表中的圖表標示",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "使用插入功能表中的圖表標示",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.006Z"
+    }
+  },
+  {
+    "question": "以下關於合併列印的敘述，何者正確？",
+    "type": "單選",
+    "options": [
+      "合併列印不需要主文件",
+      "合併列印只能用於製作信封",
+      "合併列印需要主文件和資料庫",
+      "合併列印無法進行篩選"
+    ],
+    "course": "Writer文書應用",
+    "answer": "合併列印需要主文件和資料庫",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "合併列印需要主文件和資料庫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.395Z"
+    }
+  },
+  {
+    "question": "在製作合約書時，若甲方和乙方的文字不對齊，應該如何進行排版以達到齊頭式對齊？",
+    "type": "單選",
+    "options": [
+      "透過段落設置對齊方式",
+      "選取文字並使用“雙行寫入”",
+      "直接選擇“中央對齊”",
+      "使用格式功能中的“文字到文字”對齊"
+    ],
+    "course": "Writer文書應用",
+    "answer": "選取文字並使用“雙行寫入”",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "選取文字並使用“雙行寫入”",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:52.623Z"
+    }
+  },
+  {
+    "question": "在編輯文件時，如果希望頁碼能包含章節編號，例如 \"1-1、2-1\"，且每個章節的頁碼都從第 1 頁開始，應如何設定？",
+    "type": "單選",
+    "options": [
+      "插入頁碼後直接輸入章節編號",
+      "使用分頁符號並重設頁碼樣式",
+      "在頁尾直接新增文字手動編輯頁碼",
+      "使用欄位功能設定章節編號及頁碼"
+    ],
+    "course": "Writer文書應用",
+    "answer": "使用欄位功能設定章節編號及頁碼",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "使用欄位功能設定章節編號及頁碼",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.183Z"
+    }
+  },
+  {
+    "question": "假設你有兩份A5尺寸的文件，並希望將它們列印在同一張A4紙上，避免浪費紙張並確保排版整齊。下列哪個方法最適合實現這一目標？",
+    "type": "單選",
+    "options": [
+      "設定列印頁數為一頁，將資料縮放為A4尺寸",
+      "直接選擇A5列印格式，無需做其他調整",
+      "只列印一頁資料並設定為橫向列印",
+      "設定列印頁數為兩頁，並將每頁內容設為A5"
+    ],
+    "course": "Writer文書應用",
+    "answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "設定列印頁數為兩頁，並將每頁內容設為A5",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.552Z"
+    }
+  },
+  {
+    "question": "在進行文件版面設定時，如果需要將第 1 頁設為直式版面，第 2 頁維持橫式版面，應該如何操作？",
+    "type": "單選",
+    "options": [
+      "直接將整份文件的版面設為直式",
+      "將游標放置在頁尾，插入橫向分頁符",
+      "使用格式功能中的「段落」設定分頁樣式",
+      "透過插入功能新增一個橫式頁面"
+    ],
+    "course": "Writer文書應用",
+    "answer": "使用格式功能中的「段落」設定分頁樣式",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "使用格式功能中的「段落」設定分頁樣式",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:53.936Z"
+    }
+  },
+  {
+    "question": "如何將合約書中「立約人」三個字置中對齊在甲方和乙方的正中央？",
+    "type": "單選",
+    "options": [
+      "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+      "在字元設定中設為對齊",
+      "使用快捷鍵Ctrl+E進行對齊",
+      "手動拖動文本至中心位置"
+    ],
+    "course": "Writer文書應用",
+    "answer": "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在段落對齊中選擇「文字到文字的對齊」並設為中央",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/04/writeree.html",
+          "title": "「Writer文書應用」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T07:19:54.431Z"
+    }
   }
 ]
