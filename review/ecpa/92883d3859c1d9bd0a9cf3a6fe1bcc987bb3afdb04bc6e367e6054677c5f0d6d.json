@@ -14,7 +14,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-10-29T09:22:00.731Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-15T05:20:04.199Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7c7d707b5ff719755374e72c7be740ea265ff0db05b893cd8485b9014d2e75f2",
@@ -25,13 +29,31 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T09:22:00.734Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0841017695.html",
+          "title": "「《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359557",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T05:20:01.831Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "c9b7b1b1debf0d564b62af0094ba93aba6e65cf59415a65a76d1b516d4dc867b",
@@ -93,13 +115,31 @@
     ],
     "type": "是非",
     "course": "《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T09:22:00.737Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0841017695.html",
+          "title": "「《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347359557",
+          "title": "《兩公約人權故事集Ⅲ》案例分析：親密關係間的暴力行為《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-08T05:20:03.141Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "6283d307aafe31a5aed99621ec84e562b08416cedd0f999df544a3ff966c263f",
