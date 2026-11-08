@@ -130463,5 +130463,30 @@
       "model": null,
       "checked_at": "2026-11-07T15:20:47.637Z"
     }
+  },
+  {
+    "question": "依ICERD之精神，各國應促進何種價值？",
+    "type": "單選",
+    "options": [
+      "單一文化",
+      "族群平等與尊重",
+      "文化排他",
+      "文化隔離"
+    ],
+    "course": "消除一切形式種族歧視國際公約（ICERD）案例研析培訓工作坊",
+    "answer": "族群平等與尊重",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "族群平等與尊重",
+      "sources": [
+        {
+          "url": "https://www.cy.gov.tw/News_Content.aspx?n=742&s=29848",
+          "quote": "尊重各族群，學習與不同文化背景的族群，平等並且和諧的共同生活，是促進社會進步的必經歷程。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-08T01:21:40.346Z"
+    }
   }
 ]
