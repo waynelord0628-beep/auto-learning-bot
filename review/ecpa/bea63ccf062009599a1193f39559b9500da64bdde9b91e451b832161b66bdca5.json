@@ -16,6 +16,10 @@
     "created_at": "2026-10-30T12:33:56.054Z",
     "review_state": "awaiting_evidence",
     "retry_count": 3,
-    "retry_after": "2026-11-05T01:19:44.262Z"
+    "retry_after": "2026-11-05T01:19:44.262Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-16T13:20:39.247Z",
+    "verification_status": "insufficient_sources"
   }
 ]
