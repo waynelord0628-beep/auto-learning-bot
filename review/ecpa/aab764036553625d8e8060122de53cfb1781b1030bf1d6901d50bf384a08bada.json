@@ -438,7 +438,11 @@
     "candidate_answer": "AD-8極早期失智症篩檢量表",
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.346Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-16T04:20:19.217Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7bdf175211589b7d1e68e54de9b3707c8736a7a30c61da2deb8c88ce69ef49b8",
