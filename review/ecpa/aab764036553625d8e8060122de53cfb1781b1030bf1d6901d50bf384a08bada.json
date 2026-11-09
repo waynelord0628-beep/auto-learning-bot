@@ -349,7 +349,11 @@
     "candidate_answer": "員工對於失智症有一定認知，並友善對待失智者",
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:37:19.344Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-16T04:20:01.459Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "6befaf3708c64540ff54a58da6daf89e07891c71f3303bf2ff6fbde350b6667b",
