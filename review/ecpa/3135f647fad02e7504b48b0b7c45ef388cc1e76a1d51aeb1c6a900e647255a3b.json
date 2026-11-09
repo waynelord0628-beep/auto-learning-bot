@@ -439,5 +439,22 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T19:47:00.096Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "569643442c0e83efa804fb87448897355056f2d5f5e49cc3685d60532c0c2b59",
+    "question": "公務人員登記為公職候選人者，自候選人名單公告之日起至投票日止，應依規定請事假或休假。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員如何維持行政中立",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-09T23:24:05.290Z",
+    "review_state": "candidate_ready"
   }
 ]
