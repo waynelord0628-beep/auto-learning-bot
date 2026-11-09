@@ -130817,5 +130817,30 @@
       "model": null,
       "checked_at": "2026-11-08T07:19:54.431Z"
     }
+  },
+  {
+    "question": "請選出最接近中文意思的英文：牛仔文化",
+    "type": "單選",
+    "options": [
+      "Old School/Vintage/Retro",
+      "Native Soil",
+      "Trash Talking",
+      "Cowboy Culture"
+    ],
+    "course": "英語維基＃4",
+    "answer": "Cowboy Culture",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "Cowboy Culture",
+      "sources": [
+        {
+          "url": "https://dae2.mcu.edu.tw/en/content/facilities",
+          "quote": "Cowboy Culture of Western America"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-09T00:21:12.547Z"
+    }
   }
 ]
