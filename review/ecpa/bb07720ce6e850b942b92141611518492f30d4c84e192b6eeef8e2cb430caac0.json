@@ -16,7 +16,11 @@
     "candidate_answer": "標題層級=視覺呈現",
     "source": "ai_unverified",
     "created_at": "2026-11-01T06:13:06.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-16T11:20:38.105Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0886509d37182bc854dc0c0b364bdbb557e571a8fc4cc5573e632d19b94716e7",
