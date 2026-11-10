@@ -131156,5 +131156,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-10T03:20:23.723Z"
     }
+  },
+  {
+    "question": "NotebookLM上傳網站的資料時，只能讀取該網站的文字資料，網站內的其他資料通常無法被讀取。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.cc.ntu.edu.tw/chinese/epaper/home/20250320_007206.html",
+          "quote": "輸入網站網址(不會匯入圖像、嵌入式影片或巢狀網頁)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-10T14:21:40.935Z"
+    }
   }
 ]

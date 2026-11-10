@@ -52,17 +52,30 @@
     ],
     "type": "是非",
     "course": "搞懂NotebookLM與Napkin AI-提升你的知識管理力",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-25T00:57:46.233Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-01T01:21:21.372Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-17T14:21:43.751Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.cc.ntu.edu.tw/chinese/epaper/home/20250320_007206.html",
+          "quote": "輸入網站網址(不會匯入圖像、嵌入式影片或巢狀網頁)"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-10T14:21:40.935Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "8199333ac0186fc9dd0d40030df528bb02b208adb65f499524b96e4224011c80",
