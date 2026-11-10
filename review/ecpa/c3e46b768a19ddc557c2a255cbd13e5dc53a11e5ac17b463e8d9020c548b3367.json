@@ -77,7 +77,11 @@
     "candidate_answer": "Salmonella enterica serovar Paratyphi A, B, C",
     "source": "ai_unverified",
     "created_at": "2026-11-04T19:07:17.444Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-17T02:21:07.190Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0a25e031bdda40b88ab678246a27684ab3b5d4a3baedac3fb6cf9b9d25da0117",
