@@ -176,5 +176,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.173Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "82d6e5eab0920351a30d7c6bcef5ac47c7f061902007a4e2bcbfb759571f3f4c",
+    "question": "根據教材，下列哪一項行為樣態屬於「職場暴力」？",
+    "options": [
+      "受到他人肢體或言語的虐待、恐嚇或毆打。",
+      "以年齡或性傾向決定勞動條件。",
+      "持續性的孤立言行致身心受損。",
+      "以性要求造成敵意性工作環境。"
+    ],
+    "type": "單選",
+    "course": "公務人員安全及衛生防護法規-實務解析篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "受到他人肢體或言語的虐待、恐嚇或毆打。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-10T06:29:40.193Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8b591c0ea3ab960cc5ec6b7ff946803c243b8065c938797560770ed694332ef0",
+    "question": "在不安全動作的歸因中，若公務人員「不聽教導或拒絕使用防護具」，這屬於哪一種類型？",
+    "options": [
+      "不知。",
+      "不理。",
+      "失檢。",
+      "遲鈍。"
+    ],
+    "type": "單選",
+    "course": "公務人員安全及衛生防護法規-實務解析篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不理。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-10T06:29:40.195Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0230a834c20a979683bca8380f00653e70a5be814a3b9479aeeda51183429117",
+    "question": "安全與衛生是主管或專業人員的責任，一般公務人員只需做好交辦工作即可。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員安全及衛生防護法規-實務解析篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-10T06:29:40.195Z",
+    "review_state": "candidate_ready"
   }
 ]
