@@ -35,13 +35,30 @@
     ],
     "type": "單選",
     "course": "疫情報導115年5月份教材",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "WGS 分析顯示 6 株菌株的 cgSNP 差異為 0",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T19:07:17.442Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-17T02:20:42.821Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "WGS 分析顯示 6 株菌株的 cgSNP 差異為 0",
+      "sources": [
+        {
+          "url": "https://www.cdc.gov.tw/EpidemicTheme/Detail/wRe2wQO2JCW83hbs2HNztA?archiveId=ANPSmcVdm-gBYs8rqa4wSA",
+          "quote": "全基因體定序 (whole genome sequencing, WGS) 分析顯示這6案之菌株皆有相同core-genome single-nucleotide polymorphism (cgSNP)圖譜"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-10T02:20:41.145Z"
+    },
+    "resolved_answer": "WGS 分析顯示 6 株菌株的 cgSNP 差異為 0"
   },
   {
     "id": "dbfe217c10195ccc89da4bb296cd263a2d1a9d78773cb1f4e9fb0522fc77e27d",
