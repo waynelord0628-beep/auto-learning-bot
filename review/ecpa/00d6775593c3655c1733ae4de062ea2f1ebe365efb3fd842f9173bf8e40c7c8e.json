@@ -231,5 +231,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:40.195Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "36a164c45e22039aa7d45baf33cbe8426defdea9d54a8c343847ef54bcf56a05",
+    "question": "事故發生的原因中，絕大多數是由於「不安全的環境」與「不安全的動作」所造成。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "公務人員安全及衛生防護法規-實務解析篇",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-10T06:30:19.762Z",
+    "review_state": "candidate_ready"
   }
 ]
