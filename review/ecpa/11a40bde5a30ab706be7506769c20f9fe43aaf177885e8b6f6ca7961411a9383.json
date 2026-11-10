@@ -438,5 +438,24 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-30T14:23:09.034Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "279a65ccedb07461a5ed434cf399375514efc423cc32d1c1df545c867bd00163",
+    "question": "公務員故意洩漏揭弊者身分，最重可處幾年有期徒刑？",
+    "options": [
+      "1年",
+      "3年",
+      "5年",
+      "7年"
+    ],
+    "type": "單選",
+    "course": "公益揭弊者保護法說明",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "5年",
+    "source": "ai_unverified",
+    "created_at": "2026-11-10T10:22:59.989Z",
+    "review_state": "candidate_ready"
   }
 ]
