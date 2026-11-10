@@ -14,7 +14,11 @@
     "candidate_answer": "正確",
     "source": "ai_unverified",
     "created_at": "2026-11-02T17:52:55.611Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-17T00:20:11.866Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "f846e726b6e743de5acb7ad3c7becfa2361717814c0205b0efd9a342585eca1f",
