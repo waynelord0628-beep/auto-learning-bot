@@ -131277,5 +131277,30 @@
       "model": null,
       "checked_at": "2026-11-11T08:20:39.340Z"
     }
+  },
+  {
+    "question": "下列何者錯誤？",
+    "type": "單選",
+    "options": [
+      "執行刺青紋身紋眉服務前詢問消費者過敏史",
+      "被血液污染的器械或針具進行消毒或更換新品，再供下組消費者使用。",
+      "環境可於結束營業再進行消毒或手部清潔，以增加營業效率。",
+      "執行刺青紋身紋眉服務前告知消費者風險及施作後注意事項等資訊，並請消費者簽署同意書。"
+    ],
+    "course": "傳染病防治法與實務介紹-115年",
+    "answer": "環境可於結束營業再進行消毒或手部清潔，以增加營業效率。",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "環境可於結束營業再進行消毒或手部清潔，以增加營業效率。",
+      "sources": [
+        {
+          "url": "https://www.hcshb.gov.tw/News_Content.aspx?n=24&s=106924",
+          "quote": "每次使用工作平台應進行有效清潔與消毒"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-11T09:20:11.948Z"
+    }
   }
 ]
