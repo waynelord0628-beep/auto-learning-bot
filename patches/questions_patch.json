@@ -131302,5 +131302,256 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-11T09:20:11.948Z"
     }
+  },
+  {
+    "question": "視覺障礙者一定是全盲。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:33.859Z"
+    }
+  },
+  {
+    "question": "CRPD是聯合國促進、保障及確保身心障礙者完全及平等地享有所有人權以及基本自由，促進固有尊嚴受到尊重，降低身心障礙者在社會上之不利狀態，以使其得以享有公平機會參與社會之公民、政治、經濟、社會及文化領域。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:33.951Z"
+    }
+  },
+  {
+    "question": "聽覺障礙只有先天的，不會有後天造成的。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:34.644Z"
+    }
+  },
+  {
+    "question": "下列何者不是視覺障礙者的類型?",
+    "type": "單選",
+    "options": [
+      "弱視",
+      "色盲",
+      "白內障",
+      "明眼人"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "明眼人",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "明眼人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:35.652Z"
+    }
+  },
+  {
+    "question": "根據衛福部111年底資料統計，臺灣共有多少人持有身心障礙手冊?",
+    "type": "單選",
+    "options": [
+      "50萬",
+      "70萬",
+      "100萬",
+      "超過120萬"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "超過120萬",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "超過120萬",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:36.521Z"
+    }
+  },
+  {
+    "question": "肢體障礙包含上肢、下肢或軀幹之機能有部份或全部損傷，因此肢體障礙者所需要的服務有很大的差異。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:37.639Z"
+    }
+  },
+  {
+    "question": "CRPD為19世紀第一個人權公約影響全球身心障礙者之權利保障。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:38.685Z"
+    }
+  },
+  {
+    "question": "下列何者不是CRPD的八大原則?",
+    "type": "單選",
+    "options": [
+      "不歧視",
+      "尊重他人",
+      "無障礙",
+      "差別待遇"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "差別待遇",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "差別待遇",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:39.637Z"
+    }
+  },
+  {
+    "question": "與聽覺障礙者溝通，下列方式何者不適合?",
+    "type": "單選",
+    "options": [
+      "說話時面對面",
+      "大吼大叫",
+      "用書寫方式",
+      "手語"
+    ],
+    "course": "認識肢體障礙者-權利、特質與需求",
+    "answer": "大吼大叫",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "大吼大叫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:40.479Z"
+    }
   }
 ]

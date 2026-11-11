@@ -16,7 +16,11 @@
     "candidate_answer": "電子耳",
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:47:00.482Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-18T12:20:42.466Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "8ee36d9f0c16982dc34a32ca095fa55b2db7c4b6f4a34891e1f4862680718750",
@@ -27,13 +31,31 @@
     ],
     "type": "是非",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.098Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:33.859Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "75440f2d8983501f5f64bde63d2b33728dc7f484962a6c43c860d2252df9c349",
@@ -44,13 +66,31 @@
     ],
     "type": "是非",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.101Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:33.951Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a432b0d974e2c85c4e5b9e971ee679dcf7e20c970d44416fe55bd16cc42a87d8",
@@ -61,13 +101,31 @@
     ],
     "type": "是非",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.101Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:34.644Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "6a41d0ec220b2fe356162b8ed7cbc46634bdc77b37c45579eb6e71e73a6eca47",
@@ -80,13 +138,31 @@
     ],
     "type": "單選",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "明眼人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.102Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "明眼人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:35.652Z"
+    },
+    "resolved_answer": "明眼人",
+    "verification_status": "source_supported"
   },
   {
     "id": "c3ea8864d3811f80edca96ba644e601fd0f56d7c5ad43b0f157c00125af63e3e",
@@ -99,13 +175,31 @@
     ],
     "type": "單選",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "超過120萬",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.103Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "超過120萬",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:36.521Z"
+    },
+    "resolved_answer": "超過120萬",
+    "verification_status": "source_supported"
   },
   {
     "id": "5db1ee37ba860ab842fad6c6034766cdb07ac50a7bd9d33065fbf8ecdf625ffd",
@@ -116,13 +210,31 @@
     ],
     "type": "是非",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.103Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:37.639Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "3e2f275d51f5a4c7e2db6a869c117a895db8206cc3725a1193cfc7c118132ca9",
@@ -133,13 +245,31 @@
     ],
     "type": "是非",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.104Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:38.685Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4070527df045d62e858dce5c859e6848e728edf855ce8435063be194bba161bc",
@@ -152,13 +282,31 @@
     ],
     "type": "單選",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "差別待遇",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "差別待遇",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:39.637Z"
+    },
+    "resolved_answer": "差別待遇",
+    "verification_status": "source_supported"
   },
   {
     "id": "e221db4502f274f741b6f0b1064bca9d153e2111ba242c28e4669e531725585d",
@@ -171,12 +319,30 @@
     ],
     "type": "單選",
     "course": "認識肢體障礙者-權利、特質與需求",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "大吼大叫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T06:48:17.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "大吼大叫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_2.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/09/ee_7.html",
+          "title": "「認識肢體障礙者-權利、特質與需求」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T12:20:40.479Z"
+    },
+    "resolved_answer": "大吼大叫",
+    "verification_status": "source_supported"
   }
 ]
