@@ -33,17 +33,30 @@
     ],
     "type": "單選",
     "course": "生成式 AI 基礎入門",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "達特茅斯會議",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-08T04:04:56.476Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-07T11:20:24.479Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-18T02:20:33.269Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "達特茅斯會議",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042450",
+          "quote": "人工智慧科技於1956年，於達特茅斯會議上正式被定義"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-11T02:20:32.422Z"
+    },
+    "resolved_answer": "達特茅斯會議"
   },
   {
     "id": "264257ff3bdaac1e06ef1236a5ec7715a0774c1b0170aa0439f19e4a276e80b2",

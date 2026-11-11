@@ -131204,5 +131204,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-11T01:19:59.653Z"
     }
+  },
+  {
+    "question": "哪一場會議被公認為人工智慧研究領域的起點？",
+    "type": "單選",
+    "options": [
+      "辛辛那提會議",
+      "達特茅斯會議",
+      "華盛頓技術峰會",
+      "牛津前沿科技會議"
+    ],
+    "course": "生成式 AI 基礎入門",
+    "answer": "達特茅斯會議",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "達特茅斯會議",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042450",
+          "quote": "人工智慧科技於1956年，於達特茅斯會議上正式被定義"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-11T02:20:32.422Z"
+    }
   }
 ]
