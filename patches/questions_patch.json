@@ -131229,5 +131229,53 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-11T02:20:32.422Z"
     }
+  },
+  {
+    "question": "根據 兒童及少年福利與權益保障法施行細則，當兒少須進行家外安置時，以下何者為首選？",
+    "type": "單選",
+    "options": [
+      "親屬安置",
+      "登記合格的寄養家庭",
+      "兒童及少年安置及教養機構",
+      "其他安置機構"
+    ],
+    "course": "兒少保護親屬安置-115年",
+    "answer": "親屬安置",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "親屬安置",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/115_26.html",
+          "title": "【解答】兒少保護親屬安置-115年 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T08:20:39.331Z"
+    }
+  },
+  {
+    "question": "尋找親屬照顧者的過程中，從兒少、父母、監護人、收養人、直系血親或實際照顧人著手進行查訪，此步驟類似於滾雪球抽樣。再從前面這些受訪者進一步探尋是否有合適親屬照顧者或重要它人，則是立意抽樣。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "兒少保護親屬安置-115年",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/115_26.html",
+          "title": "【解答】兒少保護親屬安置-115年 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-11T08:20:39.340Z"
+    }
   }
 ]
