@@ -10,17 +10,30 @@
     ],
     "type": "單選",
     "course": "自動化革命：解放工作力！",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "創建圖像",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-11T14:35:34.230Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-07T10:20:06.833Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-18T01:20:01.542Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "創建圖像",
+      "sources": [
+        {
+          "url": "https://elearn.arte.gov.tw/info/10000559",
+          "quote": "課程中除了學習運用生成式AI，透過指令生成AI 圖像及編寫程式，進行互動創作， 學習AI輔助軟體生成創作素材"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-11T01:19:59.653Z"
+    },
+    "resolved_answer": "創建圖像"
   },
   {
     "id": "2276cb8c0d9aa0fe573c3a015c013a19c23c6905a4008dc7c01eb42aa1ff590f",

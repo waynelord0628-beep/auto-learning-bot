@@ -131179,5 +131179,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-10T14:21:40.935Z"
     }
+  },
+  {
+    "question": "什麼是生成式AI (Artificial Intelligence) 的主要應用之一？",
+    "type": "單選",
+    "options": [
+      "自動排程",
+      "資料備份",
+      "創建圖像",
+      "網絡監控"
+    ],
+    "course": "自動化革命：解放工作力！",
+    "answer": "創建圖像",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "創建圖像",
+      "sources": [
+        {
+          "url": "https://elearn.arte.gov.tw/info/10000559",
+          "quote": "課程中除了學習運用生成式AI，透過指令生成AI 圖像及編寫程式，進行互動創作， 學習AI輔助軟體生成創作素材"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-11T01:19:59.653Z"
+    }
   }
 ]
