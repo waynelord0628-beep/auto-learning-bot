@@ -1,0 +1,178 @@
+[
+  {
+    "id": "41a96b45beea2152ada5a7435f91a433f93b0c27b7fd637e1a3af4cb3196091e",
+    "question": "常用的遙測波段(藍光、綠光、紅光、紅外光、微波等)波長最長為微波。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.696Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cc7a317f71e128cdcbf90d0f758fa98b94a3bb7e01e9a3d873dcb3e197bc750d",
+    "question": "關於綠葉指標(GLI)，公式何者正確？",
+    "options": [
+      "GLI=(2G-R-B)/(2G+R+B)",
+      "GLI=(2G+R+B)/(2G-R-B)",
+      "GLI= (G+R)/(G-R)",
+      "GLI= (G-R)/(G+R)。"
+    ],
+    "type": "單選",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "GLI=(2G-R-B)/(2G+R+B)",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.697Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4517befb0b2f731c76b80cfc8af4e21f03fd86c0c61baaafc0e689c788c4dc96",
+    "question": "當GLI計算值大於0的區域則可視為有綠色植物覆蓋。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.697Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "92e400dc3fc8ce3d0120e646a35b4a751d1690902d1402c33b8ba997c5f00671",
+    "question": "關於遙測衛星影像種類，下列敘述何者正確？",
+    "options": [
+      "大部分屬於被動式遙測影像",
+      "大部分屬於主動式遙測影像",
+      "被動式與主動式遙測影像大致一樣多",
+      "都不屬於被動式或主動式遙測影像。"
+    ],
+    "type": "單選",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "大部分屬於被動式遙測影像",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.697Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3229c42ca90b0a98f2bf9f8583eb947b0e05a1348f5f6fcd0392dc20fed13172",
+    "question": "針葉林在近紅外光反射率比闊葉林更高。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.698Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "12993e9bfa07c66da75b9917062930cf9bd7fbcc7f4e250032f74b2d30eb385a",
+    "question": "垂直照片即正射照片。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.698Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "79a129d9fb3bb507ab02a419d34aad04ce5783eb6867a829b4015fcda02cdbf4",
+    "question": "水體在近紅外光反射率比可見光更高。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.698Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "500e101cf5e98df9249850d840799678a27e6174b24380a184e5f05091c57f56",
+    "question": "對遙測影像植被分析來說，哪個光譜最為重要？",
+    "options": [
+      "綠光",
+      "紅光",
+      "近紅外光",
+      "微波。"
+    ],
+    "type": "單選",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "近紅外光",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.699Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "40301645358258de62c1f1cc07a799f6e816be3b119ef796a0e89f6a1e017f76",
+    "question": "關於常態化差異綠紅差值指標(NGRDI)，當值越接近-1，通常代表綠色植物生長越茂盛。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.699Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "949f99f97a76d22286c859803367f23d1e02e1bd7948d5551fb9dee615f7ef92",
+    "question": "遙測影像通常會製作成假色影像，是因為要呈現非可見光反射率成果。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "遙測影像分析應用實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T04:19:09.699Z",
+    "review_state": "candidate_ready"
+  }
+]
