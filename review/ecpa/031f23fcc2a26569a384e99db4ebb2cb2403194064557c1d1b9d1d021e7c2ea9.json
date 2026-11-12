@@ -387,13 +387,34 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T03:58:26.939Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-19T06:20:15.516Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/3-ee.html",
+          "title": "「動物保護面面觀3-「喵星人」到底在想甚麼？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15318036246",
+          "title": "動物保護面面觀3-「喵星人」到底在想甚麼？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T06:20:13.777Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "462473607988d3bb7fbbb67ec4a03c33912b7aecaf7f1e18067e414db876d478",
@@ -442,13 +463,31 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T03:58:26.941Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/3-ee.html",
+          "title": "「動物保護面面觀3-「喵星人」到底在想甚麼？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15318036246",
+          "title": "動物保護面面觀3-「喵星人」到底在想甚麼？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T06:20:14.157Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "07beeda16d7652a872a573fa894265001838cfa08b36c932b5ec055bad8e0752",
@@ -497,12 +536,30 @@
     ],
     "type": "是非",
     "course": "動物保護面面觀3-「喵星人」到底在想甚麼？",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T03:59:40.061Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/3-ee.html",
+          "title": "「動物保護面面觀3-「喵星人」到底在想甚麼？」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15318036246",
+          "title": "動物保護面面觀3-「喵星人」到底在想甚麼？《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T06:20:14.553Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
