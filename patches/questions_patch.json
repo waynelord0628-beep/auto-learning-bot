@@ -131968,5 +131968,28 @@
       "model": null,
       "checked_at": "2026-11-12T06:20:14.553Z"
     }
+  },
+  {
+    "question": "退休理財規劃中，「時間」是最大的朋友，只要投資時間夠長，複利效果就會越明顯。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "自主投資理財及平台操作教育訓練",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.fund.gov.tw/News_Content.aspx?n=3268&s=15185",
+          "quote": "而隨著年期越長，複利效應將會愈明顯。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-12T08:20:21.118Z"
+    }
   }
 ]
