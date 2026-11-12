@@ -180,5 +180,94 @@
     "source": "ai_unverified",
     "created_at": "2026-11-12T12:09:44.162Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d2e3ef6f63fbde020547aada530531481909a8b18a82695b394ba96b3207014b",
+    "question": "頰囊可以讓臺灣獼猴暫時存放食物、邊走邊吃。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:18.125Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8dee616fd3a3352db2320b9a24a2bcea13fdde362d82849f6e16a41647fc33b3",
+    "question": "發現有人飼養臺灣獼猴，最適當的做法為何？",
+    "options": [
+      "跟風飼養",
+      "拍照打卡",
+      "撥打1999通報相關單位",
+      "跟自己無關，不理會"
+    ],
+    "type": "單選",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "撥打1999通報相關單位",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:18.127Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4f77b30a70fb487c5d3a5bb92d54bbe9f8d450a62d74ecfef0a3162949032d5e",
+    "question": "下列何者屬於課程中強調的，與獼猴相處的「三不原則」？",
+    "options": [
+      "不干擾",
+      "不餵食",
+      "不接觸",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:18.128Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f7bcd25d128c102f60a96178ffe10caa57c6b34aa75c2b20c829fa5ad906ef2",
+    "question": "餵食臺灣獼猴能幫助牠們更容易在野外生存。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:18.129Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3cf030ca35c641a9594f6ca702dc7ada7004e6a3d34799efa554cc92f8467fed",
+    "question": "不論雄猴、雌猴，所有的臺灣獼猴都有紅屁股。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:18.130Z",
+    "review_state": "candidate_ready"
   }
 ]
