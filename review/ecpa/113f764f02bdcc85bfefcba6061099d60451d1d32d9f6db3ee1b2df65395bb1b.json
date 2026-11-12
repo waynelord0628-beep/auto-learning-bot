@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "長期照顧相關人員-愛滋防治知能及防護措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:53:03.216Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-19T14:20:13.216Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_652.html",
+          "title": "「長期照顧相關人員-愛滋防治知能及防護措施」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T14:20:10.638Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "0e27b83b3aea95b4d1c1ce4ddc6c73c61da8a6bdf17e22a017fa684aca010706",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "長期照顧相關人員-愛滋防治知能及防護措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:53:03.219Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_652.html",
+          "title": "「長期照顧相關人員-愛滋防治知能及防護措施」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T14:20:10.954Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "309b9f50ea583927ec7fa3b42708d8ee1cce9a3dd6b0c591129b719de5606fc7",
@@ -42,13 +73,27 @@
     ],
     "type": "是非",
     "course": "長期照顧相關人員-愛滋防治知能及防護措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:53:03.220Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_652.html",
+          "title": "「長期照顧相關人員-愛滋防治知能及防護措施」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T14:20:11.257Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "e811344ec686ea9f100c5339fed4a5b44a24d138ebe52e33db28d64f26265ee3",
@@ -59,13 +104,27 @@
     ],
     "type": "是非",
     "course": "長期照顧相關人員-愛滋防治知能及防護措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:53:03.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_652.html",
+          "title": "「長期照顧相關人員-愛滋防治知能及防護措施」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T14:20:11.683Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "40cb6916cba5d6a41cf0f452384f4bc2faa6bf903dec669b16d66599f1481e86",
@@ -76,12 +135,26 @@
     ],
     "type": "是非",
     "course": "長期照顧相關人員-愛滋防治知能及防護措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T02:53:03.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_652.html",
+          "title": "「長期照顧相關人員-愛滋防治知能及防護措施」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T14:20:12.032Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
