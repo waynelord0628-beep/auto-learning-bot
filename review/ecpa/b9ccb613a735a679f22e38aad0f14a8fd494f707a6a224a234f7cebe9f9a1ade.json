@@ -172,5 +172,115 @@
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.333Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "70135e5f9c753648dfd87338a4db30770acd2e0b8da634150137c0f028b858e6",
+    "question": "我國通過心臟停止器官捐贈（DCD）判定的捐贈者，可以捐贈臟器心臟、肝臟及腎臟。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.618Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "76243c8a3018ee36ddb6a6bc44639cd5fab22199bf035d2c2be12ac7b6079937",
+    "question": "有關器官捐贈及移植相關政策，何者為正確？",
+    "options": [
+      "器官捐贈者不但幫助其他家庭，其配偶或三親等內血親如是等候器官者，配對移植時將有優先權",
+      "登錄器捐個案必填項目，上傳血型與急八項報告，且須二位移植小組成員完成書面及登錄系統檢核，才能產生分配名單",
+      "屍體器官指定捐贈移植手術之規定，是捐贈者及等候者是五親等內血親關係才行",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.621Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "18e84d86cd7a95aa855113b82e755d6f11cab308140a14c66960cb6e99ea22c3",
+    "question": "有關死後器官捐贈者基準，何者為不正確？",
+    "options": [
+      "庫賈氏病是可以捐贈器官的",
+      "人類免疫缺乏病毒之患者，如有定期接受治療且符合捐贈條件，還是可以捐贈器官",
+      "患有顱內腫瘤也是可以器官捐贈",
+      "C型肝炎帶原者（Anti-HCV陽性）是不可以捐贈組織的"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "患有顱內腫瘤也是可以器官捐贈",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.622Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f14c1c5df0aa2381c6c78ab14005261f7d394cba50b682c7b4847ee56f9391cc",
+    "question": "有關臺灣器官捐贈的歷史以下何者為是？",
+    "options": [
+      "第一例腦死器官捐贈在民國73年",
+      "臺灣開始有腦死器官捐贈法律始於民國76年",
+      "人體器官移植條例通過於民國76年",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.622Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6ee355b85e63b580afeeb1bf2175ba455e910895b89fade5edaf3d8e83a612d6",
+    "question": "請問器官捐贈有幾歲以上限制，就不能捐贈器官？",
+    "options": [
+      "60歲",
+      "70歲",
+      "80歲",
+      "沒有年齡限制"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "沒有年齡限制",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.623Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4562aef69a8a92e82e5d6837b428896ad34f37ba6a12b2e906229a176fedff00",
+    "question": "只要讀取到病人健保IC卡內有器官捐贈意願註記，醫院就可以執行器官摘取手術。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:01.624Z",
+    "review_state": "candidate_ready"
   }
 ]
