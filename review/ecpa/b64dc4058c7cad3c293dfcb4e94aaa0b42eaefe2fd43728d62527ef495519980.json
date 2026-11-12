@@ -269,5 +269,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-12T12:10:18.130Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "b59beff295a05209dda274efc091161d143483263e788ce8b32119230f613bde",
+    "question": "獼猴露牙看起來像在微笑的表情，可能代表什麼意思？",
+    "options": [
+      "表示友好",
+      "喜歡你",
+      "討食物",
+      "緊張害怕"
+    ],
+    "type": "單選",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "表示友好",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T12:10:51.319Z",
+    "review_state": "candidate_ready"
   }
 ]
