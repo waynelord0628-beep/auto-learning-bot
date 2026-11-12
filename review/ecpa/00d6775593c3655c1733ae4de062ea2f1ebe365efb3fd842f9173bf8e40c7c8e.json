@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公文公告並周知同仁。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.166Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-19T04:21:10.484Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "每年定期檢討與修訂。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:55.871Z"
+    },
+    "resolved_answer": "每年定期檢討與修訂。"
   },
   {
     "id": "c4b5511e0977bed1ba4875454a47003dfb9fb2a244dee8562669efd9aff1e6d4",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公務人員保障暨培訓委員會。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.169Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "公務人員保障暨培訓委員會。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:56.229Z"
+    },
+    "resolved_answer": "公務人員保障暨培訓委員會。",
+    "verification_status": "source_supported"
   },
   {
     "id": "a3643279bfafd9098290290c800bb6002696f97e32fc9d3082901fbe33c4fb6a",
@@ -46,13 +77,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.169Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:56.898Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "79ae359c708bb2a91246cd5bd0d4b202c75dc3ddbb0fc1e090b45aeff7b347ca",
@@ -63,13 +108,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:57.895Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1eac01ed604e62a58d482a16dd5a91b65fa4e35728189b8e3f39f202f8053bcd",
@@ -80,13 +139,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.170Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:58.892Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "ac9544acf75c26968499b65b79ab173a0feca410bc5a854d1ebb3c9c7e1666e9",
@@ -99,13 +172,27 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "48 小時內。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.171Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "72 小時內。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:20:59.984Z"
+    },
+    "resolved_answer": "72 小時內。",
+    "verification_status": "source_supported"
   },
   {
     "id": "d400697c207e0ca0174da0af03306632ce6965517d20d89aaa895c2836e993ff",
@@ -116,13 +203,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.171Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:01.486Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "3c47e833a8a81af99b6001873fa7e2401bdb6a1afab214a2564f19b9730cacf3",
@@ -133,13 +234,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.172Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:02.492Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "e62a008e2f00ff350bf0f61fe7df92d0008aa4375cfd8a55a807c61f132bec9f",
@@ -152,13 +267,27 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "一般教育訓練：各機關現職公務人員。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.172Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在職教育訓練：各機關現職公務人員。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:03.780Z"
+    },
+    "resolved_answer": "在職教育訓練：各機關現職公務人員。",
+    "verification_status": "source_supported"
   },
   {
     "id": "bcaff640bf6ee03662bb092971c006271782b91e9b98131e54fbd4a77e5897de",
@@ -169,13 +298,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:08.173Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:04.608Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "82d6e5eab0920351a30d7c6bcef5ac47c7f061902007a4e2bcbfb759571f3f4c",
@@ -188,13 +331,27 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "受到他人肢體或言語的虐待、恐嚇或毆打。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:40.193Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "受到他人肢體或言語的虐待、恐嚇或毆打。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:05.582Z"
+    },
+    "resolved_answer": "受到他人肢體或言語的虐待、恐嚇或毆打。",
+    "verification_status": "source_supported"
   },
   {
     "id": "8b591c0ea3ab960cc5ec6b7ff946803c243b8065c938797560770ed694332ef0",
@@ -207,13 +364,27 @@
     ],
     "type": "單選",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不理。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:40.195Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "不理。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:06.499Z"
+    },
+    "resolved_answer": "不理。",
+    "verification_status": "source_supported"
   },
   {
     "id": "0230a834c20a979683bca8380f00653e70a5be814a3b9479aeeda51183429117",
@@ -224,13 +395,27 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:29:40.195Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:07.583Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "36a164c45e22039aa7d45baf33cbe8426defdea9d54a8c343847ef54bcf56a05",
@@ -241,12 +426,26 @@
     ],
     "type": "是非",
     "course": "公務人員安全及衛生防護法規-實務解析篇",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T06:30:19.762Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_24.html",
+          "title": "【解答】公務人員安全及衛生防護法規-實務解析篇 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T04:21:08.481Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
