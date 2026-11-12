@@ -24,9 +24,9 @@
     "review_state": "awaiting_evidence",
     "retry_count": 3,
     "retry_after": "2026-10-21T22:19:45.454Z",
-    "verify_attempts": 2,
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-09T05:20:14.310Z",
+    "verify_after": "2026-11-19T12:20:08.236Z",
     "verification_status": "insufficient_sources"
   },
   {
@@ -40,13 +40,31 @@
     ],
     "type": "單選",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4.同工不同酬是一種間接歧視。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:12.886Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "4.同工不同酬是一種間接歧視。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:04.334Z"
+    },
+    "resolved_answer": "4.同工不同酬是一種間接歧視。",
+    "verification_status": "source_supported"
   },
   {
     "id": "d3d72aa2e06b80f4fa2c691187e8a10b261d2af0f16a8f3b5a97b344c3d275dd",
@@ -78,13 +96,31 @@
     ],
     "type": "單選",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4.外展支持方案是指開放女性從事外交工作。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:12.891Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "4.外展支持方案是指開放女性從事外交工作。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:04.740Z"
+    },
+    "resolved_answer": "4.外展支持方案是指開放女性從事外交工作。",
+    "verification_status": "source_supported"
   },
   {
     "id": "ff7944dac4b59b5cdaec4b32ab1721bdff80bfe664f446b18aa46b429d61e436",
@@ -97,15 +133,33 @@
     ],
     "type": "單選",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "reported_question",
     "created_at": "2026-11-04T01:01:12.892Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-10T12:20:07.169Z"
+    "retry_after": "2026-11-10T12:20:07.169Z",
+    "source_review": {
+      "answer": "1.兩者的目標同為性別平等，並促進婦女人權的實現。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:05.294Z"
+    },
+    "resolved_answer": "1.兩者的目標同為性別平等，並促進婦女人權的實現。",
+    "verification_status": "source_supported"
   },
   {
     "id": "becbba1507c894c44115a0fef60b75b3c47f0c581292486f5e9cb2a7d2941a21",
@@ -116,13 +170,31 @@
     ],
     "type": "是非",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:12.895Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:05.824Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "51dfc5e6ee1a145a93bc8fcb2c4c97178fa15ef991243ae41353f36011906820",
@@ -133,13 +205,31 @@
     ],
     "type": "是非",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:12.898Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:06.322Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "d46e37d0594b50fc965895945e22785fcc231b5c6e64aea47a8aac96d2b54bb0",
@@ -190,12 +280,30 @@
     ],
     "type": "單選",
     "course": "希望與導向-CEDAW介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3.9大核心人權公約僅有「消除對婦女一切形式歧視公約」有獨立的委員會監督條約之履行。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:12.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "3.9大核心人權公約僅有「消除對婦女一切形式歧視公約」有獨立的委員會監督條約之履行。",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15181878209",
+          "title": "希望與導向-CEDAW介紹《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2025/03/cedawee_58.html",
+          "title": "「希望與導向-CEDAW介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T12:20:06.918Z"
+    },
+    "resolved_answer": "3.9大核心人權公約僅有「消除對婦女一切形式歧視公約」有獨立的委員會監督條約之履行。",
+    "verification_status": "source_supported"
   }
 ]
