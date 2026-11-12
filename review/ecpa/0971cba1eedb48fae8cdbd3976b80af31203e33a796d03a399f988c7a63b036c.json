@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "排灣族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.217Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-19T10:19:53.329Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "賽夏族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:47.795Z"
+    },
+    "resolved_answer": "賽夏族"
   },
   {
     "id": "c67a17e7e6b88e643649b97553ff4b8d9e7dacf763644ca26029a27f93a2f51d",
@@ -27,13 +44,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.218Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.081Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1418290b6bffedc8a92030ee86f88516043ed2aebdd1dfd48a4fa082c21ef314",
@@ -46,13 +77,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "加拿大",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.218Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "紐西蘭",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.336Z"
+    },
+    "resolved_answer": "紐西蘭",
+    "verification_status": "source_supported"
   },
   {
     "id": "ebf3493b27f9e2fa7902d5d016330325af3c59dcea977a2f81ccdc5fcfa9aed5",
@@ -65,13 +110,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "8月1日",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.218Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "8月1日",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.649Z"
+    },
+    "resolved_answer": "8月1日",
+    "verification_status": "source_supported"
   },
   {
     "id": "21e81d61dbe7b34c6b7f0a74cf3e42e023761f0218f50986f8a1a537a4045580",
@@ -84,13 +143,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "牡丹社事件",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.219Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "加禮宛事件",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.940Z"
+    },
+    "resolved_answer": "加禮宛事件",
+    "verification_status": "source_supported"
   },
   {
     "id": "9cbbbc960cb6f5adee22a0a1e9aa81d9707e12a539a517cd905cb1d8799387c6",
@@ -103,13 +176,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "山海文化雜誌社",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.219Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "山海文化雜誌社",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.199Z"
+    },
+    "resolved_answer": "山海文化雜誌社",
+    "verification_status": "source_supported"
   },
   {
     "id": "7e020244b08c35d73ef4bca13b66d4fdd9e676a3367768172eacb4d25ee669f3",
@@ -120,13 +207,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.219Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.473Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "726fc462bf0615ab88f6dcd7e9b1b0a2b1e6788dc4eee05b836aef1ec944caf9",
@@ -137,13 +238,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.220Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.757Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "a21e5ee75b96d5988da90e376ad9700d45a1b8961994f22c7aabe9c0199d56bf",
@@ -154,13 +269,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.220Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.078Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "a89b75475c5764a8969ec0efe197fd34b6676d723e26b4282e22d743cbe14068",
@@ -173,13 +302,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "全體原住民族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:14:39.221Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "全體國民",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.095Z"
+    },
+    "resolved_answer": "全體國民",
+    "verification_status": "source_supported"
   },
   {
     "id": "39f99687f8626a7f9a30d3592afd0f9c1e4fedc9c92abad2c74fd2fa3ff610b5",
@@ -190,13 +333,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:17.927Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.504Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "62242f5613f46ab8fd3e05577a6476078ec964449e0628eef3150a8a0ab31809",
@@ -209,13 +366,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "蘭嶼達悟族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:17.928Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "蘭嶼達悟族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.809Z"
+    },
+    "resolved_answer": "蘭嶼達悟族",
+    "verification_status": "source_supported"
   },
   {
     "id": "1f5321147e2fbb7da93bb330018144b6e1c4260bbb3ce45e5a8c1186eb1fc015",
@@ -226,13 +397,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:17.929Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.103Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "93e2e2fbd71df21881b2262f6ee1cff6e17859ab3c1534965f6f38535f1fc225",
@@ -243,13 +428,27 @@
     ],
     "type": "是非",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:17.930Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.384Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "338f7ac8c45c120eac6967e4b4197270f169f2756d1be4b22d69500912b7cb92",
@@ -262,13 +461,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "阿美族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:46.948Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "泰雅族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.637Z"
+    },
+    "resolved_answer": "泰雅族",
+    "verification_status": "source_supported"
   },
   {
     "id": "6616e891c3f0fccb07ebc1d197c42c7ed7c0ff8f0804bc5c4a95c892e31edd1a",
@@ -281,13 +494,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "雅美（達悟）族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:46.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "雅美（達悟）族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.871Z"
+    },
+    "resolved_answer": "雅美（達悟）族",
+    "verification_status": "source_supported"
   },
   {
     "id": "d37516d949170518df89daba7712b39cafd754f8d865626f2e5f70b8aab8a1e1",
@@ -300,13 +527,27 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "南投縣仁愛鄉的發祥村瑞岩",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:46.961Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "南投縣仁愛鄉的發祥村瑞岩",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:52.157Z"
+    },
+    "resolved_answer": "南投縣仁愛鄉的發祥村瑞岩",
+    "verification_status": "source_supported"
   },
   {
     "id": "b0019219f8bffc0fb1bcf50d9990d938279280a0044dc877da062374a40105ce",
@@ -319,12 +560,26 @@
     ],
     "type": "單選",
     "course": "臺灣原住民族文化介紹、差異與互動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "西拉雅族",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T13:15:46.965Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "西拉雅族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:52.427Z"
+    },
+    "resolved_answer": "西拉雅族",
+    "verification_status": "source_supported"
   }
 ]

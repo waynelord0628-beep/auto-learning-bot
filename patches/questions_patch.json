@@ -131991,5 +131991,441 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-12T08:20:21.118Z"
     }
+  },
+  {
+    "question": "請問臺灣的那一民族的漢族姓氏很特殊？有如日、風、根、豆、芎等家族姓氏。",
+    "type": "單選",
+    "options": [
+      "卑南族",
+      "賽夏族",
+      "排灣族",
+      "太魯閣族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "賽夏族",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "賽夏族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:47.795Z"
+    }
+  },
+  {
+    "question": "2019年原住民族教育法修正後，各級教育主管機關推動教育政策，應促進全體國民認識與尊重原住民族。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.081Z"
+    }
+  },
+  {
+    "question": "臺灣的沉浸式族語教學是引進那一個國家的族語復振模式？",
+    "type": "單選",
+    "options": [
+      "美國",
+      "加拿大",
+      "紐西蘭",
+      "澳洲"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "紐西蘭",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "紐西蘭",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.336Z"
+    }
+  },
+  {
+    "question": "臺灣原住民族日的由來是行政院於2005年6月15日召開第2944次院會時，通過「紀念日及節日實施條例」草案，為紀念1994年憲法增修條文將「山胞」正名成為「原住民」。明定每年幾月幾日為「原住民族日」？",
+    "type": "單選",
+    "options": [
+      "1月1日",
+      "8月1日",
+      "9月9日",
+      "12月10日"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "8月1日",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "8月1日",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.649Z"
+    }
+  },
+  {
+    "question": "撒奇萊雅族，是花蓮奇萊平原的第一民族，是因為那一個歷史事件，被清兵追殺而逃入阿美族部落，隱姓埋名隱藏民族身分，直至民國96年才重新被認定為原住民第13族？",
+    "type": "單選",
+    "options": [
+      "加禮宛事件",
+      "牡丹社事件",
+      "大港口事件",
+      "七腳川事件"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "加禮宛事件",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "加禮宛事件",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:48.940Z"
+    }
+  },
+  {
+    "question": "臺灣那一個原住民族組織協助辦了很多原住民族文學獎和協助推動原住民族文學翻譯成日本語等外國語言？",
+    "type": "單選",
+    "options": [
+      "山海文化雜誌社",
+      "原住民族政策會",
+      "臺灣基督教長老教會",
+      "天主教耕莘文教院"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "山海文化雜誌社",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "山海文化雜誌社",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.199Z"
+    }
+  },
+  {
+    "question": "布農族善用野菜知識，有豐富的野菜食用文化。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.473Z"
+    }
+  },
+  {
+    "question": "原住民族的起源傳說中，每個族都有矮黑人的起源傳說。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:49.757Z"
+    }
+  },
+  {
+    "question": "原住民族語言發展法是在1993年通過的，保護原住民族語言文化不遺餘力。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.078Z"
+    }
+  },
+  {
+    "question": "2019年原住民族教育法修正過後，原住民族教育之對象？",
+    "type": "單選",
+    "options": [
+      "全體原住民族",
+      "全體國民",
+      "居住在臺灣的外國人",
+      "南島民族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "全體國民",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "全體國民",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.095Z"
+    }
+  },
+  {
+    "question": "政大民族學系師生協助做日月潭邵族的原住民族民族認定學術調查報告。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.504Z"
+    }
+  },
+  {
+    "question": "以下那一個不是政大民族學系師生協助做的原住民族民族認定學術調查工作？",
+    "type": "單選",
+    "options": [
+      "蘭嶼達悟族",
+      "花蓮噶瑪蘭族",
+      "日月潭邵族",
+      "花蓮撒奇萊雅族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "蘭嶼達悟族",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "蘭嶼達悟族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:50.809Z"
+    }
+  },
+  {
+    "question": "布農族的八部合音一共有八個聲部。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.103Z"
+    }
+  },
+  {
+    "question": "臺灣原住民族人口最少的民族是蘭嶼的達悟族。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.384Z"
+    }
+  },
+  {
+    "question": "臺灣的原住民族各族中，根據語言學和考古學者的研究推論，臺灣最早的原住民族是哪一個族？",
+    "type": "單選",
+    "options": [
+      "達悟族",
+      "賽夏族",
+      "阿美族",
+      "泰雅族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "泰雅族",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "泰雅族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.637Z"
+    }
+  },
+  {
+    "question": "原住民族各族有不同的名制與命名文化，請問哪一個民族的名制是親從子名制，一生會因為社會地位改變名字。例如有名的作家年輕的時候名字是施努來，結婚生長子後改名為夏曼藍波安，等到生了長孫後會再改一次名字。",
+    "type": "單選",
+    "options": [
+      "雅美（達悟）族",
+      "鄒族",
+      "邵族",
+      "魯凱族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "雅美（達悟）族",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "雅美（達悟）族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:51.871Z"
+    }
+  },
+  {
+    "question": "在泰雅族的起源傳說中，祖先是從Pins2uk1n誕生，該地推測是在今何處？",
+    "type": "單選",
+    "options": [
+      "南投縣仁愛鄉的發祥村瑞岩",
+      "新竹的大霸尖山",
+      "花蓮縣的白石山",
+      "宜蘭縣的太平"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "南投縣仁愛鄉的發祥村瑞岩",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "南投縣仁愛鄉的發祥村瑞岩",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:52.157Z"
+    }
+  },
+  {
+    "question": "新港文書是荷蘭人統治臺灣時期，平埔族原住民留下用羅馬字書寫的文字記錄。請問該文書跟那一民族有關？",
+    "type": "單選",
+    "options": [
+      "噶瑪蘭族",
+      "凱達格蘭族",
+      "西拉雅族",
+      "道卡斯族"
+    ],
+    "course": "臺灣原住民族文化介紹、差異與互動",
+    "answer": "西拉雅族",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "西拉雅族",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_40.html",
+          "title": "「臺灣原住民族文化介紹、差異與互動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-12T10:19:52.427Z"
+    }
   }
 ]
