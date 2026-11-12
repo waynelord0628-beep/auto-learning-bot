@@ -282,5 +282,111 @@
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.624Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1288d1bc9ebc375b04f7f4ac179b67a52ccb4c2f64592ef043aed04c9e154094",
+    "question": "請問下列哪種器官，國內還不能執行器官捐贈？",
+    "options": [
+      "胰臟",
+      "小腸",
+      "肺臟",
+      "子宮"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "子宮",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.899Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f8af4f4b7dc903ec89f385d1af12f8fb68be03572d8492b5ab36db5d1d60f51d",
+    "question": "有關大愛（屍體）器官捐贈各國略有不同，以下何者為非？",
+    "options": [
+      "民眾可自由選擇同意器官捐贈與否，稱為Opt-in law，如我國就是",
+      "除非國民於生前簽立拒絕捐贈書，否則依法均可為器官移植的來源，稱為Opt-out law，如西班牙",
+      "美國有所謂Required request 的法律，亦即病人在臨終時，醫院的醫護人員依法必須向家屬提出器官捐贈之建議",
+      "因為上述各國法律異同，使美國成為世界器官捐贈率最高的國家"
+    ],
+    "type": "單選",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "因為上述各國法律異同，使美國成為世界器官捐贈率最高的國家",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.900Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "524744173f53bb4f9f925ea83089f4ae85b09e43d971b6f1d06ab4f06d48e968",
+    "question": "親屬捐贈違反生命倫理學四原則之一不傷害原則（do no harm），故醫師應隨時考量必須於非不得已狀況方可為之。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.901Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b6bfc207807e39521439bcd39e9e58a911d57224c998fd28d62b9c5d563a0ac1",
+    "question": "透過器官捐贈教育宣導，是可以解除民眾對於器官捐贈的疑慮。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.902Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c931f4127d64d4e8a44d727a39db5cbaffb55e835a74e8b991227fc1bb34dcc0",
+    "question": "器官捐贈中的臟器，只有通過腦死判定或心臟停止器官捐贈，才有辦法捐贈。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.903Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bfbdb3343acae4b26036a487854fd35e12625efd69814d9dc559d2aaa05c2f07",
+    "question": "西班牙國家，規定除非國民於生前簽立拒絕捐贈書，否則依法均可為器官移植的來源，稱為Opt-out law。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "器官捐贈移植介紹",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-12T08:47:32.904Z",
+    "review_state": "candidate_ready"
   }
 ]
