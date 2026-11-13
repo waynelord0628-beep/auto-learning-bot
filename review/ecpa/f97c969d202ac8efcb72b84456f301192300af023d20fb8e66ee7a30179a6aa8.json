@@ -180,5 +180,100 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.574Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2406c739508597e036daf5f3a7c5eb8b03408e07eb64736386ce36da3b9e8987",
+    "question": "生物安全櫃(BSC)的分級，下列何者不屬之？",
+    "options": [
+      "第I級",
+      "第II級",
+      "第III級",
+      "第IV級"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第IV級",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:23.294Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b5fc50dce6a2db94e188d0f975d6e234a66011f7b72b73a06078c87dddf9d287",
+    "question": "高防護實驗室生物安全櫃下吹氣流HEPA過濾器完整性測試，如採掃描測試上下游濃度比值應小於？",
+    "options": [
+      "0.1%",
+      "0.05%",
+      "0.01%",
+      "0.005%"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "0.05%",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:23.296Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8b15e367176029c6e22075754f4bc3935b7a29885b64f5121f8cbf894746e330",
+    "question": "進行第II級(含)以上生物安全櫃檢測，最好由具有下列何種資格者進行？",
+    "options": [
+      "經NSF49 訓練合格者",
+      "工業衛生技師",
+      "冷凍空調技師",
+      "生物安全專業人員訓練合格者"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "經NSF49 訓練合格者",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:23.298Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4bd0d0bcf9e929745d77ad7526701d241cf042e4ab0b39758bc02ec4132fcb6a",
+    "question": "生物安全櫃之年度測施不需要執行以下哪個項目？",
+    "options": [
+      "HEPA洩漏",
+      "壓力遞減測試",
+      "下吹氣流",
+      "面速度"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "下吹氣流",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:23.300Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ec96ed61d342c8cd9b2310e30e50e2d089c2915b62ec127702a3e49f7f482e43",
+    "question": "第II級B2型生物安全櫃採取硬管密接，如排風機故障時可能會產生下列何種現象，造成汙染？",
+    "options": [
+      "暴風",
+      "回噴",
+      "洩漏",
+      "超負"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "回噴",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:23.305Z",
+    "review_state": "candidate_ready"
   }
 ]
