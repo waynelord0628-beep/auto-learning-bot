@@ -152,5 +152,141 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.459Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bef41dc61a276d10ea12b7dff826de0ea7199dfae37ea4274762bd798b386daf",
+    "question": "關於滅菌、消毒和除汙原則，下列敘述何者錯誤？",
+    "options": [
+      "微生物在「滅菌」程序存活機率小於百萬分之一，稱為「無菌保證」。",
+      "「消毒」是消滅大多數形式活的微生物的程序，其有效性受多種因素影響，包括微生物的特性和數量、存在有機物的量、消毒物品的類型、狀態以及溫度等。",
+      "「除汙」是去除微生物、毒素或普利昂蛋白的程序，使設備或物體的表面可以安全使用。",
+      "毒素和普利昂蛋白prion也可以適用滅菌的概念。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "毒素和普利昂蛋白prion也可以適用滅菌的概念。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.970Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4b05c2a7409b4507e39d015e07354858e573f211974b0903b3537d8b9e1f0e8e",
+    "question": "關於人體解剖廢棄物，下列敘述何者錯誤？",
+    "options": [
+      "人體解剖廢棄物包括所有人體組織、器官和身體部位",
+      "頭髮、指甲和牙齒也是屬於人體解剖廢棄物。",
+      "即使經過消毒 disinfection 或除汙，人體解剖廢棄物仍被視為生物醫療廢棄物",
+      "須根據環保署訂定的 「 有害事業廢棄物認定標準 」 及 「 事業廢棄物貯存清除處理方法及設施標準 」進行特殊處理。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "頭髮、指甲和牙齒也是屬於人體解剖廢棄物。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.971Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "35e6c76ec6e292449ac75e50dfa4e1e84f11f7d5913ca9db6955c9995a7c47a1",
+    "question": "關於高壓滅菌器效能監視之建議，下列敘述何者錯誤？",
+    "options": [
+      "將生物指示劑例如嗜熱脂肪芽孢桿菌孢子的安瓿瓶放置於整個負載中最難除汙的地方。",
+      "使用另一同批號生物指示劑作為陽性對照。",
+      "不同負載的形式例如重複使用的 PPE、固體廢棄物、液體廢棄物等不須分別測試。",
+      "在確認廢棄物已被有效除汙（即高壓滅菌的生物指示劑沒有生長）之前，不可棄置廢棄物。",
+      "常見失效原因：滅菌時間不夠、壓力或溫度不足（例如設定程序錯誤）、儀器故障、裝載不當或高壓滅菌器過度負載。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不同負載的形式例如重複使用的 PPE、固體廢棄物、液體廢棄物等不須分別測試。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.972Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7cc6f93101958431e52fd7979e9be26ead0827d8f4e89cfcd77c1bc2501f2260",
+    "question": "依據實驗室生物安全規範：”所有設備、材料及廢棄物從阻隔區域移出前，在阻隔屏障內除汙及標示已除汙”，此要求在下列那個層級的實驗室不適用？",
+    "options": [
+      "BSL-2",
+      "BSL-3",
+      "ABSL-3",
+      "BSL-4"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "BSL-2",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.974Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "705324308ea477a64886a994a7e02400af21e1c01fb6ac66e75266e8d1f3a9f7",
+    "question": "關於除汙技術 設備及過程之確效及查證，下列敘述何者錯誤？",
+    "options": [
+      "生物指示劑是細菌孢子的標準族群，用以證實廢棄物負載有效滅菌。",
+      "化學指示劑含有高壓滅菌指示膠帶、標籤和嵌入溫度指示劑油墨的小袋。可即時提供每日監測結果，用於確認所有除汙參數都已符合符合（例如溫度、壓力和時間）。",
+      "化學指示劑和生物指示劑都可以做為除汙效能的指標。",
+      "化學指示劑應與生物指示劑和物理監測器（即壓力和溫度計紀錄器）合併使用。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "化學指示劑含有高壓滅菌指示膠帶、標籤和嵌入溫度指示劑油墨的小袋。可即時提供每日監測結果，用於確認所有除汙參數都已符合符合（例如溫度、壓力和時間）。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.975Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bbe1cb7464bbd2926a589eea201dd9bb75b1c3b2aa7d864c29404f7597e9a66d",
+    "question": "關於實驗室除汙、滅菌、消毒與廢棄物處理的相關業務，應依據疾管署的那一個法規、規範或指引？",
+    "options": [
+      "感染性生物材料管理辦法",
+      "感染性生物材料管理作業要點",
+      "實驗室生物安全規範",
+      "實驗室生物安全指引",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.975Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c5ff9b8d994efbd640335b403e7907272536d7622a3564e4ec006aacbad96823",
+    "question": "關於以輻射用來除污的敘述，下列敘述何者錯誤？",
+    "options": [
+      "輻射的功效取決於輻射對材料的穿透性，而穿透性決於物質的密度和輻射源強度。",
+      "伽瑪輻射（例如鈷60）可用於對熱敏感材料、高度阻隔區域化學品和溶劑的除汙。",
+      "微波輻射與高壓滅菌相似，利用熱消除活的微生物。效能取決於輻射的波長，暴露時間，以及物質的含水量。",
+      "紫外線 UV 輻射可以單獨使用來除汙。",
+      "輻射滅菌的查證方法: 使用生物指示劑，例如短小芽孢桿菌Bacillus pumilus 孢子測試條。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "紫外線 UV 輻射可以單獨使用來除汙。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:21.976Z",
+    "review_state": "candidate_ready"
   }
 ]
