@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:53.193Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-20T03:19:54.855Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:50.557Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "477529701c0a9a0ad66edfa924b0421d298e991dcabb0f82c63efd59fd91c566",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:53.197Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:51.050Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a2932ce2708f0e86d624a53c8bb54cd698608af018fd631b6b9828ae319e28f1",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "收據內容均應由店家填寫核實內容",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:53.200Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "收據內容均應由店家填寫核實內容",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:51.367Z"
+    },
+    "resolved_answer": "收據內容均應由店家填寫核實內容",
+    "verification_status": "source_supported"
   },
   {
     "id": "29c69af6af514300c901f139e585caeec00b82b0f1c4c43afd00b6feeaec5a0d",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:01:53.204Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:51.808Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9cf3e6110823896c047e6af8594451c555a259077ca4638b12482c0b1f59e6de",
@@ -78,13 +137,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.794Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:52.094Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "991491120e66cccc37d0dd1a7881aa479b233c7dca563eb9a99c336d40f8ba1e",
@@ -95,13 +168,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.795Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:52.579Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "128d6cbdddbcb4640f25f634615935753b2ba264b5d3efd9cb30448d3cd1c3ba",
@@ -112,13 +199,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.796Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:52.963Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "af0f864eeeb1a3f37202079a5d48957e8357bcd3d3dbf3f1508fb8e9d59daea2",
@@ -129,13 +230,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.796Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:53.259Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "b518b971694c3cf57ce824ef185f9f21052940ea9dfefa370c2bfcc59406f309",
@@ -146,13 +261,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.797Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:53.602Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9717b31c6a780cc8bbb21af7b77244119f6e30d91e3d8447dd99bae85df8cf40",
@@ -163,13 +292,27 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.799Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:53.616Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "077a5b00edc2c08c355c4914d7a2152725c8419093c16440a178559923c0c4a3",
@@ -182,13 +325,27 @@
     ],
     "type": "單選",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "主辦單位應於報名階段就列出參加對象身分資格",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.800Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "主辦單位應於報名階段就列出參加對象身分資格",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:53.937Z"
+    },
+    "resolved_answer": "主辦單位應於報名階段就列出參加對象身分資格",
+    "verification_status": "source_supported"
   },
   {
     "id": "6ae91a71357a15c3bbefdcfdef5363586697047ada33d7e2f133853242a4b7b8",
@@ -199,12 +356,26 @@
     ],
     "type": "是非",
     "course": "里鄰大小事-里幹事及里鄰長必練廉政武功秘笈",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:02:20.800Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_715.html",
+          "title": "「里鄰大小事-里幹事及里鄰長必練廉政武功秘笈」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T03:19:53.973Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
