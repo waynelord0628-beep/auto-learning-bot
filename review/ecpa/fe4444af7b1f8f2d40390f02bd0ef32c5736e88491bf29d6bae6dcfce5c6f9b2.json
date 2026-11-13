@@ -1,0 +1,114 @@
+[
+  {
+    "id": "4f84ced0554488bae66db40c72360e489497fc53cbc4eeb057edb3feaaf11a6d",
+    "question": "為燻蒸消毒過程中保持實驗室或HEPA過濾器空間的密封，需確保隔離風門（例如Bubble Tight Damper）的功能正常。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.128Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a386a866eaceaafeeb8543f9531b0a774d375c5c8f0d0d3dfe1992a7514126ee",
+    "question": "HEPA的測試內容，應進行以下哪種測試？",
+    "options": [
+      "下吹氣流測試",
+      "HEPA本身的過濾效率測試",
+      "裝框後的洩漏測試",
+      "面速度測試"
+    ],
+    "type": "多選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.129Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "79f09c0482d82ccb44341ab0a4ae2d16c8a8030662b3987fab5007d75430ca13",
+    "question": "換氣次數越高，表示下列哪一種效果越好？",
+    "options": [
+      "節能效率",
+      "稀釋汙染物效率",
+      "通風效率",
+      "層流效率"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "稀釋汙染物效率",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.143Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "15f7257a524479ac3bd288e297e4858ac2db6b0eab77b09e0f2c0455dbf8e406",
+    "question": "通風空調系統需維持24小時運轉，負壓差需達到特定值，請問「作業時」及「無人工作時」的實驗工作區與相鄰髒汙更換區之負壓差應保持幾Pascal(Pa)以上？",
+    "options": [
+      "7.6；7.6",
+      "12.5；12.5",
+      "12.5；7.6",
+      "7.6；12.5"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "12.5；7.6",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.145Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "91622e7508410e8c1d9e47c743513e0efb29c0beac932b2218a73c2bba8bb6c3",
+    "question": "管道耐壓測試是依據下列哪一個標準進行？",
+    "options": [
+      "IEST-RP-CC034.3",
+      "CNS 15970",
+      "NSF/ANSI 49",
+      "ASME N511"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "NSF/ANSI 49",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.147Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "57013756d54e448183bf0c62530b8a10c105789f76643016c08caeb6c59ecfe1",
+    "question": "高防護實驗室通風空調系統需產生向內定向氣流，可以用以下設備加以確認？",
+    "options": [
+      "風速計",
+      "壓差計",
+      "透明視窗",
+      "流量計"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "壓差計",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:10.148Z",
+    "review_state": "candidate_ready"
+  }
+]
