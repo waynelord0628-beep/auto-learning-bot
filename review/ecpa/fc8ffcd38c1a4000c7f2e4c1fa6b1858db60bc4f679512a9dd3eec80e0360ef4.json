@@ -141,5 +141,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:18:50.477Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "27588cd2ce0c03b8135434c5694d72d7469670bfcb8af52749db307b162202e8",
+    "question": "請問下列關於C2C產品原料的原則，哪些敘述是正確的？",
+    "options": [
+      "某種特別菌絲體以農業廢棄物為養分所長成之蘑菇材料，其外觀及功能均類似保麗龍，為可取代保麗龍的「蘑菇包裝」，包裝丟到花圃中，經過幾周後便可自行分解",
+      "運動品牌推出新服飾，外套的設計取自寶特瓶的聚脂纖維，消費者可將外套送回品牌專櫃的回收站，品牌就會再將服飾重新製成聚脂纖維原料",
+      "使用棉花及聚酯纖維混紡的織品，用完之後被輾碎作為沙發填充料",
+      "木材透過安全的方式製成，使用再生能源與消耗低水資源，淘汰更換後可輾壓作成戶外產品，即便丟棄也可徹底分解，成為植物的養分"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:19:24.558Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "8ab6574861af2c878af2853e371881ded582c10438533bd7831f80d6dd4a221d",
+    "question": "請問下列關於C2C的益處，哪些敘述是正確的？",
+    "options": [
+      "達到零污染、零廢棄",
+      "增加購買原物料之負擔",
+      "有效管理養分資源",
+      "引領綠色概念發展"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:19:24.559Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
