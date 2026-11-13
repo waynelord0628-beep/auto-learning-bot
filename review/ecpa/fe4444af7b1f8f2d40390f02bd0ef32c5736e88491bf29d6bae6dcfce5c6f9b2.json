@@ -110,5 +110,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.148Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "91c5f6ddb0e90fd37e51963ff4bf50ae6e4fc686f6e5ddcae5c26101a1f47a68",
+    "question": "空氣形成之阻隔屏障可以圍堵經由空氣傳播或氣膠化之感染性物質，以下哪種測試方法可以瞭解是否有洩漏？",
+    "options": [
+      "壓力測試",
+      "下吹氣流測試",
+      "警報測試",
+      "使用發煙筆"
+    ],
+    "type": "多選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:54.454Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "c9d696dad3fca77c2b1f1a9bc1b000092db9ead242f3fff2b74fb874289f9525",
+    "question": "依據國際標準ASME N511進行測試，允收標準在最低測試壓力 1,000 Pa 時，洩漏率不得超過體積/分鐘的百分之幾？",
+    "options": [
+      "0.05",
+      "0.1",
+      "0.01",
+      "0.5"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "0.05",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:54.460Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "79ae94138a3876007258a9a9bcb8bfdac1ff4f409be93668da1e2586440bd757",
+    "question": "實驗工作區換氣率（air change per hour, ACH）應每小時幾次以上？",
+    "options": [
+      "12",
+      "15",
+      "10",
+      "8"
+    ],
+    "type": "單選",
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "12",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T12:39:54.461Z",
+    "review_state": "candidate_ready"
   }
 ]
