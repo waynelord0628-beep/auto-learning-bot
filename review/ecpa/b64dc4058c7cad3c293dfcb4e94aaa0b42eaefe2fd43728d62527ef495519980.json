@@ -324,5 +324,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T15:32:53.568Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "73c896046d7643dbe72896af7121524fcafa40c6a03be6c08b911065a6984628",
+    "question": "臺灣獼猴並不只生長在臺灣，亞洲其他地區也可能看見牠的身影。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T15:33:26.483Z",
+    "review_state": "candidate_ready"
   }
 ]
