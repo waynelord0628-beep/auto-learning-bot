@@ -1,0 +1,184 @@
+[
+  {
+    "id": "6faa5d6ecf2eb4c65357da39274c7c414458cbc796c0abb28c1afef31b826dac",
+    "question": "何者為安全櫃提供的安全功能？",
+    "options": [
+      "壓差控制",
+      "過濾污染氣體",
+      "創造舒適的溫溼度條件",
+      "創造良好的工作氣氛"
+    ],
+    "type": "多選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.169Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "17c96f3f166085efb8ed00dc1bb5f02fa1a1ec2413d142380125b6627d21b94f",
+    "question": "生物安全櫃中的HEPA過濾器是需要定期更換的耗材。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.170Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b3798cce40c820664ac73103aba078e24629d068b4f0d84a592a691eccfa27c2",
+    "question": "應用在操作高度風險的微生物、氣閉式，或稱為內置手套式操作櫃，人員與櫃內物品完全隔離，屬於哪一類型安全櫃?",
+    "options": [
+      "Class 2 / A2",
+      "Class 1",
+      "Class 3",
+      "Class 4"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "Class 3",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.171Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "40819501cc67f8e88c21ad0023ed5c813a03463702f4780b2979e39fcdea270f",
+    "question": "安全櫃定期檢測包含下列何種測試項目？",
+    "options": [
+      "下吹氣流速度",
+      "入口氣流速度",
+      "氣流煙霧型態",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.172Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bc684b95e0a71ab612297d12de91ee69b45e464105f8959be8eca731e36a3786",
+    "question": "BSC IV級的安全櫃適合應用在BSL-2實驗室中使用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.173Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a67391fe31d9085d0adedb9480958bb09a71e4693dda91d743ddda9538d5c71f",
+    "question": "實驗室空氣系統如果排出氣體量高於進入氣體量，可使實驗室形成正壓",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.173Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "169e155a807c9ecc13dc5c31bbadfee7d4edec971a7b70620b34bd75ea452098",
+    "question": "遭遇以下哪種情況，操作人員應立即停止使用生物安全櫃？",
+    "options": [
+      "安全櫃發生警報聲響",
+      "照明燈熄滅",
+      "氣流型態異常",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.174Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a6213dfbbf14385509db7887a02a3e466f2aeb0bd42471314bf5f6a476c40e19",
+    "question": "哪種等級的生物安全櫃是目前最適合處理最高危險生物製劑的設備？",
+    "options": [
+      "第一級",
+      "第二級",
+      "第三級",
+      "第四級"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第四級",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.175Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e612f1a12ff695759e609d20f7d4d849bbfc616b1ccb49336533ecd4806c7933",
+    "question": "生物安全櫃的測試標準為何?",
+    "options": [
+      "CNS 15970",
+      "ISO 9000",
+      "CNS 17020",
+      "ISO 14001"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "CNS 15970",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.176Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "88760072b17c692b428aae578f6ffe6f3d8a4a79cbe3f95b4c596fa57ca2bde7",
+    "question": "在BSL-3實驗室內，並同時使用大量的揮發性有機化合物，我會選擇Class 2 / A2 對內排氣的安全櫃。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:13:43.177Z",
+    "review_state": "candidate_ready"
+  }
+]
