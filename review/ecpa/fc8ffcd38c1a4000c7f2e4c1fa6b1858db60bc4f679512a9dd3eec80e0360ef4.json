@@ -27,5 +27,119 @@
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-19T03:20:01.025Z",
     "verification_status": "insufficient_sources"
+  },
+  {
+    "id": "064d3e5a360f793048dc9783b3d589f7248679ec01cd384d1aa0c0b76a18b0ee",
+    "question": "企業實踐綠色創新可以達到哪些效果？",
+    "options": [
+      "節能減碳",
+      "為產品創造價值",
+      "提高消費者物價指數",
+      "讓人跟環境能永續共生"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.467Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ef1f3099e03fb726496b21545a1372f71a207bd39b0d0cb27fb7f9cbff70fe08",
+    "question": "請問下列哪些選項是民眾可以落實C2C的步驟呢？",
+    "options": [
+      "正視地球環境問題，宣導不浪費地球資源",
+      "在日常生活中配合策略落實回收",
+      "推廣綠色購物",
+      "在生產過程中使用可回收的原料"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.469Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "a3a4d5feb29add02c484dfbe8582d52560a11c46fd2263a056f1f4042e36472f",
+    "question": "請問下列哪些敘述是達到C2C產品原料的重點？",
+    "options": [
+      "原料對環境與人類健康化",
+      "可再生利用並回饋自然",
+      "進行拆解製造新品",
+      "把原料中可以再利用、再生的比例最大化"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.471Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0fd04e2fd5de5df3c6db1102e3fb5c151c30a715cb72d5af151f6943e9cefc2b",
+    "question": "請問下列哪些敘述為C2C的益處？",
+    "options": [
+      "減少購買原物料之負擔",
+      "高品質把關安全性",
+      "追求生態效益",
+      "有效管理養分資源"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.473Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "f332b79e7729f9bc7974405817b48f03787784d69d543d21fba11dc45c6e6ece",
+    "question": "請問下列關於C2C產品認證的標準，哪些敘述是正確的？",
+    "options": [
+      "材料健康性",
+      "材料循環再利用性",
+      "再生能源與碳管理",
+      "社會公平性"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.475Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "f075e61dfd58976a8a74a2755dd60885d4463e481b72ac05eb1cad48662d9da4",
+    "question": "請問下列關於民眾可以落實C2C的做法，哪些敘述是正確的？",
+    "options": [
+      "參與C2C的宣導、推廣活動",
+      "C2C循環概念建立與學習",
+      "以租代買",
+      "日常生活中配合策略落實回收"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:18:50.477Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
