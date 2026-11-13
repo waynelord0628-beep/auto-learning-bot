@@ -133017,5 +133017,146 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-13T07:21:18.235Z"
     }
+  },
+  {
+    "question": "到了高速公路車禍現場，直接把交管交給警察，可以放心地投入搶救，不用做任何的防撞。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:35.427Z"
+    }
+  },
+  {
+    "question": "個人防護不妥協完整的個人防護裝備，無論情況多麼緊急或炎熱，都不應該犧牲個人安全，確保正確配戴。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:36.907Z"
+    }
+  },
+  {
+    "question": "車禍救援現場360度評估中，傷患評估原則「不」包含下列那些選項：",
+    "type": "單選",
+    "options": [
+      "特殊傷患：孕婦、兒童、行動不便者等需特殊照護的傷患",
+      "傷患數量與分布：單一或多重傷患，以及其在車內的位置",
+      "地理位置：都市區、高速公路、山區道路等地形特性",
+      "傷勢嚴重程度：輕傷、重傷或受困情況",
+      "傷患脫困路徑：評估最安全有效的脫困方式"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "地理位置：都市區、高速公路、山區道路等地形特性",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "地理位置：都市區、高速公路、山區道路等地形特性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:38.332Z"
+    }
+  },
+  {
+    "question": "台灣消防人員通常具備眾多技能，包山包海，在車禍救援現場，應當仁不讓，一個人擔任指揮、救援、救護工作，強勢做到底，不負台灣民眾對我們的英雄敬佩感。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:40.217Z"
+    }
+  },
+  {
+    "question": "現場安全應變體系是指包含交通管制、滅火方案、動力解除與危害排除、車輛限位等安全防護措施。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:41.648Z"
+    }
+  },
+  {
+    "question": "車禍事故造成的金屬變形及斷裂，產生大量銳利邊緣，不僅威脅救援人員的安全，亦對傷患脫困有危害之虞。有效的銳角保護是救援過程中絕對必須的安全措施。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消防人員車禍救援認知等級Awareness數位課程",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:43.886Z"
+    }
   }
 ]

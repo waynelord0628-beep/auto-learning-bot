@@ -16,7 +16,11 @@
     "candidate_answer": "4. 如沒有輪檔，可使用水帶當止擋物。",
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.677Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-20T12:20:46.225Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e8836c7937d4de05ecf138af8c8fa8a59798a0b15424f85ad1720119b8491d1e",
@@ -27,13 +31,27 @@
     ],
     "type": "是非",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.678Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:35.427Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "f9069fce636d2e56b6dcd5ba5e60bdc084fdc0901392f0c97fc4429d863cb04d",
@@ -44,13 +62,27 @@
     ],
     "type": "是非",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.679Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:36.907Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "05c77b902e2d518e6edeeec55eff6b98da4807fdb3b695201079235bcc71a1eb",
@@ -64,13 +96,27 @@
     ],
     "type": "單選",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "傷患脫困路徑：評估最安全有效的脫困方式",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.680Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "地理位置：都市區、高速公路、山區道路等地形特性",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:38.332Z"
+    },
+    "resolved_answer": "地理位置：都市區、高速公路、山區道路等地形特性",
+    "verification_status": "source_supported"
   },
   {
     "id": "74c52039488887ed441590ab0a00d043c8b3da4d6ef7daf034f53ca960a85cac",
@@ -81,13 +127,27 @@
     ],
     "type": "是非",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.680Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:40.217Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "2baeee5c6f9e38169a170d0f4d282558d6f20727e6b131c939029148d425c101",
@@ -98,13 +158,27 @@
     ],
     "type": "是非",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.681Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:41.648Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "182cf89a2cb5e708b0988ee9687368bb078d5cc6d2285b8d2a7fd8df63f1c933",
@@ -172,12 +246,26 @@
     ],
     "type": "是非",
     "course": "消防人員車禍救援認知等級Awareness數位課程",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T04:58:19.684Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/awareness_17.html",
+          "title": "【解答】消防人員車禍救援認知等級Awareness數位課程 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-13T12:20:43.886Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
