@@ -438,7 +438,11 @@
     "candidate_answer": "美國國家海洋教育者協會(NMEA)",
     "source": "ai_unverified",
     "created_at": "2026-10-29T20:48:49.382Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-20T00:21:09.925Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "02513465bb9e19542f2f70d0f214b6026792d94f3b3232507da08bf143feea56",
