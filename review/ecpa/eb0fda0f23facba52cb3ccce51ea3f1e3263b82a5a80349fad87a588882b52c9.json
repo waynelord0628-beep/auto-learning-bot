@@ -180,5 +180,136 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T07:59:41.171Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a8fc0cb0556a485d89a80e74956e8a74f13a028361c5287af6c524f2687a48f9",
+    "question": "實驗室危害鑑別人員在執行危害鑑別工作時，必須明確地辨認出危害型態，由人員、設備、物料與環境(PEME)四個危害來源因子來考量，其中第一個E指的是：",
+    "options": [
+      "人員",
+      "設備",
+      "物料",
+      "環境"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "環境",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.156Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "78a22950a322c9f97f0ae5fccdf08c0bd9b80836903a81e946c7ebcaad500f6d",
+    "question": "有關生物風險管理系統的建立與下列何者相關？",
+    "options": [
+      "定期召開生安會議，檢討生物風險議題",
+      "導入PDCA模式運作，持續改善",
+      "定期執行內部稽核及管理審查",
+      "以上皆相關"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆相關",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.157Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a761a341e5842c5a897c83ac5fb1ca085b4ce16356c615bc24c3d4b23c0fe1d9",
+    "question": "下列何者最適合當生物安全會之主任委員?",
+    "options": [
+      "副院長",
+      "檢驗科主任",
+      "細菌室組長",
+      "感染科主任"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "副院長",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.157Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f00ba8d164bd69bf120716912de4f18989c741b9f79c9a3467f238e3ee61aece",
+    "question": "自2021年12月15日起，屬於使用、保存第3級及第4級危險群病原體之實驗室或保存場所，皆應建立生物風險管理系統。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.159Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9b33887cb4b18ac43e361207cc8224327a8c2df5f5fbb32e2b635666143f4227",
+    "question": "歐洲標準化委員會（European Committee Standardization,CEN）於2008年訂定何者為實驗室生物風險管理標準(Laboratory biorisk management standard)？",
+    "options": [
+      "ISO 15189",
+      "ISO 35001",
+      "CWA 15793",
+      "CWA 16393"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "CWA 15793",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.160Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "739593dd54854433f81b7691dc7029735077fe8cb654d835396b8504b059b2a8",
+    "question": "下列關於內部稽核，對設置單位的要求，何者為是?",
+    "options": [
+      "界定各項稽核標準與範圍",
+      "選擇稽核員進行稽核，確保稽核客觀公正",
+      "確認稽核結果有通報相關管理階層",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.161Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "254157947e7bc243f2a258f7414be6902a83a7c5019588add74c9701a7b0d3d4",
+    "question": "生物風險管理目標應：",
+    "options": [
+      "符合生物風險管理政策",
+      "可衡量（可行時）",
+      "接受監測",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "實驗室導入生物風險管理系統經驗分享",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T08:00:21.162Z",
+    "review_state": "candidate_ready"
   }
 ]
