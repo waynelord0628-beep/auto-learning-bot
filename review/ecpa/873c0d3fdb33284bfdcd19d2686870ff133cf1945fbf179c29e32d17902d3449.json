@@ -288,5 +288,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.976Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c4f3f8ef198168ace5475b97941923f7b10fdc100ab46d4a48c82d77e0121c26",
+    "question": "關於生物醫療廢棄物當中的尖銳器廢棄物，下列敘述何者錯誤？",
+    "options": [
+      "尖銳器廢棄物包括針頭、注射器、刀片或被感染性物質汙染的玻璃等，能夠造成刺傷或割傷。",
+      "不包括接觸過感染性物質或毒素的吸管和微量吸管尖。",
+      "在靠近操作位置使用防穿刺容器，可以大幅地降低搬運過程中受傷的風險。",
+      "依環保署「有害事業廢棄物認定標準」第 5條第1項第2款之規定，有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，得認定為一般事業廢棄物。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不包括接觸過感染性物質或毒素的吸管和微量吸管尖。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:54.837Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6175bc23416f7e6f2d31be36c55e764c919f0d0fbbf8885549f579a3f6bbca97",
+    "question": "關於動物類廢棄物，下列敘述何者錯誤？",
+    "options": [
+      "動物類廢棄物包括所有動物解剖廢棄物（屍體、組織、器官、身體部位）、被感染性生物 汙染的操作台用品、血液和血液製品、被血液高度汙染的物品以及為診斷而取出或在手術、治療或治療過程中取出的體液或檢體。",
+      "頭髮、指甲、牙齒、 腳蹄和羽毛不被視為動物類廢棄物。",
+      "經過消毒或除汙，動物類廢棄物可以被視為一般廢棄物。",
+      "須根據環保署訂定的「有害事業廢棄物認定標準」及「事業廢棄物貯存清除處理方法及設施標準」進行特殊處理。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:54.839Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "49a7c4750c93f09dd995b0cc9ac63abf1e446b32fea2459c00edf579fa14d56c",
+    "question": "依據廢棄物清理法，下列敘述何者錯誤？",
+    "options": [
+      "事業廢棄物是指事業活動產生非屬其員工生活產生之廢棄物。",
+      "一般廢棄物：指事業廢棄物以外之廢棄物。",
+      "有害事業廢棄物：由事業所產生具有毒性、危險性，其濃度或數量足以影響人體健康或污染環境之廢棄物。",
+      "醫療院所所產生的廢棄物，全部都是屬於有害事業廢棄物。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "醫療院所所產生的廢棄物，全部都是屬於有害事業廢棄物。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:23:54.840Z",
+    "review_state": "candidate_ready"
   }
 ]
