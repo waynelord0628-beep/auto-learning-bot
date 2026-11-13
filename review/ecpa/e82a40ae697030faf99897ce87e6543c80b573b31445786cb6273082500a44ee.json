@@ -258,5 +258,25 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:38.105Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "5584acaecd94d70c33c0949fd1e530a9b30cdd261d182b52ea0be7b89996fee0",
+    "question": "以下何者是成為水域外來入侵種主要原因?",
+    "options": [
+      "能適應惡劣環境如耐污、耐缺氧",
+      "卵、幼體生存與傳播等能力強",
+      "缺乏天敵",
+      "出現人類進出使用頻率高的地方如港口",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T18:45:04.191Z",
+    "review_state": "candidate_ready"
   }
 ]
