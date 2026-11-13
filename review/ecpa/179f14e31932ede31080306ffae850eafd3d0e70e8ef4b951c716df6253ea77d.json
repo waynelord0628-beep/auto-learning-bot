@@ -271,5 +271,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T10:14:25.620Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed763ddebfdf29a29dca0dc2e6bf3d2d997d456287df3ac8e434bd876c023e0d",
+    "question": "如何正確處理第二級以上實驗室內生物安全櫃所產生的廢棄物？",
+    "options": [
+      "將廢棄液體直接倒入下水道",
+      "將廢棄物密封在專門的容器中，並按照適當的程序進行處理",
+      "一律將廢棄物進行焚燒",
+      "丟事業廢棄物垃圾桶"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "將廢棄物密封在專門的容器中，並按照適當的程序進行處理",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:14:59.046Z",
+    "review_state": "candidate_ready"
   }
 ]
