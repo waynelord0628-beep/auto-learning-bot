@@ -288,5 +288,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-12T12:10:51.319Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "2f0b33fa2a14f707c0afb1d03afb4531a8291f87cc2273b33933f0f114ea3fcd",
+    "question": "臺灣獼猴的毛色呈現灰色帶一點金色。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T15:32:53.565Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e2c5028f7d702a728b9e7984f5578ca01a52d96f215e4a8aa9058478667599bb",
+    "question": "下列何者為區分成年雄猴與雌猴的特徵？",
+    "options": [
+      "尾巴長短",
+      "紅屁股",
+      "是否有頰囊",
+      "頭頂金毛"
+    ],
+    "type": "單選",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "紅屁股",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T15:32:53.568Z",
+    "review_state": "candidate_ready"
   }
 ]
