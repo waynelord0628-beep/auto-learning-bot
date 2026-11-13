@@ -1,0 +1,192 @@
+[
+  {
+    "id": "3a294379e4bd328d8115769f75615c5d80b1dbd2d5437301aef3136da0eca5b6",
+    "question": "若沒有執行CPR，心跳停止病人的腦部細胞大概多久會開始死亡?",
+    "options": [
+      "1 分鐘",
+      "4分鐘",
+      "30分鐘",
+      "60分鐘"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "4分鐘",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.902Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1d137547d48ea16298b61e0db28c38db4859ca1fdfa029b6261dd97e6d2b282e",
+    "question": "下列何者不是AED 常見的擺放位置?",
+    "options": [
+      "交通要衝，如機場、高鐵站",
+      "大型購物場所，如百貨公司",
+      "大型休閒場所，如電影院",
+      "公共廁所"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "公共廁所",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.903Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3379b0ea1aef00e5e99f85cd14fc444ebad903963c23893bd2bcb94a545698cd",
+    "question": "台北市政府消防局有製作一款App，在心跳停止案件發生時可以召喚有下載\nApp 的熱血民眾就近支援CPR。請問這款App 叫做?",
+    "options": [
+      "全民守護者",
+      "捐血我最型",
+      "健康存摺",
+      "健保快易通"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "全民守護者",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.904Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9693daf377dd2325cb9126fb3c0e547a23534fb6b4606e27ba44fce56bfa3c92",
+    "question": "一般民眾因為熱心幫忙進行CPR 而發生必要的傷害，例如肋骨斷裂，可以依據哪一條法令得以免責?",
+    "options": [
+      "醫師法",
+      "緊急醫療救護法",
+      "傳染病防治法",
+      "青少年保護法"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "緊急醫療救護法",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.905Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4e6f3b17c4558bc5448b56affc22f62f2989efe36a7ee1130aafdc747f6d7de1",
+    "question": "關於目前急救的口訣「叫-叫-壓-電」，下列何者最適當?",
+    "options": [
+      "第一個「叫」是指119 求援並取得AED",
+      "第二個「叫」是指確認意識",
+      "「壓」是指復甦球按壓給氧",
+      "「電」是指使用AED"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "第一個「叫」是指119 求援並取得AED",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.905Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "660be986d6bf7080eae99eb54263f368d5109cef48b43f39147cd3349d3c1cc2",
+    "question": "根據AED 的操作說明，使用於小孩時，下列敘述，何者最不適當?",
+    "options": [
+      "任何年齡層皆可使用",
+      "貼片黏貼方式，可貼在前胸後背",
+      "年齡要大於一個月",
+      "操作步驟為: 1.開2.貼3.電"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "任何年齡層皆可使用",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.906Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1ecaecdfcf0fc694ee7ae112e72e3b289592d6eb7bd127dfb6ca5859f397ba1c",
+    "question": "關於心臟疾病造成猝死的流行病學與病態生理學描述，下列何者最不適當?",
+    "options": [
+      "執行AED 電擊能夠讓病人存活率提升為兩倍",
+      "心臟疾病造成猝死最常見的原因是發生致命性的心律不整",
+      "施行CPR 能夠讓病人存活率提升為兩倍",
+      "給予AED 電擊的目的是讓心臟有能量可以跳動"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.907Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1948723a6e9e1ced8d07d261cedcd8d9cd53c6531fb20dd5c9ab975be33cbb16",
+    "question": "已經取得合格急救證照，但是在前往支援CPR 路上發現自己忘了該怎麼做時，\n下列何者做法較為適當?",
+    "options": [
+      "就算了，反正會有其他人上前幫忙",
+      "只要有胸部按壓就好，深淺快慢不重要",
+      "先過去看看，不要出手幫忙",
+      "將報案手機開啟擴音或視訊，配合119 派遣員的指導進行CPR"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "將報案手機開啟擴音或視訊，配合119 派遣員的指導進行CPR",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.907Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "21e5368a3c69cdbcf4e31a7ea6b6b2a9e03e7f22fc60e1ebb26cf12fe867362b",
+    "question": "下列何者為胸部按壓的正確技巧?",
+    "options": [
+      "用力壓",
+      "快快壓",
+      "莫中斷",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.908Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cb51182b945d59a07543aa48d8ebce9fdd3ebbd74ee77066d84118f158934ba2",
+    "question": "成人CPR壓胸的方式及注意事項，下列敘述何者最適當?",
+    "options": [
+      "可單手掌根在胸部上",
+      "手指應打直才有力量",
+      "胸回彈可增加回心血流",
+      "不中斷可減少心臟負擔"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "胸回彈可增加回心血流",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:54:44.908Z",
+    "review_state": "candidate_ready"
+  }
+]
