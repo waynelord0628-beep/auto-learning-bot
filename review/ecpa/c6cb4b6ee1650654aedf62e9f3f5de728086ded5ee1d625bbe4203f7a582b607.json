@@ -188,5 +188,119 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.908Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0363e76c883cd5f5e96a9231cf516923d4dc9f2be672cbad184f7d5fdb74d12c",
+    "question": "根據AED 的操作說明，在「電」的步驟中，當橘色閃電的按鈕顯示時，下列\n步驟，何者排序最適當?",
+    "options": [
+      "ADBC",
+      "CABD",
+      "CBDA",
+      "DABC"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ADBC",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.939Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4c61f8b46b2c958ad226201d1a4e897c3998515aae644d67a09a4958f4dc1e20",
+    "question": "下列何者非CPR 常見錯誤?",
+    "options": [
+      "按壓位置不正確",
+      "按壓速度太快或太慢",
+      "研究統計大多壓太淺",
+      "太累時儘早換人接手"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "太累時儘早換人接手",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.940Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5605d3f87955ccb176ab6e256b702f1a7111f086914c596d4de0a90ce6965da9",
+    "question": "若沒有執行CPR，心跳停止病人的腦部細胞大概多久會完全死亡，接近腦死?",
+    "options": [
+      "3分鐘",
+      "10分鐘",
+      "30分鐘",
+      "60 分鐘"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "3分鐘",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.941Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fa83eb4fffc8aa1ba736726e3812312a71fba5a94797d2ca0f56bccba4fac0bd",
+    "question": "回想一下台灣的現況，根據專家建議，哪些地方應該放置AED?\na.交通要衝 b.學校機構 c.大型休閒場所 d.大型購物場所",
+    "options": [
+      "ABCD",
+      "ABC",
+      "ABD",
+      "ACD"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "ABCD",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.942Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b8e24b7eefe150bdf0434f794438747b900d9b13289e2c600755482260d14c21",
+    "question": "根據AED 的使用說明，AED 到達前，應持續CPR，下列敘述，何者最不適當?",
+    "options": [
+      "此時CPR 是為了維持重要器官的灌流",
+      "此時CPR 是為了延長可電擊心律的時間",
+      "此時CPR 是為了心臟細胞有足夠的能量",
+      "此時CPR 其實沒有意義，只是為了等待AED 到達"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.943Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3167e29e6c53fc486e15f3db9e7d114423d251231c9d45d9be01ab0fc02c1381",
+    "question": "民眾倒地，現場只有你一人，應如何應變最適當?",
+    "options": [
+      "前往就近取得AED 參與急救",
+      "打119，依派遣員指示急救",
+      "到附近繞一下請求人員支援",
+      "趁現場沒人看到，趕緊離開"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "打119，依派遣員指示急救",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:22.944Z",
+    "review_state": "candidate_ready"
   }
 ]
