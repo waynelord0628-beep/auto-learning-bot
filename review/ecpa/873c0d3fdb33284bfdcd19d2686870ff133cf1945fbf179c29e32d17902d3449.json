@@ -1,0 +1,156 @@
+[
+  {
+    "id": "8bfa9d853dbc84b8cb3a2d61dab5a96e20ac1618f4ede884ce6b6e001345728d",
+    "question": "依據實驗室生物安全指引，受汙染的材料可使用下列何者系統進行除汙？",
+    "options": [
+      "高壓滅菌器",
+      "汙水處理系統",
+      "焚化爐",
+      "泡消桶(dunk tank)",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.456Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "39918c1c44aff1e3aa0dd580175bf83e93e0bca10dc577582ac7546dd19dd323",
+    "question": "依據實驗室生物安全指引，下列敘述何者正確？",
+    "options": [
+      "高壓滅菌器、汙水處理系統和其他除汙技術設備和流程在實施前需經過確效",
+      "嗜熱脂肪芽孢桿菌 Geobacillus stearothermophilus 孢子適用於以化學法為基礎的技術和流程確效",
+      "枯草芽孢桿菌Bacillus subtilis 孢子可用於以加熱法為基礎的技術和流程確效",
+      "在不適合使用生物或化學指示劑的情況下（例如普利昂蛋白），使用參數來監控設備和流程是不合適的"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "高壓滅菌器、汙水處理系統和其他除汙技術設備和流程在實施前需經過確效",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.457Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2ce8fd3d52555bd3fa105363e25c00506473eed2c67b0edf4de79e5a21759c34",
+    "question": "下列那一個消毒劑在合適的濃度之下，對細菌的孢子也可以去活化？",
+    "options": [
+      "乙醇(酒精)",
+      "戊二醛",
+      "氯己定(Chlorhexidine)",
+      "酚類"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "戊二醛",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.457Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "47296ab99a3359fd38bd189b0cdadf2a4f5a8effb8b246d756373bba4e8b68a2",
+    "question": "關於普利昂蛋白除汙，下列敘述何者錯誤？",
+    "options": [
+      "普利昂蛋白對一般的除汙程序和步驟都具有抗性，包括傳統的濕熱法、輻射法，以及化學去活化法。",
+      "焚燒及在 pH13鹼性條件下重複高溫高壓滅菌可以有效去除感染性普利昂蛋白。",
+      "建議合併物理和化學處理法將設備、重複使用的物品，以及不適於焚燒的廢棄物進行除汙。",
+      "研究普利昂蛋白實驗室在更換生物安全櫃(BSC)的HEPA過濾器前的燻蒸，甲醛燻蒸的效果比汽化過氧化氫燻蒸的效果好。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "研究普利昂蛋白實驗室在更換生物安全櫃(BSC)的HEPA過濾器前的燻蒸，甲醛燻蒸的效果比汽化過氧化氫燻蒸的效果好。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.457Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2e2165bd38ed284424568d3ae8f269a8e0c87569e079311c7026588e0431b3b6",
+    "question": "規定廢棄物分類及處理的法源依據為何？",
+    "options": [
+      "廢棄物清理法",
+      "有害事業廢棄物認定標準",
+      "事業廢棄物貯存清除處理方法及設施標準",
+      "有害事業廢棄物檢測及紀錄管理辦法",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.458Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "53be41df413144ca71d2ceefa5ff58bb739ca9c226d4b339aa6463f8b91b28c6",
+    "question": "病原菌對於化學消毒劑的抵抗力，由高至低下列何者正確(①分枝桿菌②細菌孢子③酵母菌④有套膜病毒⑤普利昂蛋白)？",
+    "options": [
+      "①②③④⑤",
+      "⑤②③①④",
+      "⑤①②③④",
+      "⑤②①③④"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "⑤①②③④",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.458Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "94bf544091dfc649e14de387d1581d839ef636e21cae764456671b50c39a6e81",
+    "question": "關於實驗室廢棄物，下列敘述何者錯誤？",
+    "options": [
+      "微生物實驗室廢棄物包括培養物、原液stocks、微生物檢體、普利昂蛋白prion、毒素、活菌疫苗、減毒疫苗、人類和動物細胞培養物以及與其接觸過的任何材料。",
+      "人體血液和體液廢棄物包括所有人體血液或血液製品、所有被血液浸透的物品、任何被血液汙染的體液，以及在手術、治療或驗屍過程中為診斷而取出的體液。",
+      "微生物實驗室廢棄物需在處置之前去活化病原體和毒素，防止有害物質釋放到環境。",
+      "依環保署「有害事業廢棄物認定標準」之規定， 上述實驗室之有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，仍不得認定為一般事業廢棄物。"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "依環保署「有害事業廢棄物認定標準」之規定， 上述實驗室之有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，仍不得認定為一般事業廢棄物。",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.459Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bf2316e9c3f52ddc0c4cf9a4d38c2395379ea3d103474516e687478e6375f859",
+    "question": "依據實驗室生物安全規範，下列敘述何者錯誤？",
+    "options": [
+      "滅菌 、 消毒及除汙可降低阻隔區域內病原體及毒素散佈到環境或社區的風險",
+      "應將除汙與廢棄物管理程序文件化，以利實驗室人員容易了解及執行",
+      "只要消毒滅菌的程序完整，即使有明顯的汙染也不需用物理性方式將之去除",
+      "尖銳物應丟棄在防漏、防穿刺及有蓋容器"
+    ],
+    "type": "單選",
+    "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "只要消毒滅菌的程序完整，即使有明顯的汙染也不需用物理性方式將之去除",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T13:22:40.459Z",
+    "review_state": "candidate_ready"
+  }
+]
