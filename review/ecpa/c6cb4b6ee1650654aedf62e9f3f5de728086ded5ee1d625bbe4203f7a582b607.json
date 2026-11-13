@@ -302,5 +302,138 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:22.944Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "36019428b7713c1f948842b472a27040a11f36a26d70a5cdcdaa0befb656b808",
+    "question": "根據AED 使用原則，特殊情況中，下列敘述及處置，何者最不適當?",
+    "options": [
+      "體毛過多時，應移除體毛，再貼上貼片",
+      "病患身體潮濕，應擦乾後操作",
+      "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+      "環境地面積水時，應搬離至安全處，再操作AED"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.871Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4622e686469bc84d9fd05aac9ec51f244956ab35f2a1d13d0928ad563a9e4df5",
+    "question": "如果有感染或防疫的考量，CPR 過程中如何進行通氣",
+    "options": [
+      "不需人工呼吸，只要確實地做好高品質壓胸即可",
+      "依然可以進行口對口人工呼吸，不要吹太大口就好",
+      "可以保持距離對病患口中吹氣",
+      "請身邊的人來對病患進行口對口人工呼吸"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.872Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "19625cf50fdc51b3a4144df64a42210d59949e41aaf5d0e8b82d53018d3454b6",
+    "question": "使用AED 時，下列何種情況是可以碰觸病人的?",
+    "options": [
+      "分析心律時",
+      "電擊病患時",
+      "貼貼片時",
+      "以上情況皆不能碰觸病人"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上情況皆不能碰觸病人",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.873Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8ca0984f6e74ab107ece3089d51193f70d958d16ae24a3c446b064d0dee41be2",
+    "question": "關於心臟疾病造成猝死的流行病學描述，下列何者最不適當?",
+    "options": [
+      "心臟疾病是台灣十大死因的第二名",
+      "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+      "施行CPR 能夠讓病人存活率提升為兩倍",
+      "執行AED 電擊能夠讓病人存活率提升為兩倍"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "執行AED 電擊能夠讓病人存活率提升為兩倍",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.873Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3065c089bb5714c7b029cf655a2757e48eebba4f71a57440bae91823b2b3c3f",
+    "question": "使用AED 進行電擊後，下一步要做什麼?",
+    "options": [
+      "確認病患意識",
+      "分析心律",
+      "確認病患呼吸",
+      "繼續胸部按壓"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "繼續胸部按壓",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.874Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "92c41f6b8024b3bc02ca48bbbf52e78eb9b95fd7e4284d5397093806503a98e4",
+    "question": "執行CPR 對人體的效果，下列何者最不適當?",
+    "options": [
+      "維持重要器官的灌流",
+      "減緩存活率下降的速度至每分鐘7-10%",
+      "可以增加病人的心臟輸出量",
+      "可以延後細胞死亡的時間"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "減緩存活率下降的速度至每分鐘7-10%",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.874Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "be6bec39f138df776a364985068eb59b48de5e89942e36c83c1332da6031ee49",
+    "question": "根據目前台灣的規範，下列哪類場所有設置AED，可於事發當下取出協助急\n救?",
+    "options": [
+      "四大超商",
+      "速食餐廳",
+      "學校機構",
+      "郵局銀行"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "四大超商",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:55:49.875Z",
+    "review_state": "candidate_ready"
   }
 ]
