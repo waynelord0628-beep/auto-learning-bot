@@ -179,5 +179,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:19:24.559Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b8b59aef8c6094c08f2c01c7e3a4af407c79ee581bfc914264983d4c63166a79",
+    "question": "國內政府計畫了六大項目總體規劃，創建搖籃到搖籃的行動計劃，哪些項目包含在內？",
+    "options": [
+      "農業",
+      "能源",
+      "都市規劃",
+      "交通"
+    ],
+    "type": "多選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T19:19:53.801Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
