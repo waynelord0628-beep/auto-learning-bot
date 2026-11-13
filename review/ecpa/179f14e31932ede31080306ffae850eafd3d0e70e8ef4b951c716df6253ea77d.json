@@ -180,5 +180,96 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T10:13:43.177Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "196501d4a7d7091e74b61df03a74b27f88bd142c72678f6f58612e1b05f2fdfc",
+    "question": "第二級生物安全櫃的下吹氣流(downflow)型態為何?",
+    "options": [
+      "由供氣HEPA流至操作區，再流過排氣HEPA排出或再回流",
+      "由排氣HEPA流至操作區，再流過供氣HEPA排出或再回流",
+      "由供氣HEPA流至操作區，再由操作區開口處排出至室內",
+      "由排氣HEPA流至操作區，再由操作區開口處排出至室內"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "由供氣HEPA流至操作區，再流過排氣HEPA排出或再回流",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:14:25.617Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "44c281458a13d7341d9586fd982ea2d3d7d11bc213536901be825f95c0a613e6",
+    "question": "生物安全櫃現場檢測的目的為何？",
+    "options": [
+      "確保安全櫃在合乎標準條件下，可在最低風險的程度下運作",
+      "教導操作人員如何安全的操作",
+      "定義安全櫃的安全等級",
+      "以儀器檢驗，量化安全櫃的安全性能"
+    ],
+    "type": "多選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-13T10:14:25.618Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ff05371eb6a3ec5737ed1dc7ae0e339aa3702d75597705d5df407674cc325585",
+    "question": "每次使用安全櫃前，必須經過薰蒸消毒程序。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:14:25.619Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0fb9807ed9b9711af1971658d403643a4b6d73ae86e955ae671fdef224fb83b",
+    "question": "生物安全櫃安裝應注意的事項有哪些？",
+    "options": [
+      "安裝遠離供/排氣口、門、窗戶與人員進出頻繁之區域",
+      "生物安全櫃排氣系統可連接建物非阻隔區排氣系統，以節約能源",
+      "預留彈性、清潔與性能測試規劃空間",
+      "安全櫃有過濾系統，故不需進行消毒薰蒸"
+    ],
+    "type": "多選",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-13T10:14:25.619Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "2b8c2f7500017fb39a58a9c7f9e1fc41a7691bb6185fd9ac54f2ee74517a6b7f",
+    "question": "BSL實驗室內的負壓及氣流為重要指標，進入實驗室試驗前，應注意壓力環境，氣流方向是否有異常。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃之選用、安裝與檢修保養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T10:14:25.620Z",
+    "review_state": "candidate_ready"
   }
 ]
