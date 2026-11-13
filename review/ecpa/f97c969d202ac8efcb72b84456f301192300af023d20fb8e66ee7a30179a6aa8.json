@@ -275,5 +275,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.305Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "aa13602660aa39240e22f3bb9dc200eee0e894503d3a420234fd5abaa479dac3",
+    "question": "量測生物安全櫃之下抽氣流速度，應使用何種儀器？",
+    "options": [
+      "風速計",
+      "風量計",
+      "風壓計",
+      "發煙管"
+    ],
+    "type": "單選",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "風速計",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:55.800Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d8bd27549a88b76eb900ae6487a8f4b8b95631cddbc00239d4581064b14c95e4",
+    "question": "進行生物安全櫃檢測時，須依規範中所要求的測試項目和標準進行檢測，並註明各項檢測結果是否合格，無須個別註記檢測數值。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-13T11:03:55.802Z",
+    "review_state": "candidate_ready"
   }
 ]
