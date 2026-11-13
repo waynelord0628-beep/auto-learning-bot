@@ -132992,5 +132992,30 @@
       "model": null,
       "checked_at": "2026-11-13T03:19:53.973Z"
     }
+  },
+  {
+    "question": "政府什麼時候進行第四次修憲，將「原住民」正名為「原住民族」，民族集體權正式獲得憲法認可？",
+    "type": "單選",
+    "options": [
+      "民國 80 年",
+      "民國 83 年",
+      "民國 86 年",
+      "民國 90 年"
+    ],
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "answer": "民國 86 年",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "民國 86 年",
+      "sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/e711be28-85e4-42d4-a93b-73299b03c53d",
+          "quote": "民國83年8月1日，憲法增修條文裡的「山胞」正式正名為「原住民」；86年第四次修憲時，更進一步將具有集體權屬性的「原住民族」入憲。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-13T07:21:18.235Z"
+    }
   }
 ]

@@ -394,13 +394,30 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "民國 83 年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T09:52:52.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-20T07:21:19.532Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "民國 86 年",
+      "sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/e711be28-85e4-42d4-a93b-73299b03c53d",
+          "quote": "民國83年8月1日，憲法增修條文裡的「山胞」正式正名為「原住民」；86年第四次修憲時，更進一步將具有集體權屬性的「原住民族」入憲。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-13T07:21:18.235Z"
+    },
+    "resolved_answer": "民國 86 年"
   },
   {
     "id": "4baa17d7396991956d16ba7cfa94cf209c03df780435600aa950502ba17270fc",
