@@ -10,19 +10,32 @@
     ],
     "type": "單選",
     "course": "食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T12:14:00.865Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
     "retry_after": "2026-11-08T10:19:44.019Z",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-10T07:20:09.763Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-21T01:19:58.630Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "業者可使用簡易及快速之檢驗方法(快篩片/快篩試劑)進行原料動物用藥殘留檢驗，並不需要再與公告之檢驗方式比對，即可確認產品之安全。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_82.html",
+          "title": "【解答】食品製程衛生安全與工廠缺失及緊急事件危機處理-以水產品-鯛魚片為例 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T01:19:57.596Z"
+    },
+    "resolved_answer": "業者可使用簡易及快速之檢驗方法(快篩片/快篩試劑)進行原料動物用藥殘留檢驗，並不需要再與公告之檢驗方式比對，即可確認產品之安全。"
   },
   {
     "id": "31fc99d5a33d1be0d94857661841060b47b540a7c2aee7221a10332c2821de43",
