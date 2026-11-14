@@ -103,13 +103,30 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.625Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-21T05:19:57.695Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:54.387Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "3b95bde02670a7b3e1b64230f1892d993ebac69004ff7b67675e04b588edb3db",
@@ -120,13 +137,27 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.626Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:54.662Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "2126c88f7ab31bbaeb104f5db2d282b1015317fd4da52a7b21cf60d7f80bab60",
@@ -139,13 +170,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "訂定性別目標",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.627Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "編製對應性別預算數",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:54.898Z"
+    },
+    "resolved_answer": "編製對應性別預算數",
+    "verification_status": "source_supported"
   },
   {
     "id": "40ec8500c1a7905e7510b2cbcce5a85ae16ea5696bbce12dc6b8aa40cfa93790",
@@ -158,13 +203,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "非屬前開4類業務類性之性別預算",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.627Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "無促進性別平等效果之其他預算",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:55.122Z"
+    },
+    "resolved_answer": "無促進性別平等效果之其他預算",
+    "verification_status": "source_supported"
   },
   {
     "id": "0259e11f05637098f4ae04fc967e5fbcc6daff907a7c1a31522b01b6afec94ad",
@@ -175,13 +234,27 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.627Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:55.343Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a260cd3139408cb87bf2336a8cbbacf5ee2236a0621397673c2ed29b0656a0d2",
@@ -192,13 +265,27 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.628Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:55.569Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "3ac1fa98ba53234f623a98f0712870bc1977cb8bc71736ef9727a1f38d545f81",
@@ -211,13 +298,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "性別預算是一個靜態過程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.628Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "性別預算是一個靜態過程",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:55.869Z"
+    },
+    "resolved_answer": "性別預算是一個靜態過程",
+    "verification_status": "source_supported"
   },
   {
     "id": "4e791294d9ad8b2487a5b492f44adf46be8dbc992f7ae436f3e17011ea272ec5",
@@ -230,13 +331,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "106",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.629Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "108",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.076Z"
+    },
+    "resolved_answer": "108",
+    "verification_status": "source_supported"
   },
   {
     "id": "cc20bd9cfde2d8cdd6affde7d9c441631997f613b0c42ef28ba770112055bd0b",
@@ -247,13 +362,27 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:15.629Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.312Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "a4677a28d83b769083b9c8efa52f6fcc5df6f0e735e20c619f742f7307fd20da",
@@ -266,13 +395,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "推動三合一政策之托育公共化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:47.471Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "性別工作平等法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.525Z"
+    },
+    "resolved_answer": "性別工作平等法",
+    "verification_status": "source_supported"
   },
   {
     "id": "65a0158f9337fead290bc2cd60aee7a69ba6e5556a0fb67e1c7003c7955b932a",
@@ -283,13 +426,27 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:47.472Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.537Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "791d85ea01ad0d37ec3a45745ea37a727f243d665d93ea5d06b6eedcbae682b4",
@@ -302,13 +459,27 @@
     ],
     "type": "單選",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建築法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:06:47.473Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "建築法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.753Z"
+    },
+    "resolved_answer": "建築法",
+    "verification_status": "source_supported"
   },
   {
     "id": "fc6938b9ddcbfb86a3b1af2a42fbb5e796cdfd6d86a96bcc7fcbf7bbbb7a7093",
@@ -319,12 +490,26 @@
     ],
     "type": "是非",
     "course": "性別預算概念與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T11:07:12.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:56.988Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
