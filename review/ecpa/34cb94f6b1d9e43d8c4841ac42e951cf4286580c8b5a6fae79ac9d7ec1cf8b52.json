@@ -244,13 +244,30 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "When(執行期程)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:09.400Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-21T07:19:51.618Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "When(執行期程)",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340383389",
+          "title": "方案管理與習作（基礎訓練）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T07:19:50.702Z"
+    },
+    "resolved_answer": "When(執行期程)"
   },
   {
     "id": "4f58e7f05fa5172ec6e78ec67385eb5a2eb83084f7b9972943a2527a13c28427",
@@ -329,13 +346,27 @@
     ],
     "type": "單選",
     "course": "方案管理與習作（基礎訓練）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "預算執行率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-02T06:38:43.105Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "預算執行率",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15340383389",
+          "title": "方案管理與習作（基礎訓練）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T07:19:50.970Z"
+    },
+    "resolved_answer": "預算執行率",
+    "verification_status": "source_supported"
   },
   {
     "id": "436eaf3b9a88b30145dee6ee378868144a6042a557fc80a3f47143f82140e3d5",
