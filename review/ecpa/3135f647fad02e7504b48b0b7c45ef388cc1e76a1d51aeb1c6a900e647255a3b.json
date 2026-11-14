@@ -449,12 +449,33 @@
     ],
     "type": "是非",
     "course": "公務人員如何維持行政中立",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-09T23:24:05.290Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-21T05:19:44.494Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_54.html",
+          "title": "「公務人員如何維持行政中立」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337701853",
+          "title": "公務人員如何維持行政中立《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-14T05:19:43.828Z"
+    },
+    "resolved_answer": "正確"
   }
 ]
