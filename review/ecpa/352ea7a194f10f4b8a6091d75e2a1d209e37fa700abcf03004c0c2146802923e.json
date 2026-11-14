@@ -178,13 +178,30 @@
     ],
     "type": "單選",
     "course": "溫室氣體盤查理論與基礎",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公噸二氧化碳當量(t CO2e)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-29T02:40:38.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-21T07:20:12.175Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "公噸二氧化碳當量(t CO2e)",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020102",
+          "quote": "以公噸二氧化碳當量（公噸 CO2e）表示，並四捨五入至小數點後第三位。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-14T07:20:11.448Z"
+    },
+    "resolved_answer": "公噸二氧化碳當量(t CO2e)"
   },
   {
     "id": "4814c917080d6e406bbbe4ee72495d4c73531ed549ce3575337d7671e469ddb4",

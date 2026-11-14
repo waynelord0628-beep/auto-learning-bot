@@ -133571,5 +133571,30 @@
       "model": null,
       "checked_at": "2026-11-14T07:19:50.970Z"
     }
+  },
+  {
+    "question": "依溫室氣體排放量盤查登錄及查驗管理辦法，排放量以何種單位表示？",
+    "type": "單選",
+    "options": [
+      "公斤二氧化碳當量(kg CO2e)",
+      "公噸二氧化碳(t CO2)",
+      "公噸二氧化碳當量(t CO2e)",
+      "千克二氧化碳當量(kg CO2e)"
+    ],
+    "course": "溫室氣體盤查理論與基礎",
+    "answer": "公噸二氧化碳當量(t CO2e)",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "公噸二氧化碳當量(t CO2e)",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020102",
+          "quote": "以公噸二氧化碳當量（公噸 CO2e）表示，並四捨五入至小數點後第三位。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-14T07:20:11.448Z"
+    }
   }
 ]
