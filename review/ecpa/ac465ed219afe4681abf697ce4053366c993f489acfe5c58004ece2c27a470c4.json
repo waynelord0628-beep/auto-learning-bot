@@ -178,5 +178,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-15T04:10:57.432Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "89784576176d61a4764b431b50b647cc57db7cb69cebde48b4563288858fb294",
+    "question": "閱讀較長的文件時，可以先利用心智圖了解主要內容與資料結構。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:11:45.878Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4a3cf9202e91e525ac8a18a290cd4b3c8c3c9e580b864966f7e8589aefb84bfa",
+    "question": "想確認 AI 回答中的某項資訊來自哪裡，最適合怎麼做？",
+    "options": [
+      "只看回答的字數",
+      "直接相信，不必確認",
+      "點選回答中的引用標記，查看原始來源段落",
+      "將筆記本重新命名"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "點選回答中的引用標記，查看原始來源段落",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:11:45.879Z",
+    "review_state": "candidate_ready"
   }
 ]
