@@ -448,6 +448,10 @@
     "candidate_answer": "未研訂揭弊者保護法",
     "source": "ai_unverified",
     "created_at": "2026-11-01T22:44:56.112Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-22T03:20:49.140Z",
+    "verification_status": "insufficient_sources"
   }
 ]
