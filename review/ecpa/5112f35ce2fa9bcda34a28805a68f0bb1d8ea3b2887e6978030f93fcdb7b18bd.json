@@ -32,10 +32,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "ACEDB",
     "source": "ai_unverified",
     "created_at": "2026-11-13T09:25:38.477Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-16T01:19:50.247Z"
   },
   {
     "id": "ce13525ce261420abceee01127a6db2b9c8578590f10df9a6da497ade56e5347",
@@ -51,9 +53,11 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "ABCE",
     "source": "ai_unverified",
     "created_at": "2026-11-13T09:25:38.478Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "candidate_ready",
+    "retry_count": 1,
+    "retry_after": "2026-11-16T01:19:50.247Z"
   }
 ]
