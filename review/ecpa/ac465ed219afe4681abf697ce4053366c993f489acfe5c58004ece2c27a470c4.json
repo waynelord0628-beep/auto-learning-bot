@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ca37edb02e50ad6388813044ca34e552b625681d1058ebb7189d818b636ac88d",
+    "question": "Deep Research 完成後，必須將找到的所有來源全部匯入，不能自行選擇。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.424Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6a66fe9e2f2ad8542e8fb5b198311540c66d1f57c7d2b23b4b47c2105d4c3d2d",
+    "question": "想了解同一議題在多次會議中的決議變化，最適合請 AI 如何整理？",
+    "options": [
+      "只列出檔案大小",
+      "只整理最後一次會議",
+      "將內容隨機排序",
+      "依時間順序列出各次會議決議與後續辦理事項"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "依時間順序列出各次會議決議與後續辦理事項",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.427Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4c1d127095fd6497811612f601da1d00ffe6877644763a404a59e1f5843ee2c1",
+    "question": "使用課程提供的提問範本時，不必配合自己的資料修改年份、主題或問題內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.428Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "dcd36a0d85ada778985458e8abfb3cb196a00fdf1af3613d1f8f7359703438c4",
+    "question": "將資料上傳 AI 工具前，應先檢查並移除個人資料及機敏內容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.428Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "cda484d6732c72ee6c9dab2753d7cf03e706f03702b153ab7ebf4f73b4eab2ab",
+    "question": "AI 產出的內容只要看起來完整，就不需要再查證事實或驗算數字。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.429Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7e77c9dd56b24fd1e2a842144d5440b1db3f1f1b90daea25ca082be183ccee22",
+    "question": "比較兩份相關資料時，可以請 AI 用表格呈現差異，並標示資料出處。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.429Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "526ac33b442577db689b185d4a9b1e2155cea3fcd2fc1eebd7b50ce27c64b823",
+    "question": "已將有用的回答儲存為記事，若想據此繼續分析，可以怎麼做？",
+    "options": [
+      "先刪除記事",
+      "將記事轉為來源，再進行提問或整理",
+      "只修改電腦桌布",
+      "不必使用記事內容，直接猜測"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "將記事轉為來源，再進行提問或整理",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.430Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8fed3c66ea30338d44849ea695d5b2749fe0918d3709f97e77c53a74a36596b0",
+    "question": "想請 AI 製作符合需求的簡報，事前提供哪一項資訊最有幫助？",
+    "options": [
+      "今天的午餐內容",
+      "電腦桌布的名稱",
+      "簡報用途、對象、時間、頁數及每頁重點",
+      "只說「幫我做簡報」"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "簡報用途、對象、時間、頁數及每頁重點",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.431Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3efc15c141cb42a3bea46592310070da9daa15ffafce910e41910c945df28bb",
+    "question": "想請 AI 將一份文件整理成容易閱讀的摘要，下列哪一種提問較清楚？",
+    "options": [
+      "請用不超過300字，條列整理這份文件的核心要點",
+      "幫我看看",
+      "請隨便寫一段",
+      "只要文字越多越好"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "請用不超過300字，條列整理這份文件的核心要點",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.431Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "82ca39ef8ace116781931c99c0e2cf1c8b3907dc756a0a1314bd9dd454b9d2da",
+    "question": "只想針對筆記本中的一份文件提問，應如何選擇資料來源？",
+    "options": [
+      "將所有來源全部勾選",
+      "只勾選要使用的那份文件",
+      "將所有來源全部刪除",
+      "只修改筆記本名稱"
+    ],
+    "type": "單選",
+    "course": "NotebookLM全面攻略",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "只勾選要使用的那份文件",
+    "source": "ai_unverified",
+    "created_at": "2026-11-15T04:10:57.432Z",
+    "review_state": "candidate_ready"
+  }
+]
