@@ -133596,5 +133596,218 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-14T07:20:11.448Z"
     }
+  },
+  {
+    "question": "常用的遙測波段(藍光、綠光、紅光、紅外光、微波等)波長最長為微波。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:48.265Z"
+    }
+  },
+  {
+    "question": "關於綠葉指標(GLI)，公式何者正確？",
+    "type": "單選",
+    "options": [
+      "GLI=(2G-R-B)/(2G+R+B)",
+      "GLI=(2G+R+B)/(2G-R-B)",
+      "GLI= (G+R)/(G-R)",
+      "GLI= (G-R)/(G+R)。"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "GLI=(2G-R-B)/(2G+R+B)",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "GLI=(2G-R-B)/(2G+R+B)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:48.568Z"
+    }
+  },
+  {
+    "question": "當GLI計算值大於0的區域則可視為有綠色植物覆蓋。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.091Z"
+    }
+  },
+  {
+    "question": "關於遙測衛星影像種類，下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "大部分屬於被動式遙測影像",
+      "大部分屬於主動式遙測影像",
+      "被動式與主動式遙測影像大致一樣多",
+      "都不屬於被動式或主動式遙測影像。"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "大部分屬於被動式遙測影像",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "大部分屬於被動式遙測影像",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.455Z"
+    }
+  },
+  {
+    "question": "針葉林在近紅外光反射率比闊葉林更高。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.707Z"
+    }
+  },
+  {
+    "question": "垂直照片即正射照片。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.974Z"
+    }
+  },
+  {
+    "question": "對遙測影像植被分析來說，哪個光譜最為重要？",
+    "type": "單選",
+    "options": [
+      "綠光",
+      "紅光",
+      "近紅外光",
+      "微波。"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "近紅外光",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "近紅外光",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:50.521Z"
+    }
+  },
+  {
+    "question": "關於常態化差異綠紅差值指標(NGRDI)，當值越接近-1，通常代表綠色植物生長越茂盛。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:50.740Z"
+    }
+  },
+  {
+    "question": "遙測影像通常會製作成假色影像，是因為要呈現非可見光反射率成果。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "遙測影像分析應用實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:51.063Z"
+    }
   }
 ]

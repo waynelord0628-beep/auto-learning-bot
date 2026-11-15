@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.696Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-22T00:19:51.758Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:48.265Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "cc7a317f71e128cdcbf90d0f758fa98b94a3bb7e01e9a3d873dcb3e197bc750d",
@@ -27,13 +44,27 @@
     ],
     "type": "單選",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "GLI=(2G-R-B)/(2G+R+B)",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "GLI=(2G-R-B)/(2G+R+B)",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:48.568Z"
+    },
+    "resolved_answer": "GLI=(2G-R-B)/(2G+R+B)",
+    "verification_status": "source_supported"
   },
   {
     "id": "4517befb0b2f731c76b80cfc8af4e21f03fd86c0c61baaafc0e689c788c4dc96",
@@ -44,13 +75,27 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.091Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "92e400dc3fc8ce3d0120e646a35b4a751d1690902d1402c33b8ba997c5f00671",
@@ -63,13 +108,27 @@
     ],
     "type": "單選",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "大部分屬於被動式遙測影像",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.697Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "大部分屬於被動式遙測影像",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.455Z"
+    },
+    "resolved_answer": "大部分屬於被動式遙測影像",
+    "verification_status": "source_supported"
   },
   {
     "id": "3229c42ca90b0a98f2bf9f8583eb947b0e05a1348f5f6fcd0392dc20fed13172",
@@ -80,13 +139,27 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.707Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "12993e9bfa07c66da75b9917062930cf9bd7fbcc7f4e250032f74b2d30eb385a",
@@ -97,13 +170,27 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.698Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:49.974Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "79a129d9fb3bb507ab02a419d34aad04ce5783eb6867a829b4015fcda02cdbf4",
@@ -133,13 +220,27 @@
     ],
     "type": "單選",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "近紅外光",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.699Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "近紅外光",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:50.521Z"
+    },
+    "resolved_answer": "近紅外光",
+    "verification_status": "source_supported"
   },
   {
     "id": "40301645358258de62c1f1cc07a799f6e816be3b119ef796a0e89f6a1e017f76",
@@ -150,13 +251,27 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.699Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:50.740Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "949f99f97a76d22286c859803367f23d1e02e1bd7948d5551fb9dee615f7ef92",
@@ -167,12 +282,26 @@
     ],
     "type": "是非",
     "course": "遙測影像分析應用實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T04:19:09.699Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_480.html",
+          "title": "「遙測影像分析應用實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-15T00:19:51.063Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
