@@ -133809,5 +133809,201 @@
       "model": null,
       "checked_at": "2026-11-15T00:19:51.063Z"
     }
+  },
+  {
+    "question": "環境部氣候署的溫氣體排放量盤查登錄作業系統介面包含基本資料、邊界設定、排放源鑑別及排放量量化等操作介面。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:24.641Z"
+    }
+  },
+  {
+    "question": "溫氣體排放量盤查登錄作業系統中仍有提供盤查作業指引及溫室氣體盤查管理辦法等資訊,提供操作者查詢。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:27.634Z"
+    }
+  },
+  {
+    "question": "事業如何在溫室氣體排放量盤查登錄作業系統中登錄新一年度的盤放量盤查資料?",
+    "type": "單選",
+    "options": [
+      "新增盤查登錄表單",
+      "複製盤查登錄表單",
+      "匯入盤查登錄表單",
+      "以上皆是"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:29.361Z"
+    }
+  },
+  {
+    "question": "在溫室氣體排放量盤查登錄作業系統之基本資料中,政府機關之登錄類別應為何?",
+    "type": "單選",
+    "options": [
+      "自願性登錄",
+      "擴大列管對象",
+      "依法盤查登錄",
+      "以上皆是"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "自願性登錄",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "自願性登錄",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:30.344Z"
+    }
+  },
+  {
+    "question": "哪項不是在進行溫室氣體排放源鑑別時,每項排放源需要掌握的資訊?",
+    "type": "單選",
+    "options": [
+      "設備名稱",
+      "原燃物料名稱",
+      "排放類型/型式",
+      "設備使用年限"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "排放類型/型式",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "排放類型/型式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:31.214Z"
+    }
+  },
+  {
+    "question": "取得各項排放源所使用之原燃物料的活動數據來源有哪些?",
+    "type": "單選",
+    "options": [
+      "使用量紀錄表",
+      "採購單據、台電繳費單據",
+      "人員出缺勤紀錄表",
+      "以上皆是"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:32.393Z"
+    }
+  },
+  {
+    "question": "那一項非溫室氣體排放量的計算方式?",
+    "type": "單選",
+    "options": [
+      "排放係數法",
+      "質量平衡法",
+      "直接監測法",
+      "儀器計量法"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "儀器計量法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "儀器計量法",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:35.885Z"
+    }
+  },
+  {
+    "question": "溫室氣體排放量表示單位為何?",
+    "type": "單選",
+    "options": [
+      "公斤/兆焦耳",
+      "公噸CO2e/年",
+      "公噸CH4 /年",
+      "公噸N2O/年"
+    ],
+    "course": "溫室氣體排放量盤查系統操作說明",
+    "answer": "公噸CO2e/年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "公噸CO2e/年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:39.223Z"
+    }
   }
 ]

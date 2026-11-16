@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.536Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-23T05:20:41.717Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:24.641Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a4fb4442ab2fe5a5fef2668dd8cc5f84adf35d972a49086951f9dda415a79d14",
@@ -42,13 +59,27 @@
     ],
     "type": "是非",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.538Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:27.634Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "ad1ac8429eacf06859df80bef1a0a020f0c066fb4a7039764206ed43ddf6f14c",
@@ -61,13 +92,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.539Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:29.361Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "869351c6c689a16b5ce8992f447f528f2c11c8d42629e86a9e3117549258d879",
@@ -80,13 +125,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.539Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "自願性登錄",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:30.344Z"
+    },
+    "resolved_answer": "自願性登錄",
+    "verification_status": "source_supported"
   },
   {
     "id": "42573f397a12a36f19917cd5be94b9a313839d2efec353786671b35aa1541fcd",
@@ -99,13 +158,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "設備使用年限",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.540Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "排放類型/型式",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:31.214Z"
+    },
+    "resolved_answer": "排放類型/型式",
+    "verification_status": "source_supported"
   },
   {
     "id": "709e6e417dd1a044f7c42d524b196e19f19bea6c2ff1e41d2647839271cbd49c",
@@ -118,13 +191,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.540Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:32.393Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "b15ed4fd1737ee1b1fe7e50bcc1c14d943682a62921fd6b4376b42db2091d7f0",
@@ -156,13 +243,27 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "儀器計量法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.542Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "儀器計量法",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:35.885Z"
+    },
+    "resolved_answer": "儀器計量法",
+    "verification_status": "source_supported"
   },
   {
     "id": "40411035f57bec2226a31087d142141bcc748d295fe0a83143c182c35e7cc663",
@@ -175,12 +276,26 @@
     ],
     "type": "單選",
     "course": "溫室氣體排放量盤查系統操作說明",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公噸CO2e/年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T05:38:50.542Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "公噸CO2e/年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347432393",
+          "title": "溫室氣體排放量盤查系統操作說明《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T05:20:39.223Z"
+    },
+    "resolved_answer": "公噸CO2e/年",
+    "verification_status": "source_supported"
   }
 ]
