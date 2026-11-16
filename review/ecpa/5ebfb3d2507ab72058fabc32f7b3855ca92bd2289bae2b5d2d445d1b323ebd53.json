@@ -8,17 +8,30 @@
     ],
     "type": "是非",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.949Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-13T04:20:22.745Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-23T06:20:02.743Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:19:59.304Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3264d5a3f5f13e38b6694f05ff482b3f2f439133213f815c79d670c418b46ddd",
@@ -31,17 +44,30 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可進入、可取得",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.951Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-13T04:20:37.505Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "可進入、可取得",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:19:59.514Z"
+    },
+    "resolved_answer": "可進入、可取得"
   },
   {
     "id": "82b6aa5f000fd60062d17931a1833d3aa56fcc0547fa090428450dbb0e11070f",
@@ -52,13 +78,27 @@
     ],
     "type": "是非",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.952Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:19:59.758Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "57935a974a9a6e46475f373a6c5560e48cc6392909e81f8a83c83024562d8203",
@@ -69,13 +109,27 @@
     ],
     "type": "是非",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.953Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:00.168Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "c95ce30eb671f98aa3728f129204e956b96d0ead1f97b4e71114a14887de537f",
@@ -88,13 +142,27 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "打折",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.954Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "打折",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:00.553Z"
+    },
+    "resolved_answer": "打折",
+    "verification_status": "source_supported"
   },
   {
     "id": "5ee889d8da42920efbb1b73d8f8308facc152908334489aed2c51c4b5662e846",
@@ -107,13 +175,27 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "電源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "電源",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:00.890Z"
+    },
+    "resolved_answer": "電源",
+    "verification_status": "source_supported"
   },
   {
     "id": "9fbb4d4cf47261caa3148a44b89afceacefc2cd056993b95647bb81ab25413fb",
@@ -126,13 +208,27 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在…條件下",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.955Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在…條件下",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:01.221Z"
+    },
+    "resolved_answer": "在…條件下",
+    "verification_status": "source_supported"
   },
   {
     "id": "8f5d84713a29100ed6f9e75b258ab89f0a9a9389b39a0b06a710d876bb2f02ac",
@@ -145,13 +241,27 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "分配、分發",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.956Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "分配、分發",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:01.479Z"
+    },
+    "resolved_answer": "分配、分發",
+    "verification_status": "source_supported"
   },
   {
     "id": "c58a0ffe81a21d5b1f8fa9ac89982e0bcfe24405069753177d92170e365a10f4",
@@ -162,13 +272,27 @@
     ],
     "type": "是非",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.957Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:01.719Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "2e0c56063dd254b6edb8e893bcc92e496d65a0a0827914e14bb90c063aa08f9a",
@@ -181,12 +305,26 @@
     ],
     "type": "單選",
     "course": "英檢初級衝刺班(上)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "日/夜班",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-28T18:01:57.959Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "日/夜班",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15337627205",
+          "title": "英檢初級衝刺班(上)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-16T06:20:01.970Z"
+    },
+    "resolved_answer": "日/夜班",
+    "verification_status": "source_supported"
   }
 ]
