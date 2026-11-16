@@ -435,5 +435,138 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.875Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "0e9b7d00ca269f2544d5d3859e7cd93ec3c4d343502cf2c931ecf1f562b99e70",
+    "question": "你和朋友去爬山，聽到有人大叫「救命啊!」向你求救，你們加快腳步往前移\n動到案發地點，你朋友正在打119 求救，請問接下來你應該先做什麼?",
+    "options": [
+      "立即衝到病人旁邊開始評估病人有沒有反應",
+      "現場是山區，應該先評估現場環境是否安全",
+      "為搶救黃金時間，應該立即開始幫病人CPR",
+      "請朋友趕快做CPR，自已趕緊衝下山拿AED"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "現場是山區，應該先評估現場環境是否安全",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.921Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d6de1f65cc8b5caf6795df4da0bee818071e8aef612adb88e1b4a790fc6156b7",
+    "question": "為何現在民眾版CPR 不用確認有無脈搏再決定要不要急救，下列敘述何者最\n適當?",
+    "options": [
+      "非專業人士可能誤判",
+      "可提早開始進行壓胸",
+      "呼吸和脈搏是同步的",
+      "沒有意識就沒有脈搏"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "非專業人士可能誤判",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.929Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "edfbff6a7cecf8967fd85f237e1e2712a2d335256cdd1c4a778a36599e5d0a76",
+    "question": "根據AED 的使用原則，依照AED 指示操作，要到甚麼時候，可以考慮停止\nCPR，何者最適當?",
+    "options": [
+      "急救醫護人員抵達時",
+      "AED 再次分析時",
+      "自己精疲力盡請旁人換手時",
+      "以上時機皆可考慮停止"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上時機皆可考慮停止",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.930Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff33d78069cb3e25b4c032c204abcaf78251c84e7d9e16ea6ea2b5501a715645",
+    "question": "請問「好薩瑪利亞人法」是指?",
+    "options": [
+      "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+      "醫師法中，醫師如遇病患有緊急醫療需求不得拒絕的條款",
+      "青少年保護法中，成年人有維護兒童及少年健康，促進其身心健全發展的義務",
+      "獎勵市民樂心助人的相關法條"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.933Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "362dc89012751ddf4ea227dfa11c74493021ff35e557b187c974b86618787491",
+    "question": "何時可以停止急救?",
+    "options": [
+      "醫療救護人員抵達",
+      "病患恢復意識或開始躁動",
+      "以上情況皆可停止",
+      "以上情況皆不可停止"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上情況皆可停止",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.935Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d430da45ae4c9fce4f4ed87fd4cd1cd09371682f60966f256435d98624c14963",
+    "question": "請問全民守護者App 的功能是?",
+    "options": [
+      "提供交通及道路指引",
+      "提供健康狀況諮詢",
+      "協助警察打擊罪犯",
+      "協助緊急醫療系統支援CPR 案件"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "協助緊急醫療系統支援CPR 案件",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.937Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ab116c7724b5e960ada6cbdc56e8355a62617f4a4e77f436fd9d3760111a5af3",
+    "question": "病人沒有意識、無正常呼吸，準備開始壓胸急救，下列哪個選項是「無正常\n呼吸」?",
+    "options": [
+      "8 秒1 次呼吸",
+      "快而深的呼吸",
+      "淺而快的呼吸",
+      "慢而長的呼吸"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "8 秒1 次呼吸",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:26:29.937Z",
+    "review_state": "candidate_ready"
   }
 ]
