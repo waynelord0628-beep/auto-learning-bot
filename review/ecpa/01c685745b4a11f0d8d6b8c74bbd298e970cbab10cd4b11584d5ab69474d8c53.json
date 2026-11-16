@@ -1,0 +1,172 @@
+[
+  {
+    "id": "d7bce4b0fb7e395b66c250695f202df088bd158edb0c04a8cd91d656e966d31c",
+    "question": "獎懲案件維護作業，查詢條件頁面，可以於「主旨」或「明細事由」欄位輸入關鍵字查詢獎懲案件。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.892Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f75622213bfc46a07927ef2dab49c4b92e5198dca7db88d366d989d2b587c26",
+    "question": "獎懲統計可以區分性別、內部單位或人員區分等項進行統計作業。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.894Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a80bf1ccfb7c5da204b8ef623ba75db9e1ae824122a048e089f67d304a7a118d",
+    "question": "獎懲統計的資料來源為個人基本資料檔的表21獎懲資料表中核定日期欄位的年月資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.896Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7f05fe39740ed3f11a3ffbdcc341edb11be8b479a62e4c33521b05bcad4af84f",
+    "question": "獎懲案件核定後，若當事人的資料仍在原機關，將自動更新回個人基本資料表21獎懲資料表。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.897Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "15dd230cb17e60de95001c6663ffe598ed638d151a0d3e1191b1b252350d729c",
+    "question": "獎懲明細維護，「其他事項」欄位是指針對被獎懲人員註記事項使用，會顯示於令函，並會傳送至MyData。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.898Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "54abbde12bef59155063fedb0737d532f7368d42e40c98521255087edd82f5ba",
+    "question": "獎懲案件維護，「文稿編號」欄位具唯一性且可以自訂，例如日期加流水號。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.899Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fe33070fc8973d774cffb378f19b3dea9bed8a97321d74e2b80acef50fab0d1b",
+    "question": "獎令核定後因故可進行「核定後更正」，修正核定案件後須重新核定，覆蓋原核定資料、表21及MyData。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.899Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9578a4173ba15f9474cbb2a2c4e24f4194c08f3246cf04203ae2dd6927a6e497",
+    "question": "撤銷獎懲作業必須全案註銷，無法針對個人進行註銷作業。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.900Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b0649fb81dea0fcad3242088ac6d32aee2f4262f8c9dcfeef7fc6f925bccc89f",
+    "question": "獎懲案件維護作業，紅色標示的欄位，案件核定後其欄位資料會顯示於MyData線上電子獎令上。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.901Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9913f27668f31a95a4faa34da0e435d0b7bd9949765750d6fc0199fa7421f704",
+    "question": "維護獎懲案件人員明細資料，可下載格式檔使用匯入CSV作業功能匯入資料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "WebHR獎懲作業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T11:41:06.902Z",
+    "review_state": "candidate_ready"
+  }
+]
