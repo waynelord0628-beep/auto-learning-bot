@@ -284,5 +284,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:45:04.191Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cd792dcfc6b1738554d8ec4bfd0023e0e8d5fc541200443dda6a9f02d252e6e1",
+    "question": "臺灣非常的前瞻，早在2020年中就跟韓國、中國、日本一樣宣示2050達到碳中和。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:23:36.027Z",
+    "review_state": "candidate_ready"
   }
 ]
