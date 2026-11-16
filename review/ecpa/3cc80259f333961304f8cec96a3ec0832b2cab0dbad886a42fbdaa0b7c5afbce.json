@@ -610,5 +610,43 @@
       "checked_at": "2026-10-20T03:20:44.773Z"
     },
     "resolved_answer": "與政府合作建立「開放資料即服務」的文化與實務管道"
+  },
+  {
+    "id": "57076ba502661ce5c7203394c544bed5741aadbb014ef206a133c5af810e3a65",
+    "question": "根據課程內容，如何讓 AI 成為可靠的工作夥伴？",
+    "options": [
+      "以「半自動、可監督」的方式導入 AI",
+      "完全自動化，不需人工監督",
+      "完全由人工操作，不使用 AI",
+      "需要大型專案或採購程序"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以「半自動、可監督」的方式導入 AI",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T16:46:46.188Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3610a2fc44dc2b7c86a5ce6d80997446b9cbeca5988bf10c22d2d66c7ae11d6",
+    "question": "新加坡導入「新加坡數據保護國家認證」制度的主要目的是什麼？",
+    "options": [
+      "限制企業資料跨境傳輸",
+      "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+      "強迫企業將所有資料儲存在新加坡境內",
+      "僅適用於政府部門，不適用於企業"
+    ],
+    "type": "單選",
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T16:46:46.204Z",
+    "review_state": "candidate_ready"
   }
 ]
