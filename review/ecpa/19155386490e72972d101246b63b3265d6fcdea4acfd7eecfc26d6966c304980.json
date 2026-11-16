@@ -188,5 +188,157 @@
     "source": "ai_unverified",
     "created_at": "2026-11-16T10:37:17.703Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8477dc79d4129945e657e6fd7b24e8d5730256181f865df73e3f2fa6979baada",
+    "question": "下列何者非屬公務人員任用法第17條第2項第1款規定所稱之「考試」？",
+    "options": [
+      "公務人員高等考試",
+      "公務人員薦任升官等考試",
+      "專門職業及技術人員高等考試",
+      "分類職位第六職等升等考試"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "專門職業及技術人員高等考試",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.457Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "212270347f5d974cd81acd951e3fa09dad849429eb9a2076a126290158e1423b",
+    "question": "委任公務人員晉升薦任官等訓練遴選評分標準表所定之考試與學歷、訓練進修、年資、考績、獎懲及綜合考評項目，其各項評分採計之時點為何？",
+    "options": [
+      "當年度3月31日",
+      "當年度4月30日",
+      "前一年度12月1日",
+      "前一年度12月31日"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "當年度3月31日",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.461Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2228821f324358f0a3ea9eb90db08bb78581c23cd3c89d1782485463ebe7ea79",
+    "question": "某壬係109年委任公務人員晉升薦任官等訓練保留受訓資格人員，於保留原因消滅後，依規定向保訓會申請補訓，並經核准在案，其所遺當年度缺額未經遞補。下列敘述何者正確？",
+    "options": [
+      "某壬須參加遴選，且其參訓應計入主管機關分配受訓之名額",
+      "某壬不須參加遴選，但其參訓應計入主管機關分配受訓之名額",
+      "某壬須參加遴選，但其參訓不計入主管機關分配受訓之名額",
+      "某壬不須參加遴選，且其參訓不計入主管機關分配受訓之名額"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "某壬不須參加遴選，但其參訓應計入主管機關分配受訓之名額",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.463Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f5d5a1fda75d0bc80c152df2e7f8b115768007e3264262318e3361b55051d4dc",
+    "question": "下列有關公務人員晉升官等訓練參訓資格之敘述，何者正確？",
+    "options": [
+      "合格實授現任委任第五職等職務人員，須已晉敘至委任第五職等年功俸最高級",
+      "合格實授現任委任第五職等職務人員，最近3年年終考績須2甲1乙以上",
+      "合格實授現任薦任第九職等職務人員，經高級中等學校畢業者，須任合格實授薦任第九職等職務滿8年",
+      "合格實授現任薦任第九職等職務人員，須已晉敘至薦任第九職等年功俸最高級"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "合格實授現任薦任第九職等職務人員，須已晉敘至薦任第九職等年功俸最高級",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.464Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "779df66a9cb4662fbb8032dab5abcc58f9fa1fe48ba1284b85792412f9bbb343",
+    "question": "依公務人員任用法第17條規定，公務人員晉升官等的方式，下列何者最為正確？",
+    "options": [
+      "經晉升薦任官等訓練合格",
+      "應升官等考試及格",
+      "經晉升簡任官等訓練合格",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.465Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1fcd74bbf672dd0e82ac39e19d0ce21c13f58728653feb7480a82c886252db0f",
+    "question": "下列何者非屬公務人員任用法第17條第6項第1款所定之考試範圍？",
+    "options": [
+      "普通考試",
+      "丁等考試",
+      "相當普通考試之特種考試",
+      "相當委任第三職等以上之銓定資格考試"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "丁等考試",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.466Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e9bd730326ecfa404844b8e993789e91f2449156314a71c1e97c800f8d6322af",
+    "question": "未經簡任升官等考試及格，經公務人員高等考試及格人員，擬參加晉升簡任官等訓練，須任合格實授薦任第九職等職務滿幾年？",
+    "options": [
+      "3年",
+      "6年",
+      "8年",
+      "10年"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "8年",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.467Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "31855a3bd2b0e9f5fa90e4f3ec5fcfd03cb13f1056ad4682acb3dd9c287c8b99",
+    "question": "G機關經保訓會依調訓比例分配受訓名額共102人，其應加列多少備選名額？",
+    "options": [
+      "9人",
+      "10人",
+      "11人",
+      "12人"
+    ],
+    "type": "單選",
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "10人",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T10:37:53.469Z",
+    "review_state": "candidate_ready"
   }
 ]
