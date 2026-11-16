@@ -287,5 +287,24 @@
     "source": "reported_question",
     "created_at": "2026-11-16T14:25:08.161Z",
     "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "20f460fc8e84bd0f9a4c31fbbc7b43daac3b169432a5123754c5a1f974ce9f64",
+    "question": "請問下列關於政府對於C2C的合作計劃，哪些敘述是正確的？",
+    "options": [
+      "創建搖籃到搖籃之行動計畫",
+      "成立台灣搖籃到搖籃策略聯盟",
+      "推動溝通橋樑",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "4. 以上皆是",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:26:03.575Z",
+    "review_state": "awaiting_evidence"
   }
 ]
