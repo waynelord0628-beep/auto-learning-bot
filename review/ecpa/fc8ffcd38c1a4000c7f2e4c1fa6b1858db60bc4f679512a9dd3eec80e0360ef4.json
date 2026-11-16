@@ -198,5 +198,94 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:19:53.801Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "12fc07f9c79a8bcaa7c52bfd973516461f1a283b948f3f308f9aa77986c8ed1d",
+    "question": "請問下列何者不屬於C2C的三大原則？",
+    "options": [
+      "廢棄物即養分",
+      "鼓勵使用再生資源",
+      "提倡多樣性",
+      "節約水資源"
+    ],
+    "type": "單選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "節約水資源",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:25:08.158Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "5191ccafd13e3dd29a8590cbbf8b1e2a5114a42b3eaa9c61e54237261812c913",
+    "question": "C2C的運作是一種循環模式，請問下列何者關於觀念的改變敘述是錯誤的？",
+    "options": [
+      "從「搖籃到墳墓」到「搖籃到搖籃」",
+      "從「循環式思考」到「直線式思考」",
+      "從3R到C2C",
+      "以上皆非"
+    ],
+    "type": "單選",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "從「循環式思考」到「直線式思考」",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:25:08.159Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "971e93fefafcefe16f4741333f0212237098357bb1b6ac6100921b11297197c1",
+    "question": "產品設計若具有生物或工業循環性，是無法將「廢棄物」成為生物或工業循環當中的「養分」，對人類和地球沒有太多的益處。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "錯誤",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:25:08.160Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "c88011d83acd74e54c5fbfb3bda801a9d9f390b2f1aac9fbd9e4b4abb4a29515",
+    "question": "「搖籃到搖籃」簡稱為C2C，是一種重新設計產品材料的概念，主張的是向大自然學習，所有物質都是養分，都可以循環利用。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:25:08.160Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "eb36f8280bd2c3ed5dcc32d8957609eed7726741fb7c76d8dba6db012d6f2200",
+    "question": "不斷循環地利用養分、材料，使每一個物料都能循環使用，使世界不再有「垃圾」的概念，為C2C的益處之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "搖籃到搖籃，新綠生活",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "正確",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-16T14:25:08.161Z",
+    "review_state": "awaiting_evidence"
   }
 ]
