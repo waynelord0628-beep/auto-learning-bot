@@ -487,5 +487,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:09:32.635Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "bbd4febb197ab1f841495758b5055cbaddfa1c347836933dc5b047b010b32ddf",
+    "question": "哪條公約是共識度最高的國際公約？",
+    "options": [
+      "公民與政治權利國際公約ICCPR",
+      "經濟社會文化權利國際公約ICESCR",
+      "消除對婦女一切形式歧視公約 CEDAW",
+      "兒童權利公約CRC"
+    ],
+    "type": "單選",
+    "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "公民與政治權利國際公約ICCPR",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T16:10:07.960Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d553947fee114942fbcdcbf0414effac2ec32a7ee7a34c8cf582ca97f6a720cb",
+    "question": "撰寫及報告提交、問題清單、回覆清單、審查會議、結論性意見與建議、落實追蹤，是臺灣的核心人權公約審查週期。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T16:10:07.976Z",
+    "review_state": "candidate_ready"
   }
 ]
