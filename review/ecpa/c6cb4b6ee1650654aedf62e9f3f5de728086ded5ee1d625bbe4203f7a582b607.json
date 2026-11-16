@@ -682,5 +682,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.077Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d82741809b11a37f8ea2cf08a951cdfbd299fe135e41215e116667e82aad12ea",
+    "question": "下列關於胸部按壓，何者最不適當?",
+    "options": [
+      "壓胸時應該跪在病患的頭側",
+      "壓胸位置在兩乳頭連線的中點",
+      "壓胸速度每分鐘100-120 下",
+      "每下壓胸之間應該要讓胸部有完全的回彈"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:27:30.993Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "131624ff56b929cac9762f028a224b2032a8e7057713435a804b5be04acf5b1c",
+    "question": "遇到有疑似心跳停止的個案，如果身邊沒有其他人應該如何處理?",
+    "options": [
+      "直接開始胸部按壓",
+      "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+      "盡快去找旁人幫忙",
+      "搬運病患到路邊叫救護車"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:27:30.997Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "2307b3430cea0b1e1cf44d4e836906fa47781ec4ec2bd8f8857494ee73da5b19",
+    "question": "119 派遣員如接獲疑似心跳停止的報案電話，將引導報案民眾進行下列何者?",
+    "options": [
+      "請報案民眾至門口揮手，引導救護車",
+      "請報案民眾出門尋找最近的AED",
+      "請報案民眾依照派遣員引導開始進行胸部按壓",
+      "請報案民眾先將病患叫醒，再行報案"
+    ],
+    "type": "單選",
+    "course": "民眾版CPR+AED教學影片",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-16T14:27:30.999Z",
+    "review_state": "awaiting_candidate"
   }
 ]
