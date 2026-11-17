@@ -278,7 +278,11 @@
     "candidate_answer": "參與的人數是否逐年提升？",
     "source": "ai_unverified",
     "created_at": "2026-11-04T00:57:58.816Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-24T10:20:35.208Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "276613ff0f2f7e371093a95a699df68243ebecc7873a7ed08bc1b0a67875d9b6",
