@@ -134961,5 +134961,235 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-17T10:20:20.083Z"
     }
+  },
+  {
+    "question": "退休案件申請作業，若有修改年資欄位資料，應再點擊「試算年資」鈕即自動更新相關欄位。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:50.058Z"
+    }
+  },
+  {
+    "question": "退休申請案件資料維護，欄位「107.7.1前是否已成就月退條件」為系統自動判斷，修改退休年資資料，後點擊「試算年資」鈕即會更新。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:50.450Z"
+    }
+  },
+  {
+    "question": "教育人員113年8月1日以後經核定退休生效者，得至MyData網站下載數位退休證，不再發給紙本退休證。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:50.804Z"
+    }
+  },
+  {
+    "question": "退休申請案件狀態為「填寫中」，表示案件仍在申請端，申請端仍可編輯申請資料或刪除退休案件。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:51.083Z"
+    }
+  },
+  {
+    "question": "撫慰案遺屬金申請，維護眷屬資料，系統將會比對退撫平臺定期給與發放資料出現提示訊息對話框。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:51.493Z"
+    }
+  },
+  {
+    "question": "退休案件申請，若「107.7.1前是否已成就月退條件」欄位為「否」，表示毋須計算「均薪」資料。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:51.890Z"
+    }
+  },
+  {
+    "question": "退休案件申請，在「節省經費資料填報 」區塊，主要是供教育部相關節省經費統計業務使用，針對人員之學術研究費、主管加給等資料維護。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:52.266Z"
+    }
+  },
+  {
+    "question": "退休案件「申請資料」區塊，修改「最後在職平均薪(俸)額年資」後，點擊「試算年資」鈕即會更新退休均薪欄位資料。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:52.691Z"
+    }
+  },
+  {
+    "question": "退休案件核定端點擊「案件核定」進行核定，案件狀態變更為「核定中」，申請端即無法點擊「取消報送」，如有必要需由核定端將案件退回。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:53.067Z"
+    }
+  },
+  {
+    "question": "退休案件申請，在「從 WebHR 取得」燈箱中，可以從WebHR取得下載表1、表7、表19、表35及表38附件。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "教育人員退撫系統",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_76.html",
+          "title": "【解答】教育人員退撫系統 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T14:19:53.415Z"
+    }
   }
 ]
