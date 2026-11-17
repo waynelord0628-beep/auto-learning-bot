@@ -511,5 +511,22 @@
     },
     "resolved_answer": "錯誤",
     "verification_status": "source_supported"
+  },
+  {
+    "id": "39ed179b16e02a57afd16040e861632229ba6e1da8c2e2057fbaf997465a46b7",
+    "question": "兒童及少年性剝削防制條例不屬於性平法令類的範疇。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性別預算概念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-17T14:55:10.964Z",
+    "review_state": "candidate_ready"
   }
 ]
