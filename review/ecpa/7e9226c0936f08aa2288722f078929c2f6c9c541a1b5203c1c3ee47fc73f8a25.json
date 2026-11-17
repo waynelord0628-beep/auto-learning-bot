@@ -117,16 +117,29 @@
     ],
     "type": "是非",
     "course": "國立成功大學-ICERD簡介-落實平權尊重多元",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T09:05:33.200Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:06.290Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-24T07:20:00.713Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.immigration.gov.tw/5385/5388/7178/254174/cp_news",
+          "quote": "我國則於1966年3月31日簽署，1970年11月14日批准，1970年12月10日存放，並自1971年1月9日起對我國生效。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-17T07:19:59.139Z"
+    },
+    "resolved_answer": "錯誤"
   }
 ]

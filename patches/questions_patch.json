@@ -134272,5 +134272,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-17T05:20:14.590Z"
     }
+  },
+  {
+    "question": "我國（中華民國）是在退出聯合國之後，才由政府召開國際公約審查會議自願實施 ICERD，在歷史上從未正式簽署或批准過該公約。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "國立成功大學-ICERD簡介-落實平權尊重多元",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.immigration.gov.tw/5385/5388/7178/254174/cp_news",
+          "quote": "我國則於1966年3月31日簽署，1970年11月14日批准，1970年12月10日存放，並自1971年1月9日起對我國生效。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-17T07:19:59.139Z"
+    }
   }
 ]
