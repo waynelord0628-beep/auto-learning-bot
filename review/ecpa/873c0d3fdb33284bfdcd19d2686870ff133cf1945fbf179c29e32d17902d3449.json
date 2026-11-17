@@ -11,13 +11,30 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-24T09:20:00.088Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:54.241Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "39918c1c44aff1e3aa0dd580175bf83e93e0bca10dc577582ac7546dd19dd323",
@@ -30,13 +47,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "高壓滅菌器、汙水處理系統和其他除汙技術設備和流程在實施前需經過確效",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "高壓滅菌器、汙水處理系統和其他除汙技術設備和流程在實施前需經過確效",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:54.495Z"
+    },
+    "resolved_answer": "高壓滅菌器、汙水處理系統和其他除汙技術設備和流程在實施前需經過確效",
+    "verification_status": "source_supported"
   },
   {
     "id": "2ce8fd3d52555bd3fa105363e25c00506473eed2c67b0edf4de79e5a21759c34",
@@ -49,13 +80,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "戊二醛",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "戊二醛",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:54.785Z"
+    },
+    "resolved_answer": "戊二醛",
+    "verification_status": "source_supported"
   },
   {
     "id": "47296ab99a3359fd38bd189b0cdadf2a4f5a8effb8b246d756373bba4e8b68a2",
@@ -68,13 +113,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "研究普利昂蛋白實驗室在更換生物安全櫃(BSC)的HEPA過濾器前的燻蒸，甲醛燻蒸的效果比汽化過氧化氫燻蒸的效果好。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.457Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "研究普利昂蛋白實驗室在更換生物安全櫃(BSC)的HEPA過濾器前的燻蒸，甲醛燻蒸的效果比汽化過氧化氫燻蒸的效果好。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:55.113Z"
+    },
+    "resolved_answer": "研究普利昂蛋白實驗室在更換生物安全櫃(BSC)的HEPA過濾器前的燻蒸，甲醛燻蒸的效果比汽化過氧化氫燻蒸的效果好。",
+    "verification_status": "source_supported"
   },
   {
     "id": "2e2165bd38ed284424568d3ae8f269a8e0c87569e079311c7026588e0431b3b6",
@@ -88,13 +147,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.458Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:55.477Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "53be41df413144ca71d2ceefa5ff58bb739ca9c226d4b339aa6463f8b91b28c6",
@@ -107,13 +180,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "⑤①②③④",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.458Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "⑤②①③④",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:55.741Z"
+    },
+    "resolved_answer": "⑤②①③④",
+    "verification_status": "source_supported"
   },
   {
     "id": "94bf544091dfc649e14de387d1581d839ef636e21cae764456671b50c39a6e81",
@@ -126,13 +213,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "依環保署「有害事業廢棄物認定標準」之規定， 上述實驗室之有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，仍不得認定為一般事業廢棄物。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.459Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "依環保署「有害事業廢棄物認定標準」之規定， 上述實驗室之有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，仍不得認定為一般事業廢棄物。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:55.996Z"
+    },
+    "resolved_answer": "依環保署「有害事業廢棄物認定標準」之規定， 上述實驗室之有害事業廢棄物依事業廢棄物貯存清除處理方法及設施標準之中間處理方式處理，其有害性質消失者，仍不得認定為一般事業廢棄物。",
+    "verification_status": "source_supported"
   },
   {
     "id": "bf2316e9c3f52ddc0c4cf9a4d38c2395379ea3d103474516e687478e6375f859",
@@ -145,13 +246,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "只要消毒滅菌的程序完整，即使有明顯的汙染也不需用物理性方式將之去除",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:22:40.459Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "只要消毒滅菌的程序完整，即使有明顯的汙染也不需用物理性方式將之去除",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:56.269Z"
+    },
+    "resolved_answer": "只要消毒滅菌的程序完整，即使有明顯的汙染也不需用物理性方式將之去除",
+    "verification_status": "source_supported"
   },
   {
     "id": "bef41dc61a276d10ea12b7dff826de0ea7199dfae37ea4274762bd798b386daf",
@@ -164,13 +279,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "毒素和普利昂蛋白prion也可以適用滅菌的概念。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.970Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "毒素和普利昂蛋白prion也可以適用滅菌的概念。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:56.516Z"
+    },
+    "resolved_answer": "毒素和普利昂蛋白prion也可以適用滅菌的概念。",
+    "verification_status": "source_supported"
   },
   {
     "id": "4b05c2a7409b4507e39d015e07354858e573f211974b0903b3537d8b9e1f0e8e",
@@ -183,13 +312,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "頭髮、指甲和牙齒也是屬於人體解剖廢棄物。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.971Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "頭髮、指甲和牙齒也是屬於人體解剖廢棄物。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:56.847Z"
+    },
+    "resolved_answer": "頭髮、指甲和牙齒也是屬於人體解剖廢棄物。",
+    "verification_status": "source_supported"
   },
   {
     "id": "35e6c76ec6e292449ac75e50dfa4e1e84f11f7d5913ca9db6955c9995a7c47a1",
@@ -203,13 +346,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不同負載的形式例如重複使用的 PPE、固體廢棄物、液體廢棄物等不須分別測試。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "不同負載的形式例如重複使用的 PPE、固體廢棄物、液體廢棄物等不須分別測試。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:57.103Z"
+    },
+    "resolved_answer": "不同負載的形式例如重複使用的 PPE、固體廢棄物、液體廢棄物等不須分別測試。",
+    "verification_status": "source_supported"
   },
   {
     "id": "7cc6f93101958431e52fd7979e9be26ead0827d8f4e89cfcd77c1bc2501f2260",
@@ -222,13 +379,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "BSL-2",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "BSL-2",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:57.376Z"
+    },
+    "resolved_answer": "BSL-2",
+    "verification_status": "source_supported"
   },
   {
     "id": "705324308ea477a64886a994a7e02400af21e1c01fb6ac66e75266e8d1f3a9f7",
@@ -241,13 +412,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "化學指示劑含有高壓滅菌指示膠帶、標籤和嵌入溫度指示劑油墨的小袋。可即時提供每日監測結果，用於確認所有除汙參數都已符合符合（例如溫度、壓力和時間）。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "化學指示劑和生物指示劑都可以做為除汙效能的指標。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:57.629Z"
+    },
+    "resolved_answer": "化學指示劑和生物指示劑都可以做為除汙效能的指標。",
+    "verification_status": "source_supported"
   },
   {
     "id": "bbe1cb7464bbd2926a589eea201dd9bb75b1c3b2aa7d864c29404f7597e9a66d",
@@ -261,13 +446,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:57.985Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "c5ff9b8d994efbd640335b403e7907272536d7622a3564e4ec006aacbad96823",
@@ -281,13 +480,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "紫外線 UV 輻射可以單獨使用來除汙。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:21.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "紫外線 UV 輻射可以單獨使用來除汙。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:58.234Z"
+    },
+    "resolved_answer": "紫外線 UV 輻射可以單獨使用來除汙。",
+    "verification_status": "source_supported"
   },
   {
     "id": "c4f3f8ef198168ace5475b97941923f7b10fdc100ab46d4a48c82d77e0121c26",
@@ -300,13 +513,27 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不包括接觸過感染性物質或毒素的吸管和微量吸管尖。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:54.837Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "不包括接觸過感染性物質或毒素的吸管和微量吸管尖。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:58.571Z"
+    },
+    "resolved_answer": "不包括接觸過感染性物質或毒素的吸管和微量吸管尖。",
+    "verification_status": "source_supported"
   },
   {
     "id": "6175bc23416f7e6f2d31be36c55e764c919f0d0fbbf8885549f579a3f6bbca97",
@@ -319,15 +546,29 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:54.839Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-16T13:19:50.500Z"
+    "retry_after": "2026-11-16T13:19:50.500Z",
+    "source_review": {
+      "answer": "經過消毒或除汙，動物類廢棄物可以被視為一般廢棄物。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:58.851Z"
+    },
+    "resolved_answer": "經過消毒或除汙，動物類廢棄物可以被視為一般廢棄物。",
+    "verification_status": "source_supported"
   },
   {
     "id": "49a7c4750c93f09dd995b0cc9ac63abf1e446b32fea2459c00edf579fa14d56c",
@@ -340,12 +581,26 @@
     ],
     "type": "單選",
     "course": "實驗室除汙、滅菌、消毒與廢棄物處理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "醫療院所所產生的廢棄物，全部都是屬於有害事業廢棄物。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T13:23:54.840Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "醫療院所所產生的廢棄物，全部都是屬於有害事業廢棄物。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_90.html",
+          "title": "【解答】實驗室除汙、滅菌、消毒與廢棄物處理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-17T09:19:59.224Z"
+    },
+    "resolved_answer": "醫療院所所產生的廢棄物，全部都是屬於有害事業廢棄物。",
+    "verification_status": "source_supported"
   }
 ]
