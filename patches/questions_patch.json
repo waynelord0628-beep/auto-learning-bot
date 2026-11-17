@@ -134934,5 +134934,32 @@
       "model": null,
       "checked_at": "2026-11-17T09:19:59.224Z"
     }
+  },
+  {
+    "question": "由里長或民意代表動員民眾支持特定人士的提案屬於参與式預算的精神。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "一看就懂的公民審議與參與式預算(html5)",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10042925",
+          "quote": "當人民發現自己的社區或市政有任何缺失不足，可以提出自己的想法，在對話討論的過程中形成具體的預算提案，最後交由公眾投票，決定支出的優先順序。"
+        },
+        {
+          "url": "https://cp.tycg.gov.tw/cp.aspx?n=17973",
+          "quote": "為了增加參與公民的多元性，宣傳管道應避免單一動員來源；開放參與的目的即為促成更多平時不關注公共事務的公民有機會參與發聲，故須加強不特定公民的宣傳。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-17T10:20:20.083Z"
+    }
   }
 ]
