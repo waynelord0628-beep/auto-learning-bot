@@ -134247,5 +134247,30 @@
       "model": null,
       "checked_at": "2026-11-16T06:20:01.970Z"
     }
+  },
+  {
+    "question": "關於安非他命的中毒症狀，下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "瞳孔放大",
+      "瞳孔縮小",
+      "血壓下降",
+      "體重增加"
+    ],
+    "course": "成癮治療概論",
+    "answer": "瞳孔放大",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "瞳孔放大",
+      "sources": [
+        {
+          "url": "https://www.ntshb.gov.tw/center/form/Details?Parser=2%2C28%2C828%2C793%2C%2C%2C1612",
+          "quote": "中毒症狀包括多話、頭痛、錯亂、高燒、血壓上升、盜汗、瞳孔放大、食慾喪失。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-17T05:20:14.590Z"
+    }
   }
 ]

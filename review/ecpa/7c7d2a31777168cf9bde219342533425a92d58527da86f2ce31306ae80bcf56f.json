@@ -52,16 +52,29 @@
     ],
     "type": "單選",
     "course": "成癮治療概論",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "瞳孔放大",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-04T04:03:56.630Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-14T10:20:23.826Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-24T05:20:15.376Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "瞳孔放大",
+      "sources": [
+        {
+          "url": "https://www.ntshb.gov.tw/center/form/Details?Parser=2%2C28%2C828%2C793%2C%2C%2C1612",
+          "quote": "中毒症狀包括多話、頭痛、錯亂、高燒、血壓上升、盜汗、瞳孔放大、食慾喪失。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-17T05:20:14.590Z"
+    },
+    "resolved_answer": "瞳孔放大"
   }
 ]
