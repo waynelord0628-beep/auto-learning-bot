@@ -189,5 +189,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-18T12:52:50.188Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "767bc2d18e0eb990facc94ee4353ceddd7455eb93e3becff2dec8da2e00d8a93",
+    "question": "請問下列哪些家用設備結合AI科技，成為智慧家庭的一環？",
+    "options": [
+      "智慧音箱",
+      "智慧電視",
+      "智慧照明",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "AI概論及發展趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T12:53:20.433Z",
+    "review_state": "candidate_ready"
   }
 ]
