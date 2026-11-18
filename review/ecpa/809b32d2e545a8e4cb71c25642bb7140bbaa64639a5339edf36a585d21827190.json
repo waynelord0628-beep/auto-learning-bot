@@ -180,5 +180,77 @@
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.281Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "30fbb06de16a5a99d7f2555ee298a65a8da2b281a1a6e36129ca62a78da87629",
+    "question": "兒童有從事適合其年齡的遊戲及休閒活動之權利。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約及福利政策法規",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T14:35:23.372Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d0743a959f3ea4a4778f96a6826339caa0b5310f21d9d7663c43d53b909e163a",
+    "question": "哪些是兒童有接受適當資訊的權利？",
+    "options": [
+      "閱聽權",
+      "傳播權",
+      "資訊權",
+      "發展權"
+    ],
+    "type": "多選",
+    "course": "兒童權利公約及福利政策法規",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T14:35:23.408Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "6da9c89341d89f14b84c694131cf1546acc2db65a2fb2285a6be7934643ebe64",
+    "question": "兒少權法的條文規定，何者與兒童的「受保護權」無關？",
+    "options": [
+      "政府應建立兒保案加害人裁罰紀錄資料庫",
+      "兒童有平等參與各種休閒娛樂文化活動的權利",
+      "托嬰中心應裝設監視錄影設備",
+      "6歲以下或需特別看護的兒童不得獨處"
+    ],
+    "type": "單選",
+    "course": "兒童權利公約及福利政策法規",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "政府應建立兒保案加害人裁罰紀錄資料庫",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T14:35:23.433Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f6609f1d3e3c5ecf80b09d16fb745e1a799223b33b5041b290a7cbb1e8555228",
+    "question": "兒童及少年福利與權益保障法—福利機構，第77-1條（108/4/24新增），托嬰中心應裝設監視錄影設備。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "兒童權利公約及福利政策法規",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T14:35:23.453Z",
+    "review_state": "candidate_ready"
   }
 ]
