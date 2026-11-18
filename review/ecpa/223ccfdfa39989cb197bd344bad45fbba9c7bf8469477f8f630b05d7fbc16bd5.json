@@ -124,5 +124,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-04T01:38:09.887Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "24a6e86ac9e190602f927f8e833da7e6811688522cfc5b9ecddf14634198aaec",
+    "question": "「災害防救」的定義不包括哪個部分？",
+    "options": [
+      "災害之預防",
+      "災害發生時之應變",
+      "災後之復原重建",
+      "災後之究責"
+    ],
+    "type": "單選",
+    "course": "災變社會工作",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "災後之究責",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T07:04:26.491Z",
+    "review_state": "candidate_ready"
   }
 ]
