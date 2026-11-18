@@ -135452,5 +135452,30 @@
       "model": null,
       "checked_at": "2026-11-18T10:21:57.142Z"
     }
+  },
+  {
+    "question": "學校人員在「知悉」疑似校園性別事件後，必須在多久時間內完成通報？",
+    "type": "單選",
+    "options": [
+      "12 小時內",
+      "24 小時內",
+      "3 個工作日內",
+      "一週內"
+    ],
+    "course": "1150624性平種子教師培訓",
+    "answer": "24 小時內",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "24 小時內",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "quote": "學校校長、教師、職員或工友知悉服務學校發生疑似校園性別事件，應立即通報學校防治規定所定學校權責人員，並由學校權責人員依下列規定辦理，至遲不得超過二十四小時"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-18T14:20:25.035Z"
+    }
   }
 ]
