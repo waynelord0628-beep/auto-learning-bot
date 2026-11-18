@@ -341,5 +341,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-13T15:33:26.483Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7c5e5bed5d62a30c03363389208540f77a27259f393acfaa33f453cbee4b3a78",
+    "question": "臺灣獼猴的繁殖力很高，通常一胎可以生三至五隻小猴。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "獼猴三不與獼猴科普教育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T10:37:10.953Z",
+    "review_state": "candidate_ready"
   }
 ]
