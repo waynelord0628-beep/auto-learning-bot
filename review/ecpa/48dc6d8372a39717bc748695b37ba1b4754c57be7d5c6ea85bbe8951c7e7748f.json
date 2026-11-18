@@ -378,5 +378,176 @@
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.735Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "c2d3ba38748047fc69e78b29a44cf4cba98764a6a67c3f5d6fb6897542cd0080",
+    "question": "王老先生的子女皆已移民國外，現卻臥病在床無人照料，該區鄰里長發動老鄰居送餐，請問這屬於那一類型的資源？",
+    "options": [
+      "非正式資源",
+      "社會性資源",
+      "正式資源",
+      "內在資源。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "非正式資源",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.267Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e242d92c93acea0420dfab28993e3b9c0e03fd57bfa98c44964d7fdd7099b848",
+    "question": "根據實證研究的結果，在助人歷程中，下列哪一個步驟最能預測處遇介入的效果？",
+    "options": [
+      "建立關係",
+      "家庭預估",
+      "家庭介入",
+      "介入評估。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建立關係",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.268Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "2be116a5a995bdb765cccc20461a18e0871ff7882680ce6611a7b5fe57d03c94",
+    "question": "下列那兩種會談技巧是以家庭為本工作取向在建立關係時經常運用的技巧？",
+    "options": [
+      "同理心+動機式晤談法",
+      "心理分析+同理心",
+      "再保證+例外問題法",
+      "心理分析+敘事會談"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "同理心+動機式晤談法",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.269Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5e01850c5eb2e634af6c6daac8e2c5539858e02a0c82f20c7c1d8831a21e9529",
+    "question": "當社工人員想評估服務家庭的資源網絡之流向和強度，會應用下列哪一種評估工具？",
+    "options": [
+      "家系圖",
+      "家庭關係圖",
+      "生態圖",
+      "家庭生命週期圖。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "生態圖",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.269Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5a01011950d8ff78173180febe8224f031cb55132b5acf3350712bc70a990a3f",
+    "question": "在協助「繼父繼親家庭」重組其家庭關係時，下列哪一個家庭次系統是社工員最需要著力的處遇焦點？",
+    "options": [
+      "親子次系統",
+      "手足次系統",
+      "夫妻次系統",
+      "繼父本人的感受。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "夫妻次系統",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.270Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "046a1b3c38fde5d3c3b25e220f8c070d7a9e554746fcaa6046c6b8c2135eb3f0",
+    "question": "下列那一項是兒少教育發展帳戶之配套措施？",
+    "options": [
+      "提供理財教育課程",
+      "社工人員輔導",
+      "提供就業服務、以工代賑或工讀機會",
+      "以上皆是。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.270Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "3f3e351618e0af7d1dc7e0723ff4d31aeb957e03c5d571d83bf49a3fc4568ae2",
+    "question": "當一個有酒癮的案主對母親進行暴力對待，但母親不忍對兒子提出保護令，社工員對這位母子的評估和介入重點為何？",
+    "options": [
+      "兒子是啃老族，運用個案管理引進就業輔導轉介",
+      "母親疼愛兒子，肯定親子關係緊密而支持",
+      "母子之間有共生關係，運用家庭會談來鬆動此共生關係",
+      "兒子有戀母情結，轉介運用心理分析治療。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "母子之間有共生關係，運用家庭會談來鬆動此共生關係",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.271Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "491ed4fd698792b8db642926d7327d943c349cf855cb24faaa6880664f5ca307",
+    "question": "當一個少年被發現有出入不正當場所、偷竊、吸毒等偏差行為時，在法的適用上應優先考量下列那一項法案？",
+    "options": [
+      "兒童暨少年性剝削條例",
+      "兒童暨少年福利權益保障法",
+      "少年事件處理",
+      "刑法。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "少年事件處理",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.271Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "62c2efc575c1df00d655f7a7d19a6dfca1420ff0d04d06b57f51be2cccb55326",
+    "question": "下列哪一類家庭的家庭界限屬於「隨機性」特性？",
+    "options": [
+      "原住民部落的孩子每天到不同家裡吃中飯",
+      "媽媽非常注重家庭隱私，不准家人對外說三道四",
+      "單親媽媽鼓勵孩子要和離婚的爸爸保持互動關係",
+      "一個四處為家的遊民家庭。"
+    ],
+    "type": "單選",
+    "course": "以家庭為本的社會工作方法",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "原住民部落的孩子每天到不同家裡吃中飯",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:19:18.272Z",
+    "review_state": "candidate_ready"
   }
 ]
