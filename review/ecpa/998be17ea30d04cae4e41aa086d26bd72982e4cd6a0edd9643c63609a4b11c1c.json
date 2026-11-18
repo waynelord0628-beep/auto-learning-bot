@@ -198,17 +198,30 @@
     ],
     "type": "單選",
     "course": "115年實驗室生物安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "RG4",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.040Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:03.386Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-25T05:21:16.959Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "RG4",
+      "sources": [
+        {
+          "url": "https://www.cdc.gov.tw/Category/MPage/uT3-SMR_otix09ZJLzGBog",
+          "quote": "第四級（RG4）：伊波拉病毒、天花病毒及其他嚴重影響人體健康或可能致死，且通常無預防及治療可能者。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-18T05:21:01.780Z"
+    },
+    "resolved_answer": "RG4"
   },
   {
     "id": "4c31b1dd2101153e0a502d0a5e77f4d6b066b95ed6a331b42af7d0bc92eff0f2",

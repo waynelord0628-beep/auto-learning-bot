@@ -135214,5 +135214,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-18T01:20:02.756Z"
     }
+  },
+  {
+    "question": "根據病原體之危險群 (Risk Group, RG) 分級，會嚴重影響人體健康或可能致死，且通常「無」預防及治療方法的病原體（例如伊波拉病毒 Ebola virus），屬於下列哪一個等級？",
+    "type": "單選",
+    "options": [
+      "RG1",
+      "RG2",
+      "RG3",
+      "RG4"
+    ],
+    "course": "115年實驗室生物安全",
+    "answer": "RG4",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "RG4",
+      "sources": [
+        {
+          "url": "https://www.cdc.gov.tw/Category/MPage/uT3-SMR_otix09ZJLzGBog",
+          "quote": "第四級（RG4）：伊波拉病毒、天花病毒及其他嚴重影響人體健康或可能致死，且通常無預防及治療可能者。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-18T05:21:01.780Z"
+    }
   }
 ]
