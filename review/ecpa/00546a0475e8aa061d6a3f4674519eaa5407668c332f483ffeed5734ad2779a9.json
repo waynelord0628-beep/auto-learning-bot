@@ -175,5 +175,75 @@
     "source": "reported_question",
     "created_at": "2026-11-18T09:23:12.696Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7ce1bcf1a0397bd934444b15defa61baa2e8dfc5f63c8f0a783d78c03da8ada3",
+    "question": "音樂人將電影「返校」的片尾曲取名為「光明之日」，是向鹿窟事件的光明寺致敬。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【轉型正義教育工作坊】多元媒材—如何從文學、音樂談轉型正義",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:25:25.640Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "aec9cb50f94ee7d276b29522751ead1b5c7ff2f6c99a549f4ab55956aaaf32bb",
+    "question": "音樂人馬世芳與國家人權博物館合作的專輯《守望天明》收錄8首人權主題音樂，其中歌手高蕾雅參與創作的〈千風裡可否有你〉，是獻給其祖父白色恐怖受難者高一生。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【轉型正義教育工作坊】多元媒材—如何從文學、音樂談轉型正義",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:25:25.643Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "eb62d8b684239322ed9debf105f2bb7bd1d1d91ea6ad4a2435d04a576c36d23a",
+    "question": "戒嚴時期歌曲創作為通過審查，常需改寫以符威權統治政府政治正確的框架，寫歌、傳唱稍有不慎便有可能被關或被槍決，因此創作者當時對於大環境的想法，完全無法呈現於歌曲中。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【轉型正義教育工作坊】多元媒材—如何從文學、音樂談轉型正義",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:25:25.644Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e0138482bf5cf99d1247c67fa983810b875c67ffdef72b013f8b629a0cdd4871",
+    "question": "白色恐怖政治受難者(如高菊花)，曾遭受以下哪些威權體制壓迫？",
+    "options": [
+      "申請出國受阻",
+      "人身安全受到威脅",
+      "成為攏絡外賓的贈禮",
+      "被情治人員監控、考管"
+    ],
+    "type": "多選",
+    "course": "【轉型正義教育工作坊】多元媒材—如何從文學、音樂談轉型正義",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:25:25.645Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
