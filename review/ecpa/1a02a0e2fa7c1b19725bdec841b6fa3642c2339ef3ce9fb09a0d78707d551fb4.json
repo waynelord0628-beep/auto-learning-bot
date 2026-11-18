@@ -562,5 +562,43 @@
     },
     "resolved_answer": "憲法增修條文",
     "verification_status": "source_supported"
+  },
+  {
+    "id": "429c49865057067669c5eafbc84505dd50361a418bde41ec191d3149b5bdc2af",
+    "question": "紐西蘭懷唐伊委員會就毛利人提出的權利主張進行調查程序，下列何者正確？",
+    "options": [
+      "提交權利主張→權利主張審查與登錄→整合相關權利主張→執行研究→彙整案件記錄→辦理聽證→發布報告",
+      "執行研究→提交權利主張→權利主張審查與登錄→整合相關權利主張→彙整案件記錄→辦理聽證→發布報告",
+      "提交權利主張→權利主張審查與登錄→整合相關權利主張→彙整案件記錄→執行研究→辦理聽證→發布報告",
+      "提交權利主張→權利主張審查與登錄→整合相關權利主張→辦理聽證→執行研究→彙整案件記錄→發布報告"
+    ],
+    "type": "單選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:32:24.851Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "99dbbc28372f87e5360c1d43f240e73d5c9cee1eac8c7b4419c75faea6a59dd5",
+    "question": "依據紐西蘭懷唐伊條約法向懷唐伊委員會提出權利主張，其成立要件為何？",
+    "options": [
+      "主張人須為毛利人",
+      "主張須有客觀具體的財產上損害",
+      "須有官方的作為或不作為",
+      "官方的作為或不作為違反懷唐伊條約原則"
+    ],
+    "type": "多選",
+    "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:32:24.855Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
