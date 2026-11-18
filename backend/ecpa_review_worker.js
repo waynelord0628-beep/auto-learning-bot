@@ -118,7 +118,7 @@ function ecpaRetryCandidates(queue, budget, now) {
   retry.forEach(q => { if (!q.candidate_answer && q.retry_count >= 3) q.review_state = 'awaiting_evidence'; });
   return retry.length;
 }
-function maintainEcpaReviewQueue() {
+function maintainEcpaReviewQueue(run) {
   const lock = LockService.getScriptLock();
   if (!lock.tryLock(1000)) return {ok:false, status:'busy'};
   try {
@@ -131,13 +131,14 @@ function maintainEcpaReviewQueue() {
     const props = PropertiesService.getScriptProperties();
     const previous = props.getProperty('ECPA_REVIEW_CURSOR') || '';
     let start = paths.findIndex(p => p > previous); if (start < 0) start = 0;
-    const selected = paths.slice(start, start + 10);
+    const selected = paths.slice(start, start + (run?2:10));
     const patches = JSON.parse(ecpaReadAt(ECPA_PATCH_PATH, head, '[]'));
     if (!Array.isArray(patches)) throw Error('Invalid bank');
-    const files = []; let budget = 10, last = previous;
-    const deadline = Date.now() + 180000;
+    const files = []; let budget = run?0:10, last = previous;
+    const deadline = run?run.deadline-90000:Date.now()+180000;
     for (const path of selected) {
       if (Date.now() >= deadline) break;
+      if(run)ecpaReviewBudget(15000,'maintenance_course');
       const before = ecpaReadAt(path, head, '[]'), queue = JSON.parse(before);
       if (!Array.isArray(queue)) throw Error('Invalid queue');
       const original = JSON.stringify(queue);

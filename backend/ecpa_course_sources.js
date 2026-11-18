@@ -64,8 +64,12 @@ function ecpaCoursePageRows(html,url) {
 function ecpaFetchCoursePage(url) {
   for(let hop=0;hop<3;hop++) {
     if(!ecpaCourseSourceAllowed(url)) return null;
-    let r;try {r=UrlFetchApp.fetch(url,{muteHttpExceptions:true,followRedirects:false});}catch(e){return null;}
+    if(typeof ecpaReviewBudget==='function')ecpaReviewBudget(15000,'course_source_fetch');
+    let r;try {r=UrlFetchApp.fetch(url,{muteHttpExceptions:true,followRedirects:false});}catch(e){if(typeof ecpaReviewRun!=='undefined'&&ecpaReviewRun)throw e;return null;}
     const code=r.getResponseCode(),h=r.getAllHeaders();
+    if(typeof ecpaReviewRun!=='undefined'&&ecpaReviewRun&&(code===429||code>=500)) {
+      const error=Error('Course source unavailable');error.httpStatus=code;throw error;
+    }
     if([301,302,303,307,308].includes(code)) {
       let next=h.Location||h.location;
       if(typeof next!=='string')return null;
