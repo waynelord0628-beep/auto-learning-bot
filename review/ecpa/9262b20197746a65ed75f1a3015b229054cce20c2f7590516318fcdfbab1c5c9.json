@@ -71,17 +71,30 @@
     ],
     "type": "是非",
     "course": "五、嬰兒按摩、親子共讀、親子共遊",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.862Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.595Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-25T01:20:12.283Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4306&pid=14270",
+          "quote": "嬰兒時期雖然無法瞭解文字意義，集中注意力的時間較短，但聽覺卻特別靈敏，此時共讀的重點不在於內容，而是讓寶寶透過爸媽的聲音及語調，得到情緒上的滿足。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-18T01:20:02.756Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "1d7d96627be11de265c3de727410b938e3e28cbb6245c11dd02a3ccc4e36aedc",

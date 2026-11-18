@@ -135191,5 +135191,28 @@
       "model": null,
       "checked_at": "2026-11-17T14:19:53.415Z"
     }
+  },
+  {
+    "question": "親子共讀的重點是背誦書中的知識內容。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "五、嬰兒按摩、親子共讀、親子共遊",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4306&pid=14270",
+          "quote": "嬰兒時期雖然無法瞭解文字意義，集中注意力的時間較短，但聽覺卻特別靈敏，此時共讀的重點不在於內容，而是讓寶寶透過爸媽的聲音及語調，得到情緒上的滿足。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-18T01:20:02.756Z"
+    }
   }
 ]
