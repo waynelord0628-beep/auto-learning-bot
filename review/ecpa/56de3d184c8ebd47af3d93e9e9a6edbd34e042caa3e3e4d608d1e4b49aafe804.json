@@ -309,5 +309,43 @@
     "source": "reported_question",
     "created_at": "2026-11-18T09:30:50.961Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d6b664cd6e29d4452432c71b19ace7fceb59a25edd634a3e84d3d1ecb92adb4c",
+    "question": "機關進行轉型正義教育訓練，國家人權博物館可以提供的協助包含？",
+    "options": [
+      "安排白色恐怖景美或綠島紀念園區參訪導覽",
+      "協助邀請政治受難者或家屬擔任見證者還原歷史真相",
+      "安排轉型正義專家學者進行專題座談",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:31:54.851Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "51170580f94b581b4e076cf7e0d06a3c80e98602eeabf91147bf294b52e553ca",
+    "question": "運用電影、紀錄片等媒材推廣轉型正義時，可結合以下哪些活動？",
+    "options": [
+      "聘請人權素養講師擔任講座",
+      "邀請專家學者於映後座談分享片中相關歷史",
+      "共讀《電影裡的人權關鍵字》系列手冊",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T09:31:54.852Z",
+    "review_state": "candidate_ready"
   }
 ]
