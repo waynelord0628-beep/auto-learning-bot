@@ -531,5 +531,39 @@
       "checked_at": "2026-09-18T02:42:31.333Z"
     },
     "verification_status": "source_supported"
+  },
+  {
+    "id": "a72ec2ed8cc2af14432bd5a013e23d9450d718aa682c89e982b58b537f4c22b0",
+    "question": "開玩笑的黃色笑話不算性騷擾。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T03:47:58.750Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "145390670de71d6d9dbd55b2533d904b3b13e309e06b23f3a0d37a835c7d2c80",
+    "question": "下班後被同事持續性騷擾，可以要求公司負責。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "性騷擾防治",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-18T03:47:58.756Z",
+    "review_state": "candidate_ready"
   }
 ]
