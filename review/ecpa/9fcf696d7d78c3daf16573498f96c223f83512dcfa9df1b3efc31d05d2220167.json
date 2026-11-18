@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.246Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-25T10:21:58.219Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:52.012Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "9cb5defac238109db3cdcc9de7ec7b13be904f0c36fecb5a068cfca64743a2c7",
@@ -27,15 +44,29 @@
     ],
     "type": "單選",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.246Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-16T18:19:45.325Z"
+    "retry_after": "2026-11-16T18:19:45.325Z",
+    "source_review": {
+      "answer": "疾病。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:52.713Z"
+    },
+    "resolved_answer": "疾病。",
+    "verification_status": "source_supported"
   },
   {
     "id": "319c7018e2b195be364ead0fb7d69159bf84ec9bce3cee867a1d953d739f0e2c",
@@ -46,13 +77,27 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.247Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:53.290Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "f7b651d226fb131b45a8a4b5d27c19e8e29a9eda4d931bf6aec271b8b6bcdacf",
@@ -65,15 +110,29 @@
     ],
     "type": "單選",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.247Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-16T18:19:45.325Z"
+    "retry_after": "2026-11-16T18:19:45.325Z",
+    "source_review": {
+      "answer": "2個月。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:53.848Z"
+    },
+    "resolved_answer": "2個月。",
+    "verification_status": "source_supported"
   },
   {
     "id": "ea7d6158788f657e10482062666ebacbaf913e2631e1d670f8c015ff21237f78",
@@ -86,15 +145,29 @@
     ],
     "type": "單選",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.248Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-16T18:19:45.325Z"
+    "retry_after": "2026-11-16T18:19:45.325Z",
+    "source_review": {
+      "answer": "一大過。",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:54.254Z"
+    },
+    "resolved_answer": "一大過。",
+    "verification_status": "source_supported"
   },
   {
     "id": "1482eaf215d41aa1a71a0f78ec597f0c9892c90658ee7b088f9dc9b7a8f3f582",
@@ -105,13 +178,27 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:55.203Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "af3c8014069bf6f5dc2a108003658486887e03720ddbb408a12fd294097b7e1c",
@@ -122,13 +209,27 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.249Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:55.918Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "cc7fa7f6bc2e3e8ac8095452575dc84f205a82c2b8bd4c65140f864e819903f3",
@@ -158,13 +259,27 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.250Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:56.606Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "ec16799415af44b9e71a74e375778de013481992a3e6ccb4b033a26c0db1349d",
@@ -175,12 +290,26 @@
     ],
     "type": "是非",
     "course": "訓練法規與實務-114年地方特考起適用(含離島初考身障)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-10T05:53:23.251Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/114.html",
+          "title": "【解答】訓練法規與實務-114年地方特考起適用(含離島初考身障) - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-18T10:21:57.142Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
