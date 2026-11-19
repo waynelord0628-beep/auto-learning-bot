@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "音樂MV",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T06:28:39.577Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T11:19:56.369Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "產品介紹",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_818.html",
+          "title": "「影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T11:19:54.134Z"
+    },
+    "resolved_answer": "產品介紹"
   },
   {
     "id": "f69a881af758dcc415c360bfd656831ea42cd48e8913eecb8f5dc3a956b59165",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "WHOLE完整",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T06:28:39.579Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "WHOLE完整",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_818.html",
+          "title": "「影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T11:19:54.516Z"
+    },
+    "resolved_answer": "WHOLE完整",
+    "verification_status": "source_supported"
   },
   {
     "id": "727b9f98590f9de4159bdc2faaa4c09b223f812a5dffb4c5226bdc35b4a77195",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "中景",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T06:28:39.580Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "中景",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_818.html",
+          "title": "「影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T11:19:54.831Z"
+    },
+    "resolved_answer": "中景",
+    "verification_status": "source_supported"
   },
   {
     "id": "9d091293e435ab823cc9fda38ec32db5335e7806c20a3b73c6b4ca34abf729d3",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T06:28:39.581Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_818.html",
+          "title": "「影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T11:19:55.261Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "54fd94dfa00ff12c3e8f9890c5c2799cd6a90e8f208af43106f8c6922459bb55",
@@ -86,12 +145,26 @@
     ],
     "type": "單選",
     "course": "影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "平移",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T06:28:39.584Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "平移",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_818.html",
+          "title": "「影像力就是你的影響力-把想像化為現實-你不能不知道的腳本二三事」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T11:19:55.589Z"
+    },
+    "resolved_answer": "平移",
+    "verification_status": "source_supported"
   }
 ]
