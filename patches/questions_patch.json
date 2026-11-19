@@ -136080,5 +136080,755 @@
       "model": null,
       "checked_at": "2026-11-19T05:20:34.904Z"
     }
+  },
+  {
+    "question": "若沒有執行CPR，心跳停止病人的腦部細胞大概多久會開始死亡?",
+    "type": "單選",
+    "options": [
+      "1 分鐘",
+      "4分鐘",
+      "30分鐘",
+      "60分鐘"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "4分鐘",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "4分鐘",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:45.961Z"
+    }
+  },
+  {
+    "question": "下列何者不是AED 常見的擺放位置?",
+    "type": "單選",
+    "options": [
+      "交通要衝，如機場、高鐵站",
+      "大型購物場所，如百貨公司",
+      "大型休閒場所，如電影院",
+      "公共廁所"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "公共廁所",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "公共廁所",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:46.326Z"
+    }
+  },
+  {
+    "question": "一般民眾因為熱心幫忙進行CPR 而發生必要的傷害，例如肋骨斷裂，可以依據哪一條法令得以免責?",
+    "type": "單選",
+    "options": [
+      "醫師法",
+      "緊急醫療救護法",
+      "傳染病防治法",
+      "青少年保護法"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "緊急醫療救護法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "緊急醫療救護法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.202Z"
+    }
+  },
+  {
+    "question": "關於目前急救的口訣「叫-叫-壓-電」，下列何者最適當?",
+    "type": "單選",
+    "options": [
+      "第一個「叫」是指119 求援並取得AED",
+      "第二個「叫」是指確認意識",
+      "「壓」是指復甦球按壓給氧",
+      "「電」是指使用AED"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "「電」是指使用AED",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "「電」是指使用AED",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.451Z"
+    }
+  },
+  {
+    "question": "根據AED 的操作說明，使用於小孩時，下列敘述，何者最不適當?",
+    "type": "單選",
+    "options": [
+      "任何年齡層皆可使用",
+      "貼片黏貼方式，可貼在前胸後背",
+      "年齡要大於一個月",
+      "操作步驟為: 1.開2.貼3.電"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "任何年齡層皆可使用",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "任何年齡層皆可使用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.944Z"
+    }
+  },
+  {
+    "question": "關於心臟疾病造成猝死的流行病學與病態生理學描述，下列何者最不適當?",
+    "type": "單選",
+    "options": [
+      "執行AED 電擊能夠讓病人存活率提升為兩倍",
+      "心臟疾病造成猝死最常見的原因是發生致命性的心律不整",
+      "施行CPR 能夠讓病人存活率提升為兩倍",
+      "給予AED 電擊的目的是讓心臟有能量可以跳動"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:48.277Z"
+    }
+  },
+  {
+    "question": "下列何者為胸部按壓的正確技巧?",
+    "type": "單選",
+    "options": [
+      "用力壓",
+      "快快壓",
+      "莫中斷",
+      "以上皆是"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:48.860Z"
+    }
+  },
+  {
+    "question": "成人CPR壓胸的方式及注意事項，下列敘述何者最適當?",
+    "type": "單選",
+    "options": [
+      "可單手掌根在胸部上",
+      "手指應打直才有力量",
+      "胸回彈可增加回心血流",
+      "不中斷可減少心臟負擔"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "胸回彈可增加回心血流",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "胸回彈可增加回心血流",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:49.183Z"
+    }
+  },
+  {
+    "question": "下列何者非CPR 常見錯誤?",
+    "type": "單選",
+    "options": [
+      "按壓位置不正確",
+      "按壓速度太快或太慢",
+      "研究統計大多壓太淺",
+      "太累時儘早換人接手"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "太累時儘早換人接手",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "太累時儘早換人接手",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:49.825Z"
+    }
+  },
+  {
+    "question": "若沒有執行CPR，心跳停止病人的腦部細胞大概多久會完全死亡，接近腦死?",
+    "type": "單選",
+    "options": [
+      "3分鐘",
+      "10分鐘",
+      "30分鐘",
+      "60 分鐘"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "10分鐘",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "10分鐘",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.109Z"
+    }
+  },
+  {
+    "question": "根據AED 的使用說明，AED 到達前，應持續CPR，下列敘述，何者最不適當?",
+    "type": "單選",
+    "options": [
+      "此時CPR 是為了維持重要器官的灌流",
+      "此時CPR 是為了延長可電擊心律的時間",
+      "此時CPR 是為了心臟細胞有足夠的能量",
+      "此時CPR 其實沒有意義，只是為了等待AED 到達"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.705Z"
+    }
+  },
+  {
+    "question": "民眾倒地，現場只有你一人，應如何應變最適當?",
+    "type": "單選",
+    "options": [
+      "前往就近取得AED 參與急救",
+      "打119，依派遣員指示急救",
+      "到附近繞一下請求人員支援",
+      "趁現場沒人看到，趕緊離開"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "打119，依派遣員指示急救",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "打119，依派遣員指示急救",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.998Z"
+    }
+  },
+  {
+    "question": "根據AED 使用原則，特殊情況中，下列敘述及處置，何者最不適當?",
+    "type": "單選",
+    "options": [
+      "體毛過多時，應移除體毛，再貼上貼片",
+      "病患身體潮濕，應擦乾後操作",
+      "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+      "環境地面積水時，應搬離至安全處，再操作AED"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.252Z"
+    }
+  },
+  {
+    "question": "如果有感染或防疫的考量，CPR 過程中如何進行通氣",
+    "type": "單選",
+    "options": [
+      "不需人工呼吸，只要確實地做好高品質壓胸即可",
+      "依然可以進行口對口人工呼吸，不要吹太大口就好",
+      "可以保持距離對病患口中吹氣",
+      "請身邊的人來對病患進行口對口人工呼吸"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.642Z"
+    }
+  },
+  {
+    "question": "使用AED 時，下列何種情況是可以碰觸病人的?",
+    "type": "單選",
+    "options": [
+      "分析心律時",
+      "電擊病患時",
+      "貼貼片時",
+      "以上情況皆不能碰觸病人"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "貼貼片時",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "貼貼片時",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.929Z"
+    }
+  },
+  {
+    "question": "關於心臟疾病造成猝死的流行病學描述，下列何者最不適當?",
+    "type": "單選",
+    "options": [
+      "心臟疾病是台灣十大死因的第二名",
+      "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+      "施行CPR 能夠讓病人存活率提升為兩倍",
+      "執行AED 電擊能夠讓病人存活率提升為兩倍"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.369Z"
+    }
+  },
+  {
+    "question": "使用AED 進行電擊後，下一步要做什麼?",
+    "type": "單選",
+    "options": [
+      "確認病患意識",
+      "分析心律",
+      "確認病患呼吸",
+      "繼續胸部按壓"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "繼續胸部按壓",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "繼續胸部按壓",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.661Z"
+    }
+  },
+  {
+    "question": "執行CPR 對人體的效果，下列何者最不適當?",
+    "type": "單選",
+    "options": [
+      "維持重要器官的灌流",
+      "減緩存活率下降的速度至每分鐘7-10%",
+      "可以增加病人的心臟輸出量",
+      "可以延後細胞死亡的時間"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "減緩存活率下降的速度至每分鐘7-10%",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "減緩存活率下降的速度至每分鐘7-10%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.904Z"
+    }
+  },
+  {
+    "question": "請問「好薩瑪利亞人法」是指?",
+    "type": "單選",
+    "options": [
+      "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+      "醫師法中，醫師如遇病患有緊急醫療需求不得拒絕的條款",
+      "青少年保護法中，成年人有維護兒童及少年健康，促進其身心健全發展的義務",
+      "獎勵市民樂心助人的相關法條"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.022Z"
+    }
+  },
+  {
+    "question": "何時可以停止急救?",
+    "type": "單選",
+    "options": [
+      "醫療救護人員抵達",
+      "病患恢復意識或開始躁動",
+      "以上情況皆可停止",
+      "以上情況皆不可停止"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "以上情況皆可停止",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上情況皆可停止",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.310Z"
+    }
+  },
+  {
+    "question": "請問全民守護者App 的功能是?",
+    "type": "單選",
+    "options": [
+      "提供交通及道路指引",
+      "提供健康狀況諮詢",
+      "協助警察打擊罪犯",
+      "協助緊急醫療系統支援CPR 案件"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "協助緊急醫療系統支援CPR 案件",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "協助緊急醫療系統支援CPR 案件",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.703Z"
+    }
+  },
+  {
+    "question": "有人倒地待救，一般民眾應採用何種方式確認病人意識?",
+    "type": "單選",
+    "options": [
+      "輕拍肩膀",
+      "按壓手指",
+      "尖刺肩膀",
+      "刺激胸骨"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "輕拍肩膀",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "輕拍肩膀",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.242Z"
+    }
+  },
+  {
+    "question": "民眾版CPR 口訣下列何者最適當?",
+    "type": "單選",
+    "options": [
+      "叫叫電壓",
+      "電壓叫叫",
+      "叫電壓叫",
+      "叫叫壓電"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "叫叫壓電",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "叫叫壓電",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.249Z"
+    }
+  },
+  {
+    "question": "根據AED 的操作說明，依照a.開 b.貼 c.電，請排列順序?",
+    "type": "單選",
+    "options": [
+      "CAB",
+      "ABC",
+      "CBA",
+      "ACB"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "ABC",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "ABC",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.546Z"
+    }
+  },
+  {
+    "question": "關於目前民眾施行成人急救的執行方式，下列何者最不適當?",
+    "type": "單選",
+    "options": [
+      "口訣是「叫-叫-A-B-C」",
+      "民眾不需要摸脈搏",
+      "民眾不需要人工呼吸",
+      "民眾需要求援並儘可能取得AED"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "口訣是「叫-叫-A-B-C」",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "口訣是「叫-叫-A-B-C」",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.951Z"
+    }
+  },
+  {
+    "question": "關於目前民眾CPR 不需要人工呼吸，下列何者最不適當?",
+    "type": "單選",
+    "options": [
+      "考量到心跳停止的初期，血液循環比吹氣給氧重要",
+      "執行胸部按壓時，也會有些微氣體進出的效果",
+      "考量到民眾會顧慮人工呼吸會有傳染疾病的疑慮而減少急救意願",
+      "人工呼吸對人體有害"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "人工呼吸對人體有害",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "人工呼吸對人體有害",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.982Z"
+    }
+  },
+  {
+    "question": "使用AED 的順序何者正確?",
+    "type": "單選",
+    "options": [
+      "開貼電",
+      "貼開電",
+      "開電貼",
+      "電貼開"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "開貼電",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "開貼電",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:56.252Z"
+    }
+  },
+  {
+    "question": "下列關於胸部按壓，何者最不適當?",
+    "type": "單選",
+    "options": [
+      "壓胸時應該跪在病患的頭側",
+      "壓胸位置在兩乳頭連線的中點",
+      "壓胸速度每分鐘100-120 下",
+      "每下壓胸之間應該要讓胸部有完全的回彈"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "壓胸時應該跪在病患的頭側",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "壓胸時應該跪在病患的頭側",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:56.653Z"
+    }
+  },
+  {
+    "question": "遇到有疑似心跳停止的個案，如果身邊沒有其他人應該如何處理?",
+    "type": "單選",
+    "options": [
+      "直接開始胸部按壓",
+      "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+      "盡快去找旁人幫忙",
+      "搬運病患到路邊叫救護車"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:57.003Z"
+    }
+  },
+  {
+    "question": "119 派遣員如接獲疑似心跳停止的報案電話，將引導報案民眾進行下列何者?",
+    "type": "單選",
+    "options": [
+      "請報案民眾至門口揮手，引導救護車",
+      "請報案民眾出門尋找最近的AED",
+      "請報案民眾依照派遣員引導開始進行胸部按壓",
+      "請報案民眾先將病患叫醒，再行報案"
+    ],
+    "course": "民眾版CPR+AED教學影片",
+    "answer": "請報案民眾依照派遣員引導開始進行胸部按壓",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "請報案民眾依照派遣員引導開始進行胸部按壓",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:57.268Z"
+    }
   }
 ]

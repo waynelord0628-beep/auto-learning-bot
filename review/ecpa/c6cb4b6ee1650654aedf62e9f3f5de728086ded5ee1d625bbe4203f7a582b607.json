@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "4分鐘",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T10:19:58.125Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "4分鐘",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:45.961Z"
+    },
+    "resolved_answer": "4分鐘"
   },
   {
     "id": "1d137547d48ea16298b61e0db28c38db4859ca1fdfa029b6261dd97e6d2b282e",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公共廁所",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.903Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "公共廁所",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:46.326Z"
+    },
+    "resolved_answer": "公共廁所",
+    "verification_status": "source_supported"
   },
   {
     "id": "3379b0ea1aef00e5e99f85cd14fc444ebad903963c23893bd2bcb94a545698cd",
@@ -67,13 +98,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "緊急醫療救護法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "緊急醫療救護法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.202Z"
+    },
+    "resolved_answer": "緊急醫療救護法",
+    "verification_status": "source_supported"
   },
   {
     "id": "4e6f3b17c4558bc5448b56affc22f62f2989efe36a7ee1130aafdc747f6d7de1",
@@ -86,13 +131,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第一個「叫」是指119 求援並取得AED",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.905Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "「電」是指使用AED",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.451Z"
+    },
+    "resolved_answer": "「電」是指使用AED",
+    "verification_status": "source_supported"
   },
   {
     "id": "660be986d6bf7080eae99eb54263f368d5109cef48b43f39147cd3349d3c1cc2",
@@ -105,13 +164,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "任何年齡層皆可使用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.906Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "任何年齡層皆可使用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:47.944Z"
+    },
+    "resolved_answer": "任何年齡層皆可使用",
+    "verification_status": "source_supported"
   },
   {
     "id": "1ecaecdfcf0fc694ee7ae112e72e3b289592d6eb7bd127dfb6ca5859f397ba1c",
@@ -124,13 +197,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.907Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:48.277Z"
+    },
+    "resolved_answer": "給予AED 電擊的目的是讓心臟有能量可以跳動",
+    "verification_status": "source_supported"
   },
   {
     "id": "1948723a6e9e1ced8d07d261cedcd8d9cd53c6531fb20dd5c9ab975be33cbb16",
@@ -162,13 +249,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.908Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:48.860Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "cb51182b945d59a07543aa48d8ebce9fdd3ebbd74ee77066d84118f158934ba2",
@@ -181,13 +282,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "胸回彈可增加回心血流",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.908Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "胸回彈可增加回心血流",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:49.183Z"
+    },
+    "resolved_answer": "胸回彈可增加回心血流",
+    "verification_status": "source_supported"
   },
   {
     "id": "0363e76c883cd5f5e96a9231cf516923d4dc9f2be672cbad184f7d5fdb74d12c",
@@ -219,13 +334,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "太累時儘早換人接手",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:22.940Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "太累時儘早換人接手",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:49.825Z"
+    },
+    "resolved_answer": "太累時儘早換人接手",
+    "verification_status": "source_supported"
   },
   {
     "id": "5605d3f87955ccb176ab6e256b702f1a7111f086914c596d4de0a90ce6965da9",
@@ -238,13 +367,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3分鐘",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:22.941Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "10分鐘",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.109Z"
+    },
+    "resolved_answer": "10分鐘",
+    "verification_status": "source_supported"
   },
   {
     "id": "fa83eb4fffc8aa1ba736726e3812312a71fba5a94797d2ca0f56bccba4fac0bd",
@@ -276,13 +419,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:22.943Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.705Z"
+    },
+    "resolved_answer": "此時CPR 其實沒有意義，只是為了等待AED 到達",
+    "verification_status": "source_supported"
   },
   {
     "id": "3167e29e6c53fc486e15f3db9e7d114423d251231c9d45d9be01ab0fc02c1381",
@@ -295,13 +452,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "打119，依派遣員指示急救",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:22.944Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "打119，依派遣員指示急救",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:50.998Z"
+    },
+    "resolved_answer": "打119，依派遣員指示急救",
+    "verification_status": "source_supported"
   },
   {
     "id": "36019428b7713c1f948842b472a27040a11f36a26d70a5cdcdaa0befb656b808",
@@ -314,13 +485,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.871Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.252Z"
+    },
+    "resolved_answer": "身體有藥物貼片時，不需要移除藥物貼片，即可操作AED",
+    "verification_status": "source_supported"
   },
   {
     "id": "4622e686469bc84d9fd05aac9ec51f244956ab35f2a1d13d0928ad563a9e4df5",
@@ -333,13 +518,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.872Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.642Z"
+    },
+    "resolved_answer": "不需人工呼吸，只要確實地做好高品質壓胸即可",
+    "verification_status": "source_supported"
   },
   {
     "id": "19625cf50fdc51b3a4144df64a42210d59949e41aaf5d0e8b82d53018d3454b6",
@@ -352,13 +551,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上情況皆不能碰觸病人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.873Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "貼貼片時",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:51.929Z"
+    },
+    "resolved_answer": "貼貼片時",
+    "verification_status": "source_supported"
   },
   {
     "id": "8ca0984f6e74ab107ece3089d51193f70d958d16ae24a3c446b064d0dee41be2",
@@ -371,13 +584,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "執行AED 電擊能夠讓病人存活率提升為兩倍",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.873Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.369Z"
+    },
+    "resolved_answer": "在台灣每年約有兩千人在社區中因為心臟停止送醫",
+    "verification_status": "source_supported"
   },
   {
     "id": "d3065c089bb5714c7b029cf655a2757e48eebba4f71a57440bae91823b2b3c3f",
@@ -390,13 +617,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "繼續胸部按壓",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.874Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "繼續胸部按壓",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.661Z"
+    },
+    "resolved_answer": "繼續胸部按壓",
+    "verification_status": "source_supported"
   },
   {
     "id": "92c41f6b8024b3bc02ca48bbbf52e78eb9b95fd7e4284d5397093806503a98e4",
@@ -409,13 +650,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減緩存活率下降的速度至每分鐘7-10%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:55:49.874Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "減緩存活率下降的速度至每分鐘7-10%",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:52.904Z"
+    },
+    "resolved_answer": "減緩存活率下降的速度至每分鐘7-10%",
+    "verification_status": "source_supported"
   },
   {
     "id": "be6bec39f138df776a364985068eb59b48de5e89942e36c83c1332da6031ee49",
@@ -504,13 +759,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:29.933Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.022Z"
+    },
+    "resolved_answer": "緊急醫療救護法中，提供緊急醫療的一般民眾適用緊急避難免責的條款",
+    "verification_status": "source_supported"
   },
   {
     "id": "362dc89012751ddf4ea227dfa11c74493021ff35e557b187c974b86618787491",
@@ -523,13 +792,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上情況皆可停止",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:29.935Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上情況皆可停止",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.310Z"
+    },
+    "resolved_answer": "以上情況皆可停止",
+    "verification_status": "source_supported"
   },
   {
     "id": "d430da45ae4c9fce4f4ed87fd4cd1cd09371682f60966f256435d98624c14963",
@@ -542,13 +825,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "協助緊急醫療系統支援CPR 案件",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:29.937Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "協助緊急醫療系統支援CPR 案件",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:54.703Z"
+    },
+    "resolved_answer": "協助緊急醫療系統支援CPR 案件",
+    "verification_status": "source_supported"
   },
   {
     "id": "ab116c7724b5e960ada6cbdc56e8355a62617f4a4e77f436fd9d3760111a5af3",
@@ -580,13 +877,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "輕拍肩膀",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.068Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "輕拍肩膀",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.242Z"
+    },
+    "resolved_answer": "輕拍肩膀",
+    "verification_status": "source_supported"
   },
   {
     "id": "dece97c03ef1477bfd5caf8f63bd81fbf44b560fa9a6cdadc110b2671b0111e6",
@@ -599,13 +910,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "叫叫電壓",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.069Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "叫叫壓電",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.249Z"
+    },
+    "resolved_answer": "叫叫壓電",
+    "verification_status": "source_supported"
   },
   {
     "id": "1bf7c6477765c84a288bcd3e0505419a2829374010858a3eeb68a28112b29c53",
@@ -618,13 +943,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "ACB",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.069Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "ABC",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.546Z"
+    },
+    "resolved_answer": "ABC",
+    "verification_status": "source_supported"
   },
   {
     "id": "3010d889e87657c0edb1f4fd28ae7c513d5182fcbd3df510d6d92c642793c161",
@@ -637,13 +976,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "口訣是「叫-叫-A-B-C」",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.071Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "口訣是「叫-叫-A-B-C」",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.951Z"
+    },
+    "resolved_answer": "口訣是「叫-叫-A-B-C」",
+    "verification_status": "source_supported"
   },
   {
     "id": "b04a2f3afccada6e9436d8f9363f1be22acb7a9362c9ac8782598cfb9428225d",
@@ -656,13 +1009,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "人工呼吸對人體有害",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "人工呼吸對人體有害",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:55.982Z"
+    },
+    "resolved_answer": "人工呼吸對人體有害",
+    "verification_status": "source_supported"
   },
   {
     "id": "581dc2b6737614ddd47e16269ee860865d8dac3fc6cb69d89e0f773dfc7e5947",
@@ -675,13 +1042,27 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "開貼電",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:26:57.077Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "開貼電",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:56.252Z"
+    },
+    "resolved_answer": "開貼電",
+    "verification_status": "source_supported"
   },
   {
     "id": "d82741809b11a37f8ea2cf08a951cdfbd299fe135e41215e116667e82aad12ea",
@@ -694,15 +1075,29 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:27:30.993Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-19T15:20:03.528Z"
+    "retry_after": "2026-11-19T15:20:03.528Z",
+    "source_review": {
+      "answer": "壓胸時應該跪在病患的頭側",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:56.653Z"
+    },
+    "resolved_answer": "壓胸時應該跪在病患的頭側",
+    "verification_status": "source_supported"
   },
   {
     "id": "131624ff56b929cac9762f028a224b2032a8e7057713435a804b5be04acf5b1c",
@@ -715,15 +1110,29 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:27:30.997Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-19T15:20:03.528Z"
+    "retry_after": "2026-11-19T15:20:03.528Z",
+    "source_review": {
+      "answer": "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:57.003Z"
+    },
+    "resolved_answer": "撥打119 並且將手機開擴音後，盡快開始胸部按壓並配合派遣員引導",
+    "verification_status": "source_supported"
   },
   {
     "id": "2307b3430cea0b1e1cf44d4e836906fa47781ec4ec2bd8f8857494ee73da5b19",
@@ -736,14 +1145,28 @@
     ],
     "type": "單選",
     "course": "民眾版CPR+AED教學影片",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:27:30.999Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-19T15:20:03.528Z"
+    "retry_after": "2026-11-19T15:20:03.528Z",
+    "source_review": {
+      "answer": "請報案民眾依照派遣員引導開始進行胸部按壓",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/08/cpraedee.html",
+          "title": "「民眾版CPR+AED教學影片」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T10:19:57.268Z"
+    },
+    "resolved_answer": "請報案民眾依照派遣員引導開始進行胸部按壓",
+    "verification_status": "source_supported"
   }
 ]
