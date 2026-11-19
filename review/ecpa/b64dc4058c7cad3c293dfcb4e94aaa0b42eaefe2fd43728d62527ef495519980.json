@@ -52,13 +52,34 @@
     ],
     "type": "是非",
     "course": "獼猴三不與獼猴科普教育",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T12:09:44.158Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T03:20:31.365Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.taiwan.nps.gov.tw/home/zh-tw/eco-gallery/21526",
+          "quote": "臺灣獼猴為雜食性，以果實為主要食物來源。牠們的食性極廣，除了已記錄到取食的植物種類超過 300 種，植物的各部位從種子、果實、花、葉子、莖條、嫩芽，樹皮、根乃至蟲蠳都是獼猴會吃的東西。"
+        },
+        {
+          "url": "https://www.taiwan.nps.gov.tw/home/zh-tw/news/28766",
+          "quote": "森林裡有許多牠們愛吃的食物，如各種植物的果實、葉片及嫩枝芽等等，有超過300種以上的植物，是獼猴天然美食，牠們也會補捉昆蟲等動物性食物來補充蛋白質，所以並不需要人類餵食。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-19T03:20:30.175Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "c2a565f4ade6cc399f7bb532ca775435e51df81d38eee0dfd48fb96bff8e9408",

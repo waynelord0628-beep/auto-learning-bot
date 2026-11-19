@@ -135477,5 +135477,32 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-18T14:20:25.035Z"
     }
+  },
+  {
+    "question": "臺灣獼猴平常只吃香蕉，不會吃其他東西。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "獼猴三不與獼猴科普教育",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.taiwan.nps.gov.tw/home/zh-tw/eco-gallery/21526",
+          "quote": "臺灣獼猴為雜食性，以果實為主要食物來源。牠們的食性極廣，除了已記錄到取食的植物種類超過 300 種，植物的各部位從種子、果實、花、葉子、莖條、嫩芽，樹皮、根乃至蟲蠳都是獼猴會吃的東西。"
+        },
+        {
+          "url": "https://www.taiwan.nps.gov.tw/home/zh-tw/news/28766",
+          "quote": "森林裡有許多牠們愛吃的食物，如各種植物的果實、葉片及嫩枝芽等等，有超過300種以上的植物，是獼猴天然美食，牠們也會補捉昆蟲等動物性食物來補充蛋白質，所以並不需要人類餵食。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-19T03:20:30.175Z"
+    }
   }
 ]
