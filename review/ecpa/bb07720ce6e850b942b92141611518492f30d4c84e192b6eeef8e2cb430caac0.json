@@ -39,6 +39,10 @@
     "candidate_answer": "必須同時在「水平（左右）」及「垂直（上下）」兩個方向捲動才能看完內容",
     "source": "ai_unverified",
     "created_at": "2026-11-01T06:13:48.257Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T06:20:33.270Z",
+    "verification_status": "insufficient_sources"
   }
 ]
