@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.295Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T05:20:36.029Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:24.114Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "9c2f466e3d5b18658b5a6645ebe48e8d2c3dafd22930f28b3efb6340f7137552",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.303Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:24.824Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "11d39f9adab882cf2ed516d361939624dfac501dd8ce9c18d1823283bb704a4d",
@@ -44,13 +75,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "中華民國臺灣",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.306Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "中華民國臺灣",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:25.509Z"
+    },
+    "resolved_answer": "中華民國臺灣",
+    "verification_status": "source_supported"
   },
   {
     "id": "677d02ff620e1f400d62379d69cc55c0c2c10886ab380087fbdd569da8e28cdf",
@@ -61,13 +106,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.311Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:26.024Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "ac832b0215ab6fdd65e3f60c5e23eec923820a1c4b9474887e8bf3359338082e",
@@ -78,13 +137,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.316Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:26.801Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "e3f8ad1d289d9b6cbbd765a50ccc0cf3ad5d0981cbd0c8a611fdcd02a1f5aa12",
@@ -95,13 +168,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.319Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:27.592Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "758ec982d0f4bf2f592ecfa98d90c7b4763c12c0ffcd59ccf5b8026a9269d4da",
@@ -112,13 +199,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.322Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:28.091Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "1ed8b0564323a5eee46c0ce897ffe0277c880e54b5a256ef9f100d07676096aa",
@@ -129,13 +230,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.329Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:28.553Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "a347a279bed066d848778f912a1c68e9dd70ad20492da6dfcd4b8e2cb54e6be7",
@@ -148,13 +263,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "無法復原之腦部結構損傷",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.330Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "昏迷指數3T以下",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:29.022Z"
+    },
+    "resolved_answer": "昏迷指數3T以下",
+    "verification_status": "source_supported"
   },
   {
     "id": "c9e85b21ff161f0cb0c469e2ab2a617fdfd12c86fb543015797e4048a1fb28ac",
@@ -165,13 +294,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:46:24.333Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:29.604Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "70135e5f9c753648dfd87338a4db30770acd2e0b8da634150137c0f028b858e6",
@@ -182,13 +325,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.618Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:30.121Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "76243c8a3018ee36ddb6a6bc44639cd5fab22199bf035d2c2be12ac7b6079937",
@@ -201,13 +358,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.621Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:30.572Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "18e84d86cd7a95aa855113b82e755d6f11cab308140a14c66960cb6e99ea22c3",
@@ -220,13 +391,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "患有顱內腫瘤也是可以器官捐贈",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.622Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "庫賈氏病是可以捐贈器官的",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:31.100Z"
+    },
+    "resolved_answer": "庫賈氏病是可以捐贈器官的",
+    "verification_status": "source_supported"
   },
   {
     "id": "f14c1c5df0aa2381c6c78ab14005261f7d394cba50b682c7b4847ee56f9391cc",
@@ -239,13 +424,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.622Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:31.549Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "6ee355b85e63b580afeeb1bf2175ba455e910895b89fade5edaf3d8e83a612d6",
@@ -258,13 +457,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沒有年齡限制",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.623Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "沒有年齡限制",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:31.996Z"
+    },
+    "resolved_answer": "沒有年齡限制",
+    "verification_status": "source_supported"
   },
   {
     "id": "4562aef69a8a92e82e5d6837b428896ad34f37ba6a12b2e906229a176fedff00",
@@ -275,13 +488,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:01.624Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:32.597Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "1288d1bc9ebc375b04f7f4ac179b67a52ccb4c2f64592ef043aed04c9e154094",
@@ -294,13 +521,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "子宮",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.899Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "子宮",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:32.623Z"
+    },
+    "resolved_answer": "子宮",
+    "verification_status": "source_supported"
   },
   {
     "id": "f8af4f4b7dc903ec89f385d1af12f8fb68be03572d8492b5ab36db5d1d60f51d",
@@ -313,13 +554,27 @@
     ],
     "type": "單選",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "因為上述各國法律異同，使美國成為世界器官捐贈率最高的國家",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "因為上述各國法律異同，使美國成為世界器官捐贈率最高的國家",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:33.260Z"
+    },
+    "resolved_answer": "因為上述各國法律異同，使美國成為世界器官捐贈率最高的國家",
+    "verification_status": "source_supported"
   },
   {
     "id": "524744173f53bb4f9f925ea83089f4ae85b09e43d971b6f1d06ab4f06d48e968",
@@ -330,13 +585,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.901Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:33.738Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "b6bfc207807e39521439bcd39e9e58a911d57224c998fd28d62b9c5d563a0ac1",
@@ -347,13 +616,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.902Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:34.446Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "c931f4127d64d4e8a44d727a39db5cbaffb55e835a74e8b991227fc1bb34dcc0",
@@ -364,13 +647,27 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.903Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:34.880Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "bfbdb3343acae4b26036a487854fd35e12625efd69814d9dc559d2aaa05c2f07",
@@ -381,12 +678,26 @@
     ],
     "type": "是非",
     "course": "器官捐贈移植介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-12T08:47:32.904Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_165.html",
+          "title": "「器官捐贈移植介紹」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:20:34.904Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
