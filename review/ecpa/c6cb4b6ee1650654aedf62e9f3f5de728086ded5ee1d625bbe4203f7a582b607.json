@@ -85,7 +85,11 @@
     "candidate_answer": "全民守護者",
     "source": "ai_unverified",
     "created_at": "2026-11-13T19:54:44.904Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T10:20:22.892Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "9693daf377dd2325cb9126fb3c0e547a23534fb6b4606e27ba44fce56bfa3c92",
