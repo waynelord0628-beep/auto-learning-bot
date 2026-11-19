@@ -135504,5 +135504,59 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-19T03:20:30.175Z"
     }
+  },
+  {
+    "question": "開玩笑的黃色笑話不算性騷擾。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性騷擾防治",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:19:56.253Z"
+    }
+  },
+  {
+    "question": "下班後被同事持續性騷擾，可以要求公司負責。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性騷擾防治",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_01579701659.html",
+          "title": "「性騷擾防治」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15347613697",
+          "title": "性騷擾防治《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-19T05:19:57.616Z"
+    }
   }
 ]
