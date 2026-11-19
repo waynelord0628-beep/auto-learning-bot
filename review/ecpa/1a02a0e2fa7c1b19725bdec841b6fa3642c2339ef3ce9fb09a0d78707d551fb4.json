@@ -580,7 +580,9 @@
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:32:24.851Z",
-    "review_state": "awaiting_candidate"
+    "review_state": "awaiting_candidate",
+    "retry_count": 1,
+    "retry_after": "2026-11-20T12:19:46.462Z"
   },
   {
     "id": "99dbbc28372f87e5360c1d43f240e73d5c9cee1eac8c7b4419c75faea6a59dd5",
