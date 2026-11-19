@@ -37,7 +37,11 @@
     "candidate_answer": "將食物收好不外露",
     "source": "ai_unverified",
     "created_at": "2026-11-12T12:09:44.157Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-26T03:20:14.287Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "ce529f2dd7ec9d34750e6c471a3e93ff73b49f143ccd582b9a203e3d71fe4de6",
