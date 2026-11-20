@@ -134,6 +134,10 @@
     "candidate_answer": "登革熱流行時，住所及場所負責人可以不用清理積水容器，交給衛生單位處理就好。",
     "source": "ai_unverified",
     "created_at": "2026-10-30T14:57:26.456Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-27T09:20:42.244Z",
+    "verification_status": "insufficient_sources"
   }
 ]
