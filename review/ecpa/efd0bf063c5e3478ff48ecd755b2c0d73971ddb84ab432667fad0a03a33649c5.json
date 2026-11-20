@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.755Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-27T15:20:07.666Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:19:57.394Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "fe428f7082ee360c54fb6bf2a4262bcf93d015ad7b60b1154447448d175fadd5",
@@ -25,13 +42,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.756Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:19:59.297Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "ae164387b6569f8a48593eb67daef555a75623017dddf818753bee8700478c3f",
@@ -42,13 +73,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.756Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:00.069Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "77693233765f6a67817b95deb1acd0c241ba75eb2894985f955e57f99fb21640",
@@ -59,13 +104,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.757Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:00.867Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "628efbc6b3d6f54459904f86ca16062368f81933fdc70a0ac57005dcad57fa1a",
@@ -76,13 +135,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.757Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:01.213Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "27424ad5c30c6c37cb07d96311a3d56d20ea7d517b71927c7915f672adcc6505",
@@ -93,13 +166,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.757Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:01.715Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "84f31629592e6ace0038fec333cf5f6b08d5c0714367d0f6e6d735bff9084438",
@@ -110,13 +197,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.758Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:01.733Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "8e8b99adc579e14eecac89744606f92f9ef00ad428ab7fef7ee39f01203b65ef",
@@ -127,13 +228,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.758Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:02.120Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9c16aedf2c915e5fa9aef43f3ac25e383bb825edd4aefe14a7780b18a2ac1711",
@@ -144,13 +259,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.758Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:02.689Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "fd2af2b8950f5fa5b19e292a32d6ece6cf801a6fd840d71c6a71c914ff9749ec",
@@ -161,13 +290,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:20.759Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:03.250Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "39cd6c40f46a7f3e79256c6ef89a1be332b685c47701406e3d9a118d4bfbe7ea",
@@ -178,13 +321,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.187Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:03.665Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "e5863ecdc17284aeac3bb91a93d7079f552f6d71717313d44983e72669627954",
@@ -195,13 +352,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.189Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:04.438Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9a09c44665cc6bfe99fe3577c7b4f6e9badaf740940501668d187f5f181d1a05",
@@ -212,13 +383,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.190Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:04.882Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "37b8ce1c0a694f7fc705455a886869b66141a8871ce42b9bba65b35c70934be6",
@@ -229,13 +414,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.191Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:05.373Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "446ff3725df72b7c676a3afaa17adee8ef952a3ba00e676c35523294e63e384a",
@@ -246,13 +445,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.192Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:05.749Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "d85110359a2c4ea36569306cf47afdf115852e23ae8bb8f0a42e30f69cbba63a",
@@ -263,13 +476,27 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.196Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:06.213Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "9fd0f41d8dde5d65f515f35adef7f931ea97e21acb710935c095ea49b97c244f",
@@ -280,12 +507,26 @@
     ],
     "type": "是非",
     "course": "生物安全：生物安全計畫管理",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T06:28:56.203Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_5.html",
+          "title": "【解答】生物安全：生物安全計畫管理 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T15:20:06.609Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
