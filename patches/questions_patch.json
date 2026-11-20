@@ -136980,5 +136980,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-20T07:20:14.807Z"
     }
+  },
+  {
+    "question": "ICERD是否於1965年12月21日聯合國大會正式通過，在1969年1月4日生效？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://treaties.un.org/PAGES/ViewDetails.aspx?chapter=4&clang=_en&mtdsg_no=IV-2&src=TREATY",
+          "quote": "Entry into force : 4 January 1969, in accordance with article 19."
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-20T07:20:46.375Z"
+    }
   }
 ]
