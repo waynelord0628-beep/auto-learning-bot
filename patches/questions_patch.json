@@ -136955,5 +136955,30 @@
       "model": null,
       "checked_at": "2026-11-19T11:19:55.589Z"
     }
+  },
+  {
+    "question": "國際審查委員會於何年通過中華民國（臺灣）ICERD首次國家報告之結論性意見與建議？",
+    "type": "單選",
+    "options": [
+      "2022年",
+      "2023年",
+      "2024年",
+      "2025年"
+    ],
+    "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
+    "answer": "2024年",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "2024年",
+      "sources": [
+        {
+          "url": "https://www.immigration.gov.tw/5382/5385/7229/7238/367833",
+          "quote": "首次國家報告國際審查結論性意見與建議出爐"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-20T07:20:14.807Z"
+    }
   }
 ]

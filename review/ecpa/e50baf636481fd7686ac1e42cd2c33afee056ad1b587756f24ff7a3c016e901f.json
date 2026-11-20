@@ -86,17 +86,30 @@
     ],
     "type": "單選",
     "course": "消除一切形式種族歧視國際公約(ICERD)法院裁判分析",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2022年",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-28T17:47:53.149Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-18T05:20:32.735Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-27T07:20:23.544Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2024年",
+      "sources": [
+        {
+          "url": "https://www.immigration.gov.tw/5382/5385/7229/7238/367833",
+          "quote": "首次國家報告國際審查結論性意見與建議出爐"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-20T07:20:14.807Z"
+    },
+    "resolved_answer": "2024年"
   },
   {
     "id": "fccfd6fc460fb2d35d3d8c93c1d431492138ee93c097b56c74da24ef182a8854",
