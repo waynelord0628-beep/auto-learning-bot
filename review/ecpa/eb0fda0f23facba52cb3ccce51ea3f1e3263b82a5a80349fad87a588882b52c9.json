@@ -39,7 +39,11 @@
     "candidate_answer": "完成有效性評估",
     "source": "ai_unverified",
     "created_at": "2026-11-13T07:59:41.168Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-27T13:20:31.682Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "7dc0120f54e2b3b8fecb1f0f5e6a6e74f217d9b37ee3ecc3e34b6dbe69484703",
