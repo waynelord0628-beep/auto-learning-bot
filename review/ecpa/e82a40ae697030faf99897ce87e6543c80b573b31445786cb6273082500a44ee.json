@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "氣候變遷維持",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.441Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-27T10:19:52.582Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "氣候變遷維持",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:47.504Z"
+    },
+    "resolved_answer": "氣候變遷維持"
   },
   {
     "id": "72d0d8011a8dbe743bcbb6686cb7719289e14a46f698175ba27e3b97ca0a1466",
@@ -48,13 +65,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "野生動物保育法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.479Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "野生動物保育法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:47.807Z"
+    },
+    "resolved_answer": "野生動物保育法",
+    "verification_status": "source_supported"
   },
   {
     "id": "19bbc62d1bb1c43600cd54a9b01872f1d6486a30f2ac312287de27dab0d55115",
@@ -67,13 +98,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "闖關→生存→繁殖→拓展→競爭→衝擊",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.483Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "闖關→生存→繁殖→拓展→競爭→衝擊",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:48.064Z"
+    },
+    "resolved_answer": "闖關→生存→繁殖→拓展→競爭→衝擊",
+    "verification_status": "source_supported"
   },
   {
     "id": "829baafdbaca7705ecd56e89b6e95cff9f3465b47d5cf688e8e4c0adbce5dc4e",
@@ -84,13 +129,27 @@
     ],
     "type": "是非",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.496Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:48.427Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "73b479382abf176a8b01aa04a1e81c834d647ea57c530074c3eb63ced426358f",
@@ -103,13 +162,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "限制貿易",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.502Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:48.737Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "778d17fd86388829286859f805c057609ec33eb7be0f2c37e75eeea65e248578",
@@ -122,13 +195,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2030年 淨零排放目標入法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.518Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2030年 淨零排放目標入法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:48.755Z"
+    },
+    "resolved_answer": "2030年 淨零排放目標入法",
+    "verification_status": "source_supported"
   },
   {
     "id": "6ace553982ba3e1b82a788e689f8ffc596b0af3dbb831c06b28fe500b9f3a5a7",
@@ -141,13 +228,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.527Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:49.007Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "f48af3ae2f8e91ac922c7ccf8d3a703857aa9f612a65d1ccca92224d7fed6878",
@@ -160,13 +261,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "對於台灣西岸該種屬於本土入侵種",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.538Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "對於台灣東岸該種屬於本土入侵種",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:49.238Z"
+    },
+    "resolved_answer": "對於台灣東岸該種屬於本土入侵種",
+    "verification_status": "source_supported"
   },
   {
     "id": "9c8eae938018646470e7b72bfb7c61fdef57379718e510e4d4c519a50d129066",
@@ -177,13 +292,27 @@
     ],
     "type": "是非",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:06.552Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:49.531Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9feb9ddab8899904b8a2da67687cbbdd588df22b4292943d34aff1a9035f2d72",
@@ -196,15 +325,29 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:38.101Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-20T00:19:39.054Z"
+    "retry_after": "2026-11-20T00:19:39.054Z",
+    "source_review": {
+      "answer": "貓狗並非原生動物，若野化自行繁殖並危害生態就屬於入侵種",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:49.766Z"
+    },
+    "resolved_answer": "貓狗並非原生動物，若野化自行繁殖並危害生態就屬於入侵種",
+    "verification_status": "source_supported"
   },
   {
     "id": "d5e2c32fddc83b4bbfe8b2bc608773d3ca6dd0fd245e6a8679fb2e284375afd1",
@@ -215,13 +358,27 @@
     ],
     "type": "是非",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:38.102Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:50.026Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "4dd0471e3ec4fc08fbb2564863f70015cea6c871a4d62cbb97b64df4c2aff81d",
@@ -234,15 +391,29 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:38.103Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-20T00:19:39.054Z"
+    "retry_after": "2026-11-20T00:19:39.054Z",
+    "source_review": {
+      "answer": "引進外來種和原生種雜交，可以改變基因組成提高遺傳基因多樣性，好處多於壞處",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:50.274Z"
+    },
+    "resolved_answer": "引進外來種和原生種雜交，可以改變基因組成提高遺傳基因多樣性，好處多於壞處",
+    "verification_status": "source_supported"
   },
   {
     "id": "e1cdbae03ecf9441f3d581ae56a3f16c164e0c723c4db6393593c7fcdac72f6c",
@@ -255,15 +426,29 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:44:38.105Z",
-    "review_state": "awaiting_evidence",
+    "review_state": "source_reviewed",
     "retry_count": 3,
-    "retry_after": "2026-11-20T00:19:39.054Z"
+    "retry_after": "2026-11-20T00:19:39.054Z",
+    "source_review": {
+      "answer": "以上皆非",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:50.829Z"
+    },
+    "resolved_answer": "以上皆非",
+    "verification_status": "source_supported"
   },
   {
     "id": "5584acaecd94d70c33c0949fd1e530a9b30cdd261d182b52ea0be7b89996fee0",
@@ -277,13 +462,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T18:45:04.191Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:51.127Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "cd792dcfc6b1738554d8ec4bfd0023e0e8d5fc541200443dda6a9f02d252e6e1",
@@ -294,13 +493,27 @@
     ],
     "type": "是非",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:23:36.027Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:51.369Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "d40dc92b4406a14fc73366bf5c163133551b03a558fbb7207aa0cbe918507a20",
@@ -313,13 +526,27 @@
     ],
     "type": "單選",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "荔枝椿象 – 危害龍眼與荔枝產業",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T14:24:33.785Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "荔枝椿象 – 危害龍眼與荔枝產業",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:51.599Z"
+    },
+    "resolved_answer": "荔枝椿象 – 危害龍眼與荔枝產業",
+    "verification_status": "source_supported"
   },
   {
     "id": "3f41d968c83af80737bb68f638eba0a53ff17d24cdab94e10316cd91ec76790d",
@@ -330,12 +557,26 @@
     ],
     "type": "是非",
     "course": "幸福家園-環境倫理與永續發展(升官等訓練)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-17T12:10:11.983Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/08/ee.html",
+          "title": "「幸福家園-環境倫理與永續發展(升官等訓練)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-20T10:19:51.846Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]
