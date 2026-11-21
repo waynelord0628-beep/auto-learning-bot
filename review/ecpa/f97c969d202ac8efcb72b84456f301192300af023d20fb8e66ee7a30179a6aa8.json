@@ -16,7 +16,11 @@
     "candidate_answer": "套筒與排氣系統連接",
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.565Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-28T00:20:09.637Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "360da663b526880676d07efec3a96d5b62c3ea60cf1c1e6e8c45a0d49e8b1acb",
@@ -27,13 +31,27 @@
     ],
     "type": "是非",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.570Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:03.493Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "f5d2b8f30f6e5e17092582cdbd6ea1ba2feb9182f2f2eae08c085b6291dbc7ab",
@@ -65,13 +83,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "400μW/cm2",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.572Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "40μW/cm2",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:03.767Z"
+    },
+    "resolved_answer": "40μW/cm2",
+    "verification_status": "source_supported"
   },
   {
     "id": "e88a29b90b88089724c37fe1f08a666a5ff1a26f4ec48fa77f9a5244718b6896",
@@ -82,13 +114,27 @@
     ],
     "type": "是非",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.572Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.281Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "34b965e790c6d7afbfba70144599fe43c016207c5e7d62b089364dc0ae9dee64",
@@ -101,13 +147,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第II級BSC – B2",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.572Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "第II級BSC – B2",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.557Z"
+    },
+    "resolved_answer": "第II級BSC – B2",
+    "verification_status": "source_supported"
   },
   {
     "id": "b444fa0db90fd9c16fce522e78c65c83d517f66e5c02124f079b723cbcbb538a",
@@ -137,13 +197,27 @@
     ],
     "type": "是非",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.573Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.810Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "45db9609efcceb537aed06491c7529ec9e9dcf60417e6c477fa500b796dd2661",
@@ -154,13 +228,27 @@
     ],
     "type": "是非",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.573Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:05.825Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "8431b61b108c1ae3cc02ec4d8b2700104259bcf98d1434587d196cf4a79e97cc",
@@ -173,13 +261,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "0.7",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:02:38.574Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "0.7",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:06.683Z"
+    },
+    "resolved_answer": "0.7",
+    "verification_status": "source_supported"
   },
   {
     "id": "2406c739508597e036daf5f3a7c5eb8b03408e07eb64736386ce36da3b9e8987",
@@ -192,13 +294,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "第IV級",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.294Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "第IV級",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:06.993Z"
+    },
+    "resolved_answer": "第IV級",
+    "verification_status": "source_supported"
   },
   {
     "id": "b5fc50dce6a2db94e188d0f975d6e234a66011f7b72b73a06078c87dddf9d287",
@@ -211,13 +327,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "0.05%",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.296Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "0.01%",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.270Z"
+    },
+    "resolved_answer": "0.01%",
+    "verification_status": "source_supported"
   },
   {
     "id": "8b15e367176029c6e22075754f4bc3935b7a29885b64f5121f8cbf894746e330",
@@ -230,13 +360,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "經NSF49 訓練合格者",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.298Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "經NSF49 訓練合格者",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.535Z"
+    },
+    "resolved_answer": "經NSF49 訓練合格者",
+    "verification_status": "source_supported"
   },
   {
     "id": "4bd0d0bcf9e929745d77ad7526701d241cf042e4ab0b39758bc02ec4132fcb6a",
@@ -249,13 +393,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "下吹氣流",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.300Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "壓力遞減測試",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.751Z"
+    },
+    "resolved_answer": "壓力遞減測試",
+    "verification_status": "source_supported"
   },
   {
     "id": "ec96ed61d342c8cd9b2310e30e50e2d089c2915b62ec127702a3e49f7f482e43",
@@ -268,13 +426,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "回噴",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:23.305Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "回噴",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.389Z"
+    },
+    "resolved_answer": "回噴",
+    "verification_status": "source_supported"
   },
   {
     "id": "aa13602660aa39240e22f3bb9dc200eee0e894503d3a420234fd5abaa479dac3",
@@ -287,13 +459,27 @@
     ],
     "type": "單選",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "風速計",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:55.800Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "風速計",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.681Z"
+    },
+    "resolved_answer": "風速計",
+    "verification_status": "source_supported"
   },
   {
     "id": "d8bd27549a88b76eb900ae6487a8f4b8b95631cddbc00239d4581064b14c95e4",
@@ -304,12 +490,26 @@
     ],
     "type": "是非",
     "course": "生物安全櫃檢測程序與報告判讀",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T11:03:55.802Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.692Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   }
 ]

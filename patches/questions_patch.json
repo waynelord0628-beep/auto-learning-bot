@@ -137810,5 +137810,345 @@
       "model": null,
       "checked_at": "2026-11-20T15:20:06.609Z"
     }
+  },
+  {
+    "question": "第III級生物安全櫃倘使用傳遞箱進行材料遞送，應設置互鎖裝置。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:03.493Z"
+    }
+  },
+  {
+    "question": "生物安全櫃如需進行紫外線(UV)強度量測，其強度應大於？",
+    "type": "單選",
+    "options": [
+      "40W/cm2",
+      "400μW/cm2",
+      "10W/cm2",
+      "40μW/cm2"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "40μW/cm2",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "40μW/cm2",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:03.767Z"
+    }
+  },
+  {
+    "question": "進行生物安全櫃年度測試時，如平時操作時都開啟2台生物安全櫃，此時則僅需開啟一台，進行個別測試？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.281Z"
+    }
+  },
+  {
+    "question": "哪一類型的生物安全櫃，氣流型態是100%排出至外部大氣？",
+    "type": "單選",
+    "options": [
+      "第II級BSC – A1",
+      "第II級BSC – B1",
+      "第II級BSC – A2",
+      "第II級BSC – B2"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "第II級BSC – B2",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "第II級BSC – B2",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.557Z"
+    }
+  },
+  {
+    "question": "第III級生物安全櫃是專為操作&nbsp;RG3 病原體而設計的，提供產品保護和最大程度的人員和環境保護。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:04.810Z"
+    }
+  },
+  {
+    "question": "人員在第III級生物安全櫃內處理感染性物質時，應穿著正壓全身防護服進行操作。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:05.825Z"
+    }
+  },
+  {
+    "question": "第III級生物安全櫃於脫下手套時，應保持每秒幾公尺的向內定向氣流？",
+    "type": "單選",
+    "options": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "0.7",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "0.7",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:06.683Z"
+    }
+  },
+  {
+    "question": "生物安全櫃(BSC)的分級，下列何者不屬之？",
+    "type": "單選",
+    "options": [
+      "第I級",
+      "第II級",
+      "第III級",
+      "第IV級"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "第IV級",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "第IV級",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:06.993Z"
+    }
+  },
+  {
+    "question": "高防護實驗室生物安全櫃下吹氣流HEPA過濾器完整性測試，如採掃描測試上下游濃度比值應小於？",
+    "type": "單選",
+    "options": [
+      "0.1%",
+      "0.05%",
+      "0.01%",
+      "0.005%"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "0.01%",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "0.01%",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.270Z"
+    }
+  },
+  {
+    "question": "進行第II級(含)以上生物安全櫃檢測，最好由具有下列何種資格者進行？",
+    "type": "單選",
+    "options": [
+      "經NSF49 訓練合格者",
+      "工業衛生技師",
+      "冷凍空調技師",
+      "生物安全專業人員訓練合格者"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "經NSF49 訓練合格者",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "經NSF49 訓練合格者",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.535Z"
+    }
+  },
+  {
+    "question": "生物安全櫃之年度測施不需要執行以下哪個項目？",
+    "type": "單選",
+    "options": [
+      "HEPA洩漏",
+      "壓力遞減測試",
+      "下吹氣流",
+      "面速度"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "壓力遞減測試",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "壓力遞減測試",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:07.751Z"
+    }
+  },
+  {
+    "question": "第II級B2型生物安全櫃採取硬管密接，如排風機故障時可能會產生下列何種現象，造成汙染？",
+    "type": "單選",
+    "options": [
+      "暴風",
+      "回噴",
+      "洩漏",
+      "超負"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "回噴",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "回噴",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.389Z"
+    }
+  },
+  {
+    "question": "量測生物安全櫃之下抽氣流速度，應使用何種儀器？",
+    "type": "單選",
+    "options": [
+      "風速計",
+      "風量計",
+      "風壓計",
+      "發煙管"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "風速計",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "風速計",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.681Z"
+    }
+  },
+  {
+    "question": "進行生物安全櫃檢測時，須依規範中所要求的測試項目和標準進行檢測，並註明各項檢測結果是否合格，無須個別註記檢測數值。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "生物安全櫃檢測程序與報告判讀",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/blog-post_1.html",
+          "title": "【解答】生物安全櫃檢測程序與報告判讀 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T00:20:08.692Z"
+    }
   }
 ]
