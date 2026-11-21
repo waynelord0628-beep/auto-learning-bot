@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "建築物能效標示與永續發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T04:27:20.972Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-28T09:19:47.908Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/09/ee_01095709467.html",
+          "title": "「建築物能效標示與永續發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T09:19:45.226Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "2fadc0d97dc8a5ebb191d838baf4de95313e2b7faec325a665d340fd9cf1b8e9",
@@ -59,13 +76,27 @@
     ],
     "type": "是非",
     "course": "建築物能效標示與永續發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T04:27:20.973Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/09/ee_01095709467.html",
+          "title": "「建築物能效標示與永續發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T09:19:45.897Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "31a77e0d3f459de192d810eb71a3a3c9a85b5193064dd83c7c1ec89a69f95a56",
@@ -144,13 +175,27 @@
     ],
     "type": "是非",
     "course": "建築物能效標示與永續發展趨勢",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T04:27:20.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/09/ee_01095709467.html",
+          "title": "「建築物能效標示與永續發展趨勢」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T09:19:47.033Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "58f92698b5b6758d1b397b107fc6c3db4475d95512892ec683f16855941c0275",
