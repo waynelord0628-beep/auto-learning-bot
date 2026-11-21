@@ -139405,5 +139405,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-21T12:20:28.174Z"
     }
+  },
+  {
+    "question": "公部門之政府機關（構）主管、首長或其指定單位、人員屬於本法規定之受理揭弊機關。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "一、公部門之政府機關（構）主管、首長或其指定單位、人員。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-21T12:20:48.642Z"
+    }
   }
 ]
