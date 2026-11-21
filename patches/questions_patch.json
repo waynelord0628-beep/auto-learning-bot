@@ -139378,5 +139378,32 @@
       "model": null,
       "checked_at": "2026-11-21T09:19:47.033Z"
     }
+  },
+  {
+    "question": "公益揭弊者保護法之立法目的包含有效發現、防止及追究重大不法行為。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "公益揭弊者保護法說明",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047283",
+          "quote": "為保障揭弊者權益，使本法適用對象、受理揭弊機關及社會各界均能充分瞭解本法立法目的、規範架構、揭弊程序及揭弊者相關權益保障等事項"
+        },
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0070012",
+          "quote": "為維護公共利益，有效發現、防止、追究重大不法行為，並保障公部門、國營事業及受政府控制之事業、團體或機構揭弊者之權益，特制定本法。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-21T12:20:28.174Z"
+    }
   }
 ]
