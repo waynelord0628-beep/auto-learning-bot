@@ -44,17 +44,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.014Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 3,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-19T02:19:59.510Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:50.481Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a6ce39adf567655918a3663b0f57613a8815f55dc05e1420c251aaf2efd503d6",
@@ -67,17 +80,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.015Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 3,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-19T02:20:16.042Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:50.719Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "b17b2e586eca005d9a8e155a8a4c6ef25a5820f87d3877224d4d129b687c2ee1",
@@ -88,17 +114,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.016Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 3,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-11-19T02:20:31.781Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:51.009Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "5b4741c06e5a3289ff1021e14f3467f8bcae0d9be74143b97b40f28101d4f53e",
@@ -111,17 +150,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.018Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:57.905Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-28T02:19:55.018Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:50.239Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "bce062a0b7b76a53bec35f38c4c5b8751251b416581e9c181396ac76ec227060",
@@ -134,17 +186,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.020Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.912Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:51.248Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "2189a5d2ec31c670b19c826fb8e4c3cd3327c6b1bf10147df0c34c37cdfcd89a",
@@ -155,17 +220,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.022Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.919Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:51.454Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "66491e5e37aa67d366d376b86c4edbae627222c24d3542a7a86376245094b10f",
@@ -178,17 +256,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆非",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.025Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.926Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "運具電氣化",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:51.727Z"
+    },
+    "resolved_answer": "運具電氣化"
   },
   {
     "id": "81244e307b613b8951f5f76bea864003d212535471da299e424fa236374bf1ec",
@@ -199,17 +290,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.026Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.932Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:51.993Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "63b7f9beddc43f11bf0c136c267b736a5314392cc61ae5e023fe63eee1a19a93",
@@ -220,17 +324,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:10.026Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.939Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:52.188Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "891eda5ad95d70a5944bbbee03fa0cc505f6f3601928cc39613a4d0e36e566d1",
@@ -243,17 +360,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.277Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.946Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:52.403Z"
+    },
+    "resolved_answer": "以上皆是"
   },
   {
     "id": "4a4599499a119ec66b93fdb111ad4eb5435001260274346734a257b4331be491",
@@ -264,17 +394,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.280Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.954Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:52.602Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "d0261854ec1e1c434f159be74d42fe943aabf043209b68f890c1a93ac496d295",
@@ -287,17 +430,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沒有溫室效應造成暖化，地球就會更永續",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.281Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.961Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "沒有溫室效應造成暖化，地球就會更永續",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:52.827Z"
+    },
+    "resolved_answer": "沒有溫室效應造成暖化，地球就會更永續"
   },
   {
     "id": "02e9cd13675340926ac035a23adc10627963e82fda9b22cacda8d024fcdf7469",
@@ -308,17 +464,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.281Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.969Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:53.099Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "3234e1b35811fd186f6f3ddb9a10b1b7af639c24d23ed771441600c178ee8cd3",
@@ -331,17 +500,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.283Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.977Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:53.368Z"
+    },
+    "resolved_answer": "甲烷佔溫室氣體排放的比重遠低於二氧化碳，所以不用特別處理"
   },
   {
     "id": "605d8cc4d26fe37d783635a5cd658d9992f9e67b4b2bd37770f770f639e231bb",
@@ -354,17 +536,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "綠氫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-25T05:04:47.284Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.985Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "綠氫",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:53.598Z"
+    },
+    "resolved_answer": "綠氫"
   },
   {
     "id": "665b4643829f2340f79c1a09d085c542c04a8b7fd6a6b633bc391f76eeacb46e",
@@ -392,17 +587,30 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:30:53.111Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.992Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:53.888Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "e83fb2d592096fca36acf5aebf4728d9a2e6736bb035a194baa4bfedd9ab1a9f",
@@ -415,17 +623,30 @@
     ],
     "type": "單選",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "發展再生能源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:30:53.115Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:57.999Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "發展再生能源",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:54.104Z"
+    },
+    "resolved_answer": "發展再生能源"
   },
   {
     "id": "c1693d23aa0fc3a4f7878b72b30f09acfe56eaefbe1a7892752bafc9f071ca18",
@@ -436,16 +657,29 @@
     ],
     "type": "是非",
     "course": "2050淨零路徑與城市責任",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T10:31:32.413Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
     "verify_after": "2026-10-27T08:41:58.006Z",
-    "verification_status": "insufficient_sources"
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/10/2050.html?m=1",
+          "title": "【解答】2050淨零路徑與城市責任 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T02:19:54.333Z"
+    },
+    "resolved_answer": "正確"
   }
 ]
