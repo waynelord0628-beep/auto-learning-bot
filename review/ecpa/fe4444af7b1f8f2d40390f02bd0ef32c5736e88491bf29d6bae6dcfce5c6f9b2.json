@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.128Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-28T03:20:35.101Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:29.585Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "a386a866eaceaafeeb8543f9531b0a774d375c5c8f0d0d3dfe1992a7514126ee",
@@ -46,13 +63,27 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "稀釋汙染物效率",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.143Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "稀釋汙染物效率",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:30.353Z"
+    },
+    "resolved_answer": "稀釋汙染物效率",
+    "verification_status": "source_supported"
   },
   {
     "id": "15f7257a524479ac3bd288e297e4858ac2db6b0eab77b09e0f2c0455dbf8e406",
@@ -65,13 +96,27 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "12.5；7.6",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.145Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "12.5；7.6",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:30.873Z"
+    },
+    "resolved_answer": "12.5；7.6",
+    "verification_status": "source_supported"
   },
   {
     "id": "91622e7508410e8c1d9e47c743513e0efb29c0beac932b2218a73c2bba8bb6c3",
@@ -84,13 +129,27 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "NSF/ANSI 49",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.147Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "ASME N511",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:31.397Z"
+    },
+    "resolved_answer": "ASME N511",
+    "verification_status": "source_supported"
   },
   {
     "id": "57013756d54e448183bf0c62530b8a10c105789f76643016c08caeb6c59ecfe1",
@@ -103,13 +162,27 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "壓差計",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:10.148Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "壓差計",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:31.936Z"
+    },
+    "resolved_answer": "壓差計",
+    "verification_status": "source_supported"
   },
   {
     "id": "91c5f6ddb0e90fd37e51963ff4bf50ae6e4fc686f6e5ddcae5c26101a1f47a68",
@@ -141,13 +214,27 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "0.05",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:54.460Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "0.1",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:33.457Z"
+    },
+    "resolved_answer": "0.1",
+    "verification_status": "source_supported"
   },
   {
     "id": "79ae94138a3876007258a9a9bcb8bfdac1ff4f409be93668da1e2586440bd757",
@@ -160,12 +247,26 @@
     ],
     "type": "單選",
     "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "12",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T12:39:54.461Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "12",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:33.898Z"
+    },
+    "resolved_answer": "12",
+    "verification_status": "source_supported"
   }
 ]

@@ -138582,5 +138582,178 @@
       "model": null,
       "checked_at": "2026-11-21T02:19:54.333Z"
     }
+  },
+  {
+    "question": "為燻蒸消毒過程中保持實驗室或HEPA過濾器空間的密封，需確保隔離風門（例如Bubble Tight Damper）的功能正常。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:29.585Z"
+    }
+  },
+  {
+    "question": "換氣次數越高，表示下列哪一種效果越好？",
+    "type": "單選",
+    "options": [
+      "節能效率",
+      "稀釋汙染物效率",
+      "通風效率",
+      "層流效率"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "稀釋汙染物效率",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "稀釋汙染物效率",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:30.353Z"
+    }
+  },
+  {
+    "question": "通風空調系統需維持24小時運轉，負壓差需達到特定值，請問「作業時」及「無人工作時」的實驗工作區與相鄰髒汙更換區之負壓差應保持幾Pascal(Pa)以上？",
+    "type": "單選",
+    "options": [
+      "7.6；7.6",
+      "12.5；12.5",
+      "12.5；7.6",
+      "7.6；12.5"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "12.5；7.6",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "12.5；7.6",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:30.873Z"
+    }
+  },
+  {
+    "question": "管道耐壓測試是依據下列哪一個標準進行？",
+    "type": "單選",
+    "options": [
+      "IEST-RP-CC034.3",
+      "CNS 15970",
+      "NSF/ANSI 49",
+      "ASME N511"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "ASME N511",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "ASME N511",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:31.397Z"
+    }
+  },
+  {
+    "question": "高防護實驗室通風空調系統需產生向內定向氣流，可以用以下設備加以確認？",
+    "type": "單選",
+    "options": [
+      "風速計",
+      "壓差計",
+      "透明視窗",
+      "流量計"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "壓差計",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "壓差計",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:31.936Z"
+    }
+  },
+  {
+    "question": "依據國際標準ASME N511進行測試，允收標準在最低測試壓力 1,000 Pa 時，洩漏率不得超過體積/分鐘的百分之幾？",
+    "type": "單選",
+    "options": [
+      "0.05",
+      "0.1",
+      "0.01",
+      "0.5"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "0.1",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "0.1",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:33.457Z"
+    }
+  },
+  {
+    "question": "實驗工作區換氣率（air change per hour, ACH）應每小時幾次以上？",
+    "type": "單選",
+    "options": [
+      "12",
+      "15",
+      "10",
+      "8"
+    ],
+    "course": "實驗室通風空調系統與HEPA之檢測、維護與確效",
+    "answer": "12",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "12",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/04/hepa.html",
+          "title": "【解答】實驗室通風空調系統與HEPA之檢測、維護與確效 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-21T03:20:33.898Z"
+    }
   }
 ]
