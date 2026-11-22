@@ -16,7 +16,11 @@
     "candidate_answer": "文化是固定不變且不可改變的",
     "source": "ai_unverified",
     "created_at": "2026-11-21T03:12:37.596Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T07:20:30.262Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "0d8def012070a898cc6a7eab78e5d4ab9dd9a736ca0f099efa454cda9deb4c6e",
