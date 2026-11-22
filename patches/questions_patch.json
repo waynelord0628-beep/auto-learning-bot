@@ -140459,5 +140459,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-22T10:20:00.682Z"
     }
+  },
+  {
+    "question": "全面性教育共有幾大項核心概念?",
+    "type": "單選",
+    "options": [
+      "十二",
+      "九",
+      "八",
+      "五"
+    ],
+    "course": "臺南市【友善校園】學生事務與輔導工作-性別平等教育課程融入學習領域研習3小時（國中場）",
+    "answer": "八",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "八",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047098",
+          "quote": "全面性教育八大核心概念及課程分享:關係、權利和價值觀、文化和性、理解性別、暴力和安全保障、人體和發育、性與性行為，以及性與生殖健康"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T12:20:18.688Z"
+    }
   }
 ]

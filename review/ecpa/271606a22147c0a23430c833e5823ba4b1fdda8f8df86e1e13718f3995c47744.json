@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "臺南市【友善校園】學生事務與輔導工作-性別平等教育課程融入學習領域研習3小時（國中場）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "九",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-13T05:02:05.103Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T12:20:19.565Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "八",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047098",
+          "quote": "全面性教育八大核心概念及課程分享:關係、權利和價值觀、文化和性、理解性別、暴力和安全保障、人體和發育、性與性行為，以及性與生殖健康"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T12:20:18.688Z"
+    },
+    "resolved_answer": "八"
   },
   {
     "id": "889fb1ff8935cd2e04b8deec26d4753e41cf8528b73dc83f6715ec00c24694c0",
