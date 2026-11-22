@@ -39,7 +39,11 @@
     "candidate_answer": "伊波拉病毒（Ebola virus）",
     "source": "ai_unverified",
     "created_at": "2026-11-13T17:54:52.223Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T09:20:09.755Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "e8c7fb61bec98c9aaaa8460a894ba07a642bc8dc8d68ae0d772684484035e062",
