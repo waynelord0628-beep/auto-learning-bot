@@ -410,13 +410,34 @@
     ],
     "type": "是非",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:09:32.633Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T15:20:49.403Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:36.429Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "38b140a1e7e6e88be6b88b5894a2ea264f36457747bfe00adee7679c59b8b2dd",
@@ -446,13 +467,31 @@
     ],
     "type": "單選",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:09:32.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:40.535Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "ee4b6c6d634a5f759364346a46315846b5a1f6df3df29b51532711a1b6ed6535",
@@ -463,13 +502,31 @@
     ],
     "type": "是非",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:09:32.634Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:41.982Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "42181754c5fd02226e5a6c223aad24a16ea6c7258859d9d3f6fb25ac4a929f73",
@@ -480,13 +537,31 @@
     ],
     "type": "是非",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:09:32.635Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:43.798Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "bbd4febb197ab1f841495758b5055cbaddfa1c347836933dc5b047b010b32ddf",
@@ -499,13 +574,31 @@
     ],
     "type": "單選",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "公民與政治權利國際公約ICCPR",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:10:07.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "兒童權利公約CRC",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:45.031Z"
+    },
+    "resolved_answer": "兒童權利公約CRC",
+    "verification_status": "source_supported"
   },
   {
     "id": "d553947fee114942fbcdcbf0414effac2ec32a7ee7a34c8cf582ca97f6a720cb",
@@ -516,12 +609,30 @@
     ],
     "type": "是非",
     "course": "五大公約的臺灣實踐以及《CEDAW公約》歷次國家報告（上）",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:10:07.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/01/cedawee.html",
+          "title": "「五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15345914941",
+          "title": "五大公約的台灣實踐以及《CEDAW公約》歷次國家報告（上）《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T15:20:46.039Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
