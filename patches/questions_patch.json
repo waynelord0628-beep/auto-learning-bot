@@ -139451,5 +139451,694 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-22T00:20:32.039Z"
     }
+  },
+  {
+    "question": "下列何種人員，不得以現職參加晉升薦任及簡任官等訓練？",
+    "type": "單選",
+    "options": [
+      "民選鄉鎮市長",
+      "機要人員",
+      "醫事人員",
+      "以上皆是"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:00.835Z"
+    }
+  },
+  {
+    "question": "有關委任公務人員晉升薦任官等訓練遴選評分標準表之「考績」項目，下列敘述何者錯誤？",
+    "type": "單選",
+    "options": [
+      "最近5年之年終考績中，有委任第四職等之考績應不予採計",
+      "最近5年之另予考績（成）者，應按在職月數比例計分",
+      "考列丙等者，應以0分計分",
+      "可採計最近5年委任第四職等之考績"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "最近5年之年終考績中，有委任第四職等之考績應不予採計",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "最近5年之年終考績中，有委任第四職等之考績應不予採計",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:01.032Z"
+    }
+  },
+  {
+    "question": "某庚經主管機關報送參加薦任公務人員晉升簡任官等訓練，於參訓前放棄受訓，服務機關未於開訓前函知主管機關據以函報保訓會同意庚放棄受訓，致庚未於開訓日到訓練班所報到，則庚需間隔多久才能再次參加遴選？",
+    "type": "單選",
+    "options": [
+      "1年",
+      "3年",
+      "5年",
+      "已獲主管機關遴選參訓，已可隨時要求參訓"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "1年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "1年",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2024/03/113ee_81.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)(113年)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:01.422Z"
+    }
+  },
+  {
+    "question": "各主管機關每年度辦理委任公務人員晉升薦任官等訓練，應提供符合受訓資格條件人員名冊函送保訓會，以下期限何者正確？",
+    "type": "單選",
+    "options": [
+      "3月31日前",
+      "4月30日前",
+      "5月31日前",
+      "6月30日前"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "4月30日前",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "4月30日前",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:01.681Z"
+    }
+  },
+  {
+    "question": "具普通考試及格資格，經銓敘部銓敘審定合格實授現任委任第五職等職務之人員，其以該職等職務辦理之年終考績最近3年須符合下列何條件，並已晉敘至委任第五職等本俸最高級後，再經晉升薦任官等訓練合格，始取得升任薦任第六職等任用資格？",
+    "type": "單選",
+    "options": [
+      "3年均甲等",
+      "2年甲等、1年乙等以上",
+      "3年均乙等",
+      "1年甲等、2年乙等以上"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "2年甲等、1年乙等以上",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "2年甲等、1年乙等以上",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:01.878Z"
+    }
+  },
+  {
+    "question": "晉升薦任、簡任官等訓練遴選評分標準表內有關「年資」之計算，下列敘述何者錯誤？",
+    "type": "單選",
+    "options": [
+      "未滿1年者仍以1年計算",
+      "未滿1年者，依其任職月數占全年比例計算",
+      "未滿1個月者，依其任職日數占該月日數比例計算",
+      "各項分數加總後計算至小數點第二位，小數點第三位採四捨五入方式計算"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "未滿1年者仍以1年計算",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "未滿1年者仍以1年計算",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:02.102Z"
+    }
+  },
+  {
+    "question": "有關委任公務人員晉升薦任官等訓練遴選評分標準表之「訓練進修」項目，下列敘述何者錯誤？",
+    "type": "單選",
+    "options": [
+      "訓練或進修之採計，須由服務機關認定是否與業務有關",
+      "訓練時數之採計，1天以7小時採計",
+      "攻讀大專以上學位者，倘以本項學分採計，不得再與「考試與學歷」重複計算",
+      "訓練或進修之採計期限為最近5年"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "訓練時數之採計，1天以7小時採計",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "訓練時數之採計，1天以7小時採計",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:02.402Z"
+    }
+  },
+  {
+    "question": "薦任公務人員晉升簡任官等訓練，受訓人員於訓練期間，發生下列哪一種情況，不會遭受保訓會廢止其當年度受訓資格？",
+    "type": "單選",
+    "options": [
+      "申請中途離訓經核准者",
+      "因婚、喪、分娩、流產、重病或其他重大事由，請假缺課時數合計超過課程時數20%者",
+      "曠課者",
+      "冒名頂替參加訓練者"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "因婚、喪、分娩、流產、重病或其他重大事由，請假缺課時數合計超過課程時數20%者",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "因婚、喪、分娩、流產、重病或其他重大事由，請假缺課時數合計超過課程時數20%者",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:02.633Z"
+    }
+  },
+  {
+    "question": "符合晉升薦任官等受訓資格條件人員，經發現其遴選之評定項目漏未評分或各項評分及積分計算錯誤者，致應列入而未列入當年度受訓時，除有可歸責其本人之事由者外，得經各服務機關、學校及各主管機關召開甄審委員會審核後，由各主管機關函經保訓會同意於何年度直接調訓？",
+    "type": "單選",
+    "options": [
+      "次年度",
+      "隔1年度",
+      "隔3年度",
+      "隔5年度"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "次年度",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "次年度",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:02.854Z"
+    }
+  },
+  {
+    "question": "下列何者非屬公務人員任用法第17條第2項第1款規定所稱之「考試」？",
+    "type": "單選",
+    "options": [
+      "公務人員高等考試",
+      "公務人員薦任升官等考試",
+      "專門職業及技術人員高等考試",
+      "分類職位第六職等升等考試"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "專門職業及技術人員高等考試",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "專門職業及技術人員高等考試",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:03.076Z"
+    }
+  },
+  {
+    "question": "委任公務人員晉升薦任官等訓練遴選評分標準表所定之考試與學歷、訓練進修、年資、考績、獎懲及綜合考評項目，其各項評分採計之時點為何？",
+    "type": "單選",
+    "options": [
+      "當年度3月31日",
+      "當年度4月30日",
+      "前一年度12月1日",
+      "前一年度12月31日"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "前一年度12月31日",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "前一年度12月31日",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:03.292Z"
+    }
+  },
+  {
+    "question": "某壬係109年委任公務人員晉升薦任官等訓練保留受訓資格人員，於保留原因消滅後，依規定向保訓會申請補訓，並經核准在案，其所遺當年度缺額未經遞補。下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "某壬須參加遴選，且其參訓應計入主管機關分配受訓之名額",
+      "某壬不須參加遴選，但其參訓應計入主管機關分配受訓之名額",
+      "某壬須參加遴選，但其參訓不計入主管機關分配受訓之名額",
+      "某壬不須參加遴選，且其參訓不計入主管機關分配受訓之名額"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "某壬不須參加遴選，且其參訓不計入主管機關分配受訓之名額",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "某壬不須參加遴選，且其參訓不計入主管機關分配受訓之名額",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:03.491Z"
+    }
+  },
+  {
+    "question": "下列有關公務人員晉升官等訓練參訓資格之敘述，何者正確？",
+    "type": "單選",
+    "options": [
+      "合格實授現任委任第五職等職務人員，須已晉敘至委任第五職等年功俸最高級",
+      "合格實授現任委任第五職等職務人員，最近3年年終考績須2甲1乙以上",
+      "合格實授現任薦任第九職等職務人員，經高級中等學校畢業者，須任合格實授薦任第九職等職務滿8年",
+      "合格實授現任薦任第九職等職務人員，須已晉敘至薦任第九職等年功俸最高級"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "合格實授現任委任第五職等職務人員，最近3年年終考績須2甲1乙以上",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "合格實授現任委任第五職等職務人員，最近3年年終考績須2甲1乙以上",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:03.725Z"
+    }
+  },
+  {
+    "question": "依公務人員任用法第17條規定，公務人員晉升官等的方式，下列何者最為正確？",
+    "type": "單選",
+    "options": [
+      "經晉升薦任官等訓練合格",
+      "應升官等考試及格",
+      "經晉升簡任官等訓練合格",
+      "以上皆是"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:03.958Z"
+    }
+  },
+  {
+    "question": "下列何者非屬公務人員任用法第17條第6項第1款所定之考試範圍？",
+    "type": "單選",
+    "options": [
+      "普通考試",
+      "丁等考試",
+      "相當普通考試之特種考試",
+      "相當委任第三職等以上之銓定資格考試"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "丁等考試",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "丁等考試",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:04.133Z"
+    }
+  },
+  {
+    "question": "未經簡任升官等考試及格，經公務人員高等考試及格人員，擬參加晉升簡任官等訓練，須任合格實授薦任第九職等職務滿幾年？",
+    "type": "單選",
+    "options": [
+      "3年",
+      "6年",
+      "8年",
+      "10年"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "3年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "3年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:04.450Z"
+    }
+  },
+  {
+    "question": "G機關經保訓會依調訓比例分配受訓名額共102人，其應加列多少備選名額？",
+    "type": "單選",
+    "options": [
+      "9人",
+      "10人",
+      "11人",
+      "12人"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "11人",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "11人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:04.664Z"
+    }
+  },
+  {
+    "question": "公務人員如未具普通考試或相當普通考試及格資格，但學歷為具大學畢業者，依公務人員任用法第17條第6項規定，欲取得委任晉升薦任官等任用資格，下列敘述何者錯誤？",
+    "type": "單選",
+    "options": [
+      "經銓敘審定合格實授之現任委任第五職等職務人員滿6年",
+      "以委任第五職等職務辦理之年終考績，最近3年2年列甲等、1年列乙等",
+      "已晉敘至委任第五職等年功俸最高級",
+      "經晉升薦任官等訓練合格"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "已晉敘至委任第五職等年功俸最高級",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "已晉敘至委任第五職等年功俸最高級",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:04.666Z"
+    }
+  },
+  {
+    "question": "經銓敘部銓敘審定合格實授現任薦任第九職等職務人員，且其以該職等職務辦理之年終考績最近3年2年列甲等、1年列乙等以上，並已晉敘至薦任第九職等本俸最高級後，須具有下列何項資格，再經晉升簡任官等訓練合格，始取得升任簡任第十職等任用資格？",
+    "type": "單選",
+    "options": [
+      "經高等考試、相當高等考試之特種考試及格，並任合格實授薦任第九職等職務滿3年者",
+      "經公務人員薦任升官等考試、薦任升等考試及格，並任合格實授薦任第九職等職務滿3年者",
+      "公務人員任用法施行前經分類職位第六職等至第九職等考試或分類職位第六職等升等考試及格，並任合格實授薦任第九職等職務滿3年者",
+      "以上皆是"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "以上皆是",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:04.866Z"
+    }
+  },
+  {
+    "question": "公務人員任用法第17條第2項及第6項所定參加升官等訓練之考績要件，為最近3年年終考績2年列甲等、1年列乙等以上，其中「最近3年」之認定標準下列敘述何者正確？",
+    "type": "單選",
+    "options": [
+      "以連續為必要",
+      "原則上以連續為必要，除非某年為另予考績，始得依次向前推算遞補之",
+      "非以連續為必要",
+      "只要公務年資曾經考列過2年甲等、1年乙等以上皆屬之"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "非以連續為必要",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "非以連續為必要",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:05.072Z"
+    }
+  },
+  {
+    "question": "有關參加晉升薦任官等訓練之參訓資格，除經銓敘審定合格實授現任委任第五職等職務，敘至委任第五職等本俸最高級以上，並符合考績規定者外，尚須具備以下何種條件？",
+    "type": "單選",
+    "options": [
+      "經高級中等學校畢業者，須任合格實授委任第五職等職務滿6年",
+      "經專科學校畢業者，須任合格實授委任第五職等職務滿8年",
+      "經大學以上學校畢業者，須任合格實授委任第五職等職務滿3年",
+      "以上皆非"
+    ],
+    "course": "晉升官等訓練遴選作業講習(一般公務人員篇)",
+    "answer": "經專科學校畢業者，須任合格實授委任第五職等職務滿8年",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "經專科學校畢業者，須任合格實授委任第五職等職務滿8年",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/04/ee_99.html",
+          "title": "「晉升官等訓練遴選作業講習(一般公務人員篇)」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343583245",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)(113年)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15328919823",
+          "title": "晉升官等訓練遴選作業講習(一般公務人員篇)《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T02:20:05.270Z"
+    }
   }
 ]
