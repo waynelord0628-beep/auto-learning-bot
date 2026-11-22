@@ -56,7 +56,11 @@
     "candidate_answer": "Class 3",
     "source": "ai_unverified",
     "created_at": "2026-11-13T10:13:43.171Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T01:20:29.179Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "40819501cc67f8e88c21ad0023ed5c813a03463702f4780b2979e39fcdea270f",
