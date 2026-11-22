@@ -574,15 +574,40 @@
     ],
     "type": "單選",
     "course": "復權與賦權：臺灣原住民族轉型正義的主流化",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
     "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:32:24.851Z",
-    "review_state": "awaiting_candidate",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-11-23T00:19:48.573Z"
+    "retry_after": "2026-11-23T00:19:48.573Z",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T03:19:47.185Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "提交權利主張→權利主張審查與登錄→整合相關權利主張→執行研究→彙整案件記錄→辦理聽證→發布報告",
+      "sources": [
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/03/ee_0383770228.html",
+          "title": "「復權與賦權：臺灣原住民族轉型正義的主流化」[解答]@e等公務園+e學中心 | PeiGoGo"
+        },
+        {
+          "url": "https://roddayeye.pixnet.net/blog/posts/15343160569",
+          "title": "復權與賦權：臺灣原住民族轉型正義的主流化《解答》 | 永無止盡的學習路 | 生活綜合分享 | 痞客邦 | PIXNET"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:19:46.451Z"
+    },
+    "resolved_answer": "提交權利主張→權利主張審查與登錄→整合相關權利主張→執行研究→彙整案件記錄→辦理聽證→發布報告"
   },
   {
     "id": "99dbbc28372f87e5360c1d43f240e73d5c9cee1eac8c7b4419c75faea6a59dd5",
