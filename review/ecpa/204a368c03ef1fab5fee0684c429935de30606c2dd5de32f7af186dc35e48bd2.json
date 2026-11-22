@@ -33,13 +33,30 @@
     ],
     "type": "單選",
     "course": "文化安全照顧與原住民族長期照顧(上、下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "文化安全課程",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-21T03:12:37.601Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T07:20:47.155Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "文化安全課程",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020228",
+          "quote": "中央教育主管機關應鼓勵各健康照護相關科系之大專校院課程內容，融入原住民族健康事務之文化安全相關課程之教學或學習活動。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T07:20:46.161Z"
+    },
+    "resolved_answer": "文化安全課程"
   },
   {
     "id": "97194fef5631295634fcbd2c3aa724dfd09e4331e5243504b7aab4e5a3763bfa",

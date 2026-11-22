@@ -140409,5 +140409,30 @@
       "model": null,
       "checked_at": "2026-11-22T03:20:01.341Z"
     }
+  },
+  {
+    "question": "為縮短醫療照護落差，《原住民族健康法》鼓勵大專院校融入何種課程？",
+    "type": "單選",
+    "options": [
+      "國際貿易課程",
+      "人工智慧課程",
+      "文化安全課程",
+      "財務管理課程"
+    ],
+    "course": "文化安全照顧與原住民族長期照顧(上、下)",
+    "answer": "文化安全課程",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "文化安全課程",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020228",
+          "quote": "中央教育主管機關應鼓勵各健康照護相關科系之大專校院課程內容，融入原住民族健康事務之文化安全相關課程之教學或學習活動。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T07:20:46.161Z"
+    }
   }
 ]
