@@ -319,12 +319,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.733Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-11-21T00:19:45.995Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-11-23T12:19:42.504Z"
   },
   {
     "id": "2a2d7c33ae05427c635e9b597ca1108a92694eac381f4c044d1c334575553bfc",
@@ -340,12 +340,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "社工到宅服務模式。",
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.734Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-11-21T00:19:45.995Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-11-23T12:19:42.504Z"
   },
   {
     "id": "ad91677f940fef16d90fea9e27e10ba06c0fce7d28464592893882fd78e504ed",
@@ -380,12 +380,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "家中有兩人同盟，抵制另一成員。",
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.735Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-11-21T00:19:45.995Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-11-23T12:19:42.504Z"
   },
   {
     "id": "c2d3ba38748047fc69e78b29a44cf4cba98764a6a67c3f5d6fb6897542cd0080",
@@ -496,12 +496,12 @@
     "status": "pending",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": null,
+    "candidate_answer": "以上皆是。",
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.270Z",
-    "review_state": "awaiting_candidate",
-    "retry_count": 1,
-    "retry_after": "2026-11-21T00:19:45.995Z"
+    "review_state": "candidate_ready",
+    "retry_count": 2,
+    "retry_after": "2026-11-23T12:19:42.504Z"
   },
   {
     "id": "3f3e351618e0af7d1dc7e0723ff4d31aeb957e03c5d571d83bf49a3fc4568ae2",
