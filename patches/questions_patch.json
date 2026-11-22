@@ -140434,5 +140434,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-22T07:20:46.161Z"
     }
+  },
+  {
+    "question": "「災害防救」的定義不包括哪個部分？",
+    "type": "單選",
+    "options": [
+      "災害之預防",
+      "災害發生時之應變",
+      "災後之復原重建",
+      "災後之究責"
+    ],
+    "course": "災變社會工作",
+    "answer": "災後之究責",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "災後之究責",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0120014",
+          "quote": "災害防救：指災害之預防、災害發生時之應變及災後之復原重建等措施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T10:20:00.682Z"
+    }
   }
 ]

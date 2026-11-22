@@ -136,12 +136,29 @@
     ],
     "type": "單選",
     "course": "災變社會工作",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "災後之究責",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T07:04:26.491Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T10:20:02.182Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "災後之究責",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0120014",
+          "quote": "災害防救：指災害之預防、災害發生時之應變及災後之復原重建等措施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T10:20:00.682Z"
+    },
+    "resolved_answer": "災後之究責"
   }
 ]
