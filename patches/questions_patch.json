@@ -139428,5 +139428,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-21T12:20:48.642Z"
     }
+  },
+  {
+    "question": "許多老年同志因擔心出櫃，選擇隱藏自己的同志身分，因此在社會中常處於較不易被看見的狀態。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性別(跨性別)敏感議題",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.gender.ey.gov.tw/Multimedia/System/Notes/DealData.aspx?sn=PsKAvsFoXLFcIub5I5r%21GA%40%40",
+          "quote": "老年同志，成長過程經歷很大的出櫃壓力，擔心被排擠／歧視，隨時要顧忌同志身分被知道，被迫偽裝成異性戀。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-22T00:20:32.039Z"
+    }
   }
 ]
