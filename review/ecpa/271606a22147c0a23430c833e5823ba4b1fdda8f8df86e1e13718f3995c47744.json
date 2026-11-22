@@ -75,7 +75,11 @@
     "candidate_answer": "同理心",
     "source": "ai_unverified",
     "created_at": "2026-11-13T05:02:05.104Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T12:20:33.578Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d7363b21158b00252cc50a54fda65034993beb5caa896f1cc1dc78c8bce783da",
