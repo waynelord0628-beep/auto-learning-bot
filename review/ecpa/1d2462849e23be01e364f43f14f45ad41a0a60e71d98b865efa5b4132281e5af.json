@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1.喚起海洋意識",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.387Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-29T03:20:02.090Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "2.提升海洋素養",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:19:59.303Z"
+    },
+    "resolved_answer": "2.提升海洋素養"
   },
   {
     "id": "b2f4f329b9a34343b74d61be6852a8d7cc980f22ed39020fdd96c8813785b7c4",
@@ -27,13 +44,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.389Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:19:59.558Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "bf51baba529e53c0af11e67d567b14e8f31239287fe5ffccba81b3249f8cc555",
@@ -46,13 +77,27 @@
     ],
     "type": "單選",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "3.學科知識",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.390Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "3.學科知識",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:19:59.806Z"
+    },
+    "resolved_answer": "3.學科知識",
+    "verification_status": "source_supported"
   },
   {
     "id": "ac911000f3a522d23ac9286f2daae520ccaa7e7ae1f70bd8ac9f67efe078fa1a",
@@ -63,13 +108,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.390Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:00.013Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "261fc8b0e6a92d90ef7be809e47ac82d9bb8f88da9fd5bc6b20ad13b7b8a1c8a",
@@ -80,13 +139,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.391Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:00.241Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "66722323ad81ae624d34b422f8645ba79ed54b1c45315280d061bd8c59a0c725",
@@ -97,13 +170,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.392Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:00.467Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "9540bbaff0cef8044200d5913709d0494d3cd51de98d144e90b7a09dadc90bcd",
@@ -114,13 +201,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.392Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:00.685Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "6ceb3f9db631808d503aba7273f30be95d82e085c43a9fd434d6af0c010badf2",
@@ -131,13 +232,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.393Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:00.906Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "ba8847412c79650dbdb8e1b882fa3aa0c3e1c2fd06bc9b4e02ef831d48b43a73",
@@ -148,13 +263,27 @@
     ],
     "type": "是非",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.394Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:01.134Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "48031d4808d6310a9066f25141006d8555e3fbebadf84021194718b3da9f68c2",
@@ -167,12 +296,26 @@
     ],
     "type": "單選",
     "course": "海洋素養-邁向海洋國家的關鍵要素",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1.108課綱",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:25:59.397Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1.108課綱",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/blog-post_85.html",
+          "title": "【解答】海洋素養-邁向海洋國家的關鍵要素 - 拉里拉雜"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-22T03:20:01.341Z"
+    },
+    "resolved_answer": "1.108課綱",
+    "verification_status": "source_supported"
   }
 ]
