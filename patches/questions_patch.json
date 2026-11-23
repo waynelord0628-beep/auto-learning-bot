@@ -140675,5 +140675,51 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-23T00:19:56.312Z"
     }
+  },
+  {
+    "question": "兒童及少年性剝削防制條例不屬於性平法令類的範疇。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性別預算概念與實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T03:20:36.550Z"
+    }
+  },
+  {
+    "question": "性別預算為我國推動性別主流化的主要工具之一。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性別預算概念與實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/05/ee_13.html",
+          "title": "「性別預算概念與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T03:20:38.438Z"
+    }
   }
 ]
