@@ -39,7 +39,11 @@
     "candidate_answer": "退休職員的抗議信",
     "source": "ai_unverified",
     "created_at": "2026-11-21T01:01:07.347Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-30T09:20:58.936Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "fc8946d38c9e6e3e44897fb6027ecdd805e04b561f48dacc15da8751277e744f",
