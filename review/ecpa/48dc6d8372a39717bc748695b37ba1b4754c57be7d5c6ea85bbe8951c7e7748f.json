@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "沒有子女的夫妻分住台北和楊梅。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.974Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-30T15:20:19.492Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "一個保母與七個小孩同住",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:00.307Z"
+    },
+    "resolved_answer": "一個保母與七個小孩同住"
   },
   {
     "id": "0b7efa38cb86d2dda4fe198ea3a254e7e757cb91c25e4272ec5a1de544a0205d",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "觀光從業人員。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.975Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "觀光從業人員。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:01.148Z"
+    },
+    "resolved_answer": "觀光從業人員。",
+    "verification_status": "source_supported"
   },
   {
     "id": "f4a62e3feccced6e73c8e98ef1649f8cacabae7b495ca2fc82f8610d8ac82143",
@@ -48,15 +79,29 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "轉移反應",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.975Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 1,
-    "retry_after": "2026-11-21T00:19:45.995Z"
+    "retry_after": "2026-11-21T00:19:45.995Z",
+    "source_review": {
+      "answer": "轉移反應",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:01.694Z"
+    },
+    "resolved_answer": "轉移反應",
+    "verification_status": "source_supported"
   },
   {
     "id": "92439b476d4257f03af6118c7c86f83ad44239b685ad0d55fed1337c1bb18d50",
@@ -69,13 +114,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "忽視個別家庭成員的感覺和行為",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "忽視個別家庭成員的感覺和行為",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:02.487Z"
+    },
+    "resolved_answer": "忽視個別家庭成員的感覺和行為",
+    "verification_status": "source_supported"
   },
   {
     "id": "2b31c8dd2e53bbecf80cdb90d273a40d0aedc429473770bc1d4464cd5497e05d",
@@ -88,13 +147,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "案主的全家人都必須全員到齊才能進行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.976Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "案主的全家人都必須全員到齊才能進行",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:03.470Z"
+    },
+    "resolved_answer": "案主的全家人都必須全員到齊才能進行",
+    "verification_status": "source_supported"
   },
   {
     "id": "80f1bef2562f185f78c8cb557e22cf124df963272f8c70f6402e3a5e407dca44",
@@ -107,13 +180,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "幫寄養家庭發展一個行為改善計畫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.977Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "安排小強接受身心功能的檢查",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:04.086Z"
+    },
+    "resolved_answer": "安排小強接受身心功能的檢查",
+    "verification_status": "source_supported"
   },
   {
     "id": "27ca00a90cf7a29c2e1a9ce6741be8f45d518f5f5676aee95ebcc64d682fd642",
@@ -126,13 +213,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "協助有工作能力的家人尋找就業的機會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.977Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "協助有工作能力的家人尋找就業的機會",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:04.699Z"
+    },
+    "resolved_answer": "協助有工作能力的家人尋找就業的機會",
+    "verification_status": "source_supported"
   },
   {
     "id": "65e197033ed9e4836c36023f7605e11892b7d073c2725f226e38c5fa1b0e18f6",
@@ -145,13 +246,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "夫妻經常一起旅行，不帶子女同行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.978Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "很有默契的雙胞胎手足故意讓媽媽搞不清誰是誰",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:05.408Z"
+    },
+    "resolved_answer": "很有默契的雙胞胎手足故意讓媽媽搞不清誰是誰",
+    "verification_status": "source_supported"
   },
   {
     "id": "c404a8da156b811dcb4a703396e198fc64edda2cc9378497e87074f1eae62710",
@@ -164,13 +279,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "動機式晤談法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.978Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "動機式晤談法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:06.238Z"
+    },
+    "resolved_answer": "動機式晤談法",
+    "verification_status": "source_supported"
   },
   {
     "id": "9441a9c7a4de8548d3a5d50a1d5443ecfa09ef79a66260b4c779d78cee9affda",
@@ -183,13 +312,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "家人和同事相處不佳的影響",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:16:38.979Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "家庭動力的影響",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:07.207Z"
+    },
+    "resolved_answer": "家庭動力的影響",
+    "verification_status": "source_supported"
   },
   {
     "id": "b490e29a5602449ce5a6eebd9afca843f705052437d1a937ebecc4030049005c",
@@ -202,13 +345,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "媽媽非常注重家庭隱私不准家人對外說三道四",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.729Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "媽媽非常注重家庭隱私不准家人對外說三道四",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:07.805Z"
+    },
+    "resolved_answer": "媽媽非常注重家庭隱私不准家人對外說三道四",
+    "verification_status": "source_supported"
   },
   {
     "id": "2d702430ef0093c1598b4904b3bf09fdc522f9ef660a8178344b0cbfa79f66dd",
@@ -221,13 +378,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "請孩子填寫量表",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.730Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "請孩子填寫量表",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:08.630Z"
+    },
+    "resolved_answer": "請孩子填寫量表",
+    "verification_status": "source_supported"
   },
   {
     "id": "6d4333877036f92c31cebc6f177fde46679344bfbe129a25fdd39bdd281eb181",
@@ -240,13 +411,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "支領社會救助經費超過兩年以上",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.731Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "支領社會救助經費超過兩年以上",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:08.948Z"
+    },
+    "resolved_answer": "支領社會救助經費超過兩年以上",
+    "verification_status": "source_supported"
   },
   {
     "id": "be192c6963400c9ee90671fce09d4f5dced56af157a851685d2b147eb65bad39",
@@ -259,13 +444,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "出訪前先詳細閱讀家庭資料以評估訪視安全性",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.732Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "出訪前先詳細閱讀家庭資料以評估訪視安全性",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:09.523Z"
+    },
+    "resolved_answer": "出訪前先詳細閱讀家庭資料以評估訪視安全性",
+    "verification_status": "source_supported"
   },
   {
     "id": "d55f9fc95be4e95ed5b84cde038c2095d93dbc8cd6a00f615df88b42d73b2010",
@@ -278,13 +477,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "網絡成員之間的相互認識",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.732Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "網絡成員之間的相互認識",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:10.445Z"
+    },
+    "resolved_answer": "網絡成員之間的相互認識",
+    "verification_status": "source_supported"
   },
   {
     "id": "837247eadcdb99de2dcb6440685b6c5c815336de3522451e9db1ac2749b80c01",
@@ -297,13 +510,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "親屬安置",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.733Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "親屬安置",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:11.145Z"
+    },
+    "resolved_answer": "親屬安置",
+    "verification_status": "source_supported"
   },
   {
     "id": "2021c64ed3486d7a3a28ae1b70c5751ea72a7a15a447e2fd83833eb934d2c622",
@@ -316,15 +543,29 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.733Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-11-23T12:19:42.504Z"
+    "retry_after": "2026-11-23T12:19:42.504Z",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:11.333Z"
+    },
+    "resolved_answer": "以上皆是。",
+    "verification_status": "source_supported"
   },
   {
     "id": "2a2d7c33ae05427c635e9b597ca1108a92694eac381f4c044d1c334575553bfc",
@@ -337,15 +578,29 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "社工到宅服務模式。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.734Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-11-23T12:19:42.504Z"
+    "retry_after": "2026-11-23T12:19:42.504Z",
+    "source_review": {
+      "answer": "社工到宅服務模式。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:11.943Z"
+    },
+    "resolved_answer": "社工到宅服務模式。",
+    "verification_status": "source_supported"
   },
   {
     "id": "ad91677f940fef16d90fea9e27e10ba06c0fce7d28464592893882fd78e504ed",
@@ -358,13 +613,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "家外安置",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.735Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "家外安置",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:12.878Z"
+    },
+    "resolved_answer": "家外安置",
+    "verification_status": "source_supported"
   },
   {
     "id": "43277ce112281a8ccad314e8f0f4b9057ce4285962247f2475dd244f0ce37c2f",
@@ -377,15 +646,29 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "家中有兩人同盟，抵制另一成員。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:18:04.735Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-11-23T12:19:42.504Z"
+    "retry_after": "2026-11-23T12:19:42.504Z",
+    "source_review": {
+      "answer": "家中有兩人同盟，抵制另一成員。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:13.817Z"
+    },
+    "resolved_answer": "家中有兩人同盟，抵制另一成員。",
+    "verification_status": "source_supported"
   },
   {
     "id": "c2d3ba38748047fc69e78b29a44cf4cba98764a6a67c3f5d6fb6897542cd0080",
@@ -398,13 +681,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "非正式資源",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.267Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "非正式資源",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:14.490Z"
+    },
+    "resolved_answer": "非正式資源",
+    "verification_status": "source_supported"
   },
   {
     "id": "e242d92c93acea0420dfab28993e3b9c0e03fd57bfa98c44964d7fdd7099b848",
@@ -417,13 +714,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "建立關係",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.268Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "建立關係",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:15.077Z"
+    },
+    "resolved_answer": "建立關係",
+    "verification_status": "source_supported"
   },
   {
     "id": "2be116a5a995bdb765cccc20461a18e0871ff7882680ce6611a7b5fe57d03c94",
@@ -436,13 +747,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "同理心+動機式晤談法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.269Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "同理心+動機式晤談法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:15.543Z"
+    },
+    "resolved_answer": "同理心+動機式晤談法",
+    "verification_status": "source_supported"
   },
   {
     "id": "5e01850c5eb2e634af6c6daac8e2c5539858e02a0c82f20c7c1d8831a21e9529",
@@ -455,13 +780,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生態圖",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.269Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "生態圖",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:16.165Z"
+    },
+    "resolved_answer": "生態圖",
+    "verification_status": "source_supported"
   },
   {
     "id": "5a01011950d8ff78173180febe8224f031cb55132b5acf3350712bc70a990a3f",
@@ -474,13 +813,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "夫妻次系統",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "親子次系統",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:16.532Z"
+    },
+    "resolved_answer": "親子次系統",
+    "verification_status": "source_supported"
   },
   {
     "id": "046a1b3c38fde5d3c3b25e220f8c070d7a9e554746fcaa6046c6b8c2135eb3f0",
@@ -493,15 +846,29 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是。",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.270Z",
-    "review_state": "candidate_ready",
+    "review_state": "source_reviewed",
     "retry_count": 2,
-    "retry_after": "2026-11-23T12:19:42.504Z"
+    "retry_after": "2026-11-23T12:19:42.504Z",
+    "source_review": {
+      "answer": "以上皆是。",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:16.614Z"
+    },
+    "resolved_answer": "以上皆是。",
+    "verification_status": "source_supported"
   },
   {
     "id": "3f3e351618e0af7d1dc7e0723ff4d31aeb957e03c5d571d83bf49a3fc4568ae2",
@@ -514,13 +881,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "母子之間有共生關係，運用家庭會談來鬆動此共生關係",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.271Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "母子之間有共生關係，運用家庭會談來鬆動此共生關係",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:17.098Z"
+    },
+    "resolved_answer": "母子之間有共生關係，運用家庭會談來鬆動此共生關係",
+    "verification_status": "source_supported"
   },
   {
     "id": "491ed4fd698792b8db642926d7327d943c349cf855cb24faaa6880664f5ca307",
@@ -533,13 +914,27 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "少年事件處理",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.271Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "少年事件處理",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:17.490Z"
+    },
+    "resolved_answer": "少年事件處理",
+    "verification_status": "source_supported"
   },
   {
     "id": "62c2efc575c1df00d655f7a7d19a6dfca1420ff0d04d06b57f51be2cccb55326",
@@ -552,12 +947,26 @@
     ],
     "type": "單選",
     "course": "以家庭為本的社會工作方法",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "原住民部落的孩子每天到不同家裡吃中飯",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:19:18.272Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "原住民部落的孩子每天到不同家裡吃中飯",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_869.html",
+          "title": "「以家庭為本的社會工作方法」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T15:20:18.035Z"
+    },
+    "resolved_answer": "原住民部落的孩子每天到不同家裡吃中飯",
+    "verification_status": "source_supported"
   }
 ]
