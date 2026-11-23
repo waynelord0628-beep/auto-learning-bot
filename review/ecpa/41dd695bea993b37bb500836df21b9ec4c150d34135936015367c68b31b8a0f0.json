@@ -10,13 +10,30 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "延長產品生命週期並促進資源循環",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.553Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-30T10:19:58.257Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "延長產品生命週期並促進資源循環",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:54.662Z"
+    },
+    "resolved_answer": "延長產品生命週期並促進資源循環"
   },
   {
     "id": "6200090efdd8141176562d5078e7bc8a2731aeb0e679d718006e5578e73d8689",
@@ -29,13 +46,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "採購可維修、可升級的設備",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.555Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "採購可維修、可升級的設備",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:55.058Z"
+    },
+    "resolved_answer": "採購可維修、可升級的設備",
+    "verification_status": "source_supported"
   },
   {
     "id": "4b29fe1a5915a04c8e8757fb1c9a24caf2ec986015835a73226a37215f837573",
@@ -48,13 +79,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "使用者以租賃或服務方式取代擁有產品",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.556Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "使用者以租賃或服務方式取代擁有產品",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:55.491Z"
+    },
+    "resolved_answer": "使用者以租賃或服務方式取代擁有產品",
+    "verification_status": "source_supported"
   },
   {
     "id": "737606852f0e5ca0b610254d9ed140a1e9bbe039a1bcda2c1c4e11431dde4680",
@@ -67,13 +112,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "增加採購流程的碳排放",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.557Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "增加採購流程的碳排放",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:55.793Z"
+    },
+    "resolved_answer": "增加採購流程的碳排放",
+    "verification_status": "source_supported"
   },
   {
     "id": "c95d187031ff5a6db15f00ef4e4d97d1e138b3ac82a5ba55c46ca0d469f2e07f",
@@ -86,13 +145,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "有助於日後維修，回收與再利用",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.558Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "有助於日後維修，回收與再利用",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:56.084Z"
+    },
+    "resolved_answer": "有助於日後維修，回收與再利用",
+    "verification_status": "source_supported"
   },
   {
     "id": "b59f887f90f0e674cf0b454198955f70ea976c1913e3d461c33c3c030c84fe9e",
@@ -105,13 +178,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "設定回收材料最低含量標準",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.558Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "設定回收材料最低含量標準",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:56.378Z"
+    },
+    "resolved_answer": "設定回收材料最低含量標準",
+    "verification_status": "source_supported"
   },
   {
     "id": "e96ae04e250686daa3c4e94fc06c08ecb533a166005245fe114e89d633bd8b63",
@@ -124,13 +211,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "在採購前考量產品全生命週期成本",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.559Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "在採購前考量產品全生命週期成本",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:56.734Z"
+    },
+    "resolved_answer": "在採購前考量產品全生命週期成本",
+    "verification_status": "source_supported"
   },
   {
     "id": "5685d8613378d7bdc5ea92b670b4d37eac337bb619837aa55ff91ac58176174b",
@@ -143,13 +244,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "可回收再生鋁",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.560Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "可回收再生鋁",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:57.076Z"
+    },
+    "resolved_answer": "可回收再生鋁",
+    "verification_status": "source_supported"
   },
   {
     "id": "9837896dd28ed640de88f2665095dbf4206b7444f4aeed497692e5dc15086b9b",
@@ -162,13 +277,27 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生產者需承擔產品處理至報廢階段的責任",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.560Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "生產者需承擔產品處理至報廢階段的責任",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:57.090Z"
+    },
+    "resolved_answer": "生產者需承擔產品處理至報廢階段的責任",
+    "verification_status": "source_supported"
   },
   {
     "id": "fd04114e793596f0f8ee4c8ff8be5f93edf3c6971d9aed4743c5719c5f872ab4",
@@ -181,12 +310,26 @@
     ],
     "type": "單選",
     "course": "擴大「循環採購」推動計畫",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "資訊科技產品製造業",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T03:14:52.561Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "資訊科技產品製造業",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/12/ee_01053397750.html",
+          "title": "「擴大「循環採購」推動計畫」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T10:19:57.468Z"
+    },
+    "resolved_answer": "資訊科技產品製造業",
+    "verification_status": "source_supported"
   }
 ]
