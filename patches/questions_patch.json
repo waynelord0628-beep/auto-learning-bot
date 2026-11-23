@@ -140650,5 +140650,30 @@
       "model": null,
       "checked_at": "2026-11-22T15:20:46.039Z"
     }
+  },
+  {
+    "question": "下列有關一般公務人員參與政治活動之敘述，何者正確？",
+    "type": "單選",
+    "options": [
+      "得加入政黨",
+      "公開為公職候選人拜票",
+      "兼任公職候選人競選辦事處之職務",
+      "兼任政黨職務"
+    ],
+    "course": "行政中立與執法公正",
+    "answer": "得加入政黨",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "得加入政黨",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=S0110036",
+          "quote": "公務人員得加入政黨或其他政治團體。但不得兼任政黨或其他政治團體之職務。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-23T00:19:56.312Z"
+    }
   }
 ]
