@@ -628,7 +628,11 @@
     "candidate_answer": "以「半自動、可監督」的方式導入 AI",
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:46:46.188Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-30T08:19:50.030Z",
+    "verification_status": "insufficient_sources"
   },
   {
     "id": "d3610a2fc44dc2b7c86a5ce6d80997446b9cbeca5988bf10c22d2d66c7ae11d6",
@@ -641,12 +645,30 @@
     ],
     "type": "單選",
     "course": "AI 與未來治理：從全球案例到公務行動",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-16T16:46:46.204Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T08:19:49.303Z"
+    },
+    "resolved_answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+    "verification_status": "source_supported"
   }
 ]

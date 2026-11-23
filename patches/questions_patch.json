@@ -140721,5 +140721,34 @@
       "model": null,
       "checked_at": "2026-11-23T03:20:38.438Z"
     }
+  },
+  {
+    "question": "新加坡導入「新加坡數據保護國家認證」制度的主要目的是什麼？",
+    "type": "單選",
+    "options": [
+      "限制企業資料跨境傳輸",
+      "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+      "強迫企業將所有資料儲存在新加坡境內",
+      "僅適用於政府部門，不適用於企業"
+    ],
+    "course": "AI 與未來治理：從全球案例到公務行動",
+    "answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "作為企業資料治理能力的認證標準，強化資料保護的責任與實力",
+      "sources": [
+        {
+          "url": "https://www.rodiyer.idv.tw/2026/02/ai_72.html",
+          "title": "【解答】AI 與未來治理：從全球案例到公務行動 - 拉里拉雜"
+        },
+        {
+          "url": "https://www.peigogo.com/2026/02/ai-ee.html",
+          "title": "「AI 與未來治理：從全球案例到公務行動」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-23T08:19:49.303Z"
+    }
   }
 ]
