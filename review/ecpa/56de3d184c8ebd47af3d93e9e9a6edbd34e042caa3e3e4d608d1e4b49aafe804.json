@@ -27,13 +27,30 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.029Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-01T06:19:51.954Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:47.051Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "117e0284ca778fe19153849ae53cdf792476076e47a9f2d09103d890e8fe55af",
@@ -44,13 +61,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.038Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:47.386Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "7d0748d1a9ec228d0575511629e76afe9ebca5d0170c3d3adf1fb17f3ca11cec",
@@ -61,13 +92,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.039Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:47.763Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "dc7936a6c7b2e32510f3e139d5db4b89930d670bea0bb9975125c8d8d5894429",
@@ -80,13 +125,27 @@
     ],
     "type": "單選",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.041Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:48.178Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "29ac0e402c58326cd29022e34ddf4f9a6a05e416f9ab90de056cfa4895de791c",
@@ -100,13 +159,27 @@
     ],
     "type": "單選",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "2019年《十二年國教課程綱要》(108課綱)實施",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.044Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "2019年《十二年國教課程綱要》(108課綱)實施",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:48.537Z"
+    },
+    "resolved_answer": "2019年《十二年國教課程綱要》(108課綱)實施",
+    "verification_status": "source_supported"
   },
   {
     "id": "81cc4107419d2e79e672a17d3c8dd27b711cbd0b22c3b9af74c9aae3e8f3cbe1",
@@ -175,13 +248,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:29:51.051Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:48.826Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "5a30a28694089f3d6fc2e256ec30ce62349c67373f55b0bfae7896c5eca01135",
@@ -192,13 +279,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:30:50.954Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:49.137Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "0f668b33c560ff55d6b4051850c75923889858b6ef4cc08e7e3066312a0c3389",
@@ -209,13 +310,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:30:50.958Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:49.406Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "196b8390a573d8a902ce5dba1ae835f39b128ea9bc5b2a29a6d48f02adf600ad",
@@ -228,13 +343,27 @@
     ],
     "type": "單選",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "多半已經拆除改建，不需要再保存、活化",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:30:50.959Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "多半已經拆除改建，不需要再保存、活化",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:49.746Z"
+    },
+    "resolved_answer": "多半已經拆除改建，不需要再保存、活化",
+    "verification_status": "source_supported"
   },
   {
     "id": "6adc76c0f40039abc5835d11fd85e6c806f40505da26200859c4eab2dc701cd1",
@@ -265,13 +394,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:30:50.960Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:50.067Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "d2d7865be20151ccd8816e4d1b96d7aae213d30cf23d3b0c5f0ddbe74feb9b40",
@@ -282,13 +425,27 @@
     ],
     "type": "是非",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:30:50.961Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:50.414Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "2f3469aa5b9c0d7171a465f14533f8ca14c339efc87c58ef40187d1c25b87475",
@@ -321,13 +478,27 @@
     ],
     "type": "單選",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:31:54.851Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:50.750Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   },
   {
     "id": "51170580f94b581b4e076cf7e0d06a3c80e98602eeabf91147bf294b52e553ca",
@@ -340,12 +511,26 @@
     ],
     "type": "單選",
     "course": "【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "以上皆是",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T09:31:54.852Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "以上皆是",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2025/05/ee_0272258956.html",
+          "title": "「【轉型正義教育工作坊】機關協力—從相關經歷分享機關推動轉型正義教育之多元性與可能性」e等公務園+e學中心+學習平臺解答 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-24T06:19:51.038Z"
+    },
+    "resolved_answer": "以上皆是",
+    "verification_status": "source_supported"
   }
 ]
