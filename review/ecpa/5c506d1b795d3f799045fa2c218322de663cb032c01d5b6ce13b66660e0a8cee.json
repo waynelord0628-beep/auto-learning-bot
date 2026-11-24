@@ -161,17 +161,34 @@
     ],
     "type": "單選",
     "course": "黨國威權統治如何走向終點—從美麗島事件到國民黨十三全會",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "解散萬年國會",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-01T03:09:18.040Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-23T04:20:16.961Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-01T13:22:57.039Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "解除戒嚴",
+      "sources": [
+        {
+          "url": "https://art.archives.gov.tw/tw/art/1491.html",
+          "quote": "蔣經國總統盱衡國內外情勢，覺察到民主潮流不可擋，又因健康因素急於推動民主憲政，決定順應民情，於民國76年(1987)7月14日頒令自同年7月15日零時起解除戒嚴令"
+        },
+        {
+          "url": "https://tjb.ey.gov.tw/page/2FFCDE9C2228023C",
+          "quote": "蔣經國總統雖於1987年頒布命令解嚴，但是動員戡亂體制下的黨國不分與個人集權並未消除，直至繼任者李登輝總統於1991年宣告終止動員戡亂"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-24T13:22:48.912Z"
+    },
+    "resolved_answer": "解除戒嚴"
   },
   {
     "id": "e345ff21c5d9b0c703d160e185c52052a55a1840f63a65b2576cd7e4d7da844e",
