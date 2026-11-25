@@ -168,5 +168,73 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:15:46.061Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "aaf5e13163f976532c17b435c53d202615db6154706ca6a5eaa5797e9c3448c1",
+    "question": "我國適合發展溫差能發電的原因之一是東部海域接近太平洋暖池。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:17.357Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f2c2bf21421357ab946136215baca57e0b0e0e82b89b5f2deeab3d1968918af3",
+    "question": "開發海洋能發電並不會對鳥類生態造成明顯的影響。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:17.358Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a0382063608b4802672c2f56551ddc1d6c04d0dd1d9e3254249b47f2366a513e",
+    "question": "針對SeaGen計畫，相關的環境監測計畫顯示大型海洋生物具有因應潛在危害的能力，因此渦輪機預警性停機的距離可降至30公尺以下。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:17.359Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "99b51d9c88443e3a4f2dde15e3556d239e78302a211c03026712e8cdd7195e81",
+    "question": "許多研究顯示，魚類會避開海流發電系統的旋轉葉片，或從兩個相鄰葉片中穿越而過。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:17.360Z",
+    "review_state": "candidate_ready"
   }
 ]
