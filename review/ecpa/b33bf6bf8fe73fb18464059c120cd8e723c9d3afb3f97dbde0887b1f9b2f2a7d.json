@@ -131,5 +131,100 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:09:46.950Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7ab1df99b42adcdabb786cf58a280731912bdd87198460bc973af1b784188130",
+    "question": "我國海洋產業產值最高的產業類別為？",
+    "options": [
+      "海洋漁業與養殖",
+      "海洋運輸及輔助",
+      "海洋能源",
+      "海洋遊艇及其他船舶載具。"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "海洋運輸及輔助",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:25:42.203Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "715ba446a05a4422fac49a99982b5c5352a0afc4627b4c1e8ff662b7669b9855",
+    "question": "我國對海洋產業的定義為何？",
+    "options": [
+      "指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業",
+      "某一產業的生產活動不論是直接地或是間接地與海洋有關者",
+      "產業以海洋資源為主要來源，或是其產出主要用於海洋相關用途者",
+      "包括海洋空間活動、海洋資源活用、原料與服務提供之三種類型。"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1. 指利用海洋資源與空間進行各項生產及服務活動，或其他與海洋資源相關之產業。",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-25T16:25:42.219Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "33feef5d87690b750c9de4ce1ac86f3791fd55c34b77c9b4e359841cce7175e8",
+    "question": "海洋產業發展條例中，有關建構產業扶助架構部分的政策工具，下列何者為非：",
+    "options": [
+      "輔導與獎助、培育人才",
+      "建構海洋資料庫",
+      "協助設置海洋產業園區或專區",
+      "優惠融資"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建構海洋資料庫",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:25:42.220Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9b6bea5ec0a4290f8d2cc6e4bac32af340756b4a7bd614656d91a0b704a85bb4",
+    "question": "請問國家海洋日是指何日？",
+    "options": [
+      "3月20日",
+      "5月8日",
+      "5月20日",
+      "6月8日"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "6月8日",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-25T16:25:42.226Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "4e901504ba9f245b5db9155e0138d8015e7f146b0c0059fbfb62312b7979e240",
+    "question": "我國海洋產業產值由2018年的新臺幣7,507億元成長至2022年的1兆7,031億元，占GDP的比重由4.03%上升至7.86%，請問前三大的海洋產業分別為？",
+    "options": [
+      "海洋能源、海洋運輸及輔助、海洋漁業與養殖",
+      "海洋運輸及輔助、海洋能源、海洋漁業與養殖",
+      "海洋運輸及輔助、海洋漁業與養殖、海洋遊艇及其他船舶載具",
+      "海洋漁業與養殖、海洋運輸及輔助、海洋遊艇及其他船舶載具"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "海洋運輸及輔助、海洋漁業與養殖、海洋遊艇及其他船舶載具",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-25T16:25:42.233Z",
+    "review_state": "awaiting_evidence"
   }
 ]
