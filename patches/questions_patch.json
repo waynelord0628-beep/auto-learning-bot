@@ -142577,5 +142577,30 @@
       "model": null,
       "checked_at": "2026-11-24T14:21:12.586Z"
     }
+  },
+  {
+    "question": "下列陳述中，哪一項是自由民主最核心的基本價值？",
+    "type": "單選",
+    "options": [
+      "保障青年才俊參政",
+      "維護個人尊嚴自由",
+      "維持人人財富平等",
+      "限制政黨經營媒體"
+    ],
+    "course": "115年僑務委員會人權公約及轉型正義教育訓練第1場次(人權公約)-僑外建教生人口販運防制措施",
+    "answer": "維護個人尊嚴自由",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "維護個人尊嚴自由",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExShow.aspx?id=D%2C694&kw=&type=c",
+          "quote": "重人格自由發展，乃自由民主憲政秩序之核心價值。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-25T01:20:24.296Z"
+    }
   }
 ]

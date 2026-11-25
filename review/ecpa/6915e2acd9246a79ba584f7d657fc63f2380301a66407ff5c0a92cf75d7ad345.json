@@ -32,17 +32,30 @@
     ],
     "type": "單選",
     "course": "115年僑務委員會人權公約及轉型正義教育訓練第1場次(人權公約)-僑外建教生人口販運防制措施",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "維護個人尊嚴自由",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-01T06:18:26.791Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "review_state": "source_reviewed",
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-23T10:20:32.919Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-02T01:20:25.077Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "維護個人尊嚴自由",
+      "sources": [
+        {
+          "url": "https://mojlaw.moj.gov.tw/LawContentExShow.aspx?id=D%2C694&kw=&type=c",
+          "quote": "重人格自由發展，乃自由民主憲政秩序之核心價值。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-25T01:20:24.296Z"
+    },
+    "resolved_answer": "維護個人尊嚴自由"
   },
   {
     "id": "b7b5ae714972f6cc56c67a34274c30e76a932d9fe4045ae0f2edc258eb69218a",
