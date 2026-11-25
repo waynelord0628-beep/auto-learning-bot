@@ -296,5 +296,45 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T22:36:55.562Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f56398e83d3072580532cc943b852a92c3857a0948072d7afad22e01e38dd61a",
+    "question": "監測海洋保護區的成效，可以考慮使用哪些指標？",
+    "options": [
+      "物種數",
+      "總生物量",
+      "溶氧量",
+      "珊瑚覆蓋率",
+      "周遭人口密集度"
+    ],
+    "type": "多選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:37:31.677Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "d0a3b43f934ecb7f0eb8485445e2d028a97552870321bd18ea489a70a88c0830",
+    "question": "以下何者是要保育海洋的原因？",
+    "options": [
+      "海洋具有調節氣候的功能",
+      "海洋孕育龐大的生物多樣性",
+      "海洋支撐全球至少30億人口的生計",
+      "海洋提供了許多人口動物性蛋白質來源",
+      "大洋是全世界含碳量最高的生態系"
+    ],
+    "type": "多選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:37:31.695Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
