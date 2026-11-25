@@ -541,5 +541,43 @@
     },
     "resolved_answer": "2 化學能和化合生物",
     "verification_status": "source_supported"
+  },
+  {
+    "id": "3ee2674cb853d9d0b6b3cc46692f5da4cada840192991cefab5b67e34f438b35",
+    "question": "由美國海洋及大氣總署(NOAA)資助研發的海洋科學序列OSS(Ocean Science Sequence)教材，目前由國內那各單位主責推動?",
+    "options": [
+      "教育部(MOE)",
+      "台灣海洋科技研究中心(TORI)",
+      "國家海洋研究院(NAMR)",
+      "國立臺灣海洋大學(NTOU)"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "國立臺灣海洋大學(NTOU)",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T17:50:34.246Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0abf9783331fc73209c80aed3a55a08d3bd48f2b7d1881f796e7deb83646be68",
+    "question": "中華民國行政部門中，負責國家海洋教育發展策略之統合規劃、協調及推動是哪一個部會?",
+    "options": [
+      "內政部",
+      "農業部",
+      "海洋委員會",
+      "教育部"
+    ],
+    "type": "單選",
+    "course": "海洋素養",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "海洋委員會",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T17:50:34.247Z",
+    "review_state": "candidate_ready"
   }
 ]
