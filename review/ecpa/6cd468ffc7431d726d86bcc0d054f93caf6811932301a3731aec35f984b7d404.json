@@ -267,5 +267,58 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:43:19.780Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "77348c71b7e42d34e40a4f6b6122fe2b4e4866c43fcf59209ea84299030d120a",
+    "question": "下列哪幾項為台灣優勢的海洋非生物資源？",
+    "options": [
+      "東亞海運樞紐",
+      "南中國海進出太平洋戰略位置",
+      "北迴歸線貫穿",
+      "擁有多種海洋能"
+    ],
+    "type": "多選",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:48.704Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "2817942a91773414a835a97475c06f53032960e799c8ed98434340853d603f0d",
+    "question": "台灣只有海鮮文化，沒有海洋文化。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:48.706Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "67c465246b953f35fcff938a538bb444828baa44539ee12dd7cad65df83a3018",
+    "question": "海洋文化是海洋生活智慧，也是海洋生活態度和技能的累積。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:48.708Z",
+    "review_state": "candidate_ready"
   }
 ]
