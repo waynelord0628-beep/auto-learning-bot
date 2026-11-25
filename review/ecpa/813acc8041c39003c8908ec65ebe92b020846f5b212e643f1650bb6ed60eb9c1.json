@@ -228,5 +228,77 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T20:12:16.413Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ad0c495099a44d92a263524e1c6ed62d7a836d614eb15cda5d1f087d79c00200",
+    "question": "下列何者船艦是第一艘納入平戰轉換的艦種？這艘船艦平時是執法船艦，但製造時已預留管線與平台系統。",
+    "options": [
+      "平安級巡防艦",
+      "成功級巡防艦",
+      "安平級巡防艦",
+      "康定級巡防艦"
+    ],
+    "type": "單選",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安平級巡防艦",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:47.945Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "b9ac06a37cfed668cc1630f8776277619706fe0c053d571a38bd584bef364862",
+    "question": "海洋安全政策的四大目標，第一、確保領海等核心國家利益，第二、國際海洋秩序的維護與發展，第三、確保海上安全安心，第四、海域天然災難的防災與救災",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:47.945Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "925ff7f3da8bf0782593120d2946148b58babcd948ab1139e8cbb8e95c3317ed",
+    "question": "根據定義，領海是指自領海基線起至其外側幾浬間之海域？",
+    "options": [
+      "9浬",
+      "10浬",
+      "11浬",
+      "12浬"
+    ],
+    "type": "單選",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "12浬",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:47.946Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "ce75b65fcdcb946937886ff5c4835cfba43827753210a4d4faa220c531acd909",
+    "question": "海洋政策的兩大基本方針包含海洋安全政策、海洋永續政策。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:47.946Z",
+    "review_state": "candidate_ready"
   }
 ]
