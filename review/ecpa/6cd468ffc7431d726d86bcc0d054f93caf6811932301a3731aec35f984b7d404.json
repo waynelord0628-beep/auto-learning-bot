@@ -176,5 +176,96 @@
     "source": "reported_question",
     "created_at": "2026-11-25T16:42:37.678Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "89b94f34a98d01486d7d9976d7d50560b399293c360cd8c1dd4a8c417c5139d3",
+    "question": "遠洋漁業和貨櫃海運，是台灣已發展為國際格局的兩大海洋產業",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:19.776Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "91e7aed94fcdd28b3488e5e82f489683e34a3546c6b64180fd948678affa1dcd",
+    "question": "台灣面對海洋，形勢自然開放，開放產生流動，流動必然多元，多元需要包容。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:19.777Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3b77cbb4ace1226926eb1e58772c1f3fbbaba5be8ee370fc0a322785729a6d5e",
+    "question": "島國必要掌握海洋資源的主要原因為：",
+    "options": [
+      "島國陸域天然賦予有限",
+      "島國陸域缺乏休閒空間",
+      "開創島國成為海上霸權",
+      "島國海域開展機會大於陸域"
+    ],
+    "type": "多選",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:19.778Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "00f4d21ccee0b749bf475dabd2b8833b900b0a3476ba250d1d65ae15d85f15d7",
+    "question": "下列哪幾種態度屬於海洋精神：",
+    "options": [
+      "守成",
+      "積極",
+      "禁制",
+      "勇於探索"
+    ],
+    "type": "多選",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:19.779Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "e41b4a2453d6ad62f8be46cdc7395238294854a1279710cbf9b80d91cb6703a5",
+    "question": "海洋文化的特質包括哪些項目：",
+    "options": [
+      "開放",
+      "流動",
+      "多元",
+      "包容"
+    ],
+    "type": "多選",
+    "course": "海洋文教：淺談臺灣海洋文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:43:19.780Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
