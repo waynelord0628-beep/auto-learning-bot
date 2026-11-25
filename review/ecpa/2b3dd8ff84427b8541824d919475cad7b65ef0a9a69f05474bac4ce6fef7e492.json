@@ -236,5 +236,90 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:16:17.360Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3d78f5d615d3d65ac409277c493c3fa30a82af77ff18813abb99db044e1f23f",
+    "question": "針對SeaGen計畫，相關的環境監測計畫顯示機組所造成的尾流並未延伸至整個水層中，因此底棲生態並未出現明顯變化。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:47.312Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "17b754b8bc3eccdce831e958e570b41eb2791b1166b2f80fd8c95606829b416b",
+    "question": "化石燃料的過度使用導致人為氣候變遷與全球暖化。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:47.313Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4ec8312a731fc5d61182102d4ccb6ae2b9093003f750a21de8f03ccb75c8de31",
+    "question": "鹽差能發電是利用深淺海水的鹽度差所產生的能量。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:47.314Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c5942709cfddd7052dace5f124f2d6fd4c004ba573a19cc0ad17252338e4dafa",
+    "question": "潮差能發電通常需要堰堤，以致會造成堤內水位受到強制性的改變。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:47.315Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "74ce9079e7c42bf0545e82481a093e1b43f38d44b7835ccdbb8704e861b388c3",
+    "question": "煤炭是生質能的一種。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:16:47.315Z",
+    "review_state": "candidate_ready"
   }
 ]
