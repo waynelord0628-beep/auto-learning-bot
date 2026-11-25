@@ -185,5 +185,137 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.533Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "6d8fcbe4012235a377b0ffa032be6e297b5e21fa096d69d7e8722908088adce3",
+    "question": "十八世紀清朝在廣州准許設立什麼洋行與國外貿易？",
+    "options": [
+      "廣州十三行",
+      "怡和洋行",
+      "怡記洋行",
+      "德記洋行"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "廣州十三行",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.659Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4820c83d40055d18253384b8a71cac9fdf75d3d60229a59eaf6e020dd43fed1f",
+    "question": "1784年美國的中國皇后號從紐約啟航，航行5個月後抵達廣州與華人貿易，船上所載的主要商品是什麼？",
+    "options": [
+      "蘋果",
+      "葡萄酒",
+      "黃金",
+      "西洋嵾"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "西洋嵾",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.660Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c9e48ab7d1b51898bc526a4fdb32b3b08e6d5933698fee80473259b81d129ffd",
+    "question": "荷蘭於哪一年佔領現今的台南「大員」？",
+    "options": [
+      "1622",
+      "1624",
+      "1626",
+      "1628"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1624",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.660Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f280f411a7cd5f478a0690c80245e38deba7fa76713ab7affa1e587a371b2a45",
+    "question": "1840年清朝與那個國家因鴉片問題爆發戰爭？",
+    "options": [
+      "葡萄牙",
+      "西班牙",
+      "荷蘭",
+      "英國"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "英國",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.661Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "3e620a32bea9d76437e0d855aa7048ecc68b3e2358056d02fee241c79733e563",
+    "question": "西班牙人於那一年佔領雞籠？",
+    "options": [
+      "1624",
+      "1626",
+      "1642",
+      "1662"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1624",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.661Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "13f3f7daa5e06c3352edd12c6ade5dd21096ae4a7c7a8cc407acf118ff8c8073",
+    "question": "1809年那些清朝將領合兵擊敗蔡牽於浙江台州外洋？",
+    "options": [
+      "杜錫珪",
+      "王得祿",
+      "林建章",
+      "林葆懌",
+      "邱良功"
+    ],
+    "type": "多選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.662Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ea97b8af082c8d7b8435b3424464e300ff0eb365a2d087767ad1cc417ffda7f6",
+    "question": "1622年荷蘭、英國共組艦隊攻擊在澳門的葡萄牙人成功，最後葡萄牙人戰敗撤至澎湖。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T21:25:36.662Z",
+    "review_state": "candidate_ready"
   }
 ]
