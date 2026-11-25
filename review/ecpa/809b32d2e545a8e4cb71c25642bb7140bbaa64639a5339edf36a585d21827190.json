@@ -8,13 +8,30 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.255Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-02T13:19:55.427Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:49.997Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "c1961d6dfacbf686dc999722694f31324ad97a367bd7a50bfd9c42089bb08c90",
@@ -27,13 +44,27 @@
     ],
     "type": "單選",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "24小時",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.258Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "24小時",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:50.348Z"
+    },
+    "resolved_answer": "24小時",
+    "verification_status": "source_supported"
   },
   {
     "id": "072bfa49ce7f57450adb51aaf0e635edef3c9b73d71595e6bb39de08f2f46152",
@@ -46,13 +77,27 @@
     ],
     "type": "單選",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "6歲",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.261Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "6歲",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:50.661Z"
+    },
+    "resolved_answer": "6歲",
+    "verification_status": "source_supported"
   },
   {
     "id": "662e129c7c92be000ebeaaa79cb51917cea8526994ee7ad8430a1f76f29352c9",
@@ -63,13 +108,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.262Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:50.940Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "b5a3f08c8a3320fc028ada2c4e525f74ce89451d335b322f29444d0169ce3f94",
@@ -118,13 +177,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.267Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:51.276Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "ae6c0eb117cedad8c8050639b229dd45e3b7edc4ceb5177ff23450233c5e763e",
@@ -137,13 +210,27 @@
     ],
     "type": "單選",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "16歲",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.270Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "16歲",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:51.570Z"
+    },
+    "resolved_answer": "16歲",
+    "verification_status": "source_supported"
   },
   {
     "id": "0be5c3811dae004a016f878c710c850bd5c319197eb809202af0045e855ee907",
@@ -154,13 +241,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.272Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:51.907Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "2a8aaf603890ce125b7322f1324c224a27b4b2ffef30febd8ec2514dcfd6c6d3",
@@ -173,13 +274,27 @@
     ],
     "type": "單選",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "196個",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:34:31.281Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "196個",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:52.233Z"
+    },
+    "resolved_answer": "196個",
+    "verification_status": "source_supported"
   },
   {
     "id": "30fbb06de16a5a99d7f2555ee298a65a8da2b281a1a6e36129ca62a78da87629",
@@ -190,13 +305,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:23.372Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:52.537Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d0743a959f3ea4a4778f96a6826339caa0b5310f21d9d7663c43d53b909e163a",
@@ -228,13 +357,27 @@
     ],
     "type": "單選",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "政府應建立兒保案加害人裁罰紀錄資料庫",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:23.433Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "兒童有平等參與各種休閒娛樂文化活動的權利",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:53.315Z"
+    },
+    "resolved_answer": "兒童有平等參與各種休閒娛樂文化活動的權利",
+    "verification_status": "source_supported"
   },
   {
     "id": "f6609f1d3e3c5ecf80b09d16fb745e1a799223b33b5041b290a7cbb1e8555228",
@@ -245,13 +388,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:23.453Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:53.654Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "82ad6179276f3ae1156bd46237f162e2be1292681ffefb43cd553265b652ae55",
@@ -262,13 +419,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:48.894Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:53.917Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "5d46ecbe27a5dd8f2fe466e5dc93a780d47ea592cd2f77f97acd39bb849b037e",
@@ -279,13 +450,27 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:48.900Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:54.298Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "54878e6c7ace11e42ca688bfb6d9efbb2b5f9781796066121b82103f7dc8537f",
@@ -296,12 +481,26 @@
     ],
     "type": "是非",
     "course": "兒童權利公約及福利政策法規",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-18T14:35:48.906Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_160.html",
+          "title": "「兒童權利公約及福利政策法規」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-25T13:19:54.323Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   }
 ]
