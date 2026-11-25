@@ -177,5 +177,102 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:07:55.016Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "64db22a70b423e1c9f63ba99e25066be44ed964d36c01b0ca3778afe7619d3d0",
+    "question": "本課程中使用的社會環境框架內容項目有哪些?",
+    "options": [
+      "驅動力",
+      "壓力",
+      "狀態",
+      "影響",
+      "回應"
+    ],
+    "type": "多選",
+    "course": "海洋保育：以科學為基礎的海洋與海岸管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:23:52.526Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "868588255d8875568634a0466e61a4d4151bc6428c0cff62504b0675e2df1561",
+    "question": "下列哪些為溫室氣體?",
+    "options": [
+      "CO2",
+      "CH4",
+      "N2O",
+      "O2",
+      "N2"
+    ],
+    "type": "多選",
+    "course": "海洋保育：以科學為基礎的海洋與海岸管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:23:52.529Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "2982a87b796e44f26ac801cf75b5493db70138f77e9a224ea5a26336ca7c07ff",
+    "question": "以下那些組織使用社會環境框架分析？",
+    "options": [
+      "歐盟計畫",
+      "歐洲環境署",
+      "台灣環境部",
+      "台灣海保署",
+      "聯合國環境計畫"
+    ],
+    "type": "多選",
+    "course": "海洋保育：以科學為基礎的海洋與海岸管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:23:52.530Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "cd3a0ca0b458349bc754daf740105b1e73cef8cc9df84bf1f29fd6729461f36a",
+    "question": "本課程中使用的社會環境框架為何?",
+    "options": [
+      "DPSIR",
+      "PSD",
+      "PDSIR",
+      "SIRDP",
+      "PIR"
+    ],
+    "type": "單選",
+    "course": "海洋保育：以科學為基礎的海洋與海岸管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "DPSIR",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:23:52.531Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e2db3eb5c0049ecb1a456f5639df25c7c3370d80b05e0d0056b27a424b6e2eb8",
+    "question": "驅動力是經濟和人類活動驅使環境改變的因素。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育：以科學為基礎的海洋與海岸管理",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:23:52.532Z",
+    "review_state": "candidate_ready"
   }
 ]
