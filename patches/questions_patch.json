@@ -142602,5 +142602,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-25T01:20:24.296Z"
     }
+  },
+  {
+    "question": "高雄智慧醫療聯盟提供的驗證平台，其範疇涵蓋了六大關鍵領域。下列何者「不屬於」這六大領域？",
+    "type": "單選",
+    "options": [
+      "門診與急診",
+      "住院與急重症",
+      "房地產市場與醫美趨勢預測",
+      "疾病預測與長照"
+    ],
+    "course": "解碼高雄AI醫療",
+    "answer": "房地產市場與醫美趨勢預測",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "房地產市場與醫美趨勢預測",
+      "sources": [
+        {
+          "url": "https://invest.kcg.gov.tw/News_Content.aspx?n=8CE973AC5F6EE514&s=4C263C72F1FF2DE7&sms=D7173346CB507235",
+          "quote": "高醫以智慧門診整合流程、智慧急診緊急救護、智慧住院全人照護、智能急重症連續照護、疾病預測早期示警、智能長照與健康社區等六大方向導入人工智慧"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-25T06:20:52.292Z"
+    }
   }
 ]
