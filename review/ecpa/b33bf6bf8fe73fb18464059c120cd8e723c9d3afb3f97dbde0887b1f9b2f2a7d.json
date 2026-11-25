@@ -74,5 +74,62 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:09:18.851Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "f3c66c74aa56be1e8d040475e2b6bb0f182845d2ea8b9666da52b4d5322869ff",
+    "question": "下列何者非為海洋產業發展條例所定義的產業類別？",
+    "options": [
+      "海洋監測",
+      "海洋環境保護",
+      "海洋空間規劃",
+      "海洋測繪。"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "海洋空間規劃",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:09:46.948Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "baf340bc229764e9e8950982205759700d1cabadbc31814ff6b0b50d092d1cf8",
+    "question": "海洋產業發展條例中，有關統合各部會海洋事務的政策工具，下列何者為非：",
+    "options": [
+      "建立海洋資料庫",
+      "充實海洋發展基金",
+      "編列推動海洋產業預算",
+      "辦理海洋產業補助事宜"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "建立海洋資料庫",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:09:46.949Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "bec3eadafa83e5bf8fa283be2113529bfa07440b90b60360511210c1d696796f",
+    "question": "何為海洋產業發展條例最主要的立法目的？",
+    "options": [
+      "促進個別產業的發展",
+      "成立國家海洋發展基金",
+      "加強政策統合協調功能",
+      "設置海洋產業園區"
+    ],
+    "type": "單選",
+    "course": "海洋產業-藍色經濟與產業永續發展路徑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "加強政策統合協調功能",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:09:46.950Z",
+    "review_state": "candidate_ready"
   }
 ]
