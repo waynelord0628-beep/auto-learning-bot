@@ -321,5 +321,73 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:16:47.315Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a77f39e9c8ffae9e7913dc0f76e1b31bce64ab1a2a968a481a80f0fb1970bb38",
+    "question": "震盪水柱式的波浪能發電是目前已有實績的海洋能發電方式之一。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:19:15.565Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e4b546e38cb61ae4244d4b18893fdf8f91312b23a18d143e19643f57c65c3cd2",
+    "question": "我國波浪能較大的海域包括東北部與金門、馬祖等離島海域。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:19:15.566Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e7fa9e0844c673327d9be5bf3bfbb4159aa19118f6326ba9a1ed37392b6bd08",
+    "question": "潮流能發電的機組一般是採用錨碇系統讓發電系統懸浮在潮流中。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:19:15.567Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "57a8337e777578920d98a4dc689bedd4cee6c20e46e6536fc78850feb2eaddc5",
+    "question": "海洋表層溫度越高的海域越適合發展溫差發電。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T16:19:15.568Z",
+    "review_state": "candidate_ready"
   }
 ]
