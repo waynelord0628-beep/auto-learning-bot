@@ -177,5 +177,56 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T20:11:37.896Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "df9c5ab832c01d6bfb6663b481f06fd56c262dd24e75510cf3f8986ed78951f0",
+    "question": "海洋政策四大急迫課題，包含海洋人才培育",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:16.410Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6fd969e9294c8546aafd2840418218b48e5430f872e68c11d2d594006da0eb49",
+    "question": "海洋政策四大急迫課題，不包含氣候變遷與天災頻繁。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:16.411Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a2be09bed26492ff02de9fcd0467d27e0c577bf9058844c7cc7a639c483daa6e",
+    "question": "海洋政策的巨大變革包含嚴峻的安全情勢、碳中和目標、產業升級、能源轉型、資源與環境永續、科技研發等跨時代的轉變。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋法政",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T20:12:16.413Z",
+    "review_state": "candidate_ready"
   }
 ]
