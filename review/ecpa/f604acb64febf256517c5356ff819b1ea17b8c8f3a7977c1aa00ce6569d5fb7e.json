@@ -186,5 +186,115 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T22:36:13.401Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "df94159070aa0c6ef843c60744093eccba99c6981764508951895735010e04b6",
+    "question": "我國漁船上的遠洋漁業觀察員，為何需要記錄混獲海鳥的相關資訊？",
+    "options": [
+      "瞭解混獲發生的熱點",
+      "瞭解容易被混獲的種類",
+      "處罰有混獲海鳥的漁船",
+      "瞭解忌避措施的使用情形及成效"
+    ],
+    "type": "多選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.556Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "61bc3a83b744b768cedea0401de7b0718b62b19d3ff5cb5f577772c98131d6f5",
+    "question": "基準點位移（shifting baseline）可能在我們的有生之年就發生。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.559Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "7c57d4fd9e45c5472e0c31210d136dd74ddcb4c0b7f5151c78d5b0f144cb073f",
+    "question": "溢出效應（spillover effect）指的是海洋保護區對周遭居民帶來的負面效應。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.559Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d87dc55a4274ab2a5994a597f2c53342ae2b974f51c64d062c5bb5ece3c67b90",
+    "question": "海廢的監測和治理包含哪些面向？",
+    "options": [
+      "源頭減量",
+      "研究調查",
+      "預防與移除",
+      "擴大合作參與",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.560Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "39dc5520d87c3985d917f2a0542371dddeed4c936538fd1178415a49ad7512db",
+    "question": "IUCN評估一個物種的保育層級主要會考慮哪些項目？",
+    "options": [
+      "族群量",
+      "族群遞減的速度",
+      "該物種的食性",
+      "分佈範圍大小",
+      "滅絕的機率"
+    ],
+    "type": "多選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.561Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "6bb1b2080db96075bdf041aa448ee9671931cd8f750af73a74221a41faf80ec1",
+    "question": "海洋保育需要仰賴政府、產業、學術單位、公民團體、每一位民眾的共同努力。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-25T22:36:55.562Z",
+    "review_state": "candidate_ready"
   }
 ]
