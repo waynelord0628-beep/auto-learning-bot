@@ -305,5 +305,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T20:36:36.939Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "82ad5cd60fbaa06c992f1c66678f980cd0b826704e7988ee8927d65b491ebd58",
+    "question": "在船舶發生海難事故，且併發溢油污染海洋情形時，「海洋委員會海巡署」係為海洋污染處置業務的主管機關。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:37:08.738Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6fcacf42f1628d530b0c00a631396fb0f11faa2613d52043db239545bbcdd7bb",
+    "question": "一般而言，船舶避免發生海難事故的不二法門對策，下列何者正確？",
+    "options": [
+      "事前預防",
+      "事中應變",
+      "事後檢討",
+      "事事關注"
+    ],
+    "type": "單選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "事前預防",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:37:08.742Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a565ca4905abed483c7ebf51510abea440949e525b03cee44f6b9aea63cc3c2e",
+    "question": "現今海難事故發生的三大組成要素，下列何者正確？",
+    "options": [
+      "SAR",
+      "SEA",
+      "SHIP",
+      "SEAMAN"
+    ],
+    "type": "多選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:37:08.743Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
