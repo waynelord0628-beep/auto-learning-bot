@@ -20,16 +20,21 @@ exec(compile(ast.Module(body=methods, type_ignores=[]), 'app.py', 'exec'), names
 class RecoveryTests(unittest.TestCase):
     def test_known_homepage_exit_requires_exact_host_path_and_frame_evidence(self):
         condition = next(node.test for node in ast.walk(tree) if isinstance(node, ast.If)
-                         and 'page.hostname' in ast.unparse(node.test))
+                         and 'page.scheme' in ast.unparse(node.test))
         expression = compile(ast.Expression(condition), 'app.py', 'eval')
         for url, frames, expected in [
             ('https://elearn.hrd.gov.tw/mooc/index.php', ['newsFrame'], True),
+            ('https://npm.elearn.hrd.gov.tw/mooc/index.php', ['newsFrame'], True),
+            ('https://center.elearn.hrd.gov.tw/mooc/index.php', ['newsFrame'], True),
+            ('http://npm.elearn.hrd.gov.tw/mooc/index.php', ['newsFrame'], False),
+            ('https://npm.elearn.hrd.gov.tw.example.test/mooc/index.php', ['newsFrame'], False),
             ('https://elearn.hrd.gov.tw/mooc/index.php', ['newsFrame', 's_catalog'], False),
             ('https://elearn.hrd.gov.tw/mooc/index.php', [], False),
             ('https://elearn.hrd.gov.tw/learn/path/index.php', ['newsFrame'], False),
             ('https://elearn.hrd.gov.tw.example.test/mooc/index.php', ['newsFrame'], False),
         ]:
-            self.assertEqual(eval(expression, {'page': urlsplit(url), 'frame_ids': frames}), expected)
+            self.assertEqual(eval(expression, {'page': urlsplit(url), 'host': urlsplit(url).hostname,
+                                             'frame_ids': frames}), expected)
 
     def pilot(self):
         return SimpleNamespace(running=True, driver=Mock(), stat_url='https://example.test/records',

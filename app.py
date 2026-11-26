@@ -2472,7 +2472,9 @@ class AdminEfficiencyPilot:
                         logger.warning(f"   🔍 頁面 iframe 清單: {frame_ids}")
                         from urllib.parse import urlsplit
                         page = urlsplit(self.driver.current_url)
-                        if (page.hostname == "elearn.hrd.gov.tw"
+                        host = page.hostname or ""
+                        if (page.scheme == "https"
+                                and (host == "elearn.hrd.gov.tw" or host.endswith(".elearn.hrd.gov.tw"))
                                 and page.path.rstrip("/") == "/mooc/index.php"
                                 and "newsFrame" in frame_ids and "s_catalog" not in frame_ids):
                             logger.warning("🔄 已回到平台首頁，教室已退出；交由主流程確認並恢復登入。")
