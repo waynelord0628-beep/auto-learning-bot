@@ -438,10 +438,11 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.872Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.694Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-03T09:20:09.889Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "1fd3ebece5c4cc14302dd716f8c43dcbc6bc0764dec37021b5cc957388a71c86",
