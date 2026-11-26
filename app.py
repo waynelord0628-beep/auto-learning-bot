@@ -1711,6 +1711,46 @@ class AdminEfficiencyPilot:
                 pass
 
     def auto_questionnaire(self, course):
+        """Submit at most three times; only platform records confirm completion."""
+        if not self.running:
+            return False
+        key = str(course.get("course_id", ""))
+        failures = getattr(self, "_questionnaire_fail_counts", {})
+        if failures.get(key, 0) >= 3:
+            return False
+        try:
+            self._submit_questionnaire(course)
+            if not self.running:
+                return False
+            self.driver.get(self.stat_url)
+            if not self.safe_sleep(2):
+                return False
+            if not self.sync_session():
+                raise RuntimeError("Session synchronization failed")
+            for attempt in range(3):
+                if not self.running:
+                    return False
+                records = self.fetch_course_list_checked()
+                current = next((c for c in records if str(c.get("course_id", "")) == key), None)
+                if current is not None and (
+                    current.get("fill") == "1"
+                    or ("write_questionnaire" in current and not current["write_questionnaire"])
+                ):
+                    failures.pop(key, None)
+                    self._questionnaire_fail_counts = failures
+                    logger.info("   ✅ 平台已確認問卷完成或無須填寫")
+                    return True
+                logger.warning(f"   ⚠️ 問卷尚未獲平台確認（{attempt + 1}/3）")
+                if not records or (attempt < 2 and not self.safe_sleep(2)):
+                    break
+        except Exception as e:
+            logger.warning("   ⚠️ 問卷完成狀態讀回失敗（%s）", type(e).__name__)
+        failures[key] = failures.get(key, 0) + 1
+        self._questionnaire_fail_counts = failures
+        logger.warning("   ⚠️ 問卷保留待處理，不以送出動作判定完成")
+        return False
+
+    def _submit_questionnaire(self, course):
         """考試通過後，自動填寫問卷/評價。回傳 True=完成, False=失敗/跳過"""
         logger.info("   📋 開始自動填寫問卷流程...")
         main_window = self.driver.current_window_handle
@@ -2036,6 +2076,29 @@ class AdminEfficiencyPilot:
         if course_type_cd:
             return course_type_cd in {"single", "open"}
         return True
+
+    def _unresolved_course_tasks(self, courses):
+        """Audit platform records without excluding this run's skipped courses."""
+        unresolved = []
+        for course in courses:
+            if not self._is_open_course(course):
+                continue
+            key = str(course.get("course_id", ""))
+            reasons = []
+            if (to_sec(course.get("rss", "00:00:00"))
+                    < to_sec(course.get("criteria_content_hour", "00:00:00"))
+                    * self.config.get("target_percentage", 1.0)
+                    and not (course.get("exam_score") is not None and course.get("fill") == "1")):
+                reasons.append("研習時數")
+            if (course.get("exam_exists") == "1" and course.get("exam_score") is None
+                    or self._exam_fail_counts.get(key, 0) >= 3):
+                reasons.append("測驗")
+            if (course.get("write_questionnaire") and course.get("fill") != "1"
+                    or getattr(self, "_questionnaire_fail_counts", {}).get(key, 0) >= 3):
+                reasons.append("問卷")
+            if reasons:
+                unresolved.append((course, reasons))
+        return unresolved
 
     def recover_login_session(self, reason="session 失效") -> bool:
         if not self.running:
@@ -2767,7 +2830,11 @@ class AdminEfficiencyPilot:
                     ]
 
                     if not pending and not completed_hours:
-                        all_tasks_done = True
+                        unresolved = self._unresolved_course_tasks(courses)
+                        all_tasks_done = not unresolved
+                        logger.info(f"📋 最終平台清單：{len(courses)} 門，仍待處理 {len(unresolved)} 門")
+                        for item, reasons in unresolved:
+                            logger.warning("⏳ 保留未完成：%s（%s）", item.get("caption", "未命名課程"), "、".join(reasons))
                         break
 
                     # ── 第一步：先對時數已達標但考試/問卷未完成的課程執行 ──
@@ -2814,7 +2881,15 @@ class AdminEfficiencyPilot:
 
                             passed = self.auto_exam(c)
                             if passed and self.running:
-                                self.auto_questionnaire(c)
+                                if not self.auto_questionnaire(c):
+                                    c_id = str(c.get("course_id", ""))
+                                    if getattr(self, "_questionnaire_fail_counts", {}).get(c_id, 0) >= 3:
+                                        self._completed_in_session.add(c_id)
+                                        logger.warning("⏭️ 問卷三次未確認，保留未完成並交由人工檢查。")
+                                    else:
+                                        all_exam_done = False
+                                        break
+                                    continue
                                 # 記錄本次已處理（避免每次迴圈重複執行）
                                 self._completed_in_session.add(
                                     str(c.get("course_id", ""))
@@ -2835,7 +2910,7 @@ class AdminEfficiencyPilot:
 
                         # 若全部達標課程都處理完，且無 pending，則全部完成
                         if all_exam_done and not pending:
-                            break
+                            continue  # Re-read platform records before declaring completion.
 
                     # ── 第二步：處理時數未達標的課程（上課）──
                     # 若有考試還在重試中（all_exam_done=False），優先重考，不去上課
