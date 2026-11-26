@@ -40,7 +40,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import UnexpectedAlertPresentException, NoAlertPresentException
+from selenium.common.exceptions import UnexpectedAlertPresentException, NoAlertPresentException, TimeoutException
 from colorama import Fore, Style, init
 
 from utils.helpers import get_logger, to_sec, sec_to_str, draw_bar
@@ -2145,6 +2145,28 @@ class AdminEfficiencyPilot:
         self._course_login_recoveries = attempts
         return self.recover_login_session("課程教室已退出或登入失效")
 
+    def _confirm_completed_course_review(self):
+        """Handle only the platform's explicit completed-course re-entry notice."""
+        if not self.running:
+            return False
+        try:
+            button = WebDriverWait(self.driver, 2).until(
+                EC.visibility_of_element_located((By.ID, "confirmBtn"))
+            )
+        except TimeoutException:
+            return self.running
+        if not self.running:
+            return False
+        message = button.find_element(By.XPATH, "../..").text
+        if ("您已完成此課程" not in message
+                or "重新學習將無法重複取得時數" not in message
+                or button.text.strip() != "確定"):
+            logger.warning("⚠️ 非預期的課程確認視窗，停止自動進入。")
+            return False
+        button.click()
+        logger.info("📖 已確認重入已完成課程；不會重複取得認證時數。")
+        return True
+
     def find_classroom_window(self):
         """Return the browser window that owns the course frame tree."""
         if not self.driver:
@@ -2364,6 +2386,9 @@ class AdminEfficiencyPilot:
                 self.driver.execute_script(
                     "document.querySelector('button.btn-primary').click();"
                 )
+
+            if not self._confirm_completed_course_review():
+                return "STOP"
 
             for _ in range(10):
                 if not self.running:  # ⭐ 檢查點 4
@@ -2869,6 +2894,9 @@ class AdminEfficiencyPilot:
                                     self.driver.execute_script(
                                         "arguments[0].click();", btn
                                     )
+                                    if not self._confirm_completed_course_review():
+                                        self.running = False
+                                        break
                                     if not self.safe_sleep(5):
                                         break
                                 except Exception:
