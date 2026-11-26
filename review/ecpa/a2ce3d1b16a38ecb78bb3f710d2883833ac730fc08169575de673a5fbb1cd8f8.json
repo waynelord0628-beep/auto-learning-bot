@@ -317,5 +317,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.662Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "73bc7c7d5402d10d7fef821775a7972939f0865374b58fcdc179da3f7024e40d",
+    "question": "曾經有一位海盜在十九世紀初肆虐浙江、福建、廣東、臺灣沿海，還曾劫掠台南、淡水、宜蘭等地，他是？",
+    "options": [
+      "林鳳",
+      "林道乾",
+      "張保仔",
+      "蔡牽"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "林道乾",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T15:36:25.036Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "66e1696eb537a837b3326780312b4065b88cab02539c4c3462eabd6d18024a60",
+    "question": "1771年曾有一位東歐人搭船來到台灣東部，與台灣原住民頭目歃血結盟，希望能將台灣納入法國等國的統治，可惜最後並未實踐。請問是那位？",
+    "options": [
+      "澤倫斯基",
+      "托洛斯基",
+      "柴可夫斯基",
+      "貝紐夫斯基"
+    ],
+    "type": "單選",
+    "course": "臺灣海域五百年",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "貝紐夫斯基",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T15:36:25.037Z",
+    "review_state": "candidate_ready"
   }
 ]
