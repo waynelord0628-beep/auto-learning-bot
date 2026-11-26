@@ -15,10 +15,11 @@
     "source": "ai_unverified",
     "created_at": "2026-10-29T09:22:00.731Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 2,
+    "verify_attempts": 3,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-25T02:20:26.022Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-03T11:21:14.337Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "7c7d707b5ff719755374e72c7be740ea265ff0db05b893cd8485b9014d2e75f2",
