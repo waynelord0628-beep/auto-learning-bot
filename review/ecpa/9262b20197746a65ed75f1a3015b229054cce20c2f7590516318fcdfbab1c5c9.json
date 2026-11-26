@@ -248,8 +248,9 @@
     "review_state": "candidate_ready",
     "verify_attempts": 1,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.641Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-11-26T05:35:43.789Z",
+    "verification_status": "service_error",
+    "service_failures": 1
   },
   {
     "id": "fd6035aa8d8c8413d1e422eb1a0038a4cd6a1d28be050d6a13bcaa1ddab0efdd",
