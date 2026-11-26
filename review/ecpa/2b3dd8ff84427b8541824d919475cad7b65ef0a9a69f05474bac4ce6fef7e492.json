@@ -423,5 +423,39 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T00:11:56.727Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "824738cc955c03a7c66b16d434f655b2dd46464be271edda926b70359d801d12",
+    "question": "溫差發電需使用在攝氏二十幾度即能氣化的工作流體。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T00:12:31.277Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a989db27475d38b142ad8978baff85bf8a0170dd0488c3d2c63fbc19d28834e3",
+    "question": "海洋能發電系統長期暴露於海水中，會造成系統腐蝕，但還好通常不會有生物附著的問題。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T00:12:31.281Z",
+    "review_state": "candidate_ready"
   }
 ]
