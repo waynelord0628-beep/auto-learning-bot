@@ -222,10 +222,11 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.866Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.634Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-03T04:20:15.293Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "36ad2b1bdbbc61a5238d28084ed26730f7517946d9d4056bee1487816e758f17",
