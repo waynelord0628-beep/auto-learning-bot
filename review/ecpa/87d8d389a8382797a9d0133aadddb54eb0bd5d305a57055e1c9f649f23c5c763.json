@@ -155,17 +155,30 @@
     ],
     "type": "單選",
     "course": "行政院與所屬中央及地方各機關（構）公務員勤休制度宣導課程-115年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "50",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-09T11:27:00.132Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:56.683Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-03T00:20:12.215Z",
+    "verification_status": "source_supported",
+    "source_review": {
+      "answer": "50",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0030020",
+          "quote": "待命時數之加班費，每小時支給基準不得低於前項基準之百分之五十。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-26T00:20:11.360Z"
+    },
+    "resolved_answer": "50"
   },
   {
     "id": "5e939f0daa0954782dbb0b0c8a071f13684116e3c47015ffb4d0cdacad3fac5e",

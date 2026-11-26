@@ -142959,5 +142959,30 @@
       "model": null,
       "checked_at": "2026-11-25T13:19:54.323Z"
     }
+  },
+  {
+    "question": "待命時數之加班費評價換算基準之下限，不得低於每小時加班費支給基準百分之多少?",
+    "type": "單選",
+    "options": [
+      "60",
+      "55",
+      "50",
+      "40"
+    ],
+    "course": "行政院與所屬中央及地方各機關（構）公務員勤休制度宣導課程-115年",
+    "answer": "50",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "50",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0030020",
+          "quote": "待命時數之加班費，每小時支給基準不得低於前項基準之百分之五十。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-26T00:20:11.360Z"
+    }
   }
 ]
