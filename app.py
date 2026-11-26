@@ -2038,6 +2038,8 @@ class AdminEfficiencyPilot:
         return True
 
     def recover_login_session(self, reason="session 失效") -> bool:
+        if not self.running:
+            return False
         logger.warning(f"🔄 {reason}，嘗試重新登入並同步 API session...")
         try:
             self._accept_alert_if_present()
@@ -2045,17 +2047,40 @@ class AdminEfficiencyPilot:
             pass
         try:
             self.driver.get(self.stat_url)
-            self.safe_sleep(2)
+            if not self.safe_sleep(2):
+                return False
         except Exception:
             pass
+        if not self.running:
+            return False
         if not self.login():
             logger.error("❌ 重新登入失敗，無法恢復 API session。")
+            return False
+        if not self.running:
             return False
         if not self.sync_session():
             logger.error("❌ 重新登入後 session 同步失敗。")
             return False
+        self._progress_cache = {}
         logger.info("✅ 重新登入並同步 session 完成。")
         return True
+
+    def _recover_course_after_logout(self, course):
+        """Retry a lost classroom session, bounded while platform progress is unchanged."""
+        if not self.running:
+            return False
+        key = str(course.get("course_id", ""))
+        progress = to_sec(course.get("rss", "00:00:00"))
+        attempts = getattr(self, "_course_login_recoveries", {})
+        previous, count = attempts.get(key, (progress, 0))
+        if progress > previous:
+            count = 0
+        if count >= 3:
+            logger.error("❌ 同一課程時數未增加，已嘗試恢復登入 3 次；停止本輪，請檢查平台狀態。")
+            return False
+        attempts[key] = (max(progress, previous), count + 1)
+        self._course_login_recoveries = attempts
+        return self.recover_login_session("課程教室已退出或登入失效")
 
     def find_classroom_window(self):
         """Return the browser window that owns the course frame tree."""
@@ -2445,6 +2470,13 @@ class AdminEfficiencyPilot:
                         frames = self.driver.find_elements(By.TAG_NAME, "iframe")
                         frame_ids = [f.get_attribute("name") or f.get_attribute("id") or "(no id)" for f in frames]
                         logger.warning(f"   🔍 頁面 iframe 清單: {frame_ids}")
+                        from urllib.parse import urlsplit
+                        page = urlsplit(self.driver.current_url)
+                        if (page.hostname == "elearn.hrd.gov.tw"
+                                and page.path.rstrip("/") == "/mooc/index.php"
+                                and "newsFrame" in frame_ids and "s_catalog" not in frame_ids):
+                            logger.warning("🔄 已回到平台首頁，教室已退出；交由主流程確認並恢復登入。")
+                            return "RELOGIN"
                     except Exception as diag_e:
                         logger.warning(f"   🔍 診斷失敗: {diag_e}")
                     if frame_fail_count >= 5:
@@ -2488,18 +2520,8 @@ class AdminEfficiencyPilot:
             except Exception:
                 alert_text = str(e)
             if "閒置" in alert_text or "重新登入" in alert_text or "登出" in alert_text:
-                logger.warning("🔄 帳號閒置被登出，嘗試重新登入後繼續當前課程...")
-                try:
-                    self.driver.get(self.stat_url)
-                except Exception:
-                    pass
-                time.sleep(3)
-                if self.login():
-                    logger.info("✅ 重新登入成功，將重試當前課程。")
-                    return "RELOGIN"
-                else:
-                    logger.error("❌ 重新登入失敗，跳過當前課程。")
-                    return "ERROR"
+                logger.warning("🔄 帳號閒置被登出，交由主流程恢復登入後重查當前課程。")
+                return "RELOGIN"
             elif any(kw in alert_text for kw in ["非本門課", "無法上課", "無權限", "不開放", "未選課"]):
                 logger.warning(f"⚠️ 此課程無法上課（{alert_text}），永久跳過。")
                 try:
@@ -2825,9 +2847,9 @@ class AdminEfficiencyPilot:
                             break
 
                         if res == "RELOGIN":
-                            # 閒置登出後已重新登入，重試當前課程（退回 index）
-                            logger.info("🔄 閒置登出重新登入成功，重試當前課程...")
-                            self.sync_session()  # 確保 http_session 用最新 cookie
+                            if not self._recover_course_after_logout(pending[0]):
+                                break
+                            logger.info("🔄 已確認恢復登入，重新讀取平台課程與時數後續跑。")
                             self.current_idx -= 1
                             continue
 
