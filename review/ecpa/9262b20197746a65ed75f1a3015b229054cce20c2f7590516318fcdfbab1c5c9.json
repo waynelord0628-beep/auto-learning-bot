@@ -366,10 +366,11 @@
     "source": "ai_unverified",
     "created_at": "2026-09-29T18:09:51.871Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:00.674Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-03T08:20:36.157Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "4e4754e398368bc24c8f1992e7db868e1e509f721b028db7442016f420eac3f0",
