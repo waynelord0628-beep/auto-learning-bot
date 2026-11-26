@@ -355,5 +355,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T15:37:10.511Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "b3b09ff57d79676b5bd4ce6253339b0190b708915d2af33b08ce6371e2899332",
+    "question": "適應性管理指的是管理的內容和方式隨著成效和情境做出適當的調整。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T15:37:48.829Z",
+    "review_state": "candidate_ready"
   }
 ]
