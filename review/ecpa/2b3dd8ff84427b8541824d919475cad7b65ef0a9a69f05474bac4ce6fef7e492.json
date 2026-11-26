@@ -389,5 +389,39 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T16:19:15.568Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f55ab3728ae40eec097baeaddf7f760801655308b2f3d0dfbb142fa8e17639d",
+    "question": "潮差能發電是目前成熟度最高的海洋能發電方式。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T00:11:56.725Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "567837a3a3a094b5532b27bcd1bef3ccfba8b1aa95ddaa1d35813decd5296c02",
+    "question": "在海洋能機組安裝過程中，附近的海洋生物與生態系不會受到影響。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T00:11:56.727Z",
+    "review_state": "candidate_ready"
   }
 ]
