@@ -86,11 +86,11 @@ def _is_newer_version(latest, current):
 
 
 class AdminEfficiencyPilot:
-    VERSION = "V2.1.14"
+    VERSION = "V2.1.15"
     CHANGELOG = (
-        "• 修正臺北E大複選題漏答及重複錯答\n"
-        "• 改善研習達標後的流程銜接與題庫同步\n"
-        "• 沿用入口一鍵更新，保留原有設定"
+        "• 修正課程重入確認與重新登入銜接\n"
+        "• 問卷送出後讀回平台確認，避免誤報完成\n"
+        "• 沿用入口一鍵更新，保留原有設定與題庫"
     )
 
     def __init__(self, config_path=None, log_callback=None, config_override=None):

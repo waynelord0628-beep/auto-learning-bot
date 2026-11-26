@@ -6,7 +6,7 @@
 
 整合 eCPA、我的E政府與臺北E大，從課程研習到完成確認，少一點來回操作。
 
-![版本](https://img.shields.io/badge/版本-V2.1.14-233C53?style=flat-square)
+![版本](https://img.shields.io/badge/版本-V2.1.15-233C53?style=flat-square)
 ![系統](https://img.shields.io/badge/系統-Windows-607D8B?style=flat-square)
 ![瀏覽器](https://img.shields.io/badge/瀏覽器-Chrome-607D8B?style=flat-square)
 
@@ -40,9 +40,9 @@ AI 補答為選用功能，需自行設定可用的 API key。沒有 API key，�
 > **把設定留下，讓更新接手。**
 > V2.1.9 以上版本重新開啟程式後，可依提示一鍵更新；原有帳號設定與本地題庫會保留。V2.1.8 及更早版本請手動下載升級，並保留原資料夾中的 `config.json` 與 `questions.db`。
 
-## 這一站 · V2.1.14
+## 這一站 · V2.1.15
 
-改善臺北E大的播放與研習時數確認。時數不足時，依平台紀錄接續研習，再銜接測驗與問卷；遇到異常則停止並提示。
+接好課程重入與重新登入的銜接。問卷送出後，重新讀取平台確認完成；仍有待處理的課程，也會清楚保留。
 
 **完成，以平台紀錄為準。** 畫面的計時進度不等於平台已認定完成。
 
