@@ -330,5 +330,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T00:13:36.561Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d5575db885d1cc5d95c7b8434c4a13cef6615df6f4d80b1362c330551d5a5f86",
+    "question": "都蘭海洋保護區計畫是由政府及漁會積極合作規劃的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋文化─阿美族都蘭部落海裡的魚與都蘭海洋保護區的實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T14:44:04.595Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "13174013f10ad4b1a7ef218ebe7ea700d8fc1399a2cf8c5fc64598cb0083c76d",
+    "question": "都蘭海洋保護區一旦成功劃設，誰需要遵守管理與限制事項?",
+    "options": [
+      "都蘭部落阿美族人",
+      "漁民",
+      "新移民",
+      "所有人"
+    ],
+    "type": "單選",
+    "course": "海洋文化─阿美族都蘭部落海裡的魚與都蘭海洋保護區的實踐",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "所有人",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T14:44:04.598Z",
+    "review_state": "candidate_ready"
   }
 ]
