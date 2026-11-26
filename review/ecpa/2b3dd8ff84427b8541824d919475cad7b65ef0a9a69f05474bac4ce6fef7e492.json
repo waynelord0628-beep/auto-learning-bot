@@ -474,5 +474,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T00:13:05.123Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d4dbae00584a587e66a2ba5494ef394e6f9c032aa1c109fdea945d8c88ff7403",
+    "question": "溫差發電是利用海水的熱能。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T14:42:17.246Z",
+    "review_state": "candidate_ready"
   }
 ]
