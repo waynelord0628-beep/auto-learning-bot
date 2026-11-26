@@ -457,5 +457,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T00:12:31.281Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "555a91a1fe9fac8acb55cf2afc48b94ac1273914b865f80d972129f917d7dcd2",
+    "question": "點吸收式的波浪能發電可吸收來自各個方向的波浪能。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋科技-海洋能的美麗與哀愁",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T00:13:05.123Z",
+    "review_state": "candidate_ready"
   }
 ]
