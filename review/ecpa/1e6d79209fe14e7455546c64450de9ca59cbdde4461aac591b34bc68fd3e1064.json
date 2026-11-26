@@ -178,5 +178,132 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T20:35:52.727Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "d3480f0467ccdd3f1c1fca8e017b10feb4553919064220c9d559094793cfe6bb",
+    "question": "現今我國海事安全政策的實施對策，與國際間區域性「港口國管制(PSC)」制度者，素有密切不可分的關係。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.923Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "acdf2c0e284b0b289ecac6b632f24f44c7cda9ebeaef5d13d4e111e1f39933d5",
+    "question": "我國海巡署曾配置於各地海巡隊的「自動扶正艇」型，擁有對抗橫搖相轉後，自動扶正至平浮(Even Keel)狀態的功能。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.930Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8eabfb6994c44cec99a565748b17b7b6316c0a761a9c07ae26b2a475f5f8b819",
+    "question": "現今從事國際航運的船舶與航空器皆需取得國際公約規範許可認證後，始可行駛於國際海空域中。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.931Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "c244871ca89b4a014ed412698c1f971f867dbc67252e23b5512af5496a2c2842",
+    "question": "當船舶航行於特殊的天候海象環境時，駕駛台當值人員必須謹慎注意「瞭望作業(Lookout)」，下列何者正確？",
+    "options": [
+      "霧區",
+      "狹灣",
+      "礁石區",
+      "陌生水域"
+    ],
+    "type": "多選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.933Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "fa42c9bb389659967365eac77b341d9411e9ddfec14eb6546e0c90f3524000e4",
+    "question": "現今國際海事安全權責管理的主要參與團體，下列何者正確？",
+    "options": [
+      "國際驗船協會",
+      "國際海洋學會",
+      "國際海事組織",
+      "國際航運社團"
+    ],
+    "type": "單選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "國際海事組織",
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.935Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "9787d892bc824d997b639b35e7eec77ac2d5b75e7a04653101f913fc3ef821ce",
+    "question": "現今我國海巡署執行大型海難救助事故時，應設置緊急應變中心，其事件指揮系統(ICS)的任務編組，下列何者正確？",
+    "options": [
+      "計畫組",
+      "行政組",
+      "後勤組",
+      "作業組"
+    ],
+    "type": "多選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.936Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "db7f164a6aa5e8250078149cb7b8984e8d1aef35a764a6a1a119efbc14ac0354",
+    "question": "現今國際油輪的設計及建造必須遵循「國際海事組織(IMO)」所制定法規要求，其中最為重要的結構設計需求特徵，下列何者正確？",
+    "options": [
+      "單層船殼",
+      "單重船底",
+      "雙層船殼",
+      "雙重船底"
+    ],
+    "type": "多選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T20:36:36.939Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
