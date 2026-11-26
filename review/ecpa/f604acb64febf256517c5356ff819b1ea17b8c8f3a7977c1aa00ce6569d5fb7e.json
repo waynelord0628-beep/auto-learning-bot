@@ -336,5 +336,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-25T22:37:31.695Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "20268c8238aed5b2b5ebd572bc9fef3e6078bf201d8065bc2af291d8f56bc370",
+    "question": "當一個地方成立海洋保護區後，卻發現標的物種的生物量沒有增加，可能原因為何？",
+    "options": [
+      "保護區執法效能不彰",
+      "保護區沒有劃設在標的物種的重要棲息地上",
+      "保護區成立的時間不夠長",
+      "保護區範圍不夠大"
+    ],
+    "type": "多選",
+    "course": "海洋保育觀念與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-26T15:37:10.511Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
