@@ -322,5 +322,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T16:15:10.394Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "6c39e7724ad9bc683e3526b5762be35202069e8f34f9b5a0eb2440e36c3c772f",
+    "question": "從發現獨立白海豚的存在後，數量卻遞減。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T16:15:48.864Z",
+    "review_state": "candidate_ready"
   }
 ]
