@@ -178,5 +178,77 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T15:25:15.605Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "8278ac73724dc67c2e7287a5f3e73dfa017d84e2bc1cecf5fcc02319ffc7fd3c",
+    "question": "第二次高雄林園事件毒魚的來源原因為何？",
+    "options": [
+      "林園工業區汙染",
+      "化學物流出",
+      "天氣變化",
+      "不肖業者灑農藥"
+    ],
+    "type": "單選",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "林園工業區汙染",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:25:50.556Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f30e217e590109a9dd23a595a6d55db26e15c7eb6f5927d334741a3c84926424",
+    "question": "核三廠造成了出水口附近的珊瑚白化。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:25:50.558Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "765354207279929170ed04549cf96e83111a6a71be4dd48eeb6802ddc68e5e07",
+    "question": "下列何者為造成白海豚數量長期遞減的主要原因？",
+    "options": [
+      "人為屠殺",
+      "白海豚基因",
+      "水源污染",
+      "沿海生產力降低"
+    ],
+    "type": "單選",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "水源污染",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:25:50.560Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "008b446a5b9dde2f9a52941e4c601d79ca6980b4870c3b87eac53b807edf7ea8",
+    "question": "海生館平均一年大概有150萬到200萬人之間的參觀人數。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:25:50.561Z",
+    "review_state": "candidate_ready"
   }
 ]
