@@ -262,5 +262,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T15:38:11.774Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "7409e97092496863b581ae6c556c3fa972045489b5216dc9a18b758f1fcb526b",
+    "question": "國人從事水上活動時，應先針對自身的健康、安全的技能、環境的評估，有明確的瞭解後，才能好好的去享受海洋的水上活動。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:48.115Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5ce4aa6c9b38e7e8caaa44fc5342fd6e3262ec7b9bd0942f5120a907e611b0ad",
+    "question": "進行海邊戲水活動時，不慎遭遇離岸流帶離海岸時，何者為正確處置方式？",
+    "options": [
+      "保持冷靜並進行大口吸慢吐之呼吸法",
+      "使用抬頭游法並辨別所在方向",
+      "往離岸流之兩側游離其流帶後，再快速游回岸上",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:48.117Z",
+    "review_state": "candidate_ready"
   }
 ]
