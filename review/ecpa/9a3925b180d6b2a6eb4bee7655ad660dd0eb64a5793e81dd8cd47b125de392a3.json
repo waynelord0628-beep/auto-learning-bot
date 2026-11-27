@@ -300,17 +300,31 @@
     ],
     "type": "是非",
     "course": "認識兒童及少年性剝削防制(下)",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-26T22:31:33.528Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:01.171Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T14:20:51.612Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-1491014-e6653-1.html",
+          "quote": "本條例關於性影像之兒少性剝削，因而不區別兒少有無意願或決定權，一律加以保護。只要拍攝兒少性影像，就已侵害兒少性隱私與身心健全發展之法益，其行為本身就具剝削性，而屬本條例禁止之兒少性剝削。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T14:20:50.359Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "e6a9cd962397b7a425ebf82c0f507b69d7403ca700f661f6da373d83addc9fb7",

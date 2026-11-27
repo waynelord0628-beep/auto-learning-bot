@@ -143155,5 +143155,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T11:20:16.551Z"
     }
+  },
+  {
+    "question": "拍攝兒少性私密影像時，只要對方同意就不違法。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識兒童及少年性剝削防制(下)",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-1491014-e6653-1.html",
+          "quote": "本條例關於性影像之兒少性剝削，因而不區別兒少有無意願或決定權，一律加以保護。只要拍攝兒少性影像，就已侵害兒少性隱私與身心健全發展之法益，其行為本身就具剝削性，而屬本條例禁止之兒少性剝削。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T14:20:50.359Z"
+    }
   }
 ]
