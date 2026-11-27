@@ -254,5 +254,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T06:29:52.787Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "583fa616753269417243f9f26559d202e406c5d5e70622ad20f25e7f07da9ed7",
+    "question": "居住於彰化縣二林鎮的六個家庭，舉家集體移民至巴西，在聖保羅近郊之幕義建立了？",
+    "options": [
+      "六塊厝",
+      "六扇門",
+      "六家莊",
+      "六帝堂"
+    ],
+    "type": "單選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "六家莊",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:30:34.134Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "93de7a27aed174a7bb85094fc93bb0fec353386a91479b98239a9f65737baec1",
+    "question": "哪些是臺灣海洋文化歷史包括的內容？",
+    "options": [
+      "移民臺灣的先民原籍",
+      "荷蘭海洋文化",
+      "海峽兩岸的往來",
+      "臺灣及附屬島嶼形成一體的歷程"
+    ],
+    "type": "多選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:30:34.135Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "f80a9a833e25ce989384e8846eb92fcefa87211a9759cb6954d7cae7a4417bf0",
+    "question": "透過臺灣航運、貿易及漁業可以形塑出海洋文化的特質。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:30:34.135Z",
+    "review_state": "candidate_ready"
   }
 ]
