@@ -143132,5 +143132,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T09:20:20.290Z"
     }
+  },
+  {
+    "question": "被害人遇到視訊性勒索時，最好的方法就是先付錢滿足加害者的需求，就可以避免影像被外流？",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "認識兒童及少年性剝削防制(下)",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://siarc.mohw.gov.tw/post_detail.php?poid=2",
+          "quote": "不隨便下載不明軟體、不支付金錢、不面交刪除照片；要蒐證、要截圖、要檢舉、要向性影像處理中心申訴。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T11:20:16.551Z"
+    }
   }
 ]
