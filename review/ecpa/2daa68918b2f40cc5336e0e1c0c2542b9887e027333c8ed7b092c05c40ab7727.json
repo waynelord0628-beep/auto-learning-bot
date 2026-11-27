@@ -345,5 +345,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T15:23:23.130Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "5984be8b83f260fea1682153303060e5cc6c7d8492f67478621412b3410d078a",
+    "question": "1960年代，臺灣人民想要移民巴西是非常簡單的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:23:57.587Z",
+    "review_state": "candidate_ready"
   }
 ]
