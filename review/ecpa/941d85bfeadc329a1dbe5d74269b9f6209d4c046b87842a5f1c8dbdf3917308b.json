@@ -16,6 +16,11 @@
     "candidate_answer": "hearing from you.",
     "source": "ai_unverified",
     "created_at": "2026-11-21T14:56:53.386Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 0,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-11-27T01:35:56.838Z",
+    "verification_status": "service_error",
+    "service_failures": 1
   }
 ]
