@@ -434,5 +434,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T16:10:00.002Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "8ef52ac28e948e5d146b01d02e8b441f8a0c5d8bfb448b2964144947d0f88c8e",
+    "question": "船舶海上航行時，駕駛台當值人員必須遵循「國際海上避碰法則(COLREG)」規定，實施船舶避碰操控作業，下列何者正確？",
+    "options": [
+      "看書",
+      "聊天",
+      "打盹",
+      "瞭望"
+    ],
+    "type": "單選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "瞭望",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T16:10:33.293Z",
+    "review_state": "candidate_ready"
   }
 ]
