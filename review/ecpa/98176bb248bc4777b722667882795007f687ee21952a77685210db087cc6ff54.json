@@ -8,17 +8,31 @@
     ],
     "type": "是非",
     "course": "性別平等教育法法規及概念介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T06:06:35.614Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-25T04:19:59.909Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T04:21:37.844Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=FL030508",
+          "quote": "其中女性委員應占委員總數二分之一以上"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T04:21:27.486Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "31b41302dbbb66f8fedd31dd463d10c530068917652befe358b053a9954d42bb",
