@@ -186,5 +186,81 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T15:37:27.788Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "283cd203f88d4e17d701f0bc5bbe4ec5337513c68e5c6d4069ba69abbef4984e",
+    "question": "教育部目前所推動的「全國中小學學生游泳與自救能力」可從第一級至第五級作為區分，若小學生想要達到第五級旗魚級等的游泳能力，需要完成可持續游泳幾公尺的測驗？",
+    "options": [
+      "50公尺",
+      "75公尺",
+      "100公尺",
+      "200公尺"
+    ],
+    "type": "單選",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "100公尺",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:11.773Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "d4ca8a3f23d4426d3b9dd0b7c3751228018c3dd9244eef17317a58f5ac77ae85",
+    "question": "早期的政府部門在進行水上活動的安全管理做法，最常使用的方式為何？",
+    "options": [
+      "封鎖活動場域",
+      "安排專人現場看管",
+      "設立告示牌",
+      "撒冥紙讓民眾產生恐懼感"
+    ],
+    "type": "單選",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "安排專人現場看管",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:11.773Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0a001218744398a85648184259646b9e4343a64eae90a3c08f35288412589a5d",
+    "question": "為了讓臺灣可以變成國際新興的跳島旅遊天堂，哪一項做法為非？",
+    "options": [
+      "積極建構優質、友善的港埠設施",
+      "營造好的海洋遊艇活動環境",
+      "進行島嶼之間的快速移動旅遊",
+      "提供豐富美食吃完就走的旅遊行程"
+    ],
+    "type": "單選",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "提供豐富美食吃完就走的旅遊行程",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:11.774Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e86f6435fb36f317aecdca2f6c9816f059a4c5bf2a784e089fc853284534e58a",
+    "question": "民眾在進行水上活動的時候，應必須要考量到海洋的環境特性，才可以到海洋去。其中包含哪些環境特性？",
+    "options": [
+      "海浪海流",
+      "海岸類型",
+      "海底底質",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "臺灣海洋遊憩產業發展與趨勢",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:38:11.774Z",
+    "review_state": "candidate_ready"
   }
 ]
