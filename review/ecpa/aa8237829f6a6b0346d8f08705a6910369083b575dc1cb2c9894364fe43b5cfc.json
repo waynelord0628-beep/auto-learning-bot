@@ -339,5 +339,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T16:15:48.864Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c05c78cc3af75147ad1be3f132398b05a91219c2aee6d5a9abb77e56f696f395",
+    "question": "王愈超博士和楊世主小姐展開對於臺灣白海豚的首次研究。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T16:16:24.857Z",
+    "review_state": "candidate_ready"
   }
 ]
