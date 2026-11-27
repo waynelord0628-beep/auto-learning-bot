@@ -104,13 +104,31 @@
     ],
     "type": "是非",
     "course": "性別平等教育法法規及概念介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T06:06:35.630Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-04T05:20:44.928Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "quote": "教師使用教材及從事教育活動時，應具備性別平等意識，破除性別刻板印象，避免性別偏見及性別歧視。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T05:20:43.923Z"
+    },
+    "resolved_answer": "正確"
   },
   {
     "id": "510380694bf5db686987be71c22dec0a0fb663300bf9652cb0bb2b02dcdcf36b",

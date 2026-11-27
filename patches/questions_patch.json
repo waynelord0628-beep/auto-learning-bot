@@ -143059,5 +143059,28 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T05:20:00.835Z"
     }
+  },
+  {
+    "question": "老師在高二分組前的宣導說明中，建議女生選擇社會組，以發揮細心優勢，雖是基於教學經驗的陳述，仍違反《性別平等教育法》之精神。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性別平等教育法法規及概念介紹",
+    "answer": "正確",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "quote": "教師使用教材及從事教育活動時，應具備性別平等意識，破除性別刻板印象，避免性別偏見及性別歧視。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T05:20:43.923Z"
+    }
   }
 ]
