@@ -143082,5 +143082,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T05:20:43.923Z"
     }
+  },
+  {
+    "question": "學校校長、教師、職員或工友知悉服務學校發生疑似校園性別事件，應立即通報學校防治規定所定之學校權責人員，至遲不得超過多少小時？",
+    "type": "單選",
+    "options": [
+      "12小時",
+      "24小時",
+      "48小時",
+      "72小時"
+    ],
+    "course": "性別平等教育法法規及概念介紹",
+    "answer": "24小時",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "24小時",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=H0080067",
+          "quote": "學校校長、教師、職員或工友知悉服務學校發生疑似校園性別事件，應立即通報學校防治規定所定學校權責人員，並由學校權責人員依下列規定辦理，至遲不得超過二十四小時："
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T07:21:02.440Z"
+    }
   }
 ]
