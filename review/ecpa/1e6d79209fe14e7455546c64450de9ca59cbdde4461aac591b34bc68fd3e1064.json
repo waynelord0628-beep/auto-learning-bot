@@ -360,5 +360,43 @@
     "source": "ai_unverified",
     "created_at": "2026-11-26T20:37:08.743Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "0cea3371d162e5cb8f563f0fe92dad9da08bac975f4a3397ab17205772aee91b",
+    "question": "在西元1989年發生，美國史上最嚴重之一的「艾克森瓦爾迪茲號(Exxon Valdez)」油輪溢油污染海洋事件，於是在西元何年，迅速推展制訂其「海洋油污染法」？",
+    "options": [
+      "1990",
+      "2000",
+      "2010",
+      "2020"
+    ],
+    "type": "單選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1990",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T04:52:43.376Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "a9da0a7e9875a371752552b2103273d0f9547b5134cfeae7e3f2c7994707b6ea",
+    "question": "「船舶航程數據記錄器」的英文縮寫，下列何者正確？",
+    "options": [
+      "AIS",
+      "ISM",
+      "VDR",
+      "UNCLOS"
+    ],
+    "type": "單選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "VDR",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T04:52:43.380Z",
+    "review_state": "candidate_ready"
   }
 ]
