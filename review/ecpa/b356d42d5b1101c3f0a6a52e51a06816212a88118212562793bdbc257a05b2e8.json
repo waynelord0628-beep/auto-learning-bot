@@ -273,5 +273,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T00:04:42.686Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e0ded2ae16436d86b7e0ff9c5504ad84823d95ed0248fbff517a364fd1c3a93e",
+    "question": "根據2015年WWF研究報告指出，海洋再生能資源約為多少數量，該數量約是目前全世界發電能力的十幾倍。",
+    "options": [
+      "65%",
+      "75%",
+      "85%",
+      "95%"
+    ],
+    "type": "單選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "95%",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:05:17.415Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "e74961e2af5ad4a67d7b9d6fa49873076ae637bf8526d825e741a0fce34fe74b",
+    "question": "藍色經濟的定義為「將新科學與科技運用於海洋，在環境資源的限制條件下，促進國際、國內各世代人的公平正義與當代人的均富、持續改善人類福祉的海洋產業」",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:05:17.421Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fb2d59d386a23c624a9ead9e1a7612de806d5c30f62f1bc97229c3ba86234e98",
+    "question": "根據2015年WWF研究報告指出，全球97.3%的水資源在海洋中，地球上約多少比例的物種生活在海洋中？",
+    "options": [
+      "50倍",
+      "500倍",
+      "1,000倍",
+      "1,500倍"
+    ],
+    "type": "單選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "1,000倍",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:05:17.423Z",
+    "review_state": "candidate_ready"
   }
 ]
