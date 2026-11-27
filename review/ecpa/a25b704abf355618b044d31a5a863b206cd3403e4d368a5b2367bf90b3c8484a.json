@@ -178,5 +178,100 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.673Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c8928f3048cf60a7a29a2f4be33b43eb1c36fef0410427710e4ea356b368955e",
+    "question": "下列何者並非中華人民共和國採取的領海基線畫設方法？",
+    "options": [
+      "直線基線法",
+      "正常基線法",
+      "平均低潮線法",
+      "混合基線法"
+    ],
+    "type": "多選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:30:42.317Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ba1a6e0cbce1265c023e27c75b33dfa1e3a758b9daf9c3c8b3b58cc47d57727d",
+    "question": "目前中華民國根據《臺灣地區與大陸地區人民關係條例》規定，在包括臺灣與相關離島均公告何種水域，處理對大陸人民進入該水域的事務？",
+    "options": [
+      "禁止水域",
+      "開放水域",
+      "限制水域",
+      "封閉水域"
+    ],
+    "type": "多選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:30:42.324Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "a0c3e93bddc7d84a2ed0c3f4f2b03e2b40f03fe70f19ccc31d6d6022e8d90f20",
+    "question": "依據目前的海洋法公約規範，當大陸國家在海外的洋中群島採用直線基線畫設領海基線後，其所包覆的水域稱之為：",
+    "options": [
+      "內水",
+      "領海",
+      "鄰接區",
+      "專屬經濟區"
+    ],
+    "type": "單選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "內水",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:30:42.325Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "6e2e19594e1155d8a0e57d946800fa1914dc157ae9cb0f1ac6b7b65e2c69ed02",
+    "question": "下列何者並非臺灣海峽所適用的通行制度？",
+    "options": [
+      "無害通過權",
+      "過境通行權",
+      "自由航行權",
+      "群島海道通行權"
+    ],
+    "type": "多選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:30:42.326Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "73405fede92c180ae86ddfdb63fbab6bcbf2fd71c77311b7b5ad0da0d62163b6",
+    "question": "以下對於島嶼定義的說法，下列何者有誤？",
+    "options": [
+      "四面環水的陸地區域",
+      "陸地面積大於１平方公里",
+      "高潮時高於水面",
+      "自然形成的陸地區域"
+    ],
+    "type": "單選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "陸地面積大於１平方公里",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:30:42.327Z",
+    "review_state": "candidate_ready"
   }
 ]
