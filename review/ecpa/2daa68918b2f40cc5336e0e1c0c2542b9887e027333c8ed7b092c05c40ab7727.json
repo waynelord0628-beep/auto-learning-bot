@@ -309,5 +309,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T06:30:34.135Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ed1b6fac9751ea33eaa09e14e903a5385a1f3e7822a4b48ed5b67a65228695ad",
+    "question": "哪些是臺灣對外移民的國家？",
+    "options": [
+      "泰國",
+      "阿根廷",
+      "太平島",
+      "巴西"
+    ],
+    "type": "多選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:23:23.129Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "9674338c760bd59c657ae3d726ac58ec7b6f1647fdee6e61d7abdada09c3f58a",
+    "question": "印度洋、大西洋等超越臺灣「藍色國土」 外的海域，有臺灣住民足跡的地方，都屬於直接、間接孕育臺灣海洋文化的重要場域。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:23:23.130Z",
+    "review_state": "candidate_ready"
   }
 ]
