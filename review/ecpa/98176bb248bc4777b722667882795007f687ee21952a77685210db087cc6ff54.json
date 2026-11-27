@@ -43,17 +43,35 @@
     ],
     "type": "是非",
     "course": "性別平等教育法法規及概念介紹",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-15T06:06:35.616Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-11-25T04:21:08.676Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T05:20:04.615Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=H0080067",
+          "quote": "教材內容應平衡反映不同性別之歷史貢獻及生活經驗，並呈現多元之性別觀點。"
+        },
+        {
+          "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=DD338EC2EAFE4D98&sms=169B8E91BB75571F",
+          "quote": "教育部期望透過性別平等教育相關的課程與教學機會，教育學生瞭解並尊重不同的性別特質、性別認同與性傾向"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T05:20:00.835Z"
+    },
+    "resolved_answer": "錯誤"
   },
   {
     "id": "87e92a9ba2fae40dfc25d7972b54806b2f63eef5a91baf0e4e0ebb115987cec0",

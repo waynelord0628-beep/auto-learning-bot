@@ -143032,5 +143032,32 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T04:21:27.486Z"
     }
+  },
+  {
+    "question": "為了減少爭議，學校的課程或教學過程中，應避免討論有關多元性別的議題，以符合《性別平等教育法》的精神。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "性別平等教育法法規及概念介紹",
+    "answer": "錯誤",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=H0080067",
+          "quote": "教材內容應平衡反映不同性別之歷史貢獻及生活經驗，並呈現多元之性別觀點。"
+        },
+        {
+          "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=DD338EC2EAFE4D98&sms=169B8E91BB75571F",
+          "quote": "教育部期望透過性別平等教育相關的課程與教學機會，教育學生瞭解並尊重不同的性別特質、性別認同與性傾向"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T05:20:00.835Z"
+    }
   }
 ]
