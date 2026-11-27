@@ -182,5 +182,96 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T00:04:01.614Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "c6c0cbc94bf50b6c7d8afa3feae84e75226a353674a283f267e2dbb18d786792",
+    "question": "「管理學之父」彼得．費迪南．杜拉克教授在他著作中，曾預測哪些產業是本世紀的兩個重要明星產業？",
+    "options": [
+      "生物科技",
+      "航運",
+      "電機工程",
+      "養殖漁業"
+    ],
+    "type": "多選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:04:42.681Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "bc7660294d313e2a06894e494c2507daa13445432eda7a05424242e825d90919",
+    "question": "臺灣海洋產業產值占比以海洋觀光遊憩業為最高，高達77%，其次依序為漁業佔12%、海洋運輸及輔助業佔9%，其他產業佔2%。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:04:42.684Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1fda481ead9afa5d64360f12411a8cd092381dde9fe24cdb54c805f6679df6e4",
+    "question": "2019年日本大阪G20峰會通過的《大阪宣言》達成哪一項協議，各國同意在2050年前，將海洋塑膠垃圾減為零？",
+    "options": [
+      "聯合國海洋法公約",
+      "藍色海洋願景",
+      "巴黎協定",
+      "蒙特婁議定書"
+    ],
+    "type": "單選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "藍色海洋願景",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:04:42.685Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "318d0f2e06523201cc68507b4fb65afea9e086c9d48506565eed375b094ff2d6",
+    "question": "全球化下的海洋產業發展趨勢，海洋產業的GDP約占全球5%，預估未來將以平均每年30%成長。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:04:42.686Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "0d8d79113b6a316c9dc462e3ccd3774006f9ff0a2a329ba45f3e5d2fba852577",
+    "question": "臺灣為典型海島國家，海洋治理與藍色經濟攸關我國整體發展，2019年11月20日公佈哪項法令，以打造臺灣成為海洋國家？",
+    "options": [
+      "文化基本法",
+      "教育基本法",
+      "原住民基本法",
+      "海洋基本法"
+    ],
+    "type": "單選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "海洋基本法",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T00:04:42.686Z",
+    "review_state": "candidate_ready"
   }
 ]
