@@ -209,10 +209,11 @@
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.581Z",
     "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:58.703Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T03:20:22.477Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "0a12c4726a631b5d3708b2fd7734a5e409d6d0ae1e2b513deb5dce26b91cb304",
