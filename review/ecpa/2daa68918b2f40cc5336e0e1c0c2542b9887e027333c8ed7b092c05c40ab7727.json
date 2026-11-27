@@ -178,5 +178,81 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T06:29:02.554Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "ff214092b31d1d2123240f4ea3b9c92e089c69b213dd160e25f879875f00ea68",
+    "question": "哪些為藍色國土包括的範圍？",
+    "options": [
+      "臺灣海峽",
+      "南中國海",
+      "太平洋",
+      "臺灣與菲律賓間的海域"
+    ],
+    "type": "多選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:29:52.783Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "ea7e32055f8c36e6d443b1b9287bcb4504fd263a6581cb98977ab8cf4a07eec9",
+    "question": "哪些是1960年代，臺灣人移民巴西後常於當地從事的工作？",
+    "options": [
+      "提包業",
+      "公務員",
+      "農業",
+      "經營禮品店"
+    ],
+    "type": "多選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:29:52.785Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "992809586998110e2b8e9f8ef1dca56b97d2e50fe80f213348cf533bc05cae4e",
+    "question": "關於海洋基本法的描述，何者有誤？",
+    "options": [
+      "為打造優質海洋國家，深化多元海洋文化",
+      "政府應尊重、維護、保存傳統用海智慧等海洋文化資產",
+      "在海洋資源使用完前，應該盡量使用",
+      "強化國民親海、愛海意識"
+    ],
+    "type": "單選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:29:52.786Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "52e0157dccda9241bc5d685b855a8b011d6f68f11ccf07efcb0edab8aa8bb337",
+    "question": "請問目前太平島上的國旗是至今第幾面國旗？",
+    "options": [
+      "第一面國旗",
+      "第二面國旗",
+      "第三面國旗",
+      "第四國旗"
+    ],
+    "type": "單選",
+    "course": "歷史記憶與臺灣海洋文化的形塑",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T06:29:52.787Z",
+    "review_state": "awaiting_candidate"
   }
 ]
