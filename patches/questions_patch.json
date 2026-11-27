@@ -142984,5 +142984,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-26T00:20:11.360Z"
     }
+  },
+  {
+    "question": "將已經調整完成的提示詞建立成 Gem，主要可以解決下列哪一項問題？",
+    "type": "單選",
+    "options": [
+      "讓所有公文自動核定",
+      "完全取代人工判斷",
+      "減少每次重新尋找、複製及輸入提示詞的時間",
+      "保證 AI 每次產出的內容完全正確"
+    ],
+    "course": "點石成Gem-打造你的AI工作搭檔",
+    "answer": "減少每次重新尋找、複製及輸入提示詞的時間",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "減少每次重新尋找、複製及輸入提示詞的時間",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047493",
+          "quote": "降低重複提問與重複操作成本"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T02:20:31.194Z"
+    }
   }
 ]

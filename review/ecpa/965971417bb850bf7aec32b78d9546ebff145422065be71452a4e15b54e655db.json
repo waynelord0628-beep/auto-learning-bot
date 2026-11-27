@@ -143,17 +143,31 @@
     ],
     "type": "單選",
     "course": "點石成Gem-打造你的AI工作搭檔",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "減少每次重新尋找、複製及輸入提示詞的時間",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-10-06T02:54:22.579Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:41:58.690Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T02:20:32.244Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "減少每次重新尋找、複製及輸入提示詞的時間",
+      "sources": [
+        {
+          "url": "https://elearn.hrd.gov.tw/info/10047493",
+          "quote": "降低重複提問與重複操作成本"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T02:20:31.194Z"
+    },
+    "resolved_answer": "減少每次重新尋找、複製及輸入提示詞的時間"
   },
   {
     "id": "7578b8a21d75cc30ca419ece26f105dc1cb1d1e5ad90de7cbcab5d4790eec145",
