@@ -205,5 +205,81 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T08:51:19.877Z",
     "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "4d94b68090ab767e20070d659f9a77af62090525f0785ea85854d3590a5d8f8d",
+    "question": "各機關依規定應於辦公、活動場所之各出入口明顯處所張貼禁止競選活動告示之期間為何？",
+    "options": [
+      "自選舉投票前1個月至投票日止",
+      "自選舉委員會發布選舉公告日起至投票日止",
+      "自候選人名單公告之日起至投票日止",
+      "自選舉委員會發布選舉公告日起至該次選舉當選人名單公告日止"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. 自選舉委員會發布選舉公告日起至投票日止",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:52:05.697Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "b63967a6805d210fce1a1e8e3e10e63fb552e608e5d9176e62fb529e5b591459",
+    "question": "公務人員可否參加所支持政黨舉辦之選舉造勢大會？",
+    "options": [
+      "想去就去，無時間限制",
+      "完全不行",
+      "可以，但須於下班時間或向機關請假後方得為之",
+      "可以，但須於留職停薪期間為之"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "可以，但須於下班時間或向機關請假後方得為之",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T08:52:05.700Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "8f39b0ea1fb87fd9cfb7a232134ac2fa3aeb267a4a152edd3987bcb6e6300004",
+    "question": "某機關受理公職候選人租借活動中心舉辦競選活動，請問下列何者正確？",
+    "options": [
+      "選舉期間一律不得租借",
+      "只要是公職候選人申請，均一律拒絕",
+      "只要秉持公平原則辦理，並不違反行政中立",
+      "機關可依喜好決定租借對象"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "3. 只要秉持公平原則辦理，並不違反行政中立",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:52:05.700Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "536d38635335ec9d7b19d0e2d44d01862c8761b20686ffbf347534ef5e919176",
+    "question": "下列何者「非」公務人員行政中立法之適（準）用對象？",
+    "options": [
+      "依法任用之公務人員",
+      "公立學校校長",
+      "工友",
+      "監察委員"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "工友",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T08:52:05.707Z",
+    "review_state": "candidate_ready"
   }
 ]
