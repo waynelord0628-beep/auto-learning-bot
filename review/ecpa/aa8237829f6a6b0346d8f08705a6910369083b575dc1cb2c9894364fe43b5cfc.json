@@ -250,5 +250,22 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T15:25:50.561Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "1fb81fe824506321b497a035027512431ced0518e08f19c04bd707e0282e2e11",
+    "question": "2003年海生館在臺北開過一場記者會，發表臺灣白海豚的存在。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋保育的迷霧與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T15:26:26.254Z",
+    "review_state": "candidate_ready"
   }
 ]
