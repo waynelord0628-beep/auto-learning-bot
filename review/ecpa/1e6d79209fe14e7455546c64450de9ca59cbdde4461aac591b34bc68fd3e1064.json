@@ -415,5 +415,24 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T04:53:22.611Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "08f5c763ba74a8168fc98e09cd06957e30ab73369586723b0be927a654f99565",
+    "question": "現今我國海巡署機動海巡隊所屬「巡防救難艦」上，配置有相關海難救助裝備，下列何者正確？",
+    "options": [
+      "攀爬網",
+      "救助籃",
+      "水上摩托車",
+      "直升機輔降系統"
+    ],
+    "type": "多選",
+    "course": "【海洋安全】國際海事安全的前瞻及策進-海難救助的現況與案例",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T16:10:00.002Z",
+    "review_state": "awaiting_multiselect_support"
   }
 ]
