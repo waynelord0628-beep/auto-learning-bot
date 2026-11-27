@@ -273,5 +273,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:42.327Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "e51d125f7d830c7f0b158251f143a2c2b1657b27dcb675ff8ef0bcf62167485a",
+    "question": "臺灣海峽最窄處有70浬，最寬處有220浬，因此是典型的領海峽，適用過境通行制。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:31:16.415Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "38ab1acc23e09793b769e2fa39b7d9959ebd41e35b0be1044064799e700ffdbe",
+    "question": "根據「南海仲裁案」中仲裁庭判定的標準，1982年《聯合國海洋法公約》第121條所提及的「維持人類居住或其本身的經濟生活」所指為何？",
+    "options": [
+      "健全的國家政府體制",
+      "完整的產業活動",
+      "駐紮在島礁上的武裝部隊",
+      "穩定的人類社群"
+    ],
+    "type": "單選",
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "穩定的人類社群",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T02:31:16.416Z",
+    "review_state": "candidate_ready"
   }
 ]
