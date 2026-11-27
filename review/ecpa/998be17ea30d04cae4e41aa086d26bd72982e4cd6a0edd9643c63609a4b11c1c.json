@@ -284,16 +284,30 @@
     ],
     "type": "單選",
     "course": "115年實驗室生物安全",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-09-19T14:27:29.042Z",
-    "review_state": "candidate_ready",
-    "verify_attempts": 1,
+    "review_state": "source_reviewed",
+    "verify_attempts": 2,
     "verify_policy": "course_first_v2",
-    "verify_after": "2026-10-27T08:42:03.406Z",
-    "verification_status": "insufficient_sources"
+    "verify_after": "2026-12-04T09:20:21.260Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0050029",
+          "quote": "生物安全：指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T09:20:20.290Z"
+    },
+    "resolved_answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施"
   }
 ]

@@ -143107,5 +143107,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T07:21:02.440Z"
     }
+  },
+  {
+    "question": "關於「生物安全 (Biosafety)」與「生物保全 (Biosecurity)」的定義，下列何者描述正確？",
+    "type": "單選",
+    "options": [
+      "生物安全是指防止有價資產未經授權而取得或遺失",
+      "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
+      "生物保全是為了保護實驗環境免受化學毒物污染",
+      "兩者定義完全相同，皆指防護人員不被病原體感染"
+    ],
+    "course": "115年實驗室生物安全",
+    "answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "生物安全是指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施",
+      "sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0050029",
+          "quote": "生物安全：指為預防工作人員意外暴露，或預防洩漏感染性生物材料，而實施之防護措施。"
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-27T09:20:20.290Z"
+    }
   }
 ]
