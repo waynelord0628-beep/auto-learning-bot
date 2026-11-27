@@ -34,5 +34,176 @@
       "checked_at": "2026-11-23T00:19:56.312Z"
     },
     "resolved_answer": "得加入政黨"
+  },
+  {
+    "id": "eb504538b10879c7c47d1890207a37e389e24b2ff70ce5e69aaa5020fc4bd534",
+    "question": "公務人員登記為公職候選人者，應依規定請事假或休假之期間為何？",
+    "options": [
+      "自候選人抽籤號碼公布之日至投票日止",
+      "自登記為公職候選人之日至投票日止",
+      "自選舉投票前20日至投票日止",
+      "自候選人名單公告之日起至投票日止"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T08:51:19.871Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "bbe9399f7cb42e61da77ecb9b0b6cbefe9a3ffeab3604394337d9e8bcae957f7",
+    "question": "公務人員穿戴支持特定候選人的競選徽章到辦公場所上班，是否符合公務人員行政中立法規定？",
+    "options": [
+      "符合",
+      "不符合",
+      "主管同意即可",
+      "只要沒有公開拉票即可"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "2. 不符合",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.872Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "ed18137581cc144b4f07e5b66bc07e72e51106c54dba9acb251a70a1b8bd4b94",
+    "question": "公務人員因行政中立有關事項，遭受懲處之不利處分時，得依下列何者規定，請求救濟？",
+    "options": [
+      "公務員懲戒法",
+      "公務人員保障法",
+      "公務人員行政中立法",
+      "訴願法"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1. 公務員懲戒法",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.872Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "7301dbfb3d0d9b4917caa4be6179ab74b5a88b0bccc4b8df9343920618e80bec",
+    "question": "公務人員使用通訊軟體發送訊息的行為，下列何者「違反」公務人員行政中立法？",
+    "options": [
+      "於公務群組中要求所屬公務人員連署市長罷免活動",
+      "於下班時間將候選人政見轉傳給大學同學",
+      "於下班時間在好友群組中閒聊候選人政見",
+      "於家庭群組中發送投票日期的提醒訊息"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1. 於公務群組中要求所屬公務人員連署市長罷免活動",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.873Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "9f3d60b2802da08bfa4b9027efd7435c20b15e71500ad6d0dd107698cadaca2c",
+    "question": "公務人員在網路上的行為，下列何者違反公務人員行政中立法？",
+    "options": [
+      "下班時間使用私人臉書帳號(不具銜)加入公職候選人粉絲團",
+      "下班時間在私人臉書分享個人生活照片",
+      "在臉書上以具銜且具名方式，留言支持特定公職候選人",
+      "轉傳政府公告的防疫政策資訊"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "3. 在臉書上以具銜且具名方式，留言支持特定公職候選人",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.874Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "4ed8407d1db7c286236a792d043bfe899e6db4c311a6e403c3d76d135dc64a31",
+    "question": "下列何者「不」屬於公務人員行政中立法所稱「行政資源」？",
+    "options": [
+      "以政府機關法定預算所辦理之活動",
+      "政府機關之辦公場所及房舍",
+      "公務人員私人社群媒體帳號",
+      "依聘用人員聘用條例進用之人員"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "3. 公務人員私人社群媒體帳號",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.875Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "f9be868eb237a08118169cfbdc4c9dc2679b44df997a8ad1d8378c0eeaf18586",
+    "question": "依公務人員行政中立法第9條規定，公務人員不得為支持、反對特定政黨或公職候選人，從事下列哪種行為？",
+    "options": [
+      "主持集會、發起遊行或領導連署活動",
+      "致贈祝賀花籃",
+      "配偶參選時，在大眾傳播媒體僅具名不具銜刊登廣告",
+      "於私人住所張貼公職候選人海報"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "exam_failed_unverified",
+    "previous_answer": "1. 主持集會、發起遊行或領導連署活動",
+    "candidate_answer": null,
+    "source": "reported_question",
+    "created_at": "2026-11-27T08:51:19.876Z",
+    "review_state": "awaiting_evidence"
+  },
+  {
+    "id": "ca9f20a0e0fa08f4299140db05aadea905f6742007895e89922815f4d9c4bfd0",
+    "question": "公務人員可以加入政黨嗎？",
+    "options": [
+      "完全不行",
+      "可以，但不得兼任黨員代表",
+      "可以，而且也可以兼任黨員代表",
+      "只能加入執政黨"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T08:51:19.877Z",
+    "review_state": "awaiting_candidate"
+  },
+  {
+    "id": "ce81f630586f7740231e8a9a011371fd5f23051bf6a7e33f1eb7dc5e62e3990f",
+    "question": "下列何者是公務人員行政中立法所稱「行政資源」？",
+    "options": [
+      "公物",
+      "公款",
+      "機關人力",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "行政中立與執法公正",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T08:51:19.877Z",
+    "review_state": "awaiting_candidate"
   }
 ]
