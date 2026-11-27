@@ -328,5 +328,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-27T00:05:17.423Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "c6122ce889b6914a4a0d230b7dd53f0f9411fb674d8f0d065e19c06f3c031037",
+    "question": "根據產業屬性，將海洋產業類劃分為海洋初級產業、二級產業、三級產業，以下何者不屬於海洋三級產業？",
+    "options": [
+      "海水養殖業",
+      "海洋交通運輸業",
+      "海洋科技產業",
+      "船舶產業"
+    ],
+    "type": "多選",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T04:54:36.766Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "508f0116adce93c1626b113487efec60f65186589170aba5eff5553dc64d2325",
+    "question": "海洋深層水（Deep Ocean Water, DOW）係指水深200公尺以下之深層海水，光線無法達到，具有低溫、清淨、熟成、富營養鹽、富礦物質等特性。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "【海洋產業】藍色經濟與海洋產業",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-27T04:54:36.768Z",
+    "review_state": "candidate_ready"
   }
 ]
