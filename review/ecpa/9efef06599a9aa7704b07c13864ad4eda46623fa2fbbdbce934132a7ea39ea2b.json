@@ -482,7 +482,12 @@
     "candidate_answer": "斷捨離（不要好奇，不點開，直接刪除）",
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:40:09.445Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T10:20:02.569Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "0ffb5b9c70936ba0076c3d6054489bbd225a6d9c31a961ed2690ebdd1422e710",
