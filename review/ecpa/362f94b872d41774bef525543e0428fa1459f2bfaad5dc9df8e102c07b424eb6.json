@@ -286,5 +286,41 @@
     "source": "ai_unverified",
     "created_at": "2026-11-28T06:30:37.450Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "a74c3442e6fe75aa148d71cbc7eea5c1cb07b207c8d0928c17d6eeb11503069f",
+    "question": "海洋封閉論是支持國家可以對公海主張主權。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:31:15.312Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "685ae0ef3d60b35d1dc4d8741c841ef0014c7118ec2082c635abd79cb5ba018e",
+    "question": "什麼是南海仲裁庭判斷島嶼的條件？",
+    "options": [
+      "島嶼需四面環水",
+      "島嶼需有人類居住",
+      "島嶼本身具有經濟生活",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:31:15.313Z",
+    "review_state": "candidate_ready"
   }
 ]
