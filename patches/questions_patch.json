@@ -143178,5 +143178,30 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-27T14:20:50.359Z"
     }
+  },
+  {
+    "question": "什麼是 Open Relay Attack (開放轉發攻擊)？",
+    "type": "單選",
+    "options": [
+      "駭客遠端打開你的光碟機",
+      "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
+      "利用開放原始碼的軟體漏洞",
+      "一種針對社群媒體的攻擊"
+    ],
+    "course": "公務信件釣魚攻防指南",
+    "answer": "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
+    "source": "official_source_reviewed",
+    "source_review": {
+      "answer": "郵件伺服器安全組態錯誤，未經身分驗證即允許任何人借用伺服器轉發信件",
+      "sources": [
+        {
+          "url": "https://support.microsoft.com/en-gb/support/known-issues/i-receive-a-550-553-or-relay-prohibited-error-when-sending-email-messages",
+          "quote": "Under a so-called open relay server, there were no restrictions on who was allowed to send via the SMTP server."
+        }
+      ],
+      "method": "official_source_two_pass_v1",
+      "model": "gpt-6-luna",
+      "checked_at": "2026-11-28T05:20:40.672Z"
+    }
   }
 ]
