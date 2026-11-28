@@ -178,5 +178,113 @@
     "source": "ai_unverified",
     "created_at": "2026-11-28T07:38:49.237Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "54774a49fbeac5b86e97da913fe8bce416b0e901e6f378d6cabd1c219cfe9a5f",
+    "question": "從《文化資產保存法》中定義說明考古遺址「指蘊藏過去人類生活遺物、遺跡，而具有歷史、美學、民族學或人類學價值之場域。」",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.126Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "1642f527ecf7a03335b73eedf66b518acf4b905fa71eb1b19075f210e2735659",
+    "question": "自1896年發現紀錄第一個遺址，一百多年以來台灣的考古遺址研究以有文字之前的史前時期為主。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.128Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "18dd38d4337bfbbee9872b192853bcffb5a57f7f3b907c3d007d6997c84337c7",
+    "question": "大部分臺灣人都知道「台灣固無史也。荷人啟之、鄭氏作之、清代營之，開物成務，以立我丕基，至於今三百有餘年矣。」請問出自那一本書。",
+    "options": [
+      "清代《臺灣府志》",
+      "連橫《臺灣通史》",
+      "余文儀《續修臺灣府志》",
+      "王必昌《重修臺灣縣志》"
+    ],
+    "type": "單選",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "連橫《臺灣通史》",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.128Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "da183845a3016229a5fbf7e24804ad8195c16867e57c2f0c5fd1b8f1fe1066d8",
+    "question": "臺灣主要由那二大文化體系所構成的國家？",
+    "options": [
+      "南島語系的民族與文化",
+      "漢文化",
+      "清文化",
+      "唐文化"
+    ],
+    "type": "多選",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.129Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "6f74914e400239fa9beac162e195b35d0e76a17921c6c0a2ed83e45495c38fe1",
+    "question": "臺灣史前時代文化遺址：「與更早的史前文化無直接關聯，可能是乘船來的，也可能是南島語系的祖先，至於與後來史前文化的關聯性，目前也尚難定論。」請問是哪一史前文化？",
+    "options": [
+      "長濱文化",
+      "大坌坑文化",
+      "芝山岩文化",
+      "十三行文化"
+    ],
+    "type": "單選",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "長濱文化",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.129Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "45525da264d952a2150c9144151b3b18d7c2c77efb16e635ccfca31108d7a24d",
+    "question": "文資法第一條說明為保存及活用文化資產，保障文化資產保存普遍平等之參與權，充實國民精神生活，發揚多元文化所設立。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:39:29.130Z",
+    "review_state": "candidate_ready"
   }
 ]
