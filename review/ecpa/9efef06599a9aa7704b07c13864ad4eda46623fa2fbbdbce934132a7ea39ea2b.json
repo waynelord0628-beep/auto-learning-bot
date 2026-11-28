@@ -530,7 +530,12 @@
     "candidate_answer": "分析信件語氣，若平時溫和的主管突然用語「極度急迫」，則立刻攔截",
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:40:51.614Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T10:20:32.006Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "ad83f1897f936b7d1dd7080369a5d7a6eaaf48f38c4d304f6e73186da721fdc7",
