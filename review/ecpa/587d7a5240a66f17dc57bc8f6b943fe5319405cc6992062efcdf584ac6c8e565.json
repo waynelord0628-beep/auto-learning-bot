@@ -286,5 +286,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-28T07:39:29.130Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "4a2cb0926240571c660f5e5a3aa81f66f4df18835bdcd250be8f2ac874edb465",
+    "question": "俗稱百合花形的圖飾？",
+    "options": [
+      "熱蘭遮城出土白陶煙斗",
+      "阿姆斯特丹市徽紋樣",
+      "德國萊茵地區窯場",
+      "荷蘭德爾夫特瓷場"
+    ],
+    "type": "單選",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "荷蘭德爾夫特瓷場",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:40:05.199Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "4c2ab3ae272058f03fda352109c3c946aa38ba3c14b8549b0df4363767773662",
+    "question": "下列有關臺灣新石器文化的敘述，哪些正確？",
+    "options": [
+      "大坌坑文化：屬新石器時代早期",
+      "圓山文化：以貝塚聞名",
+      "十三行文化：已使用鐵器",
+      "卑南文化：有大量玉器陪葬品"
+    ],
+    "type": "多選",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:40:05.200Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "fd0dbd9634f76f3ef8473e957962a6157e3eae266d894f97bf5a412d0a6134f1",
+    "question": "臺灣歷史的大變局在十七世紀二十年代荷蘭、西班牙兩大歐洲海權商貿國家。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "臺灣考古遺址與南島文化",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T07:40:05.200Z",
+    "review_state": "candidate_ready"
   }
 ]
