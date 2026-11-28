@@ -434,7 +434,12 @@
     "candidate_answer": "混淆視覺上相似的字元（如數字 0 與英文 o，數字 1 與英文 l）",
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:40:09.441Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T09:20:11.934Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   },
   {
     "id": "5558abfadb3504fb8b0644ee8e91ac50977876ef0a8412d2338f10c3cd067394",
