@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "張燮",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.524Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T12:19:50.631Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "陳第",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:45.981Z"
+    },
+    "resolved_answer": "陳第"
   },
   {
     "id": "a40a60cb3640d6592ed04f444cd11b98f101d145f64439a604339d936fabec9c",
@@ -49,13 +67,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "長崎",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.527Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "長崎",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:46.277Z"
+    },
+    "resolved_answer": "長崎",
+    "verification_status": "source_supported"
   },
   {
     "id": "82e3f41d14cea5dbc506d1b33808c7564c4ce858803a3d761ea3986fb13b637d",
@@ -68,13 +100,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "俄國",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.528Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "法國",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:46.559Z"
+    },
+    "resolved_answer": "法國",
+    "verification_status": "source_supported"
   },
   {
     "id": "c34bf8c695b389f944c4d754ab277391745b2435cf976c0bcb912e0dbae80dd3",
@@ -85,13 +131,27 @@
     ],
     "type": "是非",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.528Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:46.843Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "443894a07dbb9e4838ae0c6b3f4bcd0268646805bf1e3f55591023c4f2f8f48b",
@@ -104,13 +164,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "強權競逐的舞台",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.529Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "強權競逐的舞台",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:47.114Z"
+    },
+    "resolved_answer": "強權競逐的舞台",
+    "verification_status": "source_supported"
   },
   {
     "id": "02f712674d41e5962d978865667847c0aa4bcb0d6cbd5e46d8b0063b0022c51c",
@@ -140,13 +214,27 @@
     ],
     "type": "是非",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.530Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:47.540Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d0ee12db98e7dfd93518d7bcb58123691a5a48291fb6952f3e679a8558ed4b42",
@@ -159,13 +247,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "黑潮",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.532Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "黑潮",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:47.769Z"
+    },
+    "resolved_answer": "黑潮",
+    "verification_status": "source_supported"
   },
   {
     "id": "72ce68c64008c0a433b77fe02abcfd4892ff868b82324c47ba19884812b55073",
@@ -178,13 +280,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "葡萄牙人",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:24:56.533Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "葡萄牙人",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:48.026Z"
+    },
+    "resolved_answer": "葡萄牙人",
+    "verification_status": "source_supported"
   },
   {
     "id": "6d8fcbe4012235a377b0ffa032be6e297b5e21fa096d69d7e8722908088adce3",
@@ -197,13 +313,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "廣州十三行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.659Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "廣州十三行",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:48.031Z"
+    },
+    "resolved_answer": "廣州十三行",
+    "verification_status": "source_supported"
   },
   {
     "id": "4820c83d40055d18253384b8a71cac9fdf75d3d60229a59eaf6e020dd43fed1f",
@@ -216,13 +346,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "西洋嵾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "西洋嵾",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:48.290Z"
+    },
+    "resolved_answer": "西洋嵾",
+    "verification_status": "source_supported"
   },
   {
     "id": "c9e48ab7d1b51898bc526a4fdb32b3b08e6d5933698fee80473259b81d129ffd",
@@ -235,13 +379,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1624",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1624",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:48.589Z"
+    },
+    "resolved_answer": "1624",
+    "verification_status": "source_supported"
   },
   {
     "id": "f280f411a7cd5f478a0690c80245e38deba7fa76713ab7affa1e587a371b2a45",
@@ -254,13 +412,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "英國",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "英國",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:48.837Z"
+    },
+    "resolved_answer": "英國",
+    "verification_status": "source_supported"
   },
   {
     "id": "3e620a32bea9d76437e0d855aa7048ecc68b3e2358056d02fee241c79733e563",
@@ -273,13 +445,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "1624",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.661Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "1626",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:49.066Z"
+    },
+    "resolved_answer": "1626",
+    "verification_status": "source_supported"
   },
   {
     "id": "13f3f7daa5e06c3352edd12c6ade5dd21096ae4a7c7a8cc407acf118ff8c8073",
@@ -310,13 +496,27 @@
     ],
     "type": "是非",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-25T21:25:36.662Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:49.334Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "73bc7c7d5402d10d7fef821775a7972939f0865374b58fcdc179da3f7024e40d",
@@ -329,13 +529,27 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "林道乾",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-26T15:36:25.036Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "蔡牽",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:49.609Z"
+    },
+    "resolved_answer": "蔡牽",
+    "verification_status": "source_supported"
   },
   {
     "id": "66e1696eb537a837b3326780312b4065b88cab02539c4c3462eabd6d18024a60",
@@ -348,12 +562,26 @@
     ],
     "type": "單選",
     "course": "臺灣海域五百年",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "貝紐夫斯基",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-26T15:36:25.037Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "貝紐夫斯基",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/02/ee_314.html",
+          "title": "「臺灣海域五百年」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T12:19:49.873Z"
+    },
+    "resolved_answer": "貝紐夫斯基",
+    "verification_status": "source_supported"
   }
 ]
