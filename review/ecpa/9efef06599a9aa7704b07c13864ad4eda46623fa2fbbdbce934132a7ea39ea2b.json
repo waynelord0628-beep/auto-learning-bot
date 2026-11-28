@@ -580,6 +580,11 @@
     "candidate_answer": "不害怕、不隱瞞，立刻通報 IT 部門",
     "source": "ai_unverified",
     "created_at": "2026-11-03T13:41:23.601Z",
-    "review_state": "candidate_ready"
+    "review_state": "candidate_ready",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T11:20:29.468Z",
+    "verification_status": "insufficient_sources",
+    "service_failures": 0
   }
 ]
