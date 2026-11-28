@@ -178,5 +178,113 @@
     "source": "reported_question",
     "created_at": "2026-11-28T06:29:56.078Z",
     "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "f373677c89e9ecb3fb6d2807290ecb632759b64fb0a3e7cbd5acfd8d35151274",
+    "question": "主權與主權權利的區別，其中行使「主權」的空間為專屬經濟海域和大陸礁層。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "錯誤",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.448Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "fe93cba0938b5bb20089106eeeeeb74774192b45a5b26c190d7222883ec09e18",
+    "question": "在權力與權利的衝突中哪些是指權利的部份？",
+    "options": [
+      "POWER",
+      "RIGHTs",
+      "國際關係",
+      "國際法"
+    ],
+    "type": "多選",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.449Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "7ee1ea52f09f64c03988035092be3cb42145546ebcdd966a087791cae01d019e",
+    "question": "《聯合國海洋法公約》規範的鄰接區可以執行哪些管轄權利？",
+    "options": [
+      "海關",
+      "財政",
+      "移民",
+      "衛生"
+    ],
+    "type": "多選",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": null,
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.449Z",
+    "review_state": "awaiting_multiselect_support"
+  },
+  {
+    "id": "fed1328d668fcb5b828034b61e3231bcaf07d222b2537c79aa20614e28b5843b",
+    "question": "賓克舒刻(C. Bynkershoek)於1702年所提出關於海洋權力主張為何？",
+    "options": [
+      "海洋是無主物",
+      "國家權力以武器所及範圍為限",
+      "於海洋自由論與海洋封閉論之後提出",
+      "以上皆是"
+    ],
+    "type": "單選",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "以上皆是",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.450Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "89a1ae32bc4d2e3522c0a86663e2838cab785df0d64192dc54f32ed2dbfc698c",
+    "question": "《聯合國海洋法公約》所規範的島嶼制度，其定義係指：島嶼是四面環水並在高潮時高於水面的自然形成的陸地區域。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.450Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "927c06257da438c6d0f06df49807cbc7b914ae92f77351128a7b933551c9207a",
+    "question": "美國自由航行行動是保證美國軍事力量在全世界機動暢通為目的。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "全球海洋法政發展趨勢：法律與政治的衝突",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T06:30:37.450Z",
+    "review_state": "candidate_ready"
   }
 ]
