@@ -439,5 +439,60 @@
     "source": "ai_unverified",
     "created_at": "2026-11-28T08:46:19.665Z",
     "review_state": "candidate_ready"
+  },
+  {
+    "id": "cf69105d49f0532a0575dd37d203b899d7c3a393607561468712cbaca714692f",
+    "question": "海洋生物多樣性的價值不包含以下哪項？",
+    "options": [
+      "棲地破壞",
+      "維生系統",
+      "生技產業",
+      "仿生學"
+    ],
+    "type": "單選",
+    "course": "海洋生物多樣性及其保育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "棲地破壞",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T08:47:01.413Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "f901659a7ac80236994e83e30064132f4f0619d5d82dc75ef0813254ab96c1ad",
+    "question": "不少諾貝爾獎醫學及化學獎得主歸功於利用海生物為研究材料。",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "type": "是非",
+    "course": "海洋生物多樣性及其保育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "正確",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T08:47:01.414Z",
+    "review_state": "candidate_ready"
+  },
+  {
+    "id": "5af915ddb7127ce0b09d405d741c5927dc156ed2475bbb7cabe82537d72dff75",
+    "question": "以下在食物鏈之中，哪一種位於最高的位置？",
+    "options": [
+      "水母",
+      "小魚",
+      "蝦蟹",
+      "大魚"
+    ],
+    "type": "單選",
+    "course": "海洋生物多樣性及其保育",
+    "status": "pending",
+    "reason": "missing",
+    "previous_answer": null,
+    "candidate_answer": "大魚",
+    "source": "ai_unverified",
+    "created_at": "2026-11-28T08:47:01.416Z",
+    "review_state": "candidate_ready"
   }
 ]
