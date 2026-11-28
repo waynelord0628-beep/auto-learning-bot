@@ -10,13 +10,31 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "過境通行",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.655Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "verify_attempts": 1,
+    "verify_policy": "course_first_v2",
+    "verify_after": "2026-12-05T11:20:56.613Z",
+    "verification_status": "source_supported",
+    "service_failures": 0,
+    "source_review": {
+      "answer": "無害通過",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:49.582Z"
+    },
+    "resolved_answer": "無害通過"
   },
   {
     "id": "ec52e0feafabed192163dd12839b7e662685592effb40295be426e55c0552241",
@@ -29,13 +47,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "無害通過權",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.658Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "無害通過權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.124Z"
+    },
+    "resolved_answer": "無害通過權",
+    "verification_status": "source_supported"
   },
   {
     "id": "a351c181a7cb80a90ae35e77af2e55e885f4060857845465329d6ae5acacad0c",
@@ -46,13 +78,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.631Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "f7d0f8e42b1e6307c937135127bf0a30dcadf9e02f810630e8967beb0f7d0958",
@@ -63,13 +109,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.660Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.674Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "5637c3f7f2ed44c3820f4d129c8da2baaf7c1b42945a2ecf287939dcac8a356e",
@@ -80,13 +140,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.663Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.716Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "d88e4fe0d2194a1518445ac4e2adfdcc891954b9d0df74e1d7b2165fe6f77ba0",
@@ -97,13 +171,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.667Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:51.206Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "00e7fc618c03257fef0680fb34b286a10243685ae730df124a440dc88429b799",
@@ -135,13 +223,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "平行線法",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.670Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "平行線法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:51.641Z"
+    },
+    "resolved_answer": "平行線法",
+    "verification_status": "source_supported"
   },
   {
     "id": "abb2ed4fbc4c9da99cc7e225089ffcef4c2804ef96d6882efed3b9ec9d9322f0",
@@ -171,13 +273,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:07.673Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:52.094Z"
+    },
+    "resolved_answer": "正確",
+    "verification_status": "source_supported"
   },
   {
     "id": "c8928f3048cf60a7a29a2f4be33b43eb1c36fef0410427710e4ea356b368955e",
@@ -228,13 +344,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "內水",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:42.325Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "內水",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:52.661Z"
+    },
+    "resolved_answer": "內水",
+    "verification_status": "source_supported"
   },
   {
     "id": "6e2e19594e1155d8a0e57d946800fa1914dc157ae9cb0f1ac6b7b65e2c69ed02",
@@ -266,13 +396,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "陸地面積大於１平方公里",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:30:42.327Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "陸地面積大於１平方公里",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:53.088Z"
+    },
+    "resolved_answer": "陸地面積大於１平方公里",
+    "verification_status": "source_supported"
   },
   {
     "id": "e51d125f7d830c7f0b158251f143a2c2b1657b27dcb675ff8ef0bcf62167485a",
@@ -283,13 +427,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "錯誤",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:31:16.415Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:53.523Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "38ab1acc23e09793b769e2fa39b7d9959ebd41e35b0be1044064799e700ffdbe",
@@ -302,13 +460,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "穩定的人類社群",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T02:31:16.416Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "穩定的人類社群",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:54.059Z"
+    },
+    "resolved_answer": "穩定的人類社群",
+    "verification_status": "source_supported"
   },
   {
     "id": "7f23f5d37c6f990cf6cefb36bb3c0548e9b3d8a6e2f23ad9f32a957990f3d863",
@@ -319,13 +491,27 @@
     ],
     "type": "是非",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "正確",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T04:56:26.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:54.503Z"
+    },
+    "resolved_answer": "錯誤",
+    "verification_status": "source_supported"
   },
   {
     "id": "5750c443b91051f95f97ef4fc3e5b792a7881ddd85e73a27511b87fb58487b58",
@@ -338,13 +524,27 @@
     ],
     "type": "單選",
     "course": "【海洋法政】臺灣海洋法律、政策與實務",
-    "status": "pending",
+    "status": "resolved",
     "reason": "missing",
     "previous_answer": null,
-    "candidate_answer": "半徑不超過500公尺的安全地帶",
+    "candidate_answer": null,
     "source": "ai_unverified",
     "created_at": "2026-11-27T04:56:26.551Z",
-    "review_state": "candidate_ready"
+    "review_state": "source_reviewed",
+    "source_review": {
+      "answer": "半徑不超過500公尺的安全地帶",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:55.106Z"
+    },
+    "resolved_answer": "半徑不超過500公尺的安全地帶",
+    "verification_status": "source_supported"
   },
   {
     "id": "eeb1ec9eb2e20f564b4921c75165a38dee6c075d81246af2feda4728b14b7824",

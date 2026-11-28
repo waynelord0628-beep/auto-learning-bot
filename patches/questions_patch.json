@@ -143203,5 +143203,341 @@
       "model": "gpt-6-luna",
       "checked_at": "2026-11-28T05:20:40.672Z"
     }
+  },
+  {
+    "question": "倘國際通行的海峽，其所連接的專屬經濟區或公海之一部分，而另一部分為外國領海，則該海峽適用何種通行制度？",
+    "type": "單選",
+    "options": [
+      "過境通行",
+      "無害通過",
+      "自由航行",
+      "自由飛越"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "無害通過",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "無害通過",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:49.582Z"
+    }
+  },
+  {
+    "question": "當國家採用直線基線法制度，將原本未認為是內水的區域被包圍在內成為內水，則此種水域應有本公約規定的何種通行制度？",
+    "type": "單選",
+    "options": [
+      "過境通行權",
+      "自由航行權",
+      "無害通過權",
+      "內河載運權"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "無害通過權",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "無害通過權",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.124Z"
+    }
+  },
+  {
+    "question": "太平島是否能夠主張200浬專屬經濟區或大陸礁層，其關鍵在於名稱是否稱為島或礁。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.631Z"
+    }
+  },
+  {
+    "question": "所謂低潮高地是指四面環水，高潮時高於水面的自然形成的陸地區域。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.674Z"
+    }
+  },
+  {
+    "question": "1982年聯合國海洋法公約規範，在領海峽(海峽寬在兩岸領海寬之和以內的海峽)兩岸分屬不同國家，如果它是用於國際航行的，規定該海峽適用過境通行權。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:50.716Z"
+    }
+  },
+  {
+    "question": "人工島嶼無法享有領海、鄰接區、專屬經濟區及大陸礁層。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:51.206Z"
+    }
+  },
+  {
+    "question": "下列何者並非1982年《聯合國海洋法公約》規範的領海基線畫設方法？",
+    "type": "單選",
+    "options": [
+      "直線基線法",
+      "正常基線法",
+      "平行線法",
+      "混合基線法"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "平行線法",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "平行線法",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:51.641Z"
+    }
+  },
+  {
+    "question": "當一個海峽存在便利航道，穿過專屬經濟區或公海，此種海峽因此而不適用過境通行權，在專屬經濟區或公海部分適用自由航行權，在領海部分則適用無害通過權。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "正確",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "正確",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:52.094Z"
+    }
+  },
+  {
+    "question": "依據目前的海洋法公約規範，當大陸國家在海外的洋中群島採用直線基線畫設領海基線後，其所包覆的水域稱之為：",
+    "type": "單選",
+    "options": [
+      "內水",
+      "領海",
+      "鄰接區",
+      "專屬經濟區"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "內水",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "內水",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:52.661Z"
+    }
+  },
+  {
+    "question": "以下對於島嶼定義的說法，下列何者有誤？",
+    "type": "單選",
+    "options": [
+      "四面環水的陸地區域",
+      "陸地面積大於１平方公里",
+      "高潮時高於水面",
+      "自然形成的陸地區域"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "陸地面積大於１平方公里",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "陸地面積大於１平方公里",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:53.088Z"
+    }
+  },
+  {
+    "question": "臺灣海峽最窄處有70浬，最寬處有220浬，因此是典型的領海峽，適用過境通行制。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:53.523Z"
+    }
+  },
+  {
+    "question": "根據「南海仲裁案」中仲裁庭判定的標準，1982年《聯合國海洋法公約》第121條所提及的「維持人類居住或其本身的經濟生活」所指為何？",
+    "type": "單選",
+    "options": [
+      "健全的國家政府體制",
+      "完整的產業活動",
+      "駐紮在島礁上的武裝部隊",
+      "穩定的人類社群"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "穩定的人類社群",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "穩定的人類社群",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:54.059Z"
+    }
+  },
+  {
+    "question": "1982年聯合國海洋法公約規定，大陸國家的洋中群島，有關其領海基線的劃設，比照群島制度。",
+    "type": "是非",
+    "options": [
+      "正確",
+      "錯誤"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "錯誤",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "錯誤",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:54.503Z"
+    }
+  },
+  {
+    "question": "下列何者是人工島礁得以享有的權利？",
+    "type": "單選",
+    "options": [
+      "內水",
+      "領海",
+      "專屬經濟區",
+      "半徑不超過500公尺的安全地帶"
+    ],
+    "course": "【海洋法政】臺灣海洋法律、政策與實務",
+    "answer": "半徑不超過500公尺的安全地帶",
+    "source": "course_answer_page",
+    "source_review": {
+      "answer": "半徑不超過500公尺的安全地帶",
+      "sources": [
+        {
+          "url": "https://www.peigogo.com/2024/03/ee_233.html",
+          "title": "「【海洋法政】臺灣海洋法律、政策與實務」[解答]@e等公務園+e學中心 | PeiGoGo"
+        }
+      ],
+      "method": "course_answer_exact_v1",
+      "model": null,
+      "checked_at": "2026-11-28T11:20:55.106Z"
+    }
   }
 ]
